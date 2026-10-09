@@ -1,0 +1,29 @@
+{
+  "asOf": "2026-10-09",
+  "newRecords": 45,
+  "counts": {
+    "部署与重构": 7,
+    "健康监测与运行架构": 6,
+    "观测任务与不确定调度": 7,
+    "星地通信与测控排班": 6,
+    "通信与计算资源协同": 6,
+    "态势感知与风险决策": 7,
+    "分布式约束与协商": 6
+  },
+  "roles": {
+    "综述核心": 19,
+    "相邻方法": 20,
+    "背景支撑": 6
+  },
+  "previous": 71,
+  "cumulative": 116,
+  "reviews": 20,
+  "researchAndMethodEntries": 96,
+  "uniqueDOIs": 116,
+  "overlapWithPrevious": 0,
+  "registryMatches": 45,
+  "queries": 56,
+  "pendingCandidates": 3,
+  "manualFullTextAccepted": false,
+  "outputPath": "D:\\SKT727\\outputs\\01a11e77-36b7-7370-a9e0-d2704d74255c\\literature_round3_20261009\\星座智能运维综述文献库_第三轮扩展_20261009.xlsx"
+}

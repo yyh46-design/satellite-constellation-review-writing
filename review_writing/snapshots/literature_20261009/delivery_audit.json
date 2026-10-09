@@ -1,0 +1,33 @@
+{
+  "records": 41,
+  "reviews": 20,
+  "originals": 21,
+  "uniqueDOIs": 41,
+  "registryMatches": 37,
+  "publisherFallbacks": [
+    {
+      "id": "R19",
+      "doi": "10.19678/j.issn.1000-3428.0252895",
+      "source": "https://www.ecice06.com/CN/10.19678/j.issn.1000-3428.0252895"
+    },
+    {
+      "id": "R07",
+      "doi": "10.23919/JSEE.2022.000141",
+      "source": "https://www.jseepub.com/EN/10.23919/JSEE.2022.000141"
+    },
+    {
+      "id": "R01",
+      "doi": "10.16383/j.aas.c180068",
+      "source": "https://www.aas.net.cn/cn/article/doi/10.16383/j.aas.c180068"
+    },
+    {
+      "id": "R20",
+      "doi": "10.7527/S1000-6893.2026.32935",
+      "source": "https://hkxb.buaa.edu.cn/CN/10.7527/S1000-6893.2026.32935"
+    }
+  ],
+  "searchQueries": 36,
+  "asOf": "2026-10-09",
+  "manualFullTextReviewComplete": false,
+  "outputPath": "D:\\SKT727\\outputs\\01a11e77-36b7-7370-a9e0-d2704d74255c\\literature_20261009\\星座运维综述文献矩阵_20261009.xlsx"
+}

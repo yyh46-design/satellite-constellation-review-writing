@@ -1,0 +1,19 @@
+{
+  "asOf": "2026-10-09",
+  "chapters": 9,
+  "total": 148,
+  "uniqueDOIs": 148,
+  "counts": {
+    "首轮锚点精读": 40,
+    "第二轮专题精读": 62,
+    "背景或方法参照": 40,
+    "待全文判定": 6
+  },
+  "firstQueue": 40,
+  "firstReviews": 8,
+  "firstOriginals": 32,
+  "pendingOutsideLibrary": 4,
+  "allTitlesTranslationsDOIsPreserved": true,
+  "manualFullTextAccepted": false,
+  "outputPath": "D:\\SKT727\\outputs\\01a11e77-36b7-7370-a9e0-d2704d74255c\\review_framework_v1_20261009\\星座综述框架与148篇文献初筛_v1_20261009.xlsx"
+}

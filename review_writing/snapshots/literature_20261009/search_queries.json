@@ -1,0 +1,182 @@
+[
+  [
+    "B01",
+    "\"Agile Earth Observation Satellite Scheduling Over 20 Years\" DOI",
+    "调度综述DOI与年份核对"
+  ],
+  [
+    "B01",
+    "\"Survey on autonomous task scheduling technology for Earth observation satellites\" DOI",
+    "自主调度综述"
+  ],
+  [
+    "B01",
+    "\"Towards the automated operations\" \"Part 2\" DOI",
+    "系统运行分类与工具"
+  ],
+  [
+    "B01",
+    "\"On-Orbit Service (OOS) of Spacecraft: A Review of Engineering Developments\" DOI",
+    "在轨服务工程综述"
+  ],
+  [
+    "B02",
+    "\"A review of the frameworks, models, and algorithms for large-scale imaging satellite mission planning\"",
+    "大规模任务规划相邻综述"
+  ],
+  [
+    "B02",
+    "\"Agent-based approaches for distributed space systems and mission management\"",
+    "分布式自主相邻综述"
+  ],
+  [
+    "B02",
+    "\"Managing Mega-Constellations: A Starlink-Informed Review\"",
+    "直接系统管理相邻综述"
+  ],
+  [
+    "B02",
+    "\"Trusted Autonomous Satellite Operations\" review",
+    "补查可信自主运行综述"
+  ],
+  [
+    "B03",
+    "\"Space Logistics Modeling and Optimization: Review of the State of the Art\"",
+    "空间物流综述"
+  ],
+  [
+    "B03",
+    "\"A Review of Deep Reinforcement Learning for Autonomous Earth Observation Satellite Scheduling\" DOI",
+    "学习方法相邻综述"
+  ],
+  [
+    "B03",
+    "\"On-board Automated Mission Planning for Spacecraft Autonomy\" DOI",
+    "星上规划基础"
+  ],
+  [
+    "B03",
+    "\"Evolutionary Computation in Satellite System Optimization for Deployment and Scheduling\"",
+    "最新进化计算综述"
+  ],
+  [
+    "B04",
+    "\"Replenishment Strategy for Satellite Constellation with Dual Supply Modes\"",
+    "补网策略"
+  ],
+  [
+    "B04",
+    "\"Integration of On-Orbit Servicing into Constellation Maintenance with Spare Inventory Management\"",
+    "会议稿与库存模型"
+  ],
+  [
+    "B04",
+    "\"On-Orbit Servicing-Integrated Maintenance Strategy for a Satellite Constellation\"",
+    "最新期刊维护策略"
+  ],
+  [
+    "B04",
+    "\"Orbital Facility Location Problem for Satellite Constellation Servicing Depots\"",
+    "设施配置"
+  ],
+  [
+    "B05",
+    "\"On-Orbit Servicing Optimization Framework with High- and Low-Thrust Propulsion Tradeoff\"",
+    "推进—物流联合规划"
+  ],
+  [
+    "B05",
+    "\"On-orbit-servicing via routing optimization using high-thrust or low-thrust propulsion\"",
+    "最新LEO路线规划"
+  ],
+  [
+    "B05",
+    "\"Tip-and-cue mission scheduling in heterogeneous satellite constellations\"",
+    "异构任务链"
+  ],
+  [
+    "B05",
+    "\"Low-Thrust Propulsion and Drift Orbit Optimization for Multi-Client Servicing Missions in Low Earth Orbit\"",
+    "最新时变路线与轨迹"
+  ],
+  [
+    "B06",
+    "\"Mission planning for on-orbit servicing through multiple servicing satellites: A new approach\"",
+    "早期多服务船联合规划"
+  ],
+  [
+    "B06",
+    "\"Optimal Multitarget Rendezvous Using Hybrid Propulsion System\"",
+    "混合推进方法"
+  ],
+  [
+    "B06",
+    "\"Deep reinforcement learning-based fast hybrid planning for multi-type on-orbit service under mass variation dynamics\"",
+    "学习加速服务规划"
+  ],
+  [
+    "B06",
+    "\"Hierarchical Resource Management for Mega-LEO Satellite Constellation\"",
+    "资源管理接口"
+  ],
+  [
+    "B07",
+    "\"Dynamic Management Topology Construction, Evolution, and Maintenance of Low Earth Orbit Mega-Constellation\"",
+    "动态管理拓扑"
+  ],
+  [
+    "B07",
+    "\"Automatic scheduling of satellite tracking tasks by means of policy-gradient reinforcement learning and transformer-based pointer networks\"",
+    "最新测控调度与正式版本"
+  ],
+  [
+    "B07",
+    "\"On-orbit observation trajectory planning for common-track mega constellations\"",
+    "飞掠巡检"
+  ],
+  [
+    "B07",
+    "\"Risk-aware sensor scheduling and tracking of large constellations\"",
+    "安全—资源调度耦合"
+  ],
+  [
+    "B08",
+    "satellite constellation on orbit servicing uncertain demand standby orbit service capability planning",
+    "主题宽检索：需求与能力"
+  ],
+  [
+    "B08",
+    "satellite constellation servicing multi fidelity reachability trajectory feasibility planning",
+    "主题宽检索：能力与物理可行性"
+  ],
+  [
+    "B08",
+    "satellite constellation autonomous operations safety verification survey planning",
+    "主题宽检索：自主与保证"
+  ],
+  [
+    "B08",
+    "large LEO constellation service scheduling multi spacecraft trajectory resource optimization 2025 2026",
+    "主题宽检索：近期服务调度"
+  ],
+  [
+    "B09",
+    "\"Reference architecture for autonomy and adaptivity in satellites\" DOI",
+    "执行与软件接口补查"
+  ],
+  [
+    "B09",
+    "\"Learning-based spacecraft multi-constraint rapid trajectory planning for emergency collision avoidance\"",
+    "候选补查：本轮未纳入，待进一步获取一手内容"
+  ],
+  [
+    "B09",
+    "\"卫星自主与协同任务调度规划综述\"",
+    "中文自主调度"
+  ],
+  [
+    "B09",
+    "\"面向巨型星座的网算资源智能调度方法综述\"",
+    "中文网算资源综述"
+  ]
+]

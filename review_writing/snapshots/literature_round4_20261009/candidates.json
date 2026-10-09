@@ -1,0 +1,167 @@
+[
+  {
+    "theme": "故障恢复与重调度",
+    "title": "Knowledge-based satellite failure detection, isolation and recovery (FDIR)",
+    "doi": "10.1007/s12567-025-00651-6"
+  },
+  {
+    "theme": "故障恢复与重调度",
+    "title": "A Decentralized Framework for Resource-Constrained Task Redistribution",
+    "doi": "10.1609/aaaiss.v8i1.42523"
+  },
+  {
+    "theme": "故障恢复与重调度",
+    "title": "An Autonomous Reinforcement Learning Framework for Fault Recovery and Mission Replanning on CubeSats",
+    "doi": "10.15142/yymd-sh44"
+  },
+  {
+    "theme": "故障恢复与重调度",
+    "title": "A model-driven framework for supervised reconfiguration of satellite schedulers",
+    "doi": "10.1007/s10270-026-01426-1"
+  },
+  {
+    "theme": "故障恢复与重调度",
+    "title": "Robust and fault-tolerant spacecraft attitude control based on an extended-observer design",
+    "doi": "10.1007/s11768-022-00101-2"
+  },
+  {
+    "theme": "大星座规模与分解",
+    "title": "Lagrangian hierarchical mixed-integer programming for ultra-large-scale satellite scheduling under dynamic task delivery",
+    "doi": "10.1016/j.asr.2025.12.008"
+  },
+  {
+    "theme": "大星座规模与分解",
+    "title": "Standard modeling and solving methods for large-scale constellation collaborative scheduling for early warning scenarios",
+    "doi": "10.7527/S1000-6893.2024.30181"
+  },
+  {
+    "theme": "大星座规模与分解",
+    "title": "Threshold-Gated Conflict-Aware Arc Selection for Satellite Task Scheduling: Evidence from Starlink Mega-Constellation Simulations",
+    "doi": "10.3390/aerospace13090830"
+  },
+  {
+    "theme": "大星座规模与分解",
+    "title": "A Data-Driven Parallel Scheduling Approach for Multiple Agile Earth Observation Satellites",
+    "doi": "10.1109/TEVC.2019.2934148"
+  },
+  {
+    "theme": "大星座规模与分解",
+    "title": "A decompose-and-learn multi-objective algorithm for scheduling large-scale earth observation satellites",
+    "doi": "10.1016/j.swevo.2024.101792"
+  },
+  {
+    "theme": "大星座规模与分解",
+    "title": "A data-driven bilevel optimization algorithm for multiple agile satellites task scheduling",
+    "doi": "10.1016/j.swevo.2026.102391"
+  },
+  {
+    "theme": "多资源联合调度",
+    "title": "Solving the Observing and Downloading Integrated Scheduling Problem of Earth Observation Satellite with a Quantum Genetic Algorithm",
+    "doi": "10.21078/JSSI-2018-399-22"
+  },
+  {
+    "theme": "多资源联合调度",
+    "title": "Joint observation and transmission scheduling of multiple agile satellites with energy constraint using improved ACO algorithm",
+    "doi": "10.1016/j.actaastro.2025.02.008"
+  },
+  {
+    "theme": "多资源联合调度",
+    "title": "Joint Observation and Transmission Scheduling in Agile Satellite Networks",
+    "doi": "10.1109/TMC.2021.3076088"
+  },
+  {
+    "theme": "多资源联合调度",
+    "title": "An Integrated Scheduling Algorithm of Satellite Observation and Data Download Based on Multi-agent Deep Reinforcement Learning",
+    "doi": "10.1109/CAC59555.2023.10450239"
+  },
+  {
+    "theme": "多资源联合调度",
+    "title": "Reasoning-Based Scheduling Method for Agile Earth Observation Satellite with Multi-Subsystem Coupling",
+    "doi": "10.3390/rs15061577"
+  },
+  {
+    "theme": "多资源联合调度",
+    "title": "Edge Intelligence for Satellite-Based Earth Observation: Scheduling Image Acquisition and Processing",
+    "doi": "10.1002/sat.70082"
+  },
+  {
+    "theme": "通信受限与异步协同",
+    "title": "A delay-tolerant network approach to satellite pickup and delivery scheduling",
+    "doi": "10.1016/j.adhoc.2023.103289"
+  },
+  {
+    "theme": "通信受限与异步协同",
+    "title": "Distributed cooperative task planning algorithm for multiple satellites in delayed communication environment",
+    "doi": "10.1109/JSEE.2016.00066"
+  },
+  {
+    "theme": "通信受限与异步协同",
+    "title": "Asynchronous Communication Aware Multi-Agent Task Allocation",
+    "doi": "10.24963/ijcai.2023/30"
+  },
+  {
+    "theme": "通信受限与异步协同",
+    "title": "Performance of the asynchronous consensus based bundle algorithm in lossy network environments",
+    "doi": "10.1109/SAM.2018.8448984"
+  },
+  {
+    "theme": "通信受限与异步协同",
+    "title": "Inter-Satellite Link Network Real-Time Ring Dissemination Performance and Robustness",
+    "doi": "10.3390/engproc2026126009"
+  },
+  {
+    "theme": "工程验证与公开基准",
+    "title": "Basilisk: A Flexible, Scalable and Modular Astrodynamics Simulation Framework",
+    "doi": "10.2514/1.I010762"
+  },
+  {
+    "theme": "工程验证与公开基准",
+    "title": "A comparative analysis of reinforcement learning algorithms for earth-observing satellite scheduling",
+    "doi": "10.3389/frspt.2023.1263489"
+  },
+  {
+    "theme": "工程验证与公开基准",
+    "title": "Two Approaches to Autonomous Spacecraft Inspection: Shielded Reinforcement Learning versus Probabilistic Roadmaps",
+    "doi": "10.1007/s40295-026-00631-w"
+  },
+  {
+    "theme": "工程验证与公开基准",
+    "title": "Hybrid genetic algorithm and deep reinforcement learning for autonomous multi-mode satellite task scheduling",
+    "doi": "10.1016/j.actaastro.2026.02.017"
+  },
+  {
+    "theme": "工程验证与公开基准",
+    "title": "Onboard Autonomy on the Intelligent Payload Experiment CubeSat Mission",
+    "doi": "10.2514/1.I010386"
+  },
+  {
+    "theme": "工程验证与公开基准",
+    "title": "Formal Methods for Trusted Space Autonomy: Boon or Bane?",
+    "doi": "10.1007/978-3-031-06773-0_1"
+  },
+  {
+    "theme": "工程验证与公开基准",
+    "title": "Model checking of spacecraft operational designs: a scalability analysis",
+    "doi": "10.1007/s10270-025-01281-6"
+  },
+  {
+    "theme": "多资源联合调度",
+    "title": "Orbit-aware task scheduling in satellite edge computing",
+    "doi": "10.1007/s10586-025-05663-9"
+  },
+  {
+    "theme": "故障恢复与重调度",
+    "title": "Resilient Autonomous Mission Management for Decentralized Multispacecraft Missions",
+    "doi": "10.2514/1.I011208"
+  },
+  {
+    "theme": "故障恢复与重调度",
+    "title": "RPRS: a reactive plan repair strategy for rapid response to plan failures of deep space missions",
+    "doi": "10.1016/j.actaastro.2020.05.011"
+  },
+  {
+    "theme": "多资源联合调度",
+    "title": "Kodan: Addressing the Computational Bottleneck in Space",
+    "doi": "10.1145/3582016.3582043"
+  }
+]

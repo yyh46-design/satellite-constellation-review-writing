@@ -1,0 +1,28 @@
+{
+  "asOf": "2026-10-09",
+  "newRecords": 32,
+  "counts": {
+    "故障恢复与重调度": 6,
+    "大星座规模与分解": 6,
+    "多资源联合调度": 8,
+    "通信受限与异步协同": 5,
+    "工程验证与公开基准": 7
+  },
+  "roles": {
+    "综述核心": 24,
+    "相邻方法": 7,
+    "背景支撑": 1
+  },
+  "previous": 116,
+  "cumulative": 148,
+  "reviews": 20,
+  "researchAndMethodEntries": 128,
+  "uniqueDOIs": 148,
+  "overlapWithPrevious": 0,
+  "registryMatches": 31,
+  "publisherChecks": 1,
+  "queries": 41,
+  "pendingCandidates": 4,
+  "manualFullTextAccepted": false,
+  "outputPath": "D:\\SKT727\\outputs\\01a11e77-36b7-7370-a9e0-d2704d74255c\\literature_round4_20261009\\星座智能运维综述文献库_第四轮补检_20261009.xlsx"
+}

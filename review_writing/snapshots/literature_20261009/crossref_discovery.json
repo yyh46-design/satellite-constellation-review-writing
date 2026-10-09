@@ -1,0 +1,185 @@
+[
+  {
+    "query_title": "Agile Earth Observation Satellite Scheduling Over 20 Years: Formulations, Methods, and Future Directions",
+    "registry_url": "https://api.crossref.org/works?query.title=Agile+Earth+Observation+Satellite+Scheduling+Over+20+Years%3A+Formulations%2C+Methods%2C+and+Future+Directions&rows=3",
+    "items": [
+      {
+        "doi": "10.1109/jsyst.2020.2997050",
+        "title": [
+          "Agile Earth Observation Satellite Scheduling Over 20 Years: Formulations, Methods, and Future Directions"
+        ],
+        "year": {
+          "date-parts": [
+            [
+              2021,
+              9
+            ]
+          ]
+        },
+        "container": [
+          "IEEE Systems Journal"
+        ],
+        "score": 77.20792
+      },
+      {
+        "doi": "10.1109/ssci44817.2019.9003056",
+        "title": [
+          "Efficient Methods for Agile Earth Observation Satellite Scheduling"
+        ],
+        "year": {
+          "date-parts": [
+            [
+              2019,
+              12
+            ]
+          ]
+        },
+        "container": [
+          "2019 IEEE Symposium Series on Computational Intelligence (SSCI)"
+        ],
+        "score": 47.7276
+      },
+      {
+        "doi": "10.1016/j.cor.2025.107212",
+        "title": [
+          "The integrated agile Earth observation satellite scheduling problem"
+        ],
+        "year": {
+          "date-parts": [
+            [
+              2025,
+              12
+            ]
+          ]
+        },
+        "container": [
+          "Computers &amp; Operations Research"
+        ],
+        "score": 41.867565
+      }
+    ]
+  },
+  {
+    "query_title": "On-Orbit Servicing Optimization Framework with High- and Low-Thrust Propulsion Tradeoff",
+    "registry_url": "https://api.crossref.org/works?query.title=On-Orbit+Servicing+Optimization+Framework+with+High-+and+Low-Thrust+Propulsion+Tradeoff&rows=3",
+    "items": [
+      {
+        "doi": "10.2514/1.a35094",
+        "title": [
+          "On-Orbit Servicing Optimization Framework with High- and Low-Thrust Propulsion Tradeoff"
+        ],
+        "year": {
+          "date-parts": [
+            [
+              2022,
+              1
+            ]
+          ]
+        },
+        "container": [
+          "Journal of Spacecraft and Rockets"
+        ],
+        "score": 65.70829
+      },
+      {
+        "doi": "10.1016/j.actaastro.2026.04.053",
+        "title": [
+          "On-orbit-servicing via routing optimization using high-thrust or low-thrust propulsion"
+        ],
+        "year": {
+          "date-parts": [
+            [
+              2026,
+              9
+            ]
+          ]
+        },
+        "container": [
+          "Acta Astronautica"
+        ],
+        "score": 51.89303
+      },
+      {
+        "doi": "10.52202/083087-0062",
+        "title": [
+          "Efficient On-Orbit-Servicing Via Routing Optimization and Low-Thrust Propulsion"
+        ],
+        "year": {
+          "date-parts": [
+            [
+              2025
+            ]
+          ]
+        },
+        "container": [
+          "IAF Astrodynamics Symposium"
+        ],
+        "score": 47.785408
+      }
+    ]
+  },
+  {
+    "query_title": "On the Automation, Optimization, and In-Orbit Validation of Intelligent Satellite Constellation Operations",
+    "error": "HTTP Error 429: Too Many Requests"
+  },
+  {
+    "query_title": "Tip-and-cue mission scheduling in heterogeneous satellite constellations using mixed-integer linear programming",
+    "registry_url": "https://api.crossref.org/works?query.title=Tip-and-cue+mission+scheduling+in+heterogeneous+satellite+constellations+using+mixed-integer+linear+programming&rows=3",
+    "items": [
+      {
+        "doi": "10.1016/j.actaastro.2026.04.059",
+        "title": [
+          "Tip-and-cue mission scheduling in heterogeneous satellite constellations using mixed-integer linear programming"
+        ],
+        "year": {
+          "date-parts": [
+            [
+              2026,
+              9
+            ]
+          ]
+        },
+        "container": [
+          "Acta Astronautica"
+        ],
+        "score": 80.81656
+      },
+      {
+        "doi": "10.1061/(asce)0733-9437(2001)127:2(63)",
+        "title": [
+          "Irrigation Scheduling Using Mixed-Integer Linear Programming"
+        ],
+        "year": {
+          "date-parts": [
+            [
+              2001,
+              4
+            ]
+          ]
+        },
+        "container": [
+          "Journal of Irrigation and Drainage Engineering"
+        ],
+        "score": 45.518353
+      },
+      {
+        "doi": "10.1007/978-1-4615-1113-7_5",
+        "title": [
+          "Test Scheduling Using Mixed-Integer Linear Programming"
+        ],
+        "year": {
+          "date-parts": [
+            [
+              2002
+            ]
+          ]
+        },
+        "container": [
+          "Frontiers in Electronic Testing",
+          "Test Resource Partitioning for System-on-a-Chip"
+        ],
+        "score": 45.482563
+      }
+    ]
+  }
+]

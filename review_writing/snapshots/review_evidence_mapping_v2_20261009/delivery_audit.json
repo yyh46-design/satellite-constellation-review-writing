@@ -1,0 +1,81 @@
+{
+  "asOf": "2026-10-09",
+  "outputPath": "D:\\SKT727\\outputs\\01a11e77-36b7-7370-a9e0-d2704d74255c\\review_evidence_mapping_v2_20261009\\五章综述_章节研究问题文献证据对应表_148篇_v2_20261009.xlsx",
+  "sourceHash": "e151929f70f52292fc14a1ee39f9f24af0f6dd6222a005c3dd17f9c423a2b0da",
+  "sourceUnchanged": true,
+  "total": 148,
+  "uniqueDOIs": 148,
+  "reviews": 20,
+  "originals": 128,
+  "allTitlesTranslationsDOIsPreserved": true,
+  "questions": 25,
+  "chapterCounts": {
+    "1": 4,
+    "2": 16,
+    "3": 122,
+    "4": 6,
+    "5": 0
+  },
+  "subsectionCounts": {
+    "1": 4,
+    "2": 16,
+    "4": 6,
+    "5": 0,
+    "3.1": 22,
+    "3.2": 77,
+    "3.3": 20,
+    "3.4": 3
+  },
+  "localOriginalPassageChecks": [
+    "R03",
+    "O27",
+    "O60",
+    "O64"
+  ],
+  "localAbstractCheck": [
+    "O112"
+  ],
+  "technicalPending": [
+    "R13",
+    "O08",
+    "O85",
+    "O104",
+    "O110",
+    "O117"
+  ],
+  "fullTextHumanVerificationCompleted": 0,
+  "priorityCounts": {
+    "首轮锚点精读": 40,
+    "第二轮专题精读": 62,
+    "背景或方法参照": 40,
+    "待全文判定": 6
+  },
+  "questionCounts": {
+    "Q01": 20,
+    "Q02": 19,
+    "Q03": 6,
+    "Q04": 9,
+    "Q05": 7,
+    "Q06": 12,
+    "Q07": 11,
+    "Q08": 20,
+    "Q09": 32,
+    "Q10": 10,
+    "Q11": 16,
+    "Q12": 9,
+    "Q13": 15,
+    "Q14": 3,
+    "Q15": 26,
+    "Q16": 8,
+    "Q17": 7,
+    "Q18": 22,
+    "Q19": 8,
+    "Q20": 8,
+    "Q21": 28,
+    "Q22": 32,
+    "Q23": 23,
+    "Q24": 12,
+    "Q25": 0
+  },
+  "formulaInputUpdateAndRestoreChecked": true
+}

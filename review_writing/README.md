@@ -1,0 +1,43 @@
+# 大型卫星星座智能管理与调度综述：写作工作区
+
+材料日期：2026-10-09。此目录整理本次对话形成的检索、框架、文献初筛和用途映射，供讨论写作规范与继续撰写综述。
+
+## 从这里开始
+
+1. [给GPT的写作准则讨论说明](discussion/GPT_WRITING_STANDARDS_BRIEF.md)：选题、现状、讨论问题和期望输出。
+2. [当前五章框架](framework/FIVE_CHAPTER_OUTLINE.md)：一级目录与第三章四个小节。
+3. [章节与研究问题对应](evidence/CHAPTER_QUESTION_MAP.md)：25个写作问题及关联文献。
+4. [148条文献索引](literature/LITERATURE_INDEX_148.md)：英文原标题、中文译名、DOI和主要用途。
+5. [首轮40篇精读队列](evidence/FIRST_READING_QUEUE_40.md)：精读顺序与需确认的问题。
+6. [逐篇证据与用途](evidence/MAPPING_BY_SECTION.md)：方法、约束、读取依据、原文定位和适用限制。
+
+## 当前状态
+
+- DOI主库148条：20篇综述、128条研究或方法文献；个别会议材料和相邻场景文献的用途已标明。148是候选库数量，尚非最终纳入数量。
+- 当前采用5章骨架。25个问题ID是整理工具，不对应25个文章小节。
+- 初筛分组：40条首轮锚点精读、62条第二轮专题精读、40条背景或方法参照、6条待技术内容核查。
+- 本轮局部原文核查：R03、O27、O60、O64；本轮作者摘要核查：O112。完整全文提取与作者人工逐条复核尚未完成。
+- 4条DOI或版本待核候选保留在[独立清单](literature/PENDING_CANDIDATES.md)，未计入148条主库。
+- 写作准则尚待讨论，见[决策记录](discussion/WRITING_RULES_DECISIONS.md)。本工作区没有把讨论问题自动转成已采用的规范。
+
+## Excel原表
+
+| 阶段 | 原表 | 使用说明 |
+| --- | --- | --- |
+| 第一轮检索 | [第一轮文献矩阵](snapshots/literature_20261009/星座运维综述文献矩阵_20261009.xlsx) | 历史原表 |
+| 第二轮方法研究 | [第二轮文献表](snapshots/literature_round2_20261009/星座运维方法研究_第二轮_20261009.xlsx) | 历史原表 |
+| 第三轮扩展 | [第三轮文献库](snapshots/literature_round3_20261009/星座智能运维综述文献库_第三轮扩展_20261009.xlsx) | 历史原表 |
+| 第四轮补检 | [第四轮文献库](snapshots/literature_round4_20261009/星座智能运维综述文献库_第四轮补检_20261009.xlsx) | 包含完整148条索引 |
+| 框架与初筛v1 | [历史9章框架及初筛](snapshots/review_framework_v1_20261009/星座综述框架与148篇文献初筛_v1_20261009.xlsx) | 保留整理过程；当前目录以5章文件为准 |
+| 当前对应表v2 | [5章文献证据对应表](snapshots/review_evidence_mapping_v2_20261009/五章综述_章节研究问题文献证据对应表_148篇_v2_20261009.xlsx) | 当前工作表，含148条映射和25个研究问题 |
+
+
+## 数据与来源
+
+- [文献索引CSV](literature/literature_index_148.csv)、[BibTeX](literature/references_148.bib)、[证据对应CSV](evidence/literature_evidence_mapping_148.csv)可用于检索、筛选和引用管理。BibTeX使用现有题名、作者、年份、刊物和DOI，缺失卷期页码未补造。
+- snapshots保留各轮检索式、编目结果、注释、结构化记录、生成脚本和检查记录。原始文件复制保持字节一致。
+- 引用正文中的技术结论前，需确认一手原文支持及具体位置。摘要和题名定位状态已与原文局部核查区分。
+- [内容范围与上传记录](provenance/PUBLICATION_SCOPE.md)和[文件清单与SHA-256](provenance/PACKAGE_MANIFEST.json)用于核对包内材料。第三方论文全文使用原文链接访问。
+- 原表的生成脚本依赖当时的Artifact Tool环境及所在目录；阅读现有表格和Markdown无需执行生成脚本。
+
+此目录是独立的综述写作材料。仓库其他研究的算法、实验和投稿状态不构成本综述的验证结果或写作规范。

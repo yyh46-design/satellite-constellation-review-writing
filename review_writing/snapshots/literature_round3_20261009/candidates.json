@@ -1,0 +1,227 @@
+[
+  {
+    "theme": "部署与重构",
+    "title": "Optimization of satellite constellation reconfiguration maneuvers",
+    "doi": "10.1016/j.actaastro.2014.02.016"
+  },
+  {
+    "theme": "部署与重构",
+    "title": "Satellite Constellation Reconfiguration Using Surrogate-Based Optimization",
+    "doi": "10.1061/(ASCE)AS.1943-5525.0001438"
+  },
+  {
+    "theme": "部署与重构",
+    "title": "Optimization of satellite constellation deployment strategy considering uncertain areas of interest",
+    "doi": "10.1016/j.actaastro.2018.03.054"
+  },
+  {
+    "theme": "部署与重构",
+    "title": "Regional Constellation Reconfiguration Problem: Integer Linear Programming Formulation and Lagrangian Heuristic Method",
+    "doi": "10.2514/1.A35685"
+  },
+  {
+    "theme": "部署与重构",
+    "title": "Deterministic Multistage Constellation Reconfiguration Using Integer Programming and Sequential Decision-Making Methods",
+    "doi": "10.2514/1.A35990"
+  },
+  {
+    "theme": "部署与重构",
+    "title": "Satellite Constellation Pattern Optimization for Complex Regional Coverage",
+    "doi": "10.2514/1.A34657"
+  },
+  {
+    "theme": "部署与重构",
+    "title": "Two-Stage Framework for Deployment-Aware Optimization of Satellite Constellation Pattern Design",
+    "doi": "10.1007/s42405-026-01298-1"
+  },
+  {
+    "theme": "健康监测与运行架构",
+    "title": "Remote agent: To boldly go where no AI system has gone before",
+    "doi": "10.1016/S0004-3702(98)00068-X"
+  },
+  {
+    "theme": "健康监测与运行架构",
+    "title": "Detecting Spacecraft Anomalies Using LSTMs and Nonparametric Dynamic Thresholding",
+    "doi": "10.1145/3219819.3219845"
+  },
+  {
+    "theme": "健康监测与运行架构",
+    "title": "Imbalanced satellite telemetry data anomaly detection model based on Bayesian LSTM",
+    "doi": "10.1016/j.actaastro.2020.12.012"
+  },
+  {
+    "theme": "健康监测与运行架构",
+    "title": "Adaptive Parameters Reconstruction Model for Satellite Fault Detection",
+    "doi": "10.1016/j.ifacol.2025.11.522"
+  },
+  {
+    "theme": "健康监测与运行架构",
+    "title": "Validation-gated continual learning for anomaly detection in satellite telemetry",
+    "doi": "10.1016/j.actaastro.2026.07.065"
+  },
+  {
+    "theme": "健康监测与运行架构",
+    "title": "Unmasking overestimation: a re-evaluation of deep anomaly detection in spacecraft telemetry",
+    "doi": "10.1007/s12567-023-00529-5"
+  },
+  {
+    "theme": "观测任务与不确定调度",
+    "title": "Selecting and scheduling observations of agile satellites",
+    "doi": "10.1016/S1270-9638(02)01173-2"
+  },
+  {
+    "theme": "观测任务与不确定调度",
+    "title": "A pure proactive scheduling algorithm for multiple earth observation satellites under uncertainties of clouds",
+    "doi": "10.1016/j.cor.2016.04.014"
+  },
+  {
+    "theme": "观测任务与不确定调度",
+    "title": "Robust Earth Observation Satellite Scheduling With Uncertainty of Cloud Coverage",
+    "doi": "10.1109/TAES.2019.2947978"
+  },
+  {
+    "theme": "观测任务与不确定调度",
+    "title": "Mixed-integer programming models for optimal constellation scheduling given cloud cover uncertainty",
+    "doi": "10.1016/j.ejor.2018.11.043"
+  },
+  {
+    "theme": "观测任务与不确定调度",
+    "title": "A Generic Markov Decision Process Model and Reinforcement Learning Method for Scheduling Agile Earth Observation Satellites",
+    "doi": "10.1109/TSMC.2020.3020732"
+  },
+  {
+    "theme": "观测任务与不确定调度",
+    "title": "A branch-and-price algorithm for energy aware task scheduling of constellations of nanosatellites",
+    "doi": "10.1016/j.cor.2025.107259"
+  },
+  {
+    "theme": "观测任务与不确定调度",
+    "title": "Conformal-Risk-Aware Decentralized Task Reallocation for Agile Earth Observation Satellite Scheduling under Meteorological Uncertainty",
+    "doi": "10.1016/j.ast.2026.113895"
+  },
+  {
+    "theme": "星地通信与测控排班",
+    "title": "Optimization-based scheduling for the single-satellite, multi-ground station communication problem",
+    "doi": "10.1016/j.cor.2014.11.004"
+  },
+  {
+    "theme": "星地通信与测控排班",
+    "title": "Optimizing satellite ground station facilities scheduling for RSGS: a novel model and algorithm",
+    "doi": "10.1080/17538947.2023.2259870"
+  },
+  {
+    "theme": "星地通信与测控排班",
+    "title": "Scheduling Space–Ground Communications for the Air Force Satellite Control Network",
+    "doi": "10.1023/B:JOSH.0000013053.32600.3c"
+  },
+  {
+    "theme": "星地通信与测控排班",
+    "title": "Deep Space Network Scheduling via Mixed-Integer Linear Programming",
+    "doi": "10.1109/ACCESS.2021.3064928"
+  },
+  {
+    "theme": "星地通信与测控排班",
+    "title": "Automated Scheduling for NASA's Deep Space Network",
+    "doi": "10.1609/aimag.v35i4.2552"
+  },
+  {
+    "theme": "星地通信与测控排班",
+    "title": "Satellite downlink scheduling problem: A case study",
+    "doi": "10.1016/j.omega.2015.01.001"
+  },
+  {
+    "theme": "通信与计算资源协同",
+    "title": "Deep Multiagent Reinforcement Learning for Task Offloading and Resource Allocation in Satellite Edge Computing",
+    "doi": "10.1109/JIOT.2024.3482290"
+  },
+  {
+    "theme": "通信与计算资源协同",
+    "title": "Latency-Energy Efficient Task Offloading in the Satellite Network-Assisted Edge Computing via Deep Reinforcement Learning",
+    "doi": "10.1109/TMC.2024.3502643"
+  },
+  {
+    "theme": "通信与计算资源协同",
+    "title": "Multi-agent reinforcement learning based computation offloading and resource allocation for LEO Satellite edge computing networks",
+    "doi": "10.1016/j.comcom.2024.05.008"
+  },
+  {
+    "theme": "通信与计算资源协同",
+    "title": "Satellite Edge Intelligence: DRL-Based Resource Management for Task Inference in LEO-Based Satellite-Ground Collaborative Networks",
+    "doi": "10.1109/TMC.2025.3570799"
+  },
+  {
+    "theme": "通信与计算资源协同",
+    "title": "Joint power and bandwidth allocation for beam-hopping user downlinks in smart gateway multibeam satellite systems",
+    "doi": "10.1177/1550147717709461"
+  },
+  {
+    "theme": "通信与计算资源协同",
+    "title": "A novel deep reinforcement learning architecture for dynamic power and bandwidth allocation in multibeam satellites",
+    "doi": "10.1016/j.actaastro.2022.12.018"
+  },
+  {
+    "theme": "态势感知与风险决策",
+    "title": "Dynamic sensor tasking for Space Situational Awareness",
+    "doi": "10.1109/ACC.2010.5530989"
+  },
+  {
+    "theme": "态势感知与风险决策",
+    "title": "Mutual Information Based Sensor Tasking with Applications to Space Situational Awareness",
+    "doi": "10.2514/1.G004399"
+  },
+  {
+    "theme": "态势感知与风险决策",
+    "title": "Multisensor Tasking Using Analytical Rényi Divergence in Labeled Multi-Bernoulli Filtering",
+    "doi": "10.2514/1.G004232"
+  },
+  {
+    "theme": "态势感知与风险决策",
+    "title": "Space-Based Sensor Tasking Using Deep Reinforcement Learning",
+    "doi": "10.1007/s40295-022-00354-8"
+  },
+  {
+    "theme": "态势感知与风险决策",
+    "title": "Spacecraft collision avoidance challenge: Design and results of a machine learning competition",
+    "doi": "10.1007/s42064-021-0101-5"
+  },
+  {
+    "theme": "态势感知与风险决策",
+    "title": "Optimal Tasking and Scheduling of Satellite Constellations for Space Situational Awareness",
+    "doi": "10.64861/KSZU1223"
+  },
+  {
+    "theme": "分布式约束与协商",
+    "title": "Decentralized, Decomposition-Based Observation Scheduling for a Large-Scale Satellite Constellation",
+    "doi": "10.1613/jair.1.16997"
+  },
+  {
+    "theme": "分布式约束与协商",
+    "title": "Scheduling of Earth observing satellites using distributed constraint optimization",
+    "doi": "10.1007/s10951-024-00816-x"
+  },
+  {
+    "theme": "分布式约束与协商",
+    "title": "Large-Scale Continual Scheduling and Execution for Dynamic Distributed Satellite Constellation Observation Allocation",
+    "doi": "10.65109/JCYH5778"
+  },
+  {
+    "theme": "分布式约束与协商",
+    "title": "Consensus-Based Decentralized Auctions for Robust Task Allocation",
+    "doi": "10.1109/TRO.2009.2022423"
+  },
+  {
+    "theme": "分布式约束与协商",
+    "title": "An Improvement of Contract Net Protocol for Distributed Satellite Collaborative Task Planning",
+    "doi": "10.1155/ijae/5536856"
+  },
+  {
+    "theme": "分布式约束与协商",
+    "title": "Decentralized Observation Allocation for a Large-Scale Constellation",
+    "doi": "10.2514/1.I011215"
+  },
+  {
+    "theme": "态势感知与风险决策",
+    "doi": "10.1007/s40295-025-00532-4",
+    "title": "Multi-Sensor Tasking for Ground-Based Space Situational Awareness via Job-Shop Scheduling Problem"
+  }
+]

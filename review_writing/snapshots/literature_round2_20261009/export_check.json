@@ -1,0 +1,29 @@
+{
+  "exportedRowsChecked": 30,
+  "exactTitlesTranslationsDOIs": true,
+  "fileBytes": 33790,
+  "tables": [
+    {
+      "name": "Round2Methods",
+      "range": "A5:Y35",
+      "filter": true
+    },
+    {
+      "name": "PendingCandidates",
+      "range": "A26:B28",
+      "filter": true
+    },
+    {
+      "name": "Round2SearchLog",
+      "range": "A31:D97",
+      "filter": true
+    }
+  ],
+  "mainPane": {
+    "xSplit": "1",
+    "ySplit": "5",
+    "topLeftCell": "B6",
+    "activePane": "bottomRight",
+    "state": "frozen"
+  }
+}

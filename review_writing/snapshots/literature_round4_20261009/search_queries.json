@@ -1,0 +1,166 @@
+[
+  [
+    "F1",
+    "satellite fault recovery autonomous replanning \"Remote Agent Experiment\" DOI"
+  ],
+  [
+    "F2",
+    "large scale satellite constellation scheduling \"1000\" research DOI"
+  ],
+  [
+    "F3",
+    "integrated observation download energy storage satellite scheduling optimization DOI"
+  ],
+  [
+    "F4",
+    "distributed satellite task allocation asynchronous communication delay packet loss DOI"
+  ],
+  [
+    "F1",
+    "\"The Remote Agent Experiment\""
+  ],
+  [
+    "F1",
+    "satellite fault detection isolation recovery autonomous reconfiguration planning DOI research"
+  ],
+  [
+    "F5",
+    "Basilisk spacecraft simulation framework DOI BSK-RL satellite reinforcement learning benchmark"
+  ],
+  [
+    "F5",
+    "satellite autonomous scheduling \"flight\" \"DOI\" IPEX M2020"
+  ],
+  [
+    "F2",
+    "\"A Data-Driven Parallel Scheduling Approach for Multiple Agile Earth Observation Satellites\""
+  ],
+  [
+    "F2",
+    "\"A decompose-and-learn multi-objective algorithm for scheduling large-scale earth observation satellites\""
+  ],
+  [
+    "F3",
+    "\"Joint observation and transmission scheduling of multiple agile satellites with energy constraint\""
+  ],
+  [
+    "F4",
+    "\"Asynchronous Consensus-Based Bundle Algorithm\" DOI"
+  ],
+  [
+    "F1",
+    "satellite \"fault\" \"recovery\" \"planning\" site:link.springer.com/article"
+  ],
+  [
+    "F5",
+    "\"Basilisk\" \"Kenneally\" \"2020\" DOI"
+  ],
+  [
+    "F5",
+    "\"IPEX\" \"autonomous\" \"10.\" satellite"
+  ],
+  [
+    "F3",
+    "\"An integrated scheduling algorithm of satellite observation and data download\""
+  ],
+  [
+    "F1",
+    "satellite \"replanning\" \"failure\" \"fault\" research doi scheduling"
+  ],
+  [
+    "F5",
+    "\"IPEX\" \"autonomy\" site:ai.jpl.nasa.gov/public/documents/papers"
+  ],
+  [
+    "F1",
+    "\"Remote Agent\" \"flight\" \"verification\" \"10.1007\""
+  ],
+  [
+    "F3",
+    "\"reasoning-based\" \"multi-subsystem\" satellite scheduling"
+  ],
+  [
+    "F2",
+    "\"10.1109/TEVC.2019.2934148\""
+  ],
+  [
+    "F5",
+    "\"Onboard Autonomy on the Intelligent Payload Experiment\" DOI"
+  ],
+  [
+    "F5",
+    "\"Formal Methods for Trusted Space Autonomy\" DOI"
+  ],
+  [
+    "F5",
+    "\"Formal Analysis of the Remote Agent Before and After Flight\" DOI"
+  ],
+  [
+    "F1",
+    "\"Resilient Autonomous Mission Management for Decentralized Multispacecraft Missions\""
+  ],
+  [
+    "F1",
+    "\"RPRS: a reactive plan repair strategy\""
+  ],
+  [
+    "F2",
+    "\"10.7527/S1000-6893.2024.30181\""
+  ],
+  [
+    "F5",
+    "\"Model checking of spacecraft operational designs: a scalability analysis\""
+  ],
+  [
+    "F2",
+    "\"30181\" \"预警\" \"星座\""
+  ],
+  [
+    "F2",
+    "\"A Data-Driven Parallel Scheduling Approach\" site:ieeexplore.ieee.org"
+  ],
+  [
+    "F3",
+    "\"Joint Observation and Transmission Scheduling in Agile Satellite Networks\" site:ieeexplore.ieee.org"
+  ],
+  [
+    "F3",
+    "\"10450239\" satellite scheduling"
+  ],
+  [
+    "F2",
+    "\"面向预警\" \"规范\" \"星座\""
+  ],
+  [
+    "F2",
+    "\"A Data-Driven Parallel Scheduling Approach\" abstract"
+  ],
+  [
+    "F3",
+    "\"Joint Observation and Transmission Scheduling in Agile Satellite Networks\" abstract"
+  ],
+  [
+    "F3",
+    "\"An Integrated Scheduling Algorithm of Satellite Observation\" abstract"
+  ],
+  [
+    "F2",
+    "\"A Data-Driven Parallel Scheduling Approach\" \"probabilistic\""
+  ],
+  [
+    "F3",
+    "\"An Integrated Scheduling Algorithm of Satellite Observation and Data Download\" \"Chen\" \"algorithm\""
+  ],
+  [
+    "F5",
+    "\"Onboard Autonomy on the Intelligent Payload Experiment CubeSat Mission\" site:ai.jpl.nasa.gov"
+  ],
+  [
+    "F3",
+    "\"Kodan: Addressing the Computational Bottleneck in Space\""
+  ],
+  [
+    "F5",
+    "\"Resilient Autonomous Mission Management\" \"development boards\""
+  ]
+]

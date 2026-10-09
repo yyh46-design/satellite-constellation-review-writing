@@ -1,0 +1,23 @@
+{
+  "asOf": "2026-10-09",
+  "records": 30,
+  "counts": {
+    "A": 5,
+    "B": 10,
+    "C": 9,
+    "D": 6
+  },
+  "uniqueDOIs": 30,
+  "overlapWithRound1": 0,
+  "registryMatches": 29,
+  "publisherPDFMatches": [
+    {
+      "id": "O32",
+      "doi": "10.3873/j.issn.1000-1328.2025.01.017"
+    }
+  ],
+  "queries": 66,
+  "pendingCandidates": 2,
+  "manualFullTextAccepted": false,
+  "outputPath": "D:\\SKT727\\outputs\\01a11e77-36b7-7370-a9e0-d2704d74255c\\literature_round2_20261009\\星座运维方法研究_第二轮_20261009.xlsx"
+}
