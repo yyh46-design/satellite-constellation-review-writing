@@ -2255,7 +2255,7 @@
 | 适用限制与待核 | 不能把长稿新版的全部结论归入会议摘要；没有据此确认FAME飞行验证。<br>正式AAMAS 2026扩展摘要。关联arXiv:2601.06188在v4（2026-08-01）改题为Scalable Dynamic Distributed Constraint Optimization with Metareasoning and Application to Continual Satellite Operations；不另计数。 |
 | 精读安排 | 背景或方法参照 |
 | 全文核查问题 | 提取分解、算法作用位置、可行性检查、信息交换、网络异常、理论前提和训练／在线总成本。 |
-| 一手来源 | [原文入口](https://dl.acm.org/doi/10.65109/JCYH5778)；[原文入口](https://arxiv.org/abs/2601.06188v1)；[原文入口](https://doi.org/10.65109/JCYH5778) |
+| 一手来源 | [AAMAS会议DOI](https://doi.org/10.65109/JCYH5778)；[作者预印本v1](https://arxiv.org/abs/2601.06188v1)；[改题长稿v4及版本注释](https://arxiv.org/abs/2601.06188v4) |
 
 ### O93 用于鲁棒任务分配的基于一致性的去中心化拍卖
 
