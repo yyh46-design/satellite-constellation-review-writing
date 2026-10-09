@@ -8,15 +8,16 @@
 2. [当前五章框架](framework/FIVE_CHAPTER_OUTLINE.md)：一级目录与第三章四个小节。
 3. [章节与研究问题对应](evidence/CHAPTER_QUESTION_MAP.md)：25个写作问题及关联文献。
 4. [148条文献索引](literature/LITERATURE_INDEX_148.md)：英文原标题、中文译名、DOI和主要用途。
-5. [首轮40篇精读队列](evidence/FIRST_READING_QUEUE_40.md)：精读顺序与需确认的问题。
-6. [逐篇证据与用途](evidence/MAPPING_BY_SECTION.md)：方法、约束、读取依据、原文定位和适用限制。
+5. [2026-10-09定向核查修订记录](evidence/DOI_EVIDENCE_RECHECK_20261009.md)：出版版本、模型假设及证据使用边界。
+6. [首轮40篇精读队列](evidence/FIRST_READING_QUEUE_40.md)：精读顺序与需确认的问题。
+7. [逐篇证据与用途](evidence/MAPPING_BY_SECTION.md)：方法、约束、读取依据、原文定位和适用限制。
 
 ## 当前状态
 
 - DOI主库148条：20篇综述、128条研究或方法文献；个别会议材料和相邻场景文献的用途已标明。148是候选库数量，尚非最终纳入数量。
 - 当前采用5章骨架。25个问题ID是整理工具，不对应25个文章小节。
 - 初筛分组：40条首轮锚点精读、62条第二轮专题精读、40条背景或方法参照、6条待技术内容核查。
-- 本轮局部原文核查：R03、O27、O60、O64；本轮作者摘要核查：O112。完整全文提取与作者人工逐条复核尚未完成。
+- 前期局部原文核查：R03、O27、O60、O64。本轮定向补充O09、O10、O97、O99的局部原文位置核查，O75的IEEE正式书目元数据、O92的会议扩展摘要/预印本版本关系、O112的Wiley正式期刊摘要核查。完整全文提取与作者人工逐条复核仍未完成。
 - 4条DOI或版本待核候选保留在[独立清单](literature/PENDING_CANDIDATES.md)，未计入148条主库。
 - 写作准则尚待讨论，见[决策记录](discussion/WRITING_RULES_DECISIONS.md)。本工作区没有把讨论问题自动转成已采用的规范。
 
@@ -29,12 +30,13 @@
 | 第三轮扩展 | [第三轮文献库](snapshots/literature_round3_20261009/星座智能运维综述文献库_第三轮扩展_20261009.xlsx) | 历史原表 |
 | 第四轮补检 | [第四轮文献库](snapshots/literature_round4_20261009/星座智能运维综述文献库_第四轮补检_20261009.xlsx) | 包含完整148条索引 |
 | 框架与初筛v1 | [历史9章框架及初筛](snapshots/review_framework_v1_20261009/星座综述框架与148篇文献初筛_v1_20261009.xlsx) | 保留整理过程；当前目录以5章文件为准 |
-| 当前对应表v2 | [5章文献证据对应表](snapshots/review_evidence_mapping_v2_20261009/五章综述_章节研究问题文献证据对应表_148篇_v2_20261009.xlsx) | 当前工作表，含148条映射和25个研究问题 |
+| 对应表v2（历史快照） | [5章文献证据对应表](snapshots/review_evidence_mapping_v2_20261009/五章综述_章节研究问题文献证据对应表_148篇_v2_20261009.xlsx) | 保留148条映射和25个问题的2026-10-09原始快照；最新修订以证据CSV和逐篇Markdown为准 |
 
 
 ## 数据与来源
 
 - [文献索引CSV](literature/literature_index_148.csv)、[BibTeX](literature/references_148.bib)、[证据对应CSV](evidence/literature_evidence_mapping_148.csv)可用于检索、筛选和引用管理。BibTeX使用现有题名、作者、年份、刊物和DOI，缺失卷期页码未补造。
+- 本轮定向修订已同步当前CSV、Markdown与O75 BibTeX书目；历史Excel快照保持字节不变，不能单独当作最新核查状态。参见[修订记录](evidence/DOI_EVIDENCE_RECHECK_20261009.md)。
 - snapshots保留各轮检索式、编目结果、注释、结构化记录、生成脚本和检查记录。原始文件复制保持字节一致。
 - 引用正文中的技术结论前，需确认一手原文支持及具体位置。摘要和题名定位状态已与原文局部核查区分。
 - [内容范围与上传记录](provenance/PUBLICATION_SCOPE.md)和[文件清单与SHA-256](provenance/PACKAGE_MANIFEST.json)用于核对包内材料。第三方论文全文使用原文链接访问。
