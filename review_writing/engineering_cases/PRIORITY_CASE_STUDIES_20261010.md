@@ -42,7 +42,7 @@
 ## B｜实际运维与故障、在轨服务
 
 ### 6. Axelspace：同一星座同时有恢复与失败案例（EC030—EC031）
-2026年1月，[Axelspace披露GRUS-1E恢复商业采集](https://www.axelspace.com/news/grus-1e_commercial_operations/)；在2026年7月GRUS-3七星批次发射后，[9月29日公司报告](https://www.axelspace.com/news/grus3_20260929/)4星高速下传系统异常；[10月6日后续说明](https://www.axelspace.com/ja/news/grus3_20261006/)进一步认定该高速通信部分为永久故障，相关四星难以按原计划提供高速影像下传商业服务，另外三颗尚在测试。
+2026年1月，[Axelspace披露GRUS-1E恢复商业采集](https://www.axelspace.com/news/grus-1e_commercial_operations/)；在2026年7月GRUS-3七星批次发射后，[9月29日公司报告](https://www.axelspace.com/news/grus3_20260929/)4星高速下传系统异常；[10月6日后续说明](https://www.axelspace.com/ja/news/grus3_20261006/)进一步认定四颗卫星的**高速下传部分为永久故障**；公司推测原因与射频功率放大器散热不足有关，并建立外部专家评估机制。四星其他设备及低速遥测仍可工作，未立即安排离轨；其余三颗计划降低通信功率并缩短下传时长，商业运行目标推迟至**2027年2月**。
 
 **论文用途。** 3.1、3.3和3.4讨论：发射/入轨成功不等于产生可售服务能力；故障会使星座可用任务容量下降，甚至同一批卫星出现共同子系统风险；运维系统需要记录局部功能恢复与最终业务恢复的区别。
 
