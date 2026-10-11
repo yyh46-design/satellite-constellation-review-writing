@@ -1,0 +1,69 @@
+{
+  "status": "PASS_LOCAL_STRUCTURE_REFERENCE_AND_IDENTITY_CHECKS",
+  "manuscript_sha256": "f46d410547085b397f635d2f70ab9bd64c5e943dab54bc8194e81f1e0a1531c2",
+  "baseline_unchanged": "a9462f5224cf14fa66eac120840b67da97623421f48f32ef8ef1f7105d40ad3d",
+  "counts": {
+    "academic": 50,
+    "journal_articles": 46,
+    "conference_papers": 4,
+    "engineering_documents": 8,
+    "total_sources": 58
+  },
+  "all_original_47_dois_retained": true,
+  "bibliography_matches_actual_body": true,
+  "registry_metadata_title_doi_matches": 50,
+  "tables": [
+    {
+      "header_line": 77,
+      "columns": 5,
+      "data_rows": 3
+    },
+    {
+      "header_line": 155,
+      "columns": 6,
+      "data_rows": 14
+    },
+    {
+      "header_line": 256,
+      "columns": 5,
+      "data_rows": 5
+    },
+    {
+      "header_line": 294,
+      "columns": 4,
+      "data_rows": 8
+    }
+  ],
+  "chapter_count": 5,
+  "english_abstract_words": 228,
+  "anchors": {
+    "## 摘要": 5,
+    "# 第1章": 19,
+    "# 第2章": 49,
+    "**表1 ": 75,
+    "## 3.2": 123,
+    "**表2 ": 153,
+    "# 第4章": 240,
+    "# 第5章": 327,
+    "# 参考文献与工程资料": 339,
+    "## 学术文献": 343,
+    "## 工程资料": 445
+  },
+  "limits": [
+    "Registry identity checks and local structure checks do not verify all technical propositions.",
+    "Author final verification and submission formatting remain pending."
+  ],
+  "primary_bibliographic_overrides": [
+    {
+      "reference_number": 46,
+      "doi": "10.1109/SMC-IT.2006.48",
+      "fields": [
+        "authors",
+        "year"
+      ],
+      "primary_sources_checked": true
+    }
+  ],
+  "manuscript_and_standalone_bibliography_identical": true,
+  "all_publication_author_year_fields_present": true
+}

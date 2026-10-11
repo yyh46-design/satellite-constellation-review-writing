@@ -1,0 +1,7 @@
+# Preserve the published writing snapshots and their recorded SHA-256 values.
+.gitattributes -text
+review_writing/versions/** -text
+README.md -text
+review_writing/README.md -text
+review_writing/START_HERE_v0.7.md -text
+review_writing/provenance/PUBLICATION_MANIFEST_v0.7_20261011.json -text

@@ -1,0 +1,198 @@
+{
+  "repository": "yyh46-design/satellite-constellation-review-writing",
+  "branch": "writing/integrated-review-v07-20261011",
+  "published_on": "2026-10-11",
+  "source_snapshot_date": "2026-10-10",
+  "parent_commit": "06e7df85ffac5798dbd885f31df6fad2af3ce1c3",
+  "manuscript_sha256": "eff077f1b3cc519a57557cd822c88d2aabde530f1d44a7945c969b6481d46759",
+  "counts": {
+    "academic": 98,
+    "journal_articles": 91,
+    "conference_papers": 6,
+    "book_chapters": 1,
+    "engineering_documents": 10,
+    "total_sources": 108
+  },
+  "authorization": "User explicitly requested pushing these writing materials to the existing GitHub writing repository.",
+  "repository_visibility": "private; unchanged",
+  "publication_scope": "Manuscript, bibliographies, revision/evidence records, public bibliographic metadata, reproduction helpers and previous local draft snapshots.",
+  "excluded": "Third-party full-paper PDFs/images, unrelated project code/data, secrets and temporary working-section outputs.",
+  "submission_ready": false,
+  "file_count_excluding_this_manifest": 29,
+  "files": [
+    {
+      "path": "review_writing/versions/review_integrated_draft_20261010/REVIEW_FULL_v0.7.md",
+      "sha256": "eff077f1b3cc519a57557cd822c88d2aabde530f1d44a7945c969b6481d46759",
+      "bytes": 122403,
+      "copied_byte_identically": true
+    },
+    {
+      "path": "review_writing/versions/review_integrated_draft_20261010/REFERENCES_v0.7.md",
+      "sha256": "1f1992cf2b021b942f6dfb0af1545ca638736bcaac23a9a8f77970e829323c33",
+      "bytes": 36743,
+      "copied_byte_identically": true
+    },
+    {
+      "path": "review_writing/versions/review_integrated_draft_20261010/AUTHOR_NOTES_v0.7.md",
+      "sha256": "296d213da7ef61dd037739f7769c5f9cc586b8351e0fd43ca2939278d1bd5332",
+      "bytes": 5958,
+      "copied_byte_identically": true
+    },
+    {
+      "path": "review_writing/versions/review_integrated_draft_20261010/ADDED_REFERENCE_ROLES_v0.7.md",
+      "sha256": "79cec675a6cd75ff8ca270694cac6f31f111c49b0a77f00405a1d609aadc5512",
+      "bytes": 16372,
+      "copied_byte_identically": true
+    },
+    {
+      "path": "review_writing/versions/review_integrated_draft_20261010/SOURCE_AND_CLAIM_RECORD_v0.7.json",
+      "sha256": "c413dda2874d53dce2128ef7e52755657be94e60c2ee2054886fb35c2390f46d",
+      "bytes": 191609,
+      "copied_byte_identically": true
+    },
+    {
+      "path": "review_writing/versions/review_integrated_draft_20261010/LOCAL_CHECKS_v0.7.json",
+      "sha256": "9432c748ef622901df844166deba1bb9284a1fa2b8676045713e4d4d14351e7e",
+      "bytes": 3814,
+      "copied_byte_identically": true
+    },
+    {
+      "path": "review_writing/versions/review_integrated_draft_20261010/CORE_PRESERVATION_v0.7.json",
+      "sha256": "1dade3cb9e1a6025532051edf9b4f8159efdc3afb796e82cc4aad9fe28792685",
+      "bytes": 3346,
+      "copied_byte_identically": true
+    },
+    {
+      "path": "review_writing/versions/review_integrated_draft_20261010/CANDIDATE_SELECTION_v0.7.json",
+      "sha256": "33a7c996259b01dddbe3439f4f5a316023889fac679cda9cccce1560c3bd3f10",
+      "bytes": 99560,
+      "copied_byte_identically": true
+    },
+    {
+      "path": "review_writing/versions/review_integrated_draft_20261010/BIBLIOGRAPHY_ADDITIONS_METADATA_v0.7.json",
+      "sha256": "a57dc4ad86ca7426d418014bb390839c959e89ab01be2bd57b2369c3c93fc757",
+      "bytes": 1172501,
+      "copied_byte_identically": true
+    },
+    {
+      "path": "review_writing/versions/review_integrated_draft_20261010/CFS_PRIMARY_SNAPSHOT_v0.7.json",
+      "sha256": "9575043b140e885d7d6f26ed71e2fcf735f0bb48d2fda2a342da6916ce049c0a",
+      "bytes": 4821,
+      "copied_byte_identically": true
+    },
+    {
+      "path": "review_writing/versions/review_integrated_draft_20261010/build_v07.py",
+      "sha256": "6f75b756865b11b3fe4fea611012bf2d205ab4d8a81bf9e5f0156793b1f8ffc6",
+      "bytes": 39498,
+      "copied_byte_identically": true
+    },
+    {
+      "path": "review_writing/versions/review_integrated_draft_20261010/check_v07.py",
+      "sha256": "df7aad1aa65a276fcb685579165b0ec14f3c6a7e9acc292b5986e28fe15e0191",
+      "bytes": 6570,
+      "copied_byte_identically": true
+    },
+    {
+      "path": "review_writing/versions/review_integrated_draft_20261010/fetch_metadata_v07.py",
+      "sha256": "3c2fc22fa3d5f084c9d5152c97c131d581ea201447bfd6af0cf32db99d600b8d",
+      "bytes": 1920,
+      "copied_byte_identically": true
+    },
+    {
+      "path": "review_writing/versions/review_full_draft_20261010/REVIEW_FULL_v0.6.md",
+      "sha256": "f46d410547085b397f635d2f70ab9bd64c5e943dab54bc8194e81f1e0a1531c2",
+      "bytes": 115445,
+      "copied_byte_identically": true
+    },
+    {
+      "path": "review_writing/versions/review_full_draft_20261010/REFERENCES_v0.6.md",
+      "sha256": "3ac364210fd4115997ba1e478536cb364469c8078ccd5fe705e6e6ca234b6eb7",
+      "bytes": 19609,
+      "copied_byte_identically": true
+    },
+    {
+      "path": "review_writing/versions/review_full_draft_20261010/AUTHOR_NOTES_v0.6.md",
+      "sha256": "97d82bd16bdbe4ac43a742a3df64cecae274d9d50ca160b02090bdd424aab475",
+      "bytes": 5717,
+      "copied_byte_identically": true
+    },
+    {
+      "path": "review_writing/versions/review_full_draft_20261010/CORE_READING_NOTES_v0.6.md",
+      "sha256": "aaab4ccc14c42f45c75b4ff2ddd5a7fdcabb37c909062d3596546f694a328673",
+      "bytes": 7163,
+      "copied_byte_identically": true
+    },
+    {
+      "path": "review_writing/versions/review_full_draft_20261010/SOURCE_AND_CLAIM_RECORD_v0.6.json",
+      "sha256": "89d228929422f565accac1d256b6b0a77298669da0dfdfd9df3a02a76cee0995",
+      "bytes": 79251,
+      "copied_byte_identically": true
+    },
+    {
+      "path": "review_writing/versions/review_full_draft_20261010/LOCAL_CHECKS_v0.6.json",
+      "sha256": "c551c7789fa7d84bd67d23b7d917a72bf5bd0220177d3b01296411dfc5fb8b09",
+      "bytes": 1808,
+      "copied_byte_identically": true
+    },
+    {
+      "path": "review_writing/versions/review_full_draft_20261010/BIBLIOGRAPHY_REQUEST_v0.6.json",
+      "sha256": "a33e2796de3bf5e5793860fd9961374e650be161201bb1d2d5e7a23e8c25e2f1",
+      "bytes": 7820,
+      "copied_byte_identically": true
+    },
+    {
+      "path": "review_writing/versions/review_full_draft_20261010/BIBLIOGRAPHY_METADATA_v0.6.json",
+      "sha256": "14cb4b409ff52abd277901eb11ff6c0c2214868c13c4679b4f27cce732f2a715",
+      "bytes": 142723,
+      "copied_byte_identically": true
+    },
+    {
+      "path": "review_writing/versions/review_engineering_draft_20261010/REVIEW_CHAPTERS_02_04_v0.5.md",
+      "sha256": "a9462f5224cf14fa66eac120840b67da97623421f48f32ef8ef1f7105d40ad3d",
+      "bytes": 76673,
+      "copied_byte_identically": true
+    },
+    {
+      "path": "review_writing/versions/review_engineering_draft_20261010/AUTHOR_NOTES_v0.5.md",
+      "sha256": "c19fe8dcd97e3f367e202bf37310a667fcd318f48ab1a22b930dced6a7cde46b",
+      "bytes": 8947,
+      "copied_byte_identically": true
+    },
+    {
+      "path": "review_writing/versions/review_engineering_draft_20261010/COMPARISON_EVIDENCE_v0.5.json",
+      "sha256": "b26ad20eaf6d787dedda290cebfb99ca7bd8c313d8106526f3334d4dee8667ff",
+      "bytes": 22878,
+      "copied_byte_identically": true
+    },
+    {
+      "path": "review_writing/versions/review_engineering_draft_20261010/LOCAL_CHECKS_v0.5.json",
+      "sha256": "4a827852c8ba42746c523c907ed773260d92d368ae7ee1f2cd1cb0ec2237f98d",
+      "bytes": 1364,
+      "copied_byte_identically": true
+    },
+    {
+      "path": "README.md",
+      "sha256": "5bda82624401ec78d2e9cf1ef95d2cf1ebcef634bdbf0cef54c518754f836f5f",
+      "bytes": 992,
+      "new_or_updated_reading_entry": true
+    },
+    {
+      "path": "review_writing/README.md",
+      "sha256": "c299544d3e17ecd56b1b0b2b6a3d2346bd3f2f0ba306a474d3114601ff7c446c",
+      "bytes": 6608,
+      "new_or_updated_reading_entry": true
+    },
+    {
+      "path": "review_writing/START_HERE_v0.7.md",
+      "sha256": "8fd954cdd5950926b32a6bd5c491c5c08b1f7c56113b2a5781a52c976a723047",
+      "bytes": 4245,
+      "new_or_updated_reading_entry": true
+    },
+    {
+      "path": ".gitattributes",
+      "sha256": "ee03db7d105cb6318bcc0d1b78f89e478df729421c77f1379641e1bc98f25b35",
+      "bytes": 291,
+      "purpose": "Disable automatic EOL conversion for published snapshots and reading-entry files."
+    }
+  ]
+}

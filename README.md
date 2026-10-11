@@ -1,9 +1,12 @@
 # 大型卫星星座智能管理与调度综述
 
-本仓库专门保存综述文献整理、框架、证据映射和写作准则讨论。
+本分支提供2026-10-11发布的完整整合稿v0.7，供作者与GPT讨论写作效果和后续修订。
 
-当前写作分支：[writing/constellation-management-review-20261009](https://github.com/yyh46-design/satellite-constellation-review-writing/tree/writing/constellation-management-review-20261009)。
+- **[从GPT讨论入口开始](review_writing/START_HERE_v0.7.md)**
+- [直接阅读完整稿v0.7](review_writing/versions/review_integrated_draft_20261010/REVIEW_FULL_v0.7.md)
+- [实际引用清单：98篇学术文献与10份工程资料](review_writing/versions/review_integrated_draft_20261010/REFERENCES_v0.7.md)
+- [本版修订说明](review_writing/versions/review_integrated_draft_20261010/AUTHOR_NOTES_v0.7.md)
 
-请先阅读[写作工作区说明](https://github.com/yyh46-design/satellite-constellation-review-writing/blob/writing/constellation-management-review-20261009/review_writing/README.md)，然后阅读[给GPT的讨论说明](https://github.com/yyh46-design/satellite-constellation-review-writing/blob/writing/constellation-management-review-20261009/review_writing/discussion/GPT_WRITING_STANDARDS_BRIEF.md)。
+写作分支：`writing/integrated-review-v07-20261011`。五章正文、四张比较表及文末108项实际引用已完整保存；逐篇技术内容核查与投稿格式仍待完成。
 
-当前材料包含6份Excel原表、148条候选文献、5章框架、25个写作问题和40篇精读队列。全文核查与写作准则仍按工作区记录逐步补全。
+历史文献库、Excel原表和v0.1—v0.3正文位于[原写作工作区](review_writing/README.md)，v0.5与v0.6对照材料位于review_writing/versions。候选文献数量与实际引用数量分别记录。

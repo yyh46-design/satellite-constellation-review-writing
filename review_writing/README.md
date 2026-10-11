@@ -1,3 +1,11 @@
+# 当前完整综述v0.7
+
+2026-10-11发布：[GPT讨论入口](START_HERE_v0.7.md) / [完整正文](versions/review_integrated_draft_20261010/REVIEW_FULL_v0.7.md) / [108项实际引用清单](versions/review_integrated_draft_20261010/REFERENCES_v0.7.md)。
+
+下方保留此前的文献整理与正文阶段记录；本次讨论以v0.7为准。
+
+---
+
 # 大型卫星星座智能管理与调度综述：写作工作区
 
 材料日期：2026-10-09。此目录整理本次对话形成的检索、框架、文献初筛和用途映射，供讨论写作规范与继续撰写综述。

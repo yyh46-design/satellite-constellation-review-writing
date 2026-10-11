@@ -1,0 +1,202 @@
+[
+  {
+    "title": "Towards the automated operations of large distributed satellite systems. Part 1: Review and paradigm shifts",
+    "doi": "10.1016/j.asr.2020.08.009"
+  },
+  {
+    "title": "Managing Mega-Constellations: A Starlink-Informed Review",
+    "doi": "10.3390/sym18071141"
+  },
+  {
+    "title": "Reference architecture for autonomy and adaptivity in satellites",
+    "doi": "10.1016/j.jss.2026.112802"
+  },
+  {
+    "title": "Optimization of satellite constellation reconfiguration maneuvers",
+    "doi": "10.1016/j.actaastro.2014.02.016"
+  },
+  {
+    "title": "Regional Constellation Reconfiguration Problem: Integer Linear Programming Formulation and Lagrangian Heuristic Method",
+    "doi": "10.2514/1.A35685"
+  },
+  {
+    "title": "Deterministic Multistage Constellation Reconfiguration Using Integer Programming and Sequential Decision-Making Methods",
+    "doi": "10.2514/1.A35990"
+  },
+  {
+    "title": "Optimal Satellite Constellation Spare Strategy Using Multi-Echelon Inventory Control",
+    "doi": "10.2514/1.A34387"
+  },
+  {
+    "title": "Replenishment Strategy for Satellite Constellation with Dual Supply Modes",
+    "doi": "10.2514/1.A36281"
+  },
+  {
+    "title": "On-Orbit Servicing-Integrated Maintenance Strategy for a Satellite Constellation",
+    "doi": "10.2514/1.A36684"
+  },
+  {
+    "title": "Orbital Facility Location Problem for Satellite Constellation Servicing Depots",
+    "doi": "10.2514/1.A35691"
+  },
+  {
+    "title": "Orbital Depot Location Optimization for Satellite Constellation Servicing with Low-Thrust Transfers",
+    "doi": "10.2514/1.A36386"
+  },
+  {
+    "title": "Deployment of On-Orbit Service Vehicles Using a Fuzzy Adaptive Particle Swarm Optimization Algorithm",
+    "doi": "10.1155/2021/6644339"
+  },
+  {
+    "title": "Framework for Modeling and Optimization of On-Orbit Servicing Operations Under Demand Uncertainties",
+    "doi": "10.2514/1.A34978"
+  },
+  {
+    "title": "A branch-and-price algorithm for energy aware task scheduling of constellations of nanosatellites",
+    "doi": "10.1016/j.cor.2025.107259"
+  },
+  {
+    "title": "Lagrangian hierarchical mixed-integer programming for ultra-large-scale satellite scheduling under dynamic task delivery",
+    "doi": "10.1016/j.asr.2025.12.008"
+  },
+  {
+    "title": "Decentralized Observation Allocation for a Large-Scale Constellation",
+    "doi": "10.2514/1.I011215"
+  },
+  {
+    "title": "Decentralized, Decomposition-Based Observation Scheduling for a Large-Scale Satellite Constellation",
+    "doi": "10.1613/jair.1.16997"
+  },
+  {
+    "title": "Joint Observation and Transmission Scheduling in Agile Satellite Networks",
+    "doi": "10.1109/TMC.2021.3076088"
+  },
+  {
+    "title": "Joint observation and transmission scheduling of multiple agile satellites with energy constraint using improved ACO algorithm",
+    "doi": "10.1016/j.actaastro.2025.02.008"
+  },
+  {
+    "title": "Edge Intelligence for Satellite-Based Earth Observation: Scheduling Image Acquisition and Processing",
+    "doi": "10.1002/sat.70082"
+  },
+  {
+    "title": "Online scheduling of distributed Earth observation satellite system under rigid communication constraints",
+    "doi": "10.1016/j.asr.2020.02.018"
+  },
+  {
+    "title": "Deep reinforcement learning-assisted large neighborhood search for online scheduling large-scale emergency tasks to Earth-observing satellites",
+    "doi": "10.1016/j.eswa.2025.128502"
+  },
+  {
+    "title": "Single-Agent Reinforcement Learning for Scalable Earth-Observing Satellite Constellation Operations",
+    "doi": "10.2514/1.A35736"
+  },
+  {
+    "title": "A comparative analysis of reinforcement learning algorithms for earth-observing satellite scheduling",
+    "doi": "10.3389/frspt.2023.1263489"
+  },
+  {
+    "title": "Multi-orbit routing and scheduling of refuellable on-orbit servicing space robots",
+    "doi": "10.1016/j.cie.2022.108852"
+  },
+  {
+    "title": "On-orbit refueling robust mission scheduling with uncertain duration for geosynchronous orbit spacecraft",
+    "doi": "10.1016/j.cja.2025.103774"
+  },
+  {
+    "title": "Low-Thrust Propulsion and Drift Orbit Optimization for Multi-Client Servicing Missions in Low Earth Orbit",
+    "doi": "10.1007/s40295-026-00580-4"
+  },
+  {
+    "title": "Satellite closest approach calculation through Chebyshev Proxy Polynomials",
+    "doi": "10.1016/j.actaastro.2020.01.020"
+  },
+  {
+    "title": "Performance Investigation of the Conjunction Filter Methods and Enhancement of Computation Speed on Conjunction Assessment Analysis with CUDA Techniques",
+    "doi": "10.3390/aerospace10060543"
+  },
+  {
+    "title": "Simulation of satellites and constellations for the assessment of collision avoidance operations",
+    "doi": "10.1007/s12567-022-00471-y"
+  },
+  {
+    "title": "CAMmary: A review of spacecraft collision avoidance manoeuvre design methods",
+    "doi": "10.1016/j.actaastro.2025.07.027"
+  },
+  {
+    "title": "Chance-constrained model predictive control for spacecraft rendezvous with disturbance estimation",
+    "doi": "10.1016/j.conengprac.2011.09.006"
+  },
+  {
+    "title": "Chance-constrained visual servoing MPC for non-cooperative spacecraft rendezvous",
+    "doi": "10.1016/j.ast.2025.111237"
+  },
+  {
+    "title": "Continuous-Time Successive Convexification for Passively-Safe Spacecraft Rendezvous on a Near Rectilinear Halo Orbit",
+    "doi": "10.2514/6.2026-2446"
+  },
+  {
+    "title": "Two Approaches to Autonomous Spacecraft Inspection: Shielded Reinforcement Learning versus Probabilistic Roadmaps",
+    "doi": "10.1007/s40295-026-00631-w"
+  },
+  {
+    "title": "Detecting Spacecraft Anomalies Using LSTMs and Nonparametric Dynamic Thresholding",
+    "doi": "10.1145/3219819.3219845"
+  },
+  {
+    "title": "Unmasking overestimation: a re-evaluation of deep anomaly detection in spacecraft telemetry",
+    "doi": "10.1007/s12567-023-00529-5"
+  },
+  {
+    "title": "Knowledge-based satellite failure detection, isolation and recovery (FDIR)",
+    "doi": "10.1007/s12567-025-00651-6"
+  },
+  {
+    "title": "Resilient Autonomous Mission Management for Decentralized Multispacecraft Missions",
+    "doi": "10.2514/1.I011208"
+  },
+  {
+    "title": "A delay-tolerant network approach to satellite pickup and delivery scheduling",
+    "doi": "10.1016/j.adhoc.2023.103289"
+  },
+  {
+    "title": "Dynamic Management Topology Construction, Evolution, and Maintenance of Low Earth Orbit Mega-Constellation",
+    "doi": "10.34133/space.0248"
+  },
+  {
+    "title": "Reasoning-Based Scheduling Method for Agile Earth Observation Satellite with Multi-Subsystem Coupling",
+    "doi": "10.3390/rs15061577"
+  },
+  {
+    "title": "Mission Operations of Earth Observing-1 with Onboard Autonomy",
+    "doi": "10.1109/SMC-IT.2006.48"
+  },
+  {
+    "title": "Onboard Autonomy on the Intelligent Payload Experiment CubeSat Mission",
+    "doi": "10.2514/1.I010386"
+  },
+  {
+    "title": "A model-driven framework for supervised reconfiguration of satellite schedulers",
+    "doi": "10.1007/s10270-026-01426-1"
+  },
+  {
+    "title": "Performance of the Asynchronous Consensus Based Bundle Algorithm in Lossy Network Environments",
+    "doi": "10.1109/SAM.2018.8448984"
+  },
+  {
+    "title": "Model checking of spacecraft operational designs: a scalability analysis",
+    "doi": "10.1007/s10270-025-01281-6"
+  },
+  {
+    "title": "Agile Earth Observation Satellite Scheduling Over 20 Years: Formulations, Methods, and Future Directions",
+    "doi": "10.1109/JSYST.2020.2997050"
+  },
+  {
+    "title": "Satellite Scheduling Problems: A survey of applications in Earth and outer space observation",
+    "doi": "10.1016/j.cor.2024.106875"
+  },
+  {
+    "title": "Agent-based approaches for distributed space systems and mission management: Methodologies, current practices and challenges",
+    "doi": "10.1016/j.actaastro.2025.10.018"
+  }
+]

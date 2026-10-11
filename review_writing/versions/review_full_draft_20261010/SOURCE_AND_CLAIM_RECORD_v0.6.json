@@ -1,0 +1,1906 @@
+{
+  "document_id": "constellation-review-v0.6",
+  "created_on": "2026-10-10",
+  "manuscript_type": "problem-driven narrative technical review",
+  "processing_boundary": "local author workspace; public titles, DOIs and source URLs only used for discovery and bibliographic registry queries",
+  "submission_ready": false,
+  "author_final_verification": "pending",
+  "baseline": {
+    "path": "D:/SKT727/outputs/review_engineering_draft_20261010/REVIEW_CHAPTERS_02_04_v0.5.md",
+    "sha256": "a9462f5224cf14fa66eac120840b67da97623421f48f32ef8ef1f7105d40ad3d"
+  },
+  "counts": {
+    "academic": 50,
+    "journal_articles": 46,
+    "conference_papers": 4,
+    "engineering_documents": 8,
+    "total_sources": 58
+  },
+  "sources": [
+    {
+      "evidence_id": "E01",
+      "reference_number": 1,
+      "doi": "10.1016/j.asr.2020.08.009",
+      "title": "Towards the automated operations of large distributed satellite systems. Part 1: Review and paradigm shifts",
+      "title_zh": "迈向大型分布式卫星系统自动化运行，第一部分：综述与范式转变",
+      "publication": {
+        "authors": [
+          "Mohamed Khalil Ben-Larbi",
+          "Kattia Flores Pozo",
+          "Tom Haylok",
+          "Mirue Choi",
+          "Benjamin Grzesik",
+          "Andreas Haas",
+          "Dominik Krupke",
+          "Harald Konstanski",
+          "Volker Schaus",
+          "Sándor P. Fekete",
+          "Christian Schurig",
+          "Enrico Stoll"
+        ],
+        "journal": "Advances in Space Research",
+        "year": 2021,
+        "volume": "67",
+        "issue": "11",
+        "page": "3598-3619",
+        "article_number": null,
+        "type": "journal-article"
+      },
+      "registry_url": "https://api.crossref.org/works/10.1016%2Fj.asr.2020.08.009",
+      "registry_identity_checked": true,
+      "original_source_urls": [
+        "https://www.sciencedirect.com/science/article/pii/S0273117720305676",
+        "https://doi.org/10.1016/j.asr.2020.08.009"
+      ],
+      "inherited_content_status": "沿用前轮提取；待完整全文核查",
+      "current_targeted_check": {
+        "doi": "10.1016/j.asr.2020.08.009",
+        "source": "https://www.sciencedirect.com/science/article/pii/S0273117720305676",
+        "locators": "本轮出版页面Abstract与Introduction；前轮记录保持",
+        "checked": "常规星座运行、自动化与扩展性需求；不把2021年的工程状态叙述当作2026年现状",
+        "draft_use": "1.1–1.2已有综述定位",
+        "human_verified": false
+      },
+      "author_verified": false
+    },
+    {
+      "evidence_id": "E02",
+      "reference_number": 2,
+      "doi": "10.2514/1.A34387",
+      "title": "Optimal Satellite Constellation Spare Strategy Using Multi-Echelon Inventory Control",
+      "title_zh": "采用多级库存控制的最优卫星星座备份策略",
+      "publication": {
+        "authors": [
+          "Pauline Jakob",
+          "Seiichi Shimizu",
+          "Shoji Yoshikawa",
+          "Koki Ho"
+        ],
+        "journal": "Journal of Spacecraft and Rockets",
+        "year": 2019,
+        "volume": "56",
+        "issue": "5",
+        "page": "1449-1461",
+        "article_number": null,
+        "type": "journal-article"
+      },
+      "registry_url": "https://api.crossref.org/works/10.2514%2F1.A34387",
+      "registry_identity_checked": true,
+      "original_source_urls": [
+        "https://arxiv.org/html/1807.02685v4",
+        "https://arxiv.org/abs/1807.02685",
+        "https://holab.ae.illinois.edu/files/2018/09/paper-spare-strategy_AIAA.pdf",
+        "https://doi.org/10.2514/1.A34387"
+      ],
+      "inherited_content_status": "本批已完成一手原文指定方法/实验/限制段落精读；作者全文验收待完成",
+      "current_targeted_check": null,
+      "author_verified": false
+    },
+    {
+      "evidence_id": "E03",
+      "reference_number": 3,
+      "doi": "10.1109/TMC.2021.3076088",
+      "title": "Joint Observation and Transmission Scheduling in Agile Satellite Networks",
+      "title_zh": "敏捷卫星网络中的观测与传输联合调度",
+      "publication": {
+        "authors": [
+          "Lijun He",
+          "Ben Liang",
+          "Jiandong Li",
+          "Min Sheng"
+        ],
+        "journal": "IEEE Transactions on Mobile Computing",
+        "year": 2022,
+        "volume": "21",
+        "issue": "12",
+        "page": "4381-4396",
+        "article_number": null,
+        "type": "journal-article"
+      },
+      "registry_url": "https://api.crossref.org/works/10.1109%2FTMC.2021.3076088",
+      "registry_identity_checked": true,
+      "original_source_urls": [
+        "https://www.comm.utoronto.ca/~liang/publications/TMC_ObsTrans_ASN.pdf",
+        "https://doi.org/10.1109/TMC.2021.3076088"
+      ],
+      "inherited_content_status": "沿用前轮提取；待完整全文核查",
+      "current_targeted_check": null,
+      "author_verified": false
+    },
+    {
+      "evidence_id": "E04",
+      "reference_number": 4,
+      "doi": "10.2514/1.I011208",
+      "title": "Resilient Autonomous Mission Management for Decentralized Multispacecraft Missions",
+      "title_zh": "去中心化多航天器任务的韧性自主任务管理",
+      "publication": {
+        "authors": [
+          "Antony Gillette",
+          "Alan George"
+        ],
+        "journal": "Journal of Aerospace Information Systems",
+        "year": 2023,
+        "volume": "20",
+        "issue": "7",
+        "page": "387-397",
+        "article_number": null,
+        "type": "journal-article"
+      },
+      "registry_url": "https://api.crossref.org/works/10.2514%2F1.I011208",
+      "registry_identity_checked": true,
+      "original_source_urls": [
+        "https://doi.org/10.2514/1.I011208",
+        "https://d-scholarship.pitt.edu/43768/25/antony_gillette_etdPitt2022.pdf"
+      ],
+      "inherited_content_status": "沿用前轮提取；待完整全文核查",
+      "current_targeted_check": null,
+      "author_verified": false
+    },
+    {
+      "evidence_id": "E05",
+      "reference_number": 5,
+      "doi": "10.1109/JSYST.2020.2997050",
+      "title": "Agile Earth Observation Satellite Scheduling Over 20 Years: Formulations, Methods, and Future Directions",
+      "title_zh": "敏捷对地观测卫星调度二十年：建模、方法与未来方向",
+      "publication": {
+        "authors": [
+          "Xinwei Wang",
+          "Guohua Wu",
+          "Lining Xing",
+          "Witold Pedrycz"
+        ],
+        "journal": "IEEE Systems Journal",
+        "year": 2021,
+        "volume": "15",
+        "issue": "3",
+        "page": "3881-3892",
+        "article_number": null,
+        "type": "journal-article"
+      },
+      "registry_url": "https://api.crossref.org/works/10.1109%2FJSYST.2020.2997050",
+      "registry_identity_checked": true,
+      "original_source_urls": [
+        "https://arxiv.org/html/2003.06169",
+        "https://arxiv.org/abs/2003.06169",
+        "https://doi.org/10.1109/JSYST.2020.2997050"
+      ],
+      "inherited_content_status": "本轮已核原文局部；完整精读待完成",
+      "current_targeted_check": {
+        "doi": "10.1109/JSYST.2020.2997050",
+        "source": "https://arxiv.org/html/2003.06169",
+        "locators": "作者稿Abstract、§2、§3及§4",
+        "checked": "敏捷观测任务表示、运行约束、收益/多目标/自主变体；精确、启发式、元启发式、机器学习四种求解组织；未引用作者稿历史工程数量",
+        "draft_use": "1.2既有综述比较；2.3模型定义来源",
+        "human_verified": false
+      },
+      "author_verified": false
+    },
+    {
+      "evidence_id": "E06",
+      "reference_number": 6,
+      "doi": "10.1016/j.cor.2024.106875",
+      "title": "Satellite Scheduling Problems: A survey of applications in Earth and outer space observation",
+      "title_zh": "卫星调度问题：对地与外层空间观测应用综述",
+      "publication": {
+        "authors": [
+          "Benedetta Ferrari",
+          "Jean-François Cordeau",
+          "Maxence Delorme",
+          "Manuel Iori",
+          "Roberto Orosei"
+        ],
+        "journal": "Computers & Operations Research",
+        "year": 2025,
+        "volume": "173",
+        "issue": null,
+        "page": "106875",
+        "article_number": "106875",
+        "type": "journal-article"
+      },
+      "registry_url": "https://api.crossref.org/works/10.1016%2Fj.cor.2024.106875",
+      "registry_identity_checked": true,
+      "original_source_urls": [
+        "https://chairelogistique.hec.ca/wp-content/uploads/2024/02/Survey_on_observation_scheduling.pdf",
+        "https://doi.org/10.1016/j.cor.2024.106875"
+      ],
+      "inherited_content_status": "沿用前轮提取；待完整全文核查",
+      "current_targeted_check": {
+        "doi": "10.1016/j.cor.2024.106875",
+        "source": "https://chairelogistique.hec.ca/wp-content/uploads/2024/02/Survey_on_observation_scheduling.pdf",
+        "locators": "作者机构稿Abstract与§1–2问题分类；正式出版元数据对照Tilburg作者机构记录",
+        "checked": "以应用/问题变体组织地球及外层空间成像、通信调度综述；正式卷期2025，DOI含2024不等于卷期年",
+        "draft_use": "1.2既有综述比较",
+        "human_verified": false
+      },
+      "author_verified": false
+    },
+    {
+      "evidence_id": "E07",
+      "reference_number": 7,
+      "doi": "10.3390/sym18071141",
+      "title": "Managing Mega-Constellations: A Starlink-Informed Review",
+      "title_zh": "巨型星座管理：以Starlink为参照的综述",
+      "publication": {
+        "authors": [
+          "Tianle Yin",
+          "Zhijian He",
+          "Quan Li",
+          "Jin Wu",
+          "Renuganth Varatharajoo",
+          "Dezhi Xu",
+          "Chengxi Zhang"
+        ],
+        "journal": "Symmetry",
+        "year": 2026,
+        "volume": "18",
+        "issue": "7",
+        "page": "1141",
+        "article_number": null,
+        "type": "journal-article"
+      },
+      "registry_url": "https://api.crossref.org/works/10.3390%2Fsym18071141",
+      "registry_identity_checked": true,
+      "original_source_urls": [
+        "https://www.mdpi.com/2073-8994/18/7/1141",
+        "https://doi.org/10.3390/sym18071141"
+      ],
+      "inherited_content_status": "沿用前轮提取；待完整全文核查",
+      "current_targeted_check": {
+        "doi": "10.3390/sym18071141",
+        "source": "https://www.mdpi.com/2073-8994/18/7/1141",
+        "locators": "本轮出版页面Abstract、§1.3及主要章节主题",
+        "checked": "Starlink轨道架构/动力学、分层/分群管理与构型保持；只用于范围比较，不转引其未独立核验的数量、推进器与平台规格",
+        "draft_use": "1.2已有综述定位",
+        "human_verified": false
+      },
+      "author_verified": false
+    },
+    {
+      "evidence_id": "E08",
+      "reference_number": 8,
+      "doi": "10.1016/j.actaastro.2025.10.018",
+      "title": "Agent-based approaches for distributed space systems and mission management: Methodologies, current practices and challenges",
+      "title_zh": "分布式航天系统与任务管理的智能体方法：方法体系、实践现状与挑战",
+      "publication": {
+        "authors": [
+          "Mohammad Reza Jabbarpour",
+          "Bao Quoc Vo",
+          "Ghaith El-Dalahmeh",
+          "Hassam Tahir",
+          "Ryszard Kowalczyk",
+          "Travis Bessell",
+          "James Barr"
+        ],
+        "journal": "Acta Astronautica",
+        "year": 2026,
+        "volume": "238",
+        "issue": null,
+        "page": "237-257",
+        "article_number": null,
+        "type": "journal-article"
+      },
+      "registry_url": "https://api.crossref.org/works/10.1016%2Fj.actaastro.2025.10.018",
+      "registry_identity_checked": true,
+      "original_source_urls": [
+        "https://digital.library.adelaide.edu.au/server/api/core/bitstreams/482432e4-b0a1-48de-aefb-979a0fc69ca5/content",
+        "https://doi.org/10.1016/j.actaastro.2025.10.018"
+      ],
+      "inherited_content_status": "沿用前轮提取；待完整全文核查",
+      "current_targeted_check": {
+        "doi": "10.1016/j.actaastro.2025.10.018",
+        "source": "https://digital.library.adelaide.edu.au/server/api/core/bitstreams/482432e4-b0a1-48de-aefb-979a0fc69ca5/content",
+        "local_path": "D:/SKT727/outputs/journal_review_style_20261010/sources/Acta_Agent_based_2026.pdf",
+        "locators": "正式PDF页1、4–5（§3）、18–19（§7–8）",
+        "checked": "智能体类型、架构、通信、任务管理与应用分类；已经讨论健康状态和任务目标结合、能耗与通信代价；不将健康+任务本身当作本稿新颖性声明",
+        "draft_use": "1.2比较；2.2架构与推理方式区分",
+        "human_verified": false
+      },
+      "author_verified": false
+    },
+    {
+      "evidence_id": "E09",
+      "reference_number": 9,
+      "doi": "10.1016/j.actaastro.2025.07.027",
+      "title": "CAMmary: A review of spacecraft collision avoidance manoeuvre design methods",
+      "title_zh": "CAMmary：航天器碰撞规避机动设计方法综述",
+      "publication": {
+        "authors": [
+          "Zeno Pavanello",
+          "Luigi De Maria",
+          "Andrea De Vittori",
+          "Michele Maestrini",
+          "Pierluigi Di Lizia",
+          "Roberto Armellin"
+        ],
+        "journal": "Acta Astronautica",
+        "year": 2025,
+        "volume": "236",
+        "issue": null,
+        "page": "770-789",
+        "article_number": null,
+        "type": "journal-article"
+      },
+      "registry_url": "https://api.crossref.org/works/10.1016%2Fj.actaastro.2025.07.027",
+      "registry_identity_checked": true,
+      "original_source_urls": [
+        "https://re.public.polimi.it/bitstream/11311/1294611/1/PAVAZ02-25.pdf",
+        "https://doi.org/10.1016/j.actaastro.2025.07.027"
+      ],
+      "inherited_content_status": "沿用前轮提取；待完整全文核查",
+      "current_targeted_check": null,
+      "author_verified": false
+    },
+    {
+      "evidence_id": "E10",
+      "reference_number": 10,
+      "doi": "10.2514/1.A35990",
+      "title": "Deterministic Multistage Constellation Reconfiguration Using Integer Programming and Sequential Decision-Making Methods",
+      "title_zh": "采用整数规划与序贯决策方法的确定性多阶段星座重构",
+      "publication": {
+        "authors": [
+          "Hang Woon Lee",
+          "David O. Williams Rogers",
+          "Brycen D. Pearl",
+          "Hao Chen",
+          "Koki Ho"
+        ],
+        "journal": "Journal of Spacecraft and Rockets",
+        "year": 2025,
+        "volume": "62",
+        "issue": "1",
+        "page": "206-222",
+        "article_number": null,
+        "type": "journal-article"
+      },
+      "registry_url": "https://api.crossref.org/works/10.2514%2F1.A35990",
+      "registry_identity_checked": true,
+      "original_source_urls": [
+        "https://arxiv.org/abs/2401.11567",
+        "https://repository.gatech.edu/entities/publication/c3b83b47-5dc4-48ec-a7b7-c66db60ca054",
+        "https://doi.org/10.2514/1.A35990"
+      ],
+      "inherited_content_status": "沿用前轮提取；待完整全文核查",
+      "current_targeted_check": null,
+      "author_verified": false
+    },
+    {
+      "evidence_id": "E11",
+      "reference_number": 11,
+      "doi": "10.1613/jair.1.16997",
+      "title": "Decentralized, Decomposition-Based Observation Scheduling for a Large-Scale Satellite Constellation",
+      "title_zh": "面向大型卫星星座的去中心化分解式观测调度",
+      "publication": {
+        "authors": [
+          "Itai Zilberstein",
+          "Ananya Rao",
+          "Matthew Salis",
+          "Steve Chien"
+        ],
+        "journal": "Journal of Artificial Intelligence Research",
+        "year": 2025,
+        "volume": "82",
+        "issue": null,
+        "page": "169-208",
+        "article_number": null,
+        "type": "journal-article"
+      },
+      "registry_url": "https://api.crossref.org/works/10.1613%2Fjair.1.16997",
+      "registry_identity_checked": true,
+      "original_source_urls": [
+        "https://www.jair.org/index.php/jair/article/view/16997",
+        "https://ai.jpl.nasa.gov/public/projects/fame/",
+        "https://doi.org/10.1613/jair.1.16997"
+      ],
+      "inherited_content_status": "本批已完成一手原文指定方法/实验/限制段落精读；作者全文验收待完成",
+      "current_targeted_check": {
+        "doi": "10.1613/jair.1.16997",
+        "source": "https://www.jair.org/index.php/jair/article/download/16997/27120/43309",
+        "locators": "§1、§3信息与资源假设；§5.4与Table 3；§6.1、§6.2.2–6.2.3、Tables 4–5及Figs 11–13",
+        "checked": "200/108卫星与24 h；请求密度决定难度；各代理知道公共请求和星座构型但不具有其他代理详细能力；GND使复杂性依赖子问题；大算例NSS-GND比BD降低最慢代理算时/消息量，但任务满足率仍有差距；Java仿真算时的报告口径",
+        "draft_use": "3.2补资源/信息假设；表2校准字段；4.1加入真实质量—算时—消息权衡",
+        "human_verified": false
+      },
+      "author_verified": false
+    },
+    {
+      "evidence_id": "E12",
+      "reference_number": 12,
+      "doi": "10.2514/1.I011215",
+      "title": "Decentralized Observation Allocation for a Large-Scale Constellation",
+      "title_zh": "大型星座的去中心化观测分配",
+      "publication": {
+        "authors": [
+          "Shreya Parjan",
+          "Steve A. Chien"
+        ],
+        "journal": "Journal of Aerospace Information Systems",
+        "year": 2023,
+        "volume": "20",
+        "issue": "8",
+        "page": "447-461",
+        "article_number": null,
+        "type": "journal-article"
+      },
+      "registry_url": "https://api.crossref.org/works/10.2514%2F1.I011215",
+      "registry_identity_checked": true,
+      "original_source_urls": [
+        "https://ai.jpl.nasa.gov/public/documents/papers/parjan-jais2023-mas.pdf",
+        "https://arc.aiaa.org/doi/10.2514/1.I011215",
+        "https://doi.org/10.2514/1.I011215"
+      ],
+      "inherited_content_status": "沿用前轮提取；待完整全文核查",
+      "current_targeted_check": {
+        "doi": "10.2514/1.I011215",
+        "source": "https://ai.jpl.nasa.gov/public/documents/papers/parjan-jais2023-mas.pdf",
+        "locators": "§II–III；§IV连续规划；§V.A–D，Figs 9–12",
+        "checked": "100代理/634目标批量案例；从头和增量持续规划；增量在该实验中更快但更多重复观测；试验是单线程分布式执行模拟；请求满足与竞争消息的效果还依赖更新/奖励策略",
+        "draft_use": "3.2补连续更新权衡；表2明确更新机制；4.3区分共享内容和更新规则",
+        "human_verified": false
+      },
+      "author_verified": false
+    },
+    {
+      "evidence_id": "E13",
+      "reference_number": 13,
+      "doi": "10.2514/1.A35736",
+      "title": "Single-Agent Reinforcement Learning for Scalable Earth-Observing Satellite Constellation Operations",
+      "title_zh": "面向可扩展对地观测卫星星座运行的单智能体强化学习",
+      "publication": {
+        "authors": [
+          "Adam Herrmann",
+          "Mark A. Stephenson",
+          "Hanspeter Schaub"
+        ],
+        "journal": "Journal of Spacecraft and Rockets",
+        "year": 2024,
+        "volume": "61",
+        "issue": "1",
+        "page": "114-132",
+        "article_number": null,
+        "type": "journal-article"
+      },
+      "registry_url": "https://api.crossref.org/works/10.2514%2F1.A35736",
+      "registry_identity_checked": true,
+      "original_source_urls": [
+        "https://hanspeterschaub.info/PapersPrivate/Herrmann2024.pdf",
+        "https://doi.org/10.2514/1.A35736"
+      ],
+      "inherited_content_status": "沿用前轮提取；待完整全文核查",
+      "current_targeted_check": {
+        "doi": "10.2514/1.A35736",
+        "source": "https://hanspeterschaub.info/PapersPrivate/Herrmann2024.pdf",
+        "locators": "§III.C–D、Table 2、§IV.A.1–3、Figs 8–13、§IV.B",
+        "checked": "四种通信设置：无通信、单跳LOS、多跳LOS、自由通信；星间只共享已经成像/下传状态，不共享计划意图；因而自由通信也保留同一决策间隔的重复观测；LOS效果依赖构型连通性；单星训练后跨星复用；MIP可用于目标预分配",
+        "draft_use": "3.2纠正通信粒度并明确共享内容；表2统一信息条件；4.3强化状态共享与资源承诺的差异",
+        "human_verified": false
+      },
+      "author_verified": false
+    },
+    {
+      "evidence_id": "E14",
+      "reference_number": 14,
+      "doi": "10.1016/j.adhoc.2023.103289",
+      "title": "A delay-tolerant network approach to satellite pickup and delivery scheduling",
+      "title_zh": "卫星采集与交付调度的延迟容忍网络方法",
+      "publication": {
+        "authors": [
+          "Christopher John Lowe",
+          "Ruaridh Alexander Clark",
+          "Ciara Norah McGrath",
+          "Malcolm Macdonald"
+        ],
+        "journal": "Ad Hoc Networks",
+        "year": 2023,
+        "volume": "151",
+        "issue": null,
+        "page": "103289",
+        "article_number": "103289",
+        "type": "journal-article"
+      },
+      "registry_url": "https://api.crossref.org/works/10.1016%2Fj.adhoc.2023.103289",
+      "registry_identity_checked": true,
+      "original_source_urls": [
+        "https://doi.org/10.1016/j.adhoc.2023.103289"
+      ],
+      "inherited_content_status": "沿用前轮提取；待完整全文核查",
+      "current_targeted_check": null,
+      "author_verified": false
+    },
+    {
+      "evidence_id": "E15",
+      "reference_number": 15,
+      "doi": "10.34133/space.0248",
+      "title": "Dynamic Management Topology Construction, Evolution, and Maintenance of Low Earth Orbit Mega-Constellation",
+      "title_zh": "低轨巨型星座动态管理拓扑的构建、演化与维护",
+      "publication": {
+        "authors": [
+          "Yuhe Mao",
+          "Yunhua Wu",
+          "Xiaozhe Ju",
+          "Hongyi Xie",
+          "Chengfei Yue"
+        ],
+        "journal": "Space: Science & Technology",
+        "year": 2025,
+        "volume": "5",
+        "issue": null,
+        "page": null,
+        "article_number": "0248",
+        "type": "journal-article"
+      },
+      "registry_url": "https://api.crossref.org/works/10.34133%2Fspace.0248",
+      "registry_identity_checked": true,
+      "original_source_urls": [
+        "https://re.public.polimi.it/bitstream/11311/1294046/1/MAOYW01-25.pdf",
+        "https://doi.org/10.34133/space.0248"
+      ],
+      "inherited_content_status": "沿用前轮提取；待完整全文核查",
+      "current_targeted_check": null,
+      "author_verified": false
+    },
+    {
+      "evidence_id": "E16",
+      "reference_number": 16,
+      "doi": "10.1016/j.jss.2026.112802",
+      "title": "Reference architecture for autonomy and adaptivity in satellites",
+      "title_zh": "卫星自主性与自适应能力的参考架构",
+      "publication": {
+        "authors": [
+          "Francesco Basciani",
+          "Luciana Rebelo",
+          "Patrizio Pelliccione"
+        ],
+        "journal": "Journal of Systems and Software",
+        "year": 2026,
+        "volume": "236",
+        "issue": null,
+        "page": "112802",
+        "article_number": "112802",
+        "type": "journal-article"
+      },
+      "registry_url": "https://api.crossref.org/works/10.1016%2Fj.jss.2026.112802",
+      "registry_identity_checked": true,
+      "original_source_urls": [
+        "https://www.sciencedirect.com/science/article/pii/S0164121226000361",
+        "https://doi.org/10.1016/j.jss.2026.112802"
+      ],
+      "inherited_content_status": "沿用前轮提取；待完整全文核查",
+      "current_targeted_check": null,
+      "author_verified": false
+    },
+    {
+      "evidence_id": "E17",
+      "reference_number": 17,
+      "doi": "10.1016/j.actaastro.2025.02.008",
+      "title": "Joint observation and transmission scheduling of multiple agile satellites with energy constraint using improved ACO algorithm",
+      "title_zh": "采用改进蚁群算法的能量约束多敏捷卫星观测与传输联合调度",
+      "publication": {
+        "authors": [
+          "Minghao Shang",
+          "Ronggang Yuan",
+          "Bin Song",
+          "Xuxing Huang",
+          "Bin Yang",
+          "Shuang Li"
+        ],
+        "journal": "Acta Astronautica",
+        "year": 2025,
+        "volume": "230",
+        "issue": null,
+        "page": "92-103",
+        "article_number": null,
+        "type": "journal-article"
+      },
+      "registry_url": "https://api.crossref.org/works/10.1016%2Fj.actaastro.2025.02.008",
+      "registry_identity_checked": true,
+      "original_source_urls": [
+        "https://www.sciencedirect.com/science/article/pii/S0094576525000797",
+        "https://doi.org/10.1016/j.actaastro.2025.02.008"
+      ],
+      "inherited_content_status": "沿用前轮提取；待完整全文核查",
+      "current_targeted_check": null,
+      "author_verified": false
+    },
+    {
+      "evidence_id": "E18",
+      "reference_number": 18,
+      "doi": "10.1007/s40295-026-00580-4",
+      "title": "Low-Thrust Propulsion and Drift Orbit Optimization for Multi-Client Servicing Missions in Low Earth Orbit",
+      "title_zh": "低轨多客户服务任务的低推力推进与漂移轨道优化",
+      "publication": {
+        "authors": [
+          "Riccardo Apa",
+          "Jennifer Hudson",
+          "Marcello Romano"
+        ],
+        "journal": "The Journal of the Astronautical Sciences",
+        "year": 2026,
+        "volume": "73",
+        "issue": "2",
+        "page": null,
+        "article_number": "36",
+        "type": "journal-article"
+      },
+      "registry_url": "https://api.crossref.org/works/10.1007%2Fs40295-026-00580-4",
+      "registry_identity_checked": true,
+      "original_source_urls": [
+        "https://link.springer.com/article/10.1007/s40295-026-00580-4",
+        "https://doi.org/10.1007/s40295-026-00580-4"
+      ],
+      "inherited_content_status": "本批已完成一手原文指定方法/实验/限制段落精读；作者全文验收待完成",
+      "current_targeted_check": null,
+      "author_verified": false
+    },
+    {
+      "evidence_id": "E19",
+      "reference_number": 19,
+      "doi": "10.1016/j.actaastro.2014.02.016",
+      "title": "Optimization of satellite constellation reconfiguration maneuvers",
+      "title_zh": "卫星星座重构机动优化",
+      "publication": {
+        "authors": [
+          "Leonid Appel",
+          "Moshe Guelman",
+          "David Mishne"
+        ],
+        "journal": "Acta Astronautica",
+        "year": 2014,
+        "volume": "99",
+        "issue": null,
+        "page": "166-174",
+        "article_number": null,
+        "type": "journal-article"
+      },
+      "registry_url": "https://api.crossref.org/works/10.1016%2Fj.actaastro.2014.02.016",
+      "registry_identity_checked": true,
+      "original_source_urls": [
+        "https://www.sciencedirect.com/science/article/pii/S0094576514000733",
+        "https://doi.org/10.1016/j.actaastro.2014.02.016"
+      ],
+      "inherited_content_status": "沿用前轮提取；待完整全文核查",
+      "current_targeted_check": null,
+      "author_verified": false
+    },
+    {
+      "evidence_id": "E20",
+      "reference_number": 20,
+      "doi": "10.2514/1.A35685",
+      "title": "Regional Constellation Reconfiguration Problem: Integer Linear Programming Formulation and Lagrangian Heuristic Method",
+      "title_zh": "区域星座重构问题：整数线性规划模型与拉格朗日启发式方法",
+      "publication": {
+        "authors": [
+          "Hang Woon Lee",
+          "Koki Ho"
+        ],
+        "journal": "Journal of Spacecraft and Rockets",
+        "year": 2023,
+        "volume": "60",
+        "issue": "6",
+        "page": "1828-1845",
+        "article_number": null,
+        "type": "journal-article"
+      },
+      "registry_url": "https://api.crossref.org/works/10.2514%2F1.A35685",
+      "registry_identity_checked": true,
+      "original_source_urls": [
+        "https://arxiv.org/abs/2206.02910",
+        "https://arc.aiaa.org/doi/10.2514/1.A35685",
+        "https://doi.org/10.2514/1.A35685"
+      ],
+      "inherited_content_status": "沿用前轮提取；待完整全文核查",
+      "current_targeted_check": null,
+      "author_verified": false
+    },
+    {
+      "evidence_id": "E21",
+      "reference_number": 21,
+      "doi": "10.2514/1.A36281",
+      "title": "Replenishment Strategy for Satellite Constellation with Dual Supply Modes",
+      "title_zh": "双供给模式下的卫星星座补网策略",
+      "publication": {
+        "authors": [
+          "Jaewoo Kim",
+          "Jaemyung Ahn",
+          "Taehyun Sung"
+        ],
+        "journal": "Journal of Spacecraft and Rockets",
+        "year": 2025,
+        "volume": "62",
+        "issue": "5",
+        "page": "1567-1583",
+        "article_number": null,
+        "type": "journal-article"
+      },
+      "registry_url": "https://api.crossref.org/works/10.2514%2F1.A36281",
+      "registry_identity_checked": true,
+      "original_source_urls": [
+        "https://pure.kaist.ac.kr/en/publications/replenishment-strategy-for-satellite-constellation-with-dual-supp/",
+        "https://doi.org/10.2514/1.A36281"
+      ],
+      "inherited_content_status": "沿用前轮提取；待完整全文核查",
+      "current_targeted_check": null,
+      "author_verified": false
+    },
+    {
+      "evidence_id": "E22",
+      "reference_number": 22,
+      "doi": "10.2514/1.A36684",
+      "title": "On-Orbit Servicing-Integrated Maintenance Strategy for a Satellite Constellation",
+      "title_zh": "融合在轨服务的卫星星座维护策略",
+      "publication": {
+        "authors": [
+          "Jaewoo Kim",
+          "Taehyun Sung",
+          "Woonam Hwang",
+          "Jaemyung Ahn"
+        ],
+        "journal": "Journal of Spacecraft and Rockets",
+        "year": 2026,
+        "volume": null,
+        "issue": null,
+        "page": "1-18",
+        "article_number": null,
+        "type": "journal-article"
+      },
+      "registry_url": "https://api.crossref.org/works/10.2514%2F1.A36684",
+      "registry_identity_checked": true,
+      "original_source_urls": [
+        "https://doi.org/10.2514/1.A36684"
+      ],
+      "inherited_content_status": "沿用前轮提取；待完整全文核查",
+      "current_targeted_check": null,
+      "author_verified": false
+    },
+    {
+      "evidence_id": "E23",
+      "reference_number": 23,
+      "doi": "10.2514/1.A35691",
+      "title": "Orbital Facility Location Problem for Satellite Constellation Servicing Depots",
+      "title_zh": "卫星星座服务仓库的轨道设施选址问题",
+      "publication": {
+        "authors": [
+          "Yuri Shimane",
+          "Nicholas Gollins",
+          "Koki Ho"
+        ],
+        "journal": "Journal of Spacecraft and Rockets",
+        "year": 2024,
+        "volume": "61",
+        "issue": "3",
+        "page": "808-825",
+        "article_number": null,
+        "type": "journal-article"
+      },
+      "registry_url": "https://api.crossref.org/works/10.2514%2F1.A35691",
+      "registry_identity_checked": true,
+      "original_source_urls": [
+        "https://repository.gatech.edu/entities/publication/308f4a40-c36b-460c-a2fc-e90a347f211b",
+        "https://doi.org/10.2514/1.A35691"
+      ],
+      "inherited_content_status": "沿用前轮提取；待完整全文核查",
+      "current_targeted_check": null,
+      "author_verified": false
+    },
+    {
+      "evidence_id": "E24",
+      "reference_number": 24,
+      "doi": "10.2514/1.A36386",
+      "title": "Orbital Depot Location Optimization for Satellite Constellation Servicing with Low-Thrust Transfers",
+      "title_zh": "低推力转移下卫星星座服务轨道仓库位置优化",
+      "publication": {
+        "authors": [
+          "Euihyeon Choi",
+          "Koki Ho"
+        ],
+        "journal": "Journal of Spacecraft and Rockets",
+        "year": 2026,
+        "volume": "63",
+        "issue": "1",
+        "page": "4-13",
+        "article_number": null,
+        "type": "journal-article"
+      },
+      "registry_url": "https://api.crossref.org/works/10.2514%2F1.A36386",
+      "registry_identity_checked": true,
+      "original_source_urls": [
+        "https://arxiv.org/abs/2502.15914",
+        "https://doi.org/10.2514/1.A36386"
+      ],
+      "inherited_content_status": "沿用前轮提取；待完整全文核查",
+      "current_targeted_check": null,
+      "author_verified": false
+    },
+    {
+      "evidence_id": "E25",
+      "reference_number": 25,
+      "doi": "10.1155/2021/6644339",
+      "title": "Deployment of On-Orbit Service Vehicles Using a Fuzzy Adaptive Particle Swarm Optimization Algorithm",
+      "title_zh": "采用模糊自适应粒子群算法的在轨服务航天器部署",
+      "publication": {
+        "authors": [
+          "Yaxiong Li",
+          "Xinglong Sun",
+          "Xinxue Liu",
+          "Jian Wu",
+          "Qingguo Liu"
+        ],
+        "journal": "Modelling and Simulation in Engineering",
+        "year": 2021,
+        "volume": "2021",
+        "issue": null,
+        "page": "1-15",
+        "article_number": null,
+        "type": "journal-article"
+      },
+      "registry_url": "https://api.crossref.org/works/10.1155%2F2021%2F6644339",
+      "registry_identity_checked": true,
+      "original_source_urls": [
+        "https://onlinelibrary.wiley.com/doi/10.1155/2021/6644339",
+        "https://doi.org/10.1155/2021/6644339"
+      ],
+      "inherited_content_status": "沿用前轮提取；待完整全文核查",
+      "current_targeted_check": null,
+      "author_verified": false
+    },
+    {
+      "evidence_id": "E26",
+      "reference_number": 26,
+      "doi": "10.2514/1.A34978",
+      "title": "Framework for Modeling and Optimization of On-Orbit Servicing Operations Under Demand Uncertainties",
+      "title_zh": "需求不确定性下在轨服务运行的建模与优化框架",
+      "publication": {
+        "authors": [
+          "Tristan Sarton du Jonchay",
+          "Hao Chen",
+          "Onalli Gunasekara",
+          "Koki Ho"
+        ],
+        "journal": "Journal of Spacecraft and Rockets",
+        "year": 2021,
+        "volume": "58",
+        "issue": "4",
+        "page": "1157-1173",
+        "article_number": null,
+        "type": "journal-article"
+      },
+      "registry_url": "https://api.crossref.org/works/10.2514%2F1.A34978",
+      "registry_identity_checked": true,
+      "original_source_urls": [
+        "https://arxiv.org/abs/2103.08962",
+        "https://doi.org/10.2514/1.A34978"
+      ],
+      "inherited_content_status": "沿用前轮提取；待完整全文核查",
+      "current_targeted_check": null,
+      "author_verified": false
+    },
+    {
+      "evidence_id": "E27",
+      "reference_number": 27,
+      "doi": "10.1016/j.cor.2025.107259",
+      "title": "A branch-and-price algorithm for energy aware task scheduling of constellations of nanosatellites",
+      "title_zh": "面向纳卫星星座能量感知任务调度的分支定价算法",
+      "publication": {
+        "authors": [
+          "Pedro Marcolin Antunes",
+          "Laio Oriel Seman",
+          "Eduardo Camponogara"
+        ],
+        "journal": "Computers & Operations Research",
+        "year": 2026,
+        "volume": "185",
+        "issue": null,
+        "page": "107259",
+        "article_number": "107259",
+        "type": "journal-article"
+      },
+      "registry_url": "https://api.crossref.org/works/10.1016%2Fj.cor.2025.107259",
+      "registry_identity_checked": true,
+      "original_source_urls": [
+        "https://www.sciencedirect.com/science/article/pii/S0305054825002886",
+        "https://doi.org/10.1016/j.cor.2025.107259"
+      ],
+      "inherited_content_status": "沿用前轮提取；待完整全文核查",
+      "current_targeted_check": null,
+      "author_verified": false
+    },
+    {
+      "evidence_id": "E28",
+      "reference_number": 28,
+      "doi": "10.1016/j.asr.2025.12.008",
+      "title": "Lagrangian hierarchical mixed-integer programming for ultra-large-scale satellite scheduling under dynamic task delivery",
+      "title_zh": "动态任务下发条件下超大规模卫星调度的拉格朗日分层混合整数规划",
+      "publication": {
+        "authors": [
+          "Jiahao Qin",
+          "Hongxia Wang",
+          "Xudong Gao",
+          "Qian Wang",
+          "Xi Chen"
+        ],
+        "journal": "Advances in Space Research",
+        "year": 2026,
+        "volume": "77",
+        "issue": "11",
+        "page": "11252-11270",
+        "article_number": null,
+        "type": "journal-article"
+      },
+      "registry_url": "https://api.crossref.org/works/10.1016%2Fj.asr.2025.12.008",
+      "registry_identity_checked": true,
+      "original_source_urls": [
+        "https://www.sciencedirect.com/science/article/pii/S0273117725014188",
+        "https://doi.org/10.1016/j.asr.2025.12.008"
+      ],
+      "inherited_content_status": "沿用前轮提取；待完整全文核查",
+      "current_targeted_check": null,
+      "author_verified": false
+    },
+    {
+      "evidence_id": "E29",
+      "reference_number": 29,
+      "doi": "10.1002/sat.70082",
+      "title": "Edge Intelligence for Satellite‐Based Earth Observation: Scheduling Image Acquisition and Processing",
+      "title_zh": "卫星对地观测边缘智能：图像采集与处理调度",
+      "publication": {
+        "authors": [
+          "Beatriz Soret",
+          "Antonio M. Mercado‐Martínez",
+          "Antonio Jurado‐Navas",
+          "Nicolai D. Lyholm",
+          "Marco Moretti",
+          "Petar Popovski",
+          "Israel Leyva‐Mayorga"
+        ],
+        "journal": "International Journal of Satellite Communications and Networking",
+        "year": 2026,
+        "volume": null,
+        "issue": null,
+        "page": null,
+        "article_number": "sat.70082",
+        "type": "journal-article"
+      },
+      "registry_url": "https://api.crossref.org/works/10.1002%2Fsat.70082",
+      "registry_identity_checked": true,
+      "original_source_urls": [
+        "https://onlinelibrary.wiley.com/doi/10.1002/sat.70082",
+        "https://arxiv.org/abs/2604.05937",
+        "https://doi.org/10.1002/sat.70082"
+      ],
+      "inherited_content_status": "Wiley正式期刊摘要与出版信息已核；全文及预印本差异待核",
+      "current_targeted_check": null,
+      "author_verified": false
+    },
+    {
+      "evidence_id": "E30",
+      "reference_number": 30,
+      "doi": "10.1016/j.asr.2020.02.018",
+      "title": "Online scheduling of distributed Earth observation satellite system under rigid communication constraints",
+      "title_zh": "严格通信约束下分布式对地观测卫星系统的在线调度",
+      "publication": {
+        "authors": [
+          "Guoliang Li"
+        ],
+        "journal": "Advances in Space Research",
+        "year": 2020,
+        "volume": "65",
+        "issue": "11",
+        "page": "2475-2496",
+        "article_number": null,
+        "type": "journal-article"
+      },
+      "registry_url": "https://api.crossref.org/works/10.1016%2Fj.asr.2020.02.018",
+      "registry_identity_checked": true,
+      "original_source_urls": [
+        "https://www.sciencedirect.com/science/article/pii/S0273117720301101",
+        "https://doi.org/10.1016/j.asr.2020.02.018"
+      ],
+      "inherited_content_status": "沿用前轮提取；待完整全文核查",
+      "current_targeted_check": null,
+      "author_verified": false
+    },
+    {
+      "evidence_id": "E31",
+      "reference_number": 31,
+      "doi": "10.1016/j.eswa.2025.128502",
+      "title": "Deep reinforcement learning-assisted large neighborhood search for online scheduling large-scale emergency tasks to Earth-observing satellites",
+      "title_zh": "面向大规模应急对地观测任务在线调度的深度强化学习辅助大邻域搜索",
+      "publication": {
+        "authors": [
+          "Jing Qi",
+          "Min Hu",
+          "Lining Xing",
+          "Zhenhua Su"
+        ],
+        "journal": "Expert Systems with Applications",
+        "year": 2025,
+        "volume": "291",
+        "issue": null,
+        "page": "128502",
+        "article_number": "128502",
+        "type": "journal-article"
+      },
+      "registry_url": "https://api.crossref.org/works/10.1016%2Fj.eswa.2025.128502",
+      "registry_identity_checked": true,
+      "original_source_urls": [
+        "https://www.sciencedirect.com/science/article/pii/S0957417425021219",
+        "https://doi.org/10.1016/j.eswa.2025.128502"
+      ],
+      "inherited_content_status": "沿用前轮提取；待完整全文核查",
+      "current_targeted_check": null,
+      "author_verified": false
+    },
+    {
+      "evidence_id": "E32",
+      "reference_number": 32,
+      "doi": "10.3389/frspt.2023.1263489",
+      "title": "A comparative analysis of reinforcement learning algorithms for earth-observing satellite scheduling",
+      "title_zh": "对地观测卫星调度强化学习算法的比较分析",
+      "publication": {
+        "authors": [
+          "Adam Herrmann",
+          "Hanspeter Schaub"
+        ],
+        "journal": "Frontiers in Space Technologies",
+        "year": 2023,
+        "volume": "4",
+        "issue": null,
+        "page": null,
+        "article_number": "1263489",
+        "type": "journal-article"
+      },
+      "registry_url": "https://api.crossref.org/works/10.3389%2Ffrspt.2023.1263489",
+      "registry_identity_checked": true,
+      "original_source_urls": [
+        "https://www.frontiersin.org/journals/space-technologies/articles/10.3389/frspt.2023.1263489/full",
+        "https://doi.org/10.3389/frspt.2023.1263489"
+      ],
+      "inherited_content_status": "本批已完成一手原文指定方法/实验/限制段落精读；作者全文验收待完成",
+      "current_targeted_check": {
+        "doi": "10.3389/frspt.2023.1263489",
+        "source": "https://www.frontiersin.org/journals/space-technologies/articles/10.3389/frspt.2023.1263489/full",
+        "locators": "§2–3、§4.3–4.6、Figs 6–10；Table 1–2资源屏蔽",
+        "checked": "单星Basilisk环境；45/90指决策间隔；收益/稳定性随问题变化；MCTS-Train训练及模拟回溯成本高；wall clock报告训练总episodes与固定10000episodes两种口径；资源屏蔽限定模拟资源状态",
+        "draft_use": "表2标明单星环境；4.1说明训练/仿真开销不是在线推理时间",
+        "human_verified": false
+      },
+      "author_verified": false
+    },
+    {
+      "evidence_id": "E33",
+      "reference_number": 33,
+      "doi": "10.1016/j.cie.2022.108852",
+      "title": "Multi-orbit routing and scheduling of refuellable on-orbit servicing space robots",
+      "title_zh": "可加注在轨服务机器人跨轨道路径规划与调度",
+      "publication": {
+        "authors": [
+          "Susan E. Sorenson",
+          "Sarah G. Nurre Pinkley"
+        ],
+        "journal": "Computers & Industrial Engineering",
+        "year": 2023,
+        "volume": "176",
+        "issue": null,
+        "page": "108852",
+        "article_number": "108852",
+        "type": "journal-article"
+      },
+      "registry_url": "https://api.crossref.org/works/10.1016%2Fj.cie.2022.108852",
+      "registry_identity_checked": true,
+      "original_source_urls": [
+        "https://www.sciencedirect.com/science/article/pii/S0360835222008403",
+        "https://doi.org/10.1016/j.cie.2022.108852"
+      ],
+      "inherited_content_status": "沿用前轮提取；待完整全文核查",
+      "current_targeted_check": null,
+      "author_verified": false
+    },
+    {
+      "evidence_id": "E34",
+      "reference_number": 34,
+      "doi": "10.1016/j.cja.2025.103774",
+      "title": "On-orbit refueling robust mission scheduling with uncertain duration for geosynchronous orbit spacecraft",
+      "title_zh": "GEO 航天器加注时长不确定条件下的在轨加注鲁棒任务调度",
+      "publication": {
+        "authors": [
+          "Shuai YIN",
+          "Chuanjiang LI",
+          "Edoardo FADDA",
+          "Yanning GUO",
+          "Guangtao RAN",
+          "Paolo BRANDIMARTE"
+        ],
+        "journal": "Chinese Journal of Aeronautics",
+        "year": 2026,
+        "volume": "39",
+        "issue": "1",
+        "page": "103774",
+        "article_number": "103774",
+        "type": "journal-article"
+      },
+      "registry_url": "https://api.crossref.org/works/10.1016%2Fj.cja.2025.103774",
+      "registry_identity_checked": true,
+      "original_source_urls": [
+        "https://www.sciencedirect.com/science/article/pii/S1000936125003802",
+        "https://iris.polito.it/handle/11583/3002481",
+        "https://doi.org/10.1016/j.cja.2025.103774"
+      ],
+      "inherited_content_status": "沿用前轮提取；待完整全文核查",
+      "current_targeted_check": null,
+      "author_verified": false
+    },
+    {
+      "evidence_id": "E35",
+      "reference_number": 35,
+      "doi": "10.1016/j.actaastro.2020.01.020",
+      "title": "Satellite closest approach calculation through Chebyshev Proxy Polynomials",
+      "title_zh": "采用切比雪夫代理多项式计算卫星最近接近事件",
+      "publication": {
+        "authors": [
+          "Elad Denenberg"
+        ],
+        "journal": "Acta Astronautica",
+        "year": 2020,
+        "volume": "170",
+        "issue": null,
+        "page": "55-65",
+        "article_number": null,
+        "type": "journal-article"
+      },
+      "registry_url": "https://api.crossref.org/works/10.1016%2Fj.actaastro.2020.01.020",
+      "registry_identity_checked": true,
+      "original_source_urls": [
+        "https://www.sciencedirect.com/science/article/pii/S009457652030031X",
+        "https://kclpure.kcl.ac.uk/portal/files/123432633/AuthorsAccepted.pdf",
+        "https://doi.org/10.1016/j.actaastro.2020.01.020"
+      ],
+      "inherited_content_status": "沿用前轮提取；待完整全文核查",
+      "current_targeted_check": null,
+      "author_verified": false
+    },
+    {
+      "evidence_id": "E36",
+      "reference_number": 36,
+      "doi": "10.3390/aerospace10060543",
+      "title": "Performance Investigation of the Conjunction Filter Methods and Enhancement of Computation Speed on Conjunction Assessment Analysis with CUDA Techniques",
+      "title_zh": "接近筛选方法性能研究及基于 CUDA 的接近评估计算加速",
+      "publication": {
+        "authors": [
+          "Phasawee Saingyen",
+          "Sittiporn Channumsin",
+          "Suwat Sreesawet",
+          "Keerati Puttasuwan",
+          "Thanathip Limna"
+        ],
+        "journal": "Aerospace",
+        "year": 2023,
+        "volume": "10",
+        "issue": "6",
+        "page": "543",
+        "article_number": null,
+        "type": "journal-article"
+      },
+      "registry_url": "https://api.crossref.org/works/10.3390%2Faerospace10060543",
+      "registry_identity_checked": true,
+      "original_source_urls": [
+        "https://www.mdpi.com/2226-4310/10/6/543",
+        "https://doi.org/10.3390/aerospace10060543"
+      ],
+      "inherited_content_status": "沿用前轮提取；待完整全文核查",
+      "current_targeted_check": null,
+      "author_verified": false
+    },
+    {
+      "evidence_id": "E37",
+      "reference_number": 37,
+      "doi": "10.1007/s12567-022-00471-y",
+      "title": "Simulation of satellites and constellations for the assessment of collision avoidance operations",
+      "title_zh": "用于评估碰撞规避运行的卫星与星座仿真",
+      "publication": {
+        "authors": [
+          "Simon Burgis",
+          "Lukas Rohrmüller",
+          "Martin Michel",
+          "Reinhold Bertrand"
+        ],
+        "journal": "CEAS Space Journal",
+        "year": 2023,
+        "volume": "15",
+        "issue": "5",
+        "page": "655-670",
+        "article_number": null,
+        "type": "journal-article"
+      },
+      "registry_url": "https://api.crossref.org/works/10.1007%2Fs12567-022-00471-y",
+      "registry_identity_checked": true,
+      "original_source_urls": [
+        "https://link.springer.com/article/10.1007/s12567-022-00471-y",
+        "https://doi.org/10.1007/s12567-022-00471-y"
+      ],
+      "inherited_content_status": "沿用前轮提取；待完整全文核查",
+      "current_targeted_check": null,
+      "author_verified": false
+    },
+    {
+      "evidence_id": "E38",
+      "reference_number": 38,
+      "doi": "10.1016/j.conengprac.2011.09.006",
+      "title": "Chance-constrained model predictive control for spacecraft rendezvous with disturbance estimation",
+      "title_zh": "结合扰动估计的航天器交会机会约束模型预测控制",
+      "publication": {
+        "authors": [
+          "Francisco Gavilan",
+          "Rafael Vazquez",
+          "Eduardo F. Camacho"
+        ],
+        "journal": "Control Engineering Practice",
+        "year": 2012,
+        "volume": "20",
+        "issue": "2",
+        "page": "111-122",
+        "article_number": null,
+        "type": "journal-article"
+      },
+      "registry_url": "https://api.crossref.org/works/10.1016%2Fj.conengprac.2011.09.006",
+      "registry_identity_checked": true,
+      "original_source_urls": [
+        "https://www.sciencedirect.com/science/article/pii/S0967066111001985",
+        "https://doi.org/10.1016/j.conengprac.2011.09.006"
+      ],
+      "inherited_content_status": "沿用前轮提取；待完整全文核查",
+      "current_targeted_check": null,
+      "author_verified": false
+    },
+    {
+      "evidence_id": "E39",
+      "reference_number": 39,
+      "doi": "10.1016/j.ast.2025.111237",
+      "title": "Chance-constrained visual servoing MPC for non-cooperative spacecraft rendezvous",
+      "title_zh": "非合作航天器交会的机会约束视觉伺服模型预测控制",
+      "publication": {
+        "authors": [
+          "Zhenbo Zhao",
+          "Fan Wu",
+          "Jian Chen"
+        ],
+        "journal": "Aerospace Science and Technology",
+        "year": 2026,
+        "volume": "169",
+        "issue": null,
+        "page": "111237",
+        "article_number": "111237",
+        "type": "journal-article"
+      },
+      "registry_url": "https://api.crossref.org/works/10.1016%2Fj.ast.2025.111237",
+      "registry_identity_checked": true,
+      "original_source_urls": [
+        "https://www.sciencedirect.com/science/article/pii/S1270963825013008",
+        "https://doi.org/10.1016/j.ast.2025.111237"
+      ],
+      "inherited_content_status": "沿用前轮提取；待完整全文核查",
+      "current_targeted_check": null,
+      "author_verified": false
+    },
+    {
+      "evidence_id": "E40",
+      "reference_number": 40,
+      "doi": "10.2514/6.2026-2446",
+      "title": "Continuous-Time Successive Convexification for Passively-Safe Spacecraft Rendezvous on a Near Rectilinear Halo Orbit",
+      "title_zh": "近直线晕轨道被动安全交会的连续时间逐次凸化",
+      "publication": {
+        "authors": [
+          "Purnanand Elango",
+          "Abraham P. Vinod",
+          "Kenji Kitamura",
+          "Behcet Acikmese",
+          "Stefano Di Cairano",
+          "Avishai Weiss"
+        ],
+        "journal": "AIAA SCITECH 2026 Forum",
+        "year": 2026,
+        "volume": null,
+        "issue": null,
+        "page": null,
+        "article_number": null,
+        "type": "proceedings-article"
+      },
+      "registry_url": "https://api.crossref.org/works/10.2514%2F6.2026-2446",
+      "registry_identity_checked": true,
+      "original_source_urls": [
+        "https://www.merl.com/publications/TR2026-016",
+        "https://www.merl.com/publications/docs/TR2026-016.pdf",
+        "https://doi.org/10.2514/6.2026-2446"
+      ],
+      "inherited_content_status": "沿用前轮提取；待完整全文核查",
+      "current_targeted_check": null,
+      "author_verified": false
+    },
+    {
+      "evidence_id": "E41",
+      "reference_number": 41,
+      "doi": "10.1007/s40295-026-00631-w",
+      "title": "Two Approaches to Autonomous Spacecraft Inspection: Shielded Reinforcement Learning versus Probabilistic Roadmaps",
+      "title_zh": "自主航天器巡检的两种方法：带安全屏蔽的强化学习与概率路线图",
+      "publication": {
+        "authors": [
+          "Mark Stephenson",
+          "Hanspeter Schaub"
+        ],
+        "journal": "The Journal of the Astronautical Sciences",
+        "year": 2026,
+        "volume": "73",
+        "issue": "5",
+        "page": null,
+        "article_number": "89",
+        "type": "journal-article"
+      },
+      "registry_url": "https://api.crossref.org/works/10.1007%2Fs40295-026-00631-w",
+      "registry_identity_checked": true,
+      "original_source_urls": [
+        "https://link.springer.com/article/10.1007/s40295-026-00631-w",
+        "https://hanspeterschaub.info/Papers/Stephenson2026a.pdf",
+        "https://doi.org/10.1007/s40295-026-00631-w"
+      ],
+      "inherited_content_status": "沿用前轮提取；待完整全文核查",
+      "current_targeted_check": null,
+      "author_verified": false
+    },
+    {
+      "evidence_id": "E42",
+      "reference_number": 42,
+      "doi": "10.1145/3219819.3219845",
+      "title": "Detecting Spacecraft Anomalies Using LSTMs and Nonparametric Dynamic Thresholding",
+      "title_zh": "利用LSTM与非参数动态阈值检测航天器异常",
+      "publication": {
+        "authors": [
+          "Kyle Hundman",
+          "Valentino Constantinou",
+          "Christopher Laporte",
+          "Ian Colwell",
+          "Tom Soderstrom"
+        ],
+        "journal": "Proceedings of the 24th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining",
+        "year": 2018,
+        "volume": null,
+        "issue": null,
+        "page": "387-395",
+        "article_number": null,
+        "type": "proceedings-article"
+      },
+      "registry_url": "https://api.crossref.org/works/10.1145%2F3219819.3219845",
+      "registry_identity_checked": true,
+      "original_source_urls": [
+        "https://arxiv.org/html/1802.04431v3",
+        "https://arxiv.org/abs/1802.04431",
+        "https://dl.acm.org/doi/10.1145/3219819.3219845",
+        "https://doi.org/10.1145/3219819.3219845"
+      ],
+      "inherited_content_status": "本轮已核原文局部；完整精读待完成",
+      "current_targeted_check": null,
+      "author_verified": false
+    },
+    {
+      "evidence_id": "E43",
+      "reference_number": 43,
+      "doi": "10.1007/s12567-023-00529-5",
+      "title": "Unmasking overestimation: a re-evaluation of deep anomaly detection in spacecraft telemetry",
+      "title_zh": "揭示性能高估：航天器遥测深度异常检测的重新评估",
+      "publication": {
+        "authors": [
+          "Lars Herrmann",
+          "Marie Bieber",
+          "Wim J. C. Verhagen",
+          "Fabrice Cosson",
+          "Bruno F. Santos"
+        ],
+        "journal": "CEAS Space Journal",
+        "year": 2024,
+        "volume": "16",
+        "issue": "2",
+        "page": "225-237",
+        "article_number": null,
+        "type": "journal-article"
+      },
+      "registry_url": "https://api.crossref.org/works/10.1007%2Fs12567-023-00529-5",
+      "registry_identity_checked": true,
+      "original_source_urls": [
+        "https://link.springer.com/article/10.1007/s12567-023-00529-5",
+        "https://repository.tudelft.nl/record/uuid%3Af227fb1c-1c32-491f-9115-f23b9f102749",
+        "https://doi.org/10.1007/s12567-023-00529-5"
+      ],
+      "inherited_content_status": "本批已完成一手原文指定方法/实验/限制段落精读；作者全文验收待完成",
+      "current_targeted_check": null,
+      "author_verified": false
+    },
+    {
+      "evidence_id": "E44",
+      "reference_number": 44,
+      "doi": "10.1007/s12567-025-00651-6",
+      "title": "Knowledge-based satellite failure detection, isolation and recovery (FDIR)",
+      "title_zh": "基于知识的卫星故障检测、隔离与恢复（FDIR）",
+      "publication": {
+        "authors": [
+          "Sascha Wanninger"
+        ],
+        "journal": "CEAS Space Journal",
+        "year": 2026,
+        "volume": "18",
+        "issue": "5",
+        "page": "991-1004",
+        "article_number": null,
+        "type": "journal-article"
+      },
+      "registry_url": "https://api.crossref.org/works/10.1007%2Fs12567-025-00651-6",
+      "registry_identity_checked": true,
+      "original_source_urls": [
+        "https://link.springer.com/article/10.1007/s12567-025-00651-6",
+        "https://doi.org/10.1007/s12567-025-00651-6"
+      ],
+      "inherited_content_status": "本批已完成一手原文指定方法/实验/限制段落精读；作者全文验收待完成",
+      "current_targeted_check": null,
+      "author_verified": false
+    },
+    {
+      "evidence_id": "E45",
+      "reference_number": 45,
+      "doi": "10.3390/rs15061577",
+      "title": "Reasoning-Based Scheduling Method for Agile Earth Observation Satellite with Multi-Subsystem Coupling",
+      "title_zh": "考虑多子系统耦合的敏捷对地观测卫星推理式调度方法",
+      "publication": {
+        "authors": [
+          "Changyuan He",
+          "Yunfeng Dong",
+          "Hongjue Li",
+          "Yingjia Liew"
+        ],
+        "journal": "Remote Sensing",
+        "year": 2023,
+        "volume": "15",
+        "issue": "6",
+        "page": "1577",
+        "article_number": null,
+        "type": "journal-article"
+      },
+      "registry_url": "https://api.crossref.org/works/10.3390%2Frs15061577",
+      "registry_identity_checked": true,
+      "original_source_urls": [
+        "https://www.mdpi.com/2072-4292/15/6/1577",
+        "https://doi.org/10.3390/rs15061577"
+      ],
+      "inherited_content_status": "沿用前轮提取；待完整全文核查",
+      "current_targeted_check": null,
+      "author_verified": false
+    },
+    {
+      "evidence_id": "E46",
+      "reference_number": 46,
+      "doi": "10.1109/SMC-IT.2006.48",
+      "title": "Mission Operations of Earth Observing-1 with Onboard Autonomy",
+      "title_zh": "具有星上自主能力的 Earth Observing-1 任务运行",
+      "publication": {
+        "authors": [
+          "Gregg Rabideau",
+          "Daniel Tran",
+          "Steve Chien",
+          "Benjamin Cichy",
+          "Rob Sherwood",
+          "Dan Mandl",
+          "Stuart Frye",
+          "Seth Shulman",
+          "Joseph Szwaczkowski",
+          "Darrell Boyer",
+          "Jim Van Gaasbeck"
+        ],
+        "journal": "2nd IEEE International Conference on Space Mission Challenges for Information Technology (SMC-IT'06)",
+        "year": 2006,
+        "volume": null,
+        "issue": null,
+        "page": "367-373",
+        "article_number": null,
+        "type": "proceedings-article"
+      },
+      "registry_url": "https://api.crossref.org/works/10.1109%2FSMC-IT.2006.48",
+      "registry_identity_checked": true,
+      "original_source_urls": [
+        "https://ntrs.nasa.gov/citations/20060050174",
+        "https://ai.jpl.nasa.gov/public/documents/papers/rabideau-ieeesmcit06-eo1.pdf",
+        "https://doi.org/10.1109/SMC-IT.2006.48"
+      ],
+      "inherited_content_status": "沿用前轮提取；待完整全文核查",
+      "current_targeted_check": null,
+      "author_verified": false,
+      "bibliographic_override": {
+        "fields": [
+          "authors",
+          "year"
+        ],
+        "original_registry_fields": {
+          "authors": [
+            "Daniel Tran Gregg Rabideau"
+          ],
+          "year": null
+        },
+        "reason": "Registry author fields merge two names and the date fields are missing. Authors follow the JPL original first page; publication year follows the NASA conference record.",
+        "checked_on": "2026-10-10",
+        "primary_urls": [
+          "https://ai.jpl.nasa.gov/public/documents/papers/rabideau-ieeesmcit06-eo1.pdf",
+          "https://ntrs.nasa.gov/citations/20060050174",
+          "https://ntrs.nasa.gov/citations/20080021722"
+        ],
+        "local_author_original": "sources/Rabideau_EO1_2006_author_original.pdf",
+        "local_author_original_sha256": "0295832b32c21c80eede34b4f878e6df809410fcd6cc4e94a7fcdaa3a5e5fe43",
+        "raw_registry_metadata_preserved": true,
+        "technical_content_verification_unchanged": true
+      }
+    },
+    {
+      "evidence_id": "E47",
+      "reference_number": 47,
+      "doi": "10.2514/1.I010386",
+      "title": "Onboard Autonomy on the Intelligent Payload Experiment CubeSat Mission",
+      "title_zh": "智能载荷实验（IPEX）CubeSat任务的星上自主运行",
+      "publication": {
+        "authors": [
+          "Steve Chien",
+          "Joshua Doubleday",
+          "David R. Thompson",
+          "Kiri L. Wagstaff",
+          "John Bellardo",
+          "Craig Francis",
+          "Eric Baumgarten",
+          "Austin Williams",
+          "Edmund Yee",
+          "Eric Stanton",
+          "Jordi Piug-Suari"
+        ],
+        "journal": "Journal of Aerospace Information Systems",
+        "year": 2017,
+        "volume": "14",
+        "issue": "6",
+        "page": "307-315",
+        "article_number": null,
+        "type": "journal-article"
+      },
+      "registry_url": "https://api.crossref.org/works/10.2514%2F1.I010386",
+      "registry_identity_checked": true,
+      "original_source_urls": [
+        "https://ai.jpl.nasa.gov/public/people/jdoubleday/",
+        "https://doi.org/10.2514/1.I010386"
+      ],
+      "inherited_content_status": "沿用前轮提取；待完整全文核查",
+      "current_targeted_check": null,
+      "author_verified": false
+    },
+    {
+      "evidence_id": "E48",
+      "reference_number": 48,
+      "doi": "10.1007/s10270-026-01426-1",
+      "title": "A model-driven framework for supervised reconfiguration of satellite schedulers",
+      "title_zh": "卫星调度器受监督重配置的模型驱动框架",
+      "publication": {
+        "authors": [
+          "Francesco Basciani",
+          "Arianna Fedeli",
+          "Daniele Masti",
+          "Ludovico Iovino",
+          "Paolo Serri",
+          "Patrizio Pelliccione"
+        ],
+        "journal": "Software and Systems Modeling",
+        "year": 2026,
+        "volume": null,
+        "issue": null,
+        "page": null,
+        "article_number": null,
+        "type": "journal-article"
+      },
+      "registry_url": "https://api.crossref.org/works/10.1007%2Fs10270-026-01426-1",
+      "registry_identity_checked": true,
+      "original_source_urls": [
+        "https://link.springer.com/article/10.1007/s10270-026-01426-1",
+        "https://doi.org/10.1007/s10270-026-01426-1"
+      ],
+      "inherited_content_status": "本批已完成一手原文指定方法/实验/限制段落精读；作者全文验收待完成",
+      "current_targeted_check": null,
+      "author_verified": false
+    },
+    {
+      "evidence_id": "E49",
+      "reference_number": 49,
+      "doi": "10.1109/SAM.2018.8448984",
+      "title": "Performance of the Asynchronous Consensus Based Bundle Algorithm in Lossy Network Environments",
+      "title_zh": "有损网络环境下异步一致性任务包算法的性能",
+      "publication": {
+        "authors": [
+          "Matthew Rantanen",
+          "Jalil Modares",
+          "Nicholas Mastronarde",
+          "Farshad Ghanei",
+          "Karthik Dantu"
+        ],
+        "journal": "2018 IEEE 10th Sensor Array and Multichannel Signal Processing Workshop (SAM)",
+        "year": 2018,
+        "volume": null,
+        "issue": null,
+        "page": "311-315",
+        "article_number": null,
+        "type": "proceedings-article"
+      },
+      "registry_url": "https://api.crossref.org/works/10.1109%2FSAM.2018.8448984",
+      "registry_identity_checked": true,
+      "original_source_urls": [
+        "https://researchconnect.buffalo.edu/en/publications/performance-of-the-asynchronous-consensus-based-bundle-algorithm-/",
+        "https://doi.org/10.1109/SAM.2018.8448984"
+      ],
+      "inherited_content_status": "沿用前轮提取；待完整全文核查",
+      "current_targeted_check": null,
+      "author_verified": false
+    },
+    {
+      "evidence_id": "E50",
+      "reference_number": 50,
+      "doi": "10.1007/s10270-025-01281-6",
+      "title": "Model checking of spacecraft operational designs: a scalability analysis",
+      "title_zh": "航天器运行设计的模型检测：可扩展性分析",
+      "publication": {
+        "authors": [
+          "Philipp Chrszon",
+          "Paulina Maurer",
+          "George Saleip",
+          "Sascha Müller",
+          "Philipp M. Fischer",
+          "Andreas Gerndt",
+          "Michael Felderer"
+        ],
+        "journal": "Software and Systems Modeling",
+        "year": 2025,
+        "volume": "24",
+        "issue": "6",
+        "page": "1825-1846",
+        "article_number": null,
+        "type": "journal-article"
+      },
+      "registry_url": "https://api.crossref.org/works/10.1007%2Fs10270-025-01281-6",
+      "registry_identity_checked": true,
+      "original_source_urls": [
+        "https://link.springer.com/article/10.1007/s10270-025-01281-6",
+        "https://elib.dlr.de/214190/1/s10270-025-01281-6.pdf",
+        "https://doi.org/10.1007/s10270-025-01281-6"
+      ],
+      "inherited_content_status": "沿用前轮提取；待完整全文核查",
+      "current_targeted_check": null,
+      "author_verified": false
+    }
+  ],
+  "engineering_sources": [
+    {
+      "number": 51,
+      "organization": "Planet",
+      "title": "Tasking API",
+      "title_zh": "任务请求API",
+      "url": "https://docs.planet.com/develop/apis/tasking/",
+      "source_type": "开发者文档",
+      "published_on": null,
+      "accessed_on": "2026-10-10",
+      "author_verified": false,
+      "entry": "51. Planet. [Tasking API](https://docs.planet.com/develop/apis/tasking/)〔任务请求API〕. 开发者文档；访问日期：2026-10-10。",
+      "evidence_id": "E51",
+      "inherited_provenance": "AUTHOR_NOTES_v0.4.md primary-source checks on 2026-10-10; v0.6 reorganizes supported facts and citations; no new engineering metric or event."
+    },
+    {
+      "number": 52,
+      "organization": "Iridium",
+      "title": "Iridium Adds to Constellation Resilience with Launch of Spare Satellites",
+      "title_zh": "Iridium通过发射备星增强星座韧性",
+      "url": "https://investor.iridium.com/2023-05-20-Iridium-Adds-to-Constellation-Resilience-with-Launch-of-Spare-Satellites",
+      "source_type": "运营方部署公告",
+      "published_on": "2023-05-20",
+      "accessed_on": "2026-10-10",
+      "author_verified": false,
+      "entry": "52. Iridium. [Iridium Adds to Constellation Resilience with Launch of Spare Satellites](https://investor.iridium.com/2023-05-20-Iridium-Adds-to-Constellation-Resilience-with-Launch-of-Spare-Satellites)〔Iridium通过发射备星增强星座韧性〕. 运营方部署公告，2023-05-20；访问日期：2026-10-10。",
+      "evidence_id": "E52",
+      "inherited_provenance": "AUTHOR_NOTES_v0.4.md primary-source checks on 2026-10-10; v0.6 reorganizes supported facts and citations; no new engineering metric or event."
+    },
+    {
+      "number": 53,
+      "organization": "Amazon Web Services",
+      "title": "Work with contacts",
+      "title_zh": "通信窗口预约管理",
+      "url": "https://docs.aws.amazon.com/ground-station/latest/ug/contacts.html",
+      "source_type": "服务文档",
+      "published_on": null,
+      "accessed_on": "2026-10-10",
+      "author_verified": false,
+      "entry": "53. Amazon Web Services. [Work with contacts](https://docs.aws.amazon.com/ground-station/latest/ug/contacts.html)〔通信窗口预约管理〕. 服务文档；访问日期：2026-10-10。",
+      "evidence_id": "E53",
+      "inherited_provenance": "AUTHOR_NOTES_v0.4.md primary-source checks on 2026-10-10; v0.6 reorganizes supported facts and citations; no new engineering metric or event."
+    },
+    {
+      "number": 54,
+      "organization": "SpaceX",
+      "title": "Starlink Collision Avoidance CONOPS",
+      "title_zh": "Starlink碰撞规避运行概念",
+      "url": "https://space-safety.starlink.com/docs/space-safety-articles/starlink_cola_conops/",
+      "source_type": "运营方运行流程",
+      "published_on": null,
+      "accessed_on": "2026-10-10",
+      "author_verified": false,
+      "entry": "54. SpaceX. [Starlink Collision Avoidance CONOPS](https://space-safety.starlink.com/docs/space-safety-articles/starlink_cola_conops/)〔Starlink碰撞规避运行概念〕. 运营方运行流程；访问日期：2026-10-10。",
+      "evidence_id": "E54",
+      "inherited_provenance": "AUTHOR_NOTES_v0.4.md primary-source checks on 2026-10-10; v0.6 reorganizes supported facts and citations; no new engineering metric or event."
+    },
+    {
+      "number": 55,
+      "organization": "Astroscale",
+      "title": "Astroscale’s ADRAS-J Achieves Historic 15-Meter Approach to Space Debris",
+      "title_zh": "ADRAS-J实现距空间碎片约15米的接近",
+      "url": "https://www.astroscale.com/en/news/astroscales-adras-j-achieves-historic-15-meter-approach-to-space-debris",
+      "source_type": "运营方在轨事件报告",
+      "published_on": "2024-12-11",
+      "accessed_on": "2026-10-10",
+      "author_verified": false,
+      "entry": "55. Astroscale. [Astroscale’s ADRAS-J Achieves Historic 15-Meter Approach to Space Debris](https://www.astroscale.com/en/news/astroscales-adras-j-achieves-historic-15-meter-approach-to-space-debris)〔ADRAS-J实现距空间碎片约15米的接近〕. 运营方在轨事件报告，2024-12-11；访问日期：2026-10-10。",
+      "evidence_id": "E55",
+      "inherited_provenance": "AUTHOR_NOTES_v0.4.md primary-source checks on 2026-10-10; v0.6 reorganizes supported facts and citations; no new engineering metric or event."
+    },
+    {
+      "number": 56,
+      "organization": "NASA Jet Propulsion Laboratory",
+      "title": "IPEX",
+      "title_zh": "智能载荷试验项目",
+      "url": "https://ai.jpl.nasa.gov/public/projects/ipex/",
+      "source_type": "任务项目说明",
+      "published_on": null,
+      "accessed_on": "2026-10-10",
+      "author_verified": false,
+      "entry": "56. NASA Jet Propulsion Laboratory. [IPEX](https://ai.jpl.nasa.gov/public/projects/ipex/)〔智能载荷试验项目〕. 任务项目说明；访问日期：2026-10-10。",
+      "evidence_id": "E56",
+      "inherited_provenance": "AUTHOR_NOTES_v0.4.md primary-source checks on 2026-10-10; v0.6 reorganizes supported facts and citations; no new engineering metric or event."
+    },
+    {
+      "number": 57,
+      "organization": "NASA",
+      "title": "What is Starling?",
+      "title_zh": "Starling任务介绍",
+      "url": "https://www.nasa.gov/smallspacecraft/what-is-starling/",
+      "source_type": "飞行任务说明",
+      "published_on": null,
+      "accessed_on": "2026-10-10",
+      "author_verified": false,
+      "entry": "57. NASA. [What is Starling?](https://www.nasa.gov/smallspacecraft/what-is-starling/)〔Starling任务介绍〕. 飞行任务说明；访问日期：2026-10-10。",
+      "evidence_id": "E57",
+      "inherited_provenance": "AUTHOR_NOTES_v0.4.md primary-source checks on 2026-10-10; v0.6 reorganizes supported facts and citations; no new engineering metric or event."
+    },
+    {
+      "number": 58,
+      "organization": "NASA",
+      "title": "NASA Starling and SpaceX Starlink Improve Space Traffic Coordination",
+      "title_zh": "NASA Starling与SpaceX Starlink改进空间交通协调",
+      "url": "https://www.nasa.gov/centers-and-facilities/ames/nasa-starling-and-spacex-starlink-improve-space-traffic-coordination/",
+      "source_type": "任务协调试验报道",
+      "published_on": "2025-03-26",
+      "accessed_on": "2026-10-10",
+      "author_verified": false,
+      "entry": "58. NASA. [NASA Starling and SpaceX Starlink Improve Space Traffic Coordination](https://www.nasa.gov/centers-and-facilities/ames/nasa-starling-and-spacex-starlink-improve-space-traffic-coordination/)〔NASA Starling与SpaceX Starlink改进空间交通协调〕. 任务协调试验报道，2025-03-26；访问日期：2026-10-10。",
+      "evidence_id": "E58",
+      "inherited_provenance": "AUTHOR_NOTES_v0.4.md primary-source checks on 2026-10-10; v0.6 reorganizes supported facts and citations; no new engineering metric or event."
+    }
+  ],
+  "new_claims": [
+    {
+      "claim_id": "C01",
+      "location": "1.2",
+      "claim": "Existing reviews organize observation problem variants, operations, agents and maneuver design; this review uses cross-layer decision dependencies as a complementary analytical scope.",
+      "source_dois": [
+        "10.1109/JSYST.2020.2997050",
+        "10.1016/j.cor.2024.106875",
+        "10.1016/j.asr.2020.08.009",
+        "10.3390/sym18071141",
+        "10.1016/j.actaastro.2025.10.018",
+        "10.1016/j.actaastro.2025.07.027"
+      ],
+      "kind": "source-supported scope comparison plus author framing",
+      "claim_text_sha256": "89e0d729bb295b72755b350348530081bbd885abccc359057ebf279fa1683e79"
+    },
+    {
+      "claim_id": "C02",
+      "location": "2.3 Table 1",
+      "claim": "The three-level state/decision/constraint/feedback table is an author analytical organization, not a claim that all cited studies implement a single architecture.",
+      "source_dois": [
+        "10.2514/1.A34387",
+        "10.1016/j.actaastro.2025.02.008",
+        "10.1007/s40295-026-00580-4",
+        "10.2514/1.I011208"
+      ],
+      "kind": "author synthesis",
+      "claim_text_sha256": "2628986b988d70f7aff738f42b5084378a0fbdc7c86a12501d1525faa8cc40b2"
+    },
+    {
+      "claim_id": "C03",
+      "location": "3.2, Table 2, 4.3",
+      "claim": "The single-agent constellation paper implements no communication, single-degree LOS, multi-degree LOS and free communication; it shares completed imaging/downlink states rather than action intentions.",
+      "source_dois": [
+        "10.2514/1.A35736"
+      ],
+      "kind": "primary method/experiment fact",
+      "locator": "§III.C, §IV.A.1–3",
+      "claim_text_sha256": "cdc64ce00c37d27a4f664bc888afbec9f62e79b9245e0e54ba09541ce65ecfb9"
+    },
+    {
+      "claim_id": "C04",
+      "location": "3.2, Table 2, 4.3",
+      "claim": "Incremental continuous planning was faster but more redundant than from-scratch continuous planning in the stated broadcast allocation experiments; times were from a single-threaded distributed simulation.",
+      "source_dois": [
+        "10.2514/1.I011215"
+      ],
+      "kind": "bounded primary qualitative result",
+      "locator": "§V opening and §V.B–C",
+      "claim_text_sha256": "4aee75b0b85c02b0522823b938755801e9e2232d131b65ad99f594849d541844"
+    },
+    {
+      "claim_id": "C05",
+      "location": "4.1",
+      "claim": "On large JAIR instances, NSS-GND reduces run time and message volume relative to BD while retaining a request-satisfaction trade-off; simulation runtime uses the slowest agent.",
+      "source_dois": [
+        "10.1613/jair.1.16997"
+      ],
+      "kind": "bounded primary qualitative result",
+      "locator": "§6.2.3 Figs 11–13, journal pages 200–201",
+      "claim_text_sha256": "bb37e472310aee635252fb2288c5d766ac2d752173d98e4db91b08f631485a1b"
+    },
+    {
+      "claim_id": "C06",
+      "location": "4.1",
+      "claim": "MCTS-Train cost includes search-generated training data and Basilisk simulator rewinding, beyond policy inference.",
+      "source_dois": [
+        "10.3389/frspt.2023.1263489"
+      ],
+      "kind": "primary qualitative result and cost decomposition",
+      "locator": "§4.6, Fig 10",
+      "claim_text_sha256": "bff8a579ee6ec120ac5c72d45803010c74ba4735f58931563c212504cd3d35d6"
+    },
+    {
+      "claim_id": "C07",
+      "location": "abstract and Chapter 5",
+      "claim": "Scalability, completion events and engineering validation are synthesized within the discussed representatives; no new algorithm, global ranking or new flight demonstration is asserted.",
+      "source_dois": [
+        "10.1613/jair.1.16997",
+        "10.2514/1.I011215",
+        "10.2514/1.A35736",
+        "10.3389/frspt.2023.1263489"
+      ],
+      "kind": "author synthesis with chapter-level engineering provenance",
+      "claim_text_sha256": "09756a1cadb734cf66d7ce5de685e5569f057ce88429009a53664dfc0d0b952d"
+    }
+  ],
+  "evidence_limits": [
+    "Registry identity checks do not verify technical propositions.",
+    "Targeted source sections were reviewed by the assistant; no source is marked author-verified.",
+    "The 148-item candidate pool is not presented as a fully screened or fully read included study set.",
+    "Inherited quantitative claims retain their prior author-check priority.",
+    "The paper is a complete structural draft, not a submission-ready manuscript."
+  ],
+  "output": {
+    "path": "D:\\SKT727\\outputs\\review_full_draft_20261010\\REVIEW_FULL_v0.6.md",
+    "sha256": "f46d410547085b397f635d2f70ab9bd64c5e943dab54bc8194e81f1e0a1531c2"
+  }
+}

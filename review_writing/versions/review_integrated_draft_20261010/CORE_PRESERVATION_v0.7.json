@@ -1,0 +1,104 @@
+[
+  {
+    "section": "3.1",
+    "doi": "10.2514/1.A34387",
+    "paragraph_sha256": "cc05a798f8e56526ba10f4fde1d919a189e78ba45dd9b6e0a414233900d52a71",
+    "verbatim_preserved": true
+  },
+  {
+    "section": "3.1",
+    "doi": "10.2514/1.A36684",
+    "paragraph_sha256": "37625dd4b45922cbeeb1a05e4e07d6d5366afef4bddc373c74f8cde45fedff28",
+    "verbatim_preserved": true
+  },
+  {
+    "section": "3.1",
+    "doi": "10.2514/1.A35691",
+    "paragraph_sha256": "2cadfc9098ded6857b4b7ed20263519b2b28b24d4843d0545e163cd30120da2f",
+    "verbatim_preserved": true
+  },
+  {
+    "section": "3.2",
+    "doi": "10.1016/j.cor.2025.107259",
+    "paragraph_sha256": "b16333971723a15ae6b86d0326385076aa43a51487b006ca49615578fe3140ef",
+    "verbatim_preserved": true
+  },
+  {
+    "section": "3.2",
+    "doi": "10.2514/1.I011215",
+    "paragraph_sha256": "2c92293ba1c8010fc95dff181df1d23f7f2ebd7e11ae922b0c7e7b82639a1f9a",
+    "verbatim_preserved": true
+  },
+  {
+    "section": "3.2",
+    "doi": "10.1613/jair.1.16997",
+    "paragraph_sha256": "ff7059fafebac39f1cfa70a26582969bed3433bb76580fe57ee203f0aaa68611",
+    "verbatim_preserved": true
+  },
+  {
+    "section": "3.2",
+    "doi": "10.1002/sat.70082",
+    "paragraph_sha256": "a710ee5161b099ac7a0d6b628ffe98c0b9e5f52902dd4ecce90982678ca66db4",
+    "verbatim_preserved": true
+  },
+  {
+    "section": "3.2",
+    "doi": "10.2514/1.A35736",
+    "paragraph_sha256": "e5e7b483da97edd446fd67e8351993c44ecf510d62420812767fd194ecc72c40",
+    "verbatim_preserved": true
+  },
+  {
+    "section": "3.2",
+    "doi": "10.1007/s40295-026-00580-4",
+    "paragraph_sha256": "8e71cf79d0c5efd8297bdcb65694a661a9fbc0c299eccc793d0656822c06075b",
+    "verbatim_preserved": true
+  },
+  {
+    "section": "3.3",
+    "doi": "10.3390/aerospace10060543",
+    "paragraph_sha256": "f154783706f4a1b4c7932e62e13285f882e7151caad5bedb9280f07a8406eb57",
+    "verbatim_preserved": true
+  },
+  {
+    "section": "3.3",
+    "doi": "10.1016/j.conengprac.2011.09.006",
+    "paragraph_sha256": "8520c3442907b54a1a6e775e15e8c9160c6348988861db780d9e9c90d2830d96",
+    "verbatim_preserved": true
+  },
+  {
+    "section": "3.3",
+    "doi": "10.1007/s40295-026-00631-w",
+    "paragraph_sha256": "78454a5c9f5f0ec9474a238c05f96c86d3e7e512e92e3f6b2f0a26f9432be25e",
+    "verbatim_preserved": true
+  },
+  {
+    "section": "3.3",
+    "doi": "10.1007/s12567-025-00651-6",
+    "paragraph_sha256": "4822e5eeaf1b39ecdeb104c9117cb4ad567048029b2d77328a79a992f2b15622",
+    "verbatim_preserved": true
+  },
+  {
+    "section": "3.3",
+    "doi": "10.2514/1.I011208",
+    "paragraph_sha256": "baef6c3b2d2d017a444a47a09cc6296a11d515b32401c0f010150619009fad36",
+    "verbatim_preserved": true
+  },
+  {
+    "section": "3.4",
+    "doi": "10.1016/j.adhoc.2023.103289",
+    "paragraph_sha256": "8bd054b3a16e6a6139b4eafde90cb45016c695139c4ad65e430ce9f0ecbcb8df",
+    "verbatim_preserved": true
+  },
+  {
+    "section": "3.4",
+    "doi": "10.3390/rs15061577",
+    "paragraph_sha256": "804df9d35108b601577142062b6f663e1f3d4f5ef318f0ca339fbc3b9d852235",
+    "verbatim_preserved": true
+  },
+  {
+    "section": "3.4",
+    "doi": "10.1007/s10270-026-01426-1",
+    "paragraph_sha256": "0a47be09cd9c874d062877fd0b376e7f80c404cc9ec0ceb80812797f9a77b9f6",
+    "verbatim_preserved": true
+  }
+]
