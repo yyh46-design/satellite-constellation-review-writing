@@ -17,7 +17,15 @@
     "round2_claims": 31,
     "line_level_citation_bindings": 133,
     "uncited_references": [],
-    "unknown_reference_ids": []
+    "unknown_reference_ids": [],
+    "english_body_references_present": 116,
+    "english_body_references_not_explicitly_mentioned": [
+      6,
+      44,
+      72,
+      105,
+      110
+    ]
   },
   "sources": [
     {
@@ -495,12 +503,12 @@
         {
           "line": 428,
           "section": "4.2 从局部活动到最终服务的资源耦合",
-          "excerpt": "维护与安全通过改变资源可用时段进一步影响业务安排。库存模型[18](https://doi.org/10.2514/1.A34387)描述备用资源对能力维持的作用，服务集成维护[23](https://doi.org/10.2514/1.A36684)扩大能力恢复的行动集合；安全机动、故障及恢复过程还会暂时改变业务机会。这些研究与日常调度的共同联系体现为随时间和事件变化的可用能"
+          "excerpt": "维护与安全主要通过改变可用时段影响业务。[18](https://doi.org/10.2514/1.A34387)描述库存保障，[23](https://doi.org/10.2514/1.A36684)研究维修与替换选择，但备用资产存在、到达服务位置和业务恢复并非同一事件。将能力恢复时间与实际请求损失连接起来，才能比较相同维护投入的业务效果。"
         },
         {
           "line": 464,
           "section": "4.5 研究挑战与发展方向",
-          "excerpt": "**能力恢复与业务损失的联系。** 库存、补给通道和服务集成维护扩大了能力恢复的行动集合[18](https://doi.org/10.2514/1.A34387)、[19](https://doi.org/10.2514/1.A36281)、[23](https://doi.org/10.2514/1.A36684)，但库存满足、备用资产到位和载荷重新提供业务分别属于不同阶段"
+          "excerpt": "**能力恢复与业务损失的联系。** 库存[18](https://doi.org/10.2514/1.A34387)、双供应通道[19](https://doi.org/10.2514/1.A36281)和服务集成维护[23](https://doi.org/10.2514/1.A36684)处理补位或修复条件，但供应满足、资产到位和业务重新可用并非同一指标。将备份位置、转移等"
         }
       ],
       "human_verified": false,
@@ -527,7 +535,7 @@
         {
           "line": 464,
           "section": "4.5 研究挑战与发展方向",
-          "excerpt": "**能力恢复与业务损失的联系。** 库存、补给通道和服务集成维护扩大了能力恢复的行动集合[18](https://doi.org/10.2514/1.A34387)、[19](https://doi.org/10.2514/1.A36281)、[23](https://doi.org/10.2514/1.A36684)，但库存满足、备用资产到位和载荷重新提供业务分别属于不同阶段"
+          "excerpt": "**能力恢复与业务损失的联系。** 库存[18](https://doi.org/10.2514/1.A34387)、双供应通道[19](https://doi.org/10.2514/1.A36281)和服务集成维护[23](https://doi.org/10.2514/1.A36684)处理补位或修复条件，但供应满足、资产到位和业务重新可用并非同一指标。将备份位置、转移等"
         }
       ],
       "human_verified": false,
@@ -630,12 +638,12 @@
         {
           "line": 428,
           "section": "4.2 从局部活动到最终服务的资源耦合",
-          "excerpt": "维护与安全通过改变资源可用时段进一步影响业务安排。库存模型[18](https://doi.org/10.2514/1.A34387)描述备用资源对能力维持的作用，服务集成维护[23](https://doi.org/10.2514/1.A36684)扩大能力恢复的行动集合；安全机动、故障及恢复过程还会暂时改变业务机会。这些研究与日常调度的共同联系体现为随时间和事件变化的可用能"
+          "excerpt": "维护与安全主要通过改变可用时段影响业务。[18](https://doi.org/10.2514/1.A34387)描述库存保障，[23](https://doi.org/10.2514/1.A36684)研究维修与替换选择，但备用资产存在、到达服务位置和业务恢复并非同一事件。将能力恢复时间与实际请求损失连接起来，才能比较相同维护投入的业务效果。"
         },
         {
           "line": 464,
           "section": "4.5 研究挑战与发展方向",
-          "excerpt": "**能力恢复与业务损失的联系。** 库存、补给通道和服务集成维护扩大了能力恢复的行动集合[18](https://doi.org/10.2514/1.A34387)、[19](https://doi.org/10.2514/1.A36281)、[23](https://doi.org/10.2514/1.A36684)，但库存满足、备用资产到位和载荷重新提供业务分别属于不同阶段"
+          "excerpt": "**能力恢复与业务损失的联系。** 库存[18](https://doi.org/10.2514/1.A34387)、双供应通道[19](https://doi.org/10.2514/1.A36281)和服务集成维护[23](https://doi.org/10.2514/1.A36684)处理补位或修复条件，但供应满足、资产到位和业务重新可用并非同一指标。将备份位置、转移等"
         }
       ],
       "human_verified": false,
@@ -912,7 +920,7 @@
         {
           "line": 405,
           "section": "4.1 求解机制与可扩展性",
-          "excerpt": "局部化与计划复用在降低计算负担的同时，涉及计划质量与协调范围的权衡。Parjan和Chien[34](https://doi.org/10.2514/1.I011215)在连续规划实验中发现，增量修改的计算速度优于重新生成计划，但产生了更多重复观测。Zilberstein等[35](https://doi.org/10.1613/jair.1.16997)利用几何邻域划分局部问"
+          "excerpt": "局部化和计划复用以减少重算和协同范围换取开销节省，但代价由各自模型决定。Parjan和Chien[34](https://doi.org/10.2514/1.I011215)观察到增量更新更快却伴随更多重复观测；Zilberstein等[35](https://doi.org/10.1613/jair.1.16997)通过几何邻域减少最慢代理的求解时间与消息开销，仍保留任务满足"
         },
         {
           "line": 432,
@@ -922,7 +930,7 @@
         {
           "line": 468,
           "section": "4.5 研究挑战与发展方向",
-          "excerpt": "**信息延迟与计划承诺条件下的在线更新。** 增量规划[34](https://doi.org/10.2514/1.I011215)中的计算时间与观测冗余取舍、通信机会预测[38](https://doi.org/10.1016/j.asr.2020.02.018)中的收益与交互取舍，以及分层资源管理[81](https://doi.org/10.3390/s25030902)"
+          "excerpt": "**信息延迟与计划承诺条件下的在线更新。** 增量规划[34](https://doi.org/10.2514/1.I011215)、通信机会预测[38](https://doi.org/10.1016/j.asr.2020.02.018)和分层资源管理[81](https://doi.org/10.3390/s25030902)依赖不同的状态共享与更新机制。AWS预约[52]"
         }
       ],
       "human_verified": false,
@@ -954,7 +962,7 @@
         {
           "line": 405,
           "section": "4.1 求解机制与可扩展性",
-          "excerpt": "局部化与计划复用在降低计算负担的同时，涉及计划质量与协调范围的权衡。Parjan和Chien[34](https://doi.org/10.2514/1.I011215)在连续规划实验中发现，增量修改的计算速度优于重新生成计划，但产生了更多重复观测。Zilberstein等[35](https://doi.org/10.1613/jair.1.16997)利用几何邻域划分局部问"
+          "excerpt": "局部化和计划复用以减少重算和协同范围换取开销节省，但代价由各自模型决定。Parjan和Chien[34](https://doi.org/10.2514/1.I011215)观察到增量更新更快却伴随更多重复观测；Zilberstein等[35](https://doi.org/10.1613/jair.1.16997)通过几何邻域减少最慢代理的求解时间与消息开销，仍保留任务满足"
         },
         {
           "line": 432,
@@ -1045,7 +1053,7 @@
         {
           "line": 468,
           "section": "4.5 研究挑战与发展方向",
-          "excerpt": "**信息延迟与计划承诺条件下的在线更新。** 增量规划[34](https://doi.org/10.2514/1.I011215)中的计算时间与观测冗余取舍、通信机会预测[38](https://doi.org/10.1016/j.asr.2020.02.018)中的收益与交互取舍，以及分层资源管理[81](https://doi.org/10.3390/s25030902)"
+          "excerpt": "**信息延迟与计划承诺条件下的在线更新。** 增量规划[34](https://doi.org/10.2514/1.I011215)、通信机会预测[38](https://doi.org/10.1016/j.asr.2020.02.018)和分层资源管理[81](https://doi.org/10.3390/s25030902)依赖不同的状态共享与更新机制。AWS预约[52]"
         }
       ],
       "human_verified": false,
@@ -1403,7 +1411,7 @@
         {
           "line": 468,
           "section": "4.5 研究挑战与发展方向",
-          "excerpt": "**信息延迟与计划承诺条件下的在线更新。** 增量规划[34](https://doi.org/10.2514/1.I011215)中的计算时间与观测冗余取舍、通信机会预测[38](https://doi.org/10.1016/j.asr.2020.02.018)中的收益与交互取舍，以及分层资源管理[81](https://doi.org/10.3390/s25030902)"
+          "excerpt": "**信息延迟与计划承诺条件下的在线更新。** 增量规划[34](https://doi.org/10.2514/1.I011215)、通信机会预测[38](https://doi.org/10.1016/j.asr.2020.02.018)和分层资源管理[81](https://doi.org/10.3390/s25030902)依赖不同的状态共享与更新机制。AWS预约[52]"
         }
       ],
       "human_verified": false,
@@ -1469,7 +1477,7 @@
         {
           "line": 466,
           "section": "4.5 研究挑战与发展方向",
-          "excerpt": "**端到端服务目标下的适度联合。** 接触图调度[106](https://doi.org/10.1016/j.adhoc.2023.103289)共同选择采集与交付路径，观测—处理安排[53](https://doi.org/10.1002/sat.70082)利用既有采集计划配置下游资源；需求感知波束[76](https://doi.org/10.1109/TWC.2025"
+          "excerpt": "**端到端服务目标下的适度联合。** 接触图调度[106](https://doi.org/10.1016/j.adhoc.2023.103289)共同选择采集与交付路径，[53](https://doi.org/10.1002/sat.70082)以采集计划顺序确定下游处理输入；通信配置[76](https://doi.org/10.1109/TWC.2025.3545745"
         }
       ],
       "human_verified": false,
@@ -1724,7 +1732,7 @@
         {
           "line": 470,
           "section": "4.5 研究挑战与发展方向",
-          "excerpt": "**学习模块对最终运行结果的贡献。** 预测[73](https://doi.org/10.3390/aerospace11030191)、学习初解与搜索修复[63](https://doi.org/10.1016/j.eswa.2025.128502)、受安全屏蔽的动作生成[96](https://doi.org/10.1007/s40295-026-00631-w)分别作用"
+          "excerpt": "**学习模块对最终运行结果的贡献。** 流量预测[73](https://doi.org/10.3390/aerospace11030191)改善估计，学习辅助搜索[63](https://doi.org/10.1016/j.eswa.2025.128502)改善初解，安全屏蔽策略[96](https://doi.org/10.1007/s40295-026-00631-w)约"
         }
       ],
       "human_verified": false,
@@ -2013,7 +2021,7 @@
         {
           "line": 470,
           "section": "4.5 研究挑战与发展方向",
-          "excerpt": "**学习模块对最终运行结果的贡献。** 预测[73](https://doi.org/10.3390/aerospace11030191)、学习初解与搜索修复[63](https://doi.org/10.1016/j.eswa.2025.128502)、受安全屏蔽的动作生成[96](https://doi.org/10.1007/s40295-026-00631-w)分别作用"
+          "excerpt": "**学习模块对最终运行结果的贡献。** 流量预测[73](https://doi.org/10.3390/aerospace11030191)改善估计，学习辅助搜索[63](https://doi.org/10.1016/j.eswa.2025.128502)改善初解，安全屏蔽策略[96](https://doi.org/10.1007/s40295-026-00631-w)约"
         }
       ],
       "human_verified": false,
@@ -2191,7 +2199,7 @@
         {
           "line": 466,
           "section": "4.5 研究挑战与发展方向",
-          "excerpt": "**端到端服务目标下的适度联合。** 接触图调度[106](https://doi.org/10.1016/j.adhoc.2023.103289)共同选择采集与交付路径，观测—处理安排[53](https://doi.org/10.1002/sat.70082)利用既有采集计划配置下游资源；需求感知波束[76](https://doi.org/10.1109/TWC.2025"
+          "excerpt": "**端到端服务目标下的适度联合。** 接触图调度[106](https://doi.org/10.1016/j.adhoc.2023.103289)共同选择采集与交付路径，[53](https://doi.org/10.1002/sat.70082)以采集计划顺序确定下游处理输入；通信配置[76](https://doi.org/10.1109/TWC.2025.3545745"
         }
       ],
       "human_verified": false,
@@ -2241,7 +2249,7 @@
         {
           "line": 466,
           "section": "4.5 研究挑战与发展方向",
-          "excerpt": "**端到端服务目标下的适度联合。** 接触图调度[106](https://doi.org/10.1016/j.adhoc.2023.103289)共同选择采集与交付路径，观测—处理安排[53](https://doi.org/10.1002/sat.70082)利用既有采集计划配置下游资源；需求感知波束[76](https://doi.org/10.1109/TWC.2025"
+          "excerpt": "**端到端服务目标下的适度联合。** 接触图调度[106](https://doi.org/10.1016/j.adhoc.2023.103289)共同选择采集与交付路径，[53](https://doi.org/10.1002/sat.70082)以采集计划顺序确定下游处理输入；通信配置[76](https://doi.org/10.1109/TWC.2025.3545745"
         }
       ],
       "human_verified": false,
@@ -2318,7 +2326,7 @@
         {
           "line": 405,
           "section": "4.1 求解机制与可扩展性",
-          "excerpt": "局部化与计划复用在降低计算负担的同时，涉及计划质量与协调范围的权衡。Parjan和Chien[34](https://doi.org/10.2514/1.I011215)在连续规划实验中发现，增量修改的计算速度优于重新生成计划，但产生了更多重复观测。Zilberstein等[35](https://doi.org/10.1613/jair.1.16997)利用几何邻域划分局部问"
+          "excerpt": "局部化和计划复用以减少重算和协同范围换取开销节省，但代价由各自模型决定。Parjan和Chien[34](https://doi.org/10.2514/1.I011215)观察到增量更新更快却伴随更多重复观测；Zilberstein等[35](https://doi.org/10.1613/jair.1.16997)通过几何邻域减少最慢代理的求解时间与消息开销，仍保留任务满足"
         }
       ],
       "human_verified": false,
@@ -2411,7 +2419,7 @@
         {
           "line": 468,
           "section": "4.5 研究挑战与发展方向",
-          "excerpt": "**信息延迟与计划承诺条件下的在线更新。** 增量规划[34](https://doi.org/10.2514/1.I011215)中的计算时间与观测冗余取舍、通信机会预测[38](https://doi.org/10.1016/j.asr.2020.02.018)中的收益与交互取舍，以及分层资源管理[81](https://doi.org/10.3390/s25030902)"
+          "excerpt": "**信息延迟与计划承诺条件下的在线更新。** 增量规划[34](https://doi.org/10.2514/1.I011215)、通信机会预测[38](https://doi.org/10.1016/j.asr.2020.02.018)和分层资源管理[81](https://doi.org/10.3390/s25030902)依赖不同的状态共享与更新机制。AWS预约[52]"
         }
       ],
       "human_verified": false,
@@ -2612,7 +2620,7 @@
         {
           "line": 458,
           "section": "4.4 公开运营与飞行试验提供的运行证据",
-          "excerpt": "飞行试验展示了状态反馈与后续选择或动作的联系。IPEX[111](https://ai.jpl.nasa.gov/public/projects/ipex/)连接单星处理、资源状态和持续规划；Starling[114](https://www.nasa.gov/smallspacecraft/what-is-starling/)在四星任务中展示观测协同；Starling 1.5"
+          "excerpt": "飞行资料提供特定规模下的动作证据。IPEX[111](https://ai.jpl.nasa.gov/public/projects/ipex/)展示单星处理与持续规划，Starling[114](https://www.nasa.gov/smallspacecraft/what-is-starling/)展示四星观测协同，Starling 1.5[115](https://w"
         }
       ],
       "human_verified": false,
@@ -2786,7 +2794,7 @@
         {
           "line": 470,
           "section": "4.5 研究挑战与发展方向",
-          "excerpt": "**学习模块对最终运行结果的贡献。** 预测[73](https://doi.org/10.3390/aerospace11030191)、学习初解与搜索修复[63](https://doi.org/10.1016/j.eswa.2025.128502)、受安全屏蔽的动作生成[96](https://doi.org/10.1007/s40295-026-00631-w)分别作用"
+          "excerpt": "**学习模块对最终运行结果的贡献。** 流量预测[73](https://doi.org/10.3390/aerospace11030191)改善估计，学习辅助搜索[63](https://doi.org/10.1016/j.eswa.2025.128502)改善初解，安全屏蔽策略[96](https://doi.org/10.1007/s40295-026-00631-w)约"
         }
       ],
       "human_verified": false,
@@ -2818,7 +2826,7 @@
         {
           "line": 458,
           "section": "4.4 公开运营与飞行试验提供的运行证据",
-          "excerpt": "飞行试验展示了状态反馈与后续选择或动作的联系。IPEX[111](https://ai.jpl.nasa.gov/public/projects/ipex/)连接单星处理、资源状态和持续规划；Starling[114](https://www.nasa.gov/smallspacecraft/what-is-starling/)在四星任务中展示观测协同；Starling 1.5"
+          "excerpt": "飞行资料提供特定规模下的动作证据。IPEX[111](https://ai.jpl.nasa.gov/public/projects/ipex/)展示单星处理与持续规划，Starling[114](https://www.nasa.gov/smallspacecraft/what-is-starling/)展示四星观测协同，Starling 1.5[115](https://w"
         }
       ],
       "human_verified": false,
@@ -3051,7 +3059,7 @@
         {
           "line": 466,
           "section": "4.5 研究挑战与发展方向",
-          "excerpt": "**端到端服务目标下的适度联合。** 接触图调度[106](https://doi.org/10.1016/j.adhoc.2023.103289)共同选择采集与交付路径，观测—处理安排[53](https://doi.org/10.1002/sat.70082)利用既有采集计划配置下游资源；需求感知波束[76](https://doi.org/10.1109/TWC.2025"
+          "excerpt": "**端到端服务目标下的适度联合。** 接触图调度[106](https://doi.org/10.1016/j.adhoc.2023.103289)共同选择采集与交付路径，[53](https://doi.org/10.1002/sat.70082)以采集计划顺序确定下游处理输入；通信配置[76](https://doi.org/10.1109/TWC.2025.3545745"
         }
       ],
       "human_verified": false,
@@ -3206,12 +3214,12 @@
         {
           "line": 458,
           "section": "4.4 公开运营与飞行试验提供的运行证据",
-          "excerpt": "飞行试验展示了状态反馈与后续选择或动作的联系。IPEX[111](https://ai.jpl.nasa.gov/public/projects/ipex/)连接单星处理、资源状态和持续规划；Starling[114](https://www.nasa.gov/smallspacecraft/what-is-starling/)在四星任务中展示观测协同；Starling 1.5"
+          "excerpt": "飞行资料提供特定规模下的动作证据。IPEX[111](https://ai.jpl.nasa.gov/public/projects/ipex/)展示单星处理与持续规划，Starling[114](https://www.nasa.gov/smallspacecraft/what-is-starling/)展示四星观测协同，Starling 1.5[115](https://w"
         },
         {
           "line": 472,
           "section": "4.5 研究挑战与发展方向",
-          "excerpt": "**共同任务和事件场景中的综合验证。** 单星持续规划[111](https://ai.jpl.nasa.gov/public/projects/ipex/)、四星观测协同[114](https://www.nasa.gov/smallspacecraft/what-is-starling/)及跨运营方机动协调[115](https://www.nasa.gov/centers"
+          "excerpt": "**共同任务和事件场景中的综合验证。** IPEX[111](https://ai.jpl.nasa.gov/public/projects/ipex/)的单星规划、Starling[114](https://www.nasa.gov/smallspacecraft/what-is-starling/)的四星协调与Starling 1.5[115](https://www.na"
         }
       ],
       "human_verified": false,
@@ -3320,12 +3328,12 @@
         {
           "line": 458,
           "section": "4.4 公开运营与飞行试验提供的运行证据",
-          "excerpt": "飞行试验展示了状态反馈与后续选择或动作的联系。IPEX[111](https://ai.jpl.nasa.gov/public/projects/ipex/)连接单星处理、资源状态和持续规划；Starling[114](https://www.nasa.gov/smallspacecraft/what-is-starling/)在四星任务中展示观测协同；Starling 1.5"
+          "excerpt": "飞行资料提供特定规模下的动作证据。IPEX[111](https://ai.jpl.nasa.gov/public/projects/ipex/)展示单星处理与持续规划，Starling[114](https://www.nasa.gov/smallspacecraft/what-is-starling/)展示四星观测协同，Starling 1.5[115](https://w"
         },
         {
           "line": 472,
           "section": "4.5 研究挑战与发展方向",
-          "excerpt": "**共同任务和事件场景中的综合验证。** 单星持续规划[111](https://ai.jpl.nasa.gov/public/projects/ipex/)、四星观测协同[114](https://www.nasa.gov/smallspacecraft/what-is-starling/)及跨运营方机动协调[115](https://www.nasa.gov/centers"
+          "excerpt": "**共同任务和事件场景中的综合验证。** IPEX[111](https://ai.jpl.nasa.gov/public/projects/ipex/)的单星规划、Starling[114](https://www.nasa.gov/smallspacecraft/what-is-starling/)的四星协调与Starling 1.5[115](https://www.na"
         }
       ],
       "human_verified": false,
@@ -3362,12 +3370,12 @@
         {
           "line": 458,
           "section": "4.4 公开运营与飞行试验提供的运行证据",
-          "excerpt": "飞行试验展示了状态反馈与后续选择或动作的联系。IPEX[111](https://ai.jpl.nasa.gov/public/projects/ipex/)连接单星处理、资源状态和持续规划；Starling[114](https://www.nasa.gov/smallspacecraft/what-is-starling/)在四星任务中展示观测协同；Starling 1.5"
+          "excerpt": "飞行资料提供特定规模下的动作证据。IPEX[111](https://ai.jpl.nasa.gov/public/projects/ipex/)展示单星处理与持续规划，Starling[114](https://www.nasa.gov/smallspacecraft/what-is-starling/)展示四星观测协同，Starling 1.5[115](https://w"
         },
         {
           "line": 472,
           "section": "4.5 研究挑战与发展方向",
-          "excerpt": "**共同任务和事件场景中的综合验证。** 单星持续规划[111](https://ai.jpl.nasa.gov/public/projects/ipex/)、四星观测协同[114](https://www.nasa.gov/smallspacecraft/what-is-starling/)及跨运营方机动协调[115](https://www.nasa.gov/centers"
+          "excerpt": "**共同任务和事件场景中的综合验证。** IPEX[111](https://ai.jpl.nasa.gov/public/projects/ipex/)的单星规划、Starling[114](https://www.nasa.gov/smallspacecraft/what-is-starling/)的四星协调与Starling 1.5[115](https://www.na"
         }
       ],
       "human_verified": false,
@@ -3455,7 +3463,7 @@
         {
           "line": 460,
           "section": "4.4 公开运营与飞行试验提供的运行证据",
-          "excerpt": "软件研究关注配置和状态性质的维持。受监督重配置[119](https://doi.org/10.1007/s10270-026-01426-1)处理机载实时进程调度的配置变化，状态模型检查[120](https://doi.org/10.1007/s10270-025-01281-6)分析给定规格下的性质与规模成本。其验证对象属于运行软件，与观测或通信业务收益具有不同含义。综合"
+          "excerpt": "软件研究的验证对象不同于服务指标：受监督重配置[119](https://doi.org/10.1007/s10270-026-01426-1)检查实时进程配置，模型检查[120](https://doi.org/10.1007/s10270-025-01281-6)检验给定规格的状态性质。业务接口、软件实现、飞行事件和独立测量分别提供状态定义、实现行为、运行动作与服务观测，其"
         }
       ],
       "human_verified": false,
@@ -3477,7 +3485,7 @@
         {
           "line": 460,
           "section": "4.4 公开运营与飞行试验提供的运行证据",
-          "excerpt": "软件研究关注配置和状态性质的维持。受监督重配置[119](https://doi.org/10.1007/s10270-026-01426-1)处理机载实时进程调度的配置变化，状态模型检查[120](https://doi.org/10.1007/s10270-025-01281-6)分析给定规格下的性质与规模成本。其验证对象属于运行软件，与观测或通信业务收益具有不同含义。综合"
+          "excerpt": "软件研究的验证对象不同于服务指标：受监督重配置[119](https://doi.org/10.1007/s10270-026-01426-1)检查实时进程配置，模型检查[120](https://doi.org/10.1007/s10270-025-01281-6)检验给定规格的状态性质。业务接口、软件实现、飞行事件和独立测量分别提供状态定义、实现行为、运行动作与服务观测，其"
         }
       ],
       "human_verified": false,
@@ -3533,7 +3541,7 @@
         {
           "line": 405,
           "section": "4.1 求解机制与可扩展性",
-          "excerpt": "局部化与计划复用在降低计算负担的同时，涉及计划质量与协调范围的权衡。Parjan和Chien[34](https://doi.org/10.2514/1.I011215)在连续规划实验中发现，增量修改的计算速度优于重新生成计划，但产生了更多重复观测。Zilberstein等[35](https://doi.org/10.1613/jair.1.16997)利用几何邻域划分局部问"
+          "excerpt": "局部化和计划复用以减少重算和协同范围换取开销节省，但代价由各自模型决定。Parjan和Chien[34](https://doi.org/10.2514/1.I011215)观察到增量更新更快却伴随更多重复观测；Zilberstein等[35](https://doi.org/10.1613/jair.1.16997)通过几何邻域减少最慢代理的求解时间与消息开销，仍保留任务满足"
         },
         {
           "line": 424,
@@ -3548,12 +3556,12 @@
         {
           "line": 466,
           "section": "4.5 研究挑战与发展方向",
-          "excerpt": "**端到端服务目标下的适度联合。** 接触图调度[106](https://doi.org/10.1016/j.adhoc.2023.103289)共同选择采集与交付路径，观测—处理安排[53](https://doi.org/10.1002/sat.70082)利用既有采集计划配置下游资源；需求感知波束[76](https://doi.org/10.1109/TWC.2025"
+          "excerpt": "**端到端服务目标下的适度联合。** 接触图调度[106](https://doi.org/10.1016/j.adhoc.2023.103289)共同选择采集与交付路径，[53](https://doi.org/10.1002/sat.70082)以采集计划顺序确定下游处理输入；通信配置[76](https://doi.org/10.1109/TWC.2025.3545745"
         },
         {
           "line": 468,
           "section": "4.5 研究挑战与发展方向",
-          "excerpt": "**信息延迟与计划承诺条件下的在线更新。** 增量规划[34](https://doi.org/10.2514/1.I011215)中的计算时间与观测冗余取舍、通信机会预测[38](https://doi.org/10.1016/j.asr.2020.02.018)中的收益与交互取舍，以及分层资源管理[81](https://doi.org/10.3390/s25030902)"
+          "excerpt": "**信息延迟与计划承诺条件下的在线更新。** 增量规划[34](https://doi.org/10.2514/1.I011215)、通信机会预测[38](https://doi.org/10.1016/j.asr.2020.02.018)和分层资源管理[81](https://doi.org/10.3390/s25030902)依赖不同的状态共享与更新机制。AWS预约[52]"
         }
       ],
       "human_verified": false,
@@ -5037,5 +5045,6 @@
   ],
   "human_verified": false,
   "author_final_verification": "pending",
-  "submission_ready": false
+  "submission_ready": false,
+  "english_manuscript": "review_writing/manuscripts/v1.7/REVIEW_FULL_EN_v1.7.md"
 }
