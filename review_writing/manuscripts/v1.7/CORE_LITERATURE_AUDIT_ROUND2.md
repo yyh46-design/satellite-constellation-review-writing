@@ -55,7 +55,7 @@
 
 **DOI**：[10.1016/j.comcom.2022.02.015](https://doi.org/10.1016/j.comcom.2022.02.015)。**实际核读**：ScienceDirect可索引正文片段和出版摘要；未获得连续可核正文。**内容等级**：`no_full_text`。
 
-**入口**：[核读或核查页面](https://www.sciencedirect.com/science/article/pii/S0140366422000659)。
+**入口**：[核读或核查页面](https://doi.org/10.1016/j.comcom.2022.02.015)。
 
 **访问与局限**：出版商摘要/索引文字可见但正文页面受限；机构记录无文件。
 
@@ -114,7 +114,7 @@
 
 **修订措施**：3.5只以架构组织讨论；表7标注摘要级，否定从架构示意推导星座运行性能。**v1.7引用定位**：L362、L377。*分类及跨论文综合属于综述作者归纳，不应计为原论文实验证明。*
 
-## [53] Joint Task Acquisition and Inference Scheduling for Edge Satellites
+## [53] Edge Intelligence for Satellite-Based Earth Observation: Scheduling Image Acquisition and Processing
 
 **DOI**：[10.1002/sat.70082](https://doi.org/10.1002/sat.70082)。**实际核读**：arXiv:2604.05937v1，作者预印本25页；正式Wiley版本目前仅能看到摘要/元数据。**内容等级**：`author_version_only`。
 
@@ -162,7 +162,7 @@
 
 **修订措施**：沿用基准正确的FPA/DPA负载区间和作者稿限定；新稿强调不同研究的可修改变量范围。**v1.7引用定位**：L246、L250、L285、L424、L466。*分类及跨论文综合属于综述作者归纳，不应计为原论文实验证明。*
 
-## [121] Adaptive Routing with Inter-Satellite Laser Link Activity
+## [121] On-Demand Routing in LEO Mega-Constellations With Dynamic Laser Inter-Satellite Links
 
 **DOI**：[10.1109/TAES.2024.3415571](https://doi.org/10.1109/TAES.2024.3415571)。**实际核读**：arXiv:2406.01953v1（作者HTML/PDF），正式IEEE正文未读。**内容等级**：`author_version_only`。
 
