@@ -130,7 +130,7 @@
       "doi": "10.1016/j.comcom.2022.02.015",
       "content_basis": "no_full_text",
       "read_version": "ScienceDirect可索引正文片段和出版摘要；未获得连续可核正文",
-      "read_url": "https://www.sciencedirect.com/science/article/pii/S0140366422000659",
+      "read_url": "https://doi.org/10.1016/j.comcom.2022.02.015",
       "access": "出版商摘要/索引文字可见但正文页面受限；机构记录无文件",
       "baseline_positions": "3.3原248、表5原272、4.1原370",
       "claims": [
@@ -323,7 +323,7 @@
     },
     {
       "id": 53,
-      "title": "Joint Task Acquisition and Inference Scheduling for Edge Satellites",
+      "title": "Edge Intelligence for Satellite-Based Earth Observation: Scheduling Image Acquisition and Processing",
       "doi": "10.1002/sat.70082",
       "content_basis": "author_version_only",
       "read_version": "arXiv:2604.05937v1，作者预印本25页；正式Wiley版本目前仅能看到摘要/元数据",
@@ -520,7 +520,7 @@
     },
     {
       "id": 121,
-      "title": "Adaptive Routing with Inter-Satellite Laser Link Activity",
+      "title": "On-Demand Routing in LEO Mega-Constellations With Dynamic Laser Inter-Satellite Links",
       "doi": "10.1109/TAES.2024.3415571",
       "content_basis": "author_version_only",
       "read_version": "arXiv:2406.01953v1（作者HTML/PDF），正式IEEE正文未读",
