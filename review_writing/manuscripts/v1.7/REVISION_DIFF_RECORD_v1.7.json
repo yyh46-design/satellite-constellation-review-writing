@@ -1,0 +1,122 @@
+{
+  "baseline_commit": "de1291575bf4e28d7c404e3c7b78c49f64079deb",
+  "baseline_path": "../v1.6/REVIEW_MAIN_DRAFT_v1.6.md",
+  "new_path": "REVIEW_MAIN_DRAFT_v1.7.md",
+  "edits": [
+    {
+      "id": "V17-01",
+      "baseline_line": 7,
+      "original": "大型卫星星座的持续运行涉及动态业务需求、有限资源与时变资产状态之间的协调。本文采用问题驱动的叙述性综述方法，构建业务场景与管理问题相结合的分类框架，系统梳理能力配置与维护、对地观测及在轨服务调度、通信资源管理、安全恢复和综合运行研究，并从资源约束、信息结构、求解机制及验证范围比较代表性方法。现有研究表明，计划复用与邻域分解能够降低计算和消息开销，但在相应算例中仍存在重复观测或任务满足率差距；采集、处理及交付的协调主要通过联合选择、顺序安排和运行反馈实现，各类方法的决策范围有所不同。通信资源配置的性能受到负载水平和容量瓶颈的影响，路径保持与更新之间的取舍则与链路建立成本相关；独立测量在仅有一颗候选服务卫星的连接窗口内，仍观察到重配置边界附近的服务波动。算法模型、软件原型、独立测量与飞行试验分别提供不同层次的机制、实现及运行证据。在此基础上，本文归纳计算开销、信息条件与服务质量之间的主要制约关系，并讨论能力恢复与业务损失、端到端联合决策范围、延迟信息下的计划更新及共同任务场景中的综合验证等研究方向。",
+      "updated": "大型卫星星座的持续运行涉及时变业务需求、有限资源与资产状态的持续协调。本文采用问题驱动的叙述性技术综述，以对地观测和通信作为两类核心业务，系统梳理长期能力配置、任务与网络资源调度、安全执行、异常恢复及综合运行研究。通过比较模型变量、信息假设、求解和更新机制、评价指标及验证范围，分析典型方法在不同任务条件下的适用性。代表研究表明，增量规划与几何邻域分解通过不同机制减少重复计算和消息负担，其任务满足、资源冗余及质量—成本权衡取决于负载与比较基线；观测、处理及交付可由共同选择、分阶段安排和运行反馈连接，并非同一种统一优化。通信星座的波束与功率、用户关联、切换和路径更新面对不同的干扰与时变网络约束。结合商业运营接口、独立测量及限定飞行资料，本文归纳业务能力恢复、动态资源协同、计划修改和跨模块验证的研究问题，旨在提供跨业务、跨管理功能的技术谱系和有条件的评价依据。",
+      "reason": "摘要：收紧综述综合结论，并突出业务—管理的交叉分类"
+    },
+    {
+      "id": "V17-02",
+      "baseline_line": 13,
+      "original": "Sustained operation of large satellite constellations requires coordination among dynamic service demand, limited resources, and changing asset conditions. This problem-driven narrative review develops a classification framework combining application scenarios and management functions. It reviews capability planning and maintenance, Earth observation and on-orbit servicing scheduling, communication-resource management, safety and recovery, and integrated operations. Representative approaches are compared in terms of resource constraints, information structures, solution mechanisms, and validation scope. Existing studies show that plan reuse and neighborhood decomposition reduce computation and messaging costs, while redundant observations or task-satisfaction gaps remain in the respective experiments. Coordination of acquisition, processing, and delivery involves joint selection, sequential planning, and operational feedback, with different decision scopes. Communication-resource allocation depends on load levels and capacity bottlenecks, whereas tradeoffs between route persistence and updates depend on link-establishment costs. Independent measurements also identify service fluctuations around reconfiguration boundaries during connection windows with a single candidate serving satellite. Algorithmic models, software prototypes, independent measurements, and flight demonstrations provide complementary evidence at different levels of mechanism, implementation, and operation. The review synthesizes the relationships among computational costs, information conditions, and service quality, and discusses capability recovery and service loss, the scope of end-to-end coordination, plan updates under delayed information, and integrated validation in shared mission scenarios.",
+      "updated": "Large satellite constellations must coordinate time-varying service demand, limited resources, and changing spacecraft availability. This problem-driven narrative review treats Earth observation and communication networks as two principal service domains and examines capability planning, mission and network-resource scheduling, safe execution, recovery, and integrated operations. Representative models are compared by decision variables, information assumptions, solution and update mechanisms, evaluation metrics, and validation conditions. Incremental planning and geometric neighborhood decomposition reduce different computing and coordination burdens; their effects on task satisfaction, redundancy, and solution quality depend on workloads and baselines. Acquisition, processing, and delivery can be linked through joint selection, staged optimization, or operational feedback rather than a universal end-to-end solver. Communication management faces distinct interference, access, handover, and topology-update constraints. Public operational interfaces, independent measurement studies, and bounded flight demonstrations complement algorithmic evidence. The review synthesizes technical developments across businesses and management functions and identifies conditional questions about service restoration, dynamic resource coordination, plan revisions, and cross-module validation.",
+      "reason": "英文摘要同步中文内容与证据强度"
+    },
+    {
+      "id": "V17-03",
+      "baseline_line": 44,
+      "original": "本文在上述研究基础上，从星座运行管理视角比较对地观测与通信的业务差异及共用机制。分析重点包括任务与网络服务的决策对象、资源冲突和完成条件，分解、分布式与学习方法对计算及信息负担的不同处理，以及能力配置、业务调度和执行反馈之间的耦合。对地观测与通信构成不同的资源和服务情境，跨业务运维则反映部署、维护及异常事件对可用能力的影响。",
+      "updated": "已有研究已对观测调度、空间物流、通信资源管理及SatOps—NetOps协同建立重要分类与方法体系，因而本文不以首次发现跨层联系为研究贡献。本文的补充工作是从**业务场景与管理决策交叉维度**归纳已有技术：分别比较观测任务、持续通信服务和运维恢复的任务完成标准，再按配置、调度、执行与反馈环节考察变量、资源、信息更新和验证范围。这样的对应能够说明某种算法究竟减少了搜索、协调还是运行更新成本，并揭示不同任务场景下结论为何不能直接互换。",
+      "reason": "引言贡献定位与已有综述的实际覆盖相容"
+    },
+    {
+      "id": "V17-04",
+      "baseline_line": 46,
+      "original": "本文采用“业务场景—管理问题”的交叉分类组织文献。长期能力配置和安全恢复作为两类业务共有的管理问题，观测任务与通信资源分别作为业务调度对象，多问题联合研究则考察能力、资源和执行状态之间的依赖。代表论文提供模型、方法及实验依据，公开运营资料与飞行试验补充业务状态、管理职责和实际动作，共同支持技术机制与运行过程的分析。",
+      "updated": "本文采用“业务场景—管理问题”的交叉分类组织文献，形成三项相互衔接的综合分析：（1）对比两类核心业务中的模型对象、状态和完成指标；（2）根据求解机制、任务负载、可用信息与成本解释代表方法的效果及适用条件；（3）将模型输出与商业运营及飞行记录中实际执行的活动相对照，讨论进一步需要核验的接口与共同事件场景。分类是本综述用于整理和解释研究结果的工具，并非断言现有大型星座已经采用统一的软件架构。",
+      "reason": "引言写清三个可核验的综述产出"
+    },
+    {
+      "id": "V17-05",
+      "baseline_line": 173,
+      "original": "业务接口进一步规定任务完成和资源承诺的状态条件。Planet Tasking API[51](https://docs.planet.com/develop/apis/tasking/)区分采集、质量满足和交付，部分灵活产品在期限内可以继续采集；AWS Ground Station[52](https://docs.aws.amazon.com/ground-station/latest/ug/contacts.html)预约保存任务配置快照，配置更新通过取消并重约应用于已有预约。前者通过质量结果决定后续采集，后者规定已确认资源的配置变更条件。成像完成、有效产品形成及资源预约确认因而对应不同的业务状态，并影响后续安排。",
+      "updated": "业务接口进一步规定任务完成和资源承诺的状态条件。Planet Tasking API[51](https://docs.planet.com/develop/apis/tasking/)区分采集、质量验收和交付，部分产品允许按条件继续采集。AWS Ground Station[52](https://docs.aws.amazon.com/ground-station/latest/ug/contacts.html)对已有预约的时间或任务配置文件（mission profile）变化通常要求取消后重约；[联系版本更新](https://docs.aws.amazon.com/ground-station/latest/ug/contacts.versioning.html)则允许满足约束时保留原窗口、更新轨道星历或目标，并通过异步版本状态确认是否生效。保留资源条件的参数变更和取消后重新申请资源属于不同计划更新过程，不能将所有配置修改概括为取消重约。",
+      "reason": "AWS接口：修正过强的取消重约断言"
+    },
+    {
+      "id": "V17-06",
+      "baseline_line": 175,
+      "original": "星上处理进一步将信息生成所需的计算资源纳入调度。Soret等[53](https://doi.org/10.1002/sat.70082)的[公开预印本](https://arxiv.org/abs/2604.05937v1)先在时间、姿态与能源约束下选择采集，以图像质量确定观测收益；再以已采集负载和可用下传时刻为输入，优化边缘卫星与地面站之间的处理负载分配及处理频率，最小化处理及传输能耗。模型采用采集与分发、处理、汇集下传的固定时隙流水线，并假设星间链路稳定。其处理收益随计算平台、负载和时隙长度变化。该研究以采集计划确定下游计算与通信配置的输入，区分成像完成和推理完成两种状态。下游处理能力对采集选择的反向作用尚未由这一顺序决策过程验证。",
+      "updated": "星上处理将信息生成所需的计算与传输资源纳入任务链。Soret等[53](https://doi.org/10.1002/sat.70082)的[公开作者稿](https://arxiv.org/abs/2604.05937v1)先在时间、姿态与能源约束下形成采集计划，再以既有采集负载及可用下传时刻为输入，安排星上/地面处理器的计算任务与频率，并计入通信能耗和容量。Wiley正式摘要将观测与处理表述为两个相互耦合的优化问题；本文具体的顺序依赖仍以已读作者稿为依据，不以“耦合”直接推断作者完成了所有变量可互相反馈的统一全局优化。模型中的固定流水线与稳定星间链路假设也限定其向实时商业运行的推广范围。",
+      "reason": "[53]正式摘要和作者稿各自支持的范围清楚区分"
+    },
+    {
+      "id": "V17-07",
+      "baseline_line": 230,
+      "original": "多星重叠覆盖引入了服务关联和跨星干扰约束。Lin等[75](https://doi.org/10.1109/LCOMM.2022.3213912)依次优化卫星—小区关联与照射模式，同时考虑负载平衡及对地球同步轨道系统的同频干扰。Zhao等[76](https://doi.org/10.1109/TWC.2025.3545745)结合数字孪生与多智能体学习，根据预测需求和队列状态配置多星波束及星内功率。其[公开预印本](https://arxiv.org/abs/2411.08896v1)采用12星、每星4波束、总计168小区的模型，限制同一小区的服务关联及功率预算。与单星配置相比，多星模型还需协调重叠覆盖中的重复服务、成员间干扰和排队差异。",
+      "updated": "多星重叠覆盖引入卫星—小区服务关联及干扰协调问题。Lin等[75](https://doi.org/10.1109/LCOMM.2022.3213912)的正式摘要将研究划分为关联选择和多星照射模式优化，涉及负载平衡、与GSO地面站共存的同频干扰及共信道条件下的波束照射设计。由于尚未取得该文可逐式核验的全文，本文不指定其成员间干扰的全部约束形式，也不声称已验证各模块的独立贡献。Zhao等[76](https://doi.org/10.1109/TWC.2025.3545745)的[公开作者稿](https://arxiv.org/abs/2411.08896v1)构造12星、每星4波束、168小区的模型，在数字孪生全局信息和星上局部观测下协调照射与功率。两者对应不同共存与协作情景，相关性能结论以各自模型和出版版本证据为边界。",
+      "reason": "[75] GSO共存和完整干扰公式边界；[76] 作者稿依据"
+    },
+    {
+      "id": "V17-08",
+      "baseline_line": 240,
+      "original": "Yin等[77](https://doi.org/10.1016/j.cja.2024.09.039)将端到端传播时延估计纳入切换评价，采用Dueling Double DQN处理单层切换，并在跨层切换中结合时延抖动预测与切换开销。该方法将接入决策的评价范围扩展至后续网络路径，其仿真结果反映路径评价、预测与学习机制共同作用下的整体策略性能。",
+      "updated": "Yin等[77](https://doi.org/10.1016/j.cja.2024.09.039)在正式开放摘要中将端到端传播时延估计引入单层切换目标，采用Dueling Double DQN形成候选切换策略，并在跨层决策中结合时延抖动预测与切换开销。现有公开结果属于给定网络和基线下的整体策略比较；由于状态、动作、奖励及独立模块消融仍缺少正式正文核查，不能将组合方案改进全部归因于某个学习或预测模块。",
+      "reason": "[77]不将整体比较表述成独立模块因果消融"
+    },
+    {
+      "id": "V17-09",
+      "baseline_line": 248,
+      "original": "Zhang和Yeung[79](https://doi.org/10.1016/j.comcom.2022.02.015)面向无星间链路、地面站辅助的低轨网络，采用分层路由协调路径时延与稳定性。Zhang等[80](https://doi.org/10.1016/j.dcan.2022.09.022)同样研究地面中继网络，通过分段路由实现流量工程和故障重路由。前者主要降低正常拓扑演化中的路径更新负担，后者进一步讨论流量工程与失效恢复。上述方法的适用对象是地面辅助网络，其链路结构与直接激光星间转发不同。",
+      "updated": "Zhang和Yeung[79](https://doi.org/10.1016/j.comcom.2022.02.015)针对缺少直接星间链路的地面站辅助低轨网络提出两层路由结构，机构与出版方摘要区分按流路由的时延有界DBR（较多表项）和按目的地的DAR（减少路径变化但不具备同样的时延界）。Zhang等[80](https://doi.org/10.1016/j.dcan.2022.09.022)研究相似的时变地面辅助拓扑：DBTS/DBTS+用于流量分流和流量工程，LFA/LFA+用于预备路径快速故障重路由，不属于直接优化星载物理链路容量。两篇未取得可逐式核对的正式全文，因此具体控制成本及数字性能不作超出摘要与机构公开记录的归纳。",
+      "reason": "[79]/[80]区分DBR/DAR和DBTS/LFA机制"
+    },
+    {
+      "id": "V17-10",
+      "baseline_line": 343,
+      "original": "状态反馈通过更新可选活动或调度策略影响后续决策。推理式敏捷观测方法[107](https://doi.org/10.3390/rs15061577)利用观测、传输和能源状态预测选择调度策略，属于多子系统状态影响计划选择的模型。Remote Agent[108](https://doi.org/10.1016/S0004-3702%2898%2900068-X)将规划、执行、模式识别及重配置组织为自主架构；EO-1[109](https://doi.org/10.1109/SMC-IT.2006.48)、IPEX[110](https://doi.org/10.2514/1.I010386)及JPL资料[111](https://ai.jpl.nasa.gov/public/projects/ipex/)提供星上处理和资源状态参与持续规划的单星经验。推理式模型建立状态与策略之间的映射，自主运行案例则连接处理、资源监测及持续规划功能，分别提供模型和运行层面的依据。",
+      "updated": "状态反馈通过改变任务条件和可用策略影响后续决策。推理式敏捷观测调度[107](https://doi.org/10.3390/rs15061577)针对**单颗**敏捷对地观测卫星，通过观测、传输和能源子系统状态预测及规则推理选择任务规划策略，并在数值仿真中与启发式及元启发式方法比较。可读正式摘要和局部公开正文仅支持这一单星状态—规则—规划机制，不能据此宣称已采用神经预测或完成真实遥测驱动的多星飞行闭环。Remote Agent[108](https://doi.org/10.1016/S0004-3702%2898%2900068-X)、EO-1[109](https://doi.org/10.1109/SMC-IT.2006.48)和IPEX[110](https://doi.org/10.2514/1.I010386)分别展示其他任务中的自主运行能力，论断须保留各自的工程环境。",
+      "reason": "[107]明确单星、状态预测规则和仿真"
+    },
+    {
+      "id": "V17-11",
+      "baseline_line": 345,
+      "original": "软件架构通过模块职责和信息接口组织状态反馈。自主与自适应参考架构[112](https://doi.org/10.1016/j.jss.2026.112802)以监测、分析、规划、执行和共享知识组织模块；Schedule Manager[103](https://doi.org/10.2514/1.I011208)实现任务准入与应急计划，NASA cFS演示包[113](https://github.com/nasa/cFS)提供组件连接入口。状态和计划在模块间的传递构成软件实现基础，资源冲突的处理能力则取决于具体任务的决策模型及执行条件。",
+      "updated": "软件架构通过功能职责和模块接口组织状态反馈。自主与自适应参考架构[112](https://doi.org/10.1016/j.jss.2026.112802)从MAPE-K的监测、分析、规划、执行及共享知识组织功能，并通过工业专家评议和NIMBUS实例化讨论架构可用性。现有正式摘要可支持参考架构及实例化，尚不足以证明已经得到星座级调度性能增益或在轨部署验证。Schedule Manager[103](https://doi.org/10.2514/1.I011208)涉及特定软件任务准入与预设应急安排，NASA cFS[113](https://github.com/nasa/cFS)提供飞行软件组件的集成入口，各有不同的实现与验证对象。",
+      "reason": "[112]架构与星座性能实证分开"
+    },
+    {
+      "id": "V17-12",
+      "baseline_line": 358,
+      "original": "| 状态驱动策略 | 推理式观测调度[107](https://doi.org/10.3390/rs15061577) | 观测、传输及能源状态预测 | 状态选择规划策略；单星模型 |",
+      "updated": "| 状态驱动策略 | 推理式观测调度[107](https://doi.org/10.3390/rs15061577) | 单星观测、传输与能源状态预测 | 单星规则式策略选择的模型与模拟；未核实际多星在轨执行 |",
+      "reason": "表7状态驱动策略与[107]一致"
+    },
+    {
+      "id": "V17-13",
+      "baseline_line": 360,
+      "original": "| 架构组织 | 自主与自适应参考架构[112](https://doi.org/10.1016/j.jss.2026.112802)、cFS[113](https://github.com/nasa/cFS) | 模块职责与信息交换 | 结构或软件实现基础；任务性能由具体实现决定 |",
+      "updated": "| 架构组织 | 自主与自适应参考架构[112](https://doi.org/10.1016/j.jss.2026.112802)、cFS[113](https://github.com/nasa/cFS) | MAPE-K功能与组件之间的接口 | 工业专家评价及NIMBUS实例化；未核在轨自主或星座调度性能 |",
+      "reason": "表7架构范围与[112]一致"
+    },
+    {
+      "id": "V17-14",
+      "baseline_line": 389,
+      "original": "通信资源耦合作用于持续业务流。单星波束—功率配置[74](https://doi.org/10.23919/JCC.ja.2022-0864)通过连续资源调整改变供需匹配，多星关联和共存模型[75](https://doi.org/10.1109/LCOMM.2022.3213912)纳入成员之间及外部系统的干扰约束，需求感知配置[76](https://doi.org/10.1109/TWC.2025.3545745)中的策略差异随总负载改变。路径时延参与接入选择[77](https://doi.org/10.1016/j.cja.2024.09.039)，容量竞争与故障进入地面中继路由[80](https://doi.org/10.1016/j.dcan.2022.09.022)，激光链路建立则增加路径更新代价[121](https://doi.org/10.1109/TAES.2024.3415571)。资源耦合的作用由这些具体瓶颈决定：照射区域、接入对象和瞬时最短路分别描述服务过程的一部分，功率、后续容量及动作生效时间共同限定实际可获得的服务。",
+      "updated": "通信资源耦合作用于持续业务流。单星波束—功率研究[74](https://doi.org/10.23919/JCC.ja.2022-0864)调整照射选择后的连续功率，多星关联及GSO共存模型[75](https://doi.org/10.1109/LCOMM.2022.3213912)以摘要支持服务关联与共信道照射安排，成员间干扰的精确约束仍待核。需求感知配置[76](https://doi.org/10.1109/TWC.2025.3545745)的作者稿显示策略差异随负载改变，但FPA与DPA不是仅改变功率模块的严格对照。路由代价感知切换[77](https://doi.org/10.1016/j.cja.2024.09.039)将后续传播路径纳入切换目标，地面辅助分段路由[80](https://doi.org/10.1016/j.dcan.2022.09.022)考虑给定链路上的流量工程及故障恢复，并未确认可决策的物理容量变量。动态激光星间链路[121](https://doi.org/10.1109/TAES.2024.3415571)还具有路径建立和更新的时间代价。总体上，这些方法将不同后续瓶颈纳入当前选择，但其联合优化范围、性能指标及结论条件并不相同。",
+      "reason": "4.2和3.3同步限制[75][76][77][80]命题"
+    },
+    {
+      "id": "V17-15",
+      "baseline_line": 370,
+      "original": "局部化与计划复用在降低计算负担的同时，涉及计划质量与协调范围的权衡。Parjan和Chien[34](https://doi.org/10.2514/1.I011215)在连续规划实验中发现，增量修改的计算速度优于重新生成计划，但产生了更多重复观测。Zilberstein等[35](https://doi.org/10.1613/jair.1.16997)利用几何邻域划分局部问题，在大规模算例中降低最慢代理的计算时间和消息量，任务满足率与比较方法仍存在差距。前者复用已有安排，后者限制协调范围，二者分别通过时间延续性和空间局部性组织计算。地面辅助的稳定路由[79](https://doi.org/10.1016/j.comcom.2022.02.015)同样减少路径更新负担，动态激光链路路由[121](https://doi.org/10.1109/TAES.2024.3415571)则表明路径保持的时延收益取决于建链代价。计划复用与路径保持均利用既有决策的连续性，其效果分别受重复任务、机会损失及动作成本影响。表8归纳主要技术机制及其取舍。",
+      "updated": "局部协调与已有计划复用改变了不同环节的搜索负担。Parjan和Chien[34](https://doi.org/10.2514/1.I011215)的增量持续规划在指定试验中减少计算，同时请求满足表现可改善而重复观测增加；Zilberstein等[35](https://doi.org/10.1613/jair.1.16997)的几何邻域方法在较小请求集上相对广播基线可同时改善满足质量和计算消息成本，较大请求集才呈现不同质量—开销折中。因此不能一概概括为“以质量换取速度”。地面辅助稳定路由[79](https://doi.org/10.1016/j.comcom.2022.02.015)从摘要层面支持减少路由更新的设计目标，但控制开销的量化收益仍需核查；动态激光链路路由[121](https://doi.org/10.1109/TAES.2024.3415571)的作者稿显示路径保持的收益依赖建链成本和策略。表8从问题机制而非跨模型速度排名总结相应取舍。",
+      "reason": "4.1用既有试修原文核查纠正一律以质量换速度"
+    },
+    {
+      "id": "V17-16",
+      "baseline_line": 268,
+      "original": "| 多星与GSO共存[75](https://doi.org/10.1109/LCOMM.2022.3213912) | 服务关联与照射模式 | 负载平衡及共存干扰约束 | 跨星分配同时受到关联和外部干扰限制 |",
+      "updated": "| 多星服务关联与GSO共存[75](https://doi.org/10.1109/LCOMM.2022.3213912) | 卫星—小区关联、照射模式、共存干扰 | 多星覆盖和GSO同频保护信息 | 关联与照射分阶段，细则待正文核查 | 正式摘要；实验参数和完整约束尚未验收 |",
+      "reason": "同步表5[75]的正式摘要限度"
+    }
+  ],
+  "figure": "figures/operations_cross_matrix_v1.7.svg",
+  "author_final_verification": "pending",
+  "human_verified": false
+}
