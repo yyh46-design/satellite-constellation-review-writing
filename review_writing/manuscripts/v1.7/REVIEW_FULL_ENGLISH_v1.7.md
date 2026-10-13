@@ -304,7 +304,7 @@ Plan-management software introduces another layer. Gillette and George's Schedul
 
 ## 3.5. Coupled Management Problems and Integrated Operations
 
-The preceding sections concern decisions that may be linked without being solved in one monolithic optimizer. A servicing resource is available only at particular locations and epochs; observation choice can depend on data-delivery paths; network decisions can change after a maneuver or loss of a payload. This section considers three ways in which those dependencies are represented: common selection, staged transfer between models, and operational feedback.
+The preceding sections concern decisions that may be linked without being solved in one monolithic optimizer. Reviews of automation tools [6](https://doi.org/10.1016/j.asr.2020.08.018) and trusted autonomous operations [105](https://doi.org/10.1016/j.paerosci.2023.100960) also examine different organizational and assurance responsibilities; their coverage complements, rather than proves, any specific integrated system. A servicing resource is available only at particular locations and epochs; observation choice can depend on data-delivery paths; network decisions can change after a maneuver or loss of a payload. This section considers three ways in which those dependencies are represented: common selection, staged transfer between models, and operational feedback.
 
 ### Task Allocation and Data-Delivery Paths
 
@@ -472,7 +472,7 @@ Algorithm simulation, software demonstrations, published business interfaces, in
 
 21. Seungyeop Han; Shoji Yoshikawa; Takumi Noro, et al. Spare strategy for large-scale satellite constellations under dual resupply channels using Markov chain. *Acta Astronautica, 2026, 248: 614-629*(assigned to the November 2026 issue; online date pending source confirmation). DOI: [10.1016/j.actaastro.2026.06.020](https://doi.org/10.1016/j.actaastro.2026.06.020).
 
-22. Iridium. Iridium Adds to Constellation Resilience with Launch of Spare Satellites. [official source](https://investor.iridium.com/2023-05-20-Iridium-Adds-to-Constellation-Resilience-with-Launch-of-Spare-Satellites). Accessed 10 October 2026。
+22. Iridium. Iridium Adds to Constellation Resilience with Launch of Spare Satellites. [official source](https://investor.iridium.com/2023-05-20-Iridium-Adds-to-Constellation-Resilience-with-Launch-of-Spare-Satellites). Accessed 10 October 2026.
 
 23. Jaewoo Kim; Taehyun Sung; Woonam Hwang, et al. On-Orbit Servicing-Integrated Maintenance Strategy for a Satellite Constellation. *Journal of Spacecraft and Rockets, 2026: 1-18*. DOI: [10.2514/1.A36684](https://doi.org/10.2514/1.A36684).
 
@@ -604,7 +604,7 @@ Algorithm simulation, software demonstrations, published business interfaces, in
 
 87. Thomas Uriot; Dario Izzo; Luís F. Simões, et al. Spacecraft collision avoidance challenge: Design and results of a machine learning competition. *Astrodynamics, 2021, 6(2): 121-140*. DOI: [10.1007/s42064-021-0101-5](https://doi.org/10.1007/s42064-021-0101-5).
 
-88. Consultative Committee for Space Data Systems (CCSDS). Conjunction Data Message. CCSDS 508.0-B-1，2013年6月，含2021年10月技术勘误2。[official source](https://ccsds.org/publications/bluebooks/entry/3064/). Accessed 10 October 2026。
+88. Consultative Committee for Space Data Systems (CCSDS). Conjunction Data Message. CCSDS 508.0-B-1, June 2013, including Technical Corrigendum 2 (October 2021). [Official source](https://ccsds.org/publications/bluebooks/entry/3064/). Accessed 10 October 2026。
 
 89. SpaceX. Starlink Collision Avoidance CONOPS. [official source](https://space-safety.starlink.com/docs/space-safety-articles/starlink_cola_conops/). Accessed 10 October 2026。
 
