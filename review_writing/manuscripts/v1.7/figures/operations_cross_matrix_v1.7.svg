@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1340" height="740" viewBox="0 0 1340 740">
+<rect width="1340" height="740" fill="#ffffff"/>
+<text x="670" y="48" text-anchor="middle" fill="#213852" font-size="27" font-family="Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-weight="700">大型卫星星座：业务场景与管理决策的交叉分类</text>
+<text x="670" y="83" text-anchor="middle" fill="#65768c" font-size="16" font-family="Noto Sans CJK SC, Microsoft YaHei, sans-serif">应用目标不同，能力配置、运行调度、安全恢复与反馈属于共同管理问题</text>
+<rect x="220" y="110" width="490" height="56" rx="9" fill="#143e66"/><text x="465" y="145" text-anchor="middle" fill="white" font-size="21" font-family="Noto Sans CJK SC, Microsoft YaHei, sans-serif">对地观测与任务型星座</text>
+<rect x="730" y="110" width="490" height="56" rx="9" fill="#146f78"/><text x="975" y="145" text-anchor="middle" fill="white" font-size="21" font-family="Noto Sans CJK SC, Microsoft YaHei, sans-serif">通信与持续网络服务型星座</text>
+<g font-family="Noto Sans CJK SC, Microsoft YaHei, sans-serif">
+<rect x="26" y="186" width="175" height="104" rx="9" fill="#eef1f5"/><text x="113" y="225" text-anchor="middle" font-size="19" font-weight="700" fill="#34465e">长期配置</text><text x="113" y="253" text-anchor="middle" font-size="17" fill="#34465e">与维护</text>
+<rect x="220" y="186" width="490" height="104" rx="9" fill="#eef5fc" stroke="#b6d0e9"/><text x="465" y="222" text-anchor="middle" font-size="18" fill="#143e66">覆盖构型、备星与补网</text><text x="465" y="255" text-anchor="middle" font-size="17" fill="#4f637a">形成可见机会与未来任务能力</text>
+<rect x="730" y="186" width="490" height="104" rx="9" fill="#eaf7f6" stroke="#a7d9d4"/><text x="975" y="222" text-anchor="middle" font-size="18" fill="#146f78">卫星/波束容量、网关与冗余</text><text x="975" y="255" text-anchor="middle" font-size="17" fill="#4f637a">形成地域、时段和负载承载能力</text>
+<rect x="26" y="308" width="175" height="112" rx="9" fill="#eef1f5"/><text x="113" y="347" text-anchor="middle" font-size="19" font-weight="700" fill="#34465e">业务调度</text><text x="113" y="377" text-anchor="middle" font-size="17" fill="#34465e">与资源分配</text>
+<rect x="220" y="308" width="490" height="112" rx="9" fill="#eef5fc" stroke="#b6d0e9"/><text x="465" y="345" text-anchor="middle" font-size="18" fill="#143e66">请求选择、成像、处理与下传</text><text x="465" y="380" text-anchor="middle" font-size="17" fill="#4f637a">请求满足、产品质量及按时交付</text>
+<rect x="730" y="308" width="490" height="112" rx="9" fill="#eaf7f6" stroke="#a7d9d4"/><text x="975" y="345" text-anchor="middle" font-size="18" fill="#146f78">用户接入、波束/功率、切换及路由</text><text x="975" y="380" text-anchor="middle" font-size="17" fill="#4f637a">吞吐、时延、连续性与公平性</text>
+<rect x="26" y="438" width="175" height="106" rx="9" fill="#eef1f5"/><text x="113" y="479" text-anchor="middle" font-size="19" font-weight="700" fill="#34465e">安全执行</text><text x="113" y="508" text-anchor="middle" font-size="17" fill="#34465e">与恢复</text>
+<rect x="220" y="438" width="1000" height="106" rx="9" fill="#f7f3eb" stroke="#dfc99f"/><text x="720" y="474" text-anchor="middle" font-size="18" fill="#765329">接近筛查 · 规避与控制 · 故障诊断 · 备份/服务恢复</text><text x="720" y="510" text-anchor="middle" font-size="17" fill="#7b6a54">轨道机动和部分能力降级改变两类业务的实际可用资源与后续计划</text>
+<rect x="26" y="562" width="175" height="102" rx="9" fill="#eef1f5"/><text x="113" y="602" text-anchor="middle" font-size="19" font-weight="700" fill="#34465e">综合运行</text><text x="113" y="632" text-anchor="middle" font-size="17" fill="#34465e">与反馈</text>
+<rect x="220" y="562" width="1000" height="102" rx="9" fill="#f3eff9" stroke="#d0bde9"/><text x="720" y="599" text-anchor="middle" font-size="18" fill="#574477">状态共享 · 计划更新 · 模块协同 · 操作责任与确认</text><text x="720" y="632" text-anchor="middle" font-size="17" fill="#6b5d7d">按实际反馈事件修改业务任务、网络资源和运行管理决策</text>
+</g><text x="670" y="709" text-anchor="middle" fill="#687a8b" font-size="15" font-family="Noto Sans CJK SC, Microsoft YaHei, sans-serif">作者依据代表文献构造的分析示意；不代表任何企业已经部署统一软硬件架构。</text>
+</svg>
