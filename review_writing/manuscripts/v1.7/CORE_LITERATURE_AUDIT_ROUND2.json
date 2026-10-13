@@ -1,0 +1,663 @@
+{
+  "audit_id": "CORE_LITERATURE_AUDIT_ROUND2",
+  "review_date": "2026-10-13",
+  "baseline_commit": "de1291575bf4e28d7c404e3c7b78c49f64079deb",
+  "baseline_path": "review_writing/manuscripts/v1.6/REVIEW_MAIN_DRAFT_v1.6.md",
+  "revised_path": "review_writing/manuscripts/v1.7/REVIEW_MAIN_DRAFT_v1.7.md",
+  "audit_type": "targeted review of six full-text deficits, four author-to-publisher comparisons and one formal PDF follow-up; not exhaustive verification of 121 sources",
+  "counts": {
+    "primary_missing_full_text": 6,
+    "primary_new_formal_readable_body": 1,
+    "primary_still_without_readable_body": 5,
+    "author_versions_for_comparison": 4,
+    "final_author_publisher_body_comparisons_closed": 0,
+    "pdf_visual_check_unresolved": 1,
+    "records": 11
+  },
+  "records": [
+    {
+      "id": 75,
+      "title": "NGSO Satellites Beam Hopping Strategy Based on Load Balancing and Interference Avoidance for Coexistence With GSO Systems",
+      "doi": "10.1109/LCOMM.2022.3213912",
+      "content_basis": "no_full_text",
+      "read_version": "IEEE正式书目及公开摘要（非全文）",
+      "read_url": "https://ieeexplore.ieee.org/document/9916289",
+      "access": "出版社摘要可查；未获得可核读论文正文/PDF",
+      "baseline_positions": "3.3原230、234；表5原268；4.2原389",
+      "claims": [
+        {
+          "claim_id": "R2-075-01",
+          "proposition": "关联与照射是先后两个子问题",
+          "locator": "IEEE Xplore DOI摘要",
+          "status": "supported_abstract_only",
+          "scope": "卫星—小区关联和波束跳变模式，具体变量与求解流程待全文"
+        },
+        {
+          "claim_id": "R2-075-02",
+          "proposition": "平衡多星负载，约束与GSO系统的同频干扰",
+          "locator": "IEEE Xplore DOI摘要",
+          "status": "supported_abstract_only",
+          "scope": "GSO共存背景；不能据此推导所有成员间干扰的具体变量"
+        },
+        {
+          "claim_id": "R2-075-03",
+          "proposition": "成员间干扰项、基线、规模及收益条件",
+          "locator": "正文未获得",
+          "status": "not_verified",
+          "scope": "未使用推定干扰方程或跨论文性能量化"
+        }
+      ],
+      "action": "第3.3节及表5限定到可核摘要命题；第4.2节删除特定成员间干扰已被全文确认的暗示",
+      "manuscript_locations_v17": [
+        {
+          "line": 246,
+          "section": "业务需求预测与波束、功率及频谱分配",
+          "excerpt": "多星重叠覆盖需要同时处理服务关联、负载差异及干扰边界。Lin等[75](https://doi.org/10.1109/LCOMM.2022.3213912)公开摘要描述了将卫星—小区服务关联与照射图样分阶段处理、在卫星之间平衡负载并限制对GSO系统"
+        },
+        {
+          "line": 250,
+          "section": "业务需求预测与波束、功率及频谱分配",
+          "excerpt": "三项波束配置研究的核心差异是可修改的变量范围。[74](https://doi.org/10.23919/JCC.ja.2022-0864)将离散照射与连续功率分阶段求解，[75](https://doi.org/10.1109/LCOMM.2022"
+        },
+        {
+          "line": 284,
+          "section": "跨域资源分配与控制职责",
+          "excerpt": "| 多星与GSO共存[75](https://doi.org/10.1109/LCOMM.2022.3213912) | 关联与照射图样 | 摘要披露负载均衡和GSO共存同频干扰 | 分阶段决策；未从摘要推定星座成员间干扰模型 |"
+        },
+        {
+          "line": 424,
+          "section": "4.2 从局部活动到最终服务的资源耦合",
+          "excerpt": "通信资源耦合的强弱取决于模型中真正联动的变量。[74](https://doi.org/10.23919/JCC.ja.2022-0864)在单星选束后优化功率，[75](https://doi.org/10.1109/LCOMM.2022.3213"
+        }
+      ],
+      "human_verified": false,
+      "author_final_verification": "pending"
+    },
+    {
+      "id": 77,
+      "title": "Routing cost-integrated intelligent handover strategy for multi-layer LEO mega-constellation networks",
+      "doi": "10.1016/j.cja.2024.09.039",
+      "content_basis": "no_full_text",
+      "read_version": "CJA/SciOpen正式书目与公开摘要（非全文）",
+      "read_url": "https://www.sciopen.com/article/10.1016/j.cja.2024.09.039",
+      "access": "出版社及平台可见摘要；未取得可逐节核读的正式PDF或正文",
+      "baseline_positions": "3.3原240、表5原270、4.2原389、4.5原431",
+      "claims": [
+        {
+          "claim_id": "R2-077-01",
+          "proposition": "端到端传播时延估计、单层Dueling Double DQN及跨层抖动预测组合",
+          "locator": "出版社公开摘要",
+          "status": "supported_abstract_only",
+          "scope": "只能支持组合机制描述"
+        },
+        {
+          "claim_id": "R2-077-02",
+          "proposition": "各模块的状态动作奖励、实验尺度、独立消融及因果收益",
+          "locator": "正文未获得",
+          "status": "not_verified",
+          "scope": "不将整体策略结果作为单模块因果效果"
+        }
+      ],
+      "action": "第3.3节强调整体策略；表5标注摘要级；未凭空写入独立消融",
+      "manuscript_locations_v17": [
+        {
+          "line": 256,
+          "section": "星地接入、卫星切换与业务连续性",
+          "excerpt": "Yin等[77](https://doi.org/10.1016/j.cja.2024.09.039)在公开摘要中报告利用端到端传播时延估计辅助切换评价，单层网络采用Dueling Double DQN，跨层切换另外考虑时延抖动预测与切换开销。现有可"
+        },
+        {
+          "line": 286,
+          "section": "跨域资源分配与控制职责",
+          "excerpt": "| 路由代价感知切换[77](https://doi.org/10.1016/j.cja.2024.09.039) | 接入对象、跨层切换 | 传播时延估计、学习策略与抖动预测（摘要级） | 所报告表现属于组合策略，模块独立作用尚未核定 |"
+        },
+        {
+          "line": 424,
+          "section": "4.2 从局部活动到最终服务的资源耦合",
+          "excerpt": "通信资源耦合的强弱取决于模型中真正联动的变量。[74](https://doi.org/10.23919/JCC.ja.2022-0864)在单星选束后优化功率，[75](https://doi.org/10.1109/LCOMM.2022.3213"
+        },
+        {
+          "line": 466,
+          "section": "4.5 研究挑战与发展方向",
+          "excerpt": "**端到端服务目标下的适度联合。** 接触图调度[106](https://doi.org/10.1016/j.adhoc.2023.103289)共同选择采集与交付路径，观测—处理安排[53](https://doi.org/10.1002/sat"
+        }
+      ],
+      "human_verified": false,
+      "author_final_verification": "pending"
+    },
+    {
+      "id": 79,
+      "title": "Scalable routing in low-Earth orbit satellite constellations: Architecture and algorithms",
+      "doi": "10.1016/j.comcom.2022.02.015",
+      "content_basis": "no_full_text",
+      "read_version": "ScienceDirect可索引正文片段和出版摘要；未获得连续可核正文",
+      "read_url": "https://www.sciencedirect.com/science/article/pii/S0140366422000659",
+      "access": "出版商摘要/索引文字可见但正文页面受限；机构记录无文件",
+      "baseline_positions": "3.3原248、表5原272、4.1原370",
+      "claims": [
+        {
+          "claim_id": "R2-079-01",
+          "proposition": "无直接星间链路的地面辅助与分层路由设计",
+          "locator": "ScienceDirect出版摘要与章节索引",
+          "status": "supported_abstract_only",
+          "scope": "DBR/DAR具体更新条件、复杂度尚不能视为已完整核验"
+        },
+        {
+          "claim_id": "R2-079-02",
+          "proposition": "降低路径更新负担和业务时延的具体收益区间",
+          "locator": "论文正文及实验表未完整取得",
+          "status": "not_verified",
+          "scope": "区分设计目标与实验验证"
+        }
+      ],
+      "action": "正文改写为路由目标与取舍；表5拆为独立[79]行，保留待核控制与结果条件",
+      "manuscript_locations_v17": [
+        {
+          "line": 264,
+          "section": "动态拓扑、星间路由与拥塞恢复",
+          "excerpt": "Zhang和Yeung[79](https://doi.org/10.1016/j.comcom.2022.02.015)面向无直接星间链路的地面站辅助网络提出分层路由，以更新频率和路径时延之间的取舍为设计重点。Zhang等[80](https://"
+        },
+        {
+          "line": 288,
+          "section": "跨域资源分配与控制职责",
+          "excerpt": "| 分层路由[79](https://doi.org/10.1016/j.comcom.2022.02.015) | 路径与更新组织 | 地面站辅助、无直接星间链路；DBR/DAR细节待全文核 | 延迟与更新稳定性权衡，不将设计目标当作实测收益 |"
+        },
+        {
+          "line": 405,
+          "section": "4.1 求解机制与可扩展性",
+          "excerpt": "局部化与计划复用在降低计算负担的同时，涉及计划质量与协调范围的权衡。Parjan和Chien[34](https://doi.org/10.2514/1.I011215)在连续规划实验中发现，增量修改的计算速度优于重新生成计划，但产生了更多重复观测。"
+        }
+      ],
+      "human_verified": false,
+      "author_final_verification": "pending"
+    },
+    {
+      "id": 80,
+      "title": "Segment routing for traffic engineering and effective recovery in low-earth orbit satellite constellations",
+      "doi": "10.1016/j.dcan.2022.09.022",
+      "content_basis": "no_full_text",
+      "read_version": "Digital Communications and Networks正式摘要，全文页面访问受限",
+      "read_url": "https://www.sciencedirect.com/science/article/pii/S2352864822001973",
+      "access": "出版社索引/公开摘要可查，正文不能逐节核读",
+      "baseline_positions": "3.3原248、表5原272、4.2原389",
+      "claims": [
+        {
+          "claim_id": "R2-080-01",
+          "proposition": "在地面中继网络中采用分段路由进行流量工程和快速故障恢复",
+          "locator": "出版方摘要",
+          "status": "supported_abstract_only",
+          "scope": "DBTS/LFA等版本、失效类别与恢复时限仍未定位原文"
+        },
+        {
+          "claim_id": "R2-080-02",
+          "proposition": "物理链路容量本身是优化变量",
+          "locator": "缺少模型正文",
+          "status": "not_verified",
+          "scope": "保留流量工程，不写成容量分配"
+        },
+        {
+          "claim_id": "R2-080-03",
+          "proposition": "容量竞争、负载、指标分母和恢复性能条件",
+          "locator": "实验正文未获得",
+          "status": "not_verified",
+          "scope": "不引入跨工况收益数字"
+        }
+      ],
+      "action": "独立表5行；第4.2节收窄成地面中继中的流量工程与故障恢复",
+      "manuscript_locations_v17": [
+        {
+          "line": 264,
+          "section": "动态拓扑、星间路由与拥塞恢复",
+          "excerpt": "Zhang和Yeung[79](https://doi.org/10.1016/j.comcom.2022.02.015)面向无直接星间链路的地面站辅助网络提出分层路由，以更新频率和路径时延之间的取舍为设计重点。Zhang等[80](https://"
+        },
+        {
+          "line": 289,
+          "section": "跨域资源分配与控制职责",
+          "excerpt": "| 分段路由[80](https://doi.org/10.1016/j.dcan.2022.09.022) | 流量工程和失效重路由 | 地面中继；分流与快速恢复（摘要级） | 容量作为决策变量与否未核，不归类为容量优化 |"
+        },
+        {
+          "line": 424,
+          "section": "4.2 从局部活动到最终服务的资源耦合",
+          "excerpt": "通信资源耦合的强弱取决于模型中真正联动的变量。[74](https://doi.org/10.23919/JCC.ja.2022-0864)在单星选束后优化功率，[75](https://doi.org/10.1109/LCOMM.2022.3213"
+        }
+      ],
+      "human_verified": false,
+      "author_final_verification": "pending"
+    },
+    {
+      "id": 107,
+      "title": "Reasoning-Based Scheduling Method for Agile Earth Observation Satellite with Multi-Subsystem Coupling",
+      "doi": "10.3390/rs15061577",
+      "content_basis": "formal_full_text",
+      "read_version": "MDPI提供的Remote Sensing 2023正式文章可读出版文本，28页；PDF像素尚未完成独立检查",
+      "read_url": "https://www.researchgate.net/publication/369246818_Reasoning-Based_Scheduling_Method_for_Agile_Earth_Observation_Satellite_with_Multi-Subsystem_Coupling",
+      "formal_identity_url": "https://www.mdpi.com/2072-4292/15/6/1577",
+      "access": "ResearchGate页面明示Publisher Full-text / Access provided by MDPI且载有正文；MDPI站直接打开曾出现429；仅依据可读出版文本核查模型/实验，不报告PDF像素核验",
+      "baseline_positions": "3.5原343，表7原358",
+      "claims": [
+        {
+          "claim_id": "R2-107-01",
+          "proposition": "研究对象为单颗敏捷观测卫星，完成目标成像和数据传输任务",
+          "locator": "正式文本 §2 Problem Description，排版p.3/28及前后页",
+          "status": "supported",
+          "scope": "个体AEOS模型而不是大型星座仿真"
+        },
+        {
+          "claim_id": "R2-107-02",
+          "proposition": "预测观测机会、存储与电量受限状态，然后根据规则选择策略",
+          "locator": "§3.2 State Prediction（约pp.10–13），§3.3 Reasoning Rules（约pp.14–18）",
+          "status": "supported",
+          "scope": "基于已定义模型与启发式预测，非深度神经网络或星上遥测学习"
+        },
+        {
+          "claim_id": "R2-107-03",
+          "proposition": "观测、数据传输和电量优先三种调度策略与推理规则",
+          "locator": "§3及结论§6",
+          "status": "supported",
+          "scope": "观测优先是已有策略基础，新增数据传输与电量优先"
+        },
+        {
+          "claim_id": "R2-107-04",
+          "proposition": "对照三个启发式及一个元启发式的多资源工况仿真",
+          "locator": "§4 Experiment and Results及其Table 3；§5 Discussion",
+          "status": "supported",
+          "scope": "单星数值工况，不是飞行闭环；不重算其具体最优值"
+        }
+      ],
+      "action": "3.5与表7精准写明单星状态计算—规则推理—策略选择与仿真验证；原有‘单星模型’从待核变为已核",
+      "manuscript_locations_v17": [
+        {
+          "line": 360,
+          "section": "状态反馈、计划修改与协同执行",
+          "excerpt": "状态反馈使可选活动和调度策略随资源状态更新。He等[107](https://doi.org/10.3390/rs15061577)针对单颗敏捷观测卫星，先依据观测机会、存储占用及电量模型预测子系统受限状态，再以规则推理选择观测优先、数据传输优先或电"
+        },
+        {
+          "line": 375,
+          "section": "状态反馈、计划修改与协同执行",
+          "excerpt": "| 状态驱动策略 | 推理式观测调度[107](https://doi.org/10.3390/rs15061577) | 观测机会、存储与电量状态的模型预测 | 规则选择观测/传输/电量优先策略；单星多工况仿真 |"
+        }
+      ],
+      "human_verified": false,
+      "author_final_verification": "pending"
+    },
+    {
+      "id": 112,
+      "title": "Reference architecture for autonomy and adaptivity in satellites",
+      "doi": "10.1016/j.jss.2026.112802",
+      "content_basis": "no_full_text",
+      "read_version": "JSS/ScienceDirect已出版摘要和章节索引；SSRN稿身份检索到但无法核读完整文本",
+      "read_url": "https://www.sciencedirect.com/science/article/pii/S0164121226000361",
+      "alternate_version_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5247404",
+      "access": "出版社摘要可读，全文限制；SSRN文件读取失败",
+      "baseline_positions": "3.5原345、表7原360",
+      "claims": [
+        {
+          "claim_id": "R2-112-01",
+          "proposition": "MAPE-K监测、分析、规划、执行、共享知识职责划分",
+          "locator": "JSS 2026出版方摘要和索引",
+          "status": "supported_abstract_only",
+          "scope": "架构抽象；未验证具体接口协议、周期或权限"
+        },
+        {
+          "claim_id": "R2-112-02",
+          "proposition": "专家评议、NIMBUS实例化及在轨/性能验证范围",
+          "locator": "出版方摘要可见但方法章节全文未读",
+          "status": "needs_body_verification",
+          "scope": "不能写成星载在役或多星大规模调度验证"
+        }
+      ],
+      "action": "3.5只以架构组织讨论；表7标注摘要级，否定从架构示意推导星座运行性能",
+      "manuscript_locations_v17": [
+        {
+          "line": 362,
+          "section": "状态反馈、计划修改与协同执行",
+          "excerpt": "软件架构规定状态、计划与执行请求如何在模块间传递。自主与自适应参考架构[112](https://doi.org/10.1016/j.jss.2026.112802)的出版摘要采用监测、分析、规划、执行与共享知识（MAPE-K）的职责分解，并提到专家"
+        },
+        {
+          "line": 377,
+          "section": "状态反馈、计划修改与协同执行",
+          "excerpt": "| 架构组织 | 自主与自适应参考架构[112](https://doi.org/10.1016/j.jss.2026.112802)、cFS[113](https://github.com/nasa/cFS) | 监测、分析、规划、执行及软件接口 "
+        }
+      ],
+      "human_verified": false,
+      "author_final_verification": "pending"
+    },
+    {
+      "id": 53,
+      "title": "Joint Task Acquisition and Inference Scheduling for Edge Satellites",
+      "doi": "10.1002/sat.70082",
+      "content_basis": "author_version_only",
+      "read_version": "arXiv:2604.05937v1，作者预印本25页；正式Wiley版本目前仅能看到摘要/元数据",
+      "read_url": "https://arxiv.org/pdf/2604.05937v1",
+      "formal_identity_url": "https://onlinelibrary.wiley.com/doi/10.1002/sat.70082",
+      "access": "Wiley正式全文访问未成功；出版摘要可比对总体问题框架，但非模型段落一致性证明",
+      "baseline_positions": "3.2原175、表4原209、3.5原331、表7原356、4.2原387、4.5原431",
+      "claims": [
+        {
+          "claim_id": "R2-053-01",
+          "proposition": "分阶段采集计划作为星地处理负载与频率优化输入",
+          "locator": "作者稿PDF pp.10–15 §§3.3–4.2; 采集式(18)，处理式(22)",
+          "status": "supported_author_version",
+          "scope": "出版社摘要与任务范围大体相符，正式正文变量/公式未对照"
+        },
+        {
+          "claim_id": "R2-053-02",
+          "proposition": "星上与地面处理资源、能耗和稳定ISL/固定流水线条件",
+          "locator": "作者稿 §§3.3–4.2，§5.2 pp.18–22",
+          "status": "supported_author_version",
+          "scope": "正式版完整模型、公式和图表编号尚未知；不扩大到自由路由"
+        },
+        {
+          "claim_id": "R2-053-03",
+          "proposition": "正式版与arXiv全文关键假设和结果一致",
+          "locator": "Wiley正式全文不可读",
+          "status": "not_verified",
+          "scope": "作者稿限定必须保留"
+        }
+      ],
+      "action": "维持v1.6已正确的‘观测—处理分阶段安排’，继续显式作者稿版本；未将摘要一致当作正式全文一致",
+      "manuscript_locations_v17": [
+        {
+          "line": 191,
+          "section": "观测、处理、下传与交付的联合安排",
+          "excerpt": "星上处理进一步将信息生成所需的计算资源纳入调度。Soret等[53](https://doi.org/10.1002/sat.70082)的[公开预印本](https://arxiv.org/abs/2604.05937v1)先在时间、姿态与能源约束"
+        },
+        {
+          "line": 225,
+          "section": "在轨服务的访问、转移与补给安排",
+          "excerpt": "| 观测—处理分阶段安排[53](https://doi.org/10.1002/sat.70082) | 质量、计算、能量 | 星上/地面处理资源 | 采集选择；星地处理负载与频率优化 | 船舶检测与计算平台测试 | 完成事件延伸到信息生成 |"
+        },
+        {
+          "line": 348,
+          "section": "任务分配与数据交付路径",
+          "excerpt": "观测—处理研究[53](https://doi.org/10.1002/sat.70082)先形成采集安排，再以已采集负载和可用下传时刻为输入，优化星地处理负载分配与频率，并计入通信能耗和容量约束，形成上游计划向下游资源决策的顺序输入。卸载与协同推理"
+        },
+        {
+          "line": 373,
+          "section": "状态反馈、计划修改与协同执行",
+          "excerpt": "| 顺序传递与下游联合 | 观测—处理安排[53](https://doi.org/10.1002/sat.70082) | 已采集负载、处理资源及下传时刻 | 公开作者稿由采集计划提供下游输入，再优化星地处理负载与频率 |"
+        },
+        {
+          "line": 422,
+          "section": "4.2 从局部活动到最终服务的资源耦合",
+          "excerpt": "后续资源的建模方式决定其对任务选择和执行安排的作用。观测—传输模型[42](https://doi.org/10.1109/TMC.2021.3076088)使下传窗口参与成像决策，能源约束调度[43](https://doi.org/10.1016"
+        },
+        {
+          "line": 466,
+          "section": "4.5 研究挑战与发展方向",
+          "excerpt": "**端到端服务目标下的适度联合。** 接触图调度[106](https://doi.org/10.1016/j.adhoc.2023.103289)共同选择采集与交付路径，观测—处理安排[53](https://doi.org/10.1002/sat"
+        }
+      ],
+      "human_verified": false,
+      "author_final_verification": "pending"
+    },
+    {
+      "id": 74,
+      "title": "Joint Beam Scheduling and Power Optimization for Beam Hopping LEO Satellite Systems",
+      "doi": "10.23919/JCC.ja.2022-0864",
+      "content_basis": "author_version_only",
+      "read_version": "arXiv:2312.01292v1，14页；IEEE Xplore正式摘要与出版元数据",
+      "read_url": "https://arxiv.org/abs/2312.01292v1",
+      "formal_identity_url": "https://ieeexplore.ieee.org/document/10495871/",
+      "access": "正式PDF正文未核；IEEE标注China Communications 21(10) pp.1–14，另有二手出版综述引用226–239，正式纸刊定位未取得",
+      "baseline_positions": "3.3原228、234；表5原267；4.1原368；4.2原389；书目原597",
+      "claims": [
+        {
+          "claim_id": "R2-074-01",
+          "proposition": "先潜在博弈选束再连续功率优化；单星8波束61位置",
+          "locator": "arXiv作者稿 §II-B, §III Algorithms 1–2, Table 2",
+          "status": "supported_author_version",
+          "scope": "IEEE摘要同样描述两个子问题，但不能断言模型公式全文一致"
+        },
+        {
+          "claim_id": "R2-074-02",
+          "proposition": "相同贪心规则G-BH与G-BHPO对比可单独证明全时段照射序列不变",
+          "locator": "作者稿 §IV Table 2 and Figure 4",
+          "status": "needs_revision",
+          "scope": "队列随功率变化，整段照射序列可能不同；新稿改为‘规则相同’"
+        },
+        {
+          "claim_id": "R2-074-03",
+          "proposition": "正式印刷页码应为226–239而非1–14",
+          "locator": "IEEE Xplore正式记录显示1–14；相邻综述作226–239",
+          "status": "not_verified",
+          "scope": "维持1–14为当前出版方元数据，并记录可能存在纸刊页码差异"
+        }
+      ],
+      "action": "3.3完善相同规则不等于完全相同轨迹的说明；参考文献暂保留IEEE正式在线元数据1–14",
+      "manuscript_locations_v17": [
+        {
+          "line": 244,
+          "section": "业务需求预测与波束、功率及频谱分配",
+          "excerpt": "波束—功率研究[74](https://doi.org/10.23919/JCC.ja.2022-0864)在平均功率假设下用潜在博弈先确定照射位置，随后固定当前照射选择，通过罚函数内点法求连续功率。其[公开作者稿](https://arxiv.or"
+        },
+        {
+          "line": 250,
+          "section": "业务需求预测与波束、功率及频谱分配",
+          "excerpt": "三项波束配置研究的核心差异是可修改的变量范围。[74](https://doi.org/10.23919/JCC.ja.2022-0864)将离散照射与连续功率分阶段求解，[75](https://doi.org/10.1109/LCOMM.2022"
+        },
+        {
+          "line": 283,
+          "section": "跨域资源分配与控制职责",
+          "excerpt": "| 波束—功率分配[74](https://doi.org/10.23919/JCC.ja.2022-0864) | 离散照射与连续功率 | 预印本采用单星、8波束、61位置 | 在相同贪心选束规则下，功率配置影响供需匹配 |"
+        },
+        {
+          "line": 403,
+          "section": "4.1 求解机制与可扩展性",
+          "excerpt": "大型星座调度的计算负担主要涉及任务与卫星的候选分配、活动之间的资源冲突，以及成员之间的状态共享和计划协调。第3节所述方法针对不同耦合关系组织决策，其扩展性因而具有不同来源。分支定价[33](https://doi.org/10.1016/j.cor."
+        },
+        {
+          "line": 424,
+          "section": "4.2 从局部活动到最终服务的资源耦合",
+          "excerpt": "通信资源耦合的强弱取决于模型中真正联动的变量。[74](https://doi.org/10.23919/JCC.ja.2022-0864)在单星选束后优化功率，[75](https://doi.org/10.1109/LCOMM.2022.3213"
+        }
+      ],
+      "human_verified": false,
+      "author_final_verification": "pending"
+    },
+    {
+      "id": 76,
+      "title": "Demand-Aware Beam Hopping and Power Allocation for Load Balancing in Digital Twin Empowered LEO Satellite Networks",
+      "doi": "10.1109/TWC.2025.3545745",
+      "content_basis": "author_version_only",
+      "read_version": "arXiv:2411.08896v1（13页）和正式IEEE书目/摘要",
+      "read_url": "https://arxiv.org/abs/2411.08896v1",
+      "formal_identity_url": "https://doi.org/10.1109/TWC.2025.3545745",
+      "access": "正式IEEE全文尚未获取；仅能对照文章身份与摘要范围",
+      "baseline_positions": "3.3原230、232、234；表5原269；4.2原389；4.5原431",
+      "claims": [
+        {
+          "claim_id": "R2-076-01",
+          "proposition": "12星每星4波束、168小区、队列及多星选束和星内功率",
+          "locator": "arXiv作者稿 §§III–IV, Table II",
+          "status": "supported_author_version",
+          "scope": "正式版模型参数与作者稿对照仍待核"
+        },
+        {
+          "claim_id": "R2-076-02",
+          "proposition": "FPA与DPA在8–20 Gbit/s接近、高负载差异扩大",
+          "locator": "arXiv作者稿 §V-A baselines; §V-C(3) Fig.8",
+          "status": "supported_author_version",
+          "scope": "整体决策方案对比，非唯一功率参数变化的因果消融"
+        },
+        {
+          "claim_id": "R2-076-03",
+          "proposition": "正式版相同数字、指标、实验结果与图号",
+          "locator": "IEEE正式全文未取得",
+          "status": "not_verified",
+          "scope": "维持作者稿限定；不使用摘要百分比和有歧义的公平性方向"
+        }
+      ],
+      "action": "沿用基准正确的FPA/DPA负载区间和作者稿限定；新稿强调不同研究的可修改变量范围",
+      "manuscript_locations_v17": [
+        {
+          "line": 246,
+          "section": "业务需求预测与波束、功率及频谱分配",
+          "excerpt": "多星重叠覆盖需要同时处理服务关联、负载差异及干扰边界。Lin等[75](https://doi.org/10.1109/LCOMM.2022.3213912)公开摘要描述了将卫星—小区服务关联与照射图样分阶段处理、在卫星之间平衡负载并限制对GSO系统"
+        },
+        {
+          "line": 250,
+          "section": "业务需求预测与波束、功率及频谱分配",
+          "excerpt": "三项波束配置研究的核心差异是可修改的变量范围。[74](https://doi.org/10.23919/JCC.ja.2022-0864)将离散照射与连续功率分阶段求解，[75](https://doi.org/10.1109/LCOMM.2022"
+        },
+        {
+          "line": 285,
+          "section": "跨域资源分配与控制职责",
+          "excerpt": "| 需求感知配置[76](https://doi.org/10.1109/TWC.2025.3545745) | 多星选束、星内功率及队列 | 预印本采用12星、168小区；集中训练 | 策略性能随负载变化，联合收益受到容量瓶颈制约 |"
+        },
+        {
+          "line": 424,
+          "section": "4.2 从局部活动到最终服务的资源耦合",
+          "excerpt": "通信资源耦合的强弱取决于模型中真正联动的变量。[74](https://doi.org/10.23919/JCC.ja.2022-0864)在单星选束后优化功率，[75](https://doi.org/10.1109/LCOMM.2022.3213"
+        },
+        {
+          "line": 466,
+          "section": "4.5 研究挑战与发展方向",
+          "excerpt": "**端到端服务目标下的适度联合。** 接触图调度[106](https://doi.org/10.1016/j.adhoc.2023.103289)共同选择采集与交付路径，观测—处理安排[53](https://doi.org/10.1002/sat"
+        }
+      ],
+      "human_verified": false,
+      "author_final_verification": "pending"
+    },
+    {
+      "id": 121,
+      "title": "Adaptive Routing with Inter-Satellite Laser Link Activity",
+      "doi": "10.1109/TAES.2024.3415571",
+      "content_basis": "author_version_only",
+      "read_version": "arXiv:2406.01953v1（作者HTML/PDF），正式IEEE正文未读",
+      "read_url": "https://arxiv.org/html/2406.01953v1",
+      "formal_identity_url": "https://doi.org/10.1109/TAES.2024.3415571",
+      "access": "有连续可读作者全文；IEEE最终版本模型/数据未完成对照",
+      "baseline_positions": "3.3原250、258；表5原273；4.1原370；4.2原389；4.3原401；4.5原431、433",
+      "claims": [
+        {
+          "claim_id": "R2-121-01",
+          "proposition": "1584卫星600个1秒快照，路径长度与建链时间共同计价",
+          "locator": "arXiv作者稿 §II, §III eqs.(6)–(10), §V-A Table III",
+          "status": "supported_author_version",
+          "scope": "统一建链延时、提前计算与路径分发、不含排队与初始配置"
+        },
+        {
+          "claim_id": "R2-121-02",
+          "proposition": "部分保持策略在建链代价极低时略劣于瞬时最短路",
+          "locator": "arXiv作者稿 §V-B Fig.3, §V-D Fig.6",
+          "status": "supported_author_version",
+          "scope": "不外推到所有稳定性/活动感知策略，ISASR可能例外"
+        },
+        {
+          "claim_id": "R2-121-03",
+          "proposition": "IEEE正式版与作者稿全部性能指标和在线执行期限相同",
+          "locator": "正式全文未取得",
+          "status": "not_verified",
+          "scope": "不宣称星载算力实测或在线deadline达标"
+        }
+      ],
+      "action": "保持具体前提和条件性结果，不把离线时间当星上实时性验证",
+      "manuscript_locations_v17": [
+        {
+          "line": 266,
+          "section": "动态拓扑、星间路由与拥塞恢复",
+          "excerpt": "Bhattacharjee等[121](https://doi.org/10.1109/TAES.2024.3415571)将激光链路建立时延纳入路径代价，比较瞬时最短路、既有路径保持及考虑稳定性和链路活动状态的路由策略。其[公开预印本](https"
+        },
+        {
+          "line": 274,
+          "section": "跨域资源分配与控制职责",
+          "excerpt": "该研究分别比较频谱管理、用户调度和波束调度，各项结果对应不同模块及负载条件。组件性能反映相应层级的资源管理作用，完整架构的运行效果还受到层间交换及配置生效条件的影响。集中式路由具有类似的信息前提：动态激光链路模型[121](https://doi.o"
+        },
+        {
+          "line": 290,
+          "section": "跨域资源分配与控制职责",
+          "excerpt": "| 动态激光链路路由[121](https://doi.org/10.1109/TAES.2024.3415571) | 路径与链路活动状态 | 预印本采用1584星；统一建链代价；不含队列 | 路径保持与更新的取舍受到建链成本制约 |"
+        },
+        {
+          "line": 405,
+          "section": "4.1 求解机制与可扩展性",
+          "excerpt": "局部化与计划复用在降低计算负担的同时，涉及计划质量与协调范围的权衡。Parjan和Chien[34](https://doi.org/10.2514/1.I011215)在连续规划实验中发现，增量修改的计算速度优于重新生成计划，但产生了更多重复观测。"
+        },
+        {
+          "line": 424,
+          "section": "4.2 从局部活动到最终服务的资源耦合",
+          "excerpt": "通信资源耦合的强弱取决于模型中真正联动的变量。[74](https://doi.org/10.23919/JCC.ja.2022-0864)在单星选束后优化功率，[75](https://doi.org/10.1109/LCOMM.2022.3213"
+        },
+        {
+          "line": 436,
+          "section": "4.3 分布式与学习方法的信息条件",
+          "excerpt": "消息到达时机进一步影响共享信息的效用。通信受限观测调度[38](https://doi.org/10.1016/j.asr.2020.02.018)将机会预测纳入任务包方法，其任务收益和交互次数随通信成本改变；异步任务包研究[118](https:/"
+        },
+        {
+          "line": 466,
+          "section": "4.5 研究挑战与发展方向",
+          "excerpt": "**端到端服务目标下的适度联合。** 接触图调度[106](https://doi.org/10.1016/j.adhoc.2023.103289)共同选择采集与交付路径，观测—处理安排[53](https://doi.org/10.1002/sat"
+        },
+        {
+          "line": 468,
+          "section": "4.5 研究挑战与发展方向",
+          "excerpt": "**信息延迟与计划承诺条件下的在线更新。** 增量规划[34](https://doi.org/10.2514/1.I011215)中的计算时间与观测冗余取舍、通信机会预测[38](https://doi.org/10.1016/j.asr.2020"
+        }
+      ],
+      "human_verified": false,
+      "author_final_verification": "pending"
+    },
+    {
+      "id": 73,
+      "title": "A Hybrid Forecasting Model for Self-Similar Traffic in LEO Mega-Constellation Networks",
+      "doi": "10.3390/aerospace11030191",
+      "content_basis": "formal_full_text_text_only",
+      "read_version": "出版社MDPI提供的ResearchGate Publisher Full-text文字，MDPI正式页身份可查；正式PDF未完成像素核验",
+      "read_url": "https://www.researchgate.net/publication/378570409_A_Hybrid_Forecasting_Model_for_Self-Similar_Traffic_in_LEO_Mega-Constellation_Networks",
+      "formal_identity_url": "https://www.mdpi.com/2226-4310/11/3/191",
+      "access": "MDPI直接PDF入口访问受限/返回429；ResearchGate正文已读但文本含提取水印；不能声明核过PDF的图表页面",
+      "baseline_positions": "3.3原226，表5原266，4.3原403，4.5原435",
+      "claims": [
+        {
+          "claim_id": "R2-073-01",
+          "proposition": "ON/OFF合成自相似流量、EMD—ARIMA—IGWO-BPNN分工",
+          "locator": "公开出版正文 §3.2、§4.3、Fig.8；MDPI网页摘要",
+          "status": "supported_text_only",
+          "scope": "预测建模条件；百分比和公式应待正式PDF复核"
+        },
+        {
+          "claim_id": "R2-073-02",
+          "proposition": "预测误差、计算时间及其向实际路由/吞吐收益的转移",
+          "locator": "公开出版正文 §5.3.3, Fig.13–14, Table 8, §6",
+          "status": "supported_with_limit",
+          "scope": "§6将路由应用列为将来工作；不主张已验证下游服务收益"
+        },
+        {
+          "claim_id": "R2-073-03",
+          "proposition": "PDF Fig.8/Fig.13–14及式(24)–(25)页面像素核验",
+          "locator": "正式PDF不可得",
+          "status": "not_verified",
+          "scope": "记录文本核对，未执行页面截图检查"
+        }
+      ],
+      "action": "第3.3节强化误差与最终服务指标区分；正式PDF版面核查待关闭",
+      "manuscript_locations_v17": [
+        {
+          "line": 242,
+          "section": "业务需求预测与波束、功率及频谱分配",
+          "excerpt": "非均匀需求使固定照射和平均配置难以兼顾资源利用与业务满足。波束跳变涉及离散照射位置和受功率预算限制的连续分配。Han等[73](https://doi.org/10.3390/aerospace11030191)在ON/OFF模型生成的合成自相似流量"
+        },
+        {
+          "line": 282,
+          "section": "跨域资源分配与控制职责",
+          "excerpt": "| 流量预测[73](https://doi.org/10.3390/aerospace11030191) | 未来业务量 | ON/OFF合成自相似负载；预测模型 | 输出负载估计；路由应用及服务收益尚待后续验证 |"
+        },
+        {
+          "line": 438,
+          "section": "4.3 分布式与学习方法的信息条件",
+          "excerpt": "学习方法在上述信息条件下承担不同决策职责。流量预测[73](https://doi.org/10.3390/aerospace11030191)生成未来负载估计；学习辅助大邻域搜索[63](https://doi.org/10.1016/j.eswa"
+        },
+        {
+          "line": 470,
+          "section": "4.5 研究挑战与发展方向",
+          "excerpt": "**学习模块对最终运行结果的贡献。** 预测[73](https://doi.org/10.3390/aerospace11030191)、学习初解与搜索修复[63](https://doi.org/10.1016/j.eswa.2025.12850"
+        }
+      ],
+      "human_verified": false,
+      "author_final_verification": "pending"
+    }
+  ],
+  "human_verified": false,
+  "author_final_verification": "pending",
+  "submission_ready": false
+}
