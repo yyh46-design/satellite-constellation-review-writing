@@ -45,7 +45,21 @@ A constraint establishes what activities are feasible; the objective specifies w
 
 **Figure 1. Application–decision cross-classification of constellation management (review-author synthesis)**
 
-The graphic in the Chinese original illustrates two service categories—Earth-observation requests and communication traffic—entering shared capacity planning, scheduling, and execution/recovery functions. It distinguishes forward dependence from feedback concerning remaining capacity and necessary plan repair. It is a conceptual synthesis, not the disclosed implemented architecture of a commercial operator. The editable Mermaid source appears in the Chinese manuscript and in FIGURE1_CROSS_CLASSIFICATION.mmd.
+```mermaid
+flowchart LR
+    OBS[Earth observation: discrete requests and product delivery] --> PLAN[Long-term capability planning and maintenance]
+    COM[Communication networks: continuous traffic and QoS] --> PLAN
+    OBS --> SCHED[Operational task and network-resource scheduling]
+    COM --> SCHED
+    PLAN --> SCHED
+    SCHED --> EXEC[Safe execution and anomaly recovery]
+    EXEC -. Remaining capabilities and event feedback .-> PLAN
+    EXEC -. Plan repair and resource updates .-> SCHED
+    SCHED --> RESULT[Delivered products or network services]
+    EXEC --> RESULT
+```
+
+*Caption: Both application scenarios require capability planning, scheduling, and recovery, but have distinct service objectives. Solid arrows represent classified decision dependencies; dashed arrows are feedback requiring verification in each application. The diagram does not describe an implemented commercial internal system.*
 
 ## 2.5 Problem size, method cost, and validation object
 
