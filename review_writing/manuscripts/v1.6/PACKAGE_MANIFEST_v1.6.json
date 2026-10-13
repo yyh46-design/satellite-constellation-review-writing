@@ -1,0 +1,83 @@
+{
+  "package": "constellation-review-v1.6-core-audit-handoff",
+  "as_of": "2026-10-13",
+  "repository": "yyh46-design/satellite-constellation-review-writing",
+  "branch": "writing/constellation-management-review-20261009",
+  "parent_commit": "9a6bcca51beee9ed446d2edab046cd7af149f953",
+  "source_manuscript_sha256": "93b0127d3066bcf2bb4b02f81cbd02157a9812e03ae2c365b3237919308999db",
+  "cited_sources": 121,
+  "academic_sources": 111,
+  "engineering_sources": 10,
+  "tables": 9,
+  "round1_sources": 15,
+  "formal_body_sources": 5,
+  "author_version_body_sources": 4,
+  "full_text_unavailable": 6,
+  "outside_round1_sources": 106,
+  "claim_checks": 60,
+  "human_verified": false,
+  "submission_ready": false,
+  "publication_scope": "User-authorized manuscript, source/claim records, evidence-bound audit, baseline and GPT handoff; third-party full texts are linked.",
+  "files": [
+    {
+      "path": "review_writing/manuscripts/v1.6/REVIEW_MAIN_DRAFT_v1.6.md",
+      "bytes": 133573,
+      "sha256": "93b0127d3066bcf2bb4b02f81cbd02157a9812e03ae2c365b3237919308999db"
+    },
+    {
+      "path": "review_writing/manuscripts/v1.6/REVIEW_MAIN_DRAFT_v1.6_PREVIEW.html",
+      "bytes": 146310,
+      "sha256": "4b0a89e117924dbe528ddb0a9aa2fc6a3afb1c8d2cc425f854d6a0fa08bf685f"
+    },
+    {
+      "path": "review_writing/manuscripts/v1.6/CORE_LITERATURE_AUDIT_ROUND1.md",
+      "bytes": 14412,
+      "sha256": "11dbdc1f1ca54d91a18a5710300e5bf72bb68ca4ae5117075a29db57d5f801bd"
+    },
+    {
+      "path": "review_writing/manuscripts/v1.6/CORE_LITERATURE_AUDIT_ROUND1.json",
+      "bytes": 149644,
+      "sha256": "98452a21eec1eda200125c93ece0d9b1aa9395cb839fedf51ec22fd4c8c1b75b"
+    },
+    {
+      "path": "review_writing/manuscripts/v1.6/CORE_CLAIM_CHECKS_ROUND1.csv",
+      "bytes": 25806,
+      "sha256": "cd575d5ad46c8690775d5a8e49d9902db1ace856e254434f5302952bc08f6227"
+    },
+    {
+      "path": "review_writing/manuscripts/v1.6/SOURCE_AND_CLAIM_RECORD_v1.6.json",
+      "bytes": 961336,
+      "sha256": "578823200497d1eec9917f2e8b26073ceab7801370a8ce3b7af6c81ad56aafc3"
+    },
+    {
+      "path": "review_writing/manuscripts/v1.6/REVISION_NOTES_v1.6.md",
+      "bytes": 4703,
+      "sha256": "a8fcb2ec88b63d30332a37e2e4876cdfd860e0c97480c9a6b2bc9264359624d1"
+    },
+    {
+      "path": "review_writing/manuscripts/v1.6/NARRATIVE_COMPARISON_v1.6.md",
+      "bytes": 4541,
+      "sha256": "457eb5c3e5dda2460d658b61a70f0ba0be279ddefb5050935a1918064f8b4924"
+    },
+    {
+      "path": "review_writing/manuscripts/v1.6/GPT_NEXT_STEPS_v1.6.md",
+      "bytes": 24719,
+      "sha256": "8759f012a82f6c3521979fe5df265980d6a99992b5810e2283a2dcf6fbac0e53"
+    },
+    {
+      "path": "review_writing/manuscripts/v1.6/REMAINING_SOURCE_VERIFICATION_QUEUE_v1.6.csv",
+      "bytes": 59703,
+      "sha256": "41fcebd57aa24888b15573c9e5c77d55b74ea3e48d23ac94d257d39bbd9c73d5"
+    },
+    {
+      "path": "review_writing/manuscripts/v1.6/README.md",
+      "bytes": 2606,
+      "sha256": "cf0a6321a5b95b7f78d71831045457dad19237653721cb9f584e7cc30a4dcdbe"
+    },
+    {
+      "path": "review_writing/manuscripts/v1.5/REVIEW_MAIN_DRAFT_v1.5.md",
+      "bytes": 134016,
+      "sha256": "1aeae776d65a4a2a67efe63cd89e97bfb8148c373f28c2c1ec593b08cb20adb7"
+    }
+  ]
+}

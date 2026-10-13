@@ -1,0 +1,2818 @@
+{
+  "audit_id": "CORE_LITERATURE_AUDIT_ROUND1",
+  "read_on": "2026-10-13",
+  "baseline": {
+    "path": "C:\\Users\\Administrator\\Documents\\Codex\\2026-10-13\\referenced-chatgpt-conversation-this-is-an\\outputs\\REVIEW_MAIN_DRAFT_v1.5.md",
+    "sha256": "1aeae776d65a4a2a67efe63cd89e97bfb8148c373f28c2c1ec593b08cb20adb7"
+  },
+  "revised_manuscript": {
+    "path": "C:\\Users\\Administrator\\Documents\\Codex\\2026-10-13\\referenced-chatgpt-conversation-this-is-an\\outputs\\REVIEW_MAIN_DRAFT_v1.6.md",
+    "sha256": "93b0127d3066bcf2bb4b02f81cbd02157a9812e03ae2c365b3237919308999db"
+  },
+  "scope": "15 selected core sources, targeted claim and version checks; not a full audit of all 121 references or reproduction of original experiments",
+  "counts": {
+    "selected_sources": 15,
+    "targeted_body_reading": 9,
+    "formal_full_text": 5,
+    "author_version_only": 4,
+    "no_full_text": 6
+  },
+  "human_verified": false,
+  "author_final_verification": "pending",
+  "submission_ready": false,
+  "input_record_provenance": [
+    {
+      "path": "C:\\Users\\Administrator\\Documents\\Codex\\2026-10-13\\referenced-chatgpt-conversation-this-is-an\\work\\core_audit_round1_root.json",
+      "sha256": "23008c61265041071a441632850781c093a508d92f747ed6520053195acd0f3b"
+    },
+    {
+      "path": "C:\\Users\\Administrator\\Documents\\Codex\\2026-10-13\\referenced-chatgpt-conversation-this-is-an\\work\\core_audit_round1_network.json",
+      "sha256": "3d310d86f3e66f098e56f0a1ce5f14094ab0014b21d51339c9c5808aa4e28579"
+    },
+    {
+      "path": "C:\\Users\\Administrator\\Documents\\Codex\\2026-10-13\\referenced-chatgpt-conversation-this-is-an\\work\\core_audit_round1_resources.json",
+      "sha256": "e6d55d679664b9dd85f8fcd0d5dc48cfd6d11d405f1817ce89e453fb65b39d66"
+    },
+    {
+      "path": "C:\\Users\\Administrator\\Documents\\Codex\\2026-10-13\\referenced-chatgpt-conversation-this-is-an\\work\\core_audit_round1_observation.json",
+      "sha256": "5be1c1b42ff550ccb143064bbeb4e7c3e08e42ab164ec3f532d88d9d1c570523"
+    }
+  ],
+  "records": [
+    {
+      "reference_number": 9,
+      "doi": "10.3390/technologies13080312",
+      "title": "Toward Integrated Satellite Operations and Network Management: A Review and Novel Framework",
+      "content_basis": "formal_full_text",
+      "read_version": "MDPI typeset final paper in UPC institutional repository; 41 pages",
+      "source_url": "https://upcommons.upc.edu/server/api/core/bitstreams/58ce59c0-e22b-4971-a786-e57c8773f919/content",
+      "source_access": "Existing lawful institutional PDF reread in this round; first-page identity and current Crossref metadata compared.",
+      "checked_locations": [
+        "PDF pp.16-19, Sections 3-3.2.3 and Algorithm 1",
+        "PDF pp.20-25, Section 4, Figure 3 and Table 6",
+        "PDF pp.32-33, Sections 5.13-5.14"
+      ],
+      "claims": [
+        {
+          "claim_id": "R1-009-01",
+          "manuscript_proposition": "任务模型由构造启发式形成初解，再以局部搜索改进。",
+          "source_locator": "§3.2.3, Algorithm 1, PDF pp.18-19",
+          "status": "supported",
+          "source_basis": "formal_full_text",
+          "claim_type": "source_proposition",
+          "not_counted_as_body_verification": false,
+          "scope_or_comment": null,
+          "human_verified": false
+        },
+        {
+          "claim_id": "R1-009-02",
+          "manuscript_proposition": "遥测、失败任务及触发条件影响问题更新与重排。",
+          "source_locator": "§3.1, Plan Executor, PDF p.17",
+          "status": "supported",
+          "source_basis": "formal_full_text",
+          "claim_type": "source_proposition",
+          "not_counted_as_body_verification": false,
+          "scope_or_comment": null,
+          "human_verified": false
+        },
+        {
+          "claim_id": "R1-009-03",
+          "manuscript_proposition": "集成、协调和自适应分别对应统一计划、统一协调/分渠道执行、相互适应。",
+          "source_locator": "§4, Figure 3 and Table 6, PDF pp.20-25",
+          "status": "supported_with_precision",
+          "source_basis": "formal_full_text",
+          "claim_type": "source_proposition",
+          "not_counted_as_body_verification": false,
+          "scope_or_comment": "这是三类SatOps—NetOps交互模式；论文具体讨论四种场景架构方案，集成模式覆盖两种连接场景。正文宜明确比较层次。",
+          "human_verified": false
+        },
+        {
+          "claim_id": "R1-009-04",
+          "manuscript_proposition": "所报告核心原型比较为16星仿真，基线为未优化业务准则的半人工best-effort调度。",
+          "source_locator": "§5.14, PDF p.32",
+          "status": "supported",
+          "source_basis": "formal_full_text",
+          "claim_type": "source_proposition",
+          "not_counted_as_body_verification": false,
+          "scope_or_comment": null,
+          "human_verified": false
+        },
+        {
+          "claim_id": "R1-009-05",
+          "manuscript_proposition": "该文未以相同算例比较三类交互模式的性能，规划中的飞行验证不属于已完成证据。",
+          "source_locator": "§5.13-5.14, PDF pp.32-33",
+          "status": "supported_with_scope",
+          "source_basis": "formal_full_text",
+          "claim_type": "source_proposition",
+          "not_counted_as_body_verification": false,
+          "scope_or_comment": "论文报告集成原型，飞行测试在该文中为预期计划。此核验不查询或推断计划之后的实际任务状态。",
+          "human_verified": false
+        }
+      ],
+      "required_revision": "把“三种架构”精化为“三类交互模式”，避免与四种场景架构方案混用。",
+      "version_parity": "Source is the publisher-typeset final article; no inference from a preprint is needed for checked propositions.",
+      "human_verified": false,
+      "agent_check_date": "2026-10-13",
+      "local_copy": "work/v14_integration_sources/Singla_9_vor.pdf",
+      "local_sha256": "139b093fd3e1924aead1b2bcebca92fc6615f9ff1d3b268df27f63df419950a4",
+      "metadata_check": {
+        "registry_url": "https://api.crossref.org/works/10.3390/technologies13080312",
+        "title": "Toward Integrated Satellite Operations and Network Management: A Review and Novel Framework",
+        "doi": "10.3390/technologies13080312",
+        "volume": "13",
+        "issue": "8",
+        "page": "312",
+        "article_number": null,
+        "status": "identity_matches_manuscript_reference",
+        "metadata_file": "work/core_audit_round1_sources/ref_9_crossref.json"
+      },
+      "manuscript_bindings": [
+        {
+          "line": 31,
+          "line_sha256": "d90e307d5ddc559fe532c64231ba5d692216110aa025e213fb90f5c0fcda0a48",
+          "binding_scope": "source-associated line; propositions are assessed separately in claims"
+        },
+        {
+          "line": 42,
+          "line_sha256": "170723c6852830cde057aacbf4f095187c78fb6991a98b8b0dc36a44a3a1a165",
+          "binding_scope": "source-associated line; propositions are assessed separately in claims"
+        },
+        {
+          "line": 337,
+          "line_sha256": "bf5e43eacbb98396e496ceb3fd24220d95c99f9ba4af9363b84e8c231cfecf62",
+          "binding_scope": "source-associated line; propositions are assessed separately in claims"
+        },
+        {
+          "line": 357,
+          "line_sha256": "5d294ae44f08432b7fdd70c3bff9d2f54d37516bbe346d32cd73df2bcffa7581",
+          "binding_scope": "source-associated line; propositions are assessed separately in claims"
+        }
+      ],
+      "author_final_verification": "pending",
+      "baseline_source_key": "doi:10.3390/technologies13080312",
+      "claim_assessment_target": "v1.5 baseline; v1.6 dispositions recorded in implemented_changes and current citation bindings",
+      "claim_checks_original": [
+        {
+          "claim_id": "R1-009-01",
+          "manuscript_proposition": "任务模型由构造启发式形成初解，再以局部搜索改进。",
+          "source_locator": "§3.2.3, Algorithm 1, PDF pp.18-19",
+          "status": "supported",
+          "comment": "",
+          "human_verified": false
+        },
+        {
+          "claim_id": "R1-009-02",
+          "manuscript_proposition": "遥测、失败任务及触发条件影响问题更新与重排。",
+          "source_locator": "§3.1, Plan Executor, PDF p.17",
+          "status": "supported",
+          "comment": "",
+          "human_verified": false
+        },
+        {
+          "claim_id": "R1-009-03",
+          "manuscript_proposition": "集成、协调和自适应分别对应统一计划、统一协调/分渠道执行、相互适应。",
+          "source_locator": "§4, Figure 3 and Table 6, PDF pp.20-25",
+          "status": "supported_with_precision",
+          "comment": "这是三类SatOps—NetOps交互模式；论文具体讨论四种场景架构方案，集成模式覆盖两种连接场景。正文宜明确比较层次。",
+          "human_verified": false
+        },
+        {
+          "claim_id": "R1-009-04",
+          "manuscript_proposition": "所报告核心原型比较为16星仿真，基线为未优化业务准则的半人工best-effort调度。",
+          "source_locator": "§5.14, PDF p.32",
+          "status": "supported",
+          "comment": "",
+          "human_verified": false
+        },
+        {
+          "claim_id": "R1-009-05",
+          "manuscript_proposition": "该文未以相同算例比较三类交互模式的性能，规划中的飞行验证不属于已完成证据。",
+          "source_locator": "§5.13-5.14, PDF pp.32-33",
+          "status": "supported_with_scope",
+          "comment": "论文报告集成原型，飞行测试在该文中为预期计划。此核验不查询或推断计划之后的实际任务状态。",
+          "human_verified": false
+        }
+      ],
+      "v16_manuscript_bindings": [
+        {
+          "line_number": 31,
+          "line_sha256": "d90e307d5ddc559fe532c64231ba5d692216110aa025e213fb90f5c0fcda0a48",
+          "binding_scope": "citation association only; not semantic certification"
+        },
+        {
+          "line_number": 42,
+          "line_sha256": "170723c6852830cde057aacbf4f095187c78fb6991a98b8b0dc36a44a3a1a165",
+          "binding_scope": "citation association only; not semantic certification"
+        },
+        {
+          "line_number": 337,
+          "line_sha256": "4411c00c5bde9b7c167676677afab8f60b857ea086786df2ab6b59a9fa1e2e41",
+          "binding_scope": "citation association only; not semantic certification"
+        },
+        {
+          "line_number": 357,
+          "line_sha256": "5d294ae44f08432b7fdd70c3bff9d2f54d37516bbe346d32cd73df2bcffa7581",
+          "binding_scope": "citation association only; not semantic certification"
+        }
+      ],
+      "implemented_changes": [
+        10,
+        11
+      ]
+    },
+    {
+      "reference_number": 53,
+      "doi": "10.1002/sat.70082",
+      "title": "Edge Intelligence for Satellite-Based Earth Observation: Scheduling Image Acquisition and Processing",
+      "human_verified": false,
+      "agent_reading": "targeted_author_preprint_body_read_again_this_round",
+      "inherited_record": "work/v14_soret_evidence.json",
+      "access_record": [
+        {
+          "url": "https://onlinelibrary.wiley.com/doi/10.1002/sat.70082",
+          "status": "opened_publisher_abstract_and_metadata_only",
+          "observed": "Published 2026-08-24; Data Availability identifies arXiv2604.05937 as prior preprint."
+        },
+        {
+          "url": "https://onlinelibrary.wiley.com/doi/full/10.1002/sat.70082",
+          "status": "redirected_to_abstract",
+          "redirect_url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/sat.70082"
+        },
+        {
+          "url": "https://vbn.aau.dk/en/publications/edge-intelligence-for-satellite-based-earth-observation-schedulin-2/",
+          "status": "opened_institutional_publication_record",
+          "observed": "The journal record labels file 2604.05937v1 as Accepted author manuscript; this label does not establish identity with the version of record."
+        },
+        {
+          "url": "https://vbn.aau.dk/files/854571128/2604.05937v1.pdf",
+          "status": "403_stopped_no_bypass"
+        },
+        {
+          "url": "https://arxiv.org/html/2604.05937v1",
+          "status": "opened_body"
+        },
+        {
+          "url": "https://arxiv.org/pdf/2604.05937v1",
+          "status": "downloaded_body"
+        }
+      ],
+      "opened_body_version": "arXiv2604.05937v1, 2026-04-07, 25-page author preprint marked Draft; not the Wiley version of record",
+      "local_file": "work/core_audit_round1_sources/53_arxiv_v1.pdf",
+      "local_sha256": "b18022c2b14b5c9931fea8192e76751c0899e9f472d90e7d899f46732aba4749",
+      "formal_full_text_read": false,
+      "formal_preprint_key_models_and_results_matched": false,
+      "checked_body_locations": [
+        "PDF pages 8-9, Section 3 and Figure 4",
+        "PDF page 10, Section 3.3",
+        "PDF pages 11-12, Section 3.4",
+        "PDF pages 12-13, Section 4.1, Equation 18",
+        "PDF pages 13-15, Section 4.2, Equations 19-26; optimization problem 22",
+        "PDF pages 18-22, Section 5.2, Figures 8-12"
+      ],
+      "locator_caution": "arXiv HTML labels the processing problem 26 and later substitutions 31-33, while the downloaded v1 PDF labels the processing problem 22 and subsequent substitutions 24-26. Use the PDF page and named subsection together with version, not unqualified inherited equation numbers.",
+      "claims": [
+        {
+          "claim_id": "OBS53_ACQUISITION",
+          "manuscript_proposition": "Acquisition-window and order decisions maximize image-quality profit under time, attitude and energy constraints.",
+          "source_locator": "PDF pp12-13, Section 4.1, Equation 18",
+          "status": "support",
+          "source_basis": "author_version_only",
+          "claim_type": "source_proposition",
+          "not_counted_as_body_verification": false,
+          "scope_or_comment": "Keep the explicit public-preprint qualifier; no assertion of a complete formal-version model match.",
+          "human_verified": false
+        },
+        {
+          "claim_id": "OBS53_PROCESSING_LOCATION",
+          "manuscript_proposition": "P includes edge satellites and ground stations. Workload fractions and processor-frequency variables include both; ground processing participates in the model, rather than being only an external baseline.",
+          "source_locator": "PDF p10 Section 3.3; pp13-14 Section 4.2, Equation 22 and workload conservation 22f",
+          "status": "support",
+          "source_basis": "author_version_only",
+          "claim_type": "source_proposition",
+          "not_counted_as_body_verification": false,
+          "scope_or_comment": "Retain 星上/地面 processing resources. Do not restrict the allocation to edge satellites or describe ground processing solely as a baseline.",
+          "human_verified": false
+        },
+        {
+          "claim_id": "OBS53_SEQUENTIAL_PIPELINE",
+          "manuscript_proposition": "Processing optimization takes acquisition load and available downlink schedules as inputs. Scatter/process/gather use slots k, k+1, k+2; fixed ISLs coexist with time-varying feeder links.",
+          "source_locator": "PDF pp11-12 Section 3.4; p13 Section 4.2 opening; p20 Section 5.2 acquisition-derived load and downlink choices",
+          "status": "support",
+          "source_basis": "author_version_only",
+          "claim_type": "source_proposition",
+          "not_counted_as_body_verification": false,
+          "scope_or_comment": "Keep sequential acquisition-to-processing input. The concrete downstream model is not evidence of unrestricted routing optimization or a tested downstream feedback controller changing acquisition.",
+          "human_verified": false
+        },
+        {
+          "claim_id": "OBS53_RESULT_SCOPE",
+          "manuscript_proposition": "YOLOv8 execution characterization and modeled processing energy depend on hardware, offered workload and slot length.",
+          "source_locator": "PDF pp18-22 Section 5.2, Figures 8-12",
+          "status": "support",
+          "source_basis": "author_version_only",
+          "claim_type": "source_proposition",
+          "not_counted_as_body_verification": false,
+          "scope_or_comment": "Numerical and hardware-timing evidence only; no flight or commercial deployment claim.",
+          "human_verified": false
+        },
+        {
+          "claim_id": "OBS53_TABLE_LABEL",
+          "manuscript_proposition": "The unqualified table label can suggest a single acquisition/processing joint optimization, whereas the manuscript correctly describes sequential input with downstream computation/communication optimization.",
+          "source_locator": "PDF Sections 4.1-4.2 and Table 7 of the review",
+          "status": "needs_revision",
+          "source_basis": "author_version_only",
+          "claim_type": "source_proposition",
+          "not_counted_as_body_verification": false,
+          "scope_or_comment": "This is classification precision, not a newly claimed result.",
+          "human_verified": false
+        },
+        {
+          "claim_id": "OBS53_FORMAL_VERSION_MATCH",
+          "manuscript_proposition": "Wiley full text was not obtained, so detailed equality of its equations, assumptions and results with arXiv v1 cannot be established.",
+          "source_locator": null,
+          "status": "unverified",
+          "source_basis": "author_version_only",
+          "claim_type": "source_proposition",
+          "not_counted_as_body_verification": false,
+          "scope_or_comment": null,
+          "human_verified": false
+        }
+      ],
+      "excluded_unresolved_numeric_detail": "Nano GPU maximum-power value differs between running text and Table 3 in the author PDF; it is not copied into this manuscript or the proposed revision.",
+      "content_basis": "author_version_only",
+      "specific_precision_edits": [
+        {
+          "location": "3.2 Soret paragraph",
+          "current": "优化处理器的工作分配与频率",
+          "suggested": "优化边缘卫星与地面站之间的处理负载分配及处理频率",
+          "reason": "The processor set includes edge satellites and ground stations; allocation is fractional workload, not edge-only task placement.",
+          "required_for_fact_correction": false
+        },
+        {
+          "location": "3.5 first subsection, Soret sentence",
+          "current": "再以已采集负载和可用下传时刻优化处理及传输",
+          "suggested": "再以已采集负载和可用下传时刻为输入，优化星地处理负载分配与频率，并计入通信能耗和容量约束",
+          "reason": "The concrete decision variables are workload fractions and frequencies; paths/downlink opportunities are model inputs, not unrestricted routing decisions.",
+          "required_for_fact_correction": false
+        },
+        {
+          "location": "Table 4 source 53 row",
+          "current": "观测—处理联合；成像选择、推理任务分配",
+          "suggested": "观测—处理分阶段安排；采集选择，星地处理负载与频率优化",
+          "reason": "Distinguish sequential upstream input from the downstream joint computation/communication model.",
+          "required_for_classification_precision": true
+        },
+        {
+          "location": "Table 7 source 53 row, implementation column",
+          "current": "预印本由采集计划提供下游输入，再优化处理与传输",
+          "suggested": "预印本采集计划提供下游输入，优化星地处理负载分配与频率",
+          "reason": "Align the table with the actual decision variables and preserve the author-version qualifier.",
+          "required_for_fact_correction": false
+        }
+      ],
+      "author_final_verification": "pending",
+      "baseline_source_key": "doi:10.1002/sat.70082",
+      "claim_assessment_target": "v1.5 baseline; v1.6 dispositions recorded in implemented_changes and current citation bindings",
+      "claim_checks_original": [
+        {
+          "id": "OBS53_ACQUISITION",
+          "manuscript_locations": [
+            "3.2, paragraph beginning Soret",
+            "Table 4, source 53 row"
+          ],
+          "status": "support",
+          "support_version": "author_preprint_only",
+          "body_locator": "PDF pp12-13, Section 4.1, Equation 18",
+          "finding": "Acquisition-window and order decisions maximize image-quality profit under time, attitude and energy constraints.",
+          "retain_condition": "Keep the explicit public-preprint qualifier; no assertion of a complete formal-version model match.",
+          "support_status": "support",
+          "human_verified": false
+        },
+        {
+          "id": "OBS53_PROCESSING_LOCATION",
+          "manuscript_locations": [
+            "3.2, Soret paragraph",
+            "Table 4: 星上/地面处理资源",
+            "3.5 first subsection"
+          ],
+          "status": "support",
+          "support_version": "author_preprint_only",
+          "body_locator": "PDF p10 Section 3.3; pp13-14 Section 4.2, Equation 22 and workload conservation 22f",
+          "finding": "P includes edge satellites and ground stations. Workload fractions and processor-frequency variables include both; ground processing participates in the model, rather than being only an external baseline.",
+          "retain_condition": "Retain 星上/地面 processing resources. Do not restrict the allocation to edge satellites or describe ground processing solely as a baseline.",
+          "support_status": "support",
+          "human_verified": false
+        },
+        {
+          "id": "OBS53_SEQUENTIAL_PIPELINE",
+          "manuscript_locations": [
+            "3.2, Soret paragraph",
+            "3.5 first subsection",
+            "Table 7, source 53 row",
+            "4.2 first paragraph",
+            "4.5 second direction"
+          ],
+          "status": "support",
+          "support_version": "author_preprint_only",
+          "body_locator": "PDF pp11-12 Section 3.4; p13 Section 4.2 opening; p20 Section 5.2 acquisition-derived load and downlink choices",
+          "finding": "Processing optimization takes acquisition load and available downlink schedules as inputs. Scatter/process/gather use slots k, k+1, k+2; fixed ISLs coexist with time-varying feeder links.",
+          "retain_condition": "Keep sequential acquisition-to-processing input. The concrete downstream model is not evidence of unrestricted routing optimization or a tested downstream feedback controller changing acquisition.",
+          "support_status": "support",
+          "human_verified": false
+        },
+        {
+          "id": "OBS53_RESULT_SCOPE",
+          "manuscript_locations": [
+            "3.2: processing benefits depend on platform/load/slot length",
+            "Table 4: vessel detection and computing-platform tests"
+          ],
+          "status": "support",
+          "support_version": "author_preprint_only",
+          "body_locator": "PDF pp18-22 Section 5.2, Figures 8-12",
+          "finding": "YOLOv8 execution characterization and modeled processing energy depend on hardware, offered workload and slot length.",
+          "retain_condition": "Numerical and hardware-timing evidence only; no flight or commercial deployment claim.",
+          "support_status": "support",
+          "human_verified": false
+        },
+        {
+          "id": "OBS53_TABLE_LABEL",
+          "manuscript_locations": [
+            "Table 4, label 观测—处理联合"
+          ],
+          "status": "needs_revision",
+          "body_locator": "PDF Sections 4.1-4.2 and Table 7 of the review",
+          "finding": "The unqualified table label can suggest a single acquisition/processing joint optimization, whereas the manuscript correctly describes sequential input with downstream computation/communication optimization.",
+          "suggested_text": "将表4行名“观测—处理联合”改为“观测—处理分阶段安排”；求解栏可写“采集选择；处理负载与频率优化”。",
+          "retain_condition": "This is classification precision, not a newly claimed result.",
+          "support_status": "needs_revision",
+          "human_verified": false
+        },
+        {
+          "id": "OBS53_FORMAL_VERSION_MATCH",
+          "manuscript_locations": [
+            "all detailed formulation and experimental descriptions attributed to source 53"
+          ],
+          "status": "unverified",
+          "body_locator": null,
+          "finding": "Wiley full text was not obtained, so detailed equality of its equations, assumptions and results with arXiv v1 cannot be established.",
+          "suggested_text": "保留“公开预印本”版本说明；正式稿获得前，不标记为正式全文核验通过。",
+          "support_status": "unverified",
+          "human_verified": false
+        }
+      ],
+      "v16_manuscript_bindings": [
+        {
+          "line_number": 175,
+          "line_sha256": "fc58d174cd3660e894993a5d52f1a3d6015607428654c118dc4e93da5cbd44f2",
+          "binding_scope": "citation association only; not semantic certification"
+        },
+        {
+          "line_number": 209,
+          "line_sha256": "97ae4aeccffdf9902f4e9e476bd715fc69af27d480ba527e42c51edf1e465741",
+          "binding_scope": "citation association only; not semantic certification"
+        },
+        {
+          "line_number": 331,
+          "line_sha256": "cbbdeb76ac81f6163f85fc92c83714578edee4dad86ac376960c4263a21cd002",
+          "binding_scope": "citation association only; not semantic certification"
+        },
+        {
+          "line_number": 356,
+          "line_sha256": "f6f29d58d265924d3ce4cf358474c6dd930c9f300e0e95e0450e91665883a72b",
+          "binding_scope": "citation association only; not semantic certification"
+        },
+        {
+          "line_number": 387,
+          "line_sha256": "c46694cea1ef3ce53413e0ea63be4ffd808e40760767330eaa327d432c2ccce6",
+          "binding_scope": "citation association only; not semantic certification"
+        },
+        {
+          "line_number": 431,
+          "line_sha256": "5bfce8abfb77da0f548d4a51146c7ef1945cb32a736a23f82c238dce8d3b9acb",
+          "binding_scope": "citation association only; not semantic certification"
+        }
+      ],
+      "implemented_changes": [
+        1,
+        2,
+        3,
+        9,
+        12
+      ]
+    },
+    {
+      "reference_number": 73,
+      "evidence_id": "C01",
+      "doi": "10.3390/aerospace11030191",
+      "title": "A Hybrid Forecasting Model for Self-Similar Traffic in LEO Mega-Constellation Networks",
+      "human_verified": false,
+      "author_final_verification": "pending",
+      "manuscript_occurrences": [
+        {
+          "line": 226,
+          "section": "### 业务需求预测与波束、功率及频谱分配",
+          "text": "非均匀需求使固定照射与平均资源分配难以同时兼顾资源利用和业务满足。波束跳变通过时分照射覆盖多个区域，其资源配置涉及离散照射选择与连续功率分配。Han等[73](https://doi.org/10.3390/aerospace11030191)结合经验模态分解、ARIMA与优化神经网络，预测具有自相似特征的业务流量，为需求感知调度提供负载估计。波束与功率优化进一步确定有限容量的分配，其评价指标包括供需差距、吞吐和时延，与流量预测误差具有不同的业务含义。",
+          "block_sha256": "08c3cde002c099cfd218e7bc0ef55f24fd8526552db97db34897926dacd9bd83"
+        },
+        {
+          "line": 266,
+          "section": "### 跨域资源分配与控制职责",
+          "text": "| 流量预测[73](https://doi.org/10.3390/aerospace11030191) | 未来业务量 | 自相似负载；预测模型 | 负载估计通过后续调度影响服务效果 |",
+          "block_sha256": "34bb904178b5e9c0aa6d1dc3d4e4dd8bacbc7fea53b6daa38c40808869f23654"
+        },
+        {
+          "line": 403,
+          "section": "## 4.3 分布式与学习方法的信息条件",
+          "text": "学习方法在上述信息条件下承担不同决策职责。流量预测[73](https://doi.org/10.3390/aerospace11030191)生成未来负载估计；学习辅助大邻域搜索[63](https://doi.org/10.1016/j.eswa.2025.128502)提供初解，再由破坏—修复搜索形成计划；单星策略复用[65](https://doi.org/10.2514/1.A35736)直接影响成员的在线选择；带安全屏蔽的策略[96](https://doi.org/10.1007/s40295-026-00631-w)在巡检任务中结合动作生成与安全约束。预测、搜索初解和策略动作的改进分别通过后续优化、协调或约束处理影响运行结果。训练阶段的联合信息与执行阶段的成员状态也属于不同信息集合，学习与分布式方法的结合效果取决于局部可得状态对任务安排和冲突消解的支持程度。",
+          "block_sha256": "7171007a7fe8e1d1b39b56c589c3a607107ccff1eb87e3a6d54b433459552073"
+        },
+        {
+          "line": 435,
+          "section": "## 4.5 研究挑战与发展方向",
+          "text": "**学习模块对最终运行结果的贡献。** 预测[73](https://doi.org/10.3390/aerospace11030191)、学习初解与搜索修复[63](https://doi.org/10.1016/j.eswa.2025.128502)、受安全屏蔽的动作生成[96](https://doi.org/10.1007/s40295-026-00631-w)分别作用于不同决策环节。局部误差或动作质量的改善经资源竞争、协调和约束处理后，可能产生不同的最终收益。其向任务交付或持续服务传递的条件，以及需求变化、通信受限和能力降级对这一过程的影响，构成学习方法的系统评价问题。结合模块职责分析训练投入、后续修复与回退结果，有助于识别学习方法对整体方案的实际贡献。",
+          "block_sha256": "ab2f4000b8f6f892f2528f03805ef7034cb45dc3c49161ea307d2272f16e1fe8"
+        }
+      ],
+      "registered_urls": [
+        {
+          "URL": "https://www.mdpi.com/2226-4310/11/3/191/pdf",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "inherited_evidence_status": "出版方摘要与方法概述已核；预测数据和表格待读",
+      "full_text_opened": true,
+      "agent_targeted_reading": "Publisher-provided full-text body, Sections 3.2, 4.3, 5.1, 5.3.3 and 6; no raw-data reproduction",
+      "opened_version": "ResearchGate explicitly labels this MDPI-provided Publisher Full-text; body carries Aerospace 2024, 11, 191 / 26-page markers. Not an author preprint.",
+      "full_text_url": "https://www.researchgate.net/publication/378570409_A_Hybrid_Forecasting_Model_for_Self-Similar_Traffic_in_LEO_Mega-Constellation_Networks",
+      "identity_locator": "Publisher Full-text / Access to this full-text is provided by MDPI; first-page journal title, DOI, authors, publication date",
+      "local_pdf": null,
+      "version_limits": "PDF download unavailable; extracted body also contains draft-watermark text artifacts. No PDF-layout or byte-parity verification claimed; use section/figure/equation locators.",
+      "access_results": [
+        {
+          "url": "https://www.mdpi.com/2226-4310/11/3/191",
+          "result": "429 on normal web open; abandoned"
+        },
+        {
+          "url": "https://mdpi-res.com/d_attachment/aerospace/aerospace-11-00191/article_deploy/aerospace-11-00191.pdf",
+          "result": "Ordinary download returned 403; abandoned"
+        },
+        {
+          "url": "https://www.researchgate.net/publication/378570409_A_Hybrid_Forecasting_Model_for_Self-Similar_Traffic_in_LEO_Mega-Constellation_Networks",
+          "result": "Web tool opened publisher-provided full-text body; ordinary local HTML snapshot returned 403 and was not retried"
+        },
+        {
+          "url": "https://www.researchgate.net/publication/journal/Aerospace-2226-4310/publication/378570409_A_Hybrid_Forecasting_Model_for_Self-Similar_Traffic_in_LEO_Mega-Constellation_Networks/links/67e56e918a5ab03f971579e6/A-Hybrid-Forecasting-Model-for-Self-Similar-Traffic-in-LEO-Mega-Constellation-Networks.pdf",
+          "result": "Public download button yielded 404; abandoned"
+        }
+      ],
+      "claim_checks": [
+        {
+          "claim": "EMD, ARIMA and optimized neural network forecast self-similar traffic",
+          "support": "supported_in_opened_body",
+          "locator": "§3.2; §4.3 Fig.8, steps 1–5, Eqs.(24)–(25)",
+          "scope": "ON/OFF-generated traffic; ARIMA component plus IGWO-optimized BPNN residual",
+          "status": "supported_in_formal_full_text"
+        },
+        {
+          "claim": "Output supplies demand-aware scheduling with load estimates",
+          "support": "supported_as_intended_input_not_evaluated_service_gain",
+          "locator": "§4.3; §6 final future-work paragraph",
+          "scope": "Prediction output is evaluated; routing application is future work",
+          "status": "supported_intended_input_only"
+        },
+        {
+          "claim": "Table 5: load estimates affect service through downstream scheduling",
+          "support": "overstates_if_read_as_demonstrated_end_to_end_effect",
+          "locator": "§5.3.3 Figs.13–14 / Table 8; §6",
+          "scope": "Forecast-error/operation-time comparison does not validate downstream scheduling gains",
+          "status": "requires_scope_revision"
+        },
+        {
+          "claim": "§4.3 and §4.5 distinguish prediction from downstream optimization and conditional transfer to service",
+          "support": "consistent_with_opened_body",
+          "locator": "§4.3 and §6",
+          "scope": "Retain conditional interpretation",
+          "status": "conditional_editorial_synthesis_consistent_not_directly_tested"
+        }
+      ],
+      "model_conditions": [
+        "Synthetic ON/OFF inputs (§3.2)",
+        "NS3.31 constellation simulation: 1584 satellites / 72 planes (§5.1, Table 3)",
+        "Forecast comparators ARIMA, LSTM, ARIMA-BPNN (§5.3.3, Table 8)"
+      ],
+      "unverified_claims": [
+        "Raw-data/code reproduction",
+        "Downstream scheduling or routing service gains",
+        "Official-PDF extraction artifacts and version parity"
+      ],
+      "required_revisions": [
+        {
+          "location": "§3.3 / Table 5, reference 73 row",
+          "original": "负载估计通过后续调度影响服务效果",
+          "replacement": "输出负载估计；路由应用及服务收益尚待后续验证",
+          "reason": "§6 expressly places application of forecasts to routing in future work"
+        },
+        {
+          "location": "§3.3 traffic-forecast paragraph",
+          "original": "预测具有自相似特征的业务流量，为需求感知调度提供负载估计",
+          "replacement": "在ON/OFF合成流量条件下预测具有自相似特征的业务流量，生成可供后续资源配置使用的负载估计",
+          "reason": "Make the actually evaluated traffic domain explicit without introducing a performance number"
+        }
+      ],
+      "audit_outcome": "method_supported_with_one_downstream_effect_boundary_revision",
+      "content_basis": "formal_full_text",
+      "all_manuscript_claims_reviewed": true,
+      "occurrence_dispositions": [
+        {
+          "section": "3.3 demand forecasting paragraph",
+          "claims": [
+            "EMD/ARIMA/optimized neural network forecasting",
+            "Self-similar traffic",
+            "Load estimate intended for demand-aware scheduling"
+          ],
+          "status": "method_supported; add_synthetic_ON_OFF_domain; no_downstream_performance_claim",
+          "locator": "§3.2; §4.3 Fig.8 and Eqs.(24)–(25); §6 future-work paragraph"
+        },
+        {
+          "section": "Table 5 reference 73 row",
+          "claims": [
+            "Future business volume",
+            "Self-similar forecast model",
+            "Downstream scheduling affects service"
+          ],
+          "status": "prediction_scope_supported; downstream_service_effect_requires_scope_revision",
+          "locator": "§5.3.3 Table 8; §6 future-work paragraph"
+        },
+        {
+          "section": "4.3 learning responsibilities",
+          "claims": [
+            "Forecast generates future load estimate",
+            "Improvement reaches operations through later optimization/coordination/constraints"
+          ],
+          "status": "load_output_supported; conditional_editorial_synthesis_not_tested_end_to_end",
+          "locator": "§4.3; §6"
+        },
+        {
+          "section": "4.5 learning contribution",
+          "claims": [
+            "Forecast is a distinct decision-stage module",
+            "Load/information/resource conditions mediate possible service gains"
+          ],
+          "status": "editorial_research_question_consistent_with_future_work; not_claimed_as_tested_result",
+          "locator": "§6 future-work paragraph"
+        }
+      ],
+      "baseline_source_key": "doi:10.3390/aerospace11030191",
+      "claim_assessment_target": "v1.5 baseline; v1.6 dispositions recorded in implemented_changes and current citation bindings",
+      "claim_checks_original": [
+        {
+          "claim": "EMD, ARIMA and optimized neural network forecast self-similar traffic",
+          "support": "supported_in_opened_body",
+          "locator": "§3.2; §4.3 Fig.8, steps 1–5, Eqs.(24)–(25)",
+          "scope": "ON/OFF-generated traffic; ARIMA component plus IGWO-optimized BPNN residual",
+          "status": "supported_in_formal_full_text"
+        },
+        {
+          "claim": "Output supplies demand-aware scheduling with load estimates",
+          "support": "supported_as_intended_input_not_evaluated_service_gain",
+          "locator": "§4.3; §6 final future-work paragraph",
+          "scope": "Prediction output is evaluated; routing application is future work",
+          "status": "supported_intended_input_only"
+        },
+        {
+          "claim": "Table 5: load estimates affect service through downstream scheduling",
+          "support": "overstates_if_read_as_demonstrated_end_to_end_effect",
+          "locator": "§5.3.3 Figs.13–14 / Table 8; §6",
+          "scope": "Forecast-error/operation-time comparison does not validate downstream scheduling gains",
+          "status": "requires_scope_revision"
+        },
+        {
+          "claim": "§4.3 and §4.5 distinguish prediction from downstream optimization and conditional transfer to service",
+          "support": "consistent_with_opened_body",
+          "locator": "§4.3 and §6",
+          "scope": "Retain conditional interpretation",
+          "status": "conditional_editorial_synthesis_consistent_not_directly_tested"
+        }
+      ],
+      "claims": [
+        {
+          "claim_id": "R1-073-01",
+          "manuscript_proposition": "EMD, ARIMA and optimized neural network forecast self-similar traffic",
+          "source_locator": "§3.2; §4.3 Fig.8, steps 1–5, Eqs.(24)–(25)",
+          "status": "supported_in_formal_full_text",
+          "source_basis": "formal_full_text",
+          "claim_type": "source_proposition",
+          "not_counted_as_body_verification": false,
+          "scope_or_comment": "ON/OFF-generated traffic; ARIMA component plus IGWO-optimized BPNN residual",
+          "human_verified": false
+        },
+        {
+          "claim_id": "R1-073-02",
+          "manuscript_proposition": "Output supplies demand-aware scheduling with load estimates",
+          "source_locator": "§4.3; §6 final future-work paragraph",
+          "status": "supported_intended_input_only",
+          "source_basis": "formal_full_text",
+          "claim_type": "source_proposition",
+          "not_counted_as_body_verification": false,
+          "scope_or_comment": "Prediction output is evaluated; routing application is future work",
+          "human_verified": false
+        },
+        {
+          "claim_id": "R1-073-03",
+          "manuscript_proposition": "Table 5: load estimates affect service through downstream scheduling",
+          "source_locator": "§5.3.3 Figs.13–14 / Table 8; §6",
+          "status": "requires_scope_revision",
+          "source_basis": "formal_full_text",
+          "claim_type": "source_proposition",
+          "not_counted_as_body_verification": false,
+          "scope_or_comment": "Forecast-error/operation-time comparison does not validate downstream scheduling gains",
+          "human_verified": false
+        },
+        {
+          "claim_id": "R1-073-04",
+          "manuscript_proposition": "§4.3 and §4.5 distinguish prediction from downstream optimization and conditional transfer to service",
+          "source_locator": "§4.3 and §6",
+          "status": "conditional_editorial_synthesis_consistent_not_directly_tested",
+          "source_basis": "formal_full_text",
+          "claim_type": "source_proposition",
+          "not_counted_as_body_verification": false,
+          "scope_or_comment": "Retain conditional interpretation",
+          "human_verified": false
+        }
+      ],
+      "v16_manuscript_bindings": [
+        {
+          "line_number": 226,
+          "line_sha256": "1e219b8f89a90f32b7c44a0c0ef2f63759a3e6056e9da39c681e76880a40ea18",
+          "binding_scope": "citation association only; not semantic certification"
+        },
+        {
+          "line_number": 266,
+          "line_sha256": "e3dd9217c0bc23b6459448e938481debe210ffadff642766bb4698e0263c8693",
+          "binding_scope": "citation association only; not semantic certification"
+        },
+        {
+          "line_number": 403,
+          "line_sha256": "7171007a7fe8e1d1b39b56c589c3a607107ccff1eb87e3a6d54b433459552073",
+          "binding_scope": "citation association only; not semantic certification"
+        },
+        {
+          "line_number": 435,
+          "line_sha256": "ab2f4000b8f6f892f2528f03805ef7034cb45dc3c49161ea307d2272f16e1fe8",
+          "binding_scope": "citation association only; not semantic certification"
+        }
+      ],
+      "implemented_changes": [
+        4,
+        5
+      ]
+    },
+    {
+      "reference_number": 74,
+      "content_basis": "author_version_only",
+      "doi": "10.23919/JCC.ja.2022-0864",
+      "read_version": "arXiv:2312.01292v1 author preprint",
+      "read_url": "https://arxiv.org/abs/2312.01292v1",
+      "local_file": "work/core_audit_round1_sources/C02_arxiv_2312.01292v1.pdf",
+      "sha256": "187d8cd2260d44de077533918a4b660ae70bb90815f15a9891e0a5d0d1c98ef2",
+      "formal_full_text_obtained": false,
+      "journal_version_parity_verified": false,
+      "human_verified": false,
+      "access_attempts": [
+        {
+          "url": "https://ieeexplore.ieee.org/document/10495871/",
+          "outcome": "robot_verification_not_full_text; stopped"
+        },
+        {
+          "url": "https://api.crossref.org/works/10.23919%2FJCC.ja.2022-0864",
+          "outcome": "metadata_only; saved C02_crossref_metadata.json"
+        }
+      ],
+      "claims": [
+        {
+          "claim_id": "CA1-R74-01",
+          "manuscript_proposition": "单星8波束/61位置，供给需求平方差SOD",
+          "source_locator": "PDF pp.3-4 II-B Eqs.(7)-(8); p.8 IV Table2",
+          "status": "supported",
+          "source_basis": "author_version_only",
+          "claim_type": "source_proposition",
+          "not_counted_as_body_verification": false,
+          "scope_or_comment": "author_preprint_v1",
+          "human_verified": false
+        },
+        {
+          "claim_id": "CA1-R74-02",
+          "manuscript_proposition": "平均功率潜在博弈选束，固定该次选择后内点法优化连续功率",
+          "source_locator": "PDF pp.4-7 III; Algorithms1-2",
+          "status": "supported",
+          "source_basis": "author_version_only",
+          "claim_type": "source_proposition",
+          "not_counted_as_body_verification": false,
+          "scope_or_comment": "author_preprint_v1",
+          "human_verified": false
+        },
+        {
+          "claim_id": "CA1-R74-03",
+          "manuscript_proposition": "G-BH/G-BHPO选束规则相同、功率处理不同，G-BHPO供需差距较低",
+          "source_locator": "PDF p.8 baseline definitions; p.9 Fig4 and text",
+          "status": "supported",
+          "source_basis": "author_version_only",
+          "claim_type": "source_proposition",
+          "not_counted_as_body_verification": false,
+          "scope_or_comment": "author_preprint_v1",
+          "human_verified": false
+        },
+        {
+          "claim_id": "CA1-R74-FORMAL",
+          "manuscript_proposition": "正式版与上述作者稿主张一致",
+          "source_locator": null,
+          "status": "not_verified",
+          "source_basis": "author_version_only",
+          "claim_type": "source_proposition",
+          "not_counted_as_body_verification": false,
+          "scope_or_comment": null,
+          "human_verified": false
+        },
+        {
+          "claim_id": "CA1-R74-PAGES",
+          "manuscript_proposition": "现有书目1-14为最终印刷页码",
+          "source_locator": null,
+          "status": "not_verified",
+          "source_basis": "author_version_only",
+          "claim_type": "source_proposition",
+          "not_counted_as_body_verification": false,
+          "scope_or_comment": null,
+          "human_verified": false
+        }
+      ],
+      "claim_strength_boundary": "Nash/分解机制不等同联合全局最优或星座部署效果",
+      "author_final_verification": "pending",
+      "title": "Joint Beam Scheduling and Power Optimization for Beam Hopping LEO Satellite Systems",
+      "baseline_source_key": "doi:10.23919/jcc.ja.2022-0864",
+      "claim_assessment_target": "v1.5 baseline; v1.6 dispositions recorded in implemented_changes and current citation bindings",
+      "claim_checks_original": [
+        {
+          "claim_id": "CA1-R74-01",
+          "manuscript_lines": [
+            228,
+            267
+          ],
+          "claim": "单星8波束/61位置，供给需求平方差SOD",
+          "locator": "PDF pp.3-4 II-B Eqs.(7)-(8); p.8 IV Table2",
+          "status": "supported",
+          "support_scope": "author_preprint_v1"
+        },
+        {
+          "claim_id": "CA1-R74-02",
+          "manuscript_lines": [
+            228,
+            234,
+            368
+          ],
+          "claim": "平均功率潜在博弈选束，固定该次选择后内点法优化连续功率",
+          "locator": "PDF pp.4-7 III; Algorithms1-2",
+          "status": "supported",
+          "support_scope": "author_preprint_v1"
+        },
+        {
+          "claim_id": "CA1-R74-03",
+          "manuscript_lines": [
+            228,
+            267,
+            389
+          ],
+          "claim": "G-BH/G-BHPO选束规则相同、功率处理不同，G-BHPO供需差距较低",
+          "locator": "PDF p.8 baseline definitions; p.9 Fig4 and text",
+          "status": "supported",
+          "reason": "主稿仅保持规则，不宣称完整照射序列相同；不使用模糊负载点百分比",
+          "support_scope": "author_preprint_v1"
+        },
+        {
+          "claim_id": "CA1-R74-FORMAL",
+          "claim": "正式版与上述作者稿主张一致",
+          "status": "not_verified",
+          "reason": "正式入口为机器人验证，未取得正式全文；不从摘要或二手引用推定"
+        },
+        {
+          "claim_id": "CA1-R74-PAGES",
+          "claim": "现有书目1-14为最终印刷页码",
+          "status": "not_verified",
+          "reason": "Crossref本轮仍列1-14，而相邻已出版综述引用226-239；缺目标正式页首，不作二手替换"
+        }
+      ],
+      "v16_manuscript_bindings": [
+        {
+          "line_number": 228,
+          "line_sha256": "0b5eda6e1b4fbf10ed0b3329e29311adcf9be511d31a1377793d8e83a56b4787",
+          "binding_scope": "citation association only; not semantic certification"
+        },
+        {
+          "line_number": 234,
+          "line_sha256": "568731eae2e13db824f21b92b3eb53e9b9693f217c784ab5f9f35e865d8675ad",
+          "binding_scope": "citation association only; not semantic certification"
+        },
+        {
+          "line_number": 267,
+          "line_sha256": "d69a4253dbaf34edd9ef8f4e8814f8a0f8468f9c47a1d9da0e4a3ef62b7eb90a",
+          "binding_scope": "citation association only; not semantic certification"
+        },
+        {
+          "line_number": 368,
+          "line_sha256": "0441a83ca2ce4240913ba3063244a106555dc237b8542f554f5663dff4948006",
+          "binding_scope": "citation association only; not semantic certification"
+        },
+        {
+          "line_number": 389,
+          "line_sha256": "59b6d1956be23ace8e3aae571e350546c041d88e9e9bf04d42b3c2ffffa9959a",
+          "binding_scope": "citation association only; not semantic certification"
+        }
+      ],
+      "implemented_changes": []
+    },
+    {
+      "reference_number": 75,
+      "evidence_id": "C03",
+      "doi": "10.1109/LCOMM.2022.3213912",
+      "title": "NGSO Satellites Beam Hopping Strategy Based on Load Balancing and Interference Avoidance for Coexistence With GSO Systems",
+      "human_verified": false,
+      "author_final_verification": "pending",
+      "manuscript_occurrences": [
+        {
+          "line": 230,
+          "section": "### 业务需求预测与波束、功率及频谱分配",
+          "text": "多星重叠覆盖引入了服务关联和跨星干扰约束。Lin等[75](https://doi.org/10.1109/LCOMM.2022.3213912)依次优化卫星—小区关联与照射模式，同时考虑负载平衡及对地球同步轨道系统的同频干扰。Zhao等[76](https://doi.org/10.1109/TWC.2025.3545745)结合数字孪生与多智能体学习，根据预测需求和队列状态配置多星波束及星内功率。其[公开预印本](https://arxiv.org/abs/2411.08896v1)采用12星、每星4波束、总计168小区的模型，限制同一小区的服务关联及功率预算。与单星配置相比，多星模型还需协调重叠覆盖中的重复服务、成员间干扰和排队差异。",
+          "block_sha256": "fd522fba83be260a8278781cf0a8cafefd06551a603dc396acef8e066fea9838"
+        },
+        {
+          "line": 234,
+          "section": "### 业务需求预测与波束、功率及频谱分配",
+          "text": "上述模型的分解方式与协调对象存在差异。波束—功率配置[74](https://doi.org/10.23919/JCC.ja.2022-0864)和需求感知配置[76](https://doi.org/10.1109/TWC.2025.3545745)分别处理离散选束与连续功率，多星共存模型[75](https://doi.org/10.1109/LCOMM.2022.3213912)则分阶段确定服务关联与照射模式。三类方法对应单星供需匹配、多星资源协调和共存干扰等不同约束。学习方法将部分计算转移至训练阶段，并依赖全局状态或局部观测。因此，联合配置方法的适用范围与其协调尺度、信息条件和计算成本密切相关。",
+          "block_sha256": "568731eae2e13db824f21b92b3eb53e9b9693f217c784ab5f9f35e865d8675ad"
+        },
+        {
+          "line": 268,
+          "section": "### 跨域资源分配与控制职责",
+          "text": "| 多星与GSO共存[75](https://doi.org/10.1109/LCOMM.2022.3213912) | 服务关联与照射模式 | 负载平衡及共存干扰约束 | 跨星分配同时受到关联和外部干扰限制 |",
+          "block_sha256": "a1fb8bf1da858bf6981dafaf336100e8db83abeb10acb9da75fabd8d6f6f6e25"
+        },
+        {
+          "line": 389,
+          "section": "## 4.2 从局部活动到最终服务的资源耦合",
+          "text": "通信资源耦合作用于持续业务流。单星波束—功率配置[74](https://doi.org/10.23919/JCC.ja.2022-0864)通过连续资源调整改变供需匹配，多星关联和共存模型[75](https://doi.org/10.1109/LCOMM.2022.3213912)纳入成员之间及外部系统的干扰约束，需求感知配置[76](https://doi.org/10.1109/TWC.2025.3545745)中的策略差异随总负载改变。路径时延参与接入选择[77](https://doi.org/10.1016/j.cja.2024.09.039)，容量竞争与故障进入地面中继路由[80](https://doi.org/10.1016/j.dcan.2022.09.022)，激光链路建立则增加路径更新代价[121](https://doi.org/10.1109/TAES.2024.3415571)。资源耦合的作用由这些具体瓶颈决定：照射区域、接入对象和瞬时最短路分别描述服务过程的一部分，功率、后续容量及动作生效时间共同限定实际可获得的服务。",
+          "block_sha256": "59b6d1956be23ace8e3aae571e350546c041d88e9e9bf04d42b3c2ffffa9959a"
+        }
+      ],
+      "registered_urls": [
+        {
+          "URL": "http://xplorestaging.ieee.org/ielx7/4234/10008392/09916289.pdf?arnumber=9916289",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "inherited_evidence_status": "IEEE出版摘要与基本模型说明已核；仿真细节待读",
+      "full_text_opened": false,
+      "agent_targeted_reading": "Access/discovery audit only; no promotion to full-text verification",
+      "opened_version": "No new source body. Exact-title ResearchGate discovery states Request Full-text / No full-text available; IEEE identity/abstract inherited.",
+      "primary_url": "https://ieeexplore.ieee.org/document/9916289/",
+      "claim_checks": [
+        {
+          "claim": "§3.3 orders satellite–cell assignment before illumination-pattern optimization and considers load/GSO interference",
+          "support": "inherited_abstract_support_full_text_not_assessed",
+          "locator": null,
+          "status": "no_full_text_verification"
+        },
+        {
+          "claim": "Table 5 and §4.2 describe association/member/external interference constraints",
+          "support": "full_text_model_conditions_not_assessed",
+          "locator": null,
+          "status": "no_full_text_verification"
+        }
+      ],
+      "unverified_claims": [
+        "The precise two-stage satellite–cell assignment and joint illumination formulations",
+        "Definition of inter-satellite and NGSO-to-GSO constraints",
+        "Information available to the optimization",
+        "Satellite/cell/load and baseline settings",
+        "Whether summary references to member interference correspond to the exact constraint set"
+      ],
+      "model_conditions": "No newly verified full-text model conditions",
+      "access_results": [
+        {
+          "url": "https://www.researchgate.net/publication/364502781_NGSO_Satellites_Beam_Hopping_Strategy_Based_on_Load_Balancing_and_Interference_Avoidance_for_Coexistence_with_GSO_Systems",
+          "result": "Exact-title source discovery says no full text / request PDF; no request sent"
+        }
+      ],
+      "prior_failed_entry_points": "See work/v14_network_evidence.json and registry v14_targeted_reading; old failed page/PDF entries were not retried",
+      "required_revisions": [],
+      "audit_outcome": "full_text_pending_not_a_finding_of_scientific_error",
+      "drafting_action": "Keep current abstract-level framework only and mark these concrete model/result propositions pending; do not add numerical ranking",
+      "content_basis": "no_full_text",
+      "baseline_source_key": "doi:10.1109/lcomm.2022.3213912",
+      "claim_assessment_target": "v1.5 baseline; v1.6 dispositions recorded in implemented_changes and current citation bindings",
+      "claim_checks_original": [
+        {
+          "claim": "§3.3 orders satellite–cell assignment before illumination-pattern optimization and considers load/GSO interference",
+          "support": "inherited_abstract_support_full_text_not_assessed",
+          "locator": null,
+          "status": "no_full_text_verification"
+        },
+        {
+          "claim": "Table 5 and §4.2 describe association/member/external interference constraints",
+          "support": "full_text_model_conditions_not_assessed",
+          "locator": null,
+          "status": "no_full_text_verification"
+        }
+      ],
+      "claims": [
+        {
+          "claim_id": "R1-075-01",
+          "manuscript_proposition": "§3.3 orders satellite–cell assignment before illumination-pattern optimization and considers load/GSO interference",
+          "source_locator": null,
+          "status": "no_full_text_verification",
+          "source_basis": "no_full_text",
+          "claim_type": "source_proposition",
+          "not_counted_as_body_verification": true,
+          "scope_or_comment": null,
+          "human_verified": false
+        },
+        {
+          "claim_id": "R1-075-02",
+          "manuscript_proposition": "Table 5 and §4.2 describe association/member/external interference constraints",
+          "source_locator": null,
+          "status": "no_full_text_verification",
+          "source_basis": "no_full_text",
+          "claim_type": "source_proposition",
+          "not_counted_as_body_verification": true,
+          "scope_or_comment": null,
+          "human_verified": false
+        }
+      ],
+      "v16_manuscript_bindings": [
+        {
+          "line_number": 230,
+          "line_sha256": "fd522fba83be260a8278781cf0a8cafefd06551a603dc396acef8e066fea9838",
+          "binding_scope": "citation association only; not semantic certification"
+        },
+        {
+          "line_number": 234,
+          "line_sha256": "568731eae2e13db824f21b92b3eb53e9b9693f217c784ab5f9f35e865d8675ad",
+          "binding_scope": "citation association only; not semantic certification"
+        },
+        {
+          "line_number": 268,
+          "line_sha256": "a1fb8bf1da858bf6981dafaf336100e8db83abeb10acb9da75fabd8d6f6f6e25",
+          "binding_scope": "citation association only; not semantic certification"
+        },
+        {
+          "line_number": 389,
+          "line_sha256": "59b6d1956be23ace8e3aae571e350546c041d88e9e9bf04d42b3c2ffffa9959a",
+          "binding_scope": "citation association only; not semantic certification"
+        }
+      ],
+      "implemented_changes": []
+    },
+    {
+      "reference_number": 76,
+      "content_basis": "author_version_only",
+      "doi": "10.1109/TWC.2025.3545745",
+      "read_version": "arXiv:2411.08896v1 author preprint",
+      "read_url": "https://arxiv.org/abs/2411.08896v1",
+      "v1_submission_datetime_utc": "2024-10-29T01:32:11Z",
+      "date_semantics": "abs submission history; not inferred journal publication or independent release date",
+      "local_file": "work/core_audit_round1_sources/C04_arxiv_2411.08896v1.pdf",
+      "sha256": "02511ba13f55a622d13ceb4b3261077aa067925b572784e32ae52740e8422bed",
+      "formal_full_text_obtained": false,
+      "journal_version_parity_verified": false,
+      "human_verified": false,
+      "access_attempts": [
+        {
+          "url": "https://ieeexplore.ieee.org/document/10910071/",
+          "outcome": "robot_verification_not_full_text; stopped"
+        }
+      ],
+      "claims": [
+        {
+          "claim_id": "CA1-R76-01",
+          "manuscript_proposition": "12星/每星4波束/168小区，限制同隙小区服务关联及功率",
+          "source_locator": "PDF pp.4-5 III; p.10 TableII",
+          "status": "supported",
+          "source_basis": "author_version_only",
+          "claim_type": "source_proposition",
+          "not_counted_as_body_verification": false,
+          "scope_or_comment": "author_preprint_v1",
+          "human_verified": false
+        },
+        {
+          "claim_id": "CA1-R76-02",
+          "manuscript_proposition": "预测需求、队列、多星选束及星内连续功率，集中训练与局部观测",
+          "source_locator": "PDF pp.4-8 III-IV, Eqs.(9)-(16), Algorithms1-2",
+          "status": "supported",
+          "source_basis": "author_version_only",
+          "claim_type": "source_proposition",
+          "not_counted_as_body_verification": false,
+          "scope_or_comment": "author_preprint_v1",
+          "human_verified": false
+        },
+        {
+          "claim_id": "CA1-R76-03",
+          "manuscript_proposition": "8-20 Gbit/s FPA/DPA吞吐接近，超过20 Gbit/s后DPA较高",
+          "source_locator": "PDF p.11 V-C(3), Fig8 and text; chart visually inspected",
+          "status": "supported",
+          "source_basis": "author_version_only",
+          "claim_type": "source_proposition",
+          "not_counted_as_body_verification": false,
+          "scope_or_comment": "author_preprint_v1",
+          "human_verified": false
+        },
+        {
+          "claim_id": "CA1-R76-04",
+          "manuscript_proposition": "FPA为需求驱动选束/均分功率，DPA为DT内联合选束/离散功率；并非严格独立模块消融",
+          "source_locator": "PDF pp.9-10 V-A baseline definitions; p.11 V-C(3)",
+          "status": "supported",
+          "source_basis": "author_version_only",
+          "claim_type": "source_proposition",
+          "not_counted_as_body_verification": false,
+          "scope_or_comment": "author_preprint_v1",
+          "human_verified": false
+        },
+        {
+          "claim_id": "CA1-R76-05",
+          "manuscript_proposition": "负载参与资源决策，本文据该机制讨论适度联合",
+          "source_locator": "PDF III-IV; manuscript synthesis",
+          "status": "supported",
+          "source_basis": "author_version_only",
+          "claim_type": "review_author_synthesis",
+          "not_counted_as_body_verification": true,
+          "scope_or_comment": "author_preprint_v1",
+          "human_verified": false
+        },
+        {
+          "claim_id": "CA1-R76-FORMAL",
+          "manuscript_proposition": "正式版关键模型和负载结果与作者稿相同",
+          "source_locator": null,
+          "status": "not_verified",
+          "source_basis": "author_version_only",
+          "claim_type": "source_proposition",
+          "not_counted_as_body_verification": false,
+          "scope_or_comment": null,
+          "human_verified": false
+        }
+      ],
+      "claim_strength_boundary": "不采用摘要72.5%/12ms，不复制FPA自比较笔误；不将均分与离散策略差异称纯功率因果消融",
+      "author_final_verification": "pending",
+      "title": "Demand-Aware Beam Hopping and Power Allocation for Load Balancing in Digital Twin Empowered LEO Satellite Networks",
+      "baseline_source_key": "doi:10.1109/twc.2025.3545745",
+      "claim_assessment_target": "v1.5 baseline; v1.6 dispositions recorded in implemented_changes and current citation bindings",
+      "claim_checks_original": [
+        {
+          "claim_id": "CA1-R76-01",
+          "manuscript_lines": [
+            230,
+            269
+          ],
+          "claim": "12星/每星4波束/168小区，限制同隙小区服务关联及功率",
+          "locator": "PDF pp.4-5 III; p.10 TableII",
+          "status": "supported",
+          "support_scope": "author_preprint_v1"
+        },
+        {
+          "claim_id": "CA1-R76-02",
+          "manuscript_lines": [
+            230,
+            234,
+            269
+          ],
+          "claim": "预测需求、队列、多星选束及星内连续功率，集中训练与局部观测",
+          "locator": "PDF pp.4-8 III-IV, Eqs.(9)-(16), Algorithms1-2",
+          "status": "supported",
+          "support_scope": "author_preprint_v1"
+        },
+        {
+          "claim_id": "CA1-R76-03",
+          "manuscript_lines": [
+            232,
+            269,
+            389
+          ],
+          "claim": "8-20 Gbit/s FPA/DPA吞吐接近，超过20 Gbit/s后DPA较高",
+          "locator": "PDF p.11 V-C(3), Fig8 and text; chart visually inspected",
+          "status": "supported",
+          "conditions": "alpha=beta=0.5; graph demand scan8-28Gbit/s; 12-star simulated scenario",
+          "support_scope": "author_preprint_v1"
+        },
+        {
+          "claim_id": "CA1-R76-04",
+          "manuscript_lines": [
+            232
+          ],
+          "claim": "FPA为需求驱动选束/均分功率，DPA为DT内联合选束/离散功率；并非严格独立模块消融",
+          "locator": "PDF pp.9-10 V-A baseline definitions; p.11 V-C(3)",
+          "status": "supported",
+          "support_scope": "author_preprint_v1"
+        },
+        {
+          "claim_id": "CA1-R76-05",
+          "manuscript_lines": [
+            431
+          ],
+          "claim": "负载参与资源决策，作者以该机制讨论适度联合",
+          "locator": "PDF III-IV; manuscript synthesis",
+          "status": "supported",
+          "claim_kind": "grounded_author_synthesis_not_new_experiment",
+          "support_scope": "author_preprint_v1"
+        },
+        {
+          "claim_id": "CA1-R76-FORMAL",
+          "claim": "正式版关键模型和负载结果与作者稿相同",
+          "status": "not_verified",
+          "reason": "未取得正式全文；不能据相同题名、摘要或书目确定结果一致"
+        }
+      ],
+      "v16_manuscript_bindings": [
+        {
+          "line_number": 230,
+          "line_sha256": "fd522fba83be260a8278781cf0a8cafefd06551a603dc396acef8e066fea9838",
+          "binding_scope": "citation association only; not semantic certification"
+        },
+        {
+          "line_number": 234,
+          "line_sha256": "568731eae2e13db824f21b92b3eb53e9b9693f217c784ab5f9f35e865d8675ad",
+          "binding_scope": "citation association only; not semantic certification"
+        },
+        {
+          "line_number": 269,
+          "line_sha256": "2c939188db4d3e2affb28b3cf814cd473684235b57a72f7db51254a4086968b9",
+          "binding_scope": "citation association only; not semantic certification"
+        },
+        {
+          "line_number": 389,
+          "line_sha256": "59b6d1956be23ace8e3aae571e350546c041d88e9e9bf04d42b3c2ffffa9959a",
+          "binding_scope": "citation association only; not semantic certification"
+        },
+        {
+          "line_number": 431,
+          "line_sha256": "5bfce8abfb77da0f548d4a51146c7ef1945cb32a736a23f82c238dce8d3b9acb",
+          "binding_scope": "citation association only; not semantic certification"
+        }
+      ],
+      "implemented_changes": []
+    },
+    {
+      "reference_number": 77,
+      "evidence_id": "C06",
+      "doi": "10.1016/j.cja.2024.09.039",
+      "title": "Routing cost-integrated intelligent handover strategy for multi-layer LEO mega-constellation networks",
+      "human_verified": false,
+      "author_final_verification": "pending",
+      "manuscript_occurrences": [
+        {
+          "line": 240,
+          "section": "### 星地接入、卫星切换与业务连续性",
+          "text": "Yin等[77](https://doi.org/10.1016/j.cja.2024.09.039)将端到端传播时延估计纳入切换评价，采用Dueling Double DQN处理单层切换，并在跨层切换中结合时延抖动预测与切换开销。该方法将接入决策的评价范围扩展至后续网络路径，其仿真结果反映路径评价、预测与学习机制共同作用下的整体策略性能。",
+          "block_sha256": "714883bdc4158daa7dc1604ee84233ea9bae5d73ed5f4e80cac51a4a20871ae2"
+        },
+        {
+          "line": 270,
+          "section": "### 跨域资源分配与控制职责",
+          "text": "| 路由代价感知切换[77](https://doi.org/10.1016/j.cja.2024.09.039) | 接入对象与连接保持 | 路径时延、抖动及切换开销 | 接入选择同时考虑端到端路径质量 |",
+          "block_sha256": "12593b1c6274e0ea5249db1da573e1c2b9069acd2fab5e4b876cde5ffc03f5cb"
+        },
+        {
+          "line": 389,
+          "section": "## 4.2 从局部活动到最终服务的资源耦合",
+          "text": "通信资源耦合作用于持续业务流。单星波束—功率配置[74](https://doi.org/10.23919/JCC.ja.2022-0864)通过连续资源调整改变供需匹配，多星关联和共存模型[75](https://doi.org/10.1109/LCOMM.2022.3213912)纳入成员之间及外部系统的干扰约束，需求感知配置[76](https://doi.org/10.1109/TWC.2025.3545745)中的策略差异随总负载改变。路径时延参与接入选择[77](https://doi.org/10.1016/j.cja.2024.09.039)，容量竞争与故障进入地面中继路由[80](https://doi.org/10.1016/j.dcan.2022.09.022)，激光链路建立则增加路径更新代价[121](https://doi.org/10.1109/TAES.2024.3415571)。资源耦合的作用由这些具体瓶颈决定：照射区域、接入对象和瞬时最短路分别描述服务过程的一部分，功率、后续容量及动作生效时间共同限定实际可获得的服务。",
+          "block_sha256": "59b6d1956be23ace8e3aae571e350546c041d88e9e9bf04d42b3c2ffffa9959a"
+        },
+        {
+          "line": 431,
+          "section": "## 4.5 研究挑战与发展方向",
+          "text": "**端到端服务目标下的适度联合。** 接触图调度[106](https://doi.org/10.1016/j.adhoc.2023.103289)共同选择采集与交付路径，观测—处理安排[53](https://doi.org/10.1002/sat.70082)利用既有采集计划配置下游资源；需求感知波束[76](https://doi.org/10.1109/TWC.2025.3545745)、路由代价感知切换[77](https://doi.org/10.1016/j.cja.2024.09.039)和动态激光链路路由[121](https://doi.org/10.1109/TAES.2024.3415571)分别引入负载、端到端路径和建链代价。上述差异表明，联合范围取决于后续条件对当前任务或路径选择的影响，以及顺序输入和运行反馈保留这些作用的程度。相同请求、负载与扰动条件下的联合、顺序和反馈模型比较，可通过交付量、时延、计算及协调开销揭示联合范围扩大的收益和代价。",
+          "block_sha256": "5bfce8abfb77da0f548d4a51146c7ef1945cb32a736a23f82c238dce8d3b9acb"
+        }
+      ],
+      "registered_urls": [
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S1000936124004060?httpAccept=text/xml",
+          "content-type": "text/xml",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S1000936124004060?httpAccept=text/plain",
+          "content-type": "text/plain",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        }
+      ],
+      "inherited_evidence_status": "开放获取期刊摘要及技术框架已核；完整实验条件待读",
+      "full_text_opened": false,
+      "agent_targeted_reading": "Access/discovery audit only; no promotion to full-text verification",
+      "opened_version": "Inherited SciOpen publisher landing-page abstract only; no new full-text version.",
+      "primary_url": "https://www.sciopen.com/article/10.1016/j.cja.2024.09.039",
+      "claim_checks": [
+        {
+          "claim": "§3.3 single-layer Dueling Double DQN and cross-layer jitter/overhead strategy",
+          "support": "inherited_abstract_support_full_text_not_assessed",
+          "locator": null,
+          "status": "no_full_text_verification"
+        },
+        {
+          "claim": "Table 5 / §4.2 / §4.5: endpoint path participates in access decision",
+          "support": "inherited_framework_support_full_model_not_assessed",
+          "locator": null,
+          "status": "no_full_text_verification"
+        },
+        {
+          "claim": "Simulation describes combined strategy, not independently isolated contributions",
+          "support": "reviewer_scope_qualification_not_a_new_experimental_claim",
+          "locator": null,
+          "status": "no_full_text_verification"
+        }
+      ],
+      "unverified_claims": [
+        "Exact latency model and included/excluded delay components",
+        "Dueling Double DQN state/action/reward",
+        "Cross-layer prediction and switching-overhead formula",
+        "Connection-holding variables and constraints",
+        "Training/test constellation and user scenarios",
+        "Baselines/ablations; combined mechanism interpretation"
+      ],
+      "model_conditions": "No newly verified full-text model conditions",
+      "access_results": [
+        {
+          "url": "https://api.elsevier.com/content/article/PII:S1000936124004060?httpAccept=text/xml",
+          "result": "Publisher-declared public endpoint: SSL unexpected EOF on ordinary request; no content; abandoned"
+        }
+      ],
+      "prior_failed_entry_points": "See work/v14_network_evidence.json and registry v14_targeted_reading; old failed page/PDF entries were not retried",
+      "required_revisions": [],
+      "audit_outcome": "full_text_pending_not_a_finding_of_scientific_error",
+      "drafting_action": "Keep current abstract-level framework only and mark these concrete model/result propositions pending; do not add numerical ranking",
+      "content_basis": "no_full_text",
+      "baseline_source_key": "doi:10.1016/j.cja.2024.09.039",
+      "claim_assessment_target": "v1.5 baseline; v1.6 dispositions recorded in implemented_changes and current citation bindings",
+      "claim_checks_original": [
+        {
+          "claim": "§3.3 single-layer Dueling Double DQN and cross-layer jitter/overhead strategy",
+          "support": "inherited_abstract_support_full_text_not_assessed",
+          "locator": null,
+          "status": "no_full_text_verification"
+        },
+        {
+          "claim": "Table 5 / §4.2 / §4.5: endpoint path participates in access decision",
+          "support": "inherited_framework_support_full_model_not_assessed",
+          "locator": null,
+          "status": "no_full_text_verification"
+        },
+        {
+          "claim": "Simulation describes combined strategy, not independently isolated contributions",
+          "support": "reviewer_scope_qualification_not_a_new_experimental_claim",
+          "locator": null,
+          "status": "no_full_text_verification"
+        }
+      ],
+      "claims": [
+        {
+          "claim_id": "R1-077-01",
+          "manuscript_proposition": "§3.3 single-layer Dueling Double DQN and cross-layer jitter/overhead strategy",
+          "source_locator": null,
+          "status": "no_full_text_verification",
+          "source_basis": "no_full_text",
+          "claim_type": "source_proposition",
+          "not_counted_as_body_verification": true,
+          "scope_or_comment": null,
+          "human_verified": false
+        },
+        {
+          "claim_id": "R1-077-02",
+          "manuscript_proposition": "Table 5 / §4.2 / §4.5: endpoint path participates in access decision",
+          "source_locator": null,
+          "status": "no_full_text_verification",
+          "source_basis": "no_full_text",
+          "claim_type": "source_proposition",
+          "not_counted_as_body_verification": true,
+          "scope_or_comment": null,
+          "human_verified": false
+        },
+        {
+          "claim_id": "R1-077-03",
+          "manuscript_proposition": "Simulation describes combined strategy, not independently isolated contributions",
+          "source_locator": null,
+          "status": "no_full_text_verification",
+          "source_basis": "no_full_text",
+          "claim_type": "source_proposition",
+          "not_counted_as_body_verification": true,
+          "scope_or_comment": null,
+          "human_verified": false
+        }
+      ],
+      "v16_manuscript_bindings": [
+        {
+          "line_number": 240,
+          "line_sha256": "714883bdc4158daa7dc1604ee84233ea9bae5d73ed5f4e80cac51a4a20871ae2",
+          "binding_scope": "citation association only; not semantic certification"
+        },
+        {
+          "line_number": 270,
+          "line_sha256": "12593b1c6274e0ea5249db1da573e1c2b9069acd2fab5e4b876cde5ffc03f5cb",
+          "binding_scope": "citation association only; not semantic certification"
+        },
+        {
+          "line_number": 389,
+          "line_sha256": "59b6d1956be23ace8e3aae571e350546c041d88e9e9bf04d42b3c2ffffa9959a",
+          "binding_scope": "citation association only; not semantic certification"
+        },
+        {
+          "line_number": 431,
+          "line_sha256": "5bfce8abfb77da0f548d4a51146c7ef1945cb32a736a23f82c238dce8d3b9acb",
+          "binding_scope": "citation association only; not semantic certification"
+        }
+      ],
+      "implemented_changes": []
+    },
+    {
+      "reference_number": 78,
+      "doi": "10.1145/3589334.3645328",
+      "title": "A Multifaceted Look at Starlink Performance",
+      "content_basis": "formal_full_text",
+      "read_version": "Author-team public 12-page WWW 2024 proceedings typeset paper, with matching DOI and ACM Reference Format",
+      "source_url": "https://spearlab.nl/papers/2024/starlinkWWW2024.pdf",
+      "source_access": "Web reader reopened public proceedings PDF this round; existing 13-page arXiv v2 also used for section cross-check. No new restricted local download attempted.",
+      "checked_locations": [
+        "PDF p.1, ACM Reference Format and DOI",
+        "PDF pp.2-3, Sections 3.1 and 3.3",
+        "PDF pp.7-8, Section 6.2 and Figure 16"
+      ],
+      "claims": [
+        {
+          "claim_id": "R1-078-01",
+          "manuscript_proposition": "研究包含多国测量及英国、德国受控终端实验。",
+          "source_locator": "§§3.1,3.3, PDF pp.2-3",
+          "status": "supported",
+          "source_basis": "formal_full_text",
+          "claim_type": "source_proposition",
+          "not_counted_as_body_verification": false,
+          "scope_or_comment": null,
+          "human_verified": false
+        },
+        {
+          "claim_id": "R1-078-02",
+          "manuscript_proposition": "受控实验在15秒重配置边界附近观察到时延和吞吐变化。",
+          "source_locator": "§6.2 Global Scheduling, Fig.16a-b, PDF pp.7-8",
+          "status": "supported",
+          "source_basis": "formal_full_text",
+          "claim_type": "source_proposition",
+          "not_counted_as_body_verification": false,
+          "scope_or_comment": null,
+          "human_verified": false
+        },
+        {
+          "claim_id": "R1-078-03",
+          "manuscript_proposition": "限制英国终端视场后，单候选卫星窗口内仍有上述变化。",
+          "source_locator": "§3.3; §6.2 Disproving Satellite Handoff Hypothesis, Fig.16c, PDF pp.3,7-8",
+          "status": "supported",
+          "source_basis": "formal_full_text",
+          "claim_type": "source_proposition",
+          "not_counted_as_body_verification": false,
+          "scope_or_comment": null,
+          "human_verified": false
+        },
+        {
+          "claim_id": "R1-078-04",
+          "manuscript_proposition": "周期性全局调度及内部频率/路由重分配是原作者解释，而非控制器直接观测。",
+          "source_locator": "§6.2 Scheduling Updates and Analysis Summary, PDF pp.7-8",
+          "status": "supported_with_scope",
+          "source_basis": "formal_full_text",
+          "claim_type": "source_proposition",
+          "not_counted_as_body_verification": false,
+          "scope_or_comment": "正文保留推测与直接观测的区别；所报告现象属于该论文的测量系统与时期，不代表当前运营状态。",
+          "human_verified": false
+        }
+      ],
+      "required_revision": "主体描述可保留；表5宜明确为“单候选卫星窗口”，使简表与正文的观测条件完全一致。",
+      "version_parity": "Checked propositions match the public proceedings body and arXiv v2; whole-document equivalence was not established.",
+      "human_verified": false,
+      "agent_check_date": "2026-10-13",
+      "metadata_check": {
+        "registry_url": "https://api.crossref.org/works/10.1145/3589334.3645328",
+        "title": "A Multifaceted Look at Starlink Performance",
+        "doi": "10.1145/3589334.3645328",
+        "volume": null,
+        "issue": null,
+        "page": "2723-2734",
+        "article_number": null,
+        "status": "identity_matches_manuscript_reference",
+        "metadata_file": "work/core_audit_round1_sources/ref_78_crossref.json"
+      },
+      "manuscript_bindings": [
+        {
+          "line": 242,
+          "line_sha256": "65d82135f1b33cacedd7be8e1b8ddfeca642467e6560613368f3fdd891aaf516",
+          "binding_scope": "source-associated line; propositions are assessed separately in claims"
+        },
+        {
+          "line": 271,
+          "line_sha256": "7bb9f68e406be3afbe125fbf2cc0d05fa609d119d98755d65d83ae2c8d9f0270",
+          "binding_scope": "source-associated line; propositions are assessed separately in claims"
+        },
+        {
+          "line": 421,
+          "line_sha256": "e687c47c791c56db25d57a4d54228a37617098021bc3e99afd8426d0e4c8c643",
+          "binding_scope": "source-associated line; propositions are assessed separately in claims"
+        }
+      ],
+      "author_final_verification": "pending",
+      "baseline_source_key": "doi:10.1145/3589334.3645328",
+      "claim_assessment_target": "v1.5 baseline; v1.6 dispositions recorded in implemented_changes and current citation bindings",
+      "author_comparison_file": "work/v14_sources/C10_arxiv_v2.pdf",
+      "author_comparison_sha256": "c27c123b7e11633302f3deeeb16b345dfce4b719b40ea5d69152188f6237c55b",
+      "local_formal_pdf": null,
+      "local_file_scope": "Formal WWW PDF read at the public source_url; saved comparison file is arXiv v2, not the formally typeset PDF.",
+      "claim_checks_original": [
+        {
+          "claim_id": "R1-078-01",
+          "manuscript_proposition": "研究包含多国测量及英国、德国受控终端实验。",
+          "source_locator": "§§3.1,3.3, PDF pp.2-3",
+          "status": "supported",
+          "comment": "",
+          "human_verified": false
+        },
+        {
+          "claim_id": "R1-078-02",
+          "manuscript_proposition": "受控实验在15秒重配置边界附近观察到时延和吞吐变化。",
+          "source_locator": "§6.2 Global Scheduling, Fig.16a-b, PDF pp.7-8",
+          "status": "supported",
+          "comment": "",
+          "human_verified": false
+        },
+        {
+          "claim_id": "R1-078-03",
+          "manuscript_proposition": "限制英国终端视场后，单候选卫星窗口内仍有上述变化。",
+          "source_locator": "§3.3; §6.2 Disproving Satellite Handoff Hypothesis, Fig.16c, PDF pp.3,7-8",
+          "status": "supported",
+          "comment": "",
+          "human_verified": false
+        },
+        {
+          "claim_id": "R1-078-04",
+          "manuscript_proposition": "周期性全局调度及内部频率/路由重分配是原作者解释，而非控制器直接观测。",
+          "source_locator": "§6.2 Scheduling Updates and Analysis Summary, PDF pp.7-8",
+          "status": "supported_with_scope",
+          "comment": "正文保留推测与直接观测的区别；所报告现象属于该论文的测量系统与时期，不代表当前运营状态。",
+          "human_verified": false
+        }
+      ],
+      "v16_manuscript_bindings": [
+        {
+          "line_number": 242,
+          "line_sha256": "65d82135f1b33cacedd7be8e1b8ddfeca642467e6560613368f3fdd891aaf516",
+          "binding_scope": "citation association only; not semantic certification"
+        },
+        {
+          "line_number": 271,
+          "line_sha256": "b4def63ccc20b49a4e2953a93c3fbea259a520d94d528815a49f6d1758e1df06",
+          "binding_scope": "citation association only; not semantic certification"
+        },
+        {
+          "line_number": 421,
+          "line_sha256": "e687c47c791c56db25d57a4d54228a37617098021bc3e99afd8426d0e4c8c643",
+          "binding_scope": "citation association only; not semantic certification"
+        }
+      ],
+      "implemented_changes": [
+        8
+      ]
+    },
+    {
+      "reference_number": 79,
+      "evidence_id": "C07",
+      "doi": "10.1016/j.comcom.2022.02.015",
+      "title": "Scalable routing in low-Earth orbit satellite constellations: Architecture and algorithms",
+      "human_verified": false,
+      "author_final_verification": "pending",
+      "manuscript_occurrences": [
+        {
+          "line": 248,
+          "section": "### 动态拓扑、星间路由与拥塞恢复",
+          "text": "Zhang和Yeung[79](https://doi.org/10.1016/j.comcom.2022.02.015)面向无星间链路、地面站辅助的低轨网络，采用分层路由协调路径时延与稳定性。Zhang等[80](https://doi.org/10.1016/j.dcan.2022.09.022)同样研究地面中继网络，通过分段路由实现流量工程和故障重路由。前者主要降低正常拓扑演化中的路径更新负担，后者进一步处理容量分配及失效恢复。上述方法的适用对象是地面辅助网络，其链路结构与直接激光星间转发不同。",
+          "block_sha256": "adca75753946ada32a9204a683a685b15deee2f32adc44f91a8dd6b8eb4c7485"
+        },
+        {
+          "line": 272,
+          "section": "### 跨域资源分配与控制职责",
+          "text": "| 分层及分段路由[79](https://doi.org/10.1016/j.comcom.2022.02.015)、[80](https://doi.org/10.1016/j.dcan.2022.09.022) | 路径稳定、流量与恢复 | 无直接星间链路的地面辅助网络 | 更新组织、容量分配和失效恢复具有不同职责 |",
+          "block_sha256": "d2ca25e352f5d296bae45653a8c47f7f7966a085bb608152b3b078fc5756bff2"
+        },
+        {
+          "line": 370,
+          "section": "## 4.1 求解机制与可扩展性",
+          "text": "局部化与计划复用在降低计算负担的同时，涉及计划质量与协调范围的权衡。Parjan和Chien[34](https://doi.org/10.2514/1.I011215)在连续规划实验中发现，增量修改的计算速度优于重新生成计划，但产生了更多重复观测。Zilberstein等[35](https://doi.org/10.1613/jair.1.16997)利用几何邻域划分局部问题，在大规模算例中降低最慢代理的计算时间和消息量，任务满足率与比较方法仍存在差距。前者复用已有安排，后者限制协调范围，二者分别通过时间延续性和空间局部性组织计算。地面辅助的稳定路由[79](https://doi.org/10.1016/j.comcom.2022.02.015)同样减少路径更新负担，动态激光链路路由[121](https://doi.org/10.1109/TAES.2024.3415571)则表明路径保持的时延收益取决于建链代价。计划复用与路径保持均利用既有决策的连续性，其效果分别受重复任务、机会损失及动作成本影响。表8归纳主要技术机制及其取舍。",
+          "block_sha256": "5d0632a91577964523d13dfc751bf474f54181ef7dbd23d5227e65e2a1eb0157"
+        }
+      ],
+      "registered_urls": [
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S0140366422000585?httpAccept=text/xml",
+          "content-type": "text/xml",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S0140366422000585?httpAccept=text/plain",
+          "content-type": "text/plain",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        }
+      ],
+      "inherited_evidence_status": "出版社摘要已核；路由稳定性及仿真网络待读",
+      "full_text_opened": false,
+      "agent_targeted_reading": "Access/discovery audit only; no promotion to full-text verification",
+      "opened_version": "Inherited publisher/institutional abstract only; institutional record reports no attached files.",
+      "primary_url": "https://hub.hku.hk/handle/10722/339786",
+      "claim_checks": [
+        {
+          "claim": "§3.3 / Table 5: no-ISL ground-assisted network and layered stability/delay routing",
+          "support": "inherited_abstract_scope_support_full_text_not_assessed",
+          "locator": null,
+          "status": "no_full_text_verification"
+        },
+        {
+          "claim": "§4.1: reduces path-update burden",
+          "support": "inherited_abstract_purpose_result_full_experiments_not_assessed",
+          "locator": null,
+          "status": "no_full_text_verification"
+        }
+      ],
+      "unverified_claims": [
+        "Two-layer core/edge network model and available ground relay links",
+        "DBR/DAR exact retention/update conditions",
+        "Storage, delay and control-cost comparisons",
+        "Simulation scenarios/traffic/time horizon and baselines",
+        "Boundary of the reported reduction in path-update burden"
+      ],
+      "model_conditions": "No newly verified full-text model conditions",
+      "access_results": [
+        {
+          "url": "https://api.elsevier.com/content/article/PII:S0140366422000585?httpAccept=text/xml",
+          "result": "Publisher-declared public endpoint: SSL unexpected EOF on ordinary request; no content; abandoned"
+        }
+      ],
+      "prior_failed_entry_points": "See work/v14_network_evidence.json and registry v14_targeted_reading; old failed page/PDF entries were not retried",
+      "required_revisions": [],
+      "audit_outcome": "full_text_pending_not_a_finding_of_scientific_error",
+      "drafting_action": "Keep current abstract-level framework only and mark these concrete model/result propositions pending; do not add numerical ranking",
+      "content_basis": "no_full_text",
+      "baseline_source_key": "doi:10.1016/j.comcom.2022.02.015",
+      "claim_assessment_target": "v1.5 baseline; v1.6 dispositions recorded in implemented_changes and current citation bindings",
+      "claim_checks_original": [
+        {
+          "claim": "§3.3 / Table 5: no-ISL ground-assisted network and layered stability/delay routing",
+          "support": "inherited_abstract_scope_support_full_text_not_assessed",
+          "locator": null,
+          "status": "no_full_text_verification"
+        },
+        {
+          "claim": "§4.1: reduces path-update burden",
+          "support": "inherited_abstract_purpose_result_full_experiments_not_assessed",
+          "locator": null,
+          "status": "no_full_text_verification"
+        }
+      ],
+      "claims": [
+        {
+          "claim_id": "R1-079-01",
+          "manuscript_proposition": "§3.3 / Table 5: no-ISL ground-assisted network and layered stability/delay routing",
+          "source_locator": null,
+          "status": "no_full_text_verification",
+          "source_basis": "no_full_text",
+          "claim_type": "source_proposition",
+          "not_counted_as_body_verification": true,
+          "scope_or_comment": null,
+          "human_verified": false
+        },
+        {
+          "claim_id": "R1-079-02",
+          "manuscript_proposition": "§4.1: reduces path-update burden",
+          "source_locator": null,
+          "status": "no_full_text_verification",
+          "source_basis": "no_full_text",
+          "claim_type": "source_proposition",
+          "not_counted_as_body_verification": true,
+          "scope_or_comment": null,
+          "human_verified": false
+        }
+      ],
+      "v16_manuscript_bindings": [
+        {
+          "line_number": 248,
+          "line_sha256": "17195770394498695e5872be199b0ef9bc869750d2e1c17cf8621c9c72fd6730",
+          "binding_scope": "citation association only; not semantic certification"
+        },
+        {
+          "line_number": 272,
+          "line_sha256": "bb7223ab09ccf03a6048d4000510a7edc6456d26858ad1f6ba6a13e4eb7b63b7",
+          "binding_scope": "citation association only; not semantic certification"
+        },
+        {
+          "line_number": 370,
+          "line_sha256": "5d0632a91577964523d13dfc751bf474f54181ef7dbd23d5227e65e2a1eb0157",
+          "binding_scope": "citation association only; not semantic certification"
+        }
+      ],
+      "implemented_changes": [
+        14
+      ]
+    },
+    {
+      "reference_number": 80,
+      "evidence_id": "C08",
+      "doi": "10.1016/j.dcan.2022.09.022",
+      "title": "Segment routing for traffic engineering and effective recovery in low-earth orbit satellite constellations",
+      "human_verified": false,
+      "author_final_verification": "pending",
+      "manuscript_occurrences": [
+        {
+          "line": 248,
+          "section": "### 动态拓扑、星间路由与拥塞恢复",
+          "text": "Zhang和Yeung[79](https://doi.org/10.1016/j.comcom.2022.02.015)面向无星间链路、地面站辅助的低轨网络，采用分层路由协调路径时延与稳定性。Zhang等[80](https://doi.org/10.1016/j.dcan.2022.09.022)同样研究地面中继网络，通过分段路由实现流量工程和故障重路由。前者主要降低正常拓扑演化中的路径更新负担，后者进一步处理容量分配及失效恢复。上述方法的适用对象是地面辅助网络，其链路结构与直接激光星间转发不同。",
+          "block_sha256": "adca75753946ada32a9204a683a685b15deee2f32adc44f91a8dd6b8eb4c7485"
+        },
+        {
+          "line": 272,
+          "section": "### 跨域资源分配与控制职责",
+          "text": "| 分层及分段路由[79](https://doi.org/10.1016/j.comcom.2022.02.015)、[80](https://doi.org/10.1016/j.dcan.2022.09.022) | 路径稳定、流量与恢复 | 无直接星间链路的地面辅助网络 | 更新组织、容量分配和失效恢复具有不同职责 |",
+          "block_sha256": "d2ca25e352f5d296bae45653a8c47f7f7966a085bb608152b3b078fc5756bff2"
+        },
+        {
+          "line": 389,
+          "section": "## 4.2 从局部活动到最终服务的资源耦合",
+          "text": "通信资源耦合作用于持续业务流。单星波束—功率配置[74](https://doi.org/10.23919/JCC.ja.2022-0864)通过连续资源调整改变供需匹配，多星关联和共存模型[75](https://doi.org/10.1109/LCOMM.2022.3213912)纳入成员之间及外部系统的干扰约束，需求感知配置[76](https://doi.org/10.1109/TWC.2025.3545745)中的策略差异随总负载改变。路径时延参与接入选择[77](https://doi.org/10.1016/j.cja.2024.09.039)，容量竞争与故障进入地面中继路由[80](https://doi.org/10.1016/j.dcan.2022.09.022)，激光链路建立则增加路径更新代价[121](https://doi.org/10.1109/TAES.2024.3415571)。资源耦合的作用由这些具体瓶颈决定：照射区域、接入对象和瞬时最短路分别描述服务过程的一部分，功率、后续容量及动作生效时间共同限定实际可获得的服务。",
+          "block_sha256": "59b6d1956be23ace8e3aae571e350546c041d88e9e9bf04d42b3c2ffffa9959a"
+        }
+      ],
+      "registered_urls": [
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S2352864822001973?httpAccept=text/xml",
+          "content-type": "text/xml",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S2352864822001973?httpAccept=text/plain",
+          "content-type": "text/plain",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        }
+      ],
+      "inherited_evidence_status": "出版社摘要及目标已核；恢复事件和拓扑模型待读",
+      "full_text_opened": false,
+      "agent_targeted_reading": "Access/discovery audit only; no promotion to full-text verification",
+      "opened_version": "Inherited publisher/institutional abstract only; institutional record reports no attached files.",
+      "primary_url": "https://hub.hku.hk/handle/10722/339783",
+      "claim_checks": [
+        {
+          "claim": "§3.3 / Table 5: ground-relay segment routing for traffic engineering and recovery",
+          "support": "inherited_abstract_scope_support_full_text_not_assessed",
+          "locator": null,
+          "status": "no_full_text_verification"
+        },
+        {
+          "claim": "§3.3 / §4.2: capacity allocation/competition and failure updates",
+          "support": "full_text_variables_and_conditions_not_assessed",
+          "locator": null,
+          "status": "no_full_text_verification"
+        }
+      ],
+      "unverified_claims": [
+        "Segment encoding and ground-relay topology",
+        "Traffic-splitting decision variables and capacity assumptions",
+        "DBTS/DBTS+ delay bound and path candidate construction",
+        "Failure event definitions, LFA/LFA+ coverage denominator and restoration time",
+        "Whether manuscript capacity-allocation wording denotes traffic assignment or physical-capacity decisions"
+      ],
+      "model_conditions": "No newly verified full-text model conditions",
+      "access_results": [
+        {
+          "url": "https://api.elsevier.com/content/article/PII:S2352864822001973?httpAccept=text/xml",
+          "result": "Publisher-declared public endpoint: SSL unexpected EOF on ordinary request; no content; abandoned"
+        }
+      ],
+      "prior_failed_entry_points": "See work/v14_network_evidence.json and registry v14_targeted_reading; old failed page/PDF entries were not retried",
+      "required_revisions": [],
+      "audit_outcome": "full_text_pending_not_a_finding_of_scientific_error",
+      "drafting_action": "Keep current abstract-level framework only and mark these concrete model/result propositions pending; do not add numerical ranking",
+      "content_basis": "no_full_text",
+      "baseline_source_key": "doi:10.1016/j.dcan.2022.09.022",
+      "claim_assessment_target": "v1.5 baseline; v1.6 dispositions recorded in implemented_changes and current citation bindings",
+      "claim_checks_original": [
+        {
+          "claim": "§3.3 / Table 5: ground-relay segment routing for traffic engineering and recovery",
+          "support": "inherited_abstract_scope_support_full_text_not_assessed",
+          "locator": null,
+          "status": "no_full_text_verification"
+        },
+        {
+          "claim": "§3.3 / §4.2: capacity allocation/competition and failure updates",
+          "support": "full_text_variables_and_conditions_not_assessed",
+          "locator": null,
+          "status": "no_full_text_verification"
+        }
+      ],
+      "claims": [
+        {
+          "claim_id": "R1-080-01",
+          "manuscript_proposition": "§3.3 / Table 5: ground-relay segment routing for traffic engineering and recovery",
+          "source_locator": null,
+          "status": "no_full_text_verification",
+          "source_basis": "no_full_text",
+          "claim_type": "source_proposition",
+          "not_counted_as_body_verification": true,
+          "scope_or_comment": null,
+          "human_verified": false
+        },
+        {
+          "claim_id": "R1-080-02",
+          "manuscript_proposition": "§3.3 / §4.2: capacity allocation/competition and failure updates",
+          "source_locator": null,
+          "status": "no_full_text_verification",
+          "source_basis": "no_full_text",
+          "claim_type": "source_proposition",
+          "not_counted_as_body_verification": true,
+          "scope_or_comment": null,
+          "human_verified": false
+        }
+      ],
+      "v16_manuscript_bindings": [
+        {
+          "line_number": 248,
+          "line_sha256": "17195770394498695e5872be199b0ef9bc869750d2e1c17cf8621c9c72fd6730",
+          "binding_scope": "citation association only; not semantic certification"
+        },
+        {
+          "line_number": 272,
+          "line_sha256": "bb7223ab09ccf03a6048d4000510a7edc6456d26858ad1f6ba6a13e4eb7b63b7",
+          "binding_scope": "citation association only; not semantic certification"
+        },
+        {
+          "line_number": 389,
+          "line_sha256": "59b6d1956be23ace8e3aae571e350546c041d88e9e9bf04d42b3c2ffffa9959a",
+          "binding_scope": "citation association only; not semantic certification"
+        }
+      ],
+      "implemented_changes": [
+        13,
+        14
+      ]
+    },
+    {
+      "reference_number": 81,
+      "content_basis": "formal_full_text",
+      "doi": "10.3390/s25030902",
+      "read_version": "PMC11820243.1 published journal article XML; sensors-25-00902",
+      "pmcid": "PMC11820243",
+      "pmid": "39943541",
+      "epub_date_in_xml": "2025-02-02",
+      "read_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11820243/fullTextXML",
+      "article_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11820243/",
+      "local_file": "work/core_audit_round1_sources/C09_PMC11820243_published.xml",
+      "sha256": "a6b0d022d816ffcace866c39eee89d5618c3f77be387d5836a8e0ddedc6fe39e",
+      "formal_full_text_obtained": true,
+      "journal_version_parity_verified": false,
+      "key_claims_confirmed_in_formal_version": true,
+      "parity_scope_note": "仅核对本稿所用机制及比较范围，不声明两版本全文完全一致",
+      "human_verified": false,
+      "access_attempts": [
+        {
+          "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11820243/fullTextXML",
+          "outcome": "success; archived published full text saved"
+        },
+        {
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11820243/",
+          "outcome": "challenge; stopped"
+        },
+        {
+          "url": "https://europepmc.org/articles/PMC11820243?pdf=render",
+          "outcome": "403; stopped"
+        },
+        {
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/utils/oa/oa.fcgi?id=PMC11820243",
+          "outcome": "404; stopped"
+        }
+      ],
+      "claims": [
+        {
+          "claim_id": "CA1-R81-01",
+          "manuscript_proposition": "NCC/RRSC全局服务区和频谱配置约束SBS局部资源安排；UT提交需求",
+          "source_locator": "Section4, XML sec4-sensors-25-00902, SRS/RRSC/USS descriptions",
+          "status": "supported",
+          "source_basis": "formal_full_text",
+          "claim_type": "source_proposition",
+          "not_counted_as_body_verification": false,
+          "scope_or_comment": "published_PMC_XML",
+          "human_verified": false
+        },
+        {
+          "claim_id": "CA1-R81-02",
+          "manuscript_proposition": "RRSC价格与SBS需求交换组织资源协调",
+          "source_locator": "Section6.2, XML sec6dot2-sensors-25-00902, Eqs.(1)-(8)",
+          "status": "supported",
+          "source_basis": "formal_full_text",
+          "claim_type": "source_proposition",
+          "not_counted_as_body_verification": false,
+          "scope_or_comment": "published_PMC_XML",
+          "human_verified": false
+        },
+        {
+          "claim_id": "CA1-R81-03",
+          "manuscript_proposition": "频谱、用户和波束管理的结果分属不同模块/对照/负载条件",
+          "source_locator": "Section7.2, XML sec7dot2-sensors-25-00902, Figs.10-13",
+          "status": "supported",
+          "source_basis": "formal_full_text",
+          "claim_type": "source_proposition",
+          "not_counted_as_body_verification": false,
+          "scope_or_comment": "published_PMC_XML",
+          "human_verified": false
+        },
+        {
+          "claim_id": "CA1-R81-04",
+          "manuscript_proposition": "层间交换及配置生效约束运行效果；不能由层次或组件收益证明全架构实时性",
+          "source_locator": "Section8.2, XML sec8dot2-sensors-25-00902; Section4; manuscript synthesis",
+          "status": "supported",
+          "source_basis": "formal_full_text",
+          "claim_type": "source_proposition",
+          "not_counted_as_body_verification": false,
+          "scope_or_comment": "published_PMC_XML",
+          "human_verified": false
+        }
+      ],
+      "version_differences": [
+        "作者稿Table2/Figs.11-14变为正式Table3/Figs.10-13",
+        "正式Table3新增10,000终端、随机分布、泊松业务均值0.3、功率预算、1024bit包长等参数",
+        "正式8.2新增全球频谱采集、状态开销、实时调度及技术应用限制",
+        "当前稿所用层级/配置约束/需求价格/组件对照范围在正式版相符"
+      ],
+      "claim_strength_boundary": "仅架构、算法机制与组件仿真，不称商业部署或完整架构实时保证；博弈推导未独立复验",
+      "author_final_verification": "pending",
+      "title": "Hierarchical Resource Management for Mega-LEO Satellite Constellation",
+      "baseline_source_key": "doi:10.3390/s25030902",
+      "claim_assessment_target": "v1.5 baseline; v1.6 dispositions recorded in implemented_changes and current citation bindings",
+      "claim_checks_original": [
+        {
+          "claim_id": "CA1-R81-01",
+          "manuscript_lines": [
+            256,
+            274,
+            339,
+            401
+          ],
+          "claim": "NCC/RRSC全局服务区和频谱配置约束SBS局部资源安排；UT提交需求",
+          "locator": "Section4, XML sec4-sensors-25-00902, SRS/RRSC/USS descriptions",
+          "status": "supported",
+          "support_scope": "published_PMC_XML"
+        },
+        {
+          "claim_id": "CA1-R81-02",
+          "manuscript_lines": [
+            256,
+            274,
+            401
+          ],
+          "claim": "RRSC价格与SBS需求交换组织资源协调",
+          "locator": "Section6.2, XML sec6dot2-sensors-25-00902, Eqs.(1)-(8)",
+          "status": "supported",
+          "support_scope": "published_PMC_XML"
+        },
+        {
+          "claim_id": "CA1-R81-03",
+          "manuscript_lines": [
+            258
+          ],
+          "claim": "频谱、用户和波束管理的结果分属不同模块/对照/负载条件",
+          "locator": "Section7.2, XML sec7dot2-sensors-25-00902, Figs.10-13",
+          "status": "supported",
+          "support_scope": "published_PMC_XML"
+        },
+        {
+          "claim_id": "CA1-R81-04",
+          "manuscript_lines": [
+            258,
+            401,
+            433
+          ],
+          "claim": "层间交换及配置生效约束运行效果；不能由层次或组件收益证明全架构实时性",
+          "locator": "Section8.2, XML sec8dot2-sensors-25-00902; Section4; manuscript synthesis",
+          "status": "supported",
+          "claim_kind": "grounded_author_synthesis_not_full_system_performance",
+          "support_scope": "published_PMC_XML"
+        }
+      ],
+      "v16_manuscript_bindings": [
+        {
+          "line_number": 256,
+          "line_sha256": "76340f2e715a220b344f92534aeb1018eaa2f4b7ebcff436e4b694347e1ed8c3",
+          "binding_scope": "citation association only; not semantic certification"
+        },
+        {
+          "line_number": 274,
+          "line_sha256": "c3fe69679ac369e10a32e3a29798e238ad00b8ae93a2f656a24c60ff34fe1250",
+          "binding_scope": "citation association only; not semantic certification"
+        },
+        {
+          "line_number": 339,
+          "line_sha256": "681d9696beb9b9d47cf0fda50aceb2a48619ca9bba46803b65d09e4a39eed80f",
+          "binding_scope": "citation association only; not semantic certification"
+        },
+        {
+          "line_number": 401,
+          "line_sha256": "7e41ee4914c39c81a20deb7aad3931078416d150a68d7d5454c59cf32537384d",
+          "binding_scope": "citation association only; not semantic certification"
+        },
+        {
+          "line_number": 433,
+          "line_sha256": "129018575a108914f2ea3e8d3efc6309b370ae929084677d9cb40f97ae817533",
+          "binding_scope": "citation association only; not semantic certification"
+        }
+      ],
+      "implemented_changes": [
+        6,
+        7
+      ]
+    },
+    {
+      "reference_number": 106,
+      "doi": "10.1016/j.adhoc.2023.103289",
+      "title": "A delay-tolerant network approach to satellite pickup and delivery scheduling",
+      "content_basis": "formal_full_text",
+      "read_version": "Final Published Version from Strathprints, Ad Hoc Networks 151 (2023) 103289; 13 pages",
+      "source_url": "https://strathprints.strath.ac.uk/86667/7/Lowe_etal_AHN_2023_A_delay_tolerant_network_approach_to_satellite_pickup_and_delivery_scheduling.pdf",
+      "identity_url": "https://strathprints.strath.ac.uk/86667/",
+      "source_access": "Existing final PDF reread; repository identity reopened and current Crossref metadata compared.",
+      "checked_locations": [
+        "PDF pp.4-7, Sections 3-4.2, Algorithm 1",
+        "PDF p.8, Section 4.3",
+        "PDF pp.9-12, Section 5.4 and Figures 6-8"
+      ],
+      "claims": [
+        {
+          "claim_id": "R1-106-01",
+          "manuscript_proposition": "CGS逐请求搜索采集及交付路径，以最早交付选执行卫星，不寻求任务全集全局最优。",
+          "source_locator": "§4 and Algorithm 1, PDF pp.6-7",
+          "status": "supported",
+          "source_basis": "formal_full_text",
+          "claim_type": "source_proposition",
+          "not_counted_as_body_verification": false,
+          "scope_or_comment": null,
+          "human_verified": false
+        },
+        {
+          "claim_id": "R1-106-02",
+          "manuscript_proposition": "资源感知实现扣减已分配接触容量，同时将存储与能源视为无限。",
+          "source_locator": "§4.2-4.3, PDF pp.7-8",
+          "status": "supported",
+          "source_basis": "formal_full_text",
+          "claim_type": "source_proposition",
+          "not_counted_as_body_verification": false,
+          "scope_or_comment": null,
+          "human_verified": false
+        },
+        {
+          "claim_id": "R1-106-03",
+          "manuscript_proposition": "实验模型包含16星、25目标和6网关。",
+          "source_locator": "§5.3; captions of Figs.6-8, PDF pp.9-11",
+          "status": "supported",
+          "source_basis": "formal_full_text",
+          "claim_type": "source_proposition",
+          "not_counted_as_body_verification": false,
+          "scope_or_comment": null,
+          "human_verified": false
+        },
+        {
+          "claim_id": "R1-106-04",
+          "manuscript_proposition": "名义条件下资源感知及预定源路由有交付收益，但成功请求的平均时延可能更长。",
+          "source_locator": "§5.4.1, Fig.6c/i/f, PDF pp.9-10",
+          "status": "supported_with_scope",
+          "source_basis": "formal_full_text",
+          "claim_type": "source_proposition",
+          "not_counted_as_body_verification": false,
+          "scope_or_comment": "仅比较所设负载与路由变体；时延按成功交付请求统计，样本构成随失败量变化。",
+          "human_verified": false
+        },
+        {
+          "claim_id": "R1-106-05",
+          "manuscript_proposition": "接触失败时预定长路径更易在交付前过期，局部路由具有相对优势。",
+          "source_locator": "§5.4.2, Fig.7, PDF pp.10-11",
+          "status": "supported_with_scope",
+          "source_basis": "formal_full_text",
+          "claim_type": "source_proposition",
+          "not_counted_as_body_verification": false,
+          "scope_or_comment": "失效为接触可靠性模型，不能泛化为所有实网故障；该结论不意味着路径长度增加接触本身的失效概率。",
+          "human_verified": false
+        }
+      ],
+      "required_revision": "本批核对范围内未发现必须修正的技术表述。",
+      "version_parity": "Checked source is an institutional final published version, not a preprint.",
+      "human_verified": false,
+      "agent_check_date": "2026-10-13",
+      "local_copy": "work/v14_integration_sources/Lowe_106_vor.pdf",
+      "local_sha256": "121eb23d16d69eaeaafbca36ce20fa6504600a118db8234e2dbcdceb9f96140d",
+      "metadata_check": {
+        "registry_url": "https://api.crossref.org/works/10.1016/j.adhoc.2023.103289",
+        "title": "A delay-tolerant network approach to satellite pickup and delivery scheduling",
+        "doi": "10.1016/j.adhoc.2023.103289",
+        "volume": "151",
+        "issue": null,
+        "page": "103289",
+        "article_number": "103289",
+        "status": "identity_matches_manuscript_reference",
+        "metadata_file": "work/core_audit_round1_sources/ref_106_crossref.json"
+      },
+      "manuscript_bindings": [
+        {
+          "line": 329,
+          "line_sha256": "d952a450d58a55269b6673b65607b815eb3855739ddd2d6c57377074b206e18f",
+          "binding_scope": "source-associated line; propositions are assessed separately in claims"
+        },
+        {
+          "line": 355,
+          "line_sha256": "71075a514a9b65c81eaa792c0ec0b5a2f7b42230842075b66e35df3cd38cbf31",
+          "binding_scope": "source-associated line; propositions are assessed separately in claims"
+        },
+        {
+          "line": 387,
+          "line_sha256": "c46694cea1ef3ce53413e0ea63be4ffd808e40760767330eaa327d432c2ccce6",
+          "binding_scope": "source-associated line; propositions are assessed separately in claims"
+        },
+        {
+          "line": 431,
+          "line_sha256": "5bfce8abfb77da0f548d4a51146c7ef1945cb32a736a23f82c238dce8d3b9acb",
+          "binding_scope": "source-associated line; propositions are assessed separately in claims"
+        }
+      ],
+      "author_final_verification": "pending",
+      "baseline_source_key": "doi:10.1016/j.adhoc.2023.103289",
+      "claim_assessment_target": "v1.5 baseline; v1.6 dispositions recorded in implemented_changes and current citation bindings",
+      "claim_checks_original": [
+        {
+          "claim_id": "R1-106-01",
+          "manuscript_proposition": "CGS逐请求搜索采集及交付路径，以最早交付选执行卫星，不寻求任务全集全局最优。",
+          "source_locator": "§4 and Algorithm 1, PDF pp.6-7",
+          "status": "supported",
+          "comment": "",
+          "human_verified": false
+        },
+        {
+          "claim_id": "R1-106-02",
+          "manuscript_proposition": "资源感知实现扣减已分配接触容量，同时将存储与能源视为无限。",
+          "source_locator": "§4.2-4.3, PDF pp.7-8",
+          "status": "supported",
+          "comment": "",
+          "human_verified": false
+        },
+        {
+          "claim_id": "R1-106-03",
+          "manuscript_proposition": "实验模型包含16星、25目标和6网关。",
+          "source_locator": "§5.3; captions of Figs.6-8, PDF pp.9-11",
+          "status": "supported",
+          "comment": "",
+          "human_verified": false
+        },
+        {
+          "claim_id": "R1-106-04",
+          "manuscript_proposition": "名义条件下资源感知及预定源路由有交付收益，但成功请求的平均时延可能更长。",
+          "source_locator": "§5.4.1, Fig.6c/i/f, PDF pp.9-10",
+          "status": "supported_with_scope",
+          "comment": "仅比较所设负载与路由变体；时延按成功交付请求统计，样本构成随失败量变化。",
+          "human_verified": false
+        },
+        {
+          "claim_id": "R1-106-05",
+          "manuscript_proposition": "接触失败时预定长路径更易在交付前过期，局部路由具有相对优势。",
+          "source_locator": "§5.4.2, Fig.7, PDF pp.10-11",
+          "status": "supported_with_scope",
+          "comment": "失效为接触可靠性模型，不能泛化为所有实网故障；该结论不意味着路径长度增加接触本身的失效概率。",
+          "human_verified": false
+        }
+      ],
+      "v16_manuscript_bindings": [
+        {
+          "line_number": 329,
+          "line_sha256": "d952a450d58a55269b6673b65607b815eb3855739ddd2d6c57377074b206e18f",
+          "binding_scope": "citation association only; not semantic certification"
+        },
+        {
+          "line_number": 355,
+          "line_sha256": "71075a514a9b65c81eaa792c0ec0b5a2f7b42230842075b66e35df3cd38cbf31",
+          "binding_scope": "citation association only; not semantic certification"
+        },
+        {
+          "line_number": 387,
+          "line_sha256": "c46694cea1ef3ce53413e0ea63be4ffd808e40760767330eaa327d432c2ccce6",
+          "binding_scope": "citation association only; not semantic certification"
+        },
+        {
+          "line_number": 431,
+          "line_sha256": "5bfce8abfb77da0f548d4a51146c7ef1945cb32a736a23f82c238dce8d3b9acb",
+          "binding_scope": "citation association only; not semantic certification"
+        }
+      ],
+      "implemented_changes": []
+    },
+    {
+      "reference_number": 107,
+      "doi": "10.3390/rs15061577",
+      "title": "Reasoning-Based Scheduling Method for Agile Earth Observation Satellite with Multi-Subsystem Coupling",
+      "human_verified": false,
+      "agent_reading": "no_body_opened_this_round_or_in_inherited_v14_record",
+      "inherited_record": "work/v14_integration_evidence.json",
+      "access_record": [
+        {
+          "url": "https://www.mdpi.com/2072-4292/15/6/1577",
+          "status": "web_fetch_failed_and_normal_http_request_403_stopped_no_bypass"
+        }
+      ],
+      "formal_full_text_read": false,
+      "author_public_body_read": false,
+      "opened_body_version": null,
+      "discovery_only": "Official publisher search result contains abstract and Section 3.2 fragments; these are not classified as opened body evidence.",
+      "claims": [
+        {
+          "claim_id": "OBS107_STATE_RULE_RELATION",
+          "manuscript_proposition": "Exact relation between subsystem-state prediction, coupling-state classification, rule-based reasoning and target-selection strategy remains unverified in the body.",
+          "source_locator": null,
+          "status": "unverified",
+          "source_basis": "no_full_text",
+          "claim_type": "source_proposition",
+          "not_counted_as_body_verification": true,
+          "scope_or_comment": "Existing wording may remain an inherited description pending full text; it must not be upgraded to verified learned prediction, execution telemetry feedback, or joint control.",
+          "human_verified": false
+        },
+        {
+          "claim_id": "OBS107_SINGLE_SATELLITE",
+          "manuscript_proposition": "The title/abstract appear to concern one AEOS, but the exact satellite count, simulation topology and multi-satellite extension scope have not been read in the body.",
+          "source_locator": null,
+          "status": "unverified",
+          "source_basis": "no_full_text",
+          "claim_type": "source_proposition",
+          "not_counted_as_body_verification": true,
+          "scope_or_comment": "Do not classify the body as a verified constellation-coordination experiment; 单星模型 remains pending confirmation.",
+          "human_verified": false
+        },
+        {
+          "claim_id": "OBS107_PREDICTION_KIND",
+          "manuscript_proposition": "The calculation/propagation method for predicted state variables and its relation to knowledge inference cannot be resolved from the title or search fragments.",
+          "source_locator": null,
+          "status": "unverified",
+          "source_basis": "no_full_text",
+          "claim_type": "source_proposition",
+          "not_counted_as_body_verification": true,
+          "scope_or_comment": "Current manuscript does not call this neural or machine-learning forecasting; retain that restraint and add no predictor accuracy or online-execution claims.",
+          "human_verified": false
+        }
+      ],
+      "suggested_manuscript_action": "未获得正文前不增加新细节；如正文核心已核声明必须涵盖此篇，应改为明确待核，而不是以检索摘要补足。",
+      "content_basis": "no_full_text",
+      "author_final_verification": "pending",
+      "baseline_source_key": "doi:10.3390/rs15061577",
+      "claim_assessment_target": "v1.5 baseline; v1.6 dispositions recorded in implemented_changes and current citation bindings",
+      "claim_checks_original": [
+        {
+          "id": "OBS107_STATE_RULE_RELATION",
+          "manuscript_locations": [
+            "3.5 state-feedback paragraph",
+            "Table 7, source 107 row"
+          ],
+          "status": "unverified",
+          "body_locator": null,
+          "finding": "Exact relation between subsystem-state prediction, coupling-state classification, rule-based reasoning and target-selection strategy remains unverified in the body.",
+          "verification_target": "Methods Sections 3.1-3.2, including the prediction inputs and rule conditions; discovery locators only, not read confirmations.",
+          "retain_condition": "Existing wording may remain an inherited description pending full text; it must not be upgraded to verified learned prediction, execution telemetry feedback, or joint control.",
+          "support_status": "unverified",
+          "human_verified": false
+        },
+        {
+          "id": "OBS107_SINGLE_SATELLITE",
+          "manuscript_locations": [
+            "Table 7: 单星模型"
+          ],
+          "status": "unverified",
+          "body_locator": null,
+          "finding": "The title/abstract appear to concern one AEOS, but the exact satellite count, simulation topology and multi-satellite extension scope have not been read in the body.",
+          "verification_target": "System definition, Section 4 simulation conditions and Section 5 limitations.",
+          "retain_condition": "Do not classify the body as a verified constellation-coordination experiment; 单星模型 remains pending confirmation.",
+          "support_status": "unverified",
+          "human_verified": false
+        },
+        {
+          "id": "OBS107_PREDICTION_KIND",
+          "manuscript_locations": [
+            "3.5 phrase 状态预测"
+          ],
+          "status": "unverified",
+          "body_locator": null,
+          "finding": "The calculation/propagation method for predicted state variables and its relation to knowledge inference cannot be resolved from the title or search fragments.",
+          "retain_condition": "Current manuscript does not call this neural or machine-learning forecasting; retain that restraint and add no predictor accuracy or online-execution claims.",
+          "support_status": "unverified",
+          "human_verified": false
+        }
+      ],
+      "v16_manuscript_bindings": [
+        {
+          "line_number": 343,
+          "line_sha256": "be73a37d8d7757bb5961f0c80c072a3b2da36206eda1be2d3a24e6083e0c146c",
+          "binding_scope": "citation association only; not semantic certification"
+        },
+        {
+          "line_number": 358,
+          "line_sha256": "5b36aa5ef0b2fcf09610cf92830c2f56b7283f3e7988e3d70eade807e2198cdc",
+          "binding_scope": "citation association only; not semantic certification"
+        }
+      ],
+      "implemented_changes": []
+    },
+    {
+      "reference_number": 112,
+      "doi": "10.1016/j.jss.2026.112802",
+      "title": "Reference architecture for autonomy and adaptivity in satellites",
+      "human_verified": false,
+      "agent_reading": "no_primary_article_body_opened",
+      "inherited_record": "work/v14_integration_evidence.json",
+      "access_record": [
+        {
+          "url": "https://www.sciencedirect.com/science/article/pii/S0164121226000361",
+          "status": "web_fetch_failed_and_normal_http_request_403_stopped_no_bypass"
+        },
+        {
+          "url": "https://iris.gssi.it/browse?authority=journal1140&etal=-1&offset=0&order=ASC&rpp=20&sort_by=1&starts_with=Q&type=relationJournal",
+          "status": "web_metadata_opened; item click failed; normal HTTP browse request 403; stopped"
+        },
+        {
+          "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5247404",
+          "status": "403_stopped_no_bypass"
+        },
+        {
+          "url": "https://lurebelo.github.io/publication.html",
+          "status": "opened_author_publication_list; no body attachment identified"
+        }
+      ],
+      "formal_full_text_read": false,
+      "author_public_body_read": false,
+      "opened_body_version": null,
+      "discovery_only": "Publisher search abstract/snippets mention MAPE-K, expert validation and NIMBUS instantiation; SSRN discovery identifies an earlier author manuscript. None establishes an opened article body or formal/author-version equivalence.",
+      "claims": [
+        {
+          "claim_id": "OBS112_COMPONENT_STRUCTURE",
+          "manuscript_proposition": "Monitor, Analyze, Plan, Execute and shared Knowledge structure is consistent with discovered abstract metadata; concrete components, partitioning, data interfaces and execution semantics remain unread.",
+          "source_locator": null,
+          "status": "unverified",
+          "source_basis": "no_full_text",
+          "claim_type": "source_proposition",
+          "not_counted_as_body_verification": true,
+          "scope_or_comment": "Keep the assertion limited to a reference-architecture description; no performance, flight, or multi-satellite resource-coordination result may be inferred.",
+          "human_verified": false
+        },
+        {
+          "claim_id": "OBS112_IMPLEMENTATION_BOUNDARY",
+          "manuscript_proposition": "The current review classifies this source as architectural organization and explicitly makes task performance depend on implementation; it does not assert a verified performance improvement.",
+          "source_locator": null,
+          "status": "support",
+          "source_basis": "no_full_text",
+          "claim_type": "review_author_classification",
+          "not_counted_as_body_verification": true,
+          "scope_or_comment": "Retain this conservative classification; it does not certify the unread architecture details or any deployment test.",
+          "human_verified": false
+        },
+        {
+          "claim_id": "OBS112_VALIDATION_DETAILS",
+          "manuscript_proposition": "Exact expert-validation procedure, NIMBUS instantiation, implemented behaviors, measured costs and any operational observations remain unread.",
+          "source_locator": null,
+          "status": "unverified",
+          "source_basis": "no_full_text",
+          "claim_type": "source_proposition",
+          "not_counted_as_body_verification": true,
+          "scope_or_comment": "Do not add “性能已验证”“星座已部署” or quantified autonomy gains. Architecture instantiation is not interchangeable with task-scheduling performance validation.",
+          "human_verified": false
+        }
+      ],
+      "suggested_manuscript_action": "现稿未夸大架构为性能验证，暂无必须新增的性能句；模块职责仍列正文待核，获得公开全文前不提升证据状态。",
+      "content_basis": "no_full_text",
+      "author_final_verification": "pending",
+      "baseline_source_key": "doi:10.1016/j.jss.2026.112802",
+      "claim_assessment_target": "v1.5 baseline; v1.6 dispositions recorded in implemented_changes and current citation bindings",
+      "claim_checks_original": [
+        {
+          "id": "OBS112_COMPONENT_STRUCTURE",
+          "manuscript_locations": [
+            "3.5 software architecture paragraph"
+          ],
+          "status": "unverified",
+          "body_locator": null,
+          "finding": "Monitor, Analyze, Plan, Execute and shared Knowledge structure is consistent with discovered abstract metadata; concrete components, partitioning, data interfaces and execution semantics remain unread.",
+          "verification_target": "Architecture Section 4 and component/connector figure; discovery locator only.",
+          "retain_condition": "Keep the assertion limited to a reference-architecture description; no performance, flight, or multi-satellite resource-coordination result may be inferred.",
+          "support_status": "unverified",
+          "human_verified": false
+        },
+        {
+          "id": "OBS112_IMPLEMENTATION_BOUNDARY",
+          "manuscript_locations": [
+            "Table 7, architecture organization row",
+            "3.5 discussion of concrete decision models"
+          ],
+          "status": "support",
+          "support_version": "review_author_classification_only",
+          "body_locator": null,
+          "finding": "The current review classifies this source as architectural organization and explicitly makes task performance depend on implementation; it does not assert a verified performance improvement.",
+          "retain_condition": "Retain this conservative classification; it does not certify the unread architecture details or any deployment test.",
+          "support_status": "support",
+          "human_verified": false,
+          "claim_type": "review_author_classification",
+          "not_counted_as_body_verification": true
+        },
+        {
+          "id": "OBS112_VALIDATION_DETAILS",
+          "manuscript_locations": [
+            "potential expansion of current architecture paragraph; not currently asserted"
+          ],
+          "status": "unverified",
+          "body_locator": null,
+          "finding": "Exact expert-validation procedure, NIMBUS instantiation, implemented behaviors, measured costs and any operational observations remain unread.",
+          "verification_target": "Validation Section 6 and threats to validity; discovery locations only.",
+          "retain_condition": "Do not add “性能已验证”“星座已部署” or quantified autonomy gains. Architecture instantiation is not interchangeable with task-scheduling performance validation.",
+          "support_status": "unverified",
+          "human_verified": false
+        }
+      ],
+      "v16_manuscript_bindings": [
+        {
+          "line_number": 345,
+          "line_sha256": "66a7e203f7ac03b4647e06d12339dc7f18a0e39f6495b6f86684044d78414eca",
+          "binding_scope": "citation association only; not semantic certification"
+        },
+        {
+          "line_number": 360,
+          "line_sha256": "91c7cfbd0bbe30ac8995bd640673bb0d980bac4d227f7267498377946c6a47cd",
+          "binding_scope": "citation association only; not semantic certification"
+        }
+      ],
+      "implemented_changes": []
+    },
+    {
+      "reference_number": 121,
+      "doi": "10.1109/TAES.2024.3415571",
+      "title": "On-Demand Routing in LEO Mega-Constellations With Dynamic Laser Inter-Satellite Links",
+      "content_basis": "author_version_only",
+      "read_version": "arXiv 2406.01953v1, 2024-06-04; 17-page author manuscript",
+      "source_url": "https://arxiv.org/html/2406.01953v1",
+      "formal_identity_url": "https://ieeexplore.ieee.org/document/10561557/",
+      "source_access": "Author v1 HTML reopened and local PDF parsed; formal IEEE entry returned a JavaScript robot verification page and was abandoned.",
+      "checked_locations": [
+        "Section II, network/controller assumptions",
+        "Section III, equations (6)-(10)",
+        "Section IV, ILPR/ALPR/ISASR",
+        "Section V-A Table III",
+        "Section V-B Figure 3 and Section V-D Figure 6"
+      ],
+      "claims": [
+        {
+          "claim_id": "R1-121-01",
+          "manuscript_proposition": "模型比较瞬时最短路、保持路径及稳定/活动状态感知策略，并计入建链时延。",
+          "source_locator": "§§III-IV, Eqs.(6)-(10), Algorithms 1-3",
+          "status": "supported_in_author_version",
+          "source_basis": "author_version_only",
+          "claim_type": "source_proposition",
+          "not_counted_as_body_verification": false,
+          "scope_or_comment": null,
+          "human_verified": false
+        },
+        {
+          "claim_id": "R1-121-02",
+          "manuscript_proposition": "所用模型为1584星、600个1秒快照。",
+          "source_locator": "§V-A, Table III",
+          "status": "supported_in_author_version",
+          "source_basis": "author_version_only",
+          "claim_type": "source_proposition",
+          "not_counted_as_body_verification": false,
+          "scope_or_comment": null,
+          "human_verified": false
+        },
+        {
+          "claim_id": "R1-121-03",
+          "manuscript_proposition": "中高建链成本下保持或活动状态感知降低更新损失；很低建链成本下ILPR/ALPR的平均时延可能略高于瞬时最短路。",
+          "source_locator": "§V-B, Fig.3 and accompanying text",
+          "status": "supported_in_author_version",
+          "source_basis": "author_version_only",
+          "claim_type": "source_proposition",
+          "not_counted_as_body_verification": false,
+          "scope_or_comment": "ISASR在低建链成本下仍可优于瞬时最短路，此结论不扩展为所有指标的统一排序。",
+          "human_verified": false
+        },
+        {
+          "claim_id": "R1-121-04",
+          "manuscript_proposition": "时域评估和稳定/活动状态处理增加计算成本。",
+          "source_locator": "§V-D, Fig.6 and complexity analysis",
+          "status": "supported_in_author_version",
+          "source_basis": "author_version_only",
+          "claim_type": "source_proposition",
+          "not_counted_as_body_verification": false,
+          "scope_or_comment": "比较在文中给定计算平台和参数下成立，不构成星载控制截止期验证。",
+          "human_verified": false
+        },
+        {
+          "claim_id": "R1-121-05",
+          "manuscript_proposition": "统一建链时间、提前计算/分发、不计排队与初始配置为重要假设。",
+          "source_locator": "§II and §V-A",
+          "status": "supported_in_author_version",
+          "source_basis": "author_version_only",
+          "claim_type": "source_proposition",
+          "not_counted_as_body_verification": false,
+          "scope_or_comment": null,
+          "human_verified": false
+        },
+        {
+          "claim_id": "R1-121-06",
+          "manuscript_proposition": "正式发表版与v1的关键模型及实验一致。",
+          "source_locator": "Formal IEEE full body",
+          "status": "not_verified",
+          "source_basis": "author_version_only",
+          "claim_type": "source_proposition",
+          "not_counted_as_body_verification": false,
+          "scope_or_comment": "当前未取得正式全文，不能把已核作者版本提升为正式版一致性核验。",
+          "human_verified": false
+        }
+      ],
+      "required_revision": "保留正文的预印本标注及模型范围；正式版一致性继续待核。",
+      "version_parity": "not_established",
+      "human_verified": false,
+      "agent_check_date": "2026-10-13",
+      "local_copy": "work/v14_sources/LISL_121_arxiv_2406.01953v1.pdf",
+      "local_sha256": "9c64779192379dc60f8ff79b896ca429b0b63f4f78e2792576729f0226ce032e",
+      "metadata_check": {
+        "registry_url": "https://api.crossref.org/works/10.1109/TAES.2024.3415571",
+        "title": "On-Demand Routing in LEO Mega-Constellations With Dynamic Laser Inter-Satellite Links",
+        "doi": "10.1109/taes.2024.3415571",
+        "volume": "60",
+        "issue": "5",
+        "page": "7089-7105",
+        "article_number": null,
+        "status": "identity_matches_manuscript_reference",
+        "metadata_file": "work/core_audit_round1_sources/ref_121_crossref.json"
+      },
+      "manuscript_bindings": [
+        {
+          "line": 250,
+          "line_sha256": "07ca4af185ebba782aa2b82f64fcd776575dc7745a63f854d36ca129bcc4d6e8",
+          "binding_scope": "source-associated line; propositions are assessed separately in claims"
+        },
+        {
+          "line": 258,
+          "line_sha256": "6b06f320c3f97c3c2306708f6dd183542b77bf6113321826b2f02d126bb35eb8",
+          "binding_scope": "source-associated line; propositions are assessed separately in claims"
+        },
+        {
+          "line": 273,
+          "line_sha256": "33fea968f521b00ae8021225c867c4479e97f0953a4d5739e9936ea084fa42e2",
+          "binding_scope": "source-associated line; propositions are assessed separately in claims"
+        },
+        {
+          "line": 370,
+          "line_sha256": "5d0632a91577964523d13dfc751bf474f54181ef7dbd23d5227e65e2a1eb0157",
+          "binding_scope": "source-associated line; propositions are assessed separately in claims"
+        },
+        {
+          "line": 389,
+          "line_sha256": "59b6d1956be23ace8e3aae571e350546c041d88e9e9bf04d42b3c2ffffa9959a",
+          "binding_scope": "source-associated line; propositions are assessed separately in claims"
+        },
+        {
+          "line": 401,
+          "line_sha256": "7e41ee4914c39c81a20deb7aad3931078416d150a68d7d5454c59cf32537384d",
+          "binding_scope": "source-associated line; propositions are assessed separately in claims"
+        },
+        {
+          "line": 431,
+          "line_sha256": "5bfce8abfb77da0f548d4a51146c7ef1945cb32a736a23f82c238dce8d3b9acb",
+          "binding_scope": "source-associated line; propositions are assessed separately in claims"
+        },
+        {
+          "line": 433,
+          "line_sha256": "129018575a108914f2ea3e8d3efc6309b370ae929084677d9cb40f97ae817533",
+          "binding_scope": "source-associated line; propositions are assessed separately in claims"
+        }
+      ],
+      "author_final_verification": "pending",
+      "baseline_source_key": "doi:10.1109/taes.2024.3415571",
+      "claim_assessment_target": "v1.5 baseline; v1.6 dispositions recorded in implemented_changes and current citation bindings",
+      "claim_checks_original": [
+        {
+          "claim_id": "R1-121-01",
+          "manuscript_proposition": "模型比较瞬时最短路、保持路径及稳定/活动状态感知策略，并计入建链时延。",
+          "source_locator": "§§III-IV, Eqs.(6)-(10), Algorithms 1-3",
+          "status": "supported_in_author_version",
+          "comment": "",
+          "human_verified": false
+        },
+        {
+          "claim_id": "R1-121-02",
+          "manuscript_proposition": "所用模型为1584星、600个1秒快照。",
+          "source_locator": "§V-A, Table III",
+          "status": "supported_in_author_version",
+          "comment": "",
+          "human_verified": false
+        },
+        {
+          "claim_id": "R1-121-03",
+          "manuscript_proposition": "中高建链成本下保持或活动状态感知降低更新损失；很低建链成本下ILPR/ALPR的平均时延可能略高于瞬时最短路。",
+          "source_locator": "§V-B, Fig.3 and accompanying text",
+          "status": "supported_in_author_version",
+          "comment": "ISASR在低建链成本下仍可优于瞬时最短路，此结论不扩展为所有指标的统一排序。",
+          "human_verified": false
+        },
+        {
+          "claim_id": "R1-121-04",
+          "manuscript_proposition": "时域评估和稳定/活动状态处理增加计算成本。",
+          "source_locator": "§V-D, Fig.6 and complexity analysis",
+          "status": "supported_in_author_version",
+          "comment": "比较在文中给定计算平台和参数下成立，不构成星载控制截止期验证。",
+          "human_verified": false
+        },
+        {
+          "claim_id": "R1-121-05",
+          "manuscript_proposition": "统一建链时间、提前计算/分发、不计排队与初始配置为重要假设。",
+          "source_locator": "§II and §V-A",
+          "status": "supported_in_author_version",
+          "comment": "",
+          "human_verified": false
+        },
+        {
+          "claim_id": "R1-121-06",
+          "manuscript_proposition": "正式发表版与v1的关键模型及实验一致。",
+          "source_locator": "Formal IEEE full body",
+          "status": "not_verified",
+          "comment": "当前未取得正式全文，不能把已核作者版本提升为正式版一致性核验。",
+          "human_verified": false
+        }
+      ],
+      "v16_manuscript_bindings": [
+        {
+          "line_number": 250,
+          "line_sha256": "07ca4af185ebba782aa2b82f64fcd776575dc7745a63f854d36ca129bcc4d6e8",
+          "binding_scope": "citation association only; not semantic certification"
+        },
+        {
+          "line_number": 258,
+          "line_sha256": "ce2a2192eb9104e80e2cce2290f6134dffd6238656c4d295b25ca938fbaef852",
+          "binding_scope": "citation association only; not semantic certification"
+        },
+        {
+          "line_number": 273,
+          "line_sha256": "33fea968f521b00ae8021225c867c4479e97f0953a4d5739e9936ea084fa42e2",
+          "binding_scope": "citation association only; not semantic certification"
+        },
+        {
+          "line_number": 370,
+          "line_sha256": "5d0632a91577964523d13dfc751bf474f54181ef7dbd23d5227e65e2a1eb0157",
+          "binding_scope": "citation association only; not semantic certification"
+        },
+        {
+          "line_number": 389,
+          "line_sha256": "59b6d1956be23ace8e3aae571e350546c041d88e9e9bf04d42b3c2ffffa9959a",
+          "binding_scope": "citation association only; not semantic certification"
+        },
+        {
+          "line_number": 401,
+          "line_sha256": "7e41ee4914c39c81a20deb7aad3931078416d150a68d7d5454c59cf32537384d",
+          "binding_scope": "citation association only; not semantic certification"
+        },
+        {
+          "line_number": 431,
+          "line_sha256": "5bfce8abfb77da0f548d4a51146c7ef1945cb32a736a23f82c238dce8d3b9acb",
+          "binding_scope": "citation association only; not semantic certification"
+        },
+        {
+          "line_number": 433,
+          "line_sha256": "129018575a108914f2ea3e8d3efc6309b370ae929084677d9cb40f97ae817533",
+          "binding_scope": "citation association only; not semantic certification"
+        }
+      ],
+      "implemented_changes": []
+    }
+  ],
+  "implemented_changes": [
+    {
+      "original": "优化处理器的工作分配与频率，最小化处理及传输能耗",
+      "replacement": "优化边缘卫星与地面站之间的处理负载分配及处理频率，最小化处理及传输能耗",
+      "reason": "公开作者稿的处理器集合同时包含边缘卫星和地面站。",
+      "reference_numbers": [
+        53
+      ]
+    },
+    {
+      "original": "| 观测—处理联合[53]",
+      "replacement": "| 观测—处理分阶段安排[53]",
+      "reason": "采集与下游处理之间是顺序输入，不能由行名暗示上下游统一联合求解。",
+      "reference_numbers": [
+        53
+      ]
+    },
+    {
+      "original": "| 成像选择、推理任务分配 | 船舶检测与计算平台测试 |",
+      "replacement": "| 采集选择；星地处理负载与频率优化 | 船舶检测与计算平台测试 |",
+      "reason": "与所核公开稿中的决策变量一致。",
+      "reference_numbers": [
+        53
+      ]
+    },
+    {
+      "original": "预测具有自相似特征的业务流量，为需求感知调度提供负载估计",
+      "replacement": "在ON/OFF合成流量条件下预测具有自相似特征的业务流量，生成可供后续资源配置使用的负载估计",
+      "reason": "正文验证使用合成流量；路由应用在该文结论中列为后续工作。",
+      "reference_numbers": [
+        73
+      ]
+    },
+    {
+      "original": "| 自相似负载；预测模型 | 负载估计通过后续调度影响服务效果 |",
+      "replacement": "| ON/OFF合成自相似负载；预测模型 | 输出负载估计；路由应用及服务收益尚待后续验证 |",
+      "reason": "避免将预测表现表述为已验证的下游服务收益。",
+      "reference_numbers": [
+        73
+      ]
+    },
+    {
+      "original": "其[公开预印本](https://www.preprints.org/manuscript/202412.0063/v1)通过全局服务区域",
+      "replacement": "该研究通过全局服务区域",
+      "reason": "所述机制已核对正式出版PMC归档全文，正文不再以旧预印本为唯一依据。",
+      "reference_numbers": [
+        81
+      ]
+    },
+    {
+      "original": "该预印本分别比较频谱管理、用户调度和波束调度",
+      "replacement": "该研究分别比较频谱管理、用户调度和波束调度",
+      "reason": "组件比较已对照正式版第7.2节。",
+      "reference_numbers": [
+        81
+      ]
+    },
+    {
+      "original": "无服务卫星切换时仍观察到重配置边界附近的波动",
+      "replacement": "单候选卫星窗口内仍观察到重配置边界附近的波动",
+      "reason": "以实验观察条件表述，保持原作者对内部控制机制的推断边界。",
+      "reference_numbers": [
+        78
+      ]
+    },
+    {
+      "original": "先形成采集安排，再以已采集负载和可用下传时刻优化处理及传输，形成上游计划向下游资源决策的顺序输入",
+      "replacement": "先形成采集安排，再以已采集负载和可用下传时刻为输入，优化星地处理负载分配与频率，并计入通信能耗和容量约束，形成上游计划向下游资源决策的顺序输入",
+      "reason": "精确说明下游变量，避免暗示自由路由或仅星上分配。",
+      "reference_numbers": [
+        53
+      ]
+    },
+    {
+      "original": "其集成架构统一生成计划；协调架构统一安排后分渠道执行；自适应架构交换需求与运行计划后分别形成动作。",
+      "replacement": "依据SatOps与NetOps的交互关系，该框架区分集成、协调和自适应三类模式：集成模式统一生成计划，协调模式统一安排后分渠道执行，自适应模式交换需求与运行计划后分别形成动作。",
+      "reason": "正式文将三类交互模式实例化为四种具体架构，区分分类层级。",
+      "reference_numbers": [
+        9
+      ]
+    },
+    {
+      "original": "尚未建立三种架构在共同场景下的相对性能结论",
+      "replacement": "尚未建立三类交互模式在共同场景下的相对性能结论",
+      "reason": "保持集成原型与其他模式之间的验证边界。",
+      "reference_numbers": [
+        9
+      ]
+    },
+    {
+      "original": "预印本由采集计划提供下游输入，再优化处理与传输",
+      "replacement": "公开作者稿由采集计划提供下游输入，再优化星地处理负载与频率",
+      "reason": "使表7的变量和版本范围与正文相符。",
+      "reference_numbers": [
+        53
+      ]
+    },
+    {
+      "original": "后者进一步处理容量分配及失效恢复",
+      "replacement": "后者进一步讨论流量工程与失效恢复",
+      "reason": "全文尚未取得，不将摘要中的流量工程扩展为已核定的物理容量决策。",
+      "reference_numbers": [
+        80
+      ]
+    },
+    {
+      "original": "更新组织、容量分配和失效恢复具有不同职责",
+      "replacement": "更新组织、流量工程和失效恢复具有不同职责",
+      "reason": "同步表5与正文的摘要级论述范围。",
+      "reference_numbers": [
+        79,
+        80
+      ]
+    }
+  ]
+}

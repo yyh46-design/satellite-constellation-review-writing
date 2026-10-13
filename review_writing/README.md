@@ -1,8 +1,18 @@
 # 大型卫星星座智能管理与调度综述：写作工作区
 
+## 2026-10-13更新：先阅读当前稿件包
+
+当前中文主稿、核心文献核验及GPT接手任务已集中到[manuscripts/v1.6/](manuscripts/v1.6/README.md)。
+
+- [v1.6主稿](manuscripts/v1.6/REVIEW_MAIN_DRAFT_v1.6.md)采用5章、9张表及121项实际引用。
+- [给GPT的剩余任务](manuscripts/v1.6/GPT_NEXT_STEPS_v1.6.md)说明6篇全文缺口、4篇作者稿正式对照、[73]PDF页面和[74]书目收尾，以及后续写作顺序。
+- [全稿来源核查队列](manuscripts/v1.6/REMAINING_SOURCE_VERIFICATION_QUEUE_v1.6.csv)区分本轮已读、未核及本轮以外来源；[第一批核验报告](manuscripts/v1.6/CORE_LITERATURE_AUDIT_ROUND1.md)提供具体依据。
+
+以下保留2026-10-09整理说明，作为历史材料入口。旧148条候选库及早期框架不替代当前v1.6正文；旧编号按DOI或URL与当前来源匹配。
+
 材料日期：2026-10-09。此目录整理本次对话形成的检索、框架、文献初筛和用途映射，供讨论写作规范与继续撰写综述。
 
-## 从这里开始
+## 2026-10-09早期资料入口
 
 1. [给GPT的写作准则讨论说明](discussion/GPT_WRITING_STANDARDS_BRIEF.md)：选题、现状、讨论问题和期望输出。
 2. [当前五章框架](framework/FIVE_CHAPTER_OUTLINE.md)：一级目录与第三章四个小节。
@@ -11,7 +21,7 @@
 5. [首轮40篇精读队列](evidence/FIRST_READING_QUEUE_40.md)：精读顺序与需确认的问题。
 6. [逐篇证据与用途](evidence/MAPPING_BY_SECTION.md)：方法、约束、读取依据、原文定位和适用限制。
 
-## 当前状态
+## 2026-10-09整理状态
 
 - DOI主库148条：20篇综述、128条研究或方法文献；个别会议材料和相邻场景文献的用途已标明。148是候选库数量，尚非最终纳入数量。
 - 当前采用5章骨架。25个问题ID是整理工具，不对应25个文章小节。
