@@ -1,0 +1,116 @@
+{
+  "batch": "B01_20261014",
+  "frozen_commit": "51be6a1326e8c615ea24f80f1887f16a2e7b02fc",
+  "base_B00_commit": "08ec6a7ccd3673461698d52aa099b6740f2bcd1f",
+  "publication_status": "local_only_not_pushed",
+  "branch": "research/constellation-review-reading-b01-20261014",
+  "manifest_self_hash_policy": "listed in paths, excluded from recursive self hash; final manifest hash in local verification receipt",
+  "record_paths": [
+    "review_writing/evidence/reading_batches/B01_20261014/.gitattributes",
+    "review_writing/evidence/reading_batches/B01_20261014/CLAIM_CHECKS_B01.json",
+    "review_writing/evidence/reading_batches/B01_20261014/CROSS_STUDY_COMPARISON.md",
+    "review_writing/evidence/reading_batches/B01_20261014/OPEN_ITEMS_B01.md",
+    "review_writing/evidence/reading_batches/B01_20261014/OPEN_ITEM_STATUS_B01.json",
+    "review_writing/evidence/reading_batches/B01_20261014/PAIR_121_AUTHOR_VERSIONS.json",
+    "review_writing/evidence/reading_batches/B01_20261014/READING_NOTES_042.md",
+    "review_writing/evidence/reading_batches/B01_20261014/READING_NOTES_044.md",
+    "review_writing/evidence/reading_batches/B01_20261014/READING_NOTES_053.md",
+    "review_writing/evidence/reading_batches/B01_20261014/READING_NOTES_074.md",
+    "review_writing/evidence/reading_batches/B01_20261014/READING_NOTES_076.md",
+    "review_writing/evidence/reading_batches/B01_20261014/READING_NOTES_121.md",
+    "review_writing/evidence/reading_batches/B01_20261014/READING_SCOPE_B01.json",
+    "review_writing/evidence/reading_batches/B01_20261014/README.md",
+    "review_writing/evidence/reading_batches/B01_20261014/SHA256_MANIFEST.json",
+    "review_writing/evidence/reading_batches/B01_20261014/SOURCE_MANIFEST_B01.json",
+    "review_writing/evidence/reading_batches/B01_20261014/V19_CHANGE_CANDIDATES.md",
+    "review_writing/evidence/reading_batches/B01_20261014/V19_DEPENDENCY_CHECK_INDEX.csv"
+  ],
+  "files": [
+    {
+      "path": "review_writing/evidence/reading_batches/B01_20261014/.gitattributes",
+      "bytes": 8,
+      "sha256": "705fd4d6451a31d36b3df7de96f83f30ac976c9b4a6d1e51671d8e2f33e2d0da"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B01_20261014/CLAIM_CHECKS_B01.json",
+      "bytes": 51355,
+      "sha256": "e9bc9c0cb9b174f91ef7bf5ef9b7c68d67333918308b10ca768e26b3d76275da"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B01_20261014/CROSS_STUDY_COMPARISON.md",
+      "bytes": 4044,
+      "sha256": "4b9c9f368fdc359f754580e66697356515c9b593f5b5ce186f1cb7e1c47e6ebc"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B01_20261014/OPEN_ITEMS_B01.md",
+      "bytes": 3166,
+      "sha256": "5e56a0775b01f7769caaca0b4884341a2152f0f70e57c9f26a4f6cf0375ea0a0"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B01_20261014/OPEN_ITEM_STATUS_B01.json",
+      "bytes": 1598,
+      "sha256": "6e1e4a5b8b896750a67ef9af19b1bdf29abe27ef3ba9f5cdd55c1f862cf2f2e7"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B01_20261014/PAIR_121_AUTHOR_VERSIONS.json",
+      "bytes": 3570,
+      "sha256": "b8ae505c3f4eaceb6de0e9f46f73342259f6eaee117f1248a88529fd575ebbe7"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B01_20261014/READING_NOTES_042.md",
+      "bytes": 3316,
+      "sha256": "96c97b33739435f266b90d340e908795a1606e95cd44bff78d9d9917839f8e7c"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B01_20261014/READING_NOTES_044.md",
+      "bytes": 4061,
+      "sha256": "aaac98c30b22667f5a25e0f8d21c2efa18277964d7e9e3bfeb1f3cc2d4e2ab3e"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B01_20261014/READING_NOTES_053.md",
+      "bytes": 3276,
+      "sha256": "6e59836539ea8e584f802d28ca8bdfc4ffb016ff7c099db3e9b6823935f5c5a4"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B01_20261014/READING_NOTES_074.md",
+      "bytes": 2754,
+      "sha256": "19894676d3b319fc5ff4aa93f0ee0acb476314fa41922a233022799e6ffb2923"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B01_20261014/READING_NOTES_076.md",
+      "bytes": 3023,
+      "sha256": "b25e6e8af8577cc4d51540642abefac3c2ec4acb2151bf0806977589b634b3ea"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B01_20261014/READING_NOTES_121.md",
+      "bytes": 3912,
+      "sha256": "a2bb7ce1d4fba2e5d6e85a991a35c2f5288ff8498956d5c89a53adb179e9d787"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B01_20261014/READING_SCOPE_B01.json",
+      "bytes": 16421,
+      "sha256": "57515af72a3826e3ccf94bab8670cc35ab41e1890f1e462713797c7ba488c314"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B01_20261014/README.md",
+      "bytes": 5746,
+      "sha256": "8660d995beda9993e54e209c0149cffa085f532114264dd7896a21e5b7af9198"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B01_20261014/SOURCE_MANIFEST_B01.json",
+      "bytes": 13326,
+      "sha256": "9330750a23ecee731cd376285387cabc43cf81c0ca1d7ab32b05452b97634ba9"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B01_20261014/V19_CHANGE_CANDIDATES.md",
+      "bytes": 3686,
+      "sha256": "1083f442940998f5ba4b45b289de4a946679f9345f67de002cd5c449085e98a3"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B01_20261014/V19_DEPENDENCY_CHECK_INDEX.csv",
+      "bytes": 8456,
+      "sha256": "cb4cd0f843ef9ac13c3cc58c98ba0e5d9f99849db8c07712e0ac35bf5f068bdc"
+    }
+  ],
+  "third_party_pdfs_published": false
+}

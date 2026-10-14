@@ -1,0 +1,69 @@
+{
+  "batch": "B01_20261014",
+  "historical_file_sha256": "d3a3736364aa2f40dec58cef8ae265014e54303fc09b1bbb6b8aa597ede136fa",
+  "historical_ids": [
+    "FT-75",
+    "FT-77",
+    "FT-79",
+    "FT-80",
+    "FT-112",
+    "VOR-53",
+    "VOR-74",
+    "VOR-76",
+    "VOR-121",
+    "PDF-73",
+    "PDF-107",
+    "PAGE-74",
+    "POWER-53",
+    "PDF-AUTHOR-REST",
+    "BIB-REMAINDER",
+    "EVIDENCE-REMAINDER",
+    "BIB-EN-CN",
+    "JOURNAL-RULES",
+    "AUTHOR-FINAL",
+    "PDF-96",
+    "EN-V18-SYNC",
+    "R4-FP-42",
+    "R4-FP-44",
+    "R4-BODY-23",
+    "R4-BODY-33",
+    "R4-BODY-63",
+    "R4-EN-SYNC"
+  ],
+  "historical_records_modified": false,
+  "historical_items_automatically_closed": [],
+  "historical_item_count": 27,
+  "new_material_or_metric_findings": [
+    "B01-APPENDIX-44",
+    "B01-TABLE4-53",
+    "B01-DELAYFIG-76",
+    "B01-TYPO-76",
+    "B01-COSTCONFIG-121"
+  ],
+  "progress_only": [
+    "PDF-AUTHOR-REST: selected actual pages of 53/74/76 checked, all-page completion and formal parity remain false",
+    "POWER-53: actual p16 checked, inconsistency still open",
+    "VOR-121: four author-side page pairs checked, VOR unavailable"
+  ],
+  "formal_pairs_still_open": [
+    42,
+    44,
+    53,
+    74,
+    76,
+    121
+  ],
+  "fulltext_missing_unchanged": [
+    75,
+    77,
+    79,
+    80,
+    112
+  ],
+  "actual_pdf_missing_unchanged": [
+    73,
+    107
+  ],
+  "historical_git_blob_sha256": "d3a3736364aa2f40dec58cef8ae265014e54303fc09b1bbb6b8aa597ede136fa",
+  "historical_file_sha256_basis": "current unchanged local bytes; Git blob hash separately recorded for checkout EOL differences"
+}

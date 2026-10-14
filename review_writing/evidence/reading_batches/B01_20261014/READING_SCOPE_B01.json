@@ -1,0 +1,441 @@
+{
+  "batch": "B01_20261014",
+  "execution_date_local": "2026-10-14",
+  "timezone": "Asia/Shanghai",
+  "authorization": "user: 现在继续帮我推进精读一下吧",
+  "scope": "six targeted author-version body readings; no manuscript edits",
+  "frozen_manuscript_commit": "51be6a1326e8c615ea24f80f1887f16a2e7b02fc",
+  "base_B00_commit": "08ec6a7ccd3673461698d52aa099b6740f2bcd1f",
+  "focused_source_reading_count": 6,
+  "full_paper_close_read_count": 0,
+  "formal_version_pair_closed_count": 0,
+  "human_verified_source_count": 0,
+  "page_convention": "physical PDF pages, one-based; [44] printed page=physical-2; NRC accepted article page=physical-1",
+  "readings": [
+    {
+      "reference_number": 42,
+      "evidence_id": "E-B01-042",
+      "primary_pdf_sha256": "e1db3270d5e8487b7ce6c88ae1baec1463508f7e7ec3532806a06c271dee9ab1",
+      "text_pages_with_targeted_body_inspection": [
+        3,
+        4,
+        5,
+        6,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "page_list_means_all_text_on_page_read": false,
+      "visual_pages": [
+        6,
+        12,
+        13
+      ],
+      "visual_evidence": [
+        {
+          "pdf_physical_page": 6,
+          "local_render": "D:\\SKT727\\materials\\constellation_review_B01_20261014\\042_p06.png",
+          "render_sha256": "36b5d8d9beaeb2be51982f315bd396826c05ec6b9367c681a7934440f4c96e2a",
+          "actually_visually_inspected": true
+        },
+        {
+          "pdf_physical_page": 12,
+          "local_render": "D:\\SKT727\\materials\\constellation_review_B01_20261014\\042_p12.png",
+          "render_sha256": "9f6541a536fb6b033579b11ae10104458130fb14f6ec2a6f1328199870e38dec",
+          "actually_visually_inspected": true
+        },
+        {
+          "pdf_physical_page": 13,
+          "local_render": "D:\\SKT727\\materials\\constellation_review_B01_20261014\\042_p13.png",
+          "render_sha256": "235b064057c18a73456a596f8db78ce34ac616b5f17659c8cf61f1f39f495489",
+          "actually_visually_inspected": true
+        }
+      ],
+      "focused_author_version_reading_completed": true,
+      "full_paper_close_read_completed": false,
+      "human_verified": false,
+      "proof_independently_verified": false,
+      "code_or_experiment_reproduced": false,
+      "formal_version_parity_closed": false,
+      "excluded_or_pending": "第7-8页的变换及证明未完整核读；第1-2页仅沿用B00身份/概况核查；第15页简介、参考文献未全面复核。"
+    },
+    {
+      "reference_number": 44,
+      "evidence_id": "E-B01-044",
+      "primary_pdf_sha256": "eca7b13c016546f428dccec10b6db85da51f7b9fd5d288d48e604c7a872ae855",
+      "text_pages_with_targeted_body_inspection": [
+        4,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        16,
+        17,
+        18,
+        19,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29
+      ],
+      "page_list_means_all_text_on_page_read": false,
+      "visual_pages": [
+        11,
+        16,
+        17,
+        18,
+        27,
+        28
+      ],
+      "visual_evidence": [
+        {
+          "pdf_physical_page": 11,
+          "local_render": "D:\\SKT727\\materials\\constellation_review_B01_20261014\\044_p11.png",
+          "render_sha256": "b7a1a823646ac9cd7641baad5c863670f2471254e24133ca85daf8279caa5b94",
+          "actually_visually_inspected": true
+        },
+        {
+          "pdf_physical_page": 16,
+          "local_render": "D:\\SKT727\\materials\\constellation_review_B01_20261014\\044_p16.png",
+          "render_sha256": "f962c8f3d845bfb56390c06fd00850c36358253a727f37fa3e79577ef709dbdd",
+          "actually_visually_inspected": true
+        },
+        {
+          "pdf_physical_page": 17,
+          "local_render": "D:\\SKT727\\materials\\constellation_review_B01_20261014\\044_p17.png",
+          "render_sha256": "fa2b0a4bfece20279a72a324282223305a94d1dd91623b8eefdd44bff14daacc",
+          "actually_visually_inspected": true
+        },
+        {
+          "pdf_physical_page": 18,
+          "local_render": "D:\\SKT727\\materials\\constellation_review_B01_20261014\\044_p18.png",
+          "render_sha256": "ff3260335b667a760c74d7ae43e6907e0d5224adb149354233baffb856c0d4eb",
+          "actually_visually_inspected": true
+        },
+        {
+          "pdf_physical_page": 27,
+          "local_render": "D:\\SKT727\\materials\\constellation_review_B01_20261014\\044_p27.png",
+          "render_sha256": "a09048d5fa33e71d1fa7d663999533850928d235963280cb27252114493f2085",
+          "actually_visually_inspected": true
+        },
+        {
+          "pdf_physical_page": 28,
+          "local_render": "D:\\SKT727\\materials\\constellation_review_B01_20261014\\044_p28.png",
+          "render_sha256": "1609baa1f71a616e50fc3e454d7ed8fec1f695c272b490f6bf094be45c9d6113",
+          "actually_visually_inspected": true
+        }
+      ],
+      "focused_author_version_reading_completed": true,
+      "full_paper_close_read_completed": false,
+      "human_verified": false,
+      "proof_independently_verified": false,
+      "code_or_experiment_reproduced": false,
+      "formal_version_parity_closed": false,
+      "excluded_or_pending": "第15、20页只作局部定位，未完整核读；未核参考文献。正文指向Appendix A/B，本PDF未检出其附录正文；需补附件。",
+      "physical_to_printed_page_offset": -2,
+      "additional_locator_only_pages": [
+        15,
+        20,
+        31
+      ],
+      "appendix_label_scan": {
+        "matches": [
+          {
+            "physical_page": 10,
+            "mentions": "Appendix A/Table A.1"
+          },
+          {
+            "physical_page": 15,
+            "mentions": "Appendix B"
+          },
+          {
+            "physical_page": 16,
+            "mentions": "Proof. See Appendix B."
+          }
+        ],
+        "appendix_body_detected": false,
+        "scan_does_not_prove_no_external_supplement": true
+      }
+    },
+    {
+      "reference_number": 53,
+      "evidence_id": "E-B01-053",
+      "primary_pdf_sha256": "b18022c2b14b5c9931fea8192e76751c0899e9f472d90e7d899f46732aba4749",
+      "text_pages_with_targeted_body_inspection": [
+        8,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        20,
+        22
+      ],
+      "page_list_means_all_text_on_page_read": false,
+      "visual_pages": [
+        13,
+        14,
+        16,
+        18
+      ],
+      "visual_evidence": [
+        {
+          "pdf_physical_page": 13,
+          "local_render": "D:\\SKT727\\materials\\constellation_review_B01_20261014\\053_p13.png",
+          "render_sha256": "294c05bf9337fa7a94d118a0f374f4743cec8c8e822e73cf7303bdea3017b4b8",
+          "actually_visually_inspected": true
+        },
+        {
+          "pdf_physical_page": 14,
+          "local_render": "D:\\SKT727\\materials\\constellation_review_B01_20261014\\053_p14.png",
+          "render_sha256": "a47545a3a20958e59f752269950c63d08bcc4617eab06124a61ca47cf7cfd24d",
+          "actually_visually_inspected": true
+        },
+        {
+          "pdf_physical_page": 16,
+          "local_render": "D:\\SKT727\\materials\\constellation_review_B01_20261014\\053_p16.png",
+          "render_sha256": "19acf0de0c66c2be9ca18e634626088661917728e5aeca84f58d09a80f6dc158",
+          "actually_visually_inspected": true
+        },
+        {
+          "pdf_physical_page": 18,
+          "local_render": "D:\\SKT727\\materials\\constellation_review_B01_20261014\\053_p18.png",
+          "render_sha256": "3d77ffc1113a3ae1dc9347c1a9b4b123258e4d7350cf0a4aa7786abb8c2db3f1",
+          "actually_visually_inspected": true
+        }
+      ],
+      "focused_author_version_reading_completed": true,
+      "full_paper_close_read_completed": false,
+      "human_verified": false,
+      "proof_independently_verified": false,
+      "code_or_experiment_reproduced": false,
+      "formal_version_parity_closed": false,
+      "excluded_or_pending": "大气/成像推导、全部频率消元推导、全部性能曲线及参考文献未完整核读；第19、21页相关图像已渲染但本轮未视觉检查。"
+    },
+    {
+      "reference_number": 74,
+      "evidence_id": "E-B01-074",
+      "primary_pdf_sha256": "187d8cd2260d44de077533918a4b660ae70bb90815f15a9891e0a5d0d1c98ef2",
+      "text_pages_with_targeted_body_inspection": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "page_list_means_all_text_on_page_read": false,
+      "visual_pages": [
+        5,
+        7,
+        8,
+        10
+      ],
+      "visual_evidence": [
+        {
+          "pdf_physical_page": 5,
+          "local_render": "D:\\SKT727\\materials\\constellation_review_B01_20261014\\074_p05.png",
+          "render_sha256": "b7d292b0ae57bf1e0c38201bac4245c526fc53e713d434f76ca2af5b822ccc29",
+          "actually_visually_inspected": true
+        },
+        {
+          "pdf_physical_page": 7,
+          "local_render": "D:\\SKT727\\materials\\constellation_review_B01_20261014\\074_p07.png",
+          "render_sha256": "0edfbbd763a61669ebfd87aa9dbb3f6c24c0d3b248bb6f01187f378bc90ebf04",
+          "actually_visually_inspected": true
+        },
+        {
+          "pdf_physical_page": 8,
+          "local_render": "D:\\SKT727\\materials\\constellation_review_B01_20261014\\074_p08.png",
+          "render_sha256": "0df356d0294f726a476a8866cd4dc642071a6f3c27351685cd6c7bf6b18a42bd",
+          "actually_visually_inspected": true
+        },
+        {
+          "pdf_physical_page": 10,
+          "local_render": "D:\\SKT727\\materials\\constellation_review_B01_20261014\\074_p10.png",
+          "render_sha256": "ca9f3f3253ca9d1a58ceade81bfea8b7b17a29abcac4d759ca29f9db8f817953",
+          "actually_visually_inspected": true
+        }
+      ],
+      "focused_author_version_reading_completed": true,
+      "full_paper_close_read_completed": false,
+      "human_verified": false,
+      "proof_independently_verified": false,
+      "code_or_experiment_reproduced": false,
+      "formal_version_parity_closed": false,
+      "excluded_or_pending": "第3-4页前置系统模型未完整逐式核读；附录A/B、潜在函数证明及全部参考文献未核。"
+    },
+    {
+      "reference_number": 76,
+      "evidence_id": "E-B01-076",
+      "primary_pdf_sha256": "02511ba13f55a622d13ceb4b3261077aa067925b572784e32ae52740e8422bed",
+      "text_pages_with_targeted_body_inspection": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "page_list_means_all_text_on_page_read": false,
+      "visual_pages": [
+        5,
+        10,
+        11,
+        12
+      ],
+      "visual_evidence": [
+        {
+          "pdf_physical_page": 5,
+          "local_render": "D:\\SKT727\\materials\\constellation_review_B01_20261014\\076_p05.png",
+          "render_sha256": "028b2dcf48269835c21956edd9975d34a8618cc6e1963e889b27d56fab746faa",
+          "actually_visually_inspected": true
+        },
+        {
+          "pdf_physical_page": 10,
+          "local_render": "D:\\SKT727\\materials\\constellation_review_B01_20261014\\076_p10.png",
+          "render_sha256": "bcba8dfc5c21e6c67b97c73d1efbcc73f80e6caa18354fab125d81d0655e8513",
+          "actually_visually_inspected": true
+        },
+        {
+          "pdf_physical_page": 11,
+          "local_render": "D:\\SKT727\\materials\\constellation_review_B01_20261014\\076_p11.png",
+          "render_sha256": "f6581816a00c374bc25d56ed178b348f8a9e52af065f411628e220852a0e6351",
+          "actually_visually_inspected": true
+        },
+        {
+          "pdf_physical_page": 12,
+          "local_render": "D:\\SKT727\\materials\\constellation_review_B01_20261014\\076_p12.png",
+          "render_sha256": "db58fadaf01b8ccf8fa3ba815f08c2ef7930c6ff970ed493c9d7407299c7ccc7",
+          "actually_visually_inspected": true
+        }
+      ],
+      "focused_author_version_reading_completed": true,
+      "full_paper_close_read_completed": false,
+      "human_verified": false,
+      "proof_independently_verified": false,
+      "code_or_experiment_reproduced": false,
+      "formal_version_parity_closed": false,
+      "excluded_or_pending": "引言/相关工作、全部推导和参考文献未全面核读；未取得代码确认图10/11指标口径。"
+    },
+    {
+      "reference_number": 121,
+      "evidence_id": "E-B01-121",
+      "primary_pdf_sha256": "9c64779192379dc60f8ff79b896ca429b0b63f4f78e2792576729f0226ce032e",
+      "text_pages_with_targeted_body_inspection": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        15
+      ],
+      "page_list_means_all_text_on_page_read": false,
+      "visual_pages": [
+        6,
+        10,
+        11,
+        12,
+        13
+      ],
+      "visual_evidence": [
+        {
+          "pdf_physical_page": 6,
+          "local_render": "D:\\SKT727\\materials\\constellation_review_B01_20261014\\121_p06.png",
+          "render_sha256": "8158c341c7ec7e60a673efa26bee5cc5d091a114f1cffb8c3309e0e4b6bed313",
+          "actually_visually_inspected": true
+        },
+        {
+          "pdf_physical_page": 10,
+          "local_render": "D:\\SKT727\\materials\\constellation_review_B01_20261014\\121_p10.png",
+          "render_sha256": "84b4330c37c539fe46269a38493204a16c52bfd9176b2642df94671130638a7c",
+          "actually_visually_inspected": true
+        },
+        {
+          "pdf_physical_page": 11,
+          "local_render": "D:\\SKT727\\materials\\constellation_review_B01_20261014\\121_p11.png",
+          "render_sha256": "98a0d4c848c019b4ab68a85ef6551db7049ce6bf2c36b55e536c337cae603da6",
+          "actually_visually_inspected": true
+        },
+        {
+          "pdf_physical_page": 12,
+          "local_render": "D:\\SKT727\\materials\\constellation_review_B01_20261014\\121_p12.png",
+          "render_sha256": "77430e83ef1489176c9a0f6b2e23bccdeda822cdf4112bb980f272474f1d4347",
+          "actually_visually_inspected": true
+        },
+        {
+          "pdf_physical_page": 13,
+          "local_render": "D:\\SKT727\\materials\\constellation_review_B01_20261014\\121_p13.png",
+          "render_sha256": "812e03fda3761295e189f5ce84eb2fd79d0ff1d18634c1d661a7b13ebf268cf2",
+          "actually_visually_inspected": true
+        }
+      ],
+      "focused_author_version_reading_completed": true,
+      "full_paper_close_read_completed": false,
+      "human_verified": false,
+      "proof_independently_verified": false,
+      "code_or_experiment_reproduced": false,
+      "formal_version_parity_closed": false,
+      "excluded_or_pending": "第5-10页部分长公式仅作定位/方法文本核读，式(8)-(10)所在第6页实际检查；第14页直方图仅渲染未视检；第16-17页尾段/参考文献未完整核读。",
+      "accepted_manuscript_pair": {
+        "physical_pages_inspected": [
+          7,
+          11,
+          12,
+          13
+        ],
+        "paper_page_offset": 1,
+        "local_file": "D:\\SKT727\\materials\\constellation_review_B00_20261014\\121_nrc_author.pdf",
+        "pdf_sha256": "5a1b84d8895ddbc46d9e4c1f5d3e7b7c083593d4c1e40e0f3f5f1d4c797c8964",
+        "renders": [
+          {
+            "pdf_physical_page": 7,
+            "local_render": "D:\\SKT727\\materials\\constellation_review_B01_20261014\\121_accepted_p07.png",
+            "render_sha256": "f07aa13dac4b6aa49d2537d73abb2083e8d5f462b45684109a5c761617e24eef"
+          },
+          {
+            "pdf_physical_page": 11,
+            "local_render": "D:\\SKT727\\materials\\constellation_review_B01_20261014\\121_accepted_p11.png",
+            "render_sha256": "f85ba0ed46b42331618af29359092ca72c87cf31216dc68dacc3391fed94fc81"
+          },
+          {
+            "pdf_physical_page": 12,
+            "local_render": "D:\\SKT727\\materials\\constellation_review_B01_20261014\\121_accepted_p12.png",
+            "render_sha256": "bdfc928f909b1c4948528cc558d63e73f76d63195178cfe4dcdf1667a248688a"
+          },
+          {
+            "pdf_physical_page": 13,
+            "local_render": "D:\\SKT727\\materials\\constellation_review_B01_20261014\\121_accepted_p13.png",
+            "render_sha256": "99fe36a116d5b672ef29b03b7409643d2c8620248cae83559b2466b2261387f5"
+          }
+        ],
+        "full_pair_comparison_completed": false
+      }
+    }
+  ]
+}

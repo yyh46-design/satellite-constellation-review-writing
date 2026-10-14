@@ -1,0 +1,382 @@
+{
+  "batch": "B01_20261014",
+  "source_metadata_basis": "immutable B00 snapshots; no new formal metadata claim",
+  "sources": [
+    {
+      "evidence_id": "E-B01-042",
+      "reference_number": 42,
+      "doi": "10.1109/TMC.2021.3076088",
+      "title_en": "Joint Observation and Transmission Scheduling in Agile Satellite Networks",
+      "title_zh_translation": "敏捷卫星网络中的联合观测与传输调度",
+      "translation_is_official": false,
+      "authors": [
+        "Lijun He",
+        "Ben Liang",
+        "Jiandong Li",
+        "Min Sheng"
+      ],
+      "publication_metadata_inherited_from_B00_not_refreshed": {
+        "journal": "IEEE Transactions on Mobile Computing",
+        "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+        "volume": "21",
+        "issue": "12",
+        "page_or_article": "4381-4396",
+        "article_number": null,
+        "published": {
+          "date-parts": [
+            [
+              2022,
+              12,
+              1
+            ]
+          ]
+        },
+        "published_online": null,
+        "published_print": {
+          "date-parts": [
+            [
+              2022,
+              12,
+              1
+            ]
+          ]
+        },
+        "frozen_v19_bibliography": "IEEE Transactions on Mobile Computing, 2022, 21(12): 4381–4396"
+      },
+      "fulltext_urls": [
+        "https://www.comm.utoronto.ca/~liang/publications/TMC_ObsTrans_ASN.pdf"
+      ],
+      "read_version_identity": "author_manuscript_acceptance_unconfirmed",
+      "pdf_artifacts": [
+        {
+          "local_file": "D:\\SKT727\\materials\\constellation_review_B00_20261014\\042_utoronto_author.pdf",
+          "filename": "042_utoronto_author.pdf",
+          "pdf_pages": 15,
+          "file_size_bytes": 1475988,
+          "sha256": "e1db3270d5e8487b7ce6c88ae1baec1463508f7e7ec3532806a06c271dee9ab1",
+          "version_identity": "author_manuscript_acceptance_unconfirmed",
+          "text_extraction_success": true
+        }
+      ],
+      "human_verified": false,
+      "formal_version_parity_closed": false,
+      "third_party_file_uploaded": false,
+      "primary_read_pdf_sha256": "e1db3270d5e8487b7ce6c88ae1baec1463508f7e7ec3532806a06c271dee9ab1"
+    },
+    {
+      "evidence_id": "E-B01-044",
+      "reference_number": 44,
+      "doi": "10.1016/j.cor.2025.107212",
+      "title_en": "The integrated agile Earth observation satellite scheduling problem",
+      "title_zh_translation": "集成敏捷对地观测卫星调度问题",
+      "translation_is_official": false,
+      "authors": [
+        "Yure Rocha",
+        "Guilherme O. Chagas",
+        "Leandro C. Coelho",
+        "Anand Subramanian"
+      ],
+      "publication_metadata_inherited_from_B00_not_refreshed": {
+        "journal": "Computers & Operations Research",
+        "publisher": "Elsevier BV",
+        "volume": "184",
+        "issue": null,
+        "page_or_article": "107212",
+        "article_number": "107212",
+        "published": {
+          "date-parts": [
+            [
+              2025,
+              12
+            ]
+          ]
+        },
+        "published_online": null,
+        "published_print": {
+          "date-parts": [
+            [
+              2025,
+              12
+            ]
+          ]
+        },
+        "frozen_v19_bibliography": "Computers & Operations Research, 2025, 184: 107212"
+      },
+      "fulltext_urls": [
+        "https://www.cirrelt.ca/documentstravail/cirrelt-2024-28.pdf"
+      ],
+      "read_version_identity": "author_working_paper",
+      "pdf_artifacts": [
+        {
+          "local_file": "D:\\SKT727\\materials\\constellation_review_B00_20261014\\044_cirrelt_working_paper.pdf",
+          "filename": "044_cirrelt_working_paper.pdf",
+          "pdf_pages": 31,
+          "file_size_bytes": 1310061,
+          "sha256": "eca7b13c016546f428dccec10b6db85da51f7b9fd5d288d48e604c7a872ae855",
+          "version_identity": "author_working_paper",
+          "text_extraction_success": true
+        }
+      ],
+      "human_verified": false,
+      "formal_version_parity_closed": false,
+      "third_party_file_uploaded": false,
+      "primary_read_pdf_sha256": "eca7b13c016546f428dccec10b6db85da51f7b9fd5d288d48e604c7a872ae855"
+    },
+    {
+      "evidence_id": "E-B01-053",
+      "reference_number": 53,
+      "doi": "10.1002/sat.70082",
+      "title_en": "Edge Intelligence for Satellite‐Based Earth Observation: Scheduling Image Acquisition and Processing",
+      "title_zh_translation": "卫星对地观测边缘智能：图像采集与处理调度",
+      "translation_is_official": false,
+      "authors": [
+        "Beatriz Soret",
+        "Antonio M. Mercado‐Martínez",
+        "Antonio Jurado‐Navas",
+        "Nicolai D. Lyholm",
+        "Marco Moretti",
+        "Petar Popovski",
+        "Israel Leyva‐Mayorga"
+      ],
+      "publication_metadata_inherited_from_B00_not_refreshed": {
+        "journal": "International Journal of Satellite Communications and Networking",
+        "publisher": "Wiley",
+        "volume": null,
+        "issue": null,
+        "page_or_article": null,
+        "article_number": "sat.70082",
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              8,
+              24
+            ]
+          ]
+        },
+        "published_online": {
+          "date-parts": [
+            [
+              2026,
+              8,
+              24
+            ]
+          ]
+        },
+        "published_print": null,
+        "frozen_v19_bibliography": "International Journal of Satellite Communications and Networking, 2026: 1–22; advance online publication, 24 August 2026"
+      },
+      "fulltext_urls": [
+        "https://arxiv.org/pdf/2604.05937v1"
+      ],
+      "read_version_identity": "author_preprint",
+      "pdf_artifacts": [
+        {
+          "local_file": "D:\\SKT727\\materials\\constellation_review_B00_20261014\\053_arxiv_v1_complete.pdf",
+          "filename": "053_arxiv_v1_complete.pdf",
+          "pdf_pages": 25,
+          "file_size_bytes": 2061414,
+          "sha256": "b18022c2b14b5c9931fea8192e76751c0899e9f472d90e7d899f46732aba4749",
+          "version_identity": "author_preprint",
+          "text_extraction_success": true
+        }
+      ],
+      "human_verified": false,
+      "formal_version_parity_closed": false,
+      "third_party_file_uploaded": false,
+      "primary_read_pdf_sha256": "b18022c2b14b5c9931fea8192e76751c0899e9f472d90e7d899f46732aba4749"
+    },
+    {
+      "evidence_id": "E-B01-074",
+      "reference_number": 74,
+      "doi": "10.23919/JCC.ja.2022-0864",
+      "title_en": "Joint Beam Scheduling and Power Optimization for Beam Hopping LEO Satellite Systems",
+      "title_zh_translation": "波束跳变低轨卫星系统的联合波束调度与功率优化",
+      "translation_is_official": false,
+      "authors": [
+        "Shuang Zheng",
+        "Xing Zhang",
+        "Peng Wang",
+        "Wenbo Wang"
+      ],
+      "publication_metadata_inherited_from_B00_not_refreshed": {
+        "journal": "China Communications",
+        "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+        "volume": "21",
+        "issue": "10",
+        "page_or_article": "1-14",
+        "article_number": null,
+        "published": {
+          "date-parts": [
+            [
+              2024,
+              10
+            ]
+          ]
+        },
+        "published_online": null,
+        "published_print": {
+          "date-parts": [
+            [
+              2024,
+              10
+            ]
+          ]
+        },
+        "frozen_v19_bibliography": "China Communications, 2024, 21(10): 1–14"
+      },
+      "fulltext_urls": [
+        "https://arxiv.org/pdf/2312.01292v1"
+      ],
+      "read_version_identity": "author_preprint",
+      "pdf_artifacts": [
+        {
+          "local_file": "D:\\SKT727\\materials\\constellation_review_B00_20261014\\074_arxiv_v1.pdf",
+          "filename": "074_arxiv_v1.pdf",
+          "pdf_pages": 14,
+          "file_size_bytes": 614550,
+          "sha256": "187d8cd2260d44de077533918a4b660ae70bb90815f15a9891e0a5d0d1c98ef2",
+          "version_identity": "author_preprint",
+          "text_extraction_success": true
+        }
+      ],
+      "human_verified": false,
+      "formal_version_parity_closed": false,
+      "third_party_file_uploaded": false,
+      "primary_read_pdf_sha256": "187d8cd2260d44de077533918a4b660ae70bb90815f15a9891e0a5d0d1c98ef2"
+    },
+    {
+      "evidence_id": "E-B01-076",
+      "reference_number": 76,
+      "doi": "10.1109/TWC.2025.3545745",
+      "title_en": "Demand-Aware Beam Hopping and Power Allocation for Load Balancing in Digital Twin Empowered LEO Satellite Networks",
+      "title_zh_translation": "数字孪生赋能低轨卫星网络中面向负载均衡的需求感知波束跳变与功率分配",
+      "translation_is_official": false,
+      "authors": [
+        "Ruili Zhao",
+        "Jun Cai",
+        "Jiangtao Luo",
+        "Junpeng Gao",
+        "Yongyi Ran"
+      ],
+      "publication_metadata_inherited_from_B00_not_refreshed": {
+        "journal": "IEEE Transactions on Wireless Communications",
+        "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+        "volume": "24",
+        "issue": "6",
+        "page_or_article": "5084-5098",
+        "article_number": null,
+        "published": {
+          "date-parts": [
+            [
+              2025,
+              6
+            ]
+          ]
+        },
+        "published_online": null,
+        "published_print": {
+          "date-parts": [
+            [
+              2025,
+              6
+            ]
+          ]
+        },
+        "frozen_v19_bibliography": "IEEE Transactions on Wireless Communications, 2025, 24(6): 5084–5098"
+      },
+      "fulltext_urls": [
+        "https://arxiv.org/pdf/2411.08896v1"
+      ],
+      "read_version_identity": "author_preprint",
+      "pdf_artifacts": [
+        {
+          "local_file": "D:\\SKT727\\materials\\constellation_review_B00_20261014\\076_arxiv_v1_complete.pdf",
+          "filename": "076_arxiv_v1_complete.pdf",
+          "pdf_pages": 13,
+          "file_size_bytes": 8620440,
+          "sha256": "02511ba13f55a622d13ceb4b3261077aa067925b572784e32ae52740e8422bed",
+          "version_identity": "author_preprint",
+          "text_extraction_success": true
+        }
+      ],
+      "human_verified": false,
+      "formal_version_parity_closed": false,
+      "third_party_file_uploaded": false,
+      "primary_read_pdf_sha256": "02511ba13f55a622d13ceb4b3261077aa067925b572784e32ae52740e8422bed"
+    },
+    {
+      "evidence_id": "E-B01-121",
+      "reference_number": 121,
+      "doi": "10.1109/TAES.2024.3415571",
+      "title_en": "On-Demand Routing in LEO Mega-Constellations With Dynamic Laser Inter-Satellite Links",
+      "title_zh_translation": "具有动态激光星间链路的低轨巨型星座按需路由",
+      "translation_is_official": false,
+      "authors": [
+        "Dhiraj Bhattacharjee",
+        "Pablo G. Madoery",
+        "Aizaz U. Chaudhry",
+        "Halim Yanikomeroglu",
+        "Güneş Karabulut Kurt",
+        "Peng Hu",
+        "Khaled Ahmed",
+        "Stéphane Martel"
+      ],
+      "publication_metadata_inherited_from_B00_not_refreshed": {
+        "journal": "IEEE Transactions on Aerospace and Electronic Systems",
+        "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+        "volume": "60",
+        "issue": "5",
+        "page_or_article": "7089-7105",
+        "article_number": null,
+        "published": {
+          "date-parts": [
+            [
+              2024,
+              10
+            ]
+          ]
+        },
+        "published_online": null,
+        "published_print": {
+          "date-parts": [
+            [
+              2024,
+              10
+            ]
+          ]
+        },
+        "frozen_v19_bibliography": "IEEE Transactions on Aerospace and Electronic Systems, 2024, 60(5): 7089–7105"
+      },
+      "fulltext_urls": [
+        "https://arxiv.org/pdf/2406.01953v1",
+        "https://nrc-publications.canada.ca/eng/view/author/version/?id=9a404f79-d821-4d0a-b850-1f09b4268220"
+      ],
+      "read_version_identity": "author_preprint",
+      "pdf_artifacts": [
+        {
+          "local_file": "D:\\SKT727\\materials\\constellation_review_B00_20261014\\121_arxiv_v1_complete.pdf",
+          "filename": "121_arxiv_v1_complete.pdf",
+          "pdf_pages": 17,
+          "file_size_bytes": 7552596,
+          "sha256": "9c64779192379dc60f8ff79b896ca429b0b63f4f78e2792576729f0226ce032e",
+          "version_identity": "author_preprint",
+          "text_extraction_success": true
+        },
+        {
+          "local_file": "D:\\SKT727\\materials\\constellation_review_B00_20261014\\121_nrc_author.pdf",
+          "filename": "121_nrc_author.pdf",
+          "pdf_pages": 18,
+          "file_size_bytes": 7578244,
+          "sha256": "5a1b84d8895ddbc46d9e4c1f5d3e7b7c083593d4c1e40e0f3f5f1d4c797c8964",
+          "version_identity": "accepted_manuscript",
+          "text_extraction_success": true
+        }
+      ],
+      "human_verified": false,
+      "formal_version_parity_closed": false,
+      "third_party_file_uploaded": false,
+      "primary_read_pdf_sha256": "9c64779192379dc60f8ff79b896ca429b0b63f4f78e2792576729f0226ce032e"
+    }
+  ]
+}

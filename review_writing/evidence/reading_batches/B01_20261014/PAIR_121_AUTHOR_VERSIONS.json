@@ -1,0 +1,90 @@
+{
+  "batch": "B01_20261014",
+  "reference_number": 121,
+  "left": {
+    "local_file": "D:\\SKT727\\materials\\constellation_review_B00_20261014\\121_arxiv_v1_complete.pdf",
+    "filename": "121_arxiv_v1_complete.pdf",
+    "pdf_pages": 17,
+    "file_size_bytes": 7552596,
+    "sha256": "9c64779192379dc60f8ff79b896ca429b0b63f4f78e2792576729f0226ce032e",
+    "version_identity": "author_preprint",
+    "text_extraction_success": true
+  },
+  "right": {
+    "local_file": "D:\\SKT727\\materials\\constellation_review_B00_20261014\\121_nrc_author.pdf",
+    "filename": "121_nrc_author.pdf",
+    "pdf_pages": 18,
+    "file_size_bytes": 7578244,
+    "sha256": "5a1b84d8895ddbc46d9e4c1f5d3e7b7c083593d4c1e40e0f3f5f1d4c797c8964",
+    "version_identity": "accepted_manuscript",
+    "text_extraction_success": true
+  },
+  "method": "pypdf extraction; exclude only lines matching the explicit version/rights/footer markers below; remove whitespace; compare remaining characters and SHA256; selected pages also visually inspected",
+  "pairs": [
+    {
+      "arxiv_page": 6,
+      "nrc_physical_page": 7,
+      "normalized_extracted_text_equal": true,
+      "arxiv_normalized_chars": 4013,
+      "nrc_normalized_chars": 4013,
+      "normalized_text_sha256_left": "ae9a0dc88700895bdb49d00f1da66b182b8d80479223946c1fb2847404eaa7e0",
+      "normalized_text_sha256_right": "ae9a0dc88700895bdb49d00f1da66b182b8d80479223946c1fb2847404eaa7e0"
+    },
+    {
+      "arxiv_page": 10,
+      "nrc_physical_page": 11,
+      "normalized_extracted_text_equal": true,
+      "arxiv_normalized_chars": 4621,
+      "nrc_normalized_chars": 4621,
+      "normalized_text_sha256_left": "fb9f7883bee0e24e53957cd1c4260b929fd59fbb4b3013f387f1d366bcf79de2",
+      "normalized_text_sha256_right": "fb9f7883bee0e24e53957cd1c4260b929fd59fbb4b3013f387f1d366bcf79de2"
+    },
+    {
+      "arxiv_page": 11,
+      "nrc_physical_page": 12,
+      "normalized_extracted_text_equal": true,
+      "arxiv_normalized_chars": 3446,
+      "nrc_normalized_chars": 3446,
+      "normalized_text_sha256_left": "b8eb0e62e4a3407c9359bf0abb1fe16ef9afcb81455b8536111b3da56d4e4994",
+      "normalized_text_sha256_right": "b8eb0e62e4a3407c9359bf0abb1fe16ef9afcb81455b8536111b3da56d4e4994"
+    },
+    {
+      "arxiv_page": 12,
+      "nrc_physical_page": 13,
+      "normalized_extracted_text_equal": true,
+      "arxiv_normalized_chars": 1860,
+      "nrc_normalized_chars": 1860,
+      "normalized_text_sha256_left": "9c6118ef7bbc23dfbd8b6e8c450edbeed124daf73d5571c6b4874d7b6fc0f34b",
+      "normalized_text_sha256_right": "9c6118ef7bbc23dfbd8b6e8c450edbeed124daf73d5571c6b4874d7b6fc0f34b"
+    }
+  ],
+  "normalization_rule": {
+    "excluded_line_substrings_lowercase": [
+      "arxiv:",
+      "this article has been accepted",
+      "content may change prior",
+      "© 2024 ieee.",
+      "see https://www.ieee.org/publications/rights/",
+      "authorized licensed use limited"
+    ],
+    "case_insensitive": true,
+    "remove_whitespace": true
+  },
+  "all_four_normalized_text_pairs_equal": true,
+  "full_text_parity": false,
+  "pixel_identity_verified": false,
+  "formal_version_parity_closed": false,
+  "human_verified": false,
+  "content_scope": [
+    "式(8)-(10)页",
+    "Table III与主实验设置页",
+    "Fig.3及低建链时延趋势页",
+    "Fig.6及CPU/内存说明页"
+  ],
+  "not_checked": [
+    "全部17页逐字/逐像素比较",
+    "第13页cost_thrsh=1段的接受稿对应页",
+    "IEEE正式版"
+  ],
+  "warning": "Removing version notices does not erase version identity; NRC is accepted manuscript, not VOR."
+}

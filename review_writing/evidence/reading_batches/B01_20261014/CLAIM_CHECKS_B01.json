@@ -1,0 +1,1213 @@
+{
+  "batch": "B01_20261014",
+  "claim_count": 42,
+  "frozen_commit": "51be6a1326e8c615ea24f80f1887f16a2e7b02fc",
+  "manuscript_path": "review_writing/manuscripts/v1.9/REVIEW_CN_v1.9.md",
+  "manuscript_sha256": "0b9f3f6f6b8d3c13af97f25d7baf3dac6dc18ecad8614e182633e12b6e3bbc69",
+  "assessment_semantics": "AI support/qualification judgments apply to specified author PDFs only; never human verified, formal parity, full-paper completion or experiment reproduction",
+  "claims": [
+    {
+      "claim_id": "C-B01-042-01",
+      "evidence_id": "E-B01-042",
+      "reference_number": 42,
+      "doi": "10.1109/TMC.2021.3076088",
+      "claim_text": "成功任务包含观测和传输，P0最大化成功安排任务的加权收益；任务期限裁剪传输窗口。",
+      "claim_text_sha256": "3d972813174a31fcb3841171fd96d55c8a15de949faf0296037317917398ad52",
+      "claim_type": "source_finding_or_scope_limit",
+      "pdf_sha256": "e1db3270d5e8487b7ce6c88ae1baec1463508f7e7ec3532806a06c271dee9ab1",
+      "pdf_physical_pages": [
+        4,
+        5,
+        6
+      ],
+      "source_locator": "§3.1.2、§3.2.3，C1/C2/C12，P0",
+      "v19_block_ids": [
+        "p24a",
+        "p322a",
+        "t3",
+        "p42a",
+        "t6"
+      ],
+      "assessment": "supported_in_read_author_version",
+      "support_level": "AI_check_of_specified_author_version_only",
+      "limitation_or_next_step": "该完成条件和下载数据量、识别成功率不可混为一个指标。",
+      "human_verified": false,
+      "author_final_check": "pending",
+      "formal_version_parity_closed": false,
+      "full_source_close_read_completed": false,
+      "read_version_identity": "author_manuscript_acceptance_unconfirmed"
+    },
+    {
+      "claim_id": "C-B01-042-02",
+      "evidence_id": "E-B01-042",
+      "reference_number": 42,
+      "doi": "10.1109/TMC.2021.3076088",
+      "claim_text": "给定网络资源下假设传输无误码，忽略成像角度对图像质量的影响；同星不能同时观测和传输。",
+      "claim_text_sha256": "e28660b5f775ce05300b3dcb457a726ed34b1efbaf2935c9b2099800a0645eac",
+      "claim_type": "source_finding_or_scope_limit",
+      "pdf_sha256": "e1db3270d5e8487b7ce6c88ae1baec1463508f7e7ec3532806a06c271dee9ab1",
+      "pdf_physical_pages": [
+        4,
+        5
+      ],
+      "source_locator": "§3.1、系统及时间互斥约束",
+      "v19_block_ids": [
+        "p322a",
+        "t3"
+      ],
+      "assessment": "supported_in_read_author_version",
+      "support_level": "AI_check_of_specified_author_version_only",
+      "limitation_or_next_step": "不等于实际链路可靠性、合格产品质量已经得到验证。",
+      "human_verified": false,
+      "author_final_check": "pending",
+      "formal_version_parity_closed": false,
+      "full_source_close_read_completed": false,
+      "read_version_identity": "author_manuscript_acceptance_unconfirmed"
+    },
+    {
+      "claim_id": "C-B01-042-03",
+      "evidence_id": "E-B01-042",
+      "reference_number": 42,
+      "doi": "10.1109/TMC.2021.3076088",
+      "claim_text": "HTWA以遗传搜索处理窗口关联，TWRA用SDR与随机化/恢复配置窗内开始时间，并用冲突及权重初始化。",
+      "claim_text_sha256": "b8657d9b2907f837c252d58c823f06b70e4d9aa1d4593b4947d1cabc21839399",
+      "claim_type": "source_finding_or_scope_limit",
+      "pdf_sha256": "e1db3270d5e8487b7ce6c88ae1baec1463508f7e7ec3532806a06c271dee9ab1",
+      "pdf_physical_pages": [
+        9,
+        10,
+        11
+      ],
+      "source_locator": "§4.2，HTWA/TWRA/CPInit",
+      "v19_block_ids": [
+        "p322a",
+        "p41a",
+        "p42a2",
+        "t3"
+      ],
+      "assessment": "supported_in_read_author_version",
+      "support_level": "AI_check_of_specified_author_version_only",
+      "limitation_or_next_step": "未独立核证明和重构原整数问题的全局最优性；松弛求解与原问题最优应区分。",
+      "human_verified": false,
+      "author_final_check": "pending",
+      "formal_version_parity_closed": false,
+      "full_source_close_read_completed": false,
+      "read_version_identity": "author_manuscript_acceptance_unconfirmed"
+    },
+    {
+      "claim_id": "C-B01-042-04",
+      "evidence_id": "E-B01-042",
+      "reference_number": 42,
+      "doi": "10.1109/TMC.2021.3076088",
+      "claim_text": "算例采用3颗AEOS；资源目录含3个DRS和3个GS，默认使用3个GS。所有列出的切换时延参数取0。",
+      "claim_text_sha256": "ab45a87e25f427e41af30eaffd70ae77be69286843b34cdead6937bc8ffd032c",
+      "claim_type": "source_finding_or_scope_limit",
+      "pdf_sha256": "e1db3270d5e8487b7ce6c88ae1baec1463508f7e7ec3532806a06c271dee9ab1",
+      "pdf_physical_pages": [
+        12
+      ],
+      "source_locator": "§5.1、Table II",
+      "v19_block_ids": [
+        "p322a",
+        "t3",
+        "p41a"
+      ],
+      "assessment": "qualification_needed",
+      "support_level": "AI_check_of_specified_author_version_only",
+      "limitation_or_next_step": "模型包含切换项，实验零切换不是一般工程结论；3颗AEOS不能用作巨型星座规模证据。",
+      "human_verified": false,
+      "author_final_check": "pending",
+      "formal_version_parity_closed": false,
+      "full_source_close_read_completed": false,
+      "read_version_identity": "author_manuscript_acceptance_unconfirmed"
+    },
+    {
+      "claim_id": "C-B01-042-05",
+      "evidence_id": "E-B01-042",
+      "reference_number": 42,
+      "doi": "10.1109/TMC.2021.3076088",
+      "claim_text": "Fig.3在2-10任务的小规模场景中比较JOTSAS与直接SDR的收益和计算时间；Fig.6为文内联合/分开调度比较。",
+      "claim_text_sha256": "a657b3c6e8d2d56afd575ba63bee0e64c90fa6f1341b2d6d24ed8df475fe5a6b",
+      "claim_type": "source_finding_or_scope_limit",
+      "pdf_sha256": "e1db3270d5e8487b7ce6c88ae1baec1463508f7e7ec3532806a06c271dee9ab1",
+      "pdf_physical_pages": [
+        12,
+        13
+      ],
+      "source_locator": "§5.2、Fig.3、Fig.6",
+      "v19_block_ids": [
+        "p41a",
+        "p42a2",
+        "p45b"
+      ],
+      "assessment": "supported_in_read_author_version",
+      "support_level": "AI_check_of_specified_author_version_only",
+      "limitation_or_next_step": "不能从小规模文内比较推出星载实时性能或跨论文因果排名。",
+      "human_verified": false,
+      "author_final_check": "pending",
+      "formal_version_parity_closed": false,
+      "full_source_close_read_completed": false,
+      "read_version_identity": "author_manuscript_acceptance_unconfirmed"
+    },
+    {
+      "claim_id": "C-B01-042-06",
+      "evidence_id": "E-B01-042",
+      "reference_number": 42,
+      "doi": "10.1109/TMC.2021.3076088",
+      "claim_text": "Fig.9参考上界来自STK可观测目标的加权总量，未复现完整联合问题精确最优。",
+      "claim_text_sha256": "85982f65b2714278451d292552aac32747e3201f78a19cb922d64fe23d3bf160",
+      "claim_type": "source_finding_or_scope_limit",
+      "pdf_sha256": "e1db3270d5e8487b7ce6c88ae1baec1463508f7e7ec3532806a06c271dee9ab1",
+      "pdf_physical_pages": [
+        14
+      ],
+      "source_locator": "§5后段、Fig.9",
+      "v19_block_ids": [
+        "p41a",
+        "p45b"
+      ],
+      "assessment": "qualification_needed",
+      "support_level": "AI_check_of_specified_author_version_only",
+      "limitation_or_next_step": "此参考量不能直接当作已知全局最优解或跨场景统一最优间隙。",
+      "human_verified": false,
+      "author_final_check": "pending",
+      "formal_version_parity_closed": false,
+      "full_source_close_read_completed": false,
+      "read_version_identity": "author_manuscript_acceptance_unconfirmed"
+    },
+    {
+      "claim_id": "C-B01-044-01",
+      "evidence_id": "E-B01-044",
+      "reference_number": 44,
+      "doi": "10.1016/j.cor.2025.107212",
+      "claim_text": "目标并列计入观测收益和下传数据量奖励，并惩罚终端剩余存储；不能将其直接换算成完整交付请求数量。",
+      "claim_text_sha256": "0fdc74d850a61e7a030010ee87c865f942867d0f7cfa5864f08a0104669e8276",
+      "claim_type": "source_finding_or_scope_limit",
+      "pdf_sha256": "eca7b13c016546f428dccec10b6db85da51f7b9fd5d288d48e604c7a872ae855",
+      "pdf_physical_pages": [
+        11,
+        12
+      ],
+      "source_locator": "§3，式(1)及其解释",
+      "v19_block_ids": [
+        "p24a",
+        "p322a2",
+        "t3",
+        "p35b",
+        "p42a",
+        "p42c",
+        "t6"
+      ],
+      "assessment": "supported_in_read_author_version",
+      "support_level": "AI_check_of_specified_author_version_only",
+      "limitation_or_next_step": "",
+      "human_verified": false,
+      "author_final_check": "pending",
+      "formal_version_parity_closed": false,
+      "full_source_close_read_completed": false,
+      "read_version_identity": "author_working_paper"
+    },
+    {
+      "claim_id": "C-B01-044-02",
+      "evidence_id": "E-B01-044",
+      "reference_number": 44,
+      "doi": "10.1016/j.cor.2025.107212",
+      "claim_text": "模型按机会窗口定义task，活动不可抢占；排除观测窗口和下载窗口交叠，并忽略机会窗口内能量采集；未实现每请求交付期限。",
+      "claim_text_sha256": "7633716154fdf61adbc8d2fb4212e7efcb74a5714bb353cb3f828553689f1d0a",
+      "claim_type": "source_finding_or_scope_limit",
+      "pdf_sha256": "eca7b13c016546f428dccec10b6db85da51f7b9fd5d288d48e604c7a872ae855",
+      "pdf_physical_pages": [
+        8,
+        9,
+        23,
+        29
+      ],
+      "source_locator": "§3假设、§6.1预处理、§7未来工作",
+      "v19_block_ids": [
+        "p322a2",
+        "t3",
+        "p42a",
+        "t6"
+      ],
+      "assessment": "qualification_needed",
+      "support_level": "AI_check_of_specified_author_version_only",
+      "limitation_or_next_step": "不能与[42]期限内观测和传输完成的任务直接比较；“不重叠”的不同层次需区分。",
+      "human_verified": false,
+      "author_final_check": "pending",
+      "formal_version_parity_closed": false,
+      "full_source_close_read_completed": false,
+      "read_version_identity": "author_working_paper"
+    },
+    {
+      "claim_id": "C-B01-044-03",
+      "evidence_id": "E-B01-044",
+      "reference_number": 44,
+      "doi": "10.1016/j.cor.2025.107212",
+      "claim_text": "虚拟节点图缩减需把相互重叠的任务放入同一组以避免丢失可行执行顺序；忽略该条件可能舍弃可行解。",
+      "claim_text_sha256": "28ed71727650045a916d355373974c1fac066d2eb4ad4df1af07c1a0fc6dd341",
+      "claim_type": "source_finding_or_scope_limit",
+      "pdf_sha256": "eca7b13c016546f428dccec10b6db85da51f7b9fd5d288d48e604c7a872ae855",
+      "pdf_physical_pages": [
+        16,
+        17
+      ],
+      "source_locator": "§4.1.2-4.1.3，Proposition 1及重叠警告",
+      "v19_block_ids": [
+        "p322a2",
+        "p41a",
+        "p42a2",
+        "t3",
+        "t6"
+      ],
+      "assessment": "qualification_needed",
+      "support_level": "AI_check_of_specified_author_version_only",
+      "limitation_or_next_step": "v1.9“保留结构的图变换”需加条件；此风险与§4.2模型简化分开记录。",
+      "human_verified": false,
+      "author_final_check": "pending",
+      "formal_version_parity_closed": false,
+      "full_source_close_read_completed": false,
+      "read_version_identity": "author_working_paper"
+    },
+    {
+      "claim_id": "C-B01-044-04",
+      "evidence_id": "E-B01-044",
+      "reference_number": 44,
+      "doi": "10.1016/j.cor.2025.107212",
+      "claim_text": "改进整数模型利用姿态切换三角不等式减少变量/约束，作者明确承认可能丢失可行解。",
+      "claim_text_sha256": "1b39d160e366f08c710a223825e45507b0536eb1d318eb855eb3bc2c8b2ace6d",
+      "claim_type": "source_finding_or_scope_limit",
+      "pdf_sha256": "eca7b13c016546f428dccec10b6db85da51f7b9fd5d288d48e604c7a872ae855",
+      "pdf_physical_pages": [
+        17,
+        18,
+        29
+      ],
+      "source_locator": "§4.2，式(57)-(60)，§7",
+      "v19_block_ids": [
+        "p322a2",
+        "p41a",
+        "p42a2",
+        "t3",
+        "t6"
+      ],
+      "assessment": "supported_in_read_author_version",
+      "support_level": "AI_check_of_specified_author_version_only",
+      "limitation_or_next_step": "本文未独立验证模型等价性；不能改写成只加速、完全不改可行域。",
+      "human_verified": false,
+      "author_final_check": "pending",
+      "formal_version_parity_closed": false,
+      "full_source_close_read_completed": false,
+      "read_version_identity": "author_working_paper"
+    },
+    {
+      "claim_id": "C-B01-044-05",
+      "evidence_id": "E-B01-044",
+      "reference_number": 44,
+      "doi": "10.1016/j.cor.2025.107212",
+      "claim_text": "MBH固定/释放弧变量边界，在邻域中反复调用MIP求解器；设计七类邻域并受总时间预算约束。",
+      "claim_text_sha256": "9b445adf5e480e5ded6632baaea9670533df5f63a9d5e29aa85c91bb35bd128d",
+      "claim_type": "source_finding_or_scope_limit",
+      "pdf_sha256": "eca7b13c016546f428dccec10b6db85da51f7b9fd5d288d48e604c7a872ae855",
+      "pdf_physical_pages": [
+        18,
+        19,
+        21,
+        22,
+        24
+      ],
+      "source_locator": "§5、§6.3.2",
+      "v19_block_ids": [
+        "p322a2",
+        "p41a",
+        "p42a2",
+        "t3"
+      ],
+      "assessment": "supported_in_read_author_version",
+      "support_level": "AI_check_of_specified_author_version_only",
+      "limitation_or_next_step": "邻域内求解与完整问题全局最优不等价；第20页细节未全面复核。",
+      "human_verified": false,
+      "author_final_check": "pending",
+      "formal_version_parity_closed": false,
+      "full_source_close_read_completed": false,
+      "read_version_identity": "author_working_paper"
+    },
+    {
+      "claim_id": "C-B01-044-06",
+      "evidence_id": "E-B01-044",
+      "reference_number": 44,
+      "doi": "10.1016/j.cor.2025.107212",
+      "claim_text": "32个测试实例采用200/400/600/800目标、1/3/6卫星、1/2/4地面站、1/2/3天；主比较预算1小时，平台为i9-13900K/128GB、Gurobi 11.0.1。",
+      "claim_text_sha256": "c1b9268e0a087728a69e1d33b79d4a0ec56d26e558f6942e596cd8bc187625c2",
+      "claim_type": "source_finding_or_scope_limit",
+      "pdf_sha256": "eca7b13c016546f428dccec10b6db85da51f7b9fd5d288d48e604c7a872ae855",
+      "pdf_physical_pages": [
+        22,
+        23,
+        24
+      ],
+      "source_locator": "§6实验平台、§6.1、§6.3.2",
+      "v19_block_ids": [
+        "p41a",
+        "p42a2",
+        "t3",
+        "p45b"
+      ],
+      "assessment": "supported_in_read_author_version",
+      "support_level": "AI_check_of_specified_author_version_only",
+      "limitation_or_next_step": "原始数据12星不等于实际测试12星；不同目标、卫星、时间跨度不可合并成单一规模。",
+      "human_verified": false,
+      "author_final_check": "pending",
+      "formal_version_parity_closed": false,
+      "full_source_close_read_completed": false,
+      "read_version_identity": "author_working_paper"
+    },
+    {
+      "claim_id": "C-B01-044-07",
+      "evidence_id": "E-B01-044",
+      "reference_number": 44,
+      "doi": "10.1016/j.cor.2025.107212",
+      "claim_text": "Table 4的6.06%为600/800目标的16实例相对MIP目标值平均改进，表中Gap与Opt分别表示比较差和求解器间隙。",
+      "claim_text_sha256": "eded4365f629a96879e4f543ba9e2a2bbc63e5d12af046c7c9edb3af59ea1a32",
+      "claim_type": "source_finding_or_scope_limit",
+      "pdf_sha256": "eca7b13c016546f428dccec10b6db85da51f7b9fd5d288d48e604c7a872ae855",
+      "pdf_physical_pages": [
+        27
+      ],
+      "source_locator": "§6.5、Table 4",
+      "v19_block_ids": [
+        "p41a",
+        "p45b"
+      ],
+      "assessment": "qualification_needed",
+      "support_level": "AI_check_of_specified_author_version_only",
+      "limitation_or_next_step": "不是32实例总体改进、已证明最优间隙、完整交付率或跨论文收益。",
+      "human_verified": false,
+      "author_final_check": "pending",
+      "formal_version_parity_closed": false,
+      "full_source_close_read_completed": false,
+      "read_version_identity": "author_working_paper"
+    },
+    {
+      "claim_id": "C-B01-044-08",
+      "evidence_id": "E-B01-044",
+      "reference_number": 44,
+      "doi": "10.1016/j.cor.2025.107212",
+      "claim_text": "31页工作论文正文引用Appendix A和B，但当前文件文字层未检出对应附录正文；Proposition 1的证明本轮未获得。",
+      "claim_text_sha256": "544b04075b2e2ad270843b21a56516e98ce6f60a0e536062e59b843951ade90c",
+      "claim_type": "source_finding_or_scope_limit",
+      "pdf_sha256": "eca7b13c016546f428dccec10b6db85da51f7b9fd5d288d48e604c7a872ae855",
+      "pdf_physical_pages": [
+        10,
+        15,
+        16,
+        31
+      ],
+      "source_locator": "Table A.1引用、§4.1、Proof指向、PDF结尾扫描",
+      "v19_block_ids": [
+        "p42a2",
+        "p41a"
+      ],
+      "assessment": "unresolved_material_gap",
+      "support_level": "AI_check_of_specified_author_version_only",
+      "limitation_or_next_step": "需取得正式版及补充材料/附录，扫描不到不证明外部附件不存在。",
+      "human_verified": false,
+      "author_final_check": "pending",
+      "formal_version_parity_closed": false,
+      "full_source_close_read_completed": false,
+      "read_version_identity": "author_working_paper"
+    },
+    {
+      "claim_id": "C-B01-044-09",
+      "evidence_id": "E-B01-044",
+      "reference_number": 44,
+      "doi": "10.1016/j.cor.2025.107212",
+      "claim_text": "§4.1.2指出虚拟节点分组需覆盖必要切换时序约束：若相继选择跨越非相邻组的活动却未加入切换约束，可能得到不可行执行顺序。",
+      "claim_text_sha256": "f51977ad779742809f5f94065f42dce2ba43b5417875534267e93ca4c1d60974",
+      "claim_type": "source_finding_or_scope_limit",
+      "pdf_sha256": "eca7b13c016546f428dccec10b6db85da51f7b9fd5d288d48e604c7a872ae855",
+      "pdf_physical_pages": [
+        16,
+        17
+      ],
+      "source_locator": "§4.1.2 Practical issue: setup time constraints；Fig.5",
+      "v19_block_ids": [
+        "p322a2",
+        "p41a",
+        "p42a2",
+        "t3",
+        "t6"
+      ],
+      "assessment": "qualification_needed",
+      "support_level": "AI_check_of_specified_author_version_only",
+      "limitation_or_next_step": "图缩减需同时检查切换约束覆盖和重叠分组；保持原模型可行解与排除非物理序列是两类条件。",
+      "human_verified": false,
+      "author_final_check": "pending",
+      "formal_version_parity_closed": false,
+      "full_source_close_read_completed": false,
+      "read_version_identity": "author_working_paper"
+    },
+    {
+      "claim_id": "C-B01-053-01",
+      "evidence_id": "E-B01-053",
+      "reference_number": 53,
+      "doi": "10.1002/sat.70082",
+      "claim_text": "稳定固定ISL和采集k/处理k+1/汇集k+2流水线下，先确定采集与下传输入，再联合配置边缘/地面计算负载和频率；馈电路径仍随时间变化。",
+      "claim_text_sha256": "2f6a0c8f1e5148e8550b6b17481c54425ab79a5379ddc94ef79f7aa6c0ee6e77",
+      "claim_type": "source_finding_or_scope_limit",
+      "pdf_sha256": "b18022c2b14b5c9931fea8192e76751c0899e9f472d90e7d899f46732aba4749",
+      "pdf_physical_pages": [
+        8,
+        11,
+        12,
+        13,
+        14
+      ],
+      "source_locator": "Fig.4、§3.4、§4.1-4.2",
+      "v19_block_ids": [
+        "p322c",
+        "p35c",
+        "t3",
+        "t6"
+      ],
+      "assessment": "supported_in_read_author_version",
+      "support_level": "AI_check_of_specified_author_version_only",
+      "limitation_or_next_step": "不能把稳定ISL写成整个通信系统静态；下游求解不反向改当前采集计划。",
+      "human_verified": false,
+      "author_final_check": "pending",
+      "formal_version_parity_closed": false,
+      "full_source_close_read_completed": false,
+      "read_version_identity": "author_preprint"
+    },
+    {
+      "claim_id": "C-B01-053-02",
+      "evidence_id": "E-B01-053",
+      "reference_number": 53,
+      "doi": "10.1002/sat.70082",
+      "claim_text": "采集收益采用GSD_nadir/GSD_actual，同优先级目标；采集优化忽略存储约束。",
+      "claim_text_sha256": "ee073c1e2c71c499ed27cd6e187e43543a59b3e9b20a49183540de2a8ab01b67",
+      "claim_type": "source_finding_or_scope_limit",
+      "pdf_sha256": "b18022c2b14b5c9931fea8192e76751c0899e9f472d90e7d899f46732aba4749",
+      "pdf_physical_pages": [
+        12,
+        13
+      ],
+      "source_locator": "§4.1、式(17)-(18)",
+      "v19_block_ids": [
+        "p322c",
+        "t3",
+        "p42a",
+        "t6"
+      ],
+      "assessment": "qualification_needed",
+      "support_level": "AI_check_of_specified_author_version_only",
+      "limitation_or_next_step": "质量几何收益与成功识别/完成交付不同；存储忽略不能作为大星座存储已充分建模。",
+      "human_verified": false,
+      "author_final_check": "pending",
+      "formal_version_parity_closed": false,
+      "full_source_close_read_completed": false,
+      "read_version_identity": "author_preprint"
+    },
+    {
+      "claim_id": "C-B01-053-03",
+      "evidence_id": "E-B01-053",
+      "reference_number": 53,
+      "doi": "10.1002/sat.70082",
+      "claim_text": "处理优化给定上游负载及下传安排，最小化通信与计算平均能耗；式(22a)约束平均处理时延不超过时隙。",
+      "claim_text_sha256": "05e0f1854f3a73aaa11b0c6306d780e36b1bb652b32dba6ef77873bdc8d4a867",
+      "claim_type": "source_finding_or_scope_limit",
+      "pdf_sha256": "b18022c2b14b5c9931fea8192e76751c0899e9f472d90e7d899f46732aba4749",
+      "pdf_physical_pages": [
+        13,
+        14,
+        15,
+        20
+      ],
+      "source_locator": "§4.2、式(19)、式(22a)、§5.2",
+      "v19_block_ids": [
+        "p322c",
+        "t3",
+        "p35c",
+        "p42a",
+        "t6"
+      ],
+      "assessment": "qualification_needed",
+      "support_level": "AI_check_of_specified_author_version_only",
+      "limitation_or_next_step": "不能改写成每帧硬截止期或百分位机会约束；频率消元/凸性为作者论述，未独立证明。",
+      "human_verified": false,
+      "author_final_check": "pending",
+      "formal_version_parity_closed": false,
+      "full_source_close_read_completed": false,
+      "read_version_identity": "author_preprint"
+    },
+    {
+      "claim_id": "C-B01-053-04",
+      "evidence_id": "E-B01-053",
+      "reference_number": 53,
+      "doi": "10.1002/sat.70082",
+      "claim_text": "四AEOS连续十个约97分钟调度时域中，质量失败目标进入下一轮，质量成功目标移除；存在跨轮次质量反馈。",
+      "claim_text_sha256": "945461edc5cbd16174ef5a6645a210af3ba8fbcb9639e4c6f4daa23b91c62ced",
+      "claim_type": "source_finding_or_scope_limit",
+      "pdf_sha256": "b18022c2b14b5c9931fea8192e76751c0899e9f472d90e7d899f46732aba4749",
+      "pdf_physical_pages": [
+        17,
+        18
+      ],
+      "source_locator": "§5.1、Table 4",
+      "v19_block_ids": [
+        "p322c",
+        "p35c",
+        "t3",
+        "t6"
+      ],
+      "assessment": "qualification_needed",
+      "support_level": "AI_check_of_specified_author_version_only",
+      "limitation_or_next_step": "该反馈不是下游处理拥塞在本轮修改上游任务，需明确反馈信号、时刻、修改对象。",
+      "human_verified": false,
+      "author_final_check": "pending",
+      "formal_version_parity_closed": false,
+      "full_source_close_read_completed": false,
+      "read_version_identity": "author_preprint"
+    },
+    {
+      "claim_id": "C-B01-053-05",
+      "evidence_id": "E-B01-053",
+      "reference_number": 53,
+      "doi": "10.1002/sat.70082",
+      "claim_text": "Nano Super最大功率在p15正文为15W，而p16 Table 3为25W；所用能耗参数尚不能唯一确定。",
+      "claim_text_sha256": "1d68d11edf6ab421458a1cacfaa4ca4859cdc678d76dd075eeda0b735522f439",
+      "claim_type": "source_finding_or_scope_limit",
+      "pdf_sha256": "b18022c2b14b5c9931fea8192e76751c0899e9f472d90e7d899f46732aba4749",
+      "pdf_physical_pages": [
+        15,
+        16
+      ],
+      "source_locator": "§5设置、Table 3",
+      "v19_block_ids": [
+        "t3",
+        "p45b"
+      ],
+      "assessment": "source_internal_inconsistency",
+      "support_level": "AI_check_of_specified_author_version_only",
+      "limitation_or_next_step": "保持POWER-53开放，未核正式版/代码前不新引用由该参数生成的精确能耗改进值。",
+      "human_verified": false,
+      "author_final_check": "pending",
+      "formal_version_parity_closed": false,
+      "full_source_close_read_completed": false,
+      "read_version_identity": "author_preprint"
+    },
+    {
+      "claim_id": "C-B01-053-06",
+      "evidence_id": "E-B01-053",
+      "reference_number": 53,
+      "doi": "10.1002/sat.70082",
+      "claim_text": "p18正文说重调度目标比例上限38.6%，而Table 4四行最大为38.4%；差异未解释。",
+      "claim_text_sha256": "61629eb4cf1aa13f4214e8e87421a89793b5c0ac7b82c644ee48321a9368a05c",
+      "claim_type": "source_finding_or_scope_limit",
+      "pdf_sha256": "b18022c2b14b5c9931fea8192e76751c0899e9f472d90e7d899f46732aba4749",
+      "pdf_physical_pages": [
+        18
+      ],
+      "source_locator": "§5.1、Table 4",
+      "v19_block_ids": [
+        "t3",
+        "p45b"
+      ],
+      "assessment": "source_internal_inconsistency",
+      "support_level": "AI_check_of_specified_author_version_only",
+      "limitation_or_next_step": "当前主稿未引用此比例；不择一覆盖，待正式版或作者/代码澄清。",
+      "human_verified": false,
+      "author_final_check": "pending",
+      "formal_version_parity_closed": false,
+      "full_source_close_read_completed": false,
+      "read_version_identity": "author_preprint"
+    },
+    {
+      "claim_id": "C-B01-053-07",
+      "evidence_id": "E-B01-053",
+      "reference_number": 53,
+      "doi": "10.1002/sat.70082",
+      "claim_text": "边缘层为23节点，Table 3设置10Gbps ISL和10秒时隙；GPU执行统计来自设备测试，CPU参数有架构估计，属于模型/设备算例。",
+      "claim_text_sha256": "4078fb4c56a0755436dd1da8cfb51d72ec6cbd7c97dd2be063877255e2ec4b93",
+      "claim_type": "source_finding_or_scope_limit",
+      "pdf_sha256": "b18022c2b14b5c9931fea8192e76751c0899e9f472d90e7d899f46732aba4749",
+      "pdf_physical_pages": [
+        15,
+        16,
+        18,
+        20
+      ],
+      "source_locator": "§5设置、Table 3、§5.2",
+      "v19_block_ids": [
+        "p41a",
+        "t3",
+        "p45b"
+      ],
+      "assessment": "supported_in_read_author_version",
+      "support_level": "AI_check_of_specified_author_version_only",
+      "limitation_or_next_step": "不是完整星上在轨处理测量；不把1或4颗采集卫星与23节点无条件相加为统一验证规模。",
+      "human_verified": false,
+      "author_final_check": "pending",
+      "formal_version_parity_closed": false,
+      "full_source_close_read_completed": false,
+      "read_version_identity": "author_preprint"
+    },
+    {
+      "claim_id": "C-B01-074-01",
+      "evidence_id": "E-B01-074",
+      "reference_number": 74,
+      "doi": "10.23919/JCC.ja.2022-0864",
+      "claim_text": "先按平均功率Pmax/K进行潜在博弈选束，再固定已选波束连续配置功率；按供需平方差评价。",
+      "claim_text_sha256": "a134c67aaa5d271c68cef3d6472fe7ac5cb6f2f6f8ef4d4950467eaf3b5bd34d",
+      "claim_type": "source_finding_or_scope_limit",
+      "pdf_sha256": "187d8cd2260d44de077533918a4b660ae70bb90815f15a9891e0a5d0d1c98ef2",
+      "pdf_physical_pages": [
+        5,
+        6,
+        7
+      ],
+      "source_locator": "式(7)-(8)、§3、Algorithm 2",
+      "v19_block_ids": [
+        "p331b",
+        "t4",
+        "t6"
+      ],
+      "assessment": "supported_in_read_author_version",
+      "support_level": "AI_check_of_specified_author_version_only",
+      "limitation_or_next_step": "潜在博弈收敛到均衡不证明完整离散连续问题全局最优。",
+      "human_verified": false,
+      "author_final_check": "pending",
+      "formal_version_parity_closed": false,
+      "full_source_close_read_completed": false,
+      "read_version_identity": "author_preprint"
+    },
+    {
+      "claim_id": "C-B01-074-02",
+      "evidence_id": "E-B01-074",
+      "reference_number": 74,
+      "doi": "10.23919/JCC.ja.2022-0864",
+      "claim_text": "功率阶段为非凸问题，使用罚函数内点/Newton及信赖域近似；槽间更新到达、位置及剩余需求。",
+      "claim_text_sha256": "660798b2d0be4132c5f14900fdbda7d153a38f272883de69139ead66e3b0064f",
+      "claim_type": "source_finding_or_scope_limit",
+      "pdf_sha256": "187d8cd2260d44de077533918a4b660ae70bb90815f15a9891e0a5d0d1c98ef2",
+      "pdf_physical_pages": [
+        6,
+        7
+      ],
+      "source_locator": "§3.2、Algorithm 2",
+      "v19_block_ids": [
+        "p331b",
+        "t4",
+        "t6"
+      ],
+      "assessment": "supported_in_read_author_version",
+      "support_level": "AI_check_of_specified_author_version_only",
+      "limitation_or_next_step": "阶段固定当前选择与整个时域静态不能混同；附录证明未核。",
+      "human_verified": false,
+      "author_final_check": "pending",
+      "formal_version_parity_closed": false,
+      "full_source_close_read_completed": false,
+      "read_version_identity": "author_preprint"
+    },
+    {
+      "claim_id": "C-B01-074-03",
+      "evidence_id": "E-B01-074",
+      "reference_number": 74,
+      "doi": "10.23919/JCC.ja.2022-0864",
+      "claim_text": "实验为单星8波束61位置，时隙0.5ms、周期20ms、位置更新200ms、仿真20s。",
+      "claim_text_sha256": "f55566f7e6ca91f32bfaed1d0c86585d8f0d03d9da2a4c95dc784d5c5939682a",
+      "claim_type": "source_finding_or_scope_limit",
+      "pdf_sha256": "187d8cd2260d44de077533918a4b660ae70bb90815f15a9891e0a5d0d1c98ef2",
+      "pdf_physical_pages": [
+        8
+      ],
+      "source_locator": "§4.1、Table 2",
+      "v19_block_ids": [
+        "p331b",
+        "t4",
+        "p41a"
+      ],
+      "assessment": "qualification_needed",
+      "support_level": "AI_check_of_specified_author_version_only",
+      "limitation_or_next_step": "仿真时间步长不是已测得的星载算法执行/通信截止期。",
+      "human_verified": false,
+      "author_final_check": "pending",
+      "formal_version_parity_closed": false,
+      "full_source_close_read_completed": false,
+      "read_version_identity": "author_preprint"
+    },
+    {
+      "claim_id": "C-B01-074-04",
+      "evidence_id": "E-B01-074",
+      "reference_number": 74,
+      "doi": "10.23919/JCC.ja.2022-0864",
+      "claim_text": "式(14)-(15)对供给/需求满意度比使用Jain公平指数，较大表示更均衡。",
+      "claim_text_sha256": "35a4751c901a0f5bf2b8e4c6f1632e08e99329e17bb8b748fd3c1c719e167742",
+      "claim_type": "source_finding_or_scope_limit",
+      "pdf_sha256": "187d8cd2260d44de077533918a4b660ae70bb90815f15a9891e0a5d0d1c98ef2",
+      "pdf_physical_pages": [
+        10
+      ],
+      "source_locator": "§4.2、式(14)-(15)",
+      "v19_block_ids": [
+        "p331b",
+        "t4"
+      ],
+      "assessment": "supported_in_read_author_version",
+      "support_level": "AI_check_of_specified_author_version_only",
+      "limitation_or_next_step": "不是吞吐量原值公平，也不是[76]的队列年龄极差。",
+      "human_verified": false,
+      "author_final_check": "pending",
+      "formal_version_parity_closed": false,
+      "full_source_close_read_completed": false,
+      "read_version_identity": "author_preprint"
+    },
+    {
+      "claim_id": "C-B01-074-05",
+      "evidence_id": "E-B01-074",
+      "reference_number": 74,
+      "doi": "10.23919/JCC.ja.2022-0864",
+      "claim_text": "G-BH与G-BHPO采用相同贪心选束规则而功率不同；队列不同可改变后续选择；§4.3成本比较只比较选束阶段。",
+      "claim_text_sha256": "e3329634ac439fe126dc34e691f0cf02cb24058d46d150557f792e92745815ec",
+      "claim_type": "source_finding_or_scope_limit",
+      "pdf_sha256": "187d8cd2260d44de077533918a4b660ae70bb90815f15a9891e0a5d0d1c98ef2",
+      "pdf_physical_pages": [
+        8,
+        9,
+        11
+      ],
+      "source_locator": "§4.1基线、Fig.4、§4.3",
+      "v19_block_ids": [
+        "p331b",
+        "p331d",
+        "t4",
+        "p41a"
+      ],
+      "assessment": "qualification_needed",
+      "support_level": "AI_check_of_specified_author_version_only",
+      "limitation_or_next_step": "不是固定整条波束序列的单模块消融；不能宣称完整优化总成本已比较。",
+      "human_verified": false,
+      "author_final_check": "pending",
+      "formal_version_parity_closed": false,
+      "full_source_close_read_completed": false,
+      "read_version_identity": "author_preprint"
+    },
+    {
+      "claim_id": "C-B01-076-01",
+      "evidence_id": "E-B01-076",
+      "reference_number": 76,
+      "doi": "10.1109/TWC.2025.3545745",
+      "claim_text": "式(7)按小区队列包龄定义平均排队时延，式(8)用各星覆盖小区包龄的最大最小差累计为J；较小J更均衡，式(9)权衡吞吐与J。",
+      "claim_text_sha256": "62c0d3940169b808b36e972c732e9ce33bdfed3c397761982acd494a96c15e80",
+      "claim_type": "source_finding_or_scope_limit",
+      "pdf_sha256": "02511ba13f55a622d13ceb4b3261077aa067925b572784e32ae52740e8422bed",
+      "pdf_physical_pages": [
+        5
+      ],
+      "source_locator": "式(7)-(9)",
+      "v19_block_ids": [
+        "p331c",
+        "p331d",
+        "t4"
+      ],
+      "assessment": "supported_in_read_author_version",
+      "support_level": "AI_check_of_specified_author_version_only",
+      "limitation_or_next_step": "不是Jain指数，也不自动等于总体平均用户时延。",
+      "human_verified": false,
+      "author_final_check": "pending",
+      "formal_version_parity_closed": false,
+      "full_source_close_read_completed": false,
+      "read_version_identity": "author_preprint"
+    },
+    {
+      "claim_id": "C-B01-076-02",
+      "evidence_id": "E-B01-076",
+      "reference_number": 76,
+      "doi": "10.1109/TWC.2025.3545745",
+      "claim_text": "全球DT用流量预测及MA3C-BH配置选束，选束固定后各星用MAPA/MADDPG连续动作配功率；训练使用全局状态/评论家。",
+      "claim_text_sha256": "085c329d988bbebca7e5a267771bec9dec61901f7c640b82b7848910e4ae79ec",
+      "claim_type": "source_finding_or_scope_limit",
+      "pdf_sha256": "02511ba13f55a622d13ceb4b3261077aa067925b572784e32ae52740e8422bed",
+      "pdf_physical_pages": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "source_locator": "§III-IV，MA3C-BH、MAPA",
+      "v19_block_ids": [
+        "p331c",
+        "t4",
+        "t6"
+      ],
+      "assessment": "supported_in_read_author_version",
+      "support_level": "AI_check_of_specified_author_version_only",
+      "limitation_or_next_step": "所提方法为分阶段协作，不是DPA的单个离散功率联合策略；未测DT同步完整端到端延迟。",
+      "human_verified": false,
+      "author_final_check": "pending",
+      "formal_version_parity_closed": false,
+      "full_source_close_read_completed": false,
+      "read_version_identity": "author_preprint"
+    },
+    {
+      "claim_id": "C-B01-076-03",
+      "evidence_id": "E-B01-076",
+      "reference_number": 76,
+      "doi": "10.1109/TWC.2025.3545745",
+      "claim_text": "FPA采用需求感知选束及均分功率；DPA在DT中由每星代理联合选束和离散功率；与所提方法存在动作表示及组织方式差异。",
+      "claim_text_sha256": "9f8b78ce3f1f2735f758eb297c801b300f16c0586a65995017b30a1773154ed4",
+      "claim_type": "source_finding_or_scope_limit",
+      "pdf_sha256": "02511ba13f55a622d13ceb4b3261077aa067925b572784e32ae52740e8422bed",
+      "pdf_physical_pages": [
+        9,
+        10
+      ],
+      "source_locator": "§V.A比较方案",
+      "v19_block_ids": [
+        "p331d",
+        "t4"
+      ],
+      "assessment": "supported_in_read_author_version",
+      "support_level": "AI_check_of_specified_author_version_only",
+      "limitation_or_next_step": "不能用FPA/DPA全部差异归因于一个功率模块。",
+      "human_verified": false,
+      "author_final_check": "pending",
+      "formal_version_parity_closed": false,
+      "full_source_close_read_completed": false,
+      "read_version_identity": "author_preprint"
+    },
+    {
+      "claim_id": "C-B01-076-04",
+      "evidence_id": "E-B01-076",
+      "reference_number": 76,
+      "doi": "10.1109/TWC.2025.3545745",
+      "claim_text": "Table II为12星、每星19覆盖小区、覆盖并集168小区、每星4束；2ms时隙、64槽周期，训练各6000轮。",
+      "claim_text_sha256": "ba3c2ac50125b8eb8f6f3f8dd278bf76e29a7251f14b8c012096d76daedf3a5f",
+      "claim_type": "source_finding_or_scope_limit",
+      "pdf_sha256": "02511ba13f55a622d13ceb4b3261077aa067925b572784e32ae52740e8422bed",
+      "pdf_physical_pages": [
+        10
+      ],
+      "source_locator": "Table II、§V.A",
+      "v19_block_ids": [
+        "p331c",
+        "t4",
+        "p41a"
+      ],
+      "assessment": "qualification_needed",
+      "support_level": "AI_check_of_specified_author_version_only",
+      "limitation_or_next_step": "2ms是仿真离散步，不是DT同步、推断、执行实测闭环耗时。",
+      "human_verified": false,
+      "author_final_check": "pending",
+      "formal_version_parity_closed": false,
+      "full_source_close_read_completed": false,
+      "read_version_identity": "author_preprint"
+    },
+    {
+      "claim_id": "C-B01-076-05",
+      "evidence_id": "E-B01-076",
+      "reference_number": 76,
+      "doi": "10.1109/TWC.2025.3545745",
+      "claim_text": "Fig.8中8-20Gbit/s负载FPA与DPA吞吐接近，超过20Gbit/s后DPA较高。",
+      "claim_text_sha256": "a84819cd8a43980c70dce352de910330f0a1e707d3b7f0fc783bc9cba3cde202",
+      "claim_type": "source_finding_or_scope_limit",
+      "pdf_sha256": "02511ba13f55a622d13ceb4b3261077aa067925b572784e32ae52740e8422bed",
+      "pdf_physical_pages": [
+        11
+      ],
+      "source_locator": "§V.B.2、Fig.8",
+      "v19_block_ids": [
+        "p331d",
+        "t4"
+      ],
+      "assessment": "supported_in_read_author_version",
+      "support_level": "AI_check_of_specified_author_version_only",
+      "limitation_or_next_step": "趋势限于原作者设置；不从图像读取新的精确数据或推广统一转折阈值。",
+      "human_verified": false,
+      "author_final_check": "pending",
+      "formal_version_parity_closed": false,
+      "full_source_close_read_completed": false,
+      "read_version_identity": "author_preprint"
+    },
+    {
+      "claim_id": "C-B01-076-06",
+      "evidence_id": "E-B01-076",
+      "reference_number": 76,
+      "doi": "10.1109/TWC.2025.3545745",
+      "claim_text": "Fig.10/11图注称delay fairness，纵轴标Delay(ms)，相邻文字又称average queueing delay，数值口径仍歧义。",
+      "claim_text_sha256": "8f59b953a51f7f9cb5cbea335d7c12cba0d704dedff9990946812a8c19674ca9",
+      "claim_type": "source_finding_or_scope_limit",
+      "pdf_sha256": "02511ba13f55a622d13ceb4b3261077aa067925b572784e32ae52740e8422bed",
+      "pdf_physical_pages": [
+        5,
+        11,
+        12
+      ],
+      "source_locator": "式(8)、§V.B.4、Fig.10/11",
+      "v19_block_ids": [
+        "p331c",
+        "t4",
+        "p45b"
+      ],
+      "assessment": "unresolved_metric_ambiguity",
+      "support_level": "AI_check_of_specified_author_version_only",
+      "limitation_or_next_step": "平均时延改进百分比不作为本轮确认事实；需正式版、结果代码或作者解释。",
+      "human_verified": false,
+      "author_final_check": "pending",
+      "formal_version_parity_closed": false,
+      "full_source_close_read_completed": false,
+      "read_version_identity": "author_preprint"
+    },
+    {
+      "claim_id": "C-B01-076-07",
+      "evidence_id": "E-B01-076",
+      "reference_number": 76,
+      "doi": "10.1109/TWC.2025.3545745",
+      "claim_text": "p11的低负载比较句将FPA同时写作两侧对象，存在文字内部笔误；图8可支持接近趋势但不能据该句判谁略高。",
+      "claim_text_sha256": "d94336eba499602776802c8d37ace42e10bd11823ad05d638a469f49400e456a",
+      "claim_type": "source_finding_or_scope_limit",
+      "pdf_sha256": "02511ba13f55a622d13ceb4b3261077aa067925b572784e32ae52740e8422bed",
+      "pdf_physical_pages": [
+        11
+      ],
+      "source_locator": "§V.B.2、Fig.8",
+      "v19_block_ids": [
+        "p331d"
+      ],
+      "assessment": "source_internal_inconsistency",
+      "support_level": "AI_check_of_specified_author_version_only",
+      "limitation_or_next_step": "保留v1.9的“吞吐接近”，不凭推测改成FPA或DPA严格领先。",
+      "human_verified": false,
+      "author_final_check": "pending",
+      "formal_version_parity_closed": false,
+      "full_source_close_read_completed": false,
+      "read_version_identity": "author_preprint"
+    },
+    {
+      "claim_id": "C-B01-121-01",
+      "evidence_id": "E-B01-121",
+      "reference_number": 121,
+      "doi": "10.1109/TAES.2024.3415571",
+      "claim_text": "平均时延分解为传播/节点项与统一建链时延乘路由变化比例；假设预知未来拓扑、控制器提前分发、忽略排队和初始配置。",
+      "claim_text_sha256": "25d082f16deede45d86fc732b3bc0b74463b9bec4c71e574a00c1b084c4117f9",
+      "claim_type": "source_finding_or_scope_limit",
+      "pdf_sha256": "9c64779192379dc60f8ff79b896ca429b0b63f4f78e2792576729f0226ce032e",
+      "pdf_physical_pages": [
+        4,
+        5,
+        6
+      ],
+      "source_locator": "§II-III、式(8)-(10)",
+      "v19_block_ids": [
+        "p333b",
+        "p43b",
+        "t4"
+      ],
+      "assessment": "supported_in_read_author_version",
+      "support_level": "AI_check_of_specified_author_version_only",
+      "limitation_or_next_step": "并行建立链路使代价按一次路由变化计；不是每条新边代价之和，亦非多业务拥塞实验。",
+      "human_verified": false,
+      "author_final_check": "pending",
+      "formal_version_parity_closed": false,
+      "full_source_close_read_completed": false,
+      "read_version_identity": "author_preprint"
+    },
+    {
+      "claim_id": "C-B01-121-02",
+      "evidence_id": "E-B01-121",
+      "reference_number": 121,
+      "doi": "10.1109/TAES.2024.3415571",
+      "claim_text": "ILSR每快照瞬时最短路，ILPR保持路线至失效，ALPR在边不相交候选中考虑生命周期，ISASR修改活动/稳定性相关代价后求最短路。",
+      "claim_text_sha256": "a968dd8d1f3c751366499d86eaa2e8bfe3056328cd32e349af4ef768505715ff",
+      "claim_type": "source_finding_or_scope_limit",
+      "pdf_sha256": "9c64779192379dc60f8ff79b896ca429b0b63f4f78e2792576729f0226ce032e",
+      "pdf_physical_pages": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "source_locator": "§IV、Algorithms 1-3",
+      "v19_block_ids": [
+        "p333b",
+        "p334a",
+        "p43b",
+        "t4"
+      ],
+      "assessment": "supported_in_read_author_version",
+      "support_level": "AI_check_of_specified_author_version_only",
+      "limitation_or_next_step": "候选限制可漏掉组合路线；本文未独立证明所述NP-hard性或全局最优。",
+      "human_verified": false,
+      "author_final_check": "pending",
+      "formal_version_parity_closed": false,
+      "full_source_close_read_completed": false,
+      "read_version_identity": "author_preprint"
+    },
+    {
+      "claim_id": "C-B01-121-03",
+      "evidence_id": "E-B01-121",
+      "reference_number": 121,
+      "doi": "10.1109/TAES.2024.3415571",
+      "claim_text": "Table III采用1584星24×66、550km、53度、1500km LISL范围、节点1ms、600个1秒快照，STK生成拓扑、Python求路线。",
+      "claim_text_sha256": "7621e53e10b9baea45adb239a72733ed46974264e74a36fec52208684b5bc872",
+      "claim_type": "source_finding_or_scope_limit",
+      "pdf_sha256": "9c64779192379dc60f8ff79b896ca429b0b63f4f78e2792576729f0226ce032e",
+      "pdf_physical_pages": [
+        10
+      ],
+      "source_locator": "§V.A、Table III",
+      "v19_block_ids": [
+        "p333b",
+        "t4",
+        "p41b"
+      ],
+      "assessment": "supported_in_read_author_version",
+      "support_level": "AI_check_of_specified_author_version_only",
+      "limitation_or_next_step": "网络节点多不等于多业务联合调度；主要考察单个GS源目的连接。",
+      "human_verified": false,
+      "author_final_check": "pending",
+      "formal_version_parity_closed": false,
+      "full_source_close_read_completed": false,
+      "read_version_identity": "author_preprint"
+    },
+    {
+      "claim_id": "C-B01-121-04",
+      "evidence_id": "E-B01-121",
+      "reference_number": 121,
+      "doi": "10.1109/TAES.2024.3415571",
+      "claim_text": "η_s=1ms时ILPR和ALPR平均时延略劣于ILSR，ISASR仍可更优；不可泛化为所有活动感知方法均失效。",
+      "claim_text_sha256": "0d5c591aca6439f8935149474dcf5ba0d87c223982c3984fb3269c8923b5cd63",
+      "claim_type": "source_finding_or_scope_limit",
+      "pdf_sha256": "9c64779192379dc60f8ff79b896ca429b0b63f4f78e2792576729f0226ce032e",
+      "pdf_physical_pages": [
+        10,
+        11
+      ],
+      "source_locator": "§V.B、Fig.3",
+      "v19_block_ids": [
+        "p333b",
+        "p41b",
+        "p43b"
+      ],
+      "assessment": "supported_in_read_author_version",
+      "support_level": "AI_check_of_specified_author_version_only",
+      "limitation_or_next_step": "定性图示已核；不新增读图精确数值。",
+      "human_verified": false,
+      "author_final_check": "pending",
+      "formal_version_parity_closed": false,
+      "full_source_close_read_completed": false,
+      "read_version_identity": "author_preprint"
+    },
+    {
+      "claim_id": "C-B01-121-05",
+      "evidence_id": "E-B01-121",
+      "reference_number": 121,
+      "doi": "10.1109/TAES.2024.3415571",
+      "claim_text": "主性能设置cost_thrsh=100以不移除边；计算时间分析段另明确采用cost_thrsh=1。",
+      "claim_text_sha256": "59f47353d1c95daf64796d2b5b2c29acf7f3b264c842ea2c8f8595fd1bb87103",
+      "claim_type": "source_finding_or_scope_limit",
+      "pdf_sha256": "9c64779192379dc60f8ff79b896ca429b0b63f4f78e2792576729f0226ce032e",
+      "pdf_physical_pages": [
+        10,
+        13
+      ],
+      "source_locator": "Table III、§V.A、§V.D",
+      "v19_block_ids": [
+        "p333b",
+        "t4",
+        "p41b",
+        "p43b"
+      ],
+      "assessment": "qualification_needed",
+      "support_level": "AI_check_of_specified_author_version_only",
+      "limitation_or_next_step": "不能默认性能和成本图同配置，或直接拼成某个固定阈值的性能成本点；未运行代码重测。",
+      "human_verified": false,
+      "author_final_check": "pending",
+      "formal_version_parity_closed": false,
+      "full_source_close_read_completed": false,
+      "read_version_identity": "author_preprint"
+    },
+    {
+      "claim_id": "C-B01-121-06",
+      "evidence_id": "E-B01-121",
+      "reference_number": 121,
+      "doi": "10.1109/TAES.2024.3415571",
+      "claim_text": "Fig.6计算成本覆盖600槽路由计算，100次迭代取平均，平台为2.3GHz i5和20GB RAM。",
+      "claim_text_sha256": "93437d43c3264384deb22a11c0e296cc2fff0239e24941745557505ffc49d78b",
+      "claim_type": "source_finding_or_scope_limit",
+      "pdf_sha256": "9c64779192379dc60f8ff79b896ca429b0b63f4f78e2792576729f0226ce032e",
+      "pdf_physical_pages": [
+        12
+      ],
+      "source_locator": "§V.D、Fig.6",
+      "v19_block_ids": [
+        "p41b",
+        "t4"
+      ],
+      "assessment": "supported_in_read_author_version",
+      "support_level": "AI_check_of_specified_author_version_only",
+      "limitation_or_next_step": "不是每个快照执行时间或星上实测延迟；不与[44]1小时预算作跨文算法速度排名。",
+      "human_verified": false,
+      "author_final_check": "pending",
+      "formal_version_parity_closed": false,
+      "full_source_close_read_completed": false,
+      "read_version_identity": "author_preprint"
+    },
+    {
+      "claim_id": "C-B01-121-07",
+      "evidence_id": "E-B01-121",
+      "reference_number": 121,
+      "doi": "10.1109/TAES.2024.3415571",
+      "claim_text": "outage定义为瞬时端到端时延超过QoS阈值；η_s=1000/100/10/1ms时分别设η_Q=40/35/30/27ms。",
+      "claim_text_sha256": "5b376ec3c58e17d5377440c30ca3fd31bfdaad120279bcdcd37c6d74a611c12b",
+      "claim_type": "source_finding_or_scope_limit",
+      "pdf_sha256": "9c64779192379dc60f8ff79b896ca429b0b63f4f78e2792576729f0226ce032e",
+      "pdf_physical_pages": [
+        13
+      ],
+      "source_locator": "§V.E，η_Q定义及脚注4",
+      "v19_block_ids": [
+        "p333b",
+        "p43b",
+        "t4"
+      ],
+      "assessment": "qualification_needed",
+      "support_level": "AI_check_of_specified_author_version_only",
+      "limitation_or_next_step": "不是物理断链概率；跨建链时延点的QoS阈值也改变，不能当成单因素固定阈值比较。",
+      "human_verified": false,
+      "author_final_check": "pending",
+      "formal_version_parity_closed": false,
+      "full_source_close_read_completed": false,
+      "read_version_identity": "author_preprint"
+    },
+    {
+      "claim_id": "C-B01-121-08",
+      "evidence_id": "E-B01-121",
+      "reference_number": 121,
+      "doi": "10.1109/TAES.2024.3415571",
+      "claim_text": "arXiv物理6/10/11/12页与NRC接受稿7/11/12/13页视觉检查并完成去版本声明/空白的提取文字比较，四对均相同。",
+      "claim_text_sha256": "3b7b1056973e60dc35e3630d9c0518cf2ad0eb5a1fac1c28017861a14bc67d2d",
+      "claim_type": "source_finding_or_scope_limit",
+      "pdf_sha256": "9c64779192379dc60f8ff79b896ca429b0b63f4f78e2792576729f0226ce032e",
+      "pdf_physical_pages": [
+        6,
+        10,
+        11,
+        12
+      ],
+      "source_locator": "B01 PAIR_121_AUTHOR_VERSIONS.json",
+      "v19_block_ids": [
+        "p333b",
+        "t4"
+      ],
+      "assessment": "limited_author_pair_match",
+      "support_level": "AI_check_of_specified_author_version_only",
+      "limitation_or_next_step": "仅所选四页的规范化文字相同，不是整篇、像素或正式版一致性；第13页阈值变化未作作者双版本配对。",
+      "human_verified": false,
+      "author_final_check": "pending",
+      "formal_version_parity_closed": false,
+      "full_source_close_read_completed": false,
+      "read_version_identity": "author_preprint",
+      "secondary_pdf_sha256": "5a1b84d8895ddbc46d9e4c1f5d3e7b7c083593d4c1e40e0f3f5f1d4c797c8964"
+    }
+  ]
+}
