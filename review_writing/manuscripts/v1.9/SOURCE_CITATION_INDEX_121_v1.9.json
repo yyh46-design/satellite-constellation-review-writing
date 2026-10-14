@@ -967,7 +967,13 @@
       "title": "Joint observation and transmission scheduling of multiple agile satellites with energy constraint using improved ACO algorithm",
       "kind": "academic",
       "evidence_state": "inherited_from_v1.7_not_reaudited",
-      "manuscript_cn_blocks": [],
+      "manuscript_cn_blocks": [
+        {
+          "id": "p322a2",
+          "line": 123,
+          "type": "paragraph"
+        }
+      ],
       "round4_claim_ids": [],
       "formal_version_parity_closed": null,
       "human_verified": false
@@ -1049,7 +1055,13 @@
       "title": "Tip-and-cue mission scheduling in heterogeneous satellite constellations using mixed-integer linear programming",
       "kind": "academic",
       "evidence_state": "inherited_from_v1.7_not_reaudited",
-      "manuscript_cn_blocks": [],
+      "manuscript_cn_blocks": [
+        {
+          "id": "p322a2",
+          "line": 123,
+          "type": "paragraph"
+        }
+      ],
       "round4_claim_ids": [],
       "formal_version_parity_closed": null,
       "human_verified": false
