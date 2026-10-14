@@ -1,0 +1,2854 @@
+{
+  "document_id": "REVIEW_CN_v1.9",
+  "purpose": "Lightweight mapping 121 source identities to new manuscript blocks; all historical evidence at immutable parent records",
+  "source_parent_v1_8_sha256": "6712b6ba2c5fdcc959fc4da8c6459aab06d9266d5ee4c4dd1901cc93b875c565",
+  "references": [
+    {
+      "n": 1,
+      "doi": "10.1016/j.asr.2020.08.009",
+      "title": "Towards the automated operations of large distributed satellite systems. Part 1: Review and paradigm shifts",
+      "kind": "academic",
+      "evidence_state": "inherited_from_v1.7_not_reaudited",
+      "manuscript_cn_blocks": [
+        {
+          "id": "p11a",
+          "line": 21,
+          "type": "paragraph"
+        },
+        {
+          "id": "p12a",
+          "line": 27,
+          "type": "paragraph"
+        },
+        {
+          "id": "t1",
+          "line": 31,
+          "type": "table"
+        }
+      ],
+      "round4_claim_ids": [],
+      "formal_version_parity_closed": null,
+      "human_verified": false
+    },
+    {
+      "n": 2,
+      "doi": "10.2514/1.A35982",
+      "title": "Space Logistics Modeling and Optimization: Review of the State of the Art",
+      "kind": "academic",
+      "evidence_state": "inherited_from_v1.7_not_reaudited",
+      "manuscript_cn_blocks": [
+        {
+          "id": "p11b",
+          "line": 23,
+          "type": "paragraph"
+        }
+      ],
+      "round4_claim_ids": [],
+      "formal_version_parity_closed": null,
+      "human_verified": false
+    },
+    {
+      "n": 3,
+      "doi": "10.1109/JSYST.2020.2997050",
+      "title": "Agile Earth Observation Satellite Scheduling Over 20 Years: Formulations, Methods, and Future Directions",
+      "kind": "academic",
+      "evidence_state": "inherited_from_v1.7_not_reaudited",
+      "manuscript_cn_blocks": [
+        {
+          "id": "p12a",
+          "line": 27,
+          "type": "paragraph"
+        },
+        {
+          "id": "t1",
+          "line": 31,
+          "type": "table"
+        }
+      ],
+      "round4_claim_ids": [],
+      "formal_version_parity_closed": null,
+      "human_verified": false
+    },
+    {
+      "n": 4,
+      "doi": "10.1016/j.cor.2024.106875",
+      "title": "Satellite Scheduling Problems: A survey of applications in Earth and outer space observation",
+      "kind": "academic",
+      "evidence_state": "inherited_from_v1.7_not_reaudited",
+      "manuscript_cn_blocks": [
+        {
+          "id": "p12a",
+          "line": 27,
+          "type": "paragraph"
+        },
+        {
+          "id": "t1",
+          "line": 31,
+          "type": "table"
+        }
+      ],
+      "round4_claim_ids": [],
+      "formal_version_parity_closed": null,
+      "human_verified": false
+    },
+    {
+      "n": 5,
+      "doi": "10.1016/j.actaastro.2025.10.018",
+      "title": "Agent-based approaches for distributed space systems and mission management: Methodologies, current practices and challenges",
+      "kind": "academic",
+      "evidence_state": "inherited_from_v1.7_not_reaudited",
+      "manuscript_cn_blocks": [
+        {
+          "id": "p12a",
+          "line": 27,
+          "type": "paragraph"
+        },
+        {
+          "id": "t1",
+          "line": 31,
+          "type": "table"
+        }
+      ],
+      "round4_claim_ids": [],
+      "formal_version_parity_closed": null,
+      "human_verified": false
+    },
+    {
+      "n": 6,
+      "doi": "10.1016/j.asr.2020.08.018",
+      "title": "Towards the automated operations of large distributed satellite systems. Part 2: Classifications and tools",
+      "kind": "academic",
+      "evidence_state": "inherited_from_v1.7_not_reaudited",
+      "manuscript_cn_blocks": [
+        {
+          "id": "p12a",
+          "line": 27,
+          "type": "paragraph"
+        },
+        {
+          "id": "t1",
+          "line": 31,
+          "type": "table"
+        },
+        {
+          "id": "p35a",
+          "line": 240,
+          "type": "paragraph"
+        }
+      ],
+      "round4_claim_ids": [],
+      "formal_version_parity_closed": null,
+      "human_verified": false
+    },
+    {
+      "n": 7,
+      "doi": "10.7527/S1000-6893.2026.32935",
+      "title": "低轨巨型星座智能组网技术综述",
+      "kind": "academic",
+      "evidence_state": "inherited_from_v1.7_not_reaudited",
+      "manuscript_cn_blocks": [
+        {
+          "id": "p12a",
+          "line": 27,
+          "type": "paragraph"
+        },
+        {
+          "id": "t1",
+          "line": 31,
+          "type": "table"
+        }
+      ],
+      "round4_claim_ids": [],
+      "formal_version_parity_closed": null,
+      "human_verified": false
+    },
+    {
+      "n": 8,
+      "doi": "10.3873/j.issn.1000-1328.2026.02.002",
+      "title": "低轨通信卫星星座网络资源管控与优化技术综述",
+      "kind": "academic",
+      "evidence_state": "inherited_from_v1.7_not_reaudited",
+      "manuscript_cn_blocks": [
+        {
+          "id": "p12a",
+          "line": 27,
+          "type": "paragraph"
+        },
+        {
+          "id": "t1",
+          "line": 31,
+          "type": "table"
+        }
+      ],
+      "round4_claim_ids": [],
+      "formal_version_parity_closed": null,
+      "human_verified": false
+    },
+    {
+      "n": 9,
+      "doi": "10.3390/technologies13080312",
+      "title": "Toward Integrated Satellite Operations and Network Management: A Review and Novel Framework",
+      "kind": "academic",
+      "evidence_state": "inherited_from_v1.7_not_reaudited",
+      "manuscript_cn_blocks": [
+        {
+          "id": "p12b",
+          "line": 29,
+          "type": "paragraph"
+        },
+        {
+          "id": "t1",
+          "line": 31,
+          "type": "table"
+        },
+        {
+          "id": "p35d",
+          "line": 252,
+          "type": "paragraph"
+        },
+        {
+          "id": "fig2",
+          "line": 262,
+          "type": "figure"
+        },
+        {
+          "id": "t6",
+          "line": 286,
+          "type": "table"
+        }
+      ],
+      "round4_claim_ids": [],
+      "formal_version_parity_closed": null,
+      "human_verified": false
+    },
+    {
+      "n": 10,
+      "doi": "10.34133/space.0248",
+      "title": "Dynamic Management Topology Construction, Evolution, and Maintenance of Low Earth Orbit Mega-Constellation",
+      "kind": "academic",
+      "evidence_state": "inherited_from_v1.7_not_reaudited",
+      "manuscript_cn_blocks": [
+        {
+          "id": "p23a",
+          "line": 63,
+          "type": "paragraph"
+        }
+      ],
+      "round4_claim_ids": [],
+      "formal_version_parity_closed": null,
+      "human_verified": false
+    },
+    {
+      "n": 11,
+      "doi": "10.1016/j.actaastro.2014.02.016",
+      "title": "Optimization of satellite constellation reconfiguration maneuvers",
+      "kind": "academic",
+      "evidence_state": "inherited_from_v1.7_not_reaudited",
+      "manuscript_cn_blocks": [
+        {
+          "id": "p31a",
+          "line": 91,
+          "type": "paragraph"
+        }
+      ],
+      "round4_claim_ids": [],
+      "formal_version_parity_closed": null,
+      "human_verified": false
+    },
+    {
+      "n": 12,
+      "doi": "10.2514/1.A35685",
+      "title": "Regional Constellation Reconfiguration Problem: Integer Linear Programming Formulation and Lagrangian Heuristic Method",
+      "kind": "academic",
+      "evidence_state": "inherited_from_v1.7_not_reaudited",
+      "manuscript_cn_blocks": [
+        {
+          "id": "p31a",
+          "line": 91,
+          "type": "paragraph"
+        }
+      ],
+      "round4_claim_ids": [],
+      "formal_version_parity_closed": null,
+      "human_verified": false
+    },
+    {
+      "n": 13,
+      "doi": "10.2514/1.A35990",
+      "title": "Deterministic Multistage Constellation Reconfiguration Using Integer Programming and Sequential Decision-Making Methods",
+      "kind": "academic",
+      "evidence_state": "inherited_from_v1.7_not_reaudited",
+      "manuscript_cn_blocks": [
+        {
+          "id": "p31a",
+          "line": 91,
+          "type": "paragraph"
+        }
+      ],
+      "round4_claim_ids": [],
+      "formal_version_parity_closed": null,
+      "human_verified": false
+    },
+    {
+      "n": 14,
+      "doi": "10.2514/1.A34657",
+      "title": "Satellite Constellation Pattern Optimization for Complex Regional Coverage",
+      "kind": "academic",
+      "evidence_state": "inherited_from_v1.7_not_reaudited",
+      "manuscript_cn_blocks": [
+        {
+          "id": "p31a",
+          "line": 91,
+          "type": "paragraph"
+        }
+      ],
+      "round4_claim_ids": [],
+      "formal_version_parity_closed": null,
+      "human_verified": false
+    },
+    {
+      "n": 15,
+      "doi": "10.1016/j.actaastro.2018.03.054",
+      "title": "Optimization of satellite constellation deployment strategy considering uncertain areas of interest",
+      "kind": "academic",
+      "evidence_state": "inherited_from_v1.7_not_reaudited",
+      "manuscript_cn_blocks": [
+        {
+          "id": "p31a",
+          "line": 91,
+          "type": "paragraph"
+        }
+      ],
+      "round4_claim_ids": [],
+      "formal_version_parity_closed": null,
+      "human_verified": false
+    },
+    {
+      "n": 16,
+      "doi": "10.1007/s42405-026-01298-1",
+      "title": "Two-Stage Framework for Deployment-Aware Optimization of Satellite Constellation Pattern Design",
+      "kind": "academic",
+      "evidence_state": "inherited_from_v1.7_not_reaudited",
+      "manuscript_cn_blocks": [
+        {
+          "id": "p31b",
+          "line": 93,
+          "type": "paragraph"
+        }
+      ],
+      "round4_claim_ids": [],
+      "formal_version_parity_closed": null,
+      "human_verified": false
+    },
+    {
+      "n": 17,
+      "doi": "10.1016/j.comnet.2024.110942",
+      "title": "Joint satellite platform and constellation sizing for instantaneous beam-hopping in 5G/6G Non-Terrestrial Networks",
+      "kind": "academic",
+      "evidence_state": "inherited_from_v1.7_not_reaudited",
+      "manuscript_cn_blocks": [
+        {
+          "id": "p31b",
+          "line": 93,
+          "type": "paragraph"
+        },
+        {
+          "id": "p35c",
+          "line": 248,
+          "type": "paragraph"
+        }
+      ],
+      "round4_claim_ids": [],
+      "formal_version_parity_closed": null,
+      "human_verified": false
+    },
+    {
+      "n": 18,
+      "doi": "10.2514/1.A34387",
+      "title": "Optimal Satellite Constellation Spare Strategy Using Multi-Echelon Inventory Control",
+      "kind": "academic",
+      "evidence_state": "author_v4_targeted_reread_locator_restored",
+      "manuscript_cn_blocks": [
+        {
+          "id": "p31c",
+          "line": 97,
+          "type": "paragraph"
+        },
+        {
+          "id": "p45a",
+          "line": 326,
+          "type": "paragraph"
+        }
+      ],
+      "round4_claim_ids": [],
+      "formal_version_parity_closed": null,
+      "human_verified": false
+    },
+    {
+      "n": 19,
+      "doi": "10.2514/1.A36281",
+      "title": "Replenishment Strategy for Satellite Constellation with Dual Supply Modes",
+      "kind": "academic",
+      "evidence_state": "inherited_from_v1.7_not_reaudited",
+      "manuscript_cn_blocks": [
+        {
+          "id": "p31c2",
+          "line": 99,
+          "type": "paragraph"
+        },
+        {
+          "id": "p45a",
+          "line": 326,
+          "type": "paragraph"
+        }
+      ],
+      "round4_claim_ids": [],
+      "formal_version_parity_closed": null,
+      "human_verified": false
+    },
+    {
+      "n": 20,
+      "doi": "10.2514/1.A36599",
+      "title": "Spare Strategy Analysis and Design for Mega Satellite Constellations Using Markov Chain",
+      "kind": "academic",
+      "evidence_state": "inherited_from_v1.7_not_reaudited",
+      "manuscript_cn_blocks": [
+        {
+          "id": "p31c2",
+          "line": 99,
+          "type": "paragraph"
+        }
+      ],
+      "round4_claim_ids": [],
+      "formal_version_parity_closed": null,
+      "human_verified": false
+    },
+    {
+      "n": 21,
+      "doi": "10.1016/j.actaastro.2026.06.020",
+      "title": "Spare strategy for large-scale satellite constellations under dual resupply channels using Markov chain",
+      "kind": "academic",
+      "evidence_state": "inherited_from_v1.7_not_reaudited",
+      "manuscript_cn_blocks": [
+        {
+          "id": "p31c2",
+          "line": 99,
+          "type": "paragraph"
+        }
+      ],
+      "round4_claim_ids": [],
+      "formal_version_parity_closed": null,
+      "human_verified": false
+    },
+    {
+      "n": 22,
+      "doi": null,
+      "title": "Iridium Adds to Constellation Resilience with Launch of Spare Satellites",
+      "kind": "engineering",
+      "evidence_state": "inherited_from_v1.7_not_reaudited",
+      "manuscript_cn_blocks": [
+        {
+          "id": "p31d",
+          "line": 101,
+          "type": "paragraph"
+        },
+        {
+          "id": "p44a",
+          "line": 307,
+          "type": "paragraph"
+        },
+        {
+          "id": "t7",
+          "line": 309,
+          "type": "table"
+        }
+      ],
+      "round4_claim_ids": [],
+      "formal_version_parity_closed": null,
+      "human_verified": false
+    },
+    {
+      "n": 23,
+      "doi": "10.2514/1.A36684",
+      "title": "On-Orbit Servicing-Integrated Maintenance Strategy for a Satellite Constellation",
+      "kind": "academic",
+      "evidence_state": "formal_publisher_abstract_or_snippets_only_round4",
+      "manuscript_cn_blocks": [
+        {
+          "id": "p31c2",
+          "line": 99,
+          "type": "paragraph"
+        },
+        {
+          "id": "p35c",
+          "line": 248,
+          "type": "paragraph"
+        },
+        {
+          "id": "p45a",
+          "line": 326,
+          "type": "paragraph"
+        }
+      ],
+      "round4_claim_ids": [
+        "R4-23-1",
+        "R4-23-2"
+      ],
+      "formal_version_parity_closed": null,
+      "human_verified": false
+    },
+    {
+      "n": 24,
+      "doi": "10.2514/1.A35691",
+      "title": "Orbital Facility Location Problem for Satellite Constellation Servicing Depots",
+      "kind": "academic",
+      "evidence_state": "inherited_from_v1.7_not_reaudited",
+      "manuscript_cn_blocks": [
+        {
+          "id": "p31e",
+          "line": 105,
+          "type": "paragraph"
+        }
+      ],
+      "round4_claim_ids": [],
+      "formal_version_parity_closed": null,
+      "human_verified": false
+    },
+    {
+      "n": 25,
+      "doi": "10.2514/1.A36386",
+      "title": "Orbital Depot Location Optimization for Satellite Constellation Servicing with Low-Thrust Transfers",
+      "kind": "academic",
+      "evidence_state": "inherited_from_v1.7_not_reaudited",
+      "manuscript_cn_blocks": [
+        {
+          "id": "p31e",
+          "line": 105,
+          "type": "paragraph"
+        }
+      ],
+      "round4_claim_ids": [],
+      "formal_version_parity_closed": null,
+      "human_verified": false
+    },
+    {
+      "n": 26,
+      "doi": "10.1155/2021/6644339",
+      "title": "Deployment of On-Orbit Service Vehicles Using a Fuzzy Adaptive Particle Swarm Optimization Algorithm",
+      "kind": "academic",
+      "evidence_state": "inherited_from_v1.7_not_reaudited",
+      "manuscript_cn_blocks": [
+        {
+          "id": "p31e",
+          "line": 105,
+          "type": "paragraph"
+        }
+      ],
+      "round4_claim_ids": [],
+      "formal_version_parity_closed": null,
+      "human_verified": false
+    },
+    {
+      "n": 27,
+      "doi": "10.2514/1.A34978",
+      "title": "Framework for Modeling and Optimization of On-Orbit Servicing Operations Under Demand Uncertainties",
+      "kind": "academic",
+      "evidence_state": "inherited_from_v1.7_not_reaudited",
+      "manuscript_cn_blocks": [
+        {
+          "id": "p31e",
+          "line": 105,
+          "type": "paragraph"
+        },
+        {
+          "id": "p35c",
+          "line": 248,
+          "type": "paragraph"
+        }
+      ],
+      "round4_claim_ids": [],
+      "formal_version_parity_closed": null,
+      "human_verified": false
+    },
+    {
+      "n": 28,
+      "doi": "10.2514/1.A35094",
+      "title": "On-Orbit Servicing Optimization Framework with High- and Low-Thrust Propulsion Tradeoff",
+      "kind": "academic",
+      "evidence_state": "inherited_from_v1.7_not_reaudited",
+      "manuscript_cn_blocks": [
+        {
+          "id": "p31e",
+          "line": 105,
+          "type": "paragraph"
+        },
+        {
+          "id": "p35c",
+          "line": 248,
+          "type": "paragraph"
+        }
+      ],
+      "round4_claim_ids": [],
+      "formal_version_parity_closed": null,
+      "human_verified": false
+    },
+    {
+      "n": 29,
+      "doi": "10.1016/j.actaastro.2013.02.005",
+      "title": "On-orbit servicing system assessment and optimization methods based on lifecycle simulation under mixed aleatory and epistemic uncertainties",
+      "kind": "academic",
+      "evidence_state": "inherited_from_v1.7_not_reaudited",
+      "manuscript_cn_blocks": [
+        {
+          "id": "p31e",
+          "line": 105,
+          "type": "paragraph"
+        }
+      ],
+      "round4_claim_ids": [],
+      "formal_version_parity_closed": null,
+      "human_verified": false
+    },
+    {
+      "n": 30,
+      "doi": "10.1016/S1270-9638(02)01173-2",
+      "title": "Selecting and scheduling observations of agile satellites",
+      "kind": "academic",
+      "evidence_state": "inherited_from_v1.7_not_reaudited",
+      "manuscript_cn_blocks": [
+        {
+          "id": "p321a",
+          "line": 113,
+          "type": "paragraph"
+        }
+      ],
+      "round4_claim_ids": [],
+      "formal_version_parity_closed": null,
+      "human_verified": false
+    },
+    {
+      "n": 31,
+      "doi": "10.1109/TSMC.2020.3020732",
+      "title": "A Generic Markov Decision Process Model and Reinforcement Learning Method for Scheduling Agile Earth Observation Satellites",
+      "kind": "academic",
+      "evidence_state": "inherited_from_v1.7_not_reaudited",
+      "manuscript_cn_blocks": [
+        {
+          "id": "p321a",
+          "line": 113,
+          "type": "paragraph"
+        }
+      ],
+      "round4_claim_ids": [],
+      "formal_version_parity_closed": null,
+      "human_verified": false
+    },
+    {
+      "n": 32,
+      "doi": "10.1016/j.swevo.2024.101792",
+      "title": "A decompose-and-learn multi-objective algorithm for scheduling large-scale earth observation satellites",
+      "kind": "academic",
+      "evidence_state": "inherited_from_v1.7_not_reaudited",
+      "manuscript_cn_blocks": [
+        {
+          "id": "p321a",
+          "line": 113,
+          "type": "paragraph"
+        }
+      ],
+      "round4_claim_ids": [],
+      "formal_version_parity_closed": null,
+      "human_verified": false
+    },
+    {
+      "n": 33,
+      "doi": "10.1016/j.cor.2025.107259",
+      "title": "A branch-and-price algorithm for energy aware task scheduling of constellations of nanosatellites",
+      "kind": "academic",
+      "evidence_state": "formal_publisher_abstract_or_snippets_only_round4",
+      "manuscript_cn_blocks": [
+        {
+          "id": "p321a",
+          "line": 113,
+          "type": "paragraph"
+        },
+        {
+          "id": "p323a",
+          "line": 133,
+          "type": "paragraph"
+        },
+        {
+          "id": "t3",
+          "line": 145,
+          "type": "table"
+        },
+        {
+          "id": "p41a",
+          "line": 270,
+          "type": "paragraph"
+        }
+      ],
+      "round4_claim_ids": [
+        "R4-33-1"
+      ],
+      "formal_version_parity_closed": null,
+      "human_verified": false
+    },
+    {
+      "n": 34,
+      "doi": "10.2514/1.I011215",
+      "title": "Decentralized Observation Allocation for a Large-Scale Constellation",
+      "kind": "academic",
+      "evidence_state": "inherited_from_v1.7_not_reaudited",
+      "manuscript_cn_blocks": [
+        {
+          "id": "p23a",
+          "line": 63,
+          "type": "paragraph"
+        },
+        {
+          "id": "p321b",
+          "line": 115,
+          "type": "paragraph"
+        },
+        {
+          "id": "t3",
+          "line": 145,
+          "type": "table"
+        },
+        {
+          "id": "p41a",
+          "line": 270,
+          "type": "paragraph"
+        },
+        {
+          "id": "p41b",
+          "line": 272,
+          "type": "paragraph"
+        }
+      ],
+      "round4_claim_ids": [],
+      "formal_version_parity_closed": null,
+      "human_verified": false
+    },
+    {
+      "n": 35,
+      "doi": "10.1613/jair.1.16997",
+      "title": "Decentralized, Decomposition-Based Observation Scheduling for a Large-Scale Satellite Constellation",
+      "kind": "academic",
+      "evidence_state": "inherited_from_v1.7_not_reaudited",
+      "manuscript_cn_blocks": [
+        {
+          "id": "p23a",
+          "line": 63,
+          "type": "paragraph"
+        },
+        {
+          "id": "p321b",
+          "line": 115,
+          "type": "paragraph"
+        },
+        {
+          "id": "t3",
+          "line": 145,
+          "type": "table"
+        },
+        {
+          "id": "p41a",
+          "line": 270,
+          "type": "paragraph"
+        },
+        {
+          "id": "p41b",
+          "line": 272,
+          "type": "paragraph"
+        }
+      ],
+      "round4_claim_ids": [],
+      "formal_version_parity_closed": null,
+      "human_verified": false
+    },
+    {
+      "n": 36,
+      "doi": "10.1007/s10951-024-00816-x",
+      "title": "Scheduling of Earth observing satellites using distributed constraint optimization",
+      "kind": "academic",
+      "evidence_state": "inherited_from_v1.7_not_reaudited",
+      "manuscript_cn_blocks": [
+        {
+          "id": "p321c",
+          "line": 117,
+          "type": "paragraph"
+        }
+      ],
+      "round4_claim_ids": [],
+      "formal_version_parity_closed": null,
+      "human_verified": false
+    },
+    {
+      "n": 37,
+      "doi": "10.1109/TRO.2009.2022423",
+      "title": "Consensus-Based Decentralized Auctions for Robust Task Allocation",
+      "kind": "academic",
+      "evidence_state": "inherited_from_v1.7_not_reaudited",
+      "manuscript_cn_blocks": [
+        {
+          "id": "p321c",
+          "line": 117,
+          "type": "paragraph"
+        },
+        {
+          "id": "t3",
+          "line": 145,
+          "type": "table"
+        }
+      ],
+      "round4_claim_ids": [],
+      "formal_version_parity_closed": null,
+      "human_verified": false
+    },
+    {
+      "n": 38,
+      "doi": "10.1016/j.asr.2020.02.018",
+      "title": "Online scheduling of distributed Earth observation satellite system under rigid communication constraints",
+      "kind": "academic",
+      "evidence_state": "inherited_from_v1.7_not_reaudited",
+      "manuscript_cn_blocks": [
+        {
+          "id": "p321c",
+          "line": 117,
+          "type": "paragraph"
+        },
+        {
+          "id": "t3",
+          "line": 145,
+          "type": "table"
+        },
+        {
+          "id": "p43a",
+          "line": 299,
+          "type": "paragraph"
+        },
+        {
+          "id": "p45c",
+          "line": 330,
+          "type": "paragraph"
+        }
+      ],
+      "round4_claim_ids": [],
+      "formal_version_parity_closed": null,
+      "human_verified": false
+    },
+    {
+      "n": 39,
+      "doi": "10.1109/JSEE.2016.00066",
+      "title": "Distributed cooperative task planning algorithm for multiple satellites in delayed communication environment",
+      "kind": "academic",
+      "evidence_state": "inherited_from_v1.7_not_reaudited",
+      "manuscript_cn_blocks": [
+        {
+          "id": "p321c",
+          "line": 117,
+          "type": "paragraph"
+        }
+      ],
+      "round4_claim_ids": [],
+      "formal_version_parity_closed": null,
+      "human_verified": false
+    },
+    {
+      "n": 40,
+      "doi": "10.1016/j.asr.2021.09.003",
+      "title": "Onboard coordination and scheduling of multiple autonomous satellites in an uncertain environment",
+      "kind": "academic",
+      "evidence_state": "inherited_from_v1.7_not_reaudited",
+      "manuscript_cn_blocks": [
+        {
+          "id": "p321c",
+          "line": 117,
+          "type": "paragraph"
+        }
+      ],
+      "round4_claim_ids": [],
+      "formal_version_parity_closed": null,
+      "human_verified": false
+    },
+    {
+      "n": 41,
+      "doi": "10.24963/ijcai.2023/30",
+      "title": "Asynchronous Communication Aware Multi-Agent Task Allocation",
+      "kind": "academic",
+      "evidence_state": "inherited_from_v1.7_not_reaudited",
+      "manuscript_cn_blocks": [
+        {
+          "id": "p321c",
+          "line": 117,
+          "type": "paragraph"
+        },
+        {
+          "id": "t3",
+          "line": 145,
+          "type": "table"
+        }
+      ],
+      "round4_claim_ids": [],
+      "formal_version_parity_closed": null,
+      "human_verified": false
+    },
+    {
+      "n": 42,
+      "doi": "10.1109/TMC.2021.3076088",
+      "title": "Joint Observation and Transmission Scheduling in Agile Satellite Networks",
+      "kind": "academic",
+      "evidence_state": "author_version_targeted_body_read_round4_formal_parity_unverified",
+      "manuscript_cn_blocks": [
+        {
+          "id": "p24a",
+          "line": 67,
+          "type": "paragraph"
+        },
+        {
+          "id": "p322a",
+          "line": 121,
+          "type": "paragraph"
+        },
+        {
+          "id": "p322c",
+          "line": 127,
+          "type": "paragraph"
+        },
+        {
+          "id": "t3",
+          "line": 145,
+          "type": "table"
+        },
+        {
+          "id": "p35b",
+          "line": 244,
+          "type": "paragraph"
+        },
+        {
+          "id": "p41a",
+          "line": 270,
+          "type": "paragraph"
+        },
+        {
+          "id": "p42a",
+          "line": 278,
+          "type": "paragraph"
+        },
+        {
+          "id": "p42a2",
+          "line": 280,
+          "type": "paragraph"
+        },
+        {
+          "id": "t6",
+          "line": 286,
+          "type": "table"
+        },
+        {
+          "id": "p45b",
+          "line": 328,
+          "type": "paragraph"
+        }
+      ],
+      "round4_claim_ids": [
+        "R4-42-1",
+        "R4-42-2",
+        "R4-42-3"
+      ],
+      "formal_version_parity_closed": false,
+      "human_verified": false
+    },
+    {
+      "n": 43,
+      "doi": "10.1016/j.actaastro.2025.02.008",
+      "title": "Joint observation and transmission scheduling of multiple agile satellites with energy constraint using improved ACO algorithm",
+      "kind": "academic",
+      "evidence_state": "inherited_from_v1.7_not_reaudited",
+      "manuscript_cn_blocks": [],
+      "round4_claim_ids": [],
+      "formal_version_parity_closed": null,
+      "human_verified": false
+    },
+    {
+      "n": 44,
+      "doi": "10.1016/j.cor.2025.107212",
+      "title": "The integrated agile Earth observation satellite scheduling problem",
+      "kind": "academic",
+      "evidence_state": "author_version_targeted_body_read_round4_formal_parity_unverified",
+      "manuscript_cn_blocks": [
+        {
+          "id": "p24a",
+          "line": 67,
+          "type": "paragraph"
+        },
+        {
+          "id": "p322a2",
+          "line": 123,
+          "type": "paragraph"
+        },
+        {
+          "id": "p322c",
+          "line": 127,
+          "type": "paragraph"
+        },
+        {
+          "id": "t3",
+          "line": 145,
+          "type": "table"
+        },
+        {
+          "id": "p35b",
+          "line": 244,
+          "type": "paragraph"
+        },
+        {
+          "id": "p41a",
+          "line": 270,
+          "type": "paragraph"
+        },
+        {
+          "id": "p42a",
+          "line": 278,
+          "type": "paragraph"
+        },
+        {
+          "id": "p42a2",
+          "line": 280,
+          "type": "paragraph"
+        },
+        {
+          "id": "p42c",
+          "line": 284,
+          "type": "paragraph"
+        },
+        {
+          "id": "t6",
+          "line": 286,
+          "type": "table"
+        },
+        {
+          "id": "p45b",
+          "line": 328,
+          "type": "paragraph"
+        }
+      ],
+      "round4_claim_ids": [
+        "R4-44-1",
+        "R4-44-2",
+        "R4-44-3"
+      ],
+      "formal_version_parity_closed": false,
+      "human_verified": false
+    },
+    {
+      "n": 45,
+      "doi": "10.1016/j.actaastro.2026.04.059",
+      "title": "Tip-and-cue mission scheduling in heterogeneous satellite constellations using mixed-integer linear programming",
+      "kind": "academic",
+      "evidence_state": "inherited_from_v1.7_not_reaudited",
+      "manuscript_cn_blocks": [],
+      "round4_claim_ids": [],
+      "formal_version_parity_closed": null,
+      "human_verified": false
+    },
+    {
+      "n": 46,
+      "doi": "10.1016/j.cor.2014.11.004",
+      "title": "Optimization-based scheduling for the single-satellite, multi-ground station communication problem",
+      "kind": "academic",
+      "evidence_state": "inherited_from_v1.7_not_reaudited",
+      "manuscript_cn_blocks": [
+        {
+          "id": "p322b",
+          "line": 125,
+          "type": "paragraph"
+        }
+      ],
+      "round4_claim_ids": [],
+      "formal_version_parity_closed": null,
+      "human_verified": false
+    },
+    {
+      "n": 47,
+      "doi": "10.1023/B:JOSH.0000013053.32600.3c",
+      "title": "Scheduling Space–Ground Communications for the Air Force Satellite Control Network",
+      "kind": "academic",
+      "evidence_state": "inherited_from_v1.7_not_reaudited",
+      "manuscript_cn_blocks": [
+        {
+          "id": "p322b",
+          "line": 125,
+          "type": "paragraph"
+        }
+      ],
+      "round4_claim_ids": [],
+      "formal_version_parity_closed": null,
+      "human_verified": false
+    },
+    {
+      "n": 48,
+      "doi": "10.1016/j.omega.2015.01.001",
+      "title": "Satellite downlink scheduling problem: A case study",
+      "kind": "academic",
+      "evidence_state": "inherited_from_v1.7_not_reaudited",
+      "manuscript_cn_blocks": [
+        {
+          "id": "p322b",
+          "line": 125,
+          "type": "paragraph"
+        }
+      ],
+      "round4_claim_ids": [],
+      "formal_version_parity_closed": null,
+      "human_verified": false
+    },
+    {
+      "n": 49,
+      "doi": "10.1109/ACCESS.2021.3064928",
+      "title": "Deep Space Network Scheduling via Mixed-Integer Linear Programming",
+      "kind": "academic",
+      "evidence_state": "inherited_from_v1.7_not_reaudited",
+      "manuscript_cn_blocks": [
+        {
+          "id": "p322b",
+          "line": 125,
+          "type": "paragraph"
+        }
+      ],
+      "round4_claim_ids": [],
+      "formal_version_parity_closed": null,
+      "human_verified": false
+    },
+    {
+      "n": 50,
+      "doi": "10.1609/aimag.v35i4.2552",
+      "title": "Automated Scheduling for NASA's Deep Space Network",
+      "kind": "academic",
+      "evidence_state": "inherited_from_v1.7_not_reaudited",
+      "manuscript_cn_blocks": [
+        {
+          "id": "p322b",
+          "line": 125,
+          "type": "paragraph"
+        }
+      ],
+      "round4_claim_ids": [],
+      "formal_version_parity_closed": null,
+      "human_verified": false
+    },
+    {
+      "n": 51,
+      "doi": null,
+      "title": "Tasking API",
+      "kind": "engineering",
+      "evidence_state": "inherited_from_v1.7_not_reaudited",
+      "manuscript_cn_blocks": [
+        {
+          "id": "p322b",
+          "line": 125,
+          "type": "paragraph"
+        },
+        {
+          "id": "p44a",
+          "line": 307,
+          "type": "paragraph"
+        },
+        {
+          "id": "t7",
+          "line": 309,
+          "type": "table"
+        }
+      ],
+      "round4_claim_ids": [],
+      "formal_version_parity_closed": null,
+      "human_verified": false
+    },
+    {
+      "n": 52,
+      "doi": null,
+      "title": "Work with contacts",
+      "kind": "engineering",
+      "evidence_state": "inherited_from_v1.7_not_reaudited",
+      "manuscript_cn_blocks": [
+        {
+          "id": "p22a",
+          "line": 59,
+          "type": "paragraph"
+        },
+        {
+          "id": "p322b",
+          "line": 125,
+          "type": "paragraph"
+        },
+        {
+          "id": "p43b",
+          "line": 301,
+          "type": "paragraph"
+        },
+        {
+          "id": "p44a",
+          "line": 307,
+          "type": "paragraph"
+        },
+        {
+          "id": "t7",
+          "line": 309,
+          "type": "table"
+        },
+        {
+          "id": "p45c",
+          "line": 330,
+          "type": "paragraph"
+        }
+      ],
+      "round4_claim_ids": [],
+      "formal_version_parity_closed": null,
+      "human_verified": false
+    },
+    {
+      "n": 53,
+      "doi": "10.1002/sat.70082",
+      "title": "Edge Intelligence for Satellite-Based Earth Observation: Scheduling Image Acquisition and Processing",
+      "kind": "academic",
+      "evidence_state": "inherited_from_v1.7_not_reaudited",
+      "manuscript_cn_blocks": [
+        {
+          "id": "p322c",
+          "line": 127,
+          "type": "paragraph"
+        },
+        {
+          "id": "t3",
+          "line": 145,
+          "type": "table"
+        },
+        {
+          "id": "p35c",
+          "line": 248,
+          "type": "paragraph"
+        },
+        {
+          "id": "fig2",
+          "line": 262,
+          "type": "figure"
+        },
+        {
+          "id": "p42a",
+          "line": 278,
+          "type": "paragraph"
+        },
+        {
+          "id": "t6",
+          "line": 286,
+          "type": "table"
+        },
+        {
+          "id": "p45b",
+          "line": 328,
+          "type": "paragraph"
+        }
+      ],
+      "round4_claim_ids": [],
+      "formal_version_parity_closed": false,
+      "human_verified": false
+    },
+    {
+      "n": 54,
+      "doi": "10.1109/JIOT.2024.3482290",
+      "title": "Deep Multiagent Reinforcement Learning for Task Offloading and Resource Allocation in Satellite Edge Computing",
+      "kind": "academic",
+      "evidence_state": "inherited_from_v1.7_not_reaudited",
+      "manuscript_cn_blocks": [
+        {
+          "id": "p322d",
+          "line": 129,
+          "type": "paragraph"
+        },
+        {
+          "id": "p35c",
+          "line": 248,
+          "type": "paragraph"
+        }
+      ],
+      "round4_claim_ids": [],
+      "formal_version_parity_closed": null,
+      "human_verified": false
+    },
+    {
+      "n": 55,
+      "doi": "10.1016/j.comcom.2024.05.008",
+      "title": "Multi-agent reinforcement learning based computation offloading and resource allocation for LEO Satellite edge computing networks",
+      "kind": "academic",
+      "evidence_state": "inherited_from_v1.7_not_reaudited",
+      "manuscript_cn_blocks": [
+        {
+          "id": "p322d",
+          "line": 129,
+          "type": "paragraph"
+        },
+        {
+          "id": "p35c",
+          "line": 248,
+          "type": "paragraph"
+        }
+      ],
+      "round4_claim_ids": [],
+      "formal_version_parity_closed": null,
+      "human_verified": false
+    },
+    {
+      "n": 56,
+      "doi": "10.1109/TMC.2025.3570799",
+      "title": "Satellite Edge Intelligence: DRL-Based Resource Management for Task Inference in LEO-Based Satellite-Ground Collaborative Networks",
+      "kind": "academic",
+      "evidence_state": "inherited_from_v1.7_not_reaudited",
+      "manuscript_cn_blocks": [
+        {
+          "id": "p322d",
+          "line": 129,
+          "type": "paragraph"
+        },
+        {
+          "id": "p35c",
+          "line": 248,
+          "type": "paragraph"
+        }
+      ],
+      "round4_claim_ids": [],
+      "formal_version_parity_closed": null,
+      "human_verified": false
+    },
+    {
+      "n": 57,
+      "doi": "10.1007/s10586-025-05663-9",
+      "title": "Orbit-aware task scheduling in satellite edge computing",
+      "kind": "academic",
+      "evidence_state": "inherited_from_v1.7_not_reaudited",
+      "manuscript_cn_blocks": [
+        {
+          "id": "p322d",
+          "line": 129,
+          "type": "paragraph"
+        }
+      ],
+      "round4_claim_ids": [],
+      "formal_version_parity_closed": null,
+      "human_verified": false
+    },
+    {
+      "n": 58,
+      "doi": "10.1145/3582016.3582043",
+      "title": "Kodan: Addressing the Computational Bottleneck in Space",
+      "kind": "academic",
+      "evidence_state": "inherited_from_v1.7_not_reaudited",
+      "manuscript_cn_blocks": [
+        {
+          "id": "p322d",
+          "line": 129,
+          "type": "paragraph"
+        }
+      ],
+      "round4_claim_ids": [],
+      "formal_version_parity_closed": null,
+      "human_verified": false
+    },
+    {
+      "n": 59,
+      "doi": "10.1016/j.asr.2025.12.008",
+      "title": "Lagrangian hierarchical mixed-integer programming for ultra-large-scale satellite scheduling under dynamic task delivery",
+      "kind": "academic",
+      "evidence_state": "inherited_from_v1.7_not_reaudited",
+      "manuscript_cn_blocks": [
+        {
+          "id": "p323a",
+          "line": 133,
+          "type": "paragraph"
+        },
+        {
+          "id": "t3",
+          "line": 145,
+          "type": "table"
+        }
+      ],
+      "round4_claim_ids": [],
+      "formal_version_parity_closed": null,
+      "human_verified": false
+    },
+    {
+      "n": 60,
+      "doi": "10.1016/j.cor.2016.04.014",
+      "title": "A pure proactive scheduling algorithm for multiple earth observation satellites under uncertainties of clouds",
+      "kind": "academic",
+      "evidence_state": "inherited_from_v1.7_not_reaudited",
+      "manuscript_cn_blocks": [
+        {
+          "id": "p323a",
+          "line": 133,
+          "type": "paragraph"
+        }
+      ],
+      "round4_claim_ids": [],
+      "formal_version_parity_closed": null,
+      "human_verified": false
+    },
+    {
+      "n": 61,
+      "doi": "10.1109/TAES.2019.2947978",
+      "title": "Robust Earth Observation Satellite Scheduling With Uncertainty of Cloud Coverage",
+      "kind": "academic",
+      "evidence_state": "inherited_from_v1.7_not_reaudited",
+      "manuscript_cn_blocks": [
+        {
+          "id": "p323a",
+          "line": 133,
+          "type": "paragraph"
+        }
+      ],
+      "round4_claim_ids": [],
+      "formal_version_parity_closed": null,
+      "human_verified": false
+    },
+    {
+      "n": 62,
+      "doi": "10.1016/j.ejor.2018.11.043",
+      "title": "Mixed-integer programming models for optimal constellation scheduling given cloud cover uncertainty",
+      "kind": "academic",
+      "evidence_state": "inherited_from_v1.7_not_reaudited",
+      "manuscript_cn_blocks": [
+        {
+          "id": "p323a",
+          "line": 133,
+          "type": "paragraph"
+        }
+      ],
+      "round4_claim_ids": [],
+      "formal_version_parity_closed": null,
+      "human_verified": false
+    },
+    {
+      "n": 63,
+      "doi": "10.1016/j.eswa.2025.128502",
+      "title": "Deep reinforcement learning-assisted large neighborhood search for online scheduling large-scale emergency tasks to Earth-observing satellites",
+      "kind": "academic",
+      "evidence_state": "formal_publisher_abstract_or_snippets_only_round4",
+      "manuscript_cn_blocks": [
+        {
+          "id": "p323b",
+          "line": 135,
+          "type": "paragraph"
+        },
+        {
+          "id": "t3",
+          "line": 145,
+          "type": "table"
+        },
+        {
+          "id": "p43c",
+          "line": 303,
+          "type": "paragraph"
+        },
+        {
+          "id": "p45d",
+          "line": 332,
+          "type": "paragraph"
+        }
+      ],
+      "round4_claim_ids": [
+        "R4-63-1"
+      ],
+      "formal_version_parity_closed": null,
+      "human_verified": false
+    },
+    {
+      "n": 64,
+      "doi": "10.1016/j.eswa.2025.128350",
+      "title": "Dynamic task scheduling optimization by rolling horizon deep reinforcement learning for distributed satellite system",
+      "kind": "academic",
+      "evidence_state": "inherited_from_v1.7_not_reaudited",
+      "manuscript_cn_blocks": [
+        {
+          "id": "p323b",
+          "line": 135,
+          "type": "paragraph"
+        }
+      ],
+      "round4_claim_ids": [],
+      "formal_version_parity_closed": null,
+      "human_verified": false
+    },
+    {
+      "n": 65,
+      "doi": "10.2514/1.A35736",
+      "title": "Single-Agent Reinforcement Learning for Scalable Earth-Observing Satellite Constellation Operations",
+      "kind": "academic",
+      "evidence_state": "inherited_from_v1.7_not_reaudited",
+      "manuscript_cn_blocks": [
+        {
+          "id": "p323c",
+          "line": 137,
+          "type": "paragraph"
+        },
+        {
+          "id": "t3",
+          "line": 145,
+          "type": "table"
+        },
+        {
+          "id": "p43a",
+          "line": 299,
+          "type": "paragraph"
+        },
+        {
+          "id": "p43c",
+          "line": 303,
+          "type": "paragraph"
+        },
+        {
+          "id": "p45c",
+          "line": 330,
+          "type": "paragraph"
+        },
+        {
+          "id": "p45d",
+          "line": 332,
+          "type": "paragraph"
+        }
+      ],
+      "round4_claim_ids": [],
+      "formal_version_parity_closed": null,
+      "human_verified": false
+    },
+    {
+      "n": 66,
+      "doi": "10.3389/frspt.2023.1263489",
+      "title": "A comparative analysis of reinforcement learning algorithms for earth-observing satellite scheduling",
+      "kind": "academic",
+      "evidence_state": "inherited_from_v1.7_not_reaudited",
+      "manuscript_cn_blocks": [
+        {
+          "id": "p323c",
+          "line": 137,
+          "type": "paragraph"
+        },
+        {
+          "id": "t3",
+          "line": 145,
+          "type": "table"
+        }
+      ],
+      "round4_claim_ids": [],
+      "formal_version_parity_closed": null,
+      "human_verified": false
+    },
+    {
+      "n": 67,
+      "doi": "10.1016/j.cie.2022.108852",
+      "title": "Multi-orbit routing and scheduling of refuellable on-orbit servicing space robots",
+      "kind": "academic",
+      "evidence_state": "inherited_from_v1.7_not_reaudited",
+      "manuscript_cn_blocks": [
+        {
+          "id": "p324a",
+          "line": 141,
+          "type": "paragraph"
+        },
+        {
+          "id": "t3",
+          "line": 145,
+          "type": "table"
+        }
+      ],
+      "round4_claim_ids": [],
+      "formal_version_parity_closed": null,
+      "human_verified": false
+    },
+    {
+      "n": 68,
+      "doi": "10.1016/j.cja.2025.103774",
+      "title": "On-orbit refueling robust mission scheduling with uncertain duration for geosynchronous orbit spacecraft",
+      "kind": "academic",
+      "evidence_state": "inherited_from_v1.7_not_reaudited",
+      "manuscript_cn_blocks": [
+        {
+          "id": "p324a",
+          "line": 141,
+          "type": "paragraph"
+        },
+        {
+          "id": "t3",
+          "line": 145,
+          "type": "table"
+        }
+      ],
+      "round4_claim_ids": [],
+      "formal_version_parity_closed": null,
+      "human_verified": false
+    },
+    {
+      "n": 69,
+      "doi": "10.1016/j.asr.2017.05.037",
+      "title": "Mission planning for on-orbit servicing through multiple servicing satellites: A new approach",
+      "kind": "academic",
+      "evidence_state": "inherited_from_v1.7_not_reaudited",
+      "manuscript_cn_blocks": [
+        {
+          "id": "p324a",
+          "line": 141,
+          "type": "paragraph"
+        }
+      ],
+      "round4_claim_ids": [],
+      "formal_version_parity_closed": null,
+      "human_verified": false
+    },
+    {
+      "n": 70,
+      "doi": "10.1016/j.asr.2024.05.059",
+      "title": "GEO satellite on-orbit refueling and debris removal hybrid mission planning under uncertainty",
+      "kind": "academic",
+      "evidence_state": "inherited_from_v1.7_not_reaudited",
+      "manuscript_cn_blocks": [
+        {
+          "id": "p324a",
+          "line": 141,
+          "type": "paragraph"
+        }
+      ],
+      "round4_claim_ids": [],
+      "formal_version_parity_closed": null,
+      "human_verified": false
+    },
+    {
+      "n": 71,
+      "doi": "10.1007/s40295-026-00580-4",
+      "title": "Low-Thrust Propulsion and Drift Orbit Optimization for Multi-Client Servicing Missions in Low Earth Orbit",
+      "kind": "academic",
+      "evidence_state": "inherited_from_v1.7_not_reaudited",
+      "manuscript_cn_blocks": [
+        {
+          "id": "p324b",
+          "line": 143,
+          "type": "paragraph"
+        },
+        {
+          "id": "t3",
+          "line": 145,
+          "type": "table"
+        },
+        {
+          "id": "p41a",
+          "line": 270,
+          "type": "paragraph"
+        }
+      ],
+      "round4_claim_ids": [],
+      "formal_version_parity_closed": null,
+      "human_verified": false
+    },
+    {
+      "n": 72,
+      "doi": "10.1007/s40295-025-00487-6",
+      "title": "Optimal Multi-Client Trajectory Planning for A Low-Thrust Servicing Satellite in the Presence of Perturbations",
+      "kind": "academic",
+      "evidence_state": "inherited_from_v1.7_not_reaudited",
+      "manuscript_cn_blocks": [
+        {
+          "id": "p324b",
+          "line": 143,
+          "type": "paragraph"
+        },
+        {
+          "id": "t3",
+          "line": 145,
+          "type": "table"
+        },
+        {
+          "id": "p41a",
+          "line": 270,
+          "type": "paragraph"
+        }
+      ],
+      "round4_claim_ids": [],
+      "formal_version_parity_closed": null,
+      "human_verified": false
+    },
+    {
+      "n": 73,
+      "doi": "10.3390/aerospace11030191",
+      "title": "A Hybrid Forecasting Model for Self-Similar Traffic in LEO Mega-Constellation Networks",
+      "kind": "academic",
+      "evidence_state": "inherited_from_v1.7_not_reaudited",
+      "manuscript_cn_blocks": [
+        {
+          "id": "p331a",
+          "line": 163,
+          "type": "paragraph"
+        },
+        {
+          "id": "t4",
+          "line": 189,
+          "type": "table"
+        },
+        {
+          "id": "p43c",
+          "line": 303,
+          "type": "paragraph"
+        },
+        {
+          "id": "p45d",
+          "line": 332,
+          "type": "paragraph"
+        }
+      ],
+      "round4_claim_ids": [],
+      "formal_version_parity_closed": null,
+      "human_verified": false
+    },
+    {
+      "n": 74,
+      "doi": "10.23919/JCC.ja.2022-0864",
+      "title": "Joint Beam Scheduling and Power Optimization for Beam Hopping LEO Satellite Systems",
+      "kind": "academic",
+      "evidence_state": "inherited_from_v1.7_not_reaudited",
+      "manuscript_cn_blocks": [
+        {
+          "id": "p331b",
+          "line": 165,
+          "type": "paragraph"
+        },
+        {
+          "id": "p331d",
+          "line": 169,
+          "type": "paragraph"
+        },
+        {
+          "id": "t4",
+          "line": 189,
+          "type": "table"
+        },
+        {
+          "id": "t6",
+          "line": 286,
+          "type": "table"
+        }
+      ],
+      "round4_claim_ids": [],
+      "formal_version_parity_closed": false,
+      "human_verified": false
+    },
+    {
+      "n": 75,
+      "doi": "10.1109/LCOMM.2022.3213912",
+      "title": "NGSO Satellites Beam Hopping Strategy Based on Load Balancing and Interference Avoidance for Coexistence With GSO Systems",
+      "kind": "academic",
+      "evidence_state": "inherited_from_v1.7_not_reaudited",
+      "manuscript_cn_blocks": [
+        {
+          "id": "p331c",
+          "line": 167,
+          "type": "paragraph"
+        },
+        {
+          "id": "t4",
+          "line": 189,
+          "type": "table"
+        }
+      ],
+      "round4_claim_ids": [],
+      "formal_version_parity_closed": null,
+      "human_verified": false
+    },
+    {
+      "n": 76,
+      "doi": "10.1109/TWC.2025.3545745",
+      "title": "Demand-Aware Beam Hopping and Power Allocation for Load Balancing in Digital Twin Empowered LEO Satellite Networks",
+      "kind": "academic",
+      "evidence_state": "inherited_from_v1.7_not_reaudited",
+      "manuscript_cn_blocks": [
+        {
+          "id": "p331c",
+          "line": 167,
+          "type": "paragraph"
+        },
+        {
+          "id": "p331d",
+          "line": 169,
+          "type": "paragraph"
+        },
+        {
+          "id": "t4",
+          "line": 189,
+          "type": "table"
+        }
+      ],
+      "round4_claim_ids": [],
+      "formal_version_parity_closed": false,
+      "human_verified": false
+    },
+    {
+      "n": 77,
+      "doi": "10.1016/j.cja.2024.09.039",
+      "title": "Routing cost-integrated intelligent handover strategy for multi-layer LEO mega-constellation networks",
+      "kind": "academic",
+      "evidence_state": "inherited_from_v1.7_not_reaudited",
+      "manuscript_cn_blocks": [
+        {
+          "id": "p332a",
+          "line": 173,
+          "type": "paragraph"
+        },
+        {
+          "id": "t4",
+          "line": 189,
+          "type": "table"
+        }
+      ],
+      "round4_claim_ids": [],
+      "formal_version_parity_closed": null,
+      "human_verified": false
+    },
+    {
+      "n": 78,
+      "doi": "10.1145/3589334.3645328",
+      "title": "A Multifaceted Look at Starlink Performance",
+      "kind": "academic",
+      "evidence_state": "inherited_from_v1.7_not_reaudited",
+      "manuscript_cn_blocks": [
+        {
+          "id": "p332b",
+          "line": 175,
+          "type": "paragraph"
+        },
+        {
+          "id": "t4",
+          "line": 189,
+          "type": "table"
+        },
+        {
+          "id": "p44a",
+          "line": 307,
+          "type": "paragraph"
+        },
+        {
+          "id": "t7",
+          "line": 309,
+          "type": "table"
+        }
+      ],
+      "round4_claim_ids": [],
+      "formal_version_parity_closed": null,
+      "human_verified": false
+    },
+    {
+      "n": 79,
+      "doi": "10.1016/j.comcom.2022.02.015",
+      "title": "Scalable routing in low-Earth orbit satellite constellations: Architecture and algorithms",
+      "kind": "academic",
+      "evidence_state": "inherited_from_v1.7_not_reaudited",
+      "manuscript_cn_blocks": [
+        {
+          "id": "p333a",
+          "line": 179,
+          "type": "paragraph"
+        },
+        {
+          "id": "t4",
+          "line": 189,
+          "type": "table"
+        }
+      ],
+      "round4_claim_ids": [],
+      "formal_version_parity_closed": null,
+      "human_verified": false
+    },
+    {
+      "n": 80,
+      "doi": "10.1016/j.dcan.2022.09.022",
+      "title": "Segment routing for traffic engineering and effective recovery in low-earth orbit satellite constellations",
+      "kind": "academic",
+      "evidence_state": "inherited_from_v1.7_not_reaudited",
+      "manuscript_cn_blocks": [
+        {
+          "id": "p333a",
+          "line": 179,
+          "type": "paragraph"
+        },
+        {
+          "id": "t4",
+          "line": 189,
+          "type": "table"
+        }
+      ],
+      "round4_claim_ids": [],
+      "formal_version_parity_closed": null,
+      "human_verified": false
+    },
+    {
+      "n": 81,
+      "doi": "10.3390/s25030902",
+      "title": "Hierarchical Resource Management for Mega-LEO Satellite Constellation",
+      "kind": "academic",
+      "evidence_state": "inherited_from_v1.7_not_reaudited",
+      "manuscript_cn_blocks": [
+        {
+          "id": "p334a",
+          "line": 187,
+          "type": "paragraph"
+        },
+        {
+          "id": "t4",
+          "line": 189,
+          "type": "table"
+        },
+        {
+          "id": "p35d",
+          "line": 252,
+          "type": "paragraph"
+        },
+        {
+          "id": "p43a",
+          "line": 299,
+          "type": "paragraph"
+        },
+        {
+          "id": "p45c",
+          "line": 330,
+          "type": "paragraph"
+        }
+      ],
+      "round4_claim_ids": [],
+      "formal_version_parity_closed": null,
+      "human_verified": false
+    },
+    {
+      "n": 82,
+      "doi": "10.1016/j.actaastro.2020.01.020",
+      "title": "Satellite closest approach calculation through Chebyshev Proxy Polynomials",
+      "kind": "academic",
+      "evidence_state": "inherited_from_v1.7_not_reaudited",
+      "manuscript_cn_blocks": [
+        {
+          "id": "p34a",
+          "line": 207,
+          "type": "paragraph"
+        },
+        {
+          "id": "t5",
+          "line": 227,
+          "type": "table"
+        }
+      ],
+      "round4_claim_ids": [],
+      "formal_version_parity_closed": null,
+      "human_verified": false
+    },
+    {
+      "n": 83,
+      "doi": "10.1016/j.asr.2021.04.042",
+      "title": "Risk-aware sensor scheduling and tracking of large constellations",
+      "kind": "academic",
+      "evidence_state": "inherited_from_v1.7_not_reaudited",
+      "manuscript_cn_blocks": [
+        {
+          "id": "p34a",
+          "line": 207,
+          "type": "paragraph"
+        },
+        {
+          "id": "t5",
+          "line": 227,
+          "type": "table"
+        }
+      ],
+      "round4_claim_ids": [],
+      "formal_version_parity_closed": null,
+      "human_verified": false
+    },
+    {
+      "n": 84,
+      "doi": "10.3390/aerospace10060543",
+      "title": "Performance Investigation of the Conjunction Filter Methods and Enhancement of Computation Speed on Conjunction Assessment Analysis with CUDA Techniques",
+      "kind": "academic",
+      "evidence_state": "inherited_from_v1.7_not_reaudited",
+      "manuscript_cn_blocks": [
+        {
+          "id": "p34a",
+          "line": 207,
+          "type": "paragraph"
+        },
+        {
+          "id": "t5",
+          "line": 227,
+          "type": "table"
+        }
+      ],
+      "round4_claim_ids": [],
+      "formal_version_parity_closed": null,
+      "human_verified": false
+    },
+    {
+      "n": 85,
+      "doi": "10.1007/s12567-022-00471-y",
+      "title": "Simulation of satellites and constellations for the assessment of collision avoidance operations",
+      "kind": "academic",
+      "evidence_state": "inherited_from_v1.7_not_reaudited",
+      "manuscript_cn_blocks": [
+        {
+          "id": "p34b",
+          "line": 209,
+          "type": "paragraph"
+        }
+      ],
+      "round4_claim_ids": [],
+      "formal_version_parity_closed": null,
+      "human_verified": false
+    },
+    {
+      "n": 86,
+      "doi": "10.1016/j.actaastro.2025.07.027",
+      "title": "CAMmary: A review of spacecraft collision avoidance manoeuvre design methods",
+      "kind": "academic",
+      "evidence_state": "inherited_from_v1.7_not_reaudited",
+      "manuscript_cn_blocks": [
+        {
+          "id": "p34b",
+          "line": 209,
+          "type": "paragraph"
+        }
+      ],
+      "round4_claim_ids": [],
+      "formal_version_parity_closed": null,
+      "human_verified": false
+    },
+    {
+      "n": 87,
+      "doi": "10.1007/s42064-021-0101-5",
+      "title": "Spacecraft collision avoidance challenge: Design and results of a machine learning competition",
+      "kind": "academic",
+      "evidence_state": "inherited_from_v1.7_not_reaudited",
+      "manuscript_cn_blocks": [
+        {
+          "id": "p34b",
+          "line": 209,
+          "type": "paragraph"
+        },
+        {
+          "id": "t5",
+          "line": 227,
+          "type": "table"
+        }
+      ],
+      "round4_claim_ids": [],
+      "formal_version_parity_closed": null,
+      "human_verified": false
+    },
+    {
+      "n": 88,
+      "doi": null,
+      "title": "Conjunction Data Message",
+      "kind": "engineering",
+      "evidence_state": "inherited_from_v1.7_not_reaudited",
+      "manuscript_cn_blocks": [
+        {
+          "id": "p34b",
+          "line": 209,
+          "type": "paragraph"
+        },
+        {
+          "id": "t7",
+          "line": 309,
+          "type": "table"
+        }
+      ],
+      "round4_claim_ids": [],
+      "formal_version_parity_closed": null,
+      "human_verified": false
+    },
+    {
+      "n": 89,
+      "doi": null,
+      "title": "Starlink Collision Avoidance CONOPS",
+      "kind": "engineering",
+      "evidence_state": "inherited_from_v1.7_not_reaudited",
+      "manuscript_cn_blocks": [
+        {
+          "id": "p34b",
+          "line": 209,
+          "type": "paragraph"
+        },
+        {
+          "id": "t7",
+          "line": 309,
+          "type": "table"
+        }
+      ],
+      "round4_claim_ids": [],
+      "formal_version_parity_closed": null,
+      "human_verified": false
+    },
+    {
+      "n": 90,
+      "doi": "10.2514/1.29590",
+      "title": "Safe Trajectories for Autonomous Rendezvous of Spacecraft",
+      "kind": "academic",
+      "evidence_state": "inherited_from_v1.7_not_reaudited",
+      "manuscript_cn_blocks": [
+        {
+          "id": "p34c",
+          "line": 213,
+          "type": "paragraph"
+        },
+        {
+          "id": "t5",
+          "line": 227,
+          "type": "table"
+        }
+      ],
+      "round4_claim_ids": [],
+      "formal_version_parity_closed": null,
+      "human_verified": false
+    },
+    {
+      "n": 91,
+      "doi": "10.2514/1.58436",
+      "title": "Autonomous Trajectory Planning for Rendezvous and Proximity Operations by Conic Optimization",
+      "kind": "academic",
+      "evidence_state": "inherited_from_v1.7_not_reaudited",
+      "manuscript_cn_blocks": [
+        {
+          "id": "p34c",
+          "line": 213,
+          "type": "paragraph"
+        },
+        {
+          "id": "t5",
+          "line": 227,
+          "type": "table"
+        }
+      ],
+      "round4_claim_ids": [],
+      "formal_version_parity_closed": null,
+      "human_verified": false
+    },
+    {
+      "n": 92,
+      "doi": "10.2514/1.G000218",
+      "title": "Model Predictive Control of Swarms of Spacecraft Using Sequential Convex Programming",
+      "kind": "academic",
+      "evidence_state": "inherited_from_v1.7_not_reaudited",
+      "manuscript_cn_blocks": [
+        {
+          "id": "p34c",
+          "line": 213,
+          "type": "paragraph"
+        },
+        {
+          "id": "t5",
+          "line": 227,
+          "type": "table"
+        }
+      ],
+      "round4_claim_ids": [],
+      "formal_version_parity_closed": null,
+      "human_verified": false
+    },
+    {
+      "n": 93,
+      "doi": "10.1016/j.conengprac.2011.09.006",
+      "title": "Chance-constrained model predictive control for spacecraft rendezvous with disturbance estimation",
+      "kind": "academic",
+      "evidence_state": "inherited_from_v1.7_not_reaudited",
+      "manuscript_cn_blocks": [
+        {
+          "id": "p34c",
+          "line": 213,
+          "type": "paragraph"
+        },
+        {
+          "id": "t5",
+          "line": 227,
+          "type": "table"
+        }
+      ],
+      "round4_claim_ids": [],
+      "formal_version_parity_closed": null,
+      "human_verified": false
+    },
+    {
+      "n": 94,
+      "doi": "10.1016/j.ast.2025.111237",
+      "title": "Chance-constrained visual servoing MPC for non-cooperative spacecraft rendezvous",
+      "kind": "academic",
+      "evidence_state": "inherited_from_v1.7_not_reaudited",
+      "manuscript_cn_blocks": [
+        {
+          "id": "p34c",
+          "line": 213,
+          "type": "paragraph"
+        },
+        {
+          "id": "t5",
+          "line": 227,
+          "type": "table"
+        }
+      ],
+      "round4_claim_ids": [],
+      "formal_version_parity_closed": null,
+      "human_verified": false
+    },
+    {
+      "n": 95,
+      "doi": "10.2514/6.2026-2446",
+      "title": "Continuous-Time Successive Convexification for Passively-Safe Spacecraft Rendezvous on a Near Rectilinear Halo Orbit",
+      "kind": "academic",
+      "evidence_state": "inherited_from_v1.7_not_reaudited",
+      "manuscript_cn_blocks": [
+        {
+          "id": "p34c",
+          "line": 213,
+          "type": "paragraph"
+        },
+        {
+          "id": "t5",
+          "line": 227,
+          "type": "table"
+        }
+      ],
+      "round4_claim_ids": [],
+      "formal_version_parity_closed": null,
+      "human_verified": false
+    },
+    {
+      "n": 96,
+      "doi": "10.1007/s40295-026-00631-w",
+      "title": "Two Approaches to Autonomous Spacecraft Inspection: Shielded Reinforcement Learning versus Probabilistic Roadmaps",
+      "kind": "academic",
+      "evidence_state": "formal_body_targeted_read_round3",
+      "manuscript_cn_blocks": [
+        {
+          "id": "p34d",
+          "line": 215,
+          "type": "paragraph"
+        },
+        {
+          "id": "p34d2",
+          "line": 217,
+          "type": "paragraph"
+        },
+        {
+          "id": "t5",
+          "line": 227,
+          "type": "table"
+        },
+        {
+          "id": "p43c",
+          "line": 303,
+          "type": "paragraph"
+        },
+        {
+          "id": "p45d",
+          "line": 332,
+          "type": "paragraph"
+        }
+      ],
+      "round4_claim_ids": [],
+      "formal_version_parity_closed": null,
+      "human_verified": false
+    },
+    {
+      "n": 97,
+      "doi": null,
+      "title": "Astroscale’s ADRAS-J Achieves Historic 15-Meter Approach to Space Debris",
+      "kind": "engineering",
+      "evidence_state": "inherited_from_v1.7_not_reaudited",
+      "manuscript_cn_blocks": [
+        {
+          "id": "p34d3",
+          "line": 219,
+          "type": "paragraph"
+        },
+        {
+          "id": "p44a",
+          "line": 307,
+          "type": "paragraph"
+        },
+        {
+          "id": "t7",
+          "line": 309,
+          "type": "table"
+        }
+      ],
+      "round4_claim_ids": [],
+      "formal_version_parity_closed": null,
+      "human_verified": false
+    },
+    {
+      "n": 98,
+      "doi": "10.1145/3219819.3219845",
+      "title": "Detecting Spacecraft Anomalies Using LSTMs and Nonparametric Dynamic Thresholding",
+      "kind": "academic",
+      "evidence_state": "inherited_from_v1.7_not_reaudited",
+      "manuscript_cn_blocks": [
+        {
+          "id": "p34e",
+          "line": 223,
+          "type": "paragraph"
+        }
+      ],
+      "round4_claim_ids": [],
+      "formal_version_parity_closed": null,
+      "human_verified": false
+    },
+    {
+      "n": 99,
+      "doi": "10.1016/j.actaastro.2020.12.012",
+      "title": "Imbalanced satellite telemetry data anomaly detection model based on Bayesian LSTM",
+      "kind": "academic",
+      "evidence_state": "inherited_from_v1.7_not_reaudited",
+      "manuscript_cn_blocks": [
+        {
+          "id": "p34e",
+          "line": 223,
+          "type": "paragraph"
+        }
+      ],
+      "round4_claim_ids": [],
+      "formal_version_parity_closed": null,
+      "human_verified": false
+    },
+    {
+      "n": 100,
+      "doi": "10.1016/j.actaastro.2026.07.065",
+      "title": "Validation-gated continual learning for anomaly detection in satellite telemetry",
+      "kind": "academic",
+      "evidence_state": "inherited_from_v1.7_not_reaudited",
+      "manuscript_cn_blocks": [
+        {
+          "id": "p34e",
+          "line": 223,
+          "type": "paragraph"
+        }
+      ],
+      "round4_claim_ids": [],
+      "formal_version_parity_closed": null,
+      "human_verified": false
+    },
+    {
+      "n": 101,
+      "doi": "10.1007/s12567-023-00529-5",
+      "title": "Unmasking overestimation: a re-evaluation of deep anomaly detection in spacecraft telemetry",
+      "kind": "academic",
+      "evidence_state": "inherited_from_v1.7_not_reaudited",
+      "manuscript_cn_blocks": [
+        {
+          "id": "p34e",
+          "line": 223,
+          "type": "paragraph"
+        }
+      ],
+      "round4_claim_ids": [],
+      "formal_version_parity_closed": null,
+      "human_verified": false
+    },
+    {
+      "n": 102,
+      "doi": "10.1007/s12567-025-00651-6",
+      "title": "Knowledge-based satellite failure detection, isolation and recovery (FDIR)",
+      "kind": "academic",
+      "evidence_state": "inherited_from_v1.7_not_reaudited",
+      "manuscript_cn_blocks": [
+        {
+          "id": "p34e",
+          "line": 223,
+          "type": "paragraph"
+        },
+        {
+          "id": "t5",
+          "line": 227,
+          "type": "table"
+        }
+      ],
+      "round4_claim_ids": [],
+      "formal_version_parity_closed": null,
+      "human_verified": false
+    },
+    {
+      "n": 103,
+      "doi": "10.2514/1.I011208",
+      "title": "Resilient Autonomous Mission Management for Decentralized Multispacecraft Missions",
+      "kind": "academic",
+      "evidence_state": "inherited_from_v1.7_not_reaudited",
+      "manuscript_cn_blocks": [
+        {
+          "id": "p34f",
+          "line": 225,
+          "type": "paragraph"
+        },
+        {
+          "id": "t5",
+          "line": 227,
+          "type": "table"
+        }
+      ],
+      "round4_claim_ids": [],
+      "formal_version_parity_closed": null,
+      "human_verified": false
+    },
+    {
+      "n": 104,
+      "doi": "10.1016/j.actaastro.2020.05.011",
+      "title": "RPRS: a reactive plan repair strategy for rapid response to plan failures of deep space missions",
+      "kind": "academic",
+      "evidence_state": "inherited_from_v1.7_not_reaudited",
+      "manuscript_cn_blocks": [
+        {
+          "id": "p34f",
+          "line": 225,
+          "type": "paragraph"
+        },
+        {
+          "id": "t5",
+          "line": 227,
+          "type": "table"
+        }
+      ],
+      "round4_claim_ids": [],
+      "formal_version_parity_closed": null,
+      "human_verified": false
+    },
+    {
+      "n": 105,
+      "doi": "10.1016/j.paerosci.2023.100960",
+      "title": "Artificial Intelligence for Trusted Autonomous Satellite Operations",
+      "kind": "academic",
+      "evidence_state": "inherited_from_v1.7_not_reaudited",
+      "manuscript_cn_blocks": [
+        {
+          "id": "p35a",
+          "line": 240,
+          "type": "paragraph"
+        }
+      ],
+      "round4_claim_ids": [],
+      "formal_version_parity_closed": null,
+      "human_verified": false
+    },
+    {
+      "n": 106,
+      "doi": "10.1016/j.adhoc.2023.103289",
+      "title": "A delay-tolerant network approach to satellite pickup and delivery scheduling",
+      "kind": "academic",
+      "evidence_state": "formal_body_targeted_reread",
+      "manuscript_cn_blocks": [
+        {
+          "id": "p22a",
+          "line": 59,
+          "type": "paragraph"
+        },
+        {
+          "id": "p35b",
+          "line": 244,
+          "type": "paragraph"
+        },
+        {
+          "id": "p35b2",
+          "line": 246,
+          "type": "paragraph"
+        },
+        {
+          "id": "fig2",
+          "line": 262,
+          "type": "figure"
+        },
+        {
+          "id": "p42a",
+          "line": 278,
+          "type": "paragraph"
+        },
+        {
+          "id": "t6",
+          "line": 286,
+          "type": "table"
+        },
+        {
+          "id": "p43b",
+          "line": 301,
+          "type": "paragraph"
+        },
+        {
+          "id": "p45b",
+          "line": 328,
+          "type": "paragraph"
+        }
+      ],
+      "round4_claim_ids": [],
+      "formal_version_parity_closed": null,
+      "human_verified": false
+    },
+    {
+      "n": 107,
+      "doi": "10.3390/rs15061577",
+      "title": "Reasoning-Based Scheduling Method for Agile Earth Observation Satellite with Multi-Subsystem Coupling",
+      "kind": "academic",
+      "evidence_state": "round2_formal_body_text_inherited_round3_access_failed",
+      "manuscript_cn_blocks": [
+        {
+          "id": "p35e",
+          "line": 254,
+          "type": "paragraph"
+        },
+        {
+          "id": "t6",
+          "line": 286,
+          "type": "table"
+        }
+      ],
+      "round4_claim_ids": [],
+      "formal_version_parity_closed": null,
+      "human_verified": false
+    },
+    {
+      "n": 108,
+      "doi": "10.1016/S0004-3702(98)00068-X",
+      "title": "Remote Agent: to boldly go where no AI system has gone before",
+      "kind": "academic",
+      "evidence_state": "inherited_from_v1.7_not_reaudited",
+      "manuscript_cn_blocks": [
+        {
+          "id": "p35f",
+          "line": 258,
+          "type": "paragraph"
+        }
+      ],
+      "round4_claim_ids": [],
+      "formal_version_parity_closed": null,
+      "human_verified": false
+    },
+    {
+      "n": 109,
+      "doi": "10.1109/SMC-IT.2006.48",
+      "title": "Mission Operations of Earth Observing-1 with Onboard Autonomy",
+      "kind": "academic",
+      "evidence_state": "inherited_from_v1.7_not_reaudited",
+      "manuscript_cn_blocks": [
+        {
+          "id": "p35f",
+          "line": 258,
+          "type": "paragraph"
+        },
+        {
+          "id": "t7",
+          "line": 309,
+          "type": "table"
+        }
+      ],
+      "round4_claim_ids": [],
+      "formal_version_parity_closed": null,
+      "human_verified": false
+    },
+    {
+      "n": 110,
+      "doi": "10.2514/1.I010386",
+      "title": "Onboard Autonomy on the Intelligent Payload Experiment CubeSat Mission",
+      "kind": "academic",
+      "evidence_state": "inherited_from_v1.7_not_reaudited",
+      "manuscript_cn_blocks": [
+        {
+          "id": "p35f",
+          "line": 258,
+          "type": "paragraph"
+        },
+        {
+          "id": "t7",
+          "line": 309,
+          "type": "table"
+        }
+      ],
+      "round4_claim_ids": [],
+      "formal_version_parity_closed": null,
+      "human_verified": false
+    },
+    {
+      "n": 111,
+      "doi": null,
+      "title": "IPEX",
+      "kind": "engineering",
+      "evidence_state": "inherited_from_v1.7_not_reaudited",
+      "manuscript_cn_blocks": [
+        {
+          "id": "p35f",
+          "line": 258,
+          "type": "paragraph"
+        },
+        {
+          "id": "fig2",
+          "line": 262,
+          "type": "figure"
+        },
+        {
+          "id": "t6",
+          "line": 286,
+          "type": "table"
+        },
+        {
+          "id": "p44a",
+          "line": 307,
+          "type": "paragraph"
+        },
+        {
+          "id": "t7",
+          "line": 309,
+          "type": "table"
+        }
+      ],
+      "round4_claim_ids": [],
+      "formal_version_parity_closed": null,
+      "human_verified": false
+    },
+    {
+      "n": 112,
+      "doi": "10.1016/j.jss.2026.112802",
+      "title": "Reference architecture for autonomy and adaptivity in satellites",
+      "kind": "academic",
+      "evidence_state": "inherited_from_v1.7_not_reaudited",
+      "manuscript_cn_blocks": [
+        {
+          "id": "p35f",
+          "line": 258,
+          "type": "paragraph"
+        }
+      ],
+      "round4_claim_ids": [],
+      "formal_version_parity_closed": null,
+      "human_verified": false
+    },
+    {
+      "n": 113,
+      "doi": null,
+      "title": "Core Flight System – Demo Bundle",
+      "kind": "engineering",
+      "evidence_state": "inherited_from_v1.7_not_reaudited",
+      "manuscript_cn_blocks": [
+        {
+          "id": "p35f",
+          "line": 258,
+          "type": "paragraph"
+        },
+        {
+          "id": "t7",
+          "line": 309,
+          "type": "table"
+        }
+      ],
+      "round4_claim_ids": [],
+      "formal_version_parity_closed": null,
+      "human_verified": false
+    },
+    {
+      "n": 114,
+      "doi": null,
+      "title": "What is Starling?",
+      "kind": "engineering",
+      "evidence_state": "inherited_from_v1.7_not_reaudited",
+      "manuscript_cn_blocks": [
+        {
+          "id": "p35g",
+          "line": 260,
+          "type": "paragraph"
+        },
+        {
+          "id": "fig2",
+          "line": 262,
+          "type": "figure"
+        },
+        {
+          "id": "p44a",
+          "line": 307,
+          "type": "paragraph"
+        },
+        {
+          "id": "t7",
+          "line": 309,
+          "type": "table"
+        }
+      ],
+      "round4_claim_ids": [],
+      "formal_version_parity_closed": null,
+      "human_verified": false
+    },
+    {
+      "n": 115,
+      "doi": null,
+      "title": "NASA Starling and SpaceX Starlink Improve Space Traffic Coordination",
+      "kind": "engineering",
+      "evidence_state": "inherited_from_v1.7_not_reaudited",
+      "manuscript_cn_blocks": [
+        {
+          "id": "p35g",
+          "line": 260,
+          "type": "paragraph"
+        },
+        {
+          "id": "fig2",
+          "line": 262,
+          "type": "figure"
+        },
+        {
+          "id": "p44a",
+          "line": 307,
+          "type": "paragraph"
+        },
+        {
+          "id": "t7",
+          "line": 309,
+          "type": "table"
+        }
+      ],
+      "round4_claim_ids": [],
+      "formal_version_parity_closed": null,
+      "human_verified": false
+    },
+    {
+      "n": 116,
+      "doi": "10.2514/1.I010762",
+      "title": "Basilisk: A Flexible, Scalable and Modular Astrodynamics Simulation Framework",
+      "kind": "academic",
+      "evidence_state": "inherited_from_v1.7_not_reaudited",
+      "manuscript_cn_blocks": [
+        {
+          "id": "p35g",
+          "line": 260,
+          "type": "paragraph"
+        }
+      ],
+      "round4_claim_ids": [],
+      "formal_version_parity_closed": null,
+      "human_verified": false
+    },
+    {
+      "n": 117,
+      "doi": "10.1007/978-3-031-06773-0_1",
+      "title": "Formal Methods for Trusted Space Autonomy: Boon or Bane?",
+      "kind": "academic",
+      "evidence_state": "inherited_from_v1.7_not_reaudited",
+      "manuscript_cn_blocks": [
+        {
+          "id": "p35g",
+          "line": 260,
+          "type": "paragraph"
+        },
+        {
+          "id": "p44b",
+          "line": 322,
+          "type": "paragraph"
+        }
+      ],
+      "round4_claim_ids": [],
+      "formal_version_parity_closed": null,
+      "human_verified": false
+    },
+    {
+      "n": 118,
+      "doi": "10.1109/SAM.2018.8448984",
+      "title": "Performance of the Asynchronous Consensus Based Bundle Algorithm in Lossy Network Environments",
+      "kind": "academic",
+      "evidence_state": "inherited_from_v1.7_not_reaudited",
+      "manuscript_cn_blocks": [
+        {
+          "id": "p43a",
+          "line": 299,
+          "type": "paragraph"
+        }
+      ],
+      "round4_claim_ids": [],
+      "formal_version_parity_closed": null,
+      "human_verified": false
+    },
+    {
+      "n": 119,
+      "doi": "10.1007/s10270-026-01426-1",
+      "title": "A model-driven framework for supervised reconfiguration of satellite schedulers",
+      "kind": "academic",
+      "evidence_state": "inherited_from_v1.7_not_reaudited",
+      "manuscript_cn_blocks": [
+        {
+          "id": "t7",
+          "line": 309,
+          "type": "table"
+        },
+        {
+          "id": "p44b",
+          "line": 322,
+          "type": "paragraph"
+        }
+      ],
+      "round4_claim_ids": [],
+      "formal_version_parity_closed": null,
+      "human_verified": false
+    },
+    {
+      "n": 120,
+      "doi": "10.1007/s10270-025-01281-6",
+      "title": "Model checking of spacecraft operational designs: a scalability analysis",
+      "kind": "academic",
+      "evidence_state": "inherited_from_v1.7_not_reaudited",
+      "manuscript_cn_blocks": [
+        {
+          "id": "t7",
+          "line": 309,
+          "type": "table"
+        },
+        {
+          "id": "p44b",
+          "line": 322,
+          "type": "paragraph"
+        }
+      ],
+      "round4_claim_ids": [],
+      "formal_version_parity_closed": null,
+      "human_verified": false
+    },
+    {
+      "n": 121,
+      "doi": "10.1109/TAES.2024.3415571",
+      "title": "On-Demand Routing in LEO Mega-Constellations With Dynamic Laser Inter-Satellite Links",
+      "kind": "academic",
+      "evidence_state": "inherited_from_v1.7_not_reaudited",
+      "manuscript_cn_blocks": [
+        {
+          "id": "p333b",
+          "line": 181,
+          "type": "paragraph"
+        },
+        {
+          "id": "p334a",
+          "line": 187,
+          "type": "paragraph"
+        },
+        {
+          "id": "t4",
+          "line": 189,
+          "type": "table"
+        },
+        {
+          "id": "p41b",
+          "line": 272,
+          "type": "paragraph"
+        },
+        {
+          "id": "p43b",
+          "line": 301,
+          "type": "paragraph"
+        }
+      ],
+      "round4_claim_ids": [],
+      "formal_version_parity_closed": false,
+      "human_verified": false
+    }
+  ],
+  "human_verified": false,
+  "full_english_synchronized": false
+}
