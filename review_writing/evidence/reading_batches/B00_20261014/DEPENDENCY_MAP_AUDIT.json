@@ -1,0 +1,13 @@
+{
+  "frozen_manuscript_sha256": "0b9f3f6f6b8d3c13af97f25d7baf3dac6dc18ecad8614e182633e12b6e3bbc69",
+  "explicit_citation_occurrences": 57,
+  "unique_source_block_pairs": 56,
+  "new_occurrences_missing_from_frozen_index": [
+    {
+      "n": 42,
+      "block_id": "p322a2",
+      "line": 123
+    }
+  ],
+  "note": "[42]在L123/p322a2还有显式引文，旧SOURCE_CITATION_INDEX的[42]条目遗漏；只在B00映射补记，不编辑旧索引。图表标题锚点与具体引文行分别记录。历史claim locator/affected block不自动证明新正文的每个句子已核。"
+}

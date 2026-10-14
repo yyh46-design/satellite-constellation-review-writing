@@ -1,0 +1,275 @@
+{
+  "scope": "availability_and_identity_only",
+  "observations": [
+    {
+      "reference_number": 44,
+      "url": "https://www.sciencedirect.com/science/article/pii/S0305054825002400",
+      "method": "web.run ordinary open/find/click; no login or challenge interaction",
+      "checked_date_local": "2026-10-14 Asia/Shanghai",
+      "outcome": "403",
+      "observation": "正式页面请求403；搜索索引中的摘要/章节片段不计完整正文。",
+      "locator": null,
+      "technical_claim_verified": false
+    },
+    {
+      "reference_number": 44,
+      "url": "https://www.cirrelt.ca/documentstravail/cirrelt-2024-28.pdf",
+      "method": "web.run ordinary open/find/click; no login or challenge interaction",
+      "checked_date_local": "2026-10-14 Asia/Shanghai",
+      "outcome": "author_pdf_accessible",
+      "observation": "公开机构PDF31页可读；本机也完成下载与解析。",
+      "locator": null,
+      "technical_claim_verified": false
+    },
+    {
+      "reference_number": 73,
+      "url": "https://www.mdpi.com/2226-4310/11/3/191",
+      "method": "web.run ordinary open/find/click; no login or challenge interaction",
+      "checked_date_local": "2026-10-14 Asia/Shanghai",
+      "outcome": "429",
+      "observation": "正式HTML页面返回429；没有重复请求或验证码操作。",
+      "locator": null,
+      "technical_claim_verified": false
+    },
+    {
+      "reference_number": 107,
+      "url": "https://www.mdpi.com/2072-4292/15/6/1577",
+      "method": "web.run ordinary open/find/click; no login or challenge interaction",
+      "checked_date_local": "2026-10-14 Asia/Shanghai",
+      "outcome": "429",
+      "observation": "正式HTML页面返回429；没有重复请求或验证码操作。",
+      "locator": null,
+      "technical_claim_verified": false
+    },
+    {
+      "reference_number": 77,
+      "url": "https://www.sciopen.com/article/10.1016/j.cja.2024.09.039",
+      "method": "web.run ordinary open/find/click; no login or challenge interaction",
+      "checked_date_local": "2026-10-14 Asia/Shanghai",
+      "outcome": "abstract_only",
+      "observation": "题名、五作者、38(6)、DOI、摘要、收修录用及出版日期可读；正文没有返回。",
+      "locator": "metadata/abstract, page logical lines 125-145, 215-224",
+      "technical_claim_verified": false
+    },
+    {
+      "reference_number": 79,
+      "url": "https://hub.hku.hk/handle/10722/339786",
+      "method": "web.run ordinary open/find/click; no login or challenge interaction",
+      "checked_date_local": "2026-10-14 Asia/Shanghai",
+      "outcome": "abstract_only_no_attachment",
+      "observation": "机构条目File Download明确无关联文件；只提供书目、摘要及出版社链接。",
+      "locator": "File Download and Abstract",
+      "technical_claim_verified": false
+    },
+    {
+      "reference_number": 80,
+      "url": "https://hub.hku.hk/handle/10722/339783",
+      "method": "web.run ordinary open/find/click; no login or challenge interaction",
+      "checked_date_local": "2026-10-14 Asia/Shanghai",
+      "outcome": "abstract_only_no_attachment",
+      "observation": "机构条目无可读论文附件；不能将CC许可条目当作已下载PDF。",
+      "locator": "File Download and Abstract",
+      "technical_claim_verified": false
+    },
+    {
+      "reference_number": 53,
+      "url": "https://vbn.aau.dk/en/publications/edge-intelligence-for-satellite-based-earth-observation-schedulin/",
+      "method": "web.run ordinary open/find/click; no login or challenge interaction",
+      "checked_date_local": "2026-10-14 Asia/Shanghai",
+      "outcome": "preprint_record",
+      "observation": "预印本机构条目链接arXiv；不是正式PDF。",
+      "locator": "Access to Document",
+      "technical_claim_verified": false
+    },
+    {
+      "reference_number": 53,
+      "url": "https://vbn.aau.dk/da/publications/edge-intelligence-for-satellite-based-earth-observation-schedulin-2/",
+      "method": "web.run ordinary open/find/click; no login or challenge interaction",
+      "checked_date_local": "2026-10-14 Asia/Shanghai",
+      "outcome": "formal_metadata_preprint_link",
+      "observation": "期刊条目给2026-08-24出版信息和DOI，打开页面的原文链接仍为arXiv。搜索索引曾显示accepted attachment标签，打开页面未返回该附件URL，不确认其文件身份。",
+      "locator": "Access to Document and related preprint",
+      "technical_claim_verified": false
+    },
+    {
+      "reference_number": 53,
+      "url": "https://vbn.aau.dk/da/publications/f3996981-9950-470d-acc0-ce1648b82b77",
+      "method": "web.run ordinary open/find/click; no login or challenge interaction",
+      "checked_date_local": "2026-10-14 Asia/Shanghai",
+      "outcome": "tool_inaccessible",
+      "observation": "OpenAlex发现机构期刊记录，但UUID入口在web工具不可访问；另用检索找到正常公开题名记录。",
+      "locator": null,
+      "technical_claim_verified": false
+    },
+    {
+      "reference_number": 112,
+      "url": "https://iris.gssi.it/handle/20.500.12571/38124",
+      "method": "web.run ordinary open/find/click; no login or challenge interaction",
+      "checked_date_local": "2026-10-14 Asia/Shanghai",
+      "outcome": "timeout",
+      "observation": "从GSSI IRIS期刊列表链接发现精确条目；web打开超时，本机GET403。",
+      "locator": null,
+      "technical_claim_verified": false
+    },
+    {
+      "reference_number": 112,
+      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5247404",
+      "method": "web.run ordinary open/find/click; no login or challenge interaction",
+      "checked_date_local": "2026-10-14 Asia/Shanghai",
+      "outcome": "tool_error",
+      "observation": "SSRN作者稿条目检索可定位，但普通打开失败，本机403；未得到全文。",
+      "locator": null,
+      "technical_claim_verified": false
+    },
+    {
+      "reference_number": 112,
+      "url": "https://conf.researchr.org/details/icsa-2026/icsa-2026-journal-first/7/Reference-Architecture-for-Autonomy-and-Adaptivity-in-Satellites",
+      "method": "web.run ordinary open/find/click; no login or challenge interaction",
+      "checked_date_local": "2026-10-14 Asia/Shanghai",
+      "outcome": "conference_abstract_only",
+      "observation": "三作者、题名及会议摘要可读；没有期刊正文下载链接。",
+      "locator": "Journal First / Abstract",
+      "technical_claim_verified": false
+    },
+    {
+      "reference_number": 76,
+      "url": "https://faculty.cqupt.edu.cn/ranyongyi/zh_CN/index/74338/list/index.htm",
+      "method": "web.run ordinary open/find/click; no login or challenge interaction",
+      "checked_date_local": "2026-10-14 Asia/Shanghai",
+      "outcome": "bibliography_only",
+      "observation": "作者学校主页列出论文及5084-5098分页；当前页面未提供该篇PDF。",
+      "locator": "publications item 9",
+      "technical_claim_verified": false
+    },
+    {
+      "reference_number": 121,
+      "url": "https://nrc-publications.canada.ca/eng/view/object/?id=9a404f79-d821-4d0a-b850-1f09b4268220",
+      "method": "web.run ordinary open/find/click; no login or challenge interaction",
+      "checked_date_local": "2026-10-14 Asia/Shanghai",
+      "outcome": "author_attachment",
+      "observation": "机构记录的附件按钮直接写View author version；下载后论文页明确接受稿。",
+      "locator": "Download / publication date",
+      "technical_claim_verified": false
+    },
+    {
+      "reference_number": 121,
+      "url": "https://publications.polymtl.ca/60250/",
+      "method": "web.run ordinary open/find/click; no login or challenge interaction",
+      "checked_date_local": "2026-10-14 Asia/Shanghai",
+      "outcome": "timeout",
+      "observation": "另一机构仓储入口超时；不推测其附件内容。",
+      "locator": null,
+      "technical_claim_verified": false
+    },
+    {
+      "reference_number": 53,
+      "url": "https://arxiv.org/abs/2604.05937",
+      "method": "web.run ordinary open/find/click; no login or challenge interaction",
+      "checked_date_local": "2026-10-14 Asia/Shanghai",
+      "outcome": "preprint_v1_only",
+      "observation": "提交史仅显示v1，日期2026-04-07；未发现v2，不据arXiv编号月份推断提交日期。",
+      "locator": "Submission history",
+      "technical_claim_verified": false
+    },
+    {
+      "reference_number": 74,
+      "url": "https://arxiv.org/abs/2312.01292",
+      "method": "web.run ordinary open/find/click; no login or challenge interaction",
+      "checked_date_local": "2026-10-14 Asia/Shanghai",
+      "outcome": "preprint_v1_only",
+      "observation": "提交史仅显示v1，日期2023-12-03；未发现v2，不据arXiv编号月份推断提交日期。",
+      "locator": "Submission history",
+      "technical_claim_verified": false
+    },
+    {
+      "reference_number": 76,
+      "url": "https://arxiv.org/abs/2411.08896",
+      "method": "web.run ordinary open/find/click; no login or challenge interaction",
+      "checked_date_local": "2026-10-14 Asia/Shanghai",
+      "outcome": "preprint_v1_only",
+      "observation": "提交史仅显示v1，日期2024-10-29；未发现v2，不据arXiv编号月份推断提交日期。",
+      "locator": "Submission history",
+      "technical_claim_verified": false
+    },
+    {
+      "reference_number": 121,
+      "url": "https://arxiv.org/abs/2406.01953",
+      "method": "web.run ordinary open/find/click; no login or challenge interaction",
+      "checked_date_local": "2026-10-14 Asia/Shanghai",
+      "outcome": "preprint_v1_only",
+      "observation": "提交史仅显示v1，日期2024-06-04；未发现v2，不据arXiv编号月份推断提交日期。",
+      "locator": "Submission history",
+      "technical_claim_verified": false
+    },
+    {
+      "reference_number": 42,
+      "url": "https://ieeexplore.ieee.org/document/9416871/",
+      "method": "web.run ordinary open/find/click; no login or challenge interaction",
+      "checked_date_local": "2026-10-14 Asia/Shanghai",
+      "outcome": "robot_verification",
+      "observation": "普通公开页面要求启用JavaScript并证明非机器人；停止该入口，未操作挑战。",
+      "locator": null,
+      "technical_claim_verified": false
+    },
+    {
+      "reference_number": 76,
+      "url": "https://ieeexplore.ieee.org/document/10910071/",
+      "method": "web.run ordinary open/find/click; no login or challenge interaction",
+      "checked_date_local": "2026-10-14 Asia/Shanghai",
+      "outcome": "robot_verification",
+      "observation": "普通公开页面要求启用JavaScript并证明非机器人；停止该入口，未操作挑战。",
+      "locator": null,
+      "technical_claim_verified": false
+    },
+    {
+      "reference_number": 121,
+      "url": "https://ieeexplore.ieee.org/document/10561557/",
+      "method": "web.run ordinary open/find/click; no login or challenge interaction",
+      "checked_date_local": "2026-10-14 Asia/Shanghai",
+      "outcome": "robot_verification",
+      "observation": "普通公开页面要求启用JavaScript并证明非机器人；停止该入口，未操作挑战。",
+      "locator": null,
+      "technical_claim_verified": false
+    },
+    {
+      "reference_number": 73,
+      "url": "https://www.researchgate.net/publication/378570409_A_Hybrid_Forecasting_Model_for_Self-Similar_Traffic_in_LEO_Mega-Constellation_Networks",
+      "method": "web.run ordinary open/find/click; no login or challenge interaction",
+      "checked_date_local": "2026-10-14 Asia/Shanghai",
+      "outcome": "publisher_supplied_fulltext_text_unconfirmed_pdf",
+      "observation": "页面注明Publisher Full-text及Access provided by MDPI；可访问全文文字展示，包含出版题名、作者、日期、DOI与许可；不据此确认PDF字节/原页一致性。图表文字可见，但原PDF及水印页尚未核。",
+      "locator": "Publisher Full-text / publication front matter",
+      "technical_claim_verified": false
+    },
+    {
+      "reference_number": 73,
+      "url": "https://www.researchgate.net/publication/journal/Aerospace-2226-4310/publication/378570409_A_Hybrid_Forecasting_Model_for_Self-Similar_Traffic_in_LEO_Mega-Constellation_Networks/links/67e56e918a5ab03f971579e6/A-Hybrid-Forecasting-Model-for-Self-Similar-Traffic-in-LEO-Mega-Constellation-Networks.pdf",
+      "method": "web.run ordinary open/find/click; no login or challenge interaction",
+      "checked_date_local": "2026-10-14 Asia/Shanghai",
+      "outcome": "404",
+      "observation": "通过页面公开Download full-text PDF链接点击后返回404；未改写链接或绕过限制。",
+      "locator": null,
+      "technical_claim_verified": false
+    },
+    {
+      "reference_number": 107,
+      "url": "https://www.researchgate.net/publication/369246818_Reasoning-Based_Scheduling_Method_for_Agile_Earth_Observation_Satellite_with_Multi-Subsystem_Coupling",
+      "method": "web.run ordinary open/find/click; no login or challenge interaction",
+      "checked_date_local": "2026-10-14 Asia/Shanghai",
+      "outcome": "publisher_supplied_fulltext_text_unconfirmed_pdf",
+      "observation": "页面注明Publisher Full-text及Access provided by MDPI；可访问全文文字展示，包含出版题名、作者、日期、DOI与许可；不据此确认PDF字节/原页一致性。正文提取同时含正式页眉及FOR PEER REVIEW旧水印，保留混排问题。",
+      "locator": "Publisher Full-text / publication front matter",
+      "technical_claim_verified": false
+    },
+    {
+      "reference_number": 107,
+      "url": "https://www.researchgate.net/publication/journal/Remote-Sensing-2072-4292/publication/369246818_Reasoning-Based_Scheduling_Method_for_Agile_Earth_Observation_Satellite_with_Multi-Subsystem_Coupling/links/657ad1516610947889c86728/Reasoning-Based-Scheduling-Method-for-Agile-Earth-Observation-Satellite-with-Multi-Subsystem-Coupling.pdf",
+      "method": "web.run ordinary open/find/click; no login or challenge interaction",
+      "checked_date_local": "2026-10-14 Asia/Shanghai",
+      "outcome": "404",
+      "observation": "通过页面公开Download full-text PDF链接点击后返回404；未改写链接或绕过限制。",
+      "locator": null,
+      "technical_claim_verified": false
+    }
+  ]
+}

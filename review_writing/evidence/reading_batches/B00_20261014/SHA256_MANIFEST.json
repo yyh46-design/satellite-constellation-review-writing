@@ -1,0 +1,153 @@
+{
+  "batch": "B00_20261014",
+  "generated_at_utc": "2026-10-14T08:11:59.501186+00:00",
+  "repository": "yyh46-design/satellite-constellation-review-writing",
+  "branch": "research/constellation-review-reading-b00-20261014",
+  "parent_commit": "51be6a1326e8c615ea24f80f1887f16a2e7b02fc",
+  "scope_only": "review_writing/evidence/reading_batches/B00_20261014/",
+  "third_party_pdfs_uploaded": false,
+  "publication_paths": [
+    "review_writing/evidence/reading_batches/B00_20261014/.gitattributes",
+    "review_writing/evidence/reading_batches/B00_20261014/ACCESS_ATTEMPTS.json",
+    "review_writing/evidence/reading_batches/B00_20261014/B01_B02_READINESS.md",
+    "review_writing/evidence/reading_batches/B00_20261014/CLAIM_DEPENDENCY_MAP.csv",
+    "review_writing/evidence/reading_batches/B00_20261014/DEPENDENCY_MAP_AUDIT.json",
+    "review_writing/evidence/reading_batches/B00_20261014/FROZEN_INPUTS.json",
+    "review_writing/evidence/reading_batches/B00_20261014/LOCAL_PDF_INVENTORY.json",
+    "review_writing/evidence/reading_batches/B00_20261014/README.md",
+    "review_writing/evidence/reading_batches/B00_20261014/SHA256_MANIFEST.json",
+    "review_writing/evidence/reading_batches/B00_20261014/SOURCE_ACCESS_DETAILS.json",
+    "review_writing/evidence/reading_batches/B00_20261014/SOURCE_ACCESS_REGISTER.csv",
+    "review_writing/evidence/reading_batches/B00_20261014/UNAVAILABLE_AND_BLOCKERS.md",
+    "review_writing/evidence/reading_batches/B00_20261014/VERSION_COMPARISON_QUEUE.json",
+    "review_writing/evidence/reading_batches/B00_20261014/WEB_ACCESS_OBSERVATIONS.json"
+  ],
+  "files": [
+    {
+      "path": "review_writing/evidence/reading_batches/B00_20261014/.gitattributes",
+      "size_bytes": 8,
+      "sha256": "705fd4d6451a31d36b3df7de96f83f30ac976c9b4a6d1e51671d8e2f33e2d0da"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B00_20261014/ACCESS_ATTEMPTS.json",
+      "size_bytes": 21389,
+      "sha256": "55c0cada29b1660d6ed5ac8945c3db2a515ecf67eb314b7f246ebcf2e6537640"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B00_20261014/B01_B02_READINESS.md",
+      "size_bytes": 2642,
+      "sha256": "a0134f2a399f70715a1b7dc611db30e78feb0c5bdef0d31936039393c63315a6"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B00_20261014/CLAIM_DEPENDENCY_MAP.csv",
+      "size_bytes": 38282,
+      "sha256": "48d243ca8d3bbc5d187478868fe2f1ba9dbc4a27ea3d12021b795fa337a746d1"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B00_20261014/DEPENDENCY_MAP_AUDIT.json",
+      "size_bytes": 579,
+      "sha256": "f51008c3a89baf32c84f55a8c0dae637917ec1352173e52c16c6d982646182cb"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B00_20261014/FROZEN_INPUTS.json",
+      "size_bytes": 3994,
+      "sha256": "392ec37050a74fe273677952438e39d11aef17c2e63594837ee8b810e4d633c9"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B00_20261014/LOCAL_PDF_INVENTORY.json",
+      "size_bytes": 8086,
+      "sha256": "0133f7ebbfc7627343f3fcce993199bd74d7dc9a17fe660fb6d8e9af8570077d"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B00_20261014/README.md",
+      "size_bytes": 6329,
+      "sha256": "a94f4bd74a3f670d4af2ff72ff80d799b1617c93f06e84072f00f6c6b5fa2d88"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B00_20261014/SOURCE_ACCESS_DETAILS.json",
+      "size_bytes": 82175,
+      "sha256": "66b44561b76799798d837073aa160d42a44aa9cdc3389f1042786687a7a78d65"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B00_20261014/SOURCE_ACCESS_REGISTER.csv",
+      "size_bytes": 19104,
+      "sha256": "1a42345a7f0bde146f6ce696913a46e2038550e2b91461b375c8cc15c83cb2b4"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B00_20261014/UNAVAILABLE_AND_BLOCKERS.md",
+      "size_bytes": 5670,
+      "sha256": "09272803aafd823a1b481176105f0ae0d94df5af59477e8d88bf9887b07423a0"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B00_20261014/VERSION_COMPARISON_QUEUE.json",
+      "size_bytes": 20860,
+      "sha256": "05bd46bf01b8476397df429422454cedcc2fcc0384c566ab8a309f2cea2f158a"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B00_20261014/WEB_ACCESS_OBSERVATIONS.json",
+      "size_bytes": 14400,
+      "sha256": "c94f250c42da0511a76b3ed5a46a0bf428e1735d7ee0fd7aece7a045d609837e"
+    }
+  ],
+  "self_hash_policy": "SHA256_MANIFEST.json is included in publication_paths but excluded from files hashes to avoid recursive self-hash; final file hash recorded in external publication receipt.",
+  "frozen_inputs": [
+    {
+      "path": "review_writing/manuscripts/v1.9/README.md",
+      "git_blob_sha1": "16e27e0fc01f4610bf7adbdfdeaded1e616d4140",
+      "frozen_blob_sha256": "47507d5dad2018f016542d8bdda6eae8713092e375d7ad318363930c02ea0405",
+      "frozen_blob_size_bytes": 3056,
+      "local_checkout_sha256": "47507d5dad2018f016542d8bdda6eae8713092e375d7ad318363930c02ea0405",
+      "note": "冻结哈希使用Git原始blob字节；本地checkout可能受历史core.autocrlf影响，正文行定位按UTF-8解码后的逻辑行。"
+    },
+    {
+      "path": "review_writing/manuscripts/v1.9/REVIEW_CN_v1.9.md",
+      "git_blob_sha1": "4d908548705b947a541c1dd3db973c09631b70d2",
+      "frozen_blob_sha256": "0b9f3f6f6b8d3c13af97f25d7baf3dac6dc18ecad8614e182633e12b6e3bbc69",
+      "frozen_blob_size_bytes": 93970,
+      "local_checkout_sha256": "0b9f3f6f6b8d3c13af97f25d7baf3dac6dc18ecad8614e182633e12b6e3bbc69",
+      "note": "冻结哈希使用Git原始blob字节；本地checkout可能受历史core.autocrlf影响，正文行定位按UTF-8解码后的逻辑行。"
+    },
+    {
+      "path": "review_writing/manuscripts/v1.9/OPEN_ITEMS_v1.9.md",
+      "git_blob_sha1": "a1e6d0abdfc490f102c8cd4a915b3dc80563c573",
+      "frozen_blob_sha256": "d3a3736364aa2f40dec58cef8ae265014e54303fc09b1bbb6b8aa597ede136fa",
+      "frozen_blob_size_bytes": 5506,
+      "local_checkout_sha256": "d3a3736364aa2f40dec58cef8ae265014e54303fc09b1bbb6b8aa597ede136fa",
+      "note": "冻结哈希使用Git原始blob字节；本地checkout可能受历史core.autocrlf影响，正文行定位按UTF-8解码后的逻辑行。"
+    },
+    {
+      "path": "review_writing/manuscripts/v1.9/CORE_LITERATURE_AUDIT_ROUND4.json",
+      "git_blob_sha1": "9b166747d2363fc6c677ed20c8415e958931c6e1",
+      "frozen_blob_sha256": "d776ef88414f6b382c769f875e5f6f4349f43df5ac87a39807d2e2e1d7d50759",
+      "frozen_blob_size_bytes": 12097,
+      "local_checkout_sha256": "d776ef88414f6b382c769f875e5f6f4349f43df5ac87a39807d2e2e1d7d50759",
+      "note": "冻结哈希使用Git原始blob字节；本地checkout可能受历史core.autocrlf影响，正文行定位按UTF-8解码后的逻辑行。"
+    },
+    {
+      "path": "review_writing/manuscripts/v1.9/SOURCE_CITATION_INDEX_121_v1.9.json",
+      "git_blob_sha1": "f19de0bd597d0a2ed1cb99c7967d24461744de3a",
+      "frozen_blob_sha256": "53bac52d29312dd3a7f3640bb5e450aefea9d0c8b6f37ddefee60e192d5fa9cf",
+      "frozen_blob_size_bytes": 76352,
+      "local_checkout_sha256": "53bac52d29312dd3a7f3640bb5e450aefea9d0c8b6f37ddefee60e192d5fa9cf",
+      "note": "冻结哈希使用Git原始blob字节；本地checkout可能受历史core.autocrlf影响，正文行定位按UTF-8解码后的逻辑行。"
+    },
+    {
+      "path": "review_writing/evidence/reading_inventory_20261013/READING_LEDGER_121.json",
+      "git_blob_sha1": "4043e6b476e252d2d6c6dd9e6c535ada4ee5ecba",
+      "frozen_blob_sha256": "d5af69c1c36b420dee2b6d75947d86e8464b99590fbb82680ff885211cc581ff",
+      "frozen_blob_size_bytes": 197684,
+      "local_checkout_sha256": "0c38dca7302e00e3b608bcd92943cabc3c325b4c46b4b94c4521c3967090fea8",
+      "note": "冻结哈希使用Git原始blob字节；本地checkout可能受历史core.autocrlf影响，正文行定位按UTF-8解码后的逻辑行。"
+    },
+    {
+      "path": "review_writing/manuscripts/v1.8/REVISION_CHARTER_v1.0.md",
+      "git_blob_sha1": "de2a4acca6eed308607c090c85d254c2b50fcd58",
+      "frozen_blob_sha256": "3a236f999d9c99ed1ba20d40e01cd0dda8baab39cce3fc87bc33bfb0c433e004",
+      "frozen_blob_size_bytes": 9010,
+      "local_checkout_sha256": "3a236f999d9c99ed1ba20d40e01cd0dda8baab39cce3fc87bc33bfb0c433e004",
+      "note": "冻结哈希使用Git原始blob字节；本地checkout可能受历史core.autocrlf影响，正文行定位按UTF-8解码后的逻辑行。"
+    }
+  ],
+  "full_close_reads_completed_this_batch": 0,
+  "human_verified": false
+}

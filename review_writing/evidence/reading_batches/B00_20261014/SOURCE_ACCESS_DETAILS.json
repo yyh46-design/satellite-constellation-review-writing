@@ -1,0 +1,2154 @@
+{
+  "batch": "B00_20261014",
+  "frozen_commit": "51be6a1326e8c615ea24f80f1887f16a2e7b02fc",
+  "sources": [
+    {
+      "reference_number": 42,
+      "doi": "10.1109/TMC.2021.3076088",
+      "title_en": "Joint Observation and Transmission Scheduling in Agile Satellite Networks",
+      "title_zh_translation": "敏捷卫星网络中的联合观测与传输调度",
+      "translation_is_official": false,
+      "authors_display": [
+        "Lijun He",
+        "Ben Liang",
+        "Jiandong Li",
+        "Min Sheng"
+      ],
+      "publication_metadata": {
+        "journal": "IEEE Transactions on Mobile Computing",
+        "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+        "volume": "21",
+        "issue": "12",
+        "page_or_article": "4381-4396",
+        "article_number": null,
+        "published": {
+          "date-parts": [
+            [
+              2022,
+              12,
+              1
+            ]
+          ]
+        },
+        "published_online": null,
+        "published_print": {
+          "date-parts": [
+            [
+              2022,
+              12,
+              1
+            ]
+          ]
+        },
+        "frozen_v19_bibliography": "IEEE Transactions on Mobile Computing, 2022, 21(12): 4381–4396"
+      },
+      "metadata_primary_url": "https://api.crossref.org/works/10.1109/TMC.2021.3076088",
+      "metadata_primary_snapshot_sha256": "573a5eeef76d334c14dc5206f5c4a2ef5bb14131a266804ec2479d49f2882b23",
+      "metadata_notes": [],
+      "publisher_landing_url": "https://ieeexplore.ieee.org/document/9416871/",
+      "publisher_pdf_entry_status": "not_acquired",
+      "best_access_state": "author_fulltext_pdf",
+      "best_version_identity": "author_manuscript_acceptance_unconfirmed",
+      "best_version_identity_zh": "作者公开稿；接受状态本轮未确认",
+      "version_identity_basis": "作者机构域名、题名与四作者一致；PDF15页、页码1起，无期刊最终卷期分页/DOI及接受说明。冻结Round4称其接受稿，本轮仅确认作者稿身份。",
+      "accessible_fulltext_or_abstract_urls": [
+        "https://www.comm.utoronto.ca/~liang/publications/TMC_ObsTrans_ASN.pdf"
+      ],
+      "arxiv_checked": "本轮以题名关键词/DOI并限定arxiv.org检索未找到对应作者版本；不作为不存在的证明。",
+      "arxiv_exact_version": null,
+      "institutional_repository_checked": "University of Toronto作者主页PDF已取得。",
+      "local_preexisting_pdf_checked": "本轮检索当前工作区既有5个PDF，无目标13篇；未扫描整盘或推断其他设备文件。",
+      "validated_pdf_artifacts": [
+        {
+          "reference_number": 42,
+          "local_file": "D:\\SKT727\\materials\\constellation_review_B00_20261014\\042_utoronto_author.pdf",
+          "filename": "042_utoronto_author.pdf",
+          "pdf_pages": 15,
+          "file_size_bytes": 1475988,
+          "sha256": "e1db3270d5e8487b7ce6c88ae1baec1463508f7e7ec3532806a06c271dee9ab1",
+          "text_extraction_success": true,
+          "text_chars_per_page": [
+            5830,
+            6081,
+            5398,
+            4807,
+            5403,
+            5609,
+            4610,
+            4324,
+            4745,
+            4016,
+            5715,
+            5348,
+            4718,
+            6389,
+            7254
+          ],
+          "minimum_page_text_chars": 4016,
+          "identity_pages_visually_inspected": [
+            1
+          ],
+          "visual_scope": "version/title/front-matter only; no equations, results or figures reviewed",
+          "version_identity": "author_manuscript_acceptance_unconfirmed",
+          "full_close_read_completed_this_batch": false,
+          "human_verified": false,
+          "third_party_file_uploaded": false
+        }
+      ],
+      "primary_pdf_artifact": {
+        "reference_number": 42,
+        "local_file": "D:\\SKT727\\materials\\constellation_review_B00_20261014\\042_utoronto_author.pdf",
+        "filename": "042_utoronto_author.pdf",
+        "pdf_pages": 15,
+        "file_size_bytes": 1475988,
+        "sha256": "e1db3270d5e8487b7ce6c88ae1baec1463508f7e7ec3532806a06c271dee9ab1",
+        "text_extraction_success": true,
+        "text_chars_per_page": [
+          5830,
+          6081,
+          5398,
+          4807,
+          5403,
+          5609,
+          4610,
+          4324,
+          4745,
+          4016,
+          5715,
+          5348,
+          4718,
+          6389,
+          7254
+        ],
+        "minimum_page_text_chars": 4016,
+        "identity_pages_visually_inspected": [
+          1
+        ],
+        "visual_scope": "version/title/front-matter only; no equations, results or figures reviewed",
+        "version_identity": "author_manuscript_acceptance_unconfirmed",
+        "full_close_read_completed_this_batch": false,
+        "human_verified": false,
+        "third_party_file_uploaded": false
+      },
+      "different_versions_exist": true,
+      "different_versions_basis": "正式DOI出版记录与非正式作者稿并存；只确认版本身份，不确认内容差异。",
+      "formal_version_parity_closed": false,
+      "html_pdf_equivalence_verified": false,
+      "core_page_checks_needed": true,
+      "core_page_check_focus": "v1.9采用的加权任务收益、窗口关联/窗内资源分层、SDR与遗传搜索，以及无误码和图像质量假设。",
+      "v19_blocks_from_frozen_index": [
+        {
+          "id": "p24a",
+          "line": 67,
+          "type": "paragraph"
+        },
+        {
+          "id": "p322a",
+          "line": 121,
+          "type": "paragraph"
+        },
+        {
+          "id": "p322c",
+          "line": 127,
+          "type": "paragraph"
+        },
+        {
+          "id": "t3",
+          "line": 145,
+          "type": "table"
+        },
+        {
+          "id": "p35b",
+          "line": 244,
+          "type": "paragraph"
+        },
+        {
+          "id": "p41a",
+          "line": 270,
+          "type": "paragraph"
+        },
+        {
+          "id": "p42a",
+          "line": 278,
+          "type": "paragraph"
+        },
+        {
+          "id": "p42a2",
+          "line": 280,
+          "type": "paragraph"
+        },
+        {
+          "id": "t6",
+          "line": 286,
+          "type": "table"
+        },
+        {
+          "id": "p45b",
+          "line": 328,
+          "type": "paragraph"
+        }
+      ],
+      "inherited_locators_not_reverified": [],
+      "inherited_round4_claims": [
+        {
+          "claim_id": "R4-42-1",
+          "reference_number": 42,
+          "doi": "10.1109/TMC.2021.3076088",
+          "claim_type": "source_finding",
+          "current_status": "supported",
+          "content_reading_level": "author_version_only",
+          "source_identity": "2021 IEEE accepted manuscript; University of Toronto faculty-hosted PDF; 15 pages",
+          "read_url": "https://www.comm.utoronto.ca/~liang/publications/TMC_ObsTrans_ASN.pdf",
+          "actual_locator": "PDF pp.1–2 (§1), pp.9–12 (§4.2–5.2), p.13 (§5.4), Figs 3 and 6",
+          "claim": "以观测和传输时间窗联合调度、以成功安排的任务加权收益为目标；采用半正定松弛与遗传搜索",
+          "applicability_and_limitation": "模型依赖给定窗口、固定网络容量；不是所有任务和产品质量的通用度量",
+          "v1_9_affected_block_ids": [
+            "p322a",
+            "p42a",
+            "t3",
+            "t6"
+          ],
+          "human_verified": false,
+          "author_final_check": "pending"
+        },
+        {
+          "claim_id": "R4-42-2",
+          "reference_number": 42,
+          "doi": "10.1109/TMC.2021.3076088",
+          "claim_type": "source_finding",
+          "current_status": "supported",
+          "content_reading_level": "author_version_only",
+          "source_identity": "2021 IEEE accepted manuscript; University of Toronto faculty-hosted PDF; 15 pages",
+          "read_url": "https://www.comm.utoronto.ca/~liang/publications/TMC_ObsTrans_ASN.pdf",
+          "actual_locator": "PDF p.4, §3.1, system assumptions; PDF image inspected for p.1 and p.12",
+          "claim": "系统模型忽略成像角度对图像质量的影响，并假设传输无误码",
+          "applicability_and_limitation": "不引申为真实链路可靠性及合格产品质量已经验证",
+          "v1_9_affected_block_ids": [
+            "p322a",
+            "t3"
+          ],
+          "human_verified": false,
+          "author_final_check": "pending"
+        },
+        {
+          "claim_id": "R4-42-3",
+          "reference_number": 42,
+          "doi": "10.1109/TMC.2021.3076088",
+          "claim_type": "source_finding",
+          "current_status": "supported",
+          "content_reading_level": "author_version_only",
+          "source_identity": "2021 IEEE accepted manuscript; University of Toronto faculty-hosted PDF; 15 pages",
+          "read_url": "https://www.comm.utoronto.ca/~liang/publications/TMC_ObsTrans_ASN.pdf",
+          "actual_locator": "PDF pp.9–12, §4.2; §5.2 Fig.3",
+          "claim": "时窗关联与窗内资源安排构成分层求解；与直接SDR对照，计算时间降低且图3任务收益接近",
+          "applicability_and_limitation": "限于原作者STK/Matlab算例，不等于所有星座场景求解实时性",
+          "v1_9_affected_block_ids": [
+            "p41a",
+            "p42a2"
+          ],
+          "human_verified": false,
+          "author_final_check": "pending"
+        }
+      ],
+      "missing_for_full_close_read": "正式PDF；正式版与作者版的目标/假设/公式/基线/图表/结论逐项对照；全篇核读及人工作者终核。",
+      "full_close_read_completed_this_batch": false,
+      "technical_claim_support_verified_this_batch": false,
+      "human_verified": false,
+      "source_availability_only": true,
+      "access_attempt_labels": [
+        "ieee_pdf",
+        "utoronto_author"
+      ],
+      "openalex_discovery_locations": [
+        {
+          "landing_page_url": "https://doi.org/10.1109/tmc.2021.3076088",
+          "pdf_url": null,
+          "index_version_label_not_authority": "publishedVersion"
+        }
+      ]
+    },
+    {
+      "reference_number": 44,
+      "doi": "10.1016/j.cor.2025.107212",
+      "title_en": "The integrated agile Earth observation satellite scheduling problem",
+      "title_zh_translation": "集成敏捷对地观测卫星调度问题",
+      "translation_is_official": false,
+      "authors_display": [
+        "Yure Rocha",
+        "Guilherme O. Chagas",
+        "Leandro C. Coelho",
+        "Anand Subramanian"
+      ],
+      "publication_metadata": {
+        "journal": "Computers & Operations Research",
+        "publisher": "Elsevier BV",
+        "volume": "184",
+        "issue": null,
+        "page_or_article": "107212",
+        "article_number": "107212",
+        "published": {
+          "date-parts": [
+            [
+              2025,
+              12
+            ]
+          ]
+        },
+        "published_online": null,
+        "published_print": {
+          "date-parts": [
+            [
+              2025,
+              12
+            ]
+          ]
+        },
+        "frozen_v19_bibliography": "Computers & Operations Research, 2025, 184: 107212"
+      },
+      "metadata_primary_url": "https://api.crossref.org/works/10.1016/j.cor.2025.107212",
+      "metadata_primary_snapshot_sha256": "66d7011575fe832751cd28e4e64e0a86913937c86dcd354b05947f878edd6c22",
+      "metadata_notes": [
+        "第三方聚合检索曾把第三作者写为Jacques Renaud；本轮Crossref与CIRRELT封面均为Leandro C. Coelho，聚合条目不作为书目权威。"
+      ],
+      "publisher_landing_url": "https://linkinghub.elsevier.com/retrieve/pii/S0305054825002400",
+      "publisher_pdf_entry_status": "not_acquired",
+      "best_access_state": "author_fulltext_pdf",
+      "best_version_identity": "author_working_paper",
+      "best_version_identity_zh": "机构工作论文/作者预印本",
+      "version_identity_basis": "第一页CIRRELT-2024-28、August 2024，另标FSA-2024-004；31页包含封面，不是2025期刊正式版。",
+      "accessible_fulltext_or_abstract_urls": [
+        "https://www.cirrelt.ca/documentstravail/cirrelt-2024-28.pdf"
+      ],
+      "arxiv_checked": "本轮以题名关键词/DOI并限定arxiv.org检索未找到对应作者版本；不作为不存在的证明。",
+      "arxiv_exact_version": null,
+      "institutional_repository_checked": "CIRRELT/Université Laval工作论文已取得。",
+      "local_preexisting_pdf_checked": "本轮检索当前工作区既有5个PDF，无目标13篇；未扫描整盘或推断其他设备文件。",
+      "validated_pdf_artifacts": [
+        {
+          "reference_number": 44,
+          "local_file": "D:\\SKT727\\materials\\constellation_review_B00_20261014\\044_cirrelt_working_paper.pdf",
+          "filename": "044_cirrelt_working_paper.pdf",
+          "pdf_pages": 31,
+          "file_size_bytes": 1310061,
+          "sha256": "eca7b13c016546f428dccec10b6db85da51f7b9fd5d288d48e604c7a872ae855",
+          "text_extraction_success": true,
+          "text_chars_per_page": [
+            312,
+            3117,
+            2604,
+            2558,
+            2472,
+            2937,
+            2992,
+            2803,
+            3142,
+            2241,
+            1627,
+            2598,
+            2146,
+            2497,
+            2241,
+            2286,
+            2044,
+            2473,
+            2541,
+            2414,
+            2245,
+            2249,
+            2460,
+            2388,
+            3034,
+            3217,
+            2950,
+            1949,
+            2537,
+            2118,
+            1703
+          ],
+          "minimum_page_text_chars": 312,
+          "identity_pages_visually_inspected": [
+            1
+          ],
+          "visual_scope": "version/title/front-matter only; no equations, results or figures reviewed",
+          "version_identity": "author_working_paper",
+          "full_close_read_completed_this_batch": false,
+          "human_verified": false,
+          "third_party_file_uploaded": false
+        }
+      ],
+      "primary_pdf_artifact": {
+        "reference_number": 44,
+        "local_file": "D:\\SKT727\\materials\\constellation_review_B00_20261014\\044_cirrelt_working_paper.pdf",
+        "filename": "044_cirrelt_working_paper.pdf",
+        "pdf_pages": 31,
+        "file_size_bytes": 1310061,
+        "sha256": "eca7b13c016546f428dccec10b6db85da51f7b9fd5d288d48e604c7a872ae855",
+        "text_extraction_success": true,
+        "text_chars_per_page": [
+          312,
+          3117,
+          2604,
+          2558,
+          2472,
+          2937,
+          2992,
+          2803,
+          3142,
+          2241,
+          1627,
+          2598,
+          2146,
+          2497,
+          2241,
+          2286,
+          2044,
+          2473,
+          2541,
+          2414,
+          2245,
+          2249,
+          2460,
+          2388,
+          3034,
+          3217,
+          2950,
+          1949,
+          2537,
+          2118,
+          1703
+        ],
+        "minimum_page_text_chars": 312,
+        "identity_pages_visually_inspected": [
+          1
+        ],
+        "visual_scope": "version/title/front-matter only; no equations, results or figures reviewed",
+        "version_identity": "author_working_paper",
+        "full_close_read_completed_this_batch": false,
+        "human_verified": false,
+        "third_party_file_uploaded": false
+      },
+      "different_versions_exist": true,
+      "different_versions_basis": "正式DOI出版记录与非正式作者稿并存；只确认版本身份，不确认内容差异。",
+      "formal_version_parity_closed": false,
+      "html_pdf_equivalence_verified": false,
+      "core_page_checks_needed": true,
+      "core_page_check_focus": "v1.9采用的观测收益加下传数据量双项目标；简化整数模型可能缩小可行域；图缩减、MIP邻域与计算平台。",
+      "v19_blocks_from_frozen_index": [
+        {
+          "id": "p24a",
+          "line": 67,
+          "type": "paragraph"
+        },
+        {
+          "id": "p322a2",
+          "line": 123,
+          "type": "paragraph"
+        },
+        {
+          "id": "p322c",
+          "line": 127,
+          "type": "paragraph"
+        },
+        {
+          "id": "t3",
+          "line": 145,
+          "type": "table"
+        },
+        {
+          "id": "p35b",
+          "line": 244,
+          "type": "paragraph"
+        },
+        {
+          "id": "p41a",
+          "line": 270,
+          "type": "paragraph"
+        },
+        {
+          "id": "p42a",
+          "line": 278,
+          "type": "paragraph"
+        },
+        {
+          "id": "p42a2",
+          "line": 280,
+          "type": "paragraph"
+        },
+        {
+          "id": "p42c",
+          "line": 284,
+          "type": "paragraph"
+        },
+        {
+          "id": "t6",
+          "line": 286,
+          "type": "table"
+        },
+        {
+          "id": "p45b",
+          "line": 328,
+          "type": "paragraph"
+        }
+      ],
+      "inherited_locators_not_reverified": [],
+      "inherited_round4_claims": [
+        {
+          "claim_id": "R4-44-1",
+          "reference_number": 44,
+          "doi": "10.1016/j.cor.2025.107212",
+          "claim_type": "source_finding",
+          "current_status": "supported",
+          "content_reading_level": "author_version_only",
+          "source_identity": "CIRRELT-2024-28 institutional working paper; 31 PDF pages; 2025 publication abstract separately inspected",
+          "read_url": "https://www.cirrelt.ca/documentstravail/cirrelt-2024-28.pdf",
+          "actual_locator": "CIRRELT PDF pp.2–4 §1; pp.11–12 §3, objective (1) and discussion",
+          "claim": "目标函数包含观测目标收益和已下传数据量两项",
+          "applicability_and_limitation": "下载体积与完成的目标/请求数量不可互作同一收益指标",
+          "v1_9_affected_block_ids": [
+            "p24a",
+            "p322a2",
+            "p35b",
+            "p42a",
+            "p42c",
+            "t3",
+            "t6"
+          ],
+          "human_verified": false,
+          "author_final_check": "pending"
+        },
+        {
+          "claim_id": "R4-44-2",
+          "reference_number": 44,
+          "doi": "10.1016/j.cor.2025.107212",
+          "claim_type": "source_finding",
+          "current_status": "supported",
+          "content_reading_level": "author_version_only",
+          "source_identity": "CIRRELT-2024-28 institutional working paper; 31 PDF pages; 2025 publication abstract separately inspected",
+          "read_url": "https://www.cirrelt.ca/documentstravail/cirrelt-2024-28.pdf",
+          "actual_locator": "CIRRELT PDF pp.4–5 §1, pp.17–21 §4–5, Algorithm 1; publisher 2025 abstract",
+          "claim": "改进整数模型以计算可处理性换取可能缩小的可行搜索空间，另用图结构简化和MIP邻域搜索",
+          "applicability_and_limitation": "不同简化分别可能改变模型可行域或搜索算法；未复验解空间等价性",
+          "v1_9_affected_block_ids": [
+            "p322a2",
+            "p41a",
+            "p42a2",
+            "t3",
+            "t6"
+          ],
+          "human_verified": false,
+          "author_final_check": "pending"
+        },
+        {
+          "claim_id": "R4-44-3",
+          "reference_number": 44,
+          "doi": "10.1016/j.cor.2025.107212",
+          "claim_type": "source_finding",
+          "current_status": "supported",
+          "content_reading_level": "author_version_only",
+          "source_identity": "CIRRELT-2024-28 institutional working paper; 31 PDF pages; 2025 publication abstract separately inspected",
+          "read_url": "https://www.cirrelt.ca/documentstravail/cirrelt-2024-28.pdf",
+          "actual_locator": "CIRRELT PDF pp.22–23 §6.1, technical setup; formal publisher abstract",
+          "claim": "作者机构工作论文在特定硬件/求解器上测试，示例数据由原卫星任务集划分成不同任务和卫星规模",
+          "applicability_and_limitation": "正式期刊全文逐命题对照未关闭；不得当作机载在线实时演示",
+          "v1_9_affected_block_ids": [
+            "p41c",
+            "p42a2"
+          ],
+          "human_verified": false,
+          "author_final_check": "pending"
+        }
+      ],
+      "missing_for_full_close_read": "正式PDF；正式版与作者版的目标/假设/公式/基线/图表/结论逐项对照；全篇核读及人工作者终核。",
+      "full_close_read_completed_this_batch": false,
+      "technical_claim_support_verified_this_batch": false,
+      "human_verified": false,
+      "source_availability_only": true,
+      "access_attempt_labels": [
+        "cirrelt_2024_28",
+        "cirrelt_windows_tls_partial",
+        "cirrelt_working_paper",
+        "publisher"
+      ],
+      "openalex_discovery_locations": [
+        {
+          "landing_page_url": "https://doi.org/10.1016/j.cor.2025.107212",
+          "pdf_url": null,
+          "index_version_label_not_authority": "publishedVersion"
+        },
+        {
+          "landing_page_url": "http://dx.doi.org/10.2139/ssrn.4932059",
+          "pdf_url": null,
+          "index_version_label_not_authority": "acceptedVersion"
+        }
+      ]
+    },
+    {
+      "reference_number": 53,
+      "doi": "10.1002/sat.70082",
+      "title_en": "Edge Intelligence for Satellite‐Based Earth Observation: Scheduling Image Acquisition and Processing",
+      "title_zh_translation": "卫星对地观测边缘智能：图像采集与处理调度",
+      "translation_is_official": false,
+      "authors_display": [
+        "Beatriz Soret",
+        "Antonio M. Mercado‐Martínez",
+        "Antonio Jurado‐Navas",
+        "Nicolai D. Lyholm",
+        "Marco Moretti",
+        "Petar Popovski",
+        "Israel Leyva‐Mayorga"
+      ],
+      "publication_metadata": {
+        "journal": "International Journal of Satellite Communications and Networking",
+        "publisher": "Wiley",
+        "volume": null,
+        "issue": null,
+        "page_or_article": null,
+        "article_number": "sat.70082",
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              8,
+              24
+            ]
+          ]
+        },
+        "published_online": {
+          "date-parts": [
+            [
+              2026,
+              8,
+              24
+            ]
+          ]
+        },
+        "published_print": null,
+        "frozen_v19_bibliography": "International Journal of Satellite Communications and Networking, 2026: 1–22; advance online publication, 24 August 2026"
+      },
+      "metadata_primary_url": "https://api.crossref.org/works/10.1002/sat.70082",
+      "metadata_primary_snapshot_sha256": "ae9b19acab058734356d6badf2a07f7cab0b0db6c2fcacac905103a04c255b31",
+      "metadata_notes": [
+        "Crossref与Aalborg支持2026-08-24 online；Crossref无卷期和1-22分页字段，v1.9的1-22本轮不新增确认，保留待正式PDF核。"
+      ],
+      "publisher_landing_url": "https://onlinelibrary.wiley.com/doi/10.1002/sat.70082",
+      "publisher_pdf_entry_status": "not_acquired",
+      "best_access_state": "author_fulltext_pdf",
+      "best_version_identity": "author_preprint",
+      "best_version_identity_zh": "作者预印本arXiv v1",
+      "version_identity_basis": "arXiv:2604.05937v1侧边标识，第一页Draft；提交史2026-04-07，稿件封面2026-04-08；25页。",
+      "accessible_fulltext_or_abstract_urls": [
+        "https://arxiv.org/pdf/2604.05937v1"
+      ],
+      "arxiv_checked": "arXiv原站提交史已打开，仅v1；下载精确版本。",
+      "arxiv_exact_version": "2604.05937v1",
+      "institutional_repository_checked": "Aalborg期刊与预印本两条记录已区分；可打开原文链接为arXiv。",
+      "local_preexisting_pdf_checked": "本轮检索当前工作区既有5个PDF，无目标13篇；未扫描整盘或推断其他设备文件。",
+      "validated_pdf_artifacts": [
+        {
+          "reference_number": 53,
+          "local_file": "D:\\SKT727\\materials\\constellation_review_B00_20261014\\053_arxiv_v1_complete.pdf",
+          "filename": "053_arxiv_v1_complete.pdf",
+          "pdf_pages": 25,
+          "file_size_bytes": 2061414,
+          "sha256": "b18022c2b14b5c9931fea8192e76751c0899e9f472d90e7d899f46732aba4749",
+          "text_extraction_success": true,
+          "text_chars_per_page": [
+            4604,
+            4395,
+            4997,
+            3086,
+            2813,
+            3200,
+            5244,
+            2531,
+            4416,
+            3356,
+            4823,
+            3858,
+            4031,
+            3076,
+            3970,
+            2372,
+            3259,
+            4354,
+            3614,
+            5136,
+            2502,
+            3990,
+            3720,
+            3926,
+            2278
+          ],
+          "minimum_page_text_chars": 2278,
+          "identity_pages_visually_inspected": [
+            1
+          ],
+          "visual_scope": "version/title/front-matter only; no equations, results or figures reviewed",
+          "version_identity": "author_preprint",
+          "full_close_read_completed_this_batch": false,
+          "human_verified": false,
+          "third_party_file_uploaded": false
+        }
+      ],
+      "primary_pdf_artifact": {
+        "reference_number": 53,
+        "local_file": "D:\\SKT727\\materials\\constellation_review_B00_20261014\\053_arxiv_v1_complete.pdf",
+        "filename": "053_arxiv_v1_complete.pdf",
+        "pdf_pages": 25,
+        "file_size_bytes": 2061414,
+        "sha256": "b18022c2b14b5c9931fea8192e76751c0899e9f472d90e7d899f46732aba4749",
+        "text_extraction_success": true,
+        "text_chars_per_page": [
+          4604,
+          4395,
+          4997,
+          3086,
+          2813,
+          3200,
+          5244,
+          2531,
+          4416,
+          3356,
+          4823,
+          3858,
+          4031,
+          3076,
+          3970,
+          2372,
+          3259,
+          4354,
+          3614,
+          5136,
+          2502,
+          3990,
+          3720,
+          3926,
+          2278
+        ],
+        "minimum_page_text_chars": 2278,
+        "identity_pages_visually_inspected": [
+          1
+        ],
+        "visual_scope": "version/title/front-matter only; no equations, results or figures reviewed",
+        "version_identity": "author_preprint",
+        "full_close_read_completed_this_batch": false,
+        "human_verified": false,
+        "third_party_file_uploaded": false
+      },
+      "different_versions_exist": true,
+      "different_versions_basis": "正式DOI出版记录与非正式作者稿并存；只确认版本身份，不确认内容差异。",
+      "formal_version_parity_closed": false,
+      "html_pdf_equivalence_verified": false,
+      "core_page_checks_needed": true,
+      "core_page_check_focus": "v1.9采用的采集先定、下游星地处理负载/频率优化、稳定ISL与固定流水线。",
+      "v19_blocks_from_frozen_index": [
+        {
+          "id": "p322c",
+          "line": 127,
+          "type": "paragraph"
+        },
+        {
+          "id": "t3",
+          "line": 145,
+          "type": "table"
+        },
+        {
+          "id": "p35c",
+          "line": 248,
+          "type": "paragraph"
+        },
+        {
+          "id": "fig2",
+          "line": 262,
+          "type": "figure"
+        },
+        {
+          "id": "p42a",
+          "line": 278,
+          "type": "paragraph"
+        },
+        {
+          "id": "t6",
+          "line": 286,
+          "type": "table"
+        },
+        {
+          "id": "p45b",
+          "line": 328,
+          "type": "paragraph"
+        }
+      ],
+      "inherited_locators_not_reverified": [
+        "PDF §3.3 p10；§4.1–4.2 pp12–15；Round1定位",
+        "PDF §3.4 pp11–12；§4",
+        "Wiley首部First published及末尾How to cite"
+      ],
+      "inherited_round4_claims": [],
+      "missing_for_full_close_read": "正式PDF；正式版与作者版的目标/假设/公式/基线/图表/结论逐项对照；全篇核读及人工作者终核。",
+      "full_close_read_completed_this_batch": false,
+      "technical_claim_support_verified_this_batch": false,
+      "human_verified": false,
+      "source_availability_only": true,
+      "access_attempt_labels": [
+        "aalborg_repository",
+        "arxiv_v1",
+        "arxiv_v1_complete",
+        "wiley_pdf"
+      ],
+      "openalex_discovery_locations": [
+        {
+          "landing_page_url": "https://doi.org/10.1002/sat.70082",
+          "pdf_url": null,
+          "index_version_label_not_authority": "publishedVersion"
+        },
+        {
+          "landing_page_url": "https://vbn.aau.dk/da/publications/f3996981-9950-470d-acc0-ce1648b82b77",
+          "pdf_url": null,
+          "index_version_label_not_authority": "publishedVersion"
+        },
+        {
+          "landing_page_url": "http://arxiv.org/abs/2604.05937",
+          "pdf_url": "https://arxiv.org/pdf/2604.05937",
+          "index_version_label_not_authority": "submittedVersion"
+        },
+        {
+          "landing_page_url": "https://vbn.aau.dk/da/publications/46d9d16b-342c-4af6-9f44-717786b3f9ae",
+          "pdf_url": null,
+          "index_version_label_not_authority": "submittedVersion"
+        },
+        {
+          "landing_page_url": "https://doi.org/10.48550/arxiv.2604.05937",
+          "pdf_url": null,
+          "index_version_label_not_authority": null
+        }
+      ]
+    },
+    {
+      "reference_number": 73,
+      "doi": "10.3390/aerospace11030191",
+      "title_en": "A Hybrid Forecasting Model for Self-Similar Traffic in LEO Mega-Constellation Networks",
+      "title_zh_translation": "低轨巨型星座网络自相似流量的混合预测模型",
+      "translation_is_official": false,
+      "authors_display": [
+        "Chi Han",
+        "Wei Xiong",
+        "Ronghuan Yu"
+      ],
+      "publication_metadata": {
+        "journal": "Aerospace",
+        "publisher": "MDPI AG",
+        "volume": "11",
+        "issue": "3",
+        "page_or_article": "191",
+        "article_number": null,
+        "published": {
+          "date-parts": [
+            [
+              2024,
+              2,
+              27
+            ]
+          ]
+        },
+        "published_online": {
+          "date-parts": [
+            [
+              2024,
+              2,
+              27
+            ]
+          ]
+        },
+        "published_print": null,
+        "frozen_v19_bibliography": "Aerospace, 2024, 11(3): 191"
+      },
+      "metadata_primary_url": "https://api.crossref.org/works/10.3390/aerospace11030191",
+      "metadata_primary_snapshot_sha256": "2f4c31a27a5b28bbafde7f27cbbd48cffbbb54015f16d617e9596aa30b0137d1",
+      "metadata_notes": [],
+      "publisher_landing_url": "https://www.mdpi.com/2226-4310/11/3/191",
+      "publisher_pdf_entry_status": "not_acquired",
+      "best_access_state": "publisher_fulltext_text_only",
+      "best_version_identity": "publisher_supplied_text_pdf_version_unconfirmed",
+      "best_version_identity_zh": "出版社提供的公开全文文字层；PDF版本待确认",
+      "version_identity_basis": "公开网页明确注明MDPI提供全文；正文文字混排和原页问题未关闭，严格版本统计不计已确认VOR。",
+      "accessible_fulltext_or_abstract_urls": [
+        "https://www.researchgate.net/publication/378570409_A_Hybrid_Forecasting_Model_for_Self-Similar_Traffic_in_LEO_Mega-Constellation_Networks"
+      ],
+      "arxiv_checked": "本轮以题名关键词/DOI并限定arxiv.org检索未找到对应作者版本；不作为不存在的证明。",
+      "arxiv_exact_version": null,
+      "institutional_repository_checked": "题名/DOI及机构检索未发现独立机构PDF；OpenAlex只有出版社/DOAJ元数据入口。",
+      "local_preexisting_pdf_checked": "本轮检索当前工作区既有5个PDF，无目标13篇；未扫描整盘或推断其他设备文件。",
+      "validated_pdf_artifacts": [],
+      "primary_pdf_artifact": null,
+      "different_versions_exist": null,
+      "different_versions_basis": "未取得可比较的两个PDF；[73]/[107]文字层含混排不能直接断言实体版本不同。",
+      "formal_version_parity_closed": null,
+      "html_pdf_equivalence_verified": false,
+      "core_page_checks_needed": true,
+      "core_page_check_focus": "v1.9采用的EMD-ARIMA-IGWO-BPNN、ON/OFF合成流量；预测误差不替代路由收益。",
+      "v19_blocks_from_frozen_index": [
+        {
+          "id": "p331a",
+          "line": 163,
+          "type": "paragraph"
+        },
+        {
+          "id": "t4",
+          "line": 189,
+          "type": "table"
+        },
+        {
+          "id": "p43c",
+          "line": 303,
+          "type": "paragraph"
+        },
+        {
+          "id": "p45d",
+          "line": 332,
+          "type": "paragraph"
+        }
+      ],
+      "inherited_locators_not_reverified": [
+        "正式提供文本§3.2、4.3及§6；Round1",
+        "MDPI/RG下载未取得可用于像素复核的PDF"
+      ],
+      "inherited_round4_claims": [],
+      "missing_for_full_close_read": "正式PDF；实际页面、可提取文字与像素层对照、图表与符号/水印复核；完整精读与人工作者终核。",
+      "full_close_read_completed_this_batch": false,
+      "technical_claim_support_verified_this_batch": false,
+      "human_verified": false,
+      "source_availability_only": true,
+      "access_attempt_labels": [
+        "mdpi_pdf",
+        "researchgate_public"
+      ],
+      "openalex_discovery_locations": [
+        {
+          "landing_page_url": "https://doi.org/10.3390/aerospace11030191",
+          "pdf_url": "https://www.mdpi.com/2226-4310/11/3/191/pdf?version=1709115004",
+          "index_version_label_not_authority": "publishedVersion"
+        },
+        {
+          "landing_page_url": "https://doaj.org/article/77bea020da6a463cbba8bcdc81618b44",
+          "pdf_url": null,
+          "index_version_label_not_authority": "submittedVersion"
+        }
+      ]
+    },
+    {
+      "reference_number": 74,
+      "doi": "10.23919/JCC.ja.2022-0864",
+      "title_en": "Joint Beam Scheduling and Power Optimization for Beam Hopping LEO Satellite Systems",
+      "title_zh_translation": "波束跳变低轨卫星系统的联合波束调度与功率优化",
+      "translation_is_official": false,
+      "authors_display": [
+        "Shuang Zheng",
+        "Xing Zhang",
+        "Peng Wang",
+        "Wenbo Wang"
+      ],
+      "publication_metadata": {
+        "journal": "China Communications",
+        "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+        "volume": "21",
+        "issue": "10",
+        "page_or_article": "1-14",
+        "article_number": null,
+        "published": {
+          "date-parts": [
+            [
+              2024,
+              10
+            ]
+          ]
+        },
+        "published_online": null,
+        "published_print": {
+          "date-parts": [
+            [
+              2024,
+              10
+            ]
+          ]
+        },
+        "frozen_v19_bibliography": "China Communications, 2024, 21(10): 1–14"
+      },
+      "metadata_primary_url": "https://api.crossref.org/works/10.23919/JCC.ja.2022-0864",
+      "metadata_primary_snapshot_sha256": "924602b2f90411a2091112246a34beac9526ee30706633a48fc8abbfb13f0afa",
+      "metadata_notes": [
+        "Crossref given/family呈Zheng/Shuang等逆置；作者显示采用实际arXiv首页与v1.9顺序。Crossref及IEEE检索条目分页1-14；历史226-239冲突仍需正式PDF/卷目录终核，不改历史书目。"
+      ],
+      "publisher_landing_url": "https://ieeexplore.ieee.org/document/10495871/",
+      "publisher_pdf_entry_status": "not_acquired",
+      "best_access_state": "author_fulltext_pdf",
+      "best_version_identity": "author_preprint",
+      "best_version_identity_zh": "作者预印本arXiv v1",
+      "version_identity_basis": "arXiv:2312.01292v1，2023-12-03；版式虽为China Communications，仍有vol.0/no.0和占位DOI，不是正式版。",
+      "accessible_fulltext_or_abstract_urls": [
+        "https://arxiv.org/pdf/2312.01292v1"
+      ],
+      "arxiv_checked": "arXiv原站提交史已打开，仅v1；下载精确版本。",
+      "arxiv_exact_version": "2312.01292v1",
+      "institutional_repository_checked": "BUPT机构域名检索未找到该篇PDF；OpenAlex无机构附件。",
+      "local_preexisting_pdf_checked": "本轮检索当前工作区既有5个PDF，无目标13篇；未扫描整盘或推断其他设备文件。",
+      "validated_pdf_artifacts": [
+        {
+          "reference_number": 74,
+          "local_file": "D:\\SKT727\\materials\\constellation_review_B00_20261014\\074_arxiv_v1.pdf",
+          "filename": "074_arxiv_v1.pdf",
+          "pdf_pages": 14,
+          "file_size_bytes": 614550,
+          "sha256": "187d8cd2260d44de077533918a4b660ae70bb90815f15a9891e0a5d0d1c98ef2",
+          "text_extraction_success": true,
+          "text_chars_per_page": [
+            3454,
+            5023,
+            4128,
+            1786,
+            2844,
+            2877,
+            3165,
+            4012,
+            2629,
+            1852,
+            3831,
+            2117,
+            4048,
+            3529
+          ],
+          "minimum_page_text_chars": 1786,
+          "identity_pages_visually_inspected": [
+            1
+          ],
+          "visual_scope": "version/title/front-matter only; no equations, results or figures reviewed",
+          "version_identity": "author_preprint",
+          "full_close_read_completed_this_batch": false,
+          "human_verified": false,
+          "third_party_file_uploaded": false
+        }
+      ],
+      "primary_pdf_artifact": {
+        "reference_number": 74,
+        "local_file": "D:\\SKT727\\materials\\constellation_review_B00_20261014\\074_arxiv_v1.pdf",
+        "filename": "074_arxiv_v1.pdf",
+        "pdf_pages": 14,
+        "file_size_bytes": 614550,
+        "sha256": "187d8cd2260d44de077533918a4b660ae70bb90815f15a9891e0a5d0d1c98ef2",
+        "text_extraction_success": true,
+        "text_chars_per_page": [
+          3454,
+          5023,
+          4128,
+          1786,
+          2844,
+          2877,
+          3165,
+          4012,
+          2629,
+          1852,
+          3831,
+          2117,
+          4048,
+          3529
+        ],
+        "minimum_page_text_chars": 1786,
+        "identity_pages_visually_inspected": [
+          1
+        ],
+        "visual_scope": "version/title/front-matter only; no equations, results or figures reviewed",
+        "version_identity": "author_preprint",
+        "full_close_read_completed_this_batch": false,
+        "human_verified": false,
+        "third_party_file_uploaded": false
+      },
+      "different_versions_exist": true,
+      "different_versions_basis": "正式DOI出版记录与非正式作者稿并存；只确认版本身份，不确认内容差异。",
+      "formal_version_parity_closed": false,
+      "html_pdf_equivalence_verified": false,
+      "core_page_checks_needed": true,
+      "core_page_check_focus": "v1.9采用的平均功率选束后连续功率优化、潜在博弈、单星8束61位置及G-BH/G-BHPO对照定义。",
+      "v19_blocks_from_frozen_index": [
+        {
+          "id": "p331b",
+          "line": 165,
+          "type": "paragraph"
+        },
+        {
+          "id": "p331d",
+          "line": 169,
+          "type": "paragraph"
+        },
+        {
+          "id": "t4",
+          "line": 189,
+          "type": "table"
+        },
+        {
+          "id": "t6",
+          "line": 286,
+          "type": "table"
+        }
+      ],
+      "inherited_locators_not_reverified": [
+        "作者稿§3.1–3.2；算法1–2；pp4–7",
+        "作者稿参数表及基线定义；Round1 pp8–9",
+        "IEEE document 10495871元数据；arXiv作者列表"
+      ],
+      "inherited_round4_claims": [],
+      "missing_for_full_close_read": "正式PDF；正式版与作者版的目标/假设/公式/基线/图表/结论逐项对照；全篇核读及人工作者终核。",
+      "full_close_read_completed_this_batch": false,
+      "technical_claim_support_verified_this_batch": false,
+      "human_verified": false,
+      "source_availability_only": true,
+      "access_attempt_labels": [
+        "arxiv_v1",
+        "ieee_pdf"
+      ],
+      "openalex_discovery_locations": [
+        {
+          "landing_page_url": "https://doi.org/10.23919/jcc.ja.2022-0864",
+          "pdf_url": null,
+          "index_version_label_not_authority": "publishedVersion"
+        }
+      ]
+    },
+    {
+      "reference_number": 75,
+      "doi": "10.1109/LCOMM.2022.3213912",
+      "title_en": "NGSO Satellites Beam Hopping Strategy Based on Load Balancing and Interference Avoidance for Coexistence With GSO Systems",
+      "title_zh_translation": "面向与GSO系统共存的基于负载均衡与干扰规避的NGSO卫星波束跳变策略",
+      "translation_is_official": false,
+      "authors_display": [
+        "Zhiyuan Lin",
+        "Zuyao Ni",
+        "Linling Kuang",
+        "Chunxiao Jiang",
+        "Zhen Huang"
+      ],
+      "publication_metadata": {
+        "journal": "IEEE Communications Letters",
+        "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+        "volume": "27",
+        "issue": "1",
+        "page_or_article": "278-282",
+        "article_number": null,
+        "published": {
+          "date-parts": [
+            [
+              2023,
+              1
+            ]
+          ]
+        },
+        "published_online": null,
+        "published_print": {
+          "date-parts": [
+            [
+              2023,
+              1
+            ]
+          ]
+        },
+        "frozen_v19_bibliography": "IEEE Communications Letters, 2023, 27(1): 278–282"
+      },
+      "metadata_primary_url": "https://api.crossref.org/works/10.1109/LCOMM.2022.3213912",
+      "metadata_primary_snapshot_sha256": "a8bd888cf40872f8756f71c4a40500e9fed79374db14998393a3498f09390748",
+      "metadata_notes": [],
+      "publisher_landing_url": "https://ieeexplore.ieee.org/document/9916289/",
+      "publisher_pdf_entry_status": "not_acquired",
+      "best_access_state": "abstract_or_snippets_only",
+      "best_version_identity": "abstract_only",
+      "best_version_identity_zh": "仅摘要/有限章节片段",
+      "version_identity_basis": "元数据和摘要可定位，未取得可核读完整正文。",
+      "accessible_fulltext_or_abstract_urls": [
+        "https://ieeexplore.ieee.org/document/9916289/"
+      ],
+      "arxiv_checked": "本轮以题名关键词/DOI并限定arxiv.org检索未找到对应作者版本；不作为不存在的证明。",
+      "arxiv_exact_version": null,
+      "institutional_repository_checked": "Tsinghua及作者题名检索未找到合法作者全文；OpenAlex无机构附件。",
+      "local_preexisting_pdf_checked": "本轮检索当前工作区既有5个PDF，无目标13篇；未扫描整盘或推断其他设备文件。",
+      "validated_pdf_artifacts": [],
+      "primary_pdf_artifact": null,
+      "different_versions_exist": null,
+      "different_versions_basis": "未取得可比较的两个PDF；[73]/[107]文字层含混排不能直接断言实体版本不同。",
+      "formal_version_parity_closed": null,
+      "html_pdf_equivalence_verified": false,
+      "core_page_checks_needed": true,
+      "core_page_check_focus": "v1.9仅凭摘要定位卫星-小区关联、照射模式、负载均衡及NGSO/GSO共存。",
+      "v19_blocks_from_frozen_index": [
+        {
+          "id": "p331c",
+          "line": 167,
+          "type": "paragraph"
+        },
+        {
+          "id": "t4",
+          "line": 189,
+          "type": "table"
+        }
+      ],
+      "inherited_locators_not_reverified": [
+        "IEEE公开摘要；27(1):278–282",
+        "模型正文不可读"
+      ],
+      "inherited_round4_claims": [],
+      "missing_for_full_close_read": "正式PDF；正文方法、结果、图表、补充材料及所用命题页/节定位。",
+      "full_close_read_completed_this_batch": false,
+      "technical_claim_support_verified_this_batch": false,
+      "human_verified": false,
+      "source_availability_only": true,
+      "access_attempt_labels": [
+        "ieee_pdf"
+      ],
+      "openalex_discovery_locations": [
+        {
+          "landing_page_url": "https://doi.org/10.1109/lcomm.2022.3213912",
+          "pdf_url": null,
+          "index_version_label_not_authority": "publishedVersion"
+        }
+      ]
+    },
+    {
+      "reference_number": 76,
+      "doi": "10.1109/TWC.2025.3545745",
+      "title_en": "Demand-Aware Beam Hopping and Power Allocation for Load Balancing in Digital Twin Empowered LEO Satellite Networks",
+      "title_zh_translation": "数字孪生赋能低轨卫星网络中面向负载均衡的需求感知波束跳变与功率分配",
+      "translation_is_official": false,
+      "authors_display": [
+        "Ruili Zhao",
+        "Jun Cai",
+        "Jiangtao Luo",
+        "Junpeng Gao",
+        "Yongyi Ran"
+      ],
+      "publication_metadata": {
+        "journal": "IEEE Transactions on Wireless Communications",
+        "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+        "volume": "24",
+        "issue": "6",
+        "page_or_article": "5084-5098",
+        "article_number": null,
+        "published": {
+          "date-parts": [
+            [
+              2025,
+              6
+            ]
+          ]
+        },
+        "published_online": null,
+        "published_print": {
+          "date-parts": [
+            [
+              2025,
+              6
+            ]
+          ]
+        },
+        "frozen_v19_bibliography": "IEEE Transactions on Wireless Communications, 2025, 24(6): 5084–5098"
+      },
+      "metadata_primary_url": "https://api.crossref.org/works/10.1109/TWC.2025.3545745",
+      "metadata_primary_snapshot_sha256": "fb419e11deb8c9b5fc0f59b077af9311375f1d8d77077d10ae2cdf285978fa0b",
+      "metadata_notes": [],
+      "publisher_landing_url": "https://ieeexplore.ieee.org/document/10910071/",
+      "publisher_pdf_entry_status": "not_acquired",
+      "best_access_state": "author_fulltext_pdf",
+      "best_version_identity": "author_preprint",
+      "best_version_identity_zh": "作者预印本arXiv v1",
+      "version_identity_basis": "arXiv:2411.08896v1，提交史与PDF侧边均标2024-10-29；13页，无最终卷期分页。",
+      "accessible_fulltext_or_abstract_urls": [
+        "https://arxiv.org/pdf/2411.08896v1"
+      ],
+      "arxiv_checked": "arXiv原站提交史已打开，仅v1；下载精确版本。",
+      "arxiv_exact_version": "2411.08896v1",
+      "institutional_repository_checked": "重庆邮电大学作者主页列书目无该篇PDF；arXiv已取得。",
+      "local_preexisting_pdf_checked": "本轮检索当前工作区既有5个PDF，无目标13篇；未扫描整盘或推断其他设备文件。",
+      "validated_pdf_artifacts": [
+        {
+          "reference_number": 76,
+          "local_file": "D:\\SKT727\\materials\\constellation_review_B00_20261014\\076_arxiv_v1_complete.pdf",
+          "filename": "076_arxiv_v1_complete.pdf",
+          "pdf_pages": 13,
+          "file_size_bytes": 8620440,
+          "sha256": "02511ba13f55a622d13ceb4b3261077aa067925b572784e32ae52740e8422bed",
+          "text_extraction_success": true,
+          "text_chars_per_page": [
+            6008,
+            6240,
+            6453,
+            4966,
+            5011,
+            5138,
+            4073,
+            4355,
+            4799,
+            4047,
+            4071,
+            5843,
+            6962
+          ],
+          "minimum_page_text_chars": 4047,
+          "identity_pages_visually_inspected": [
+            1
+          ],
+          "visual_scope": "version/title/front-matter only; no equations, results or figures reviewed",
+          "version_identity": "author_preprint",
+          "full_close_read_completed_this_batch": false,
+          "human_verified": false,
+          "third_party_file_uploaded": false
+        }
+      ],
+      "primary_pdf_artifact": {
+        "reference_number": 76,
+        "local_file": "D:\\SKT727\\materials\\constellation_review_B00_20261014\\076_arxiv_v1_complete.pdf",
+        "filename": "076_arxiv_v1_complete.pdf",
+        "pdf_pages": 13,
+        "file_size_bytes": 8620440,
+        "sha256": "02511ba13f55a622d13ceb4b3261077aa067925b572784e32ae52740e8422bed",
+        "text_extraction_success": true,
+        "text_chars_per_page": [
+          6008,
+          6240,
+          6453,
+          4966,
+          5011,
+          5138,
+          4073,
+          4355,
+          4799,
+          4047,
+          4071,
+          5843,
+          6962
+        ],
+        "minimum_page_text_chars": 4047,
+        "identity_pages_visually_inspected": [
+          1
+        ],
+        "visual_scope": "version/title/front-matter only; no equations, results or figures reviewed",
+        "version_identity": "author_preprint",
+        "full_close_read_completed_this_batch": false,
+        "human_verified": false,
+        "third_party_file_uploaded": false
+      },
+      "different_versions_exist": true,
+      "different_versions_basis": "正式DOI出版记录与非正式作者稿并存；只确认版本身份，不确认内容差异。",
+      "formal_version_parity_closed": false,
+      "html_pdf_equivalence_verified": false,
+      "core_page_checks_needed": true,
+      "core_page_check_focus": "v1.9采用的数字孪生多星协同、12星每星4束168小区、队列关联功率及8-20 Gbit/s负载下FPA/DPA整体比较。",
+      "v19_blocks_from_frozen_index": [
+        {
+          "id": "p331c",
+          "line": 167,
+          "type": "paragraph"
+        },
+        {
+          "id": "p331d",
+          "line": 169,
+          "type": "paragraph"
+        },
+        {
+          "id": "t4",
+          "line": 189,
+          "type": "table"
+        }
+      ],
+      "inherited_locators_not_reverified": [
+        "作者稿§III–IV；表II；Round1 p10",
+        "作者稿比较策略定义及负载结果；Round1 pp9–11",
+        "arXiv v1 Submission history"
+      ],
+      "inherited_round4_claims": [],
+      "missing_for_full_close_read": "正式PDF；正式版与作者版的目标/假设/公式/基线/图表/结论逐项对照；全篇核读及人工作者终核。",
+      "full_close_read_completed_this_batch": false,
+      "technical_claim_support_verified_this_batch": false,
+      "human_verified": false,
+      "source_availability_only": true,
+      "access_attempt_labels": [
+        "arxiv_abs",
+        "arxiv_v1",
+        "arxiv_v1_complete",
+        "ieee_pdf"
+      ],
+      "openalex_discovery_locations": [
+        {
+          "landing_page_url": "https://doi.org/10.1109/twc.2025.3545745",
+          "pdf_url": null,
+          "index_version_label_not_authority": "publishedVersion"
+        },
+        {
+          "landing_page_url": "http://arxiv.org/abs/2411.08896",
+          "pdf_url": "https://arxiv.org/pdf/2411.08896",
+          "index_version_label_not_authority": "submittedVersion"
+        },
+        {
+          "landing_page_url": "https://doi.org/10.48550/arxiv.2411.08896",
+          "pdf_url": null,
+          "index_version_label_not_authority": null
+        }
+      ]
+    },
+    {
+      "reference_number": 77,
+      "doi": "10.1016/j.cja.2024.09.039",
+      "title_en": "Routing cost-integrated intelligent handover strategy for multi-layer LEO mega-constellation networks",
+      "title_zh_translation": "多层低轨巨型星座网络中融合路由代价的智能切换策略",
+      "translation_is_official": false,
+      "authors_display": [
+        "Zhenglong YIN",
+        "Quan CHEN",
+        "Lei YANG",
+        "Yong ZHAO",
+        "Xiaoqian CHEN"
+      ],
+      "publication_metadata": {
+        "journal": "Chinese Journal of Aeronautics",
+        "publisher": "Elsevier BV",
+        "volume": "38",
+        "issue": "6",
+        "page_or_article": "103263",
+        "article_number": "103263",
+        "published": {
+          "date-parts": [
+            [
+              2025,
+              6
+            ]
+          ]
+        },
+        "published_online": null,
+        "published_print": {
+          "date-parts": [
+            [
+              2025,
+              6
+            ]
+          ]
+        },
+        "frozen_v19_bibliography": "Chinese Journal of Aeronautics, 2025, 38(6): 103263"
+      },
+      "metadata_primary_url": "https://api.crossref.org/works/10.1016/j.cja.2024.09.039",
+      "metadata_primary_snapshot_sha256": "ee8c03e3ca7339873bbed494fdf0fd16e0ffa4792996d2493f9b6e335a2ea907",
+      "metadata_notes": [
+        "SciOpen页面Published=2024-10-03，Crossref许可起始2024-09-27，正式卷期2025-06；许可起始不当作出版日期。"
+      ],
+      "publisher_landing_url": "https://linkinghub.elsevier.com/retrieve/pii/S1000936124004060",
+      "publisher_pdf_entry_status": "not_acquired",
+      "best_access_state": "abstract_or_snippets_only",
+      "best_version_identity": "abstract_only",
+      "best_version_identity_zh": "仅摘要/有限章节片段",
+      "version_identity_basis": "元数据和摘要可定位，未取得可核读完整正文。",
+      "accessible_fulltext_or_abstract_urls": [
+        "https://www.sciopen.com/article/10.1016/j.cja.2024.09.039"
+      ],
+      "arxiv_checked": "本轮以题名关键词/DOI并限定arxiv.org检索未找到对应作者版本；不作为不存在的证明。",
+      "arxiv_exact_version": null,
+      "institutional_repository_checked": "作者/题名检索未发现机构PDF；SciOpen摘要可读。",
+      "local_preexisting_pdf_checked": "本轮检索当前工作区既有5个PDF，无目标13篇；未扫描整盘或推断其他设备文件。",
+      "validated_pdf_artifacts": [],
+      "primary_pdf_artifact": null,
+      "different_versions_exist": null,
+      "different_versions_basis": "未取得可比较的两个PDF；[73]/[107]文字层含混排不能直接断言实体版本不同。",
+      "formal_version_parity_closed": null,
+      "html_pdf_equivalence_verified": false,
+      "core_page_checks_needed": true,
+      "core_page_check_focus": "v1.9仅凭摘要定位端到端传播代价参与切换、单层学习与跨层抖动/切换开销。",
+      "v19_blocks_from_frozen_index": [
+        {
+          "id": "p332a",
+          "line": 173,
+          "type": "paragraph"
+        },
+        {
+          "id": "t4",
+          "line": 189,
+          "type": "table"
+        }
+      ],
+      "inherited_locators_not_reverified": [
+        "SCIopen/出版方摘要；38(6):103263",
+        "正式正文未取得"
+      ],
+      "inherited_round4_claims": [],
+      "missing_for_full_close_read": "正式PDF；正文方法、结果、图表、补充材料及所用命题页/节定位。",
+      "full_close_read_completed_this_batch": false,
+      "technical_claim_support_verified_this_batch": false,
+      "human_verified": false,
+      "source_availability_only": true,
+      "access_attempt_labels": [
+        "publisher",
+        "sciopen"
+      ],
+      "openalex_discovery_locations": [
+        {
+          "landing_page_url": "https://doi.org/10.1016/j.cja.2024.09.039",
+          "pdf_url": null,
+          "index_version_label_not_authority": "publishedVersion"
+        }
+      ]
+    },
+    {
+      "reference_number": 79,
+      "doi": "10.1016/j.comcom.2022.02.015",
+      "title_en": "Scalable routing in low-Earth orbit satellite constellations: Architecture and algorithms",
+      "title_zh_translation": "低轨卫星星座中的可扩展路由：架构与算法",
+      "translation_is_official": false,
+      "authors_display": [
+        "Shengyu Zhang",
+        "Kwan L. Yeung"
+      ],
+      "publication_metadata": {
+        "journal": "Computer Communications",
+        "publisher": "Elsevier BV",
+        "volume": "188",
+        "issue": null,
+        "page_or_article": "26-38",
+        "article_number": null,
+        "published": {
+          "date-parts": [
+            [
+              2022,
+              4
+            ]
+          ]
+        },
+        "published_online": null,
+        "published_print": {
+          "date-parts": [
+            [
+              2022,
+              4
+            ]
+          ]
+        },
+        "frozen_v19_bibliography": "Computer Communications, 2022, 188: 26–38"
+      },
+      "metadata_primary_url": "https://api.crossref.org/works/10.1016/j.comcom.2022.02.015",
+      "metadata_primary_snapshot_sha256": "7576727e36c8087d6261bbb0369bc54a6ea22ac0761705e17761a566a595a77a",
+      "metadata_notes": [
+        "HKU记录日期2022-04-01，出版社索引日期2022-04-15，Crossref月份2022-04；月份之外具体出版日保持并列来源，不覆盖旧稿。"
+      ],
+      "publisher_landing_url": "https://linkinghub.elsevier.com/retrieve/pii/S0140366422000585",
+      "publisher_pdf_entry_status": "not_acquired",
+      "best_access_state": "abstract_or_snippets_only",
+      "best_version_identity": "abstract_only",
+      "best_version_identity_zh": "仅摘要/有限章节片段",
+      "version_identity_basis": "元数据和摘要可定位，未取得可核读完整正文。",
+      "accessible_fulltext_or_abstract_urls": [
+        "https://hub.hku.hk/handle/10722/339786"
+      ],
+      "arxiv_checked": "本轮以题名关键词/DOI并限定arxiv.org检索未找到对应作者版本；不作为不存在的证明。",
+      "arxiv_exact_version": null,
+      "institutional_repository_checked": "HKU条目明确无文件，已留普通GET403与公开元数据可读两种状态。",
+      "local_preexisting_pdf_checked": "本轮检索当前工作区既有5个PDF，无目标13篇；未扫描整盘或推断其他设备文件。",
+      "validated_pdf_artifacts": [],
+      "primary_pdf_artifact": null,
+      "different_versions_exist": null,
+      "different_versions_basis": "未取得可比较的两个PDF；[73]/[107]文字层含混排不能直接断言实体版本不同。",
+      "formal_version_parity_closed": null,
+      "html_pdf_equivalence_verified": false,
+      "core_page_checks_needed": true,
+      "core_page_check_focus": "v1.9仅凭摘要定位无直接ISL的两层路由与时延/稳定性问题。",
+      "v19_blocks_from_frozen_index": [
+        {
+          "id": "p333a",
+          "line": 179,
+          "type": "paragraph"
+        },
+        {
+          "id": "t4",
+          "line": 189,
+          "type": "table"
+        }
+      ],
+      "inherited_locators_not_reverified": [
+        "出版方摘要；HKU handle 10722/339786",
+        "正文未取得"
+      ],
+      "inherited_round4_claims": [],
+      "missing_for_full_close_read": "正式PDF；正文方法、结果、图表、补充材料及所用命题页/节定位。",
+      "full_close_read_completed_this_batch": false,
+      "technical_claim_support_verified_this_batch": false,
+      "human_verified": false,
+      "source_availability_only": true,
+      "access_attempt_labels": [
+        "hku_repository",
+        "publisher"
+      ],
+      "openalex_discovery_locations": [
+        {
+          "landing_page_url": "https://doi.org/10.1016/j.comcom.2022.02.015",
+          "pdf_url": null,
+          "index_version_label_not_authority": "publishedVersion"
+        }
+      ]
+    },
+    {
+      "reference_number": 80,
+      "doi": "10.1016/j.dcan.2022.09.022",
+      "title_en": "Segment routing for traffic engineering and effective recovery in low-earth orbit satellite constellations",
+      "title_zh_translation": "低轨卫星星座中面向流量工程与有效恢复的分段路由",
+      "translation_is_official": false,
+      "authors_display": [
+        "Shengyu Zhang",
+        "Xiaoqian Li",
+        "Kwan Lawrence Yeung"
+      ],
+      "publication_metadata": {
+        "journal": "Digital Communications and Networks",
+        "publisher": "Elsevier BV",
+        "volume": "10",
+        "issue": "3",
+        "page_or_article": "706-715",
+        "article_number": null,
+        "published": {
+          "date-parts": [
+            [
+              2024,
+              6
+            ]
+          ]
+        },
+        "published_online": null,
+        "published_print": {
+          "date-parts": [
+            [
+              2024,
+              6
+            ]
+          ]
+        },
+        "frozen_v19_bibliography": "Digital Communications and Networks, 2024, 10(3): 706–715"
+      },
+      "metadata_primary_url": "https://api.crossref.org/works/10.1016/j.dcan.2022.09.022",
+      "metadata_primary_snapshot_sha256": "87ac5e75bde21a71e0c98177c8dd5babb43e73662d8d4504e9511937bc65f23e",
+      "metadata_notes": [],
+      "publisher_landing_url": "https://linkinghub.elsevier.com/retrieve/pii/S2352864822001973",
+      "publisher_pdf_entry_status": "not_acquired",
+      "best_access_state": "abstract_or_snippets_only",
+      "best_version_identity": "abstract_only",
+      "best_version_identity_zh": "仅摘要/有限章节片段",
+      "version_identity_basis": "元数据和摘要可定位，未取得可核读完整正文。",
+      "accessible_fulltext_or_abstract_urls": [
+        "https://hub.hku.hk/handle/10722/339783"
+      ],
+      "arxiv_checked": "本轮以题名关键词/DOI并限定arxiv.org检索未找到对应作者版本；不作为不存在的证明。",
+      "arxiv_exact_version": null,
+      "institutional_repository_checked": "HKU条目无文件；DOAJ仅元数据。",
+      "local_preexisting_pdf_checked": "本轮检索当前工作区既有5个PDF，无目标13篇；未扫描整盘或推断其他设备文件。",
+      "validated_pdf_artifacts": [],
+      "primary_pdf_artifact": null,
+      "different_versions_exist": null,
+      "different_versions_basis": "未取得可比较的两个PDF；[73]/[107]文字层含混排不能直接断言实体版本不同。",
+      "formal_version_parity_closed": null,
+      "html_pdf_equivalence_verified": false,
+      "core_page_checks_needed": true,
+      "core_page_check_focus": "v1.9仅凭摘要定位地面中继下的分段路由、流量工程及故障恢复。",
+      "v19_blocks_from_frozen_index": [
+        {
+          "id": "p333a",
+          "line": 179,
+          "type": "paragraph"
+        },
+        {
+          "id": "t4",
+          "line": 189,
+          "type": "table"
+        }
+      ],
+      "inherited_locators_not_reverified": [
+        "出版方摘要；10(3):706–715；HKU handle 10722/339783无文件",
+        "全文未取得"
+      ],
+      "inherited_round4_claims": [],
+      "missing_for_full_close_read": "正式PDF；正文方法、结果、图表、补充材料及所用命题页/节定位。",
+      "full_close_read_completed_this_batch": false,
+      "technical_claim_support_verified_this_batch": false,
+      "human_verified": false,
+      "source_availability_only": true,
+      "access_attempt_labels": [
+        "hku_repository",
+        "publisher_pdf"
+      ],
+      "openalex_discovery_locations": [
+        {
+          "landing_page_url": "https://doi.org/10.1016/j.dcan.2022.09.022",
+          "pdf_url": "https://www.sciencedirect.com/science/article/pii/S2352864822001973/pdf",
+          "index_version_label_not_authority": "publishedVersion"
+        },
+        {
+          "landing_page_url": "https://doaj.org/article/5b81bc940743468e80ff3470a88d2a4e",
+          "pdf_url": null,
+          "index_version_label_not_authority": "submittedVersion"
+        },
+        {
+          "landing_page_url": "https://hub.hku.hk/handle/10722/339783",
+          "pdf_url": null,
+          "index_version_label_not_authority": "submittedVersion"
+        }
+      ]
+    },
+    {
+      "reference_number": 107,
+      "doi": "10.3390/rs15061577",
+      "title_en": "Reasoning-Based Scheduling Method for Agile Earth Observation Satellite with Multi-Subsystem Coupling",
+      "title_zh_translation": "多子系统耦合敏捷对地观测卫星的推理式调度方法",
+      "translation_is_official": false,
+      "authors_display": [
+        "Changyuan He",
+        "Yunfeng Dong",
+        "Hongjue Li",
+        "Yingjia Liew"
+      ],
+      "publication_metadata": {
+        "journal": "Remote Sensing",
+        "publisher": "MDPI AG",
+        "volume": "15",
+        "issue": "6",
+        "page_or_article": "1577",
+        "article_number": null,
+        "published": {
+          "date-parts": [
+            [
+              2023,
+              3,
+              14
+            ]
+          ]
+        },
+        "published_online": {
+          "date-parts": [
+            [
+              2023,
+              3,
+              14
+            ]
+          ]
+        },
+        "published_print": null,
+        "frozen_v19_bibliography": "Remote Sensing, 2023, 15(6): 1577"
+      },
+      "metadata_primary_url": "https://api.crossref.org/works/10.3390/rs15061577",
+      "metadata_primary_snapshot_sha256": "a8bddff33e181bc915749d01778d3763188899f54f47ced37b1e423a7fc73142",
+      "metadata_notes": [],
+      "publisher_landing_url": "https://www.mdpi.com/2072-4292/15/6/1577",
+      "publisher_pdf_entry_status": "not_acquired",
+      "best_access_state": "publisher_fulltext_text_only",
+      "best_version_identity": "publisher_supplied_text_pdf_version_unconfirmed",
+      "best_version_identity_zh": "出版社提供的公开全文文字层；PDF版本待确认",
+      "version_identity_basis": "公开网页明确注明MDPI提供全文；正文文字混排和原页问题未关闭，严格版本统计不计已确认VOR。",
+      "accessible_fulltext_or_abstract_urls": [
+        "https://www.researchgate.net/publication/369246818_Reasoning-Based_Scheduling_Method_for_Agile_Earth_Observation_Satellite_with_Multi-Subsystem_Coupling"
+      ],
+      "arxiv_checked": "本轮以题名关键词/DOI并限定arxiv.org检索未找到对应作者版本；不作为不存在的证明。",
+      "arxiv_exact_version": null,
+      "institutional_repository_checked": "Beihang域名题名检索未找到独立PDF；OpenAlex仅出版社/DOAJ。",
+      "local_preexisting_pdf_checked": "本轮检索当前工作区既有5个PDF，无目标13篇；未扫描整盘或推断其他设备文件。",
+      "validated_pdf_artifacts": [],
+      "primary_pdf_artifact": null,
+      "different_versions_exist": null,
+      "different_versions_basis": "未取得可比较的两个PDF；[73]/[107]文字层含混排不能直接断言实体版本不同。",
+      "formal_version_parity_closed": null,
+      "html_pdf_equivalence_verified": false,
+      "core_page_checks_needed": true,
+      "core_page_check_focus": "v1.9采用的模型状态预测、规则调整权重、插入与检查及单星三类资源情景；规则不等式暂未采用。",
+      "v19_blocks_from_frozen_index": [
+        {
+          "id": "p35e",
+          "line": 254,
+          "type": "paragraph"
+        },
+        {
+          "id": "t6",
+          "line": 286,
+          "type": "table"
+        }
+      ],
+      "inherited_locators_not_reverified": [
+        "§3.2.1–3.2.3；网页正文约L1479–1503、L1870–1974",
+        "§2；§4，正文L523–536、L2270–2331",
+        "§3.3；§4"
+      ],
+      "inherited_round4_claims": [],
+      "missing_for_full_close_read": "正式PDF；实际页面、可提取文字与像素层对照、图表与符号/水印复核；完整精读与人工作者终核。",
+      "full_close_read_completed_this_batch": false,
+      "technical_claim_support_verified_this_batch": false,
+      "human_verified": false,
+      "source_availability_only": true,
+      "access_attempt_labels": [
+        "mdpi_pdf"
+      ],
+      "openalex_discovery_locations": [
+        {
+          "landing_page_url": "https://doi.org/10.3390/rs15061577",
+          "pdf_url": "https://www.mdpi.com/2072-4292/15/6/1577/pdf?version=1678774374",
+          "index_version_label_not_authority": "publishedVersion"
+        },
+        {
+          "landing_page_url": "https://doaj.org/article/62e0fa3077804218859267c1ab74c742",
+          "pdf_url": null,
+          "index_version_label_not_authority": "submittedVersion"
+        }
+      ]
+    },
+    {
+      "reference_number": 112,
+      "doi": "10.1016/j.jss.2026.112802",
+      "title_en": "Reference architecture for autonomy and adaptivity in satellites",
+      "title_zh_translation": "卫星自主性与自适应性的参考架构",
+      "translation_is_official": false,
+      "authors_display": [
+        "Francesco Basciani",
+        "Luciana Rebelo",
+        "Patrizio Pelliccione"
+      ],
+      "publication_metadata": {
+        "journal": "Journal of Systems and Software",
+        "publisher": "Elsevier BV",
+        "volume": "236",
+        "issue": null,
+        "page_or_article": "112802",
+        "article_number": "112802",
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              6
+            ]
+          ]
+        },
+        "published_online": null,
+        "published_print": {
+          "date-parts": [
+            [
+              2026,
+              6
+            ]
+          ]
+        },
+        "frozen_v19_bibliography": "Journal of Systems and Software, 2026, 236: 112802"
+      },
+      "metadata_primary_url": "https://api.crossref.org/works/10.1016/j.jss.2026.112802",
+      "metadata_primary_snapshot_sha256": "585440515fb9313f2baf1afaf28a50a5b5069645e8a5c10ae763821b6b1b8313",
+      "metadata_notes": [],
+      "publisher_landing_url": "https://linkinghub.elsevier.com/retrieve/pii/S0164121226000361",
+      "publisher_pdf_entry_status": "not_acquired",
+      "best_access_state": "abstract_or_snippets_only",
+      "best_version_identity": "abstract_only",
+      "best_version_identity_zh": "仅摘要/有限章节片段",
+      "version_identity_basis": "元数据和摘要可定位，未取得可核读完整正文。",
+      "accessible_fulltext_or_abstract_urls": [
+        "https://conf.researchr.org/details/icsa-2026/icsa-2026-journal-first/7/Reference-Architecture-for-Autonomy-and-Adaptivity-in-Satellites"
+      ],
+      "arxiv_checked": "本轮以题名关键词/DOI并限定arxiv.org检索未找到对应作者版本；不作为不存在的证明。",
+      "arxiv_exact_version": null,
+      "institutional_repository_checked": "GSSI条目超时/403；SSRN预印本条目403；L’Aquila域名检索未找到可读PDF。",
+      "local_preexisting_pdf_checked": "本轮检索当前工作区既有5个PDF，无目标13篇；未扫描整盘或推断其他设备文件。",
+      "validated_pdf_artifacts": [],
+      "primary_pdf_artifact": null,
+      "different_versions_exist": null,
+      "different_versions_basis": "未取得可比较的两个PDF；[73]/[107]文字层含混排不能直接断言实体版本不同。",
+      "formal_version_parity_closed": null,
+      "html_pdf_equivalence_verified": false,
+      "core_page_checks_needed": true,
+      "core_page_check_focus": "v1.9仅凭摘要定位监测-分析-规划-执行-共享知识模块职责。",
+      "v19_blocks_from_frozen_index": [
+        {
+          "id": "p35f",
+          "line": 258,
+          "type": "paragraph"
+        }
+      ],
+      "inherited_locators_not_reverified": [
+        "出版方摘要及作者/ICSA journal-first条目",
+        "正式全文未取得；SSRN入口不可读"
+      ],
+      "inherited_round4_claims": [],
+      "missing_for_full_close_read": "正式PDF；正文方法、结果、图表、补充材料及所用命题页/节定位。",
+      "full_close_read_completed_this_batch": false,
+      "technical_claim_support_verified_this_batch": false,
+      "human_verified": false,
+      "source_availability_only": true,
+      "access_attempt_labels": [
+        "gssi_repository",
+        "publisher",
+        "ssrn_5247404"
+      ],
+      "openalex_discovery_locations": [
+        {
+          "landing_page_url": "https://doi.org/10.1016/j.jss.2026.112802",
+          "pdf_url": null,
+          "index_version_label_not_authority": "publishedVersion"
+        }
+      ]
+    },
+    {
+      "reference_number": 121,
+      "doi": "10.1109/TAES.2024.3415571",
+      "title_en": "On-Demand Routing in LEO Mega-Constellations With Dynamic Laser Inter-Satellite Links",
+      "title_zh_translation": "具有动态激光星间链路的低轨巨型星座按需路由",
+      "translation_is_official": false,
+      "authors_display": [
+        "Dhiraj Bhattacharjee",
+        "Pablo G. Madoery",
+        "Aizaz U. Chaudhry",
+        "Halim Yanikomeroglu",
+        "Güneş Karabulut Kurt",
+        "Peng Hu",
+        "Khaled Ahmed",
+        "Stéphane Martel"
+      ],
+      "publication_metadata": {
+        "journal": "IEEE Transactions on Aerospace and Electronic Systems",
+        "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+        "volume": "60",
+        "issue": "5",
+        "page_or_article": "7089-7105",
+        "article_number": null,
+        "published": {
+          "date-parts": [
+            [
+              2024,
+              10
+            ]
+          ]
+        },
+        "published_online": null,
+        "published_print": {
+          "date-parts": [
+            [
+              2024,
+              10
+            ]
+          ]
+        },
+        "frozen_v19_bibliography": "IEEE Transactions on Aerospace and Electronic Systems, 2024, 60(5): 7089–7105"
+      },
+      "metadata_primary_url": "https://api.crossref.org/works/10.1109/TAES.2024.3415571",
+      "metadata_primary_snapshot_sha256": "a105291e04934e95b3f4be93cac72f12bac19681c6d87d61b0570eab6a90c5ea",
+      "metadata_notes": [
+        "Crossref正式卷期2024-10 60(5)7089-7105；NRC条目2024-06-18为在线记录日期，PDF18页含机构封面；均不能凭页数/DOI升级为VOR。"
+      ],
+      "publisher_landing_url": "https://ieeexplore.ieee.org/document/10561557/",
+      "publisher_pdf_entry_status": "not_acquired",
+      "best_access_state": "author_fulltext_pdf",
+      "best_version_identity": "accepted_manuscript",
+      "best_version_identity_zh": "机构接受稿；另有作者预印本arXiv v1",
+      "version_identity_basis": "NRC PDF18页=机构封面1页+论文17页；论文第一页明确为作者接受版本且尚未完全编辑。封面Publisher版本标签及正式DOI不能覆盖此声明；arXiv v1为2024-06-04作者稿。",
+      "accessible_fulltext_or_abstract_urls": [
+        "https://arxiv.org/pdf/2406.01953v1",
+        "https://nrc-publications.canada.ca/eng/view/author/version/?id=9a404f79-d821-4d0a-b850-1f09b4268220"
+      ],
+      "arxiv_checked": "arXiv原站提交史已打开，仅v1；下载精确版本。",
+      "arxiv_exact_version": "2406.01953v1",
+      "institutional_repository_checked": "NRC接受稿已取得；PolyPublie入口超时。",
+      "local_preexisting_pdf_checked": "本轮检索当前工作区既有5个PDF，无目标13篇；未扫描整盘或推断其他设备文件。",
+      "validated_pdf_artifacts": [
+        {
+          "reference_number": 121,
+          "local_file": "D:\\SKT727\\materials\\constellation_review_B00_20261014\\121_arxiv_v1_complete.pdf",
+          "filename": "121_arxiv_v1_complete.pdf",
+          "pdf_pages": 17,
+          "file_size_bytes": 7552596,
+          "sha256": "9c64779192379dc60f8ff79b896ca429b0b63f4f78e2792576729f0226ce032e",
+          "text_extraction_success": true,
+          "text_chars_per_page": [
+            5837,
+            5665,
+            5794,
+            5528,
+            4500,
+            4941,
+            5089,
+            5311,
+            4834,
+            5597,
+            4184,
+            2263,
+            6064,
+            480,
+            4825,
+            7235,
+            3989
+          ],
+          "minimum_page_text_chars": 480,
+          "identity_pages_visually_inspected": [
+            1
+          ],
+          "visual_scope": "version/title/front-matter only; no equations, results or figures reviewed",
+          "version_identity": "author_preprint",
+          "full_close_read_completed_this_batch": false,
+          "human_verified": false,
+          "third_party_file_uploaded": false
+        },
+        {
+          "reference_number": 121,
+          "local_file": "D:\\SKT727\\materials\\constellation_review_B00_20261014\\121_nrc_author.pdf",
+          "filename": "121_nrc_author.pdf",
+          "pdf_pages": 18,
+          "file_size_bytes": 7578244,
+          "sha256": "5a1b84d8895ddbc46d9e4c1f5d3e7b7c083593d4c1e40e0f3f5f1d4c797c8964",
+          "text_extraction_success": true,
+          "text_chars_per_page": [
+            2151,
+            6403,
+            6271,
+            6400,
+            6134,
+            5106,
+            5547,
+            5695,
+            5917,
+            5440,
+            6203,
+            4790,
+            2869,
+            6670,
+            1086,
+            5431,
+            7841,
+            4595
+          ],
+          "minimum_page_text_chars": 1086,
+          "identity_pages_visually_inspected": [
+            1,
+            2
+          ],
+          "visual_scope": "version/title/front-matter only; no equations, results or figures reviewed",
+          "version_identity": "accepted_manuscript",
+          "full_close_read_completed_this_batch": false,
+          "human_verified": false,
+          "third_party_file_uploaded": false
+        }
+      ],
+      "primary_pdf_artifact": {
+        "reference_number": 121,
+        "local_file": "D:\\SKT727\\materials\\constellation_review_B00_20261014\\121_nrc_author.pdf",
+        "filename": "121_nrc_author.pdf",
+        "pdf_pages": 18,
+        "file_size_bytes": 7578244,
+        "sha256": "5a1b84d8895ddbc46d9e4c1f5d3e7b7c083593d4c1e40e0f3f5f1d4c797c8964",
+        "text_extraction_success": true,
+        "text_chars_per_page": [
+          2151,
+          6403,
+          6271,
+          6400,
+          6134,
+          5106,
+          5547,
+          5695,
+          5917,
+          5440,
+          6203,
+          4790,
+          2869,
+          6670,
+          1086,
+          5431,
+          7841,
+          4595
+        ],
+        "minimum_page_text_chars": 1086,
+        "identity_pages_visually_inspected": [
+          1,
+          2
+        ],
+        "visual_scope": "version/title/front-matter only; no equations, results or figures reviewed",
+        "version_identity": "accepted_manuscript",
+        "full_close_read_completed_this_batch": false,
+        "human_verified": false,
+        "third_party_file_uploaded": false
+      },
+      "different_versions_exist": true,
+      "different_versions_basis": "正式DOI出版记录与非正式作者稿并存；只确认版本身份，不确认内容差异。",
+      "formal_version_parity_closed": false,
+      "html_pdf_equivalence_verified": false,
+      "core_page_checks_needed": true,
+      "core_page_check_focus": "v1.9采用的1584星600个1秒快照、统一建链代价、提前计算分发、无队列及低代价下策略差异。",
+      "v19_blocks_from_frozen_index": [
+        {
+          "id": "p333b",
+          "line": 181,
+          "type": "paragraph"
+        },
+        {
+          "id": "p334a",
+          "line": 187,
+          "type": "paragraph"
+        },
+        {
+          "id": "t4",
+          "line": 189,
+          "type": "table"
+        },
+        {
+          "id": "p41b",
+          "line": 272,
+          "type": "paragraph"
+        },
+        {
+          "id": "p43b",
+          "line": 301,
+          "type": "paragraph"
+        }
+      ],
+      "inherited_locators_not_reverified": [
+        "作者稿PDF p10表III、§V-A；页面像素已读",
+        "作者稿PDF p11首段及图3；像素已读",
+        "作者稿p12图4–6及§V-D像素；提前控制前提继承Round1原定位"
+      ],
+      "inherited_round4_claims": [],
+      "missing_for_full_close_read": "正式PDF；正式版与作者版的目标/假设/公式/基线/图表/结论逐项对照；全篇核读及人工作者终核。",
+      "full_close_read_completed_this_batch": false,
+      "technical_claim_support_verified_this_batch": false,
+      "human_verified": false,
+      "source_availability_only": true,
+      "access_attempt_labels": [
+        "arxiv_v1",
+        "arxiv_v1_complete",
+        "ieee_pdf",
+        "nrc_author"
+      ],
+      "openalex_discovery_locations": [
+        {
+          "landing_page_url": "https://doi.org/10.1109/taes.2024.3415571",
+          "pdf_url": null,
+          "index_version_label_not_authority": "publishedVersion"
+        },
+        {
+          "landing_page_url": "http://arxiv.org/abs/2406.01953",
+          "pdf_url": "https://arxiv.org/pdf/2406.01953",
+          "index_version_label_not_authority": "submittedVersion"
+        },
+        {
+          "landing_page_url": "https://nrc-publications.canada.ca/fra/voir/objet/?id=9a404f79-d821-4d0a-b850-1f09b4268220",
+          "pdf_url": "https://nrc-publications.canada.ca/eng/view/author/version/?id=9a404f79-d821-4d0a-b850-1f09b4268220",
+          "index_version_label_not_authority": "submittedVersion"
+        },
+        {
+          "landing_page_url": "https://publications.polymtl.ca/60250/",
+          "pdf_url": null,
+          "index_version_label_not_authority": "submittedVersion"
+        },
+        {
+          "landing_page_url": "https://doi.org/10.48550/arxiv.2406.01953",
+          "pdf_url": null,
+          "index_version_label_not_authority": null
+        }
+      ]
+    }
+  ],
+  "counting_policy": "严格版本统计不把出版社提供的HTML文字展示视为已确认正式PDF/VOR；该类单列，避免混入仅摘要或正式全文。",
+  "counts": {
+    "confirmed_formal_fulltext": 0,
+    "author_fulltext_sources": 6,
+    "abstract_or_snippets_only": 5,
+    "publisher_supplied_fulltext_text_pdf_unconfirmed": 2,
+    "completely_inaccessible_including_metadata": 0,
+    "validated_pdf_files": 7,
+    "formal_comparison_pairs_ready": 0,
+    "full_close_reads_completed_this_batch": 0
+  }
+}
