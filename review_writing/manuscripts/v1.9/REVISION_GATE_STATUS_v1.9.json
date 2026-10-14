@@ -1,0 +1,9 @@
+{
+  "manuscript_version": "v1.9",
+  "W": "PASS_complete_chinese_author_review_draft",
+  "E": "HOLD_core_full_text_formal_parity_human_review",
+  "S": "HOLD_full_english_journal_requirements_author_metadata",
+  "full_english_synchronized": false,
+  "human_verified": false,
+  "submission_ready": false
+}
