@@ -1,0 +1,3970 @@
+{
+  "title": "Literature reading audit for constellation management review",
+  "as_of_local": "2026-10-13 America/New_York",
+  "frozen_base_commit": "de1291575bf4e28d7c404e3c7b78c49f64079deb",
+  "v16_parent": "review_writing/manuscripts/v1.6/SOURCE_AND_CLAIM_RECORD_v1.6.json",
+  "v17_source": "Generated v1.7 review evidence in current conversation; not uploaded to this branch",
+  "counts": {
+    "partial_body_checked": 8,
+    "inherited_not_confirmed": 81,
+    "formal_targeted": 6,
+    "historical_primary_targeted": 7,
+    "official_operational_material": 10,
+    "author_manuscript_targeted": 4,
+    "full_text_unavailable": 5
+  },
+  "formal_version_comparisons_open": [
+    53,
+    74,
+    76,
+    121
+  ],
+  "additional_pdf_checks_open": [
+    73,
+    107
+  ],
+  "human_verified": false,
+  "submission_ready": false,
+  "interpretation": "targeted reading of manuscript-relevant claims, not complete page-by-page or independent experimental verification",
+  "records": [
+    {
+      "reference_number": 1,
+      "title": "Towards the automated operations of large distributed satellite systems. Part 1: Review and paradigm shifts",
+      "doi": "10.1016/j.asr.2020.08.009",
+      "kind": "academic",
+      "publication": "Advances in Space Research, 2021, 67(11): 3598–3619",
+      "reading_level": "partial_body_checked",
+      "read_version_or_source": "沿用前轮提取；待完整全文核查",
+      "body_locators": [
+        "本轮出版页面Abstract与Introduction；前轮记录保持"
+      ],
+      "checked_claims": [
+        "常规星座运行、自动化与扩展性需求；不把2021年的工程状态叙述当作2026年现状"
+      ],
+      "caution": "按原稿证据范围使用，未作本轮整篇内容核验",
+      "manuscript_locations_zh": [
+        "1.1 从活动安排到持续服务 p11a L19-19",
+        "1.2 已有综述与本文贡献 p12a L25-25",
+        "1.2 已有综述与本文贡献 t1 L29-37"
+      ],
+      "manuscript_locations_en": [
+        "1.1 From activity scheduling to sustained service p11a L15-15",
+        "1.2 Existing reviews and the contribution of this review p12a L21-21",
+        "1.2 Existing reviews and the contribution of this review t1 L25-33"
+      ],
+      "citation_block_count_zh": 3,
+      "v16_status": "沿用前轮提取；待完整全文核查",
+      "v17_status": "unchanged_parent_grade",
+      "v17_claim_ids": [],
+      "source_url": "https://www.sciencedirect.com/science/article/pii/S0273117720305676",
+      "next_action": "扩大至方法、实验、限制章节",
+      "formal_version_parity_verified": false,
+      "human_verified": false,
+      "author_final_verification": "pending",
+      "submission_ready": false
+    },
+    {
+      "reference_number": 2,
+      "title": "Space Logistics Modeling and Optimization: Review of the State of the Art",
+      "doi": "10.2514/1.A35982",
+      "kind": "academic",
+      "publication": "Journal of Spacecraft and Rockets, 2024, 61(5): 1417–1427",
+      "reading_level": "inherited_not_confirmed",
+      "read_version_or_source": "沿用前轮提取；待完整全文核查",
+      "body_locators": [],
+      "checked_claims": [],
+      "caution": "按原稿证据范围使用，未作本轮整篇内容核验",
+      "manuscript_locations_zh": [
+        "1.1 从活动安排到持续服务 p11b L21-21"
+      ],
+      "manuscript_locations_en": [
+        "1.1 From activity scheduling to sustained service p11b L17-17"
+      ],
+      "citation_block_count_zh": 1,
+      "v16_status": "沿用前轮提取；待完整全文核查",
+      "v17_status": "unchanged_parent_grade",
+      "v17_claim_ids": [],
+      "source_url": "https://doi.org/10.2514/1.A35982",
+      "next_action": "按正文依赖补核关键命题",
+      "formal_version_parity_verified": false,
+      "human_verified": false,
+      "author_final_verification": "pending",
+      "submission_ready": false
+    },
+    {
+      "reference_number": 3,
+      "title": "Agile Earth Observation Satellite Scheduling Over 20 Years: Formulations, Methods, and Future Directions",
+      "doi": "10.1109/JSYST.2020.2997050",
+      "kind": "academic",
+      "publication": "IEEE Systems Journal, 2021, 15(3): 3881–3892",
+      "reading_level": "partial_body_checked",
+      "read_version_or_source": "v1.6记录为原文局部已核，完整精读待完成",
+      "body_locators": [
+        "作者稿Abstract、§2、§3及§4"
+      ],
+      "checked_claims": [
+        "敏捷观测任务表示、运行约束、收益/多目标/自主变体；精确、启发式、元启发式、机器学习四种求解组织；未引用作者稿历史工程数量"
+      ],
+      "caution": "按原稿证据范围使用，未作本轮整篇内容核验",
+      "manuscript_locations_zh": [
+        "1.2 已有综述与本文贡献 p12a L25-25",
+        "1.2 已有综述与本文贡献 t1 L29-37"
+      ],
+      "manuscript_locations_en": [
+        "1.2 Existing reviews and the contribution of this review p12a L21-21",
+        "1.2 Existing reviews and the contribution of this review t1 L25-33"
+      ],
+      "citation_block_count_zh": 2,
+      "v16_status": "本轮已核原文局部；完整精读待完成",
+      "v17_status": "unchanged_parent_grade",
+      "v17_claim_ids": [],
+      "source_url": "https://arxiv.org/html/2003.06169",
+      "next_action": "扩大至方法、实验、限制章节",
+      "formal_version_parity_verified": false,
+      "human_verified": false,
+      "author_final_verification": "pending",
+      "submission_ready": false
+    },
+    {
+      "reference_number": 4,
+      "title": "Satellite Scheduling Problems: A survey of applications in Earth and outer space observation",
+      "doi": "10.1016/j.cor.2024.106875",
+      "kind": "academic",
+      "publication": "Computers & Operations Research, 2025, 173: 106875",
+      "reading_level": "partial_body_checked",
+      "read_version_or_source": "沿用前轮提取；待完整全文核查",
+      "body_locators": [
+        "作者机构稿Abstract与§1–2问题分类；正式出版元数据对照Tilburg作者机构记录"
+      ],
+      "checked_claims": [
+        "以应用/问题变体组织地球及外层空间成像、通信调度综述；正式卷期2025，DOI含2024不等于卷期年"
+      ],
+      "caution": "按原稿证据范围使用，未作本轮整篇内容核验",
+      "manuscript_locations_zh": [
+        "1.2 已有综述与本文贡献 p12a L25-25",
+        "1.2 已有综述与本文贡献 t1 L29-37"
+      ],
+      "manuscript_locations_en": [
+        "1.2 Existing reviews and the contribution of this review p12a L21-21",
+        "1.2 Existing reviews and the contribution of this review t1 L25-33"
+      ],
+      "citation_block_count_zh": 2,
+      "v16_status": "沿用前轮提取；待完整全文核查",
+      "v17_status": "unchanged_parent_grade",
+      "v17_claim_ids": [],
+      "source_url": "https://chairelogistique.hec.ca/wp-content/uploads/2024/02/Survey_on_observation_scheduling.pdf",
+      "next_action": "扩大至方法、实验、限制章节",
+      "formal_version_parity_verified": false,
+      "human_verified": false,
+      "author_final_verification": "pending",
+      "submission_ready": false
+    },
+    {
+      "reference_number": 5,
+      "title": "Agent-based approaches for distributed space systems and mission management: Methodologies, current practices and challenges",
+      "doi": "10.1016/j.actaastro.2025.10.018",
+      "kind": "academic",
+      "publication": "Acta Astronautica, 2026, 238: 237–257",
+      "reading_level": "partial_body_checked",
+      "read_version_or_source": "沿用前轮提取；待完整全文核查",
+      "body_locators": [
+        "正式PDF页1、4–5（§3）、18–19（§7–8）"
+      ],
+      "checked_claims": [
+        "智能体类型、架构、通信、任务管理与应用分类；已经讨论健康状态和任务目标结合、能耗与通信代价；不将健康+任务本身当作本稿新颖性声明"
+      ],
+      "caution": "按原稿证据范围使用，未作本轮整篇内容核验",
+      "manuscript_locations_zh": [
+        "1.2 已有综述与本文贡献 p12a L25-25",
+        "1.2 已有综述与本文贡献 t1 L29-37"
+      ],
+      "manuscript_locations_en": [
+        "1.2 Existing reviews and the contribution of this review p12a L21-21",
+        "1.2 Existing reviews and the contribution of this review t1 L25-33"
+      ],
+      "citation_block_count_zh": 2,
+      "v16_status": "沿用前轮提取；待完整全文核查",
+      "v17_status": "unchanged_parent_grade",
+      "v17_claim_ids": [],
+      "source_url": "https://digital.library.adelaide.edu.au/server/api/core/bitstreams/482432e4-b0a1-48de-aefb-979a0fc69ca5/content",
+      "next_action": "扩大至方法、实验、限制章节",
+      "formal_version_parity_verified": false,
+      "human_verified": false,
+      "author_final_verification": "pending",
+      "submission_ready": false
+    },
+    {
+      "reference_number": 6,
+      "title": "Towards the automated operations of large distributed satellite systems. Part 2: Classifications and tools",
+      "doi": "10.1016/j.asr.2020.08.018",
+      "kind": "academic",
+      "publication": "Advances in Space Research, 2021, 67(11): 3620–3637",
+      "reading_level": "inherited_not_confirmed",
+      "read_version_or_source": "沿用前轮提取；待完整全文核查",
+      "body_locators": [],
+      "checked_claims": [],
+      "caution": "按原稿证据范围使用，未作本轮整篇内容核验",
+      "manuscript_locations_zh": [
+        "1.2 已有综述与本文贡献 p12a L25-25",
+        "1.2 已有综述与本文贡献 t1 L29-37",
+        "3.5 多问题耦合与综合运行管理 p35a L215-215"
+      ],
+      "manuscript_locations_en": [
+        "1.2 Existing reviews and the contribution of this review p12a L21-21",
+        "1.2 Existing reviews and the contribution of this review t1 L25-33",
+        "3.5 Coupled problems and integrated operations p35a L211-211"
+      ],
+      "citation_block_count_zh": 3,
+      "v16_status": "沿用前轮提取；待完整全文核查",
+      "v17_status": "unchanged_parent_grade",
+      "v17_claim_ids": [],
+      "source_url": "https://www.sciencedirect.com/science/article/pii/S0273117720305925",
+      "next_action": "按正文依赖补核关键命题",
+      "formal_version_parity_verified": false,
+      "human_verified": false,
+      "author_final_verification": "pending",
+      "submission_ready": false
+    },
+    {
+      "reference_number": 7,
+      "title": "低轨巨型星座智能组网技术综述",
+      "doi": "10.7527/S1000-6893.2026.32935",
+      "kind": "academic",
+      "publication": "航空学报, 2026; online 23 March 2026",
+      "reading_level": "inherited_not_confirmed",
+      "read_version_or_source": "公开摘要级；全文跨节对照待完成",
+      "body_locators": [],
+      "checked_claims": [],
+      "caution": "按原稿证据范围使用，未作本轮整篇内容核验",
+      "manuscript_locations_zh": [
+        "1.2 已有综述与本文贡献 p12a L25-25",
+        "1.2 已有综述与本文贡献 t1 L29-37"
+      ],
+      "manuscript_locations_en": [
+        "1.2 Existing reviews and the contribution of this review p12a L21-21",
+        "1.2 Existing reviews and the contribution of this review t1 L25-33"
+      ],
+      "citation_block_count_zh": 2,
+      "v16_status": "期刊摘要及研究方向公开；全文跨节对照待完成",
+      "v17_status": "unchanged_parent_grade",
+      "v17_claim_ids": [],
+      "source_url": "https://doi.org/10.7527/S1000-6893.2026.32935",
+      "next_action": "按正文依赖补核关键命题",
+      "formal_version_parity_verified": false,
+      "human_verified": false,
+      "author_final_verification": "pending",
+      "submission_ready": false
+    },
+    {
+      "reference_number": 8,
+      "title": "低轨通信卫星星座网络资源管控与优化技术综述",
+      "doi": "10.3873/j.issn.1000-1328.2026.02.002",
+      "kind": "academic",
+      "publication": "宇航学报, 2026, 47(2): 270–283",
+      "reading_level": "inherited_not_confirmed",
+      "read_version_or_source": "正式摘要公开；全文待读",
+      "body_locators": [],
+      "checked_claims": [],
+      "caution": "按原稿证据范围使用，未作本轮整篇内容核验",
+      "manuscript_locations_zh": [
+        "1.2 已有综述与本文贡献 p12a L25-25",
+        "1.2 已有综述与本文贡献 t1 L29-37"
+      ],
+      "manuscript_locations_en": [
+        "1.2 Existing reviews and the contribution of this review p12a L21-21",
+        "1.2 Existing reviews and the contribution of this review t1 L25-33"
+      ],
+      "citation_block_count_zh": 2,
+      "v16_status": "正式摘要公开；需进一步读全文",
+      "v17_status": "unchanged_parent_grade",
+      "v17_claim_ids": [],
+      "source_url": "https://doi.org/10.3873/j.issn.1000-1328.2026.02.002",
+      "next_action": "按正文依赖补核关键命题",
+      "formal_version_parity_verified": false,
+      "human_verified": false,
+      "author_final_verification": "pending",
+      "submission_ready": false
+    },
+    {
+      "reference_number": 9,
+      "title": "Toward Integrated Satellite Operations and Network Management: A Review and Novel Framework",
+      "doi": "10.3390/technologies13080312",
+      "kind": "academic",
+      "publication": "Technologies, 2025, 13(8): 312",
+      "reading_level": "formal_targeted",
+      "read_version_or_source": "正式出版PDF；定向核读记录继承Round1",
+      "body_locators": [
+        "正式PDF§3–4；Round1 pp18–25",
+        "正式PDF§4及§5.13–5.14；Round1"
+      ],
+      "checked_claims": [
+        "三类交互模式与四种具体架构分属不同分类层级",
+        "16星集成原型对best-effort；非三类模式同场景比较"
+      ],
+      "caution": "三类交互模式不是四个具体架构；16星集成原型不支持模式统一排名",
+      "manuscript_locations_zh": [
+        "1.2 已有综述与本文贡献 p12b L27-27",
+        "1.2 已有综述与本文贡献 t1 L29-37",
+        "3.5 多问题耦合与综合运行管理 p35d L221-221",
+        "3.5 多问题耦合与综合运行管理 fig2 L229-229",
+        "3.5 多问题耦合与综合运行管理 t6 L231-240"
+      ],
+      "manuscript_locations_en": [
+        "1.2 Existing reviews and the contribution of this review p12b L23-23",
+        "1.2 Existing reviews and the contribution of this review t1 L25-33",
+        "3.5 Coupled problems and integrated operations p35d L217-217",
+        "3.5 Coupled problems and integrated operations fig2 L225-225",
+        "3.5 Coupled problems and integrated operations t6 L227-236"
+      ],
+      "citation_block_count_zh": 5,
+      "v16_status": "本轮定向核读正式全文；具体支持范围见逐主张记录；作者终核待完成",
+      "v17_status": "formal_body_targeted",
+      "v17_claim_ids": [
+        "R2-9-01",
+        "R2-9-02"
+      ],
+      "source_url": "https://doi.org/10.3390/technologies13080312",
+      "next_action": "作者终核原文命题及正文表格",
+      "formal_version_parity_verified": false,
+      "human_verified": false,
+      "author_final_verification": "pending",
+      "submission_ready": false
+    },
+    {
+      "reference_number": 10,
+      "title": "Dynamic Management Topology Construction, Evolution, and Maintenance of Low Earth Orbit Mega-Constellation",
+      "doi": "10.34133/space.0248",
+      "kind": "academic",
+      "publication": "Space: Science & Technology, 2025, 5: 0248",
+      "reading_level": "inherited_not_confirmed",
+      "read_version_or_source": "沿用前轮提取；待完整全文核查",
+      "body_locators": [],
+      "checked_claims": [],
+      "caution": "按原稿证据范围使用，未作本轮整篇内容核验",
+      "manuscript_locations_zh": [
+        "2.3 决策权限与信息结构 p23a L59-59"
+      ],
+      "manuscript_locations_en": [
+        "2.3 Decision authority and information structure p23a L55-55"
+      ],
+      "citation_block_count_zh": 1,
+      "v16_status": "沿用前轮提取；待完整全文核查",
+      "v17_status": "unchanged_parent_grade",
+      "v17_claim_ids": [],
+      "source_url": "https://re.public.polimi.it/bitstream/11311/1294046/1/MAOYW01-25.pdf",
+      "next_action": "按正文依赖补核关键命题",
+      "formal_version_parity_verified": false,
+      "human_verified": false,
+      "author_final_verification": "pending",
+      "submission_ready": false
+    },
+    {
+      "reference_number": 11,
+      "title": "Optimization of satellite constellation reconfiguration maneuvers",
+      "doi": "10.1016/j.actaastro.2014.02.016",
+      "kind": "academic",
+      "publication": "Acta Astronautica, 2014, 99: 166–174",
+      "reading_level": "inherited_not_confirmed",
+      "read_version_or_source": "完整历史核读状态保留于冻结父记录；本轮未重新核定，不能视为未曾读过或已全文核验",
+      "body_locators": [],
+      "checked_claims": [],
+      "caution": "按原稿证据范围使用，未作本轮整篇内容核验",
+      "manuscript_locations_zh": [
+        "3.1 长期能力配置与持续运维 p31a L85-85"
+      ],
+      "manuscript_locations_en": [
+        "3.1 Long-term capability provisioning and maintenance p31a L81-81"
+      ],
+      "citation_block_count_zh": 1,
+      "v16_status": "沿用前轮提取；待完整全文核查",
+      "v17_status": "unchanged_parent_grade",
+      "v17_claim_ids": [],
+      "source_url": "https://www.sciencedirect.com/science/article/pii/S0094576514000733",
+      "next_action": "按正文依赖补核关键命题",
+      "formal_version_parity_verified": false,
+      "human_verified": false,
+      "author_final_verification": "pending",
+      "submission_ready": false
+    },
+    {
+      "reference_number": 12,
+      "title": "Regional Constellation Reconfiguration Problem: Integer Linear Programming Formulation and Lagrangian Heuristic Method",
+      "doi": "10.2514/1.A35685",
+      "kind": "academic",
+      "publication": "Journal of Spacecraft and Rockets, 2023, 60(6): 1828–1845",
+      "reading_level": "inherited_not_confirmed",
+      "read_version_or_source": "完整历史核读状态保留于冻结父记录；本轮未重新核定，不能视为未曾读过或已全文核验",
+      "body_locators": [],
+      "checked_claims": [],
+      "caution": "按原稿证据范围使用，未作本轮整篇内容核验",
+      "manuscript_locations_zh": [
+        "3.1 长期能力配置与持续运维 p31a L85-85"
+      ],
+      "manuscript_locations_en": [
+        "3.1 Long-term capability provisioning and maintenance p31a L81-81"
+      ],
+      "citation_block_count_zh": 1,
+      "v16_status": "沿用前轮提取；待完整全文核查",
+      "v17_status": "unchanged_parent_grade",
+      "v17_claim_ids": [],
+      "source_url": "https://arxiv.org/abs/2206.02910",
+      "next_action": "按正文依赖补核关键命题",
+      "formal_version_parity_verified": false,
+      "human_verified": false,
+      "author_final_verification": "pending",
+      "submission_ready": false
+    },
+    {
+      "reference_number": 13,
+      "title": "Deterministic Multistage Constellation Reconfiguration Using Integer Programming and Sequential Decision-Making Methods",
+      "doi": "10.2514/1.A35990",
+      "kind": "academic",
+      "publication": "Journal of Spacecraft and Rockets, 2025, 62(1): 206–222",
+      "reading_level": "inherited_not_confirmed",
+      "read_version_or_source": "完整历史核读状态保留于冻结父记录；本轮未重新核定，不能视为未曾读过或已全文核验",
+      "body_locators": [],
+      "checked_claims": [],
+      "caution": "按原稿证据范围使用，未作本轮整篇内容核验",
+      "manuscript_locations_zh": [
+        "3.1 长期能力配置与持续运维 p31a L85-85"
+      ],
+      "manuscript_locations_en": [
+        "3.1 Long-term capability provisioning and maintenance p31a L81-81"
+      ],
+      "citation_block_count_zh": 1,
+      "v16_status": "沿用前轮提取；待完整全文核查",
+      "v17_status": "unchanged_parent_grade",
+      "v17_claim_ids": [],
+      "source_url": "https://arxiv.org/abs/2401.11567",
+      "next_action": "按正文依赖补核关键命题",
+      "formal_version_parity_verified": false,
+      "human_verified": false,
+      "author_final_verification": "pending",
+      "submission_ready": false
+    },
+    {
+      "reference_number": 14,
+      "title": "Satellite Constellation Pattern Optimization for Complex Regional Coverage",
+      "doi": "10.2514/1.A34657",
+      "kind": "academic",
+      "publication": "Journal of Spacecraft and Rockets, 2020, 57(6): 1309–1327",
+      "reading_level": "inherited_not_confirmed",
+      "read_version_or_source": "完整历史核读状态保留于冻结父记录；本轮未重新核定，不能视为未曾读过或已全文核验",
+      "body_locators": [
+        "author arXiv abstract, formal journal DOI linked"
+      ],
+      "checked_claims": [],
+      "caution": "按原稿证据范围使用，未作本轮整篇内容核验",
+      "manuscript_locations_zh": [
+        "3.1 长期能力配置与持续运维 p31a L85-85"
+      ],
+      "manuscript_locations_en": [
+        "3.1 Long-term capability provisioning and maintenance p31a L81-81"
+      ],
+      "citation_block_count_zh": 1,
+      "v16_status": "沿用前轮提取；待完整全文核查",
+      "v17_status": "unchanged_parent_grade",
+      "v17_claim_ids": [],
+      "source_url": "https://arxiv.org/abs/1910.00672",
+      "next_action": "按正文依赖补核关键命题",
+      "formal_version_parity_verified": false,
+      "human_verified": false,
+      "author_final_verification": "pending",
+      "submission_ready": false
+    },
+    {
+      "reference_number": 15,
+      "title": "Optimization of satellite constellation deployment strategy considering uncertain areas of interest",
+      "doi": "10.1016/j.actaastro.2018.03.054",
+      "kind": "academic",
+      "publication": "Acta Astronautica, 2018, 153: 213–228",
+      "reading_level": "inherited_not_confirmed",
+      "read_version_or_source": "完整历史核读状态保留于冻结父记录；本轮未重新核定，不能视为未曾读过或已全文核验",
+      "body_locators": [],
+      "checked_claims": [],
+      "caution": "按原稿证据范围使用，未作本轮整篇内容核验",
+      "manuscript_locations_zh": [
+        "3.1 长期能力配置与持续运维 p31a L85-85"
+      ],
+      "manuscript_locations_en": [
+        "3.1 Long-term capability provisioning and maintenance p31a L81-81"
+      ],
+      "citation_block_count_zh": 1,
+      "v16_status": "沿用前轮提取；待完整全文核查",
+      "v17_status": "unchanged_parent_grade",
+      "v17_claim_ids": [],
+      "source_url": "https://www.sciencedirect.com/science/article/pii/S0094576517313486",
+      "next_action": "按正文依赖补核关键命题",
+      "formal_version_parity_verified": false,
+      "human_verified": false,
+      "author_final_verification": "pending",
+      "submission_ready": false
+    },
+    {
+      "reference_number": 16,
+      "title": "Two-Stage Framework for Deployment-Aware Optimization of Satellite Constellation Pattern Design",
+      "doi": "10.1007/s42405-026-01298-1",
+      "kind": "academic",
+      "publication": "International Journal of Aeronautical and Space Sciences, 2026",
+      "reading_level": "inherited_not_confirmed",
+      "read_version_or_source": "完整历史核读状态保留于冻结父记录；本轮未重新核定，不能视为未曾读过或已全文核验",
+      "body_locators": [
+        "publisher abstract and section 2.4 deployment-feasibility definition"
+      ],
+      "checked_claims": [],
+      "caution": "按原稿证据范围使用，未作本轮整篇内容核验",
+      "manuscript_locations_zh": [
+        "3.1 长期能力配置与持续运维 p31b L87-87"
+      ],
+      "manuscript_locations_en": [
+        "3.1 Long-term capability provisioning and maintenance p31b L83-83"
+      ],
+      "citation_block_count_zh": 1,
+      "v16_status": "沿用前轮提取；待完整全文核查",
+      "v17_status": "unchanged_parent_grade",
+      "v17_claim_ids": [],
+      "source_url": "https://link.springer.com/article/10.1007/s42405-026-01298-1",
+      "next_action": "按正文依赖补核关键命题",
+      "formal_version_parity_verified": false,
+      "human_verified": false,
+      "author_final_verification": "pending",
+      "submission_ready": false
+    },
+    {
+      "reference_number": 17,
+      "title": "Joint satellite platform and constellation sizing for instantaneous beam-hopping in 5G/6G Non-Terrestrial Networks",
+      "doi": "10.1016/j.comnet.2024.110942",
+      "kind": "academic",
+      "publication": "Computer Networks, 2025, 257: 110942",
+      "reading_level": "inherited_not_confirmed",
+      "read_version_or_source": "完整历史核读状态保留于冻结父记录；本轮未重新核定，不能视为未曾读过或已全文核验",
+      "body_locators": [],
+      "checked_claims": [],
+      "caution": "按原稿证据范围使用，未作本轮整篇内容核验",
+      "manuscript_locations_zh": [
+        "3.1 长期能力配置与持续运维 p31b L87-87",
+        "3.5 多问题耦合与综合运行管理 p35c L219-219",
+        "3.5 多问题耦合与综合运行管理 fig2 L229-229"
+      ],
+      "manuscript_locations_en": [
+        "3.1 Long-term capability provisioning and maintenance p31b L83-83",
+        "3.5 Coupled problems and integrated operations p35c L215-215",
+        "3.5 Coupled problems and integrated operations fig2 L225-225"
+      ],
+      "citation_block_count_zh": 3,
+      "v16_status": "期刊摘要及平台与星座设计条件已核；设计参数敏感性待读",
+      "v17_status": "unchanged_parent_grade",
+      "v17_claim_ids": [],
+      "source_url": "https://doi.org/10.1016/j.comnet.2024.110942",
+      "next_action": "按正文依赖补核关键命题",
+      "formal_version_parity_verified": false,
+      "human_verified": false,
+      "author_final_verification": "pending",
+      "submission_ready": false
+    },
+    {
+      "reference_number": 18,
+      "title": "Optimal Satellite Constellation Spare Strategy Using Multi-Echelon Inventory Control",
+      "doi": "10.2514/1.A34387",
+      "kind": "academic",
+      "publication": "Journal of Spacecraft and Rockets, 2019, 56(5): 1449–1461",
+      "reading_level": "historical_primary_targeted",
+      "read_version_or_source": "完整历史核读状态保留于冻结父记录；本轮未重新核定，不能视为未曾读过或已全文核验",
+      "body_locators": [],
+      "checked_claims": [
+        "多级库存/备星与响应；实际版本和页节仍需补"
+      ],
+      "caution": "按原稿证据范围使用，未作本轮整篇内容核验",
+      "manuscript_locations_zh": [
+        "3.1 长期能力配置与持续运维 p31c L89-89",
+        "3.5 多问题耦合与综合运行管理 fig2 L229-229",
+        "4.2 联合范围由服务瓶颈而非模块数量决定 p42c L258-258",
+        "4.5 面向持续服务的研究问题 p45a L289-289"
+      ],
+      "manuscript_locations_en": [
+        "3.1 Long-term capability provisioning and maintenance p31c L85-85",
+        "3.5 Coupled problems and integrated operations fig2 L225-225",
+        "4.2 Service bottlenecks, not module count, determine coupling scope p42c L254-254",
+        "4.5 Research questions for sustained service p45a L285-285"
+      ],
+      "citation_block_count_zh": 4,
+      "v16_status": "本批已完成一手原文指定方法/实验/限制段落精读；作者全文验收待完成",
+      "v17_status": "unchanged_parent_grade",
+      "v17_claim_ids": [],
+      "source_url": "https://arxiv.org/html/1807.02685v4",
+      "next_action": "补实际核读版本/原文页节",
+      "formal_version_parity_verified": false,
+      "human_verified": false,
+      "author_final_verification": "pending",
+      "submission_ready": false
+    },
+    {
+      "reference_number": 19,
+      "title": "Replenishment Strategy for Satellite Constellation with Dual Supply Modes",
+      "doi": "10.2514/1.A36281",
+      "kind": "academic",
+      "publication": "Journal of Spacecraft and Rockets, 2025, 62(5): 1567–1583",
+      "reading_level": "inherited_not_confirmed",
+      "read_version_or_source": "完整历史核读状态保留于冻结父记录；本轮未重新核定，不能视为未曾读过或已全文核验",
+      "body_locators": [],
+      "checked_claims": [],
+      "caution": "按原稿证据范围使用，未作本轮整篇内容核验",
+      "manuscript_locations_zh": [
+        "3.1 长期能力配置与持续运维 p31c L89-89",
+        "4.5 面向持续服务的研究问题 p45a L289-289"
+      ],
+      "manuscript_locations_en": [
+        "3.1 Long-term capability provisioning and maintenance p31c L85-85",
+        "4.5 Research questions for sustained service p45a L285-285"
+      ],
+      "citation_block_count_zh": 2,
+      "v16_status": "沿用前轮提取；待完整全文核查",
+      "v17_status": "unchanged_parent_grade",
+      "v17_claim_ids": [],
+      "source_url": "https://pure.kaist.ac.kr/en/publications/replenishment-strategy-for-satellite-constellation-with-dual-supp/",
+      "next_action": "按正文依赖补核关键命题",
+      "formal_version_parity_verified": false,
+      "human_verified": false,
+      "author_final_verification": "pending",
+      "submission_ready": false
+    },
+    {
+      "reference_number": 20,
+      "title": "Spare Strategy Analysis and Design for Mega Satellite Constellations Using Markov Chain",
+      "doi": "10.2514/1.A36599",
+      "kind": "academic",
+      "publication": "Journal of Spacecraft and Rockets, 2026: 1–12",
+      "reading_level": "inherited_not_confirmed",
+      "read_version_or_source": "完整历史核读状态保留于冻结父记录；本轮未重新核定，不能视为未曾读过或已全文核验",
+      "body_locators": [
+        "author arXiv abstract and registered abstract"
+      ],
+      "checked_claims": [],
+      "caution": "按原稿证据范围使用，未作本轮整篇内容核验",
+      "manuscript_locations_zh": [
+        "3.1 长期能力配置与持续运维 p31c L89-89"
+      ],
+      "manuscript_locations_en": [
+        "3.1 Long-term capability provisioning and maintenance p31c L85-85"
+      ],
+      "citation_block_count_zh": 1,
+      "v16_status": "沿用前轮提取；待完整全文核查",
+      "v17_status": "unchanged_parent_grade",
+      "v17_claim_ids": [],
+      "source_url": "https://arxiv.org/abs/2509.09957",
+      "next_action": "按正文依赖补核关键命题",
+      "formal_version_parity_verified": false,
+      "human_verified": false,
+      "author_final_verification": "pending",
+      "submission_ready": false
+    },
+    {
+      "reference_number": 21,
+      "title": "Spare strategy for large-scale satellite constellations under dual resupply channels using Markov chain",
+      "doi": "10.1016/j.actaastro.2026.06.020",
+      "kind": "academic",
+      "publication": "Acta Astronautica, 2026, 248: 614–629; assigned issue: November 2026",
+      "reading_level": "inherited_not_confirmed",
+      "read_version_or_source": "完整历史核读状态保留于冻结父记录；本轮未重新核定，不能视为未曾读过或已全文核验",
+      "body_locators": [
+        "author arXiv abstract"
+      ],
+      "checked_claims": [],
+      "caution": "按原稿证据范围使用，未作本轮整篇内容核验",
+      "manuscript_locations_zh": [
+        "3.1 长期能力配置与持续运维 p31c L89-89"
+      ],
+      "manuscript_locations_en": [
+        "3.1 Long-term capability provisioning and maintenance p31c L85-85"
+      ],
+      "citation_block_count_zh": 1,
+      "v16_status": "沿用前轮提取；待完整全文核查",
+      "v17_status": "unchanged_parent_grade",
+      "v17_claim_ids": [],
+      "source_url": "https://arxiv.org/abs/2605.20875",
+      "next_action": "按正文依赖补核关键命题",
+      "formal_version_parity_verified": false,
+      "human_verified": false,
+      "author_final_verification": "pending",
+      "submission_ready": false
+    },
+    {
+      "reference_number": 22,
+      "title": "Iridium Adds to Constellation Resilience with Launch of Spare Satellites",
+      "doi": null,
+      "kind": "engineering",
+      "publication": "Official operational release; accessed 10 October 2026 (inherited access date)",
+      "reading_level": "official_operational_material",
+      "read_version_or_source": "完整历史核读状态保留于冻结父记录；本轮未重新核定，不能视为未曾读过或已全文核验",
+      "body_locators": [],
+      "checked_claims": [],
+      "caution": "按原稿证据范围使用，未作本轮整篇内容核验",
+      "manuscript_locations_zh": [
+        "3.1 长期能力配置与持续运维 p31d L91-91",
+        "4.4 运行资料补充的是状态与动作证据 p44a L270-270",
+        "4.4 运行资料补充的是状态与动作证据 t7 L272-283"
+      ],
+      "manuscript_locations_en": [
+        "3.1 Long-term capability provisioning and maintenance p31d L87-87",
+        "4.4 Operational sources contribute evidence of states and actions p44a L266-266",
+        "4.4 Operational sources contribute evidence of states and actions t7 L268-279"
+      ],
+      "citation_block_count_zh": 3,
+      "v16_status": "Inherited official-source review; no fresh operational-performance claim",
+      "v17_status": "unchanged_parent_grade",
+      "v17_claim_ids": [],
+      "source_url": "https://investor.iridium.com/2023-05-20-Iridium-Adds-to-Constellation-Resilience-with-Launch-of-Spare-Satellites",
+      "next_action": "根据需要核官方版本/访问日期",
+      "formal_version_parity_verified": false,
+      "human_verified": false,
+      "author_final_verification": "pending",
+      "submission_ready": false
+    },
+    {
+      "reference_number": 23,
+      "title": "On-Orbit Servicing-Integrated Maintenance Strategy for a Satellite Constellation",
+      "doi": "10.2514/1.A36684",
+      "kind": "academic",
+      "publication": "Journal of Spacecraft and Rockets, 2026: 1–18",
+      "reading_level": "inherited_not_confirmed",
+      "read_version_or_source": "完整历史核读状态保留于冻结父记录；本轮未重新核定，不能视为未曾读过或已全文核验",
+      "body_locators": [],
+      "checked_claims": [],
+      "caution": "按原稿证据范围使用，未作本轮整篇内容核验",
+      "manuscript_locations_zh": [
+        "3.1 长期能力配置与持续运维 p31d L91-91",
+        "3.5 多问题耦合与综合运行管理 p35c L219-219",
+        "3.5 多问题耦合与综合运行管理 fig2 L229-229",
+        "4.2 联合范围由服务瓶颈而非模块数量决定 p42c L258-258",
+        "4.5 面向持续服务的研究问题 p45a L289-289"
+      ],
+      "manuscript_locations_en": [
+        "3.1 Long-term capability provisioning and maintenance p31d L87-87",
+        "3.5 Coupled problems and integrated operations p35c L215-215",
+        "3.5 Coupled problems and integrated operations fig2 L225-225",
+        "4.2 Service bottlenecks, not module count, determine coupling scope p42c L254-254",
+        "4.5 Research questions for sustained service p45a L285-285"
+      ],
+      "citation_block_count_zh": 5,
+      "v16_status": "沿用前轮提取；待完整全文核查",
+      "v17_status": "unchanged_parent_grade",
+      "v17_claim_ids": [],
+      "source_url": "https://doi.org/10.2514/1.A36684",
+      "next_action": "按正文依赖补核关键命题",
+      "formal_version_parity_verified": false,
+      "human_verified": false,
+      "author_final_verification": "pending",
+      "submission_ready": false
+    },
+    {
+      "reference_number": 24,
+      "title": "Orbital Facility Location Problem for Satellite Constellation Servicing Depots",
+      "doi": "10.2514/1.A35691",
+      "kind": "academic",
+      "publication": "Journal of Spacecraft and Rockets, 2024, 61(3): 808–825",
+      "reading_level": "inherited_not_confirmed",
+      "read_version_or_source": "完整历史核读状态保留于冻结父记录；本轮未重新核定，不能视为未曾读过或已全文核验",
+      "body_locators": [],
+      "checked_claims": [],
+      "caution": "按原稿证据范围使用，未作本轮整篇内容核验",
+      "manuscript_locations_zh": [
+        "3.1 长期能力配置与持续运维 p31e L93-93"
+      ],
+      "manuscript_locations_en": [
+        "3.1 Long-term capability provisioning and maintenance p31e L89-89"
+      ],
+      "citation_block_count_zh": 1,
+      "v16_status": "沿用前轮提取；待完整全文核查",
+      "v17_status": "unchanged_parent_grade",
+      "v17_claim_ids": [],
+      "source_url": "https://repository.gatech.edu/entities/publication/308f4a40-c36b-460c-a2fc-e90a347f211b",
+      "next_action": "按正文依赖补核关键命题",
+      "formal_version_parity_verified": false,
+      "human_verified": false,
+      "author_final_verification": "pending",
+      "submission_ready": false
+    },
+    {
+      "reference_number": 25,
+      "title": "Orbital Depot Location Optimization for Satellite Constellation Servicing with Low-Thrust Transfers",
+      "doi": "10.2514/1.A36386",
+      "kind": "academic",
+      "publication": "Journal of Spacecraft and Rockets, 2026, 63(1): 4–13",
+      "reading_level": "inherited_not_confirmed",
+      "read_version_or_source": "完整历史核读状态保留于冻结父记录；本轮未重新核定，不能视为未曾读过或已全文核验",
+      "body_locators": [],
+      "checked_claims": [],
+      "caution": "按原稿证据范围使用，未作本轮整篇内容核验",
+      "manuscript_locations_zh": [
+        "3.1 长期能力配置与持续运维 p31e L93-93"
+      ],
+      "manuscript_locations_en": [
+        "3.1 Long-term capability provisioning and maintenance p31e L89-89"
+      ],
+      "citation_block_count_zh": 1,
+      "v16_status": "沿用前轮提取；待完整全文核查",
+      "v17_status": "unchanged_parent_grade",
+      "v17_claim_ids": [],
+      "source_url": "https://arxiv.org/abs/2502.15914",
+      "next_action": "按正文依赖补核关键命题",
+      "formal_version_parity_verified": false,
+      "human_verified": false,
+      "author_final_verification": "pending",
+      "submission_ready": false
+    },
+    {
+      "reference_number": 26,
+      "title": "Deployment of On-Orbit Service Vehicles Using a Fuzzy Adaptive Particle Swarm Optimization Algorithm",
+      "doi": "10.1155/2021/6644339",
+      "kind": "academic",
+      "publication": "Modelling and Simulation in Engineering, 2021, 2021: 1–15",
+      "reading_level": "inherited_not_confirmed",
+      "read_version_or_source": "完整历史核读状态保留于冻结父记录；本轮未重新核定，不能视为未曾读过或已全文核验",
+      "body_locators": [],
+      "checked_claims": [],
+      "caution": "按原稿证据范围使用，未作本轮整篇内容核验",
+      "manuscript_locations_zh": [
+        "3.1 长期能力配置与持续运维 p31e L93-93"
+      ],
+      "manuscript_locations_en": [
+        "3.1 Long-term capability provisioning and maintenance p31e L89-89"
+      ],
+      "citation_block_count_zh": 1,
+      "v16_status": "沿用前轮提取；待完整全文核查",
+      "v17_status": "unchanged_parent_grade",
+      "v17_claim_ids": [],
+      "source_url": "https://onlinelibrary.wiley.com/doi/10.1155/2021/6644339",
+      "next_action": "按正文依赖补核关键命题",
+      "formal_version_parity_verified": false,
+      "human_verified": false,
+      "author_final_verification": "pending",
+      "submission_ready": false
+    },
+    {
+      "reference_number": 27,
+      "title": "Framework for Modeling and Optimization of On-Orbit Servicing Operations Under Demand Uncertainties",
+      "doi": "10.2514/1.A34978",
+      "kind": "academic",
+      "publication": "Journal of Spacecraft and Rockets, 2021, 58(4): 1157–1173",
+      "reading_level": "inherited_not_confirmed",
+      "read_version_or_source": "完整历史核读状态保留于冻结父记录；本轮未重新核定，不能视为未曾读过或已全文核验",
+      "body_locators": [],
+      "checked_claims": [],
+      "caution": "按原稿证据范围使用，未作本轮整篇内容核验",
+      "manuscript_locations_zh": [
+        "3.1 长期能力配置与持续运维 p31e L93-93",
+        "3.5 多问题耦合与综合运行管理 p35c L219-219"
+      ],
+      "manuscript_locations_en": [
+        "3.1 Long-term capability provisioning and maintenance p31e L89-89",
+        "3.5 Coupled problems and integrated operations p35c L215-215"
+      ],
+      "citation_block_count_zh": 2,
+      "v16_status": "沿用前轮提取；待完整全文核查",
+      "v17_status": "unchanged_parent_grade",
+      "v17_claim_ids": [],
+      "source_url": "https://arxiv.org/abs/2103.08962",
+      "next_action": "按正文依赖补核关键命题",
+      "formal_version_parity_verified": false,
+      "human_verified": false,
+      "author_final_verification": "pending",
+      "submission_ready": false
+    },
+    {
+      "reference_number": 28,
+      "title": "On-Orbit Servicing Optimization Framework with High- and Low-Thrust Propulsion Tradeoff",
+      "doi": "10.2514/1.A35094",
+      "kind": "academic",
+      "publication": "Journal of Spacecraft and Rockets, 2022, 59(1): 33–48",
+      "reading_level": "inherited_not_confirmed",
+      "read_version_or_source": "完整历史核读状态保留于冻结父记录；本轮未重新核定，不能视为未曾读过或已全文核验",
+      "body_locators": [
+        "author arXiv abstract, formal journal DOI linked"
+      ],
+      "checked_claims": [],
+      "caution": "按原稿证据范围使用，未作本轮整篇内容核验",
+      "manuscript_locations_zh": [
+        "3.1 长期能力配置与持续运维 p31e L93-93",
+        "3.5 多问题耦合与综合运行管理 p35c L219-219"
+      ],
+      "manuscript_locations_en": [
+        "3.1 Long-term capability provisioning and maintenance p31e L89-89",
+        "3.5 Coupled problems and integrated operations p35c L215-215"
+      ],
+      "citation_block_count_zh": 2,
+      "v16_status": "沿用前轮提取；待完整全文核查",
+      "v17_status": "unchanged_parent_grade",
+      "v17_claim_ids": [],
+      "source_url": "https://arxiv.org/abs/2103.08963",
+      "next_action": "按正文依赖补核关键命题",
+      "formal_version_parity_verified": false,
+      "human_verified": false,
+      "author_final_verification": "pending",
+      "submission_ready": false
+    },
+    {
+      "reference_number": 29,
+      "title": "On-orbit servicing system assessment and optimization methods based on lifecycle simulation under mixed aleatory and epistemic uncertainties",
+      "doi": "10.1016/j.actaastro.2013.02.005",
+      "kind": "academic",
+      "publication": "Acta Astronautica, 2013, 87: 107–126",
+      "reading_level": "inherited_not_confirmed",
+      "read_version_or_source": "完整历史核读状态保留于冻结父记录；本轮未重新核定，不能视为未曾读过或已全文核验",
+      "body_locators": [],
+      "checked_claims": [],
+      "caution": "按原稿证据范围使用，未作本轮整篇内容核验",
+      "manuscript_locations_zh": [
+        "3.1 长期能力配置与持续运维 p31e L93-93"
+      ],
+      "manuscript_locations_en": [
+        "3.1 Long-term capability provisioning and maintenance p31e L89-89"
+      ],
+      "citation_block_count_zh": 1,
+      "v16_status": "沿用前轮提取；待完整全文核查",
+      "v17_status": "unchanged_parent_grade",
+      "v17_claim_ids": [],
+      "source_url": "https://www.sciencedirect.com/science/article/pii/S0094576513000532",
+      "next_action": "按正文依赖补核关键命题",
+      "formal_version_parity_verified": false,
+      "human_verified": false,
+      "author_final_verification": "pending",
+      "submission_ready": false
+    },
+    {
+      "reference_number": 30,
+      "title": "Selecting and scheduling observations of agile satellites",
+      "doi": "10.1016/S1270-9638(02)01173-2",
+      "kind": "academic",
+      "publication": "Aerospace Science and Technology, 2002, 6(5): 367–381",
+      "reading_level": "inherited_not_confirmed",
+      "read_version_or_source": "完整历史核读状态保留于冻结父记录；本轮未重新核定，不能视为未曾读过或已全文核验",
+      "body_locators": [
+        "original publisher PDF at university course repository; abstract and problem overview"
+      ],
+      "checked_claims": [],
+      "caution": "按原稿证据范围使用，未作本轮整篇内容核验",
+      "manuscript_locations_zh": [
+        "3.2.1 任务选择、活动时序与跨星协调 p321a L101-101"
+      ],
+      "manuscript_locations_en": [
+        "3.2.1 Task selection, activity timing, and inter-satellite coordination p321a L97-97"
+      ],
+      "citation_block_count_zh": 1,
+      "v16_status": "沿用前轮提取；待完整全文核查",
+      "v17_status": "unchanged_parent_grade",
+      "v17_claim_ids": [],
+      "source_url": "https://www2.cs.sfu.ca/CourseCentral/827/havens/papers/topic%2312%28SatelliteScheduling%29/lemaitre-2002.pdf",
+      "next_action": "按正文依赖补核关键命题",
+      "formal_version_parity_verified": false,
+      "human_verified": false,
+      "author_final_verification": "pending",
+      "submission_ready": false
+    },
+    {
+      "reference_number": 31,
+      "title": "A Generic Markov Decision Process Model and Reinforcement Learning Method for Scheduling Agile Earth Observation Satellites",
+      "doi": "10.1109/TSMC.2020.3020732",
+      "kind": "academic",
+      "publication": "IEEE Transactions on Systems, Man, and Cybernetics: Systems, 2022, 52(3): 1463–1474",
+      "reading_level": "inherited_not_confirmed",
+      "read_version_or_source": "完整历史核读状态保留于冻结父记录；本轮未重新核定，不能视为未曾读过或已全文核验",
+      "body_locators": [],
+      "checked_claims": [],
+      "caution": "按原稿证据范围使用，未作本轮整篇内容核验",
+      "manuscript_locations_zh": [
+        "3.2.1 任务选择、活动时序与跨星协调 p321a L101-101"
+      ],
+      "manuscript_locations_en": [
+        "3.2.1 Task selection, activity timing, and inter-satellite coordination p321a L97-97"
+      ],
+      "citation_block_count_zh": 1,
+      "v16_status": "沿用前轮提取；待完整全文核查",
+      "v17_status": "unchanged_parent_grade",
+      "v17_claim_ids": [],
+      "source_url": "https://doi.org/10.1109/TSMC.2020.3020732",
+      "next_action": "按正文依赖补核关键命题",
+      "formal_version_parity_verified": false,
+      "human_verified": false,
+      "author_final_verification": "pending",
+      "submission_ready": false
+    },
+    {
+      "reference_number": 32,
+      "title": "A decompose-and-learn multi-objective algorithm for scheduling large-scale earth observation satellites",
+      "doi": "10.1016/j.swevo.2024.101792",
+      "kind": "academic",
+      "publication": "Swarm and Evolutionary Computation, 2025, 92: 101792",
+      "reading_level": "inherited_not_confirmed",
+      "read_version_or_source": "完整历史核读状态保留于冻结父记录；本轮未重新核定，不能视为未曾读过或已全文核验",
+      "body_locators": [],
+      "checked_claims": [],
+      "caution": "按原稿证据范围使用，未作本轮整篇内容核验",
+      "manuscript_locations_zh": [
+        "3.2.1 任务选择、活动时序与跨星协调 p321a L101-101"
+      ],
+      "manuscript_locations_en": [
+        "3.2.1 Task selection, activity timing, and inter-satellite coordination p321a L97-97"
+      ],
+      "citation_block_count_zh": 1,
+      "v16_status": "沿用前轮提取；待完整全文核查",
+      "v17_status": "unchanged_parent_grade",
+      "v17_claim_ids": [],
+      "source_url": "https://www.sciencedirect.com/science/article/pii/S2210650224003304",
+      "next_action": "按正文依赖补核关键命题",
+      "formal_version_parity_verified": false,
+      "human_verified": false,
+      "author_final_verification": "pending",
+      "submission_ready": false
+    },
+    {
+      "reference_number": 33,
+      "title": "A branch-and-price algorithm for energy aware task scheduling of constellations of nanosatellites",
+      "doi": "10.1016/j.cor.2025.107259",
+      "kind": "academic",
+      "publication": "Computers & Operations Research, 2026, 185: 107259",
+      "reading_level": "inherited_not_confirmed",
+      "read_version_or_source": "完整历史核读状态保留于冻结父记录；本轮未重新核定，不能视为未曾读过或已全文核验",
+      "body_locators": [],
+      "checked_claims": [],
+      "caution": "按原稿证据范围使用，未作本轮整篇内容核验",
+      "manuscript_locations_zh": [
+        "3.2.1 任务选择、活动时序与跨星协调 p321a L101-101",
+        "3.2.3 动态任务、不确定性与学习辅助 p323a L119-119",
+        "3.2.4 在轨服务的访问、转移与补给 t3 L131-142",
+        "4.1 可扩展性来自何处，又付出了什么代价 p41a L246-246"
+      ],
+      "manuscript_locations_en": [
+        "3.2.1 Task selection, activity timing, and inter-satellite coordination p321a L97-97",
+        "3.2.3 Dynamic requests, uncertainty, and learning assistance p323a L115-115",
+        "3.2.4 Visits, transfers, and replenishment in on-orbit servicing t3 L127-138",
+        "4.1 Sources and costs of scalability p41a L242-242"
+      ],
+      "citation_block_count_zh": 4,
+      "v16_status": "沿用前轮提取；待完整全文核查",
+      "v17_status": "unchanged_parent_grade",
+      "v17_claim_ids": [],
+      "source_url": "https://www.sciencedirect.com/science/article/pii/S0305054825002886",
+      "next_action": "按正文依赖补核关键命题",
+      "formal_version_parity_verified": false,
+      "human_verified": false,
+      "author_final_verification": "pending",
+      "submission_ready": false
+    },
+    {
+      "reference_number": 34,
+      "title": "Decentralized Observation Allocation for a Large-Scale Constellation",
+      "doi": "10.2514/1.I011215",
+      "kind": "academic",
+      "publication": "Journal of Aerospace Information Systems, 2023, 20(8): 447–461",
+      "reading_level": "partial_body_checked",
+      "read_version_or_source": "完整历史核读状态保留于冻结父记录；本轮未重新核定，不能视为未曾读过或已全文核验",
+      "body_locators": [
+        "§II–III；§IV连续规划；§V.A–D，Figs 9–12"
+      ],
+      "checked_claims": [
+        "100代理/634目标批量案例；从头和增量持续规划；增量在该实验中更快但更多重复观测；试验是单线程分布式执行模拟；请求满足与竞争消息的效果还依赖更新/奖励策略"
+      ],
+      "caution": "按原稿证据范围使用，未作本轮整篇内容核验",
+      "manuscript_locations_zh": [
+        "2.3 决策权限与信息结构 p23a L59-59",
+        "3.2.1 任务选择、活动时序与跨星协调 p321b L103-103",
+        "3.2.4 在轨服务的访问、转移与补给 t3 L131-142",
+        "4.1 可扩展性来自何处，又付出了什么代价 p41b L248-248"
+      ],
+      "manuscript_locations_en": [
+        "2.3 Decision authority and information structure p23a L55-55",
+        "3.2.1 Task selection, activity timing, and inter-satellite coordination p321b L99-99",
+        "3.2.4 Visits, transfers, and replenishment in on-orbit servicing t3 L127-138",
+        "4.1 Sources and costs of scalability p41b L244-244"
+      ],
+      "citation_block_count_zh": 4,
+      "v16_status": "沿用前轮提取；待完整全文核查",
+      "v17_status": "unchanged_parent_grade",
+      "v17_claim_ids": [],
+      "source_url": "https://ai.jpl.nasa.gov/public/documents/papers/parjan-jais2023-mas.pdf",
+      "next_action": "扩大至方法、实验、限制章节",
+      "formal_version_parity_verified": false,
+      "human_verified": false,
+      "author_final_verification": "pending",
+      "submission_ready": false
+    },
+    {
+      "reference_number": 35,
+      "title": "Decentralized, Decomposition-Based Observation Scheduling for a Large-Scale Satellite Constellation",
+      "doi": "10.1613/jair.1.16997",
+      "kind": "academic",
+      "publication": "Journal of Artificial Intelligence Research, 2025, 82: 169–208",
+      "reading_level": "historical_primary_targeted",
+      "read_version_or_source": "完整历史核读状态保留于冻结父记录；本轮未重新核定，不能视为未曾读过或已全文核验",
+      "body_locators": [
+        "§1、§3信息与资源假设；§5.4与Table 3；§6.1、§6.2.2–6.2.3、Tables 4–5及Figs 11–13"
+      ],
+      "checked_claims": [
+        "200/108卫星与24 h；请求密度决定难度；各代理知道公共请求和星座构型但不具有其他代理详细能力；GND使复杂性依赖子问题；大算例NSS-GND比BD降低最慢代理算时/消息量，但任务满足率仍有差距；Java仿真算时的报告口径"
+      ],
+      "caution": "按原稿证据范围使用，未作本轮整篇内容核验",
+      "manuscript_locations_zh": [
+        "2.3 决策权限与信息结构 p23a L59-59",
+        "3.2.1 任务选择、活动时序与跨星协调 p321b L103-103",
+        "3.2.4 在轨服务的访问、转移与补给 t3 L131-142",
+        "4.1 可扩展性来自何处，又付出了什么代价 p41b L248-248"
+      ],
+      "manuscript_locations_en": [
+        "2.3 Decision authority and information structure p23a L55-55",
+        "3.2.1 Task selection, activity timing, and inter-satellite coordination p321b L99-99",
+        "3.2.4 Visits, transfers, and replenishment in on-orbit servicing t3 L127-138",
+        "4.1 Sources and costs of scalability p41b L244-244"
+      ],
+      "citation_block_count_zh": 4,
+      "v16_status": "本批已完成一手原文指定方法/实验/限制段落精读；作者全文验收待完成",
+      "v17_status": "unchanged_parent_grade",
+      "v17_claim_ids": [],
+      "source_url": "https://www.jair.org/index.php/jair/article/download/16997/27120/43309",
+      "next_action": "补实际核读版本/原文页节",
+      "formal_version_parity_verified": false,
+      "human_verified": false,
+      "author_final_verification": "pending",
+      "submission_ready": false
+    },
+    {
+      "reference_number": 36,
+      "title": "Scheduling of Earth observing satellites using distributed constraint optimization",
+      "doi": "10.1007/s10951-024-00816-x",
+      "kind": "academic",
+      "publication": "Journal of Scheduling, 2024, 27(5): 507–524",
+      "reading_level": "inherited_not_confirmed",
+      "read_version_or_source": "完整历史核读状态保留于冻结父记录；本轮未重新核定，不能视为未曾读过或已全文核验",
+      "body_locators": [
+        "publisher abstract and introduction"
+      ],
+      "checked_claims": [],
+      "caution": "按原稿证据范围使用，未作本轮整篇内容核验",
+      "manuscript_locations_zh": [
+        "3.2.1 任务选择、活动时序与跨星协调 p321c L105-105"
+      ],
+      "manuscript_locations_en": [
+        "3.2.1 Task selection, activity timing, and inter-satellite coordination p321c L101-101"
+      ],
+      "citation_block_count_zh": 1,
+      "v16_status": "沿用前轮提取；待完整全文核查",
+      "v17_status": "unchanged_parent_grade",
+      "v17_claim_ids": [],
+      "source_url": "https://link.springer.com/article/10.1007/s10951-024-00816-x",
+      "next_action": "按正文依赖补核关键命题",
+      "formal_version_parity_verified": false,
+      "human_verified": false,
+      "author_final_verification": "pending",
+      "submission_ready": false
+    },
+    {
+      "reference_number": 37,
+      "title": "Consensus-Based Decentralized Auctions for Robust Task Allocation",
+      "doi": "10.1109/TRO.2009.2022423",
+      "kind": "academic",
+      "publication": "IEEE Transactions on Robotics, 2009, 25(4): 912–926",
+      "reading_level": "inherited_not_confirmed",
+      "read_version_or_source": "完整历史核读状态保留于冻结父记录；本轮未重新核定，不能视为未曾读过或已全文核验",
+      "body_locators": [
+        "author institutional abstract, final published version identified"
+      ],
+      "checked_claims": [],
+      "caution": "按原稿证据范围使用，未作本轮整篇内容核验",
+      "manuscript_locations_zh": [
+        "3.2.1 任务选择、活动时序与跨星协调 p321c L105-105",
+        "3.2.4 在轨服务的访问、转移与补给 t3 L131-142"
+      ],
+      "manuscript_locations_en": [
+        "3.2.1 Task selection, activity timing, and inter-satellite coordination p321c L101-101",
+        "3.2.4 Visits, transfers, and replenishment in on-orbit servicing t3 L127-138"
+      ],
+      "citation_block_count_zh": 2,
+      "v16_status": "沿用前轮提取；待完整全文核查",
+      "v17_status": "unchanged_parent_grade",
+      "v17_claim_ids": [],
+      "source_url": "https://dspace.mit.edu/entities/publication/b0bf0a05-be3b-433b-9f4b-ce314ed5178b",
+      "next_action": "按正文依赖补核关键命题",
+      "formal_version_parity_verified": false,
+      "human_verified": false,
+      "author_final_verification": "pending",
+      "submission_ready": false
+    },
+    {
+      "reference_number": 38,
+      "title": "Online scheduling of distributed Earth observation satellite system under rigid communication constraints",
+      "doi": "10.1016/j.asr.2020.02.018",
+      "kind": "academic",
+      "publication": "Advances in Space Research, 2020, 65(11): 2475–2496",
+      "reading_level": "inherited_not_confirmed",
+      "read_version_or_source": "完整历史核读状态保留于冻结父记录；本轮未重新核定，不能视为未曾读过或已全文核验",
+      "body_locators": [],
+      "checked_claims": [],
+      "caution": "按原稿证据范围使用，未作本轮整篇内容核验",
+      "manuscript_locations_zh": [
+        "3.2.1 任务选择、活动时序与跨星协调 p321c L105-105",
+        "3.2.4 在轨服务的访问、转移与补给 t3 L131-142",
+        "4.3 信息内容、时效与学习职责共同限制在线决策 p43a L262-262",
+        "4.5 面向持续服务的研究问题 p45c L293-293"
+      ],
+      "manuscript_locations_en": [
+        "3.2.1 Task selection, activity timing, and inter-satellite coordination p321c L101-101",
+        "3.2.4 Visits, transfers, and replenishment in on-orbit servicing t3 L127-138",
+        "4.3 Information content, freshness, and learning roles constrain online decisions p43a L258-258",
+        "4.5 Research questions for sustained service p45c L289-289"
+      ],
+      "citation_block_count_zh": 4,
+      "v16_status": "沿用前轮提取；待完整全文核查",
+      "v17_status": "unchanged_parent_grade",
+      "v17_claim_ids": [],
+      "source_url": "https://www.sciencedirect.com/science/article/pii/S0273117720301101",
+      "next_action": "按正文依赖补核关键命题",
+      "formal_version_parity_verified": false,
+      "human_verified": false,
+      "author_final_verification": "pending",
+      "submission_ready": false
+    },
+    {
+      "reference_number": 39,
+      "title": "Distributed cooperative task planning algorithm for multiple satellites in delayed communication environment",
+      "doi": "10.1109/JSEE.2016.00066",
+      "kind": "academic",
+      "publication": "Journal of Systems Engineering and Electronics, 2016, 27(3): 619–633",
+      "reading_level": "inherited_not_confirmed",
+      "read_version_or_source": "完整历史核读状态保留于冻结父记录；本轮未重新核定，不能视为未曾读过或已全文核验",
+      "body_locators": [],
+      "checked_claims": [],
+      "caution": "按原稿证据范围使用，未作本轮整篇内容核验",
+      "manuscript_locations_zh": [
+        "3.2.1 任务选择、活动时序与跨星协调 p321c L105-105"
+      ],
+      "manuscript_locations_en": [
+        "3.2.1 Task selection, activity timing, and inter-satellite coordination p321c L101-101"
+      ],
+      "citation_block_count_zh": 1,
+      "v16_status": "沿用前轮提取；待完整全文核查",
+      "v17_status": "unchanged_parent_grade",
+      "v17_claim_ids": [],
+      "source_url": "https://www.jseepub.com/EN/10.1109/JSEE.2016.00066",
+      "next_action": "按正文依赖补核关键命题",
+      "formal_version_parity_verified": false,
+      "human_verified": false,
+      "author_final_verification": "pending",
+      "submission_ready": false
+    },
+    {
+      "reference_number": 40,
+      "title": "Onboard coordination and scheduling of multiple autonomous satellites in an uncertain environment",
+      "doi": "10.1016/j.asr.2021.09.003",
+      "kind": "academic",
+      "publication": "Advances in Space Research, 2021, 68(11): 4505–4524",
+      "reading_level": "inherited_not_confirmed",
+      "read_version_or_source": "完整历史核读状态保留于冻结父记录；本轮未重新核定，不能视为未曾读过或已全文核验",
+      "body_locators": [],
+      "checked_claims": [],
+      "caution": "按原稿证据范围使用，未作本轮整篇内容核验",
+      "manuscript_locations_zh": [
+        "3.2.1 任务选择、活动时序与跨星协调 p321c L105-105"
+      ],
+      "manuscript_locations_en": [
+        "3.2.1 Task selection, activity timing, and inter-satellite coordination p321c L101-101"
+      ],
+      "citation_block_count_zh": 1,
+      "v16_status": "沿用前轮提取；待完整全文核查",
+      "v17_status": "unchanged_parent_grade",
+      "v17_claim_ids": [],
+      "source_url": "https://www.sciencedirect.com/science/article/pii/S0273117721006955",
+      "next_action": "按正文依赖补核关键命题",
+      "formal_version_parity_verified": false,
+      "human_verified": false,
+      "author_final_verification": "pending",
+      "submission_ready": false
+    },
+    {
+      "reference_number": 41,
+      "title": "Asynchronous Communication Aware Multi-Agent Task Allocation",
+      "doi": "10.24963/ijcai.2023/30",
+      "kind": "academic",
+      "publication": "Proceedings of IJCAI, 2023: 262–270",
+      "reading_level": "inherited_not_confirmed",
+      "read_version_or_source": "完整历史核读状态保留于冻结父记录；本轮未重新核定，不能视为未曾读过或已全文核验",
+      "body_locators": [
+        "official conference abstract"
+      ],
+      "checked_claims": [],
+      "caution": "按原稿证据范围使用，未作本轮整篇内容核验",
+      "manuscript_locations_zh": [
+        "3.2.1 任务选择、活动时序与跨星协调 p321c L105-105",
+        "3.2.4 在轨服务的访问、转移与补给 t3 L131-142"
+      ],
+      "manuscript_locations_en": [
+        "3.2.1 Task selection, activity timing, and inter-satellite coordination p321c L101-101",
+        "3.2.4 Visits, transfers, and replenishment in on-orbit servicing t3 L127-138"
+      ],
+      "citation_block_count_zh": 2,
+      "v16_status": "沿用前轮提取；待完整全文核查",
+      "v17_status": "unchanged_parent_grade",
+      "v17_claim_ids": [],
+      "source_url": "https://www.ijcai.org/proceedings/2023/30",
+      "next_action": "按正文依赖补核关键命题",
+      "formal_version_parity_verified": false,
+      "human_verified": false,
+      "author_final_verification": "pending",
+      "submission_ready": false
+    },
+    {
+      "reference_number": 42,
+      "title": "Joint Observation and Transmission Scheduling in Agile Satellite Networks",
+      "doi": "10.1109/TMC.2021.3076088",
+      "kind": "academic",
+      "publication": "IEEE Transactions on Mobile Computing, 2022, 21(12): 4381–4396",
+      "reading_level": "inherited_not_confirmed",
+      "read_version_or_source": "完整历史核读状态保留于冻结父记录；本轮未重新核定，不能视为未曾读过或已全文核验",
+      "body_locators": [],
+      "checked_claims": [],
+      "caution": "按原稿证据范围使用，未作本轮整篇内容核验",
+      "manuscript_locations_zh": [
+        "3.2.2 从采集安排到处理与交付 p322a L109-109",
+        "3.2.4 在轨服务的访问、转移与补给 t3 L131-142",
+        "4.2 联合范围由服务瓶颈而非模块数量决定 p42a L254-254",
+        "4.5 面向持续服务的研究问题 p45b L291-291"
+      ],
+      "manuscript_locations_en": [
+        "3.2.2 From acquisition scheduling to processing and delivery p322a L105-105",
+        "3.2.4 Visits, transfers, and replenishment in on-orbit servicing t3 L127-138",
+        "4.2 Service bottlenecks, not module count, determine coupling scope p42a L250-250",
+        "4.5 Research questions for sustained service p45b L287-287"
+      ],
+      "citation_block_count_zh": 4,
+      "v16_status": "沿用前轮提取；待完整全文核查",
+      "v17_status": "unchanged_parent_grade",
+      "v17_claim_ids": [],
+      "source_url": "https://www.comm.utoronto.ca/~liang/publications/TMC_ObsTrans_ASN.pdf",
+      "next_action": "按正文依赖补核关键命题",
+      "formal_version_parity_verified": false,
+      "human_verified": false,
+      "author_final_verification": "pending",
+      "submission_ready": false
+    },
+    {
+      "reference_number": 43,
+      "title": "Joint observation and transmission scheduling of multiple agile satellites with energy constraint using improved ACO algorithm",
+      "doi": "10.1016/j.actaastro.2025.02.008",
+      "kind": "academic",
+      "publication": "Acta Astronautica, 2025, 230: 92–103",
+      "reading_level": "inherited_not_confirmed",
+      "read_version_or_source": "完整历史核读状态保留于冻结父记录；本轮未重新核定，不能视为未曾读过或已全文核验",
+      "body_locators": [],
+      "checked_claims": [],
+      "caution": "按原稿证据范围使用，未作本轮整篇内容核验",
+      "manuscript_locations_zh": [
+        "3.2.2 从采集安排到处理与交付 p322a L109-109",
+        "3.2.4 在轨服务的访问、转移与补给 t3 L131-142"
+      ],
+      "manuscript_locations_en": [
+        "3.2.2 From acquisition scheduling to processing and delivery p322a L105-105",
+        "3.2.4 Visits, transfers, and replenishment in on-orbit servicing t3 L127-138"
+      ],
+      "citation_block_count_zh": 2,
+      "v16_status": "沿用前轮提取；待完整全文核查",
+      "v17_status": "unchanged_parent_grade",
+      "v17_claim_ids": [],
+      "source_url": "https://www.sciencedirect.com/science/article/pii/S0094576525000797",
+      "next_action": "按正文依赖补核关键命题",
+      "formal_version_parity_verified": false,
+      "human_verified": false,
+      "author_final_verification": "pending",
+      "submission_ready": false
+    },
+    {
+      "reference_number": 44,
+      "title": "The integrated agile Earth observation satellite scheduling problem",
+      "doi": "10.1016/j.cor.2025.107212",
+      "kind": "academic",
+      "publication": "Computers & Operations Research, 2025, 184: 107212",
+      "reading_level": "inherited_not_confirmed",
+      "read_version_or_source": "完整历史核读状态保留于冻结父记录；本轮未重新核定，不能视为未曾读过或已全文核验",
+      "body_locators": [],
+      "checked_claims": [],
+      "caution": "按原稿证据范围使用，未作本轮整篇内容核验",
+      "manuscript_locations_zh": [
+        "3.2.2 从采集安排到处理与交付 p322a L109-109",
+        "3.2.4 在轨服务的访问、转移与补给 t3 L131-142",
+        "4.2 联合范围由服务瓶颈而非模块数量决定 p42a L254-254"
+      ],
+      "manuscript_locations_en": [
+        "3.2.2 From acquisition scheduling to processing and delivery p322a L105-105",
+        "3.2.4 Visits, transfers, and replenishment in on-orbit servicing t3 L127-138",
+        "4.2 Service bottlenecks, not module count, determine coupling scope p42a L250-250"
+      ],
+      "citation_block_count_zh": 3,
+      "v16_status": "沿用前轮提取；待完整全文核查",
+      "v17_status": "unchanged_parent_grade",
+      "v17_claim_ids": [],
+      "source_url": "https://www.sciencedirect.com/science/article/pii/S0305054825002400",
+      "next_action": "按正文依赖补核关键命题",
+      "formal_version_parity_verified": false,
+      "human_verified": false,
+      "author_final_verification": "pending",
+      "submission_ready": false
+    },
+    {
+      "reference_number": 45,
+      "title": "Tip-and-cue mission scheduling in heterogeneous satellite constellations using mixed-integer linear programming",
+      "doi": "10.1016/j.actaastro.2026.04.059",
+      "kind": "academic",
+      "publication": "Acta Astronautica, 2026, 246: 921–940",
+      "reading_level": "inherited_not_confirmed",
+      "read_version_or_source": "完整历史核读状态保留于冻结父记录；本轮未重新核定，不能视为未曾读过或已全文核验",
+      "body_locators": [],
+      "checked_claims": [],
+      "caution": "按原稿证据范围使用，未作本轮整篇内容核验",
+      "manuscript_locations_zh": [
+        "3.2.2 从采集安排到处理与交付 p322a L109-109"
+      ],
+      "manuscript_locations_en": [
+        "3.2.2 From acquisition scheduling to processing and delivery p322a L105-105"
+      ],
+      "citation_block_count_zh": 1,
+      "v16_status": "沿用前轮提取；待完整全文核查",
+      "v17_status": "unchanged_parent_grade",
+      "v17_claim_ids": [],
+      "source_url": "https://www.sciencedirect.com/science/article/pii/S0094576526002936",
+      "next_action": "按正文依赖补核关键命题",
+      "formal_version_parity_verified": false,
+      "human_verified": false,
+      "author_final_verification": "pending",
+      "submission_ready": false
+    },
+    {
+      "reference_number": 46,
+      "title": "Optimization-based scheduling for the single-satellite, multi-ground station communication problem",
+      "doi": "10.1016/j.cor.2014.11.004",
+      "kind": "academic",
+      "publication": "Computers & Operations Research, 2015, 57: 1–16",
+      "reading_level": "inherited_not_confirmed",
+      "read_version_or_source": "完整历史核读状态保留于冻结父记录；本轮未重新核定，不能视为未曾读过或已全文核验",
+      "body_locators": [],
+      "checked_claims": [],
+      "caution": "按原稿证据范围使用，未作本轮整篇内容核验",
+      "manuscript_locations_zh": [
+        "3.2.2 从采集安排到处理与交付 p322b L111-111"
+      ],
+      "manuscript_locations_en": [
+        "3.2.2 From acquisition scheduling to processing and delivery p322b L107-107"
+      ],
+      "citation_block_count_zh": 1,
+      "v16_status": "沿用前轮提取；待完整全文核查",
+      "v17_status": "unchanged_parent_grade",
+      "v17_claim_ids": [],
+      "source_url": "https://www.sciencedirect.com/science/article/pii/S0305054814002809",
+      "next_action": "按正文依赖补核关键命题",
+      "formal_version_parity_verified": false,
+      "human_verified": false,
+      "author_final_verification": "pending",
+      "submission_ready": false
+    },
+    {
+      "reference_number": 47,
+      "title": "Scheduling Space–Ground Communications for the Air Force Satellite Control Network",
+      "doi": "10.1023/B:JOSH.0000013053.32600.3c",
+      "kind": "academic",
+      "publication": "Journal of Scheduling, 2004, 7(1): 7–34",
+      "reading_level": "inherited_not_confirmed",
+      "read_version_or_source": "完整历史核读状态保留于冻结父记录；本轮未重新核定，不能视为未曾读过或已全文核验",
+      "body_locators": [
+        "author original PDF; abstract and communication-scheduling problem overview"
+      ],
+      "checked_claims": [],
+      "caution": "按原稿证据范围使用，未作本轮整篇内容核验",
+      "manuscript_locations_zh": [
+        "3.2.2 从采集安排到处理与交付 p322b L111-111"
+      ],
+      "manuscript_locations_en": [
+        "3.2.2 From acquisition scheduling to processing and delivery p322b L107-107"
+      ],
+      "citation_block_count_zh": 1,
+      "v16_status": "沿用前轮提取；待完整全文核查",
+      "v17_status": "unchanged_parent_grade",
+      "v17_claim_ids": [],
+      "source_url": "https://www.cs.colostate.edu/~howe/papers/JOS04.pdf",
+      "next_action": "按正文依赖补核关键命题",
+      "formal_version_parity_verified": false,
+      "human_verified": false,
+      "author_final_verification": "pending",
+      "submission_ready": false
+    },
+    {
+      "reference_number": 48,
+      "title": "Satellite downlink scheduling problem: A case study",
+      "doi": "10.1016/j.omega.2015.01.001",
+      "kind": "academic",
+      "publication": "Omega, 2015, 53: 115–123",
+      "reading_level": "inherited_not_confirmed",
+      "read_version_or_source": "完整历史核读状态保留于冻结父记录；本轮未重新核定，不能视为未曾读过或已全文核验",
+      "body_locators": [],
+      "checked_claims": [],
+      "caution": "按原稿证据范围使用，未作本轮整篇内容核验",
+      "manuscript_locations_zh": [
+        "3.2.2 从采集安排到处理与交付 p322b L111-111"
+      ],
+      "manuscript_locations_en": [
+        "3.2.2 From acquisition scheduling to processing and delivery p322b L107-107"
+      ],
+      "citation_block_count_zh": 1,
+      "v16_status": "沿用前轮提取；待完整全文核查",
+      "v17_status": "unchanged_parent_grade",
+      "v17_claim_ids": [],
+      "source_url": "https://repository.essex.ac.uk/17381/1/1206.5503v3.pdf",
+      "next_action": "按正文依赖补核关键命题",
+      "formal_version_parity_verified": false,
+      "human_verified": false,
+      "author_final_verification": "pending",
+      "submission_ready": false
+    },
+    {
+      "reference_number": 49,
+      "title": "Deep Space Network Scheduling via Mixed-Integer Linear Programming",
+      "doi": "10.1109/ACCESS.2021.3064928",
+      "kind": "academic",
+      "publication": "IEEE Access, 2021, 9: 39985–39994",
+      "reading_level": "inherited_not_confirmed",
+      "read_version_or_source": "完整历史核读状态保留于冻结父记录；本轮未重新核定，不能视为未曾读过或已全文核验",
+      "body_locators": [],
+      "checked_claims": [],
+      "caution": "按原稿证据范围使用，未作本轮整篇内容核验",
+      "manuscript_locations_zh": [
+        "3.2.2 从采集安排到处理与交付 p322b L111-111"
+      ],
+      "manuscript_locations_en": [
+        "3.2.2 From acquisition scheduling to processing and delivery p322b L107-107"
+      ],
+      "citation_block_count_zh": 1,
+      "v16_status": "IEEE正式书目元数据已核；全文技术内容待核",
+      "v17_status": "unchanged_parent_grade",
+      "v17_claim_ids": [],
+      "source_url": "https://ieeexplore.ieee.org/abstract/document/9373338",
+      "next_action": "按正文依赖补核关键命题",
+      "formal_version_parity_verified": false,
+      "human_verified": false,
+      "author_final_verification": "pending",
+      "submission_ready": false
+    },
+    {
+      "reference_number": 50,
+      "title": "Automated Scheduling for NASA's Deep Space Network",
+      "doi": "10.1609/aimag.v35i4.2552",
+      "kind": "academic",
+      "publication": "AI Magazine, 2014, 35(4): 7–25",
+      "reading_level": "inherited_not_confirmed",
+      "read_version_or_source": "完整历史核读状态保留于冻结父记录；本轮未重新核定，不能视为未曾读过或已全文核验",
+      "body_locators": [
+        "publisher abstract and registered abstract"
+      ],
+      "checked_claims": [],
+      "caution": "按原稿证据范围使用，未作本轮整篇内容核验",
+      "manuscript_locations_zh": [
+        "3.2.2 从采集安排到处理与交付 p322b L111-111"
+      ],
+      "manuscript_locations_en": [
+        "3.2.2 From acquisition scheduling to processing and delivery p322b L107-107"
+      ],
+      "citation_block_count_zh": 1,
+      "v16_status": "沿用前轮提取；待完整全文核查",
+      "v17_status": "unchanged_parent_grade",
+      "v17_claim_ids": [],
+      "source_url": "https://ojs.aaai.org/aimagazine/index.php/aimagazine/article/view/2552",
+      "next_action": "按正文依赖补核关键命题",
+      "formal_version_parity_verified": false,
+      "human_verified": false,
+      "author_final_verification": "pending",
+      "submission_ready": false
+    },
+    {
+      "reference_number": 51,
+      "title": "Tasking API",
+      "doi": null,
+      "kind": "engineering",
+      "publication": "Official documentation; accessed 10 October 2026 (inherited access date)",
+      "reading_level": "official_operational_material",
+      "read_version_or_source": "完整历史核读状态保留于冻结父记录；本轮未重新核定，不能视为未曾读过或已全文核验",
+      "body_locators": [],
+      "checked_claims": [],
+      "caution": "按原稿证据范围使用，未作本轮整篇内容核验",
+      "manuscript_locations_zh": [
+        "3.2.2 从采集安排到处理与交付 p322b L111-111",
+        "4.4 运行资料补充的是状态与动作证据 p44a L270-270",
+        "4.4 运行资料补充的是状态与动作证据 t7 L272-283"
+      ],
+      "manuscript_locations_en": [
+        "3.2.2 From acquisition scheduling to processing and delivery p322b L107-107",
+        "4.4 Operational sources contribute evidence of states and actions p44a L266-266",
+        "4.4 Operational sources contribute evidence of states and actions t7 L268-279"
+      ],
+      "citation_block_count_zh": 3,
+      "v16_status": "Inherited official-source review; no fresh operational-performance claim",
+      "v17_status": "unchanged_parent_grade",
+      "v17_claim_ids": [],
+      "source_url": "https://docs.planet.com/develop/apis/tasking/",
+      "next_action": "根据需要核官方版本/访问日期",
+      "formal_version_parity_verified": false,
+      "human_verified": false,
+      "author_final_verification": "pending",
+      "submission_ready": false
+    },
+    {
+      "reference_number": 52,
+      "title": "Work with contacts",
+      "doi": null,
+      "kind": "engineering",
+      "publication": "Official documentation; accessed 10 October 2026 (inherited access date)",
+      "reading_level": "official_operational_material",
+      "read_version_or_source": "完整历史核读状态保留于冻结父记录；本轮未重新核定，不能视为未曾读过或已全文核验",
+      "body_locators": [],
+      "checked_claims": [],
+      "caution": "按原稿证据范围使用，未作本轮整篇内容核验",
+      "manuscript_locations_zh": [
+        "3.2.2 从采集安排到处理与交付 p322b L111-111",
+        "4.3 信息内容、时效与学习职责共同限制在线决策 p43c L266-266",
+        "4.4 运行资料补充的是状态与动作证据 p44a L270-270",
+        "4.4 运行资料补充的是状态与动作证据 t7 L272-283",
+        "4.5 面向持续服务的研究问题 p45c L293-293"
+      ],
+      "manuscript_locations_en": [
+        "3.2.2 From acquisition scheduling to processing and delivery p322b L107-107",
+        "4.3 Information content, freshness, and learning roles constrain online decisions p43c L262-262",
+        "4.4 Operational sources contribute evidence of states and actions p44a L266-266",
+        "4.4 Operational sources contribute evidence of states and actions t7 L268-279",
+        "4.5 Research questions for sustained service p45c L289-289"
+      ],
+      "citation_block_count_zh": 5,
+      "v16_status": "Inherited official-source review; no fresh operational-performance claim",
+      "v17_status": "unchanged_parent_grade",
+      "v17_claim_ids": [],
+      "source_url": "https://docs.aws.amazon.com/ground-station/latest/ug/contacts.html",
+      "next_action": "根据需要核官方版本/访问日期",
+      "formal_version_parity_verified": false,
+      "human_verified": false,
+      "author_final_verification": "pending",
+      "submission_ready": false
+    },
+    {
+      "reference_number": 53,
+      "title": "Edge Intelligence for Satellite-Based Earth Observation: Scheduling Image Acquisition and Processing",
+      "doi": "10.1002/sat.70082",
+      "kind": "academic",
+      "publication": "International Journal of Satellite Communications and Networking, 2026: 1–22; advance online publication, 24 August 2026",
+      "reading_level": "author_manuscript_targeted",
+      "read_version_or_source": "arXiv:2604.05937v1；25页；2026-04-07作者稿",
+      "body_locators": [
+        "PDF §3.3 p10；§4.1–4.2 pp12–15；Round1定位",
+        "PDF §3.4 pp11–12；§4",
+        "Wiley首部First published及末尾How to cite"
+      ],
+      "checked_claims": [
+        "处理器集合含边缘卫星和地面站；采集先确定，下游负载与频率优化",
+        "固定分发—处理—汇集流程与稳定ISL；不写成自由路由或已验证反向采集反馈"
+      ],
+      "caution": "先采集后星地处理；Wiley正式版仍未逐命题对照",
+      "manuscript_locations_zh": [
+        "1.3 范围与证据使用 p13b L43-43",
+        "3.2.2 从采集安排到处理与交付 p322c L113-113",
+        "3.2.4 在轨服务的访问、转移与补给 t3 L131-142",
+        "3.5 多问题耦合与综合运行管理 p35c L219-219",
+        "3.5 多问题耦合与综合运行管理 fig2 L229-229",
+        "3.5 多问题耦合与综合运行管理 t6 L231-240",
+        "4.2 联合范围由服务瓶颈而非模块数量决定 p42a L254-254",
+        "4.5 面向持续服务的研究问题 p45b L291-291"
+      ],
+      "manuscript_locations_en": [
+        "1.3 Scope and use of evidence p13b L39-39",
+        "3.2.2 From acquisition scheduling to processing and delivery p322c L109-109",
+        "3.2.4 Visits, transfers, and replenishment in on-orbit servicing t3 L127-138",
+        "3.5 Coupled problems and integrated operations p35c L215-215",
+        "3.5 Coupled problems and integrated operations fig2 L225-225",
+        "3.5 Coupled problems and integrated operations t6 L227-236",
+        "4.2 Service bottlenecks, not module count, determine coupling scope p42a L250-250",
+        "4.5 Research questions for sustained service p45b L287-287"
+      ],
+      "citation_block_count_zh": 8,
+      "v16_status": "本轮定向核读指定公开作者稿；正式版模型和结果一致性仍待核；作者终核待完成",
+      "v17_status": "author_version_only",
+      "v17_claim_ids": [
+        "R2-53-01",
+        "R2-53-02",
+        "R2-53-03",
+        "R2-53-04"
+      ],
+      "source_url": "https://onlinelibrary.wiley.com/doi/10.1002/sat.70082",
+      "next_action": "出版正式版逐命题对照",
+      "formal_version_parity_verified": false,
+      "human_verified": false,
+      "author_final_verification": "pending",
+      "submission_ready": false
+    },
+    {
+      "reference_number": 54,
+      "title": "Deep Multiagent Reinforcement Learning for Task Offloading and Resource Allocation in Satellite Edge Computing",
+      "doi": "10.1109/JIOT.2024.3482290",
+      "kind": "academic",
+      "publication": "IEEE Internet of Things Journal, 2025, 12(4): 3832–3845",
+      "reading_level": "inherited_not_confirmed",
+      "read_version_or_source": "完整历史核读状态保留于冻结父记录；本轮未重新核定，不能视为未曾读过或已全文核验",
+      "body_locators": [],
+      "checked_claims": [],
+      "caution": "按原稿证据范围使用，未作本轮整篇内容核验",
+      "manuscript_locations_zh": [
+        "3.2.2 从采集安排到处理与交付 p322d L115-115",
+        "3.5 多问题耦合与综合运行管理 p35c L219-219"
+      ],
+      "manuscript_locations_en": [
+        "3.2.2 From acquisition scheduling to processing and delivery p322d L111-111",
+        "3.5 Coupled problems and integrated operations p35c L215-215"
+      ],
+      "citation_block_count_zh": 2,
+      "v16_status": "沿用前轮提取；待完整全文核查",
+      "v17_status": "unchanged_parent_grade",
+      "v17_claim_ids": [],
+      "source_url": "https://doi.org/10.1109/JIOT.2024.3482290",
+      "next_action": "按正文依赖补核关键命题",
+      "formal_version_parity_verified": false,
+      "human_verified": false,
+      "author_final_verification": "pending",
+      "submission_ready": false
+    },
+    {
+      "reference_number": 55,
+      "title": "Multi-agent reinforcement learning based computation offloading and resource allocation for LEO Satellite edge computing networks",
+      "doi": "10.1016/j.comcom.2024.05.008",
+      "kind": "academic",
+      "publication": "Computer Communications, 2024, 222: 268–276",
+      "reading_level": "inherited_not_confirmed",
+      "read_version_or_source": "完整历史核读状态保留于冻结父记录；本轮未重新核定，不能视为未曾读过或已全文核验",
+      "body_locators": [],
+      "checked_claims": [],
+      "caution": "按原稿证据范围使用，未作本轮整篇内容核验",
+      "manuscript_locations_zh": [
+        "3.2.2 从采集安排到处理与交付 p322d L115-115",
+        "3.5 多问题耦合与综合运行管理 p35c L219-219"
+      ],
+      "manuscript_locations_en": [
+        "3.2.2 From acquisition scheduling to processing and delivery p322d L111-111",
+        "3.5 Coupled problems and integrated operations p35c L215-215"
+      ],
+      "citation_block_count_zh": 2,
+      "v16_status": "沿用前轮提取；待完整全文核查",
+      "v17_status": "unchanged_parent_grade",
+      "v17_claim_ids": [],
+      "source_url": "https://www.sciencedirect.com/science/article/pii/S0140366424001828",
+      "next_action": "按正文依赖补核关键命题",
+      "formal_version_parity_verified": false,
+      "human_verified": false,
+      "author_final_verification": "pending",
+      "submission_ready": false
+    },
+    {
+      "reference_number": 56,
+      "title": "Satellite Edge Intelligence: DRL-Based Resource Management for Task Inference in LEO-Based Satellite-Ground Collaborative Networks",
+      "doi": "10.1109/TMC.2025.3570799",
+      "kind": "academic",
+      "publication": "IEEE Transactions on Mobile Computing, 2025, 24(10): 10710–10728",
+      "reading_level": "inherited_not_confirmed",
+      "read_version_or_source": "完整历史核读状态保留于冻结父记录；本轮未重新核定，不能视为未曾读过或已全文核验",
+      "body_locators": [],
+      "checked_claims": [],
+      "caution": "按原稿证据范围使用，未作本轮整篇内容核验",
+      "manuscript_locations_zh": [
+        "3.2.2 从采集安排到处理与交付 p322d L115-115",
+        "3.5 多问题耦合与综合运行管理 p35c L219-219"
+      ],
+      "manuscript_locations_en": [
+        "3.2.2 From acquisition scheduling to processing and delivery p322d L111-111",
+        "3.5 Coupled problems and integrated operations p35c L215-215"
+      ],
+      "citation_block_count_zh": 2,
+      "v16_status": "沿用前轮提取；待完整全文核查",
+      "v17_status": "unchanged_parent_grade",
+      "v17_claim_ids": [],
+      "source_url": "https://ieeexplore.ieee.org/document/11005988/",
+      "next_action": "按正文依赖补核关键命题",
+      "formal_version_parity_verified": false,
+      "human_verified": false,
+      "author_final_verification": "pending",
+      "submission_ready": false
+    },
+    {
+      "reference_number": 57,
+      "title": "Orbit-aware task scheduling in satellite edge computing",
+      "doi": "10.1007/s10586-025-05663-9",
+      "kind": "academic",
+      "publication": "Cluster Computing, 2025, 28(16): 1013",
+      "reading_level": "inherited_not_confirmed",
+      "read_version_or_source": "完整历史核读状态保留于冻结父记录；本轮未重新核定，不能视为未曾读过或已全文核验",
+      "body_locators": [
+        "publisher abstract and registered abstract"
+      ],
+      "checked_claims": [],
+      "caution": "按原稿证据范围使用，未作本轮整篇内容核验",
+      "manuscript_locations_zh": [
+        "3.2.2 从采集安排到处理与交付 p322d L115-115"
+      ],
+      "manuscript_locations_en": [
+        "3.2.2 From acquisition scheduling to processing and delivery p322d L111-111"
+      ],
+      "citation_block_count_zh": 1,
+      "v16_status": "沿用前轮提取；待完整全文核查",
+      "v17_status": "unchanged_parent_grade",
+      "v17_claim_ids": [],
+      "source_url": "https://link.springer.com/article/10.1007/s10586-025-05663-9",
+      "next_action": "按正文依赖补核关键命题",
+      "formal_version_parity_verified": false,
+      "human_verified": false,
+      "author_final_verification": "pending",
+      "submission_ready": false
+    },
+    {
+      "reference_number": 58,
+      "title": "Kodan: Addressing the Computational Bottleneck in Space",
+      "doi": "10.1145/3582016.3582043",
+      "kind": "academic",
+      "publication": "Proceedings of ASPLOS, Volume 3, 2023: 392–403",
+      "reading_level": "inherited_not_confirmed",
+      "read_version_or_source": "完整历史核读状态保留于冻结父记录；本轮未重新核定，不能视为未曾读过或已全文核验",
+      "body_locators": [
+        "author institutional abstract"
+      ],
+      "checked_claims": [],
+      "caution": "按原稿证据范围使用，未作本轮整篇内容核验",
+      "manuscript_locations_zh": [
+        "3.2.2 从采集安排到处理与交付 p322d L115-115"
+      ],
+      "manuscript_locations_en": [
+        "3.2.2 From acquisition scheduling to processing and delivery p322d L111-111"
+      ],
+      "citation_block_count_zh": 1,
+      "v16_status": "沿用前轮提取；待完整全文核查",
+      "v17_status": "unchanged_parent_grade",
+      "v17_claim_ids": [],
+      "source_url": "https://www.microsoft.com/en-us/research/publication/kodan-addressing-the-computational-bottleneck-in-space/",
+      "next_action": "按正文依赖补核关键命题",
+      "formal_version_parity_verified": false,
+      "human_verified": false,
+      "author_final_verification": "pending",
+      "submission_ready": false
+    },
+    {
+      "reference_number": 59,
+      "title": "Lagrangian hierarchical mixed-integer programming for ultra-large-scale satellite scheduling under dynamic task delivery",
+      "doi": "10.1016/j.asr.2025.12.008",
+      "kind": "academic",
+      "publication": "Advances in Space Research, 2026, 77(11): 11252–11270",
+      "reading_level": "inherited_not_confirmed",
+      "read_version_or_source": "完整历史核读状态保留于冻结父记录；本轮未重新核定，不能视为未曾读过或已全文核验",
+      "body_locators": [],
+      "checked_claims": [],
+      "caution": "按原稿证据范围使用，未作本轮整篇内容核验",
+      "manuscript_locations_zh": [
+        "3.2.3 动态任务、不确定性与学习辅助 p323a L119-119",
+        "3.2.4 在轨服务的访问、转移与补给 t3 L131-142"
+      ],
+      "manuscript_locations_en": [
+        "3.2.3 Dynamic requests, uncertainty, and learning assistance p323a L115-115",
+        "3.2.4 Visits, transfers, and replenishment in on-orbit servicing t3 L127-138"
+      ],
+      "citation_block_count_zh": 2,
+      "v16_status": "沿用前轮提取；待完整全文核查",
+      "v17_status": "unchanged_parent_grade",
+      "v17_claim_ids": [],
+      "source_url": "https://www.sciencedirect.com/science/article/pii/S0273117725014188",
+      "next_action": "按正文依赖补核关键命题",
+      "formal_version_parity_verified": false,
+      "human_verified": false,
+      "author_final_verification": "pending",
+      "submission_ready": false
+    },
+    {
+      "reference_number": 60,
+      "title": "A pure proactive scheduling algorithm for multiple earth observation satellites under uncertainties of clouds",
+      "doi": "10.1016/j.cor.2016.04.014",
+      "kind": "academic",
+      "publication": "Computers & Operations Research, 2016, 74: 1–13",
+      "reading_level": "inherited_not_confirmed",
+      "read_version_or_source": "完整历史核读状态保留于冻结父记录；本轮未重新核定，不能视为未曾读过或已全文核验",
+      "body_locators": [],
+      "checked_claims": [],
+      "caution": "按原稿证据范围使用，未作本轮整篇内容核验",
+      "manuscript_locations_zh": [
+        "3.2.3 动态任务、不确定性与学习辅助 p323a L119-119"
+      ],
+      "manuscript_locations_en": [
+        "3.2.3 Dynamic requests, uncertainty, and learning assistance p323a L115-115"
+      ],
+      "citation_block_count_zh": 1,
+      "v16_status": "沿用前轮提取；待完整全文核查",
+      "v17_status": "unchanged_parent_grade",
+      "v17_claim_ids": [],
+      "source_url": "https://www.sciencedirect.com/science/article/pii/S0305054816300843",
+      "next_action": "按正文依赖补核关键命题",
+      "formal_version_parity_verified": false,
+      "human_verified": false,
+      "author_final_verification": "pending",
+      "submission_ready": false
+    },
+    {
+      "reference_number": 61,
+      "title": "Robust Earth Observation Satellite Scheduling With Uncertainty of Cloud Coverage",
+      "doi": "10.1109/TAES.2019.2947978",
+      "kind": "academic",
+      "publication": "IEEE Transactions on Aerospace and Electronic Systems, 2020, 56(3): 2450–2461",
+      "reading_level": "inherited_not_confirmed",
+      "read_version_or_source": "完整历史核读状态保留于冻结父记录；本轮未重新核定，不能视为未曾读过或已全文核验",
+      "body_locators": [],
+      "checked_claims": [],
+      "caution": "按原稿证据范围使用，未作本轮整篇内容核验",
+      "manuscript_locations_zh": [
+        "3.2.3 动态任务、不确定性与学习辅助 p323a L119-119"
+      ],
+      "manuscript_locations_en": [
+        "3.2.3 Dynamic requests, uncertainty, and learning assistance p323a L115-115"
+      ],
+      "citation_block_count_zh": 1,
+      "v16_status": "沿用前轮提取；待完整全文核查",
+      "v17_status": "unchanged_parent_grade",
+      "v17_claim_ids": [],
+      "source_url": "https://ieeexplore.ieee.org/document/8883054/",
+      "next_action": "按正文依赖补核关键命题",
+      "formal_version_parity_verified": false,
+      "human_verified": false,
+      "author_final_verification": "pending",
+      "submission_ready": false
+    },
+    {
+      "reference_number": 62,
+      "title": "Mixed-integer programming models for optimal constellation scheduling given cloud cover uncertainty",
+      "doi": "10.1016/j.ejor.2018.11.043",
+      "kind": "academic",
+      "publication": "European Journal of Operational Research, 2019, 275(2): 431–445",
+      "reading_level": "inherited_not_confirmed",
+      "read_version_or_source": "完整历史核读状态保留于冻结父记录；本轮未重新核定，不能视为未曾读过或已全文核验",
+      "body_locators": [],
+      "checked_claims": [],
+      "caution": "按原稿证据范围使用，未作本轮整篇内容核验",
+      "manuscript_locations_zh": [
+        "3.2.3 动态任务、不确定性与学习辅助 p323a L119-119"
+      ],
+      "manuscript_locations_en": [
+        "3.2.3 Dynamic requests, uncertainty, and learning assistance p323a L115-115"
+      ],
+      "citation_block_count_zh": 1,
+      "v16_status": "沿用前轮提取；待完整全文核查",
+      "v17_status": "unchanged_parent_grade",
+      "v17_claim_ids": [],
+      "source_url": "https://www.sciencedirect.com/science/article/pii/S0377221718309846",
+      "next_action": "按正文依赖补核关键命题",
+      "formal_version_parity_verified": false,
+      "human_verified": false,
+      "author_final_verification": "pending",
+      "submission_ready": false
+    },
+    {
+      "reference_number": 63,
+      "title": "Deep reinforcement learning-assisted large neighborhood search for online scheduling large-scale emergency tasks to Earth-observing satellites",
+      "doi": "10.1016/j.eswa.2025.128502",
+      "kind": "academic",
+      "publication": "Expert Systems with Applications, 2025, 291: 128502",
+      "reading_level": "inherited_not_confirmed",
+      "read_version_or_source": "完整历史核读状态保留于冻结父记录；本轮未重新核定，不能视为未曾读过或已全文核验",
+      "body_locators": [],
+      "checked_claims": [],
+      "caution": "按原稿证据范围使用，未作本轮整篇内容核验",
+      "manuscript_locations_zh": [
+        "3.2.3 动态任务、不确定性与学习辅助 p323b L121-121",
+        "3.2.4 在轨服务的访问、转移与补给 t3 L131-142",
+        "4.3 信息内容、时效与学习职责共同限制在线决策 p43b L264-264",
+        "4.5 面向持续服务的研究问题 p45d L295-295"
+      ],
+      "manuscript_locations_en": [
+        "3.2.3 Dynamic requests, uncertainty, and learning assistance p323b L117-117",
+        "3.2.4 Visits, transfers, and replenishment in on-orbit servicing t3 L127-138",
+        "4.3 Information content, freshness, and learning roles constrain online decisions p43b L260-260",
+        "4.5 Research questions for sustained service p45d L291-291"
+      ],
+      "citation_block_count_zh": 4,
+      "v16_status": "沿用前轮提取；待完整全文核查",
+      "v17_status": "unchanged_parent_grade",
+      "v17_claim_ids": [],
+      "source_url": "https://www.sciencedirect.com/science/article/pii/S0957417425021219",
+      "next_action": "按正文依赖补核关键命题",
+      "formal_version_parity_verified": false,
+      "human_verified": false,
+      "author_final_verification": "pending",
+      "submission_ready": false
+    },
+    {
+      "reference_number": 64,
+      "title": "Dynamic task scheduling optimization by rolling horizon deep reinforcement learning for distributed satellite system",
+      "doi": "10.1016/j.eswa.2025.128350",
+      "kind": "academic",
+      "publication": "Expert Systems with Applications, 2025, 289: 128350",
+      "reading_level": "inherited_not_confirmed",
+      "read_version_or_source": "完整历史核读状态保留于冻结父记录；本轮未重新核定，不能视为未曾读过或已全文核验",
+      "body_locators": [],
+      "checked_claims": [],
+      "caution": "按原稿证据范围使用，未作本轮整篇内容核验",
+      "manuscript_locations_zh": [
+        "3.2.3 动态任务、不确定性与学习辅助 p323b L121-121"
+      ],
+      "manuscript_locations_en": [
+        "3.2.3 Dynamic requests, uncertainty, and learning assistance p323b L117-117"
+      ],
+      "citation_block_count_zh": 1,
+      "v16_status": "沿用前轮提取；待完整全文核查",
+      "v17_status": "unchanged_parent_grade",
+      "v17_claim_ids": [],
+      "source_url": "https://www.sciencedirect.com/science/article/pii/S0957417425019694",
+      "next_action": "按正文依赖补核关键命题",
+      "formal_version_parity_verified": false,
+      "human_verified": false,
+      "author_final_verification": "pending",
+      "submission_ready": false
+    },
+    {
+      "reference_number": 65,
+      "title": "Single-Agent Reinforcement Learning for Scalable Earth-Observing Satellite Constellation Operations",
+      "doi": "10.2514/1.A35736",
+      "kind": "academic",
+      "publication": "Journal of Spacecraft and Rockets, 2024, 61(1): 114–132",
+      "reading_level": "partial_body_checked",
+      "read_version_or_source": "完整历史核读状态保留于冻结父记录；本轮未重新核定，不能视为未曾读过或已全文核验",
+      "body_locators": [
+        "§III.C–D、Table 2、§IV.A.1–3、Figs 8–13、§IV.B"
+      ],
+      "checked_claims": [
+        "四种通信设置：无通信、单跳LOS、多跳LOS、自由通信；星间只共享已经成像/下传状态，不共享计划意图；因而自由通信也保留同一决策间隔的重复观测；LOS效果依赖构型连通性；单星训练后跨星复用；MIP可用于目标预分配"
+      ],
+      "caution": "仅共享已完成状态不含未来计划意图，作者稿与正式版本待核",
+      "manuscript_locations_zh": [
+        "3.2.3 动态任务、不确定性与学习辅助 p323c L123-123",
+        "3.2.4 在轨服务的访问、转移与补给 t3 L131-142",
+        "4.3 信息内容、时效与学习职责共同限制在线决策 p43a L262-262",
+        "4.3 信息内容、时效与学习职责共同限制在线决策 p43b L264-264",
+        "4.5 面向持续服务的研究问题 p45c L293-293",
+        "4.5 面向持续服务的研究问题 p45d L295-295"
+      ],
+      "manuscript_locations_en": [
+        "3.2.3 Dynamic requests, uncertainty, and learning assistance p323c L119-119",
+        "3.2.4 Visits, transfers, and replenishment in on-orbit servicing t3 L127-138",
+        "4.3 Information content, freshness, and learning roles constrain online decisions p43a L258-258",
+        "4.3 Information content, freshness, and learning roles constrain online decisions p43b L260-260",
+        "4.5 Research questions for sustained service p45c L289-289",
+        "4.5 Research questions for sustained service p45d L291-291"
+      ],
+      "citation_block_count_zh": 6,
+      "v16_status": "沿用前轮提取；待完整全文核查",
+      "v17_status": "unchanged_parent_grade",
+      "v17_claim_ids": [],
+      "source_url": "https://hanspeterschaub.info/PapersPrivate/Herrmann2024.pdf",
+      "next_action": "扩大至方法、实验、限制章节",
+      "formal_version_parity_verified": false,
+      "human_verified": false,
+      "author_final_verification": "pending",
+      "submission_ready": false
+    },
+    {
+      "reference_number": 66,
+      "title": "A comparative analysis of reinforcement learning algorithms for earth-observing satellite scheduling",
+      "doi": "10.3389/frspt.2023.1263489",
+      "kind": "academic",
+      "publication": "Frontiers in Space Technologies, 2023, 4: 1263489",
+      "reading_level": "historical_primary_targeted",
+      "read_version_or_source": "完整历史核读状态保留于冻结父记录；本轮未重新核定，不能视为未曾读过或已全文核验",
+      "body_locators": [
+        "§2–3、§4.3–4.6、Figs 6–10；Table 1–2资源屏蔽"
+      ],
+      "checked_claims": [
+        "单星Basilisk环境；45/90指决策间隔；收益/稳定性随问题变化；MCTS-Train训练及模拟回溯成本高；wall clock报告训练总episodes与固定10000episodes两种口径；资源屏蔽限定模拟资源状态"
+      ],
+      "caution": "按原稿证据范围使用，未作本轮整篇内容核验",
+      "manuscript_locations_zh": [
+        "3.2.3 动态任务、不确定性与学习辅助 p323c L123-123",
+        "3.2.4 在轨服务的访问、转移与补给 t3 L131-142"
+      ],
+      "manuscript_locations_en": [
+        "3.2.3 Dynamic requests, uncertainty, and learning assistance p323c L119-119",
+        "3.2.4 Visits, transfers, and replenishment in on-orbit servicing t3 L127-138"
+      ],
+      "citation_block_count_zh": 2,
+      "v16_status": "本批已完成一手原文指定方法/实验/限制段落精读；作者全文验收待完成",
+      "v17_status": "unchanged_parent_grade",
+      "v17_claim_ids": [],
+      "source_url": "https://www.frontiersin.org/journals/space-technologies/articles/10.3389/frspt.2023.1263489/full",
+      "next_action": "补实际核读版本/原文页节",
+      "formal_version_parity_verified": false,
+      "human_verified": false,
+      "author_final_verification": "pending",
+      "submission_ready": false
+    },
+    {
+      "reference_number": 67,
+      "title": "Multi-orbit routing and scheduling of refuellable on-orbit servicing space robots",
+      "doi": "10.1016/j.cie.2022.108852",
+      "kind": "academic",
+      "publication": "Computers & Industrial Engineering, 2023, 176: 108852",
+      "reading_level": "inherited_not_confirmed",
+      "read_version_or_source": "完整历史核读状态保留于冻结父记录；本轮未重新核定，不能视为未曾读过或已全文核验",
+      "body_locators": [],
+      "checked_claims": [],
+      "caution": "按原稿证据范围使用，未作本轮整篇内容核验",
+      "manuscript_locations_zh": [
+        "3.2.4 在轨服务的访问、转移与补给 p324a L127-127",
+        "3.2.4 在轨服务的访问、转移与补给 t3 L131-142"
+      ],
+      "manuscript_locations_en": [
+        "3.2.4 Visits, transfers, and replenishment in on-orbit servicing p324a L123-123",
+        "3.2.4 Visits, transfers, and replenishment in on-orbit servicing t3 L127-138"
+      ],
+      "citation_block_count_zh": 2,
+      "v16_status": "沿用前轮提取；待完整全文核查",
+      "v17_status": "unchanged_parent_grade",
+      "v17_claim_ids": [],
+      "source_url": "https://www.sciencedirect.com/science/article/pii/S0360835222008403",
+      "next_action": "按正文依赖补核关键命题",
+      "formal_version_parity_verified": false,
+      "human_verified": false,
+      "author_final_verification": "pending",
+      "submission_ready": false
+    },
+    {
+      "reference_number": 68,
+      "title": "On-orbit refueling robust mission scheduling with uncertain duration for geosynchronous orbit spacecraft",
+      "doi": "10.1016/j.cja.2025.103774",
+      "kind": "academic",
+      "publication": "Chinese Journal of Aeronautics, 2026, 39(1): 103774",
+      "reading_level": "inherited_not_confirmed",
+      "read_version_or_source": "完整历史核读状态保留于冻结父记录；本轮未重新核定，不能视为未曾读过或已全文核验",
+      "body_locators": [],
+      "checked_claims": [],
+      "caution": "按原稿证据范围使用，未作本轮整篇内容核验",
+      "manuscript_locations_zh": [
+        "3.2.4 在轨服务的访问、转移与补给 p324a L127-127",
+        "3.2.4 在轨服务的访问、转移与补给 t3 L131-142"
+      ],
+      "manuscript_locations_en": [
+        "3.2.4 Visits, transfers, and replenishment in on-orbit servicing p324a L123-123",
+        "3.2.4 Visits, transfers, and replenishment in on-orbit servicing t3 L127-138"
+      ],
+      "citation_block_count_zh": 2,
+      "v16_status": "沿用前轮提取；待完整全文核查",
+      "v17_status": "unchanged_parent_grade",
+      "v17_claim_ids": [],
+      "source_url": "https://www.sciencedirect.com/science/article/pii/S1000936125003802",
+      "next_action": "按正文依赖补核关键命题",
+      "formal_version_parity_verified": false,
+      "human_verified": false,
+      "author_final_verification": "pending",
+      "submission_ready": false
+    },
+    {
+      "reference_number": 69,
+      "title": "Mission planning for on-orbit servicing through multiple servicing satellites: A new approach",
+      "doi": "10.1016/j.asr.2017.05.037",
+      "kind": "academic",
+      "publication": "Advances in Space Research, 2017, 60(6): 1148–1162",
+      "reading_level": "inherited_not_confirmed",
+      "read_version_or_source": "完整历史核读状态保留于冻结父记录；本轮未重新核定，不能视为未曾读过或已全文核验",
+      "body_locators": [],
+      "checked_claims": [],
+      "caution": "按原稿证据范围使用，未作本轮整篇内容核验",
+      "manuscript_locations_zh": [
+        "3.2.4 在轨服务的访问、转移与补给 p324a L127-127"
+      ],
+      "manuscript_locations_en": [
+        "3.2.4 Visits, transfers, and replenishment in on-orbit servicing p324a L123-123"
+      ],
+      "citation_block_count_zh": 1,
+      "v16_status": "沿用前轮提取；待完整全文核查",
+      "v17_status": "unchanged_parent_grade",
+      "v17_claim_ids": [],
+      "source_url": "https://www.sciencedirect.com/science/article/pii/S0273117717303824",
+      "next_action": "按正文依赖补核关键命题",
+      "formal_version_parity_verified": false,
+      "human_verified": false,
+      "author_final_verification": "pending",
+      "submission_ready": false
+    },
+    {
+      "reference_number": 70,
+      "title": "GEO satellite on-orbit refueling and debris removal hybrid mission planning under uncertainty",
+      "doi": "10.1016/j.asr.2024.05.059",
+      "kind": "academic",
+      "publication": "Advances in Space Research, 2024, 74(5): 2376–2387",
+      "reading_level": "inherited_not_confirmed",
+      "read_version_or_source": "完整历史核读状态保留于冻结父记录；本轮未重新核定，不能视为未曾读过或已全文核验",
+      "body_locators": [],
+      "checked_claims": [],
+      "caution": "按原稿证据范围使用，未作本轮整篇内容核验",
+      "manuscript_locations_zh": [
+        "3.2.4 在轨服务的访问、转移与补给 p324a L127-127"
+      ],
+      "manuscript_locations_en": [
+        "3.2.4 Visits, transfers, and replenishment in on-orbit servicing p324a L123-123"
+      ],
+      "citation_block_count_zh": 1,
+      "v16_status": "沿用前轮提取；待完整全文核查",
+      "v17_status": "unchanged_parent_grade",
+      "v17_claim_ids": [],
+      "source_url": "https://www.sciencedirect.com/science/article/pii/S0273117724005258",
+      "next_action": "按正文依赖补核关键命题",
+      "formal_version_parity_verified": false,
+      "human_verified": false,
+      "author_final_verification": "pending",
+      "submission_ready": false
+    },
+    {
+      "reference_number": 71,
+      "title": "Low-Thrust Propulsion and Drift Orbit Optimization for Multi-Client Servicing Missions in Low Earth Orbit",
+      "doi": "10.1007/s40295-026-00580-4",
+      "kind": "academic",
+      "publication": "The Journal of the Astronautical Sciences, 2026, 73(2): 36",
+      "reading_level": "historical_primary_targeted",
+      "read_version_or_source": "完整历史核读状态保留于冻结父记录；本轮未重新核定，不能视为未曾读过或已全文核验",
+      "body_locators": [],
+      "checked_claims": [
+        "LEO低推力/漂移服务路径；精确图表位置待补"
+      ],
+      "caution": "按原稿证据范围使用，未作本轮整篇内容核验",
+      "manuscript_locations_zh": [
+        "3.2.4 在轨服务的访问、转移与补给 p324b L129-129",
+        "3.2.4 在轨服务的访问、转移与补给 t3 L131-142",
+        "4.1 可扩展性来自何处，又付出了什么代价 p41a L246-246"
+      ],
+      "manuscript_locations_en": [
+        "3.2.4 Visits, transfers, and replenishment in on-orbit servicing p324b L125-125",
+        "3.2.4 Visits, transfers, and replenishment in on-orbit servicing t3 L127-138",
+        "4.1 Sources and costs of scalability p41a L242-242"
+      ],
+      "citation_block_count_zh": 3,
+      "v16_status": "本批已完成一手原文指定方法/实验/限制段落精读；作者全文验收待完成",
+      "v17_status": "unchanged_parent_grade",
+      "v17_claim_ids": [],
+      "source_url": "https://link.springer.com/article/10.1007/s40295-026-00580-4",
+      "next_action": "补实际核读版本/原文页节",
+      "formal_version_parity_verified": false,
+      "human_verified": false,
+      "author_final_verification": "pending",
+      "submission_ready": false
+    },
+    {
+      "reference_number": 72,
+      "title": "Optimal Multi-Client Trajectory Planning for A Low-Thrust Servicing Satellite in the Presence of Perturbations",
+      "doi": "10.1007/s40295-025-00487-6",
+      "kind": "academic",
+      "publication": "The Journal of the Astronautical Sciences, 2025, 72(2): 7",
+      "reading_level": "partial_body_checked",
+      "read_version_or_source": "完整历史核读状态保留于冻结父记录；本轮未重新核定，不能视为未曾读过或已全文核验",
+      "body_locators": [
+        "publisher abstract and section 2 assumption A.1"
+      ],
+      "checked_claims": [],
+      "caution": "按原稿证据范围使用，未作本轮整篇内容核验",
+      "manuscript_locations_zh": [
+        "3.2.4 在轨服务的访问、转移与补给 p324b L129-129",
+        "3.2.4 在轨服务的访问、转移与补给 t3 L131-142",
+        "4.1 可扩展性来自何处，又付出了什么代价 p41a L246-246"
+      ],
+      "manuscript_locations_en": [
+        "3.2.4 Visits, transfers, and replenishment in on-orbit servicing p324b L125-125",
+        "3.2.4 Visits, transfers, and replenishment in on-orbit servicing t3 L127-138",
+        "4.1 Sources and costs of scalability p41a L242-242"
+      ],
+      "citation_block_count_zh": 3,
+      "v16_status": "本轮已核原文局部（§2假设A.1）；完整精读待完成",
+      "v17_status": "unchanged_parent_grade",
+      "v17_claim_ids": [],
+      "source_url": "https://link.springer.com/article/10.1007/s40295-025-00487-6",
+      "next_action": "扩大至方法、实验、限制章节",
+      "formal_version_parity_verified": false,
+      "human_verified": false,
+      "author_final_verification": "pending",
+      "submission_ready": false
+    },
+    {
+      "reference_number": 73,
+      "title": "A Hybrid Forecasting Model for Self-Similar Traffic in LEO Mega-Constellation Networks",
+      "doi": "10.3390/aerospace11030191",
+      "kind": "academic",
+      "publication": "Aerospace, 2024, 11(3): 191",
+      "reading_level": "formal_targeted",
+      "read_version_or_source": "MDPI提供的正式全文文本；未完成PDF像素复核",
+      "body_locators": [
+        "正式提供文本§3.2、4.3及§6；Round1",
+        "MDPI/RG下载未取得可用于像素复核的PDF"
+      ],
+      "checked_claims": [
+        "使用ON/OFF合成自相似流量；未验证路由收益"
+      ],
+      "caution": "ON/OFF合成流量；预测误差不等于路由收益；正式PDF图表和水印待核",
+      "manuscript_locations_zh": [
+        "3.3.1 需求估计与波束、功率配置 p331a L148-148",
+        "3.3.4 分层资源管理与控制职责 t4 L174-186",
+        "4.3 信息内容、时效与学习职责共同限制在线决策 p43b L264-264",
+        "4.5 面向持续服务的研究问题 p45d L295-295"
+      ],
+      "manuscript_locations_en": [
+        "3.3.1 Demand estimation and beam–power allocation p331a L144-144",
+        "3.3.4 Hierarchical resource management and control responsibilities t4 L170-182",
+        "4.3 Information content, freshness, and learning roles constrain online decisions p43b L260-260",
+        "4.5 Research questions for sustained service p45d L291-291"
+      ],
+      "citation_block_count_zh": 4,
+      "v16_status": "本轮定向核读正式全文；具体支持范围见逐主张记录；作者终核待完成",
+      "v17_status": "formal_body_targeted",
+      "v17_claim_ids": [
+        "R2-73-01",
+        "R2-73-02"
+      ],
+      "source_url": "https://doi.org/10.3390/aerospace11030191",
+      "next_action": "作者终核原文命题及正文表格",
+      "formal_version_parity_verified": false,
+      "human_verified": false,
+      "author_final_verification": "pending",
+      "submission_ready": false
+    },
+    {
+      "reference_number": 74,
+      "title": "Joint Beam Scheduling and Power Optimization for Beam Hopping LEO Satellite Systems",
+      "doi": "10.23919/JCC.ja.2022-0864",
+      "kind": "academic",
+      "publication": "China Communications, 2024, 21(10): 1–14",
+      "reading_level": "author_manuscript_targeted",
+      "read_version_or_source": "arXiv:2312.01292v1；14页；2023-12-03作者稿",
+      "body_locators": [
+        "作者稿§3.1–3.2；算法1–2；pp4–7",
+        "作者稿参数表及基线定义；Round1 pp8–9",
+        "IEEE document 10495871元数据；arXiv作者列表"
+      ],
+      "checked_claims": [
+        "平均功率选束，再固定选择以罚函数内点法优化连续功率",
+        "单星8波束61位置；G-BH/G-BHPO相同贪心规则不等于整个照射序列严格相同"
+      ],
+      "caution": "作者稿8束61位置；正式版与页码冲突均未关闭",
+      "manuscript_locations_zh": [
+        "1.3 范围与证据使用 p13b L43-43",
+        "3.3.1 需求估计与波束、功率配置 p331b L150-150",
+        "3.3.1 需求估计与波束、功率配置 p331d L154-154",
+        "3.3.4 分层资源管理与控制职责 t4 L174-186",
+        "4.1 可扩展性来自何处，又付出了什么代价 p41a L246-246",
+        "4.2 联合范围由服务瓶颈而非模块数量决定 p42b L256-256"
+      ],
+      "manuscript_locations_en": [
+        "1.3 Scope and use of evidence p13b L39-39",
+        "3.3.1 Demand estimation and beam–power allocation p331b L146-146",
+        "3.3.1 Demand estimation and beam–power allocation p331d L150-150",
+        "3.3.4 Hierarchical resource management and control responsibilities t4 L170-182",
+        "4.1 Sources and costs of scalability p41a L242-242",
+        "4.2 Service bottlenecks, not module count, determine coupling scope p42b L252-252"
+      ],
+      "citation_block_count_zh": 6,
+      "v16_status": "本轮定向核读指定公开作者稿；正式版模型和结果一致性仍待核；作者终核待完成",
+      "v17_status": "author_version_only",
+      "v17_claim_ids": [
+        "R2-74-01",
+        "R2-74-02",
+        "R2-74-03",
+        "R2-74-04"
+      ],
+      "source_url": "https://doi.org/10.23919/JCC.ja.2022-0864",
+      "next_action": "出版正式版逐命题对照",
+      "formal_version_parity_verified": false,
+      "human_verified": false,
+      "author_final_verification": "pending",
+      "submission_ready": false
+    },
+    {
+      "reference_number": 75,
+      "title": "NGSO Satellites Beam Hopping Strategy Based on Load Balancing and Interference Avoidance for Coexistence With GSO Systems",
+      "doi": "10.1109/LCOMM.2022.3213912",
+      "kind": "academic",
+      "publication": "IEEE Communications Letters, 2023, 27(1): 278–282",
+      "reading_level": "full_text_unavailable",
+      "read_version_or_source": "出版身份与公开摘要；全文未取得",
+      "body_locators": [
+        "IEEE公开摘要；27(1):278–282",
+        "模型正文不可读"
+      ],
+      "checked_claims": [],
+      "caution": "未获正文，具体关联、干扰和基线未知",
+      "manuscript_locations_zh": [
+        "1.3 范围与证据使用 p13b L43-43",
+        "3.3.1 需求估计与波束、功率配置 p331c L152-152",
+        "3.3.4 分层资源管理与控制职责 t4 L174-186",
+        "4.2 联合范围由服务瓶颈而非模块数量决定 p42b L256-256"
+      ],
+      "manuscript_locations_en": [
+        "1.3 Scope and use of evidence p13b L39-39",
+        "3.3.1 Demand estimation and beam–power allocation p331c L148-148",
+        "3.3.4 Hierarchical resource management and control responsibilities t4 L170-182",
+        "4.2 Service bottlenecks, not module count, determine coupling scope p42b L252-252"
+      ],
+      "citation_block_count_zh": 4,
+      "v16_status": "本轮未取得可核读全文；继承摘要或早期提取描述，具体方法与实验论断仍待正文核验",
+      "v17_status": "no_full_text",
+      "v17_claim_ids": [
+        "R2-75-01",
+        "R2-75-02"
+      ],
+      "source_url": "https://doi.org/10.1109/LCOMM.2022.3213912",
+      "next_action": "优先获取可读正文与具体方法/图表/基线",
+      "formal_version_parity_verified": false,
+      "human_verified": false,
+      "author_final_verification": "pending",
+      "submission_ready": false
+    },
+    {
+      "reference_number": 76,
+      "title": "Demand-Aware Beam Hopping and Power Allocation for Load Balancing in Digital Twin Empowered LEO Satellite Networks",
+      "doi": "10.1109/TWC.2025.3545745",
+      "kind": "academic",
+      "publication": "IEEE Transactions on Wireless Communications, 2025, 24(6): 5084–5098",
+      "reading_level": "author_manuscript_targeted",
+      "read_version_or_source": "arXiv:2411.08896v1；13页；提交史实际标为2024-10-29",
+      "body_locators": [
+        "作者稿§III–IV；表II；Round1 p10",
+        "作者稿比较策略定义及负载结果；Round1 pp9–11",
+        "arXiv v1 Submission history"
+      ],
+      "checked_claims": [
+        "12星×4波束、168小区；需求、队列、关联与功率条件",
+        "FPA/DPA为整体配置比较，8–20 Gbit/s相近、高负载DPA较高；非纯功率消融"
+      ],
+      "caution": "FPA/DPA整体策略，不是纯功率因果消融；IEEE正式版待核",
+      "manuscript_locations_zh": [
+        "1.3 范围与证据使用 p13b L43-43",
+        "3.3.1 需求估计与波束、功率配置 p331c L152-152",
+        "3.3.1 需求估计与波束、功率配置 p331d L154-154",
+        "3.3.4 分层资源管理与控制职责 t4 L174-186",
+        "4.2 联合范围由服务瓶颈而非模块数量决定 p42b L256-256",
+        "4.2 联合范围由服务瓶颈而非模块数量决定 p42c L258-258",
+        "4.5 面向持续服务的研究问题 p45b L291-291"
+      ],
+      "manuscript_locations_en": [
+        "1.3 Scope and use of evidence p13b L39-39",
+        "3.3.1 Demand estimation and beam–power allocation p331c L148-148",
+        "3.3.1 Demand estimation and beam–power allocation p331d L150-150",
+        "3.3.4 Hierarchical resource management and control responsibilities t4 L170-182",
+        "4.2 Service bottlenecks, not module count, determine coupling scope p42b L252-252",
+        "4.2 Service bottlenecks, not module count, determine coupling scope p42c L254-254",
+        "4.5 Research questions for sustained service p45b L287-287"
+      ],
+      "citation_block_count_zh": 7,
+      "v16_status": "本轮定向核读指定公开作者稿；正式版模型和结果一致性仍待核；作者终核待完成",
+      "v17_status": "author_version_only",
+      "v17_claim_ids": [
+        "R2-76-01",
+        "R2-76-02",
+        "R2-76-03",
+        "R2-76-04"
+      ],
+      "source_url": "https://doi.org/10.1109/TWC.2025.3545745",
+      "next_action": "出版正式版逐命题对照",
+      "formal_version_parity_verified": false,
+      "human_verified": false,
+      "author_final_verification": "pending",
+      "submission_ready": false
+    },
+    {
+      "reference_number": 77,
+      "title": "Routing cost-integrated intelligent handover strategy for multi-layer LEO mega-constellation networks",
+      "doi": "10.1016/j.cja.2024.09.039",
+      "kind": "academic",
+      "publication": "Chinese Journal of Aeronautics, 2025, 38(6): 103263",
+      "reading_level": "full_text_unavailable",
+      "read_version_or_source": "SCIopen/出版方摘要及元数据；全文未取得",
+      "body_locators": [
+        "SCIopen/出版方摘要；38(6):103263",
+        "正式正文未取得"
+      ],
+      "checked_claims": [],
+      "caution": "仅摘要，单层学习与跨层抖动成本细节待核",
+      "manuscript_locations_zh": [
+        "1.3 范围与证据使用 p13b L43-43",
+        "3.3.2 接入切换与连接保持期间的服务变化 p332a L158-158",
+        "3.3.4 分层资源管理与控制职责 t4 L174-186"
+      ],
+      "manuscript_locations_en": [
+        "1.3 Scope and use of evidence p13b L39-39",
+        "3.3.2 Handover and service changes while retaining access p332a L154-154",
+        "3.3.4 Hierarchical resource management and control responsibilities t4 L170-182"
+      ],
+      "citation_block_count_zh": 3,
+      "v16_status": "本轮未取得可核读全文；继承摘要或早期提取描述，具体方法与实验论断仍待正文核验",
+      "v17_status": "no_full_text",
+      "v17_claim_ids": [
+        "R2-77-01",
+        "R2-77-02"
+      ],
+      "source_url": "https://doi.org/10.1016/j.cja.2024.09.039",
+      "next_action": "优先获取可读正文与具体方法/图表/基线",
+      "formal_version_parity_verified": false,
+      "human_verified": false,
+      "author_final_verification": "pending",
+      "submission_ready": false
+    },
+    {
+      "reference_number": 78,
+      "title": "A Multifaceted Look at Starlink Performance",
+      "doi": "10.1145/3589334.3645328",
+      "kind": "academic",
+      "publication": "Proceedings of the ACM Web Conference 2024: 2723–2734",
+      "reading_level": "formal_targeted",
+      "read_version_or_source": "正式WWW 2024排版PDF；Round1记录",
+      "body_locators": [
+        "正式WWW 2024 PDF §3.1/3.3及§6.2，pp7–8图16；Round1"
+      ],
+      "checked_claims": [
+        "15秒边界波动在单候选卫星窗口仍出现；内部调度只是作者解释"
+      ],
+      "caution": "单候选卫星窗口波动不等于直接读出内部调度算法",
+      "manuscript_locations_zh": [
+        "3.3.2 接入切换与连接保持期间的服务变化 p332b L160-160",
+        "3.3.4 分层资源管理与控制职责 t4 L174-186",
+        "4.4 运行资料补充的是状态与动作证据 p44a L270-270",
+        "4.4 运行资料补充的是状态与动作证据 t7 L272-283"
+      ],
+      "manuscript_locations_en": [
+        "3.3.2 Handover and service changes while retaining access p332b L156-156",
+        "3.3.4 Hierarchical resource management and control responsibilities t4 L170-182",
+        "4.4 Operational sources contribute evidence of states and actions p44a L266-266",
+        "4.4 Operational sources contribute evidence of states and actions t7 L268-279"
+      ],
+      "citation_block_count_zh": 4,
+      "v16_status": "本轮定向核读正式全文；具体支持范围见逐主张记录；作者终核待完成",
+      "v17_status": "formal_body_targeted",
+      "v17_claim_ids": [
+        "R2-78-01"
+      ],
+      "source_url": "https://doi.org/10.1145/3589334.3645328",
+      "next_action": "作者终核原文命题及正文表格",
+      "formal_version_parity_verified": false,
+      "human_verified": false,
+      "author_final_verification": "pending",
+      "submission_ready": false
+    },
+    {
+      "reference_number": 79,
+      "title": "Scalable routing in low-Earth orbit satellite constellations: Architecture and algorithms",
+      "doi": "10.1016/j.comcom.2022.02.015",
+      "kind": "academic",
+      "publication": "Computer Communications, 2022, 188: 26–38",
+      "reading_level": "full_text_unavailable",
+      "read_version_or_source": "出版方摘要与HKU条目；全文未取得",
+      "body_locators": [
+        "出版方摘要；HKU handle 10722/339786",
+        "正文未取得"
+      ],
+      "checked_claims": [],
+      "caution": "DBR/DAR方法及稳定收益的全文依据缺失",
+      "manuscript_locations_zh": [
+        "1.3 范围与证据使用 p13b L43-43",
+        "3.3.3 路由、流量工程与更新成本 p333a L164-164",
+        "3.3.4 分层资源管理与控制职责 t4 L174-186",
+        "4.1 可扩展性来自何处，又付出了什么代价 p41b L248-248"
+      ],
+      "manuscript_locations_en": [
+        "1.3 Scope and use of evidence p13b L39-39",
+        "3.3.3 Routing, traffic engineering, and update costs p333a L160-160",
+        "3.3.4 Hierarchical resource management and control responsibilities t4 L170-182",
+        "4.1 Sources and costs of scalability p41b L244-244"
+      ],
+      "citation_block_count_zh": 4,
+      "v16_status": "本轮未取得可核读全文；继承摘要或早期提取描述，具体方法与实验论断仍待正文核验",
+      "v17_status": "no_full_text",
+      "v17_claim_ids": [
+        "R2-79-01",
+        "R2-79-02"
+      ],
+      "source_url": "https://doi.org/10.1016/j.comcom.2022.02.015",
+      "next_action": "优先获取可读正文与具体方法/图表/基线",
+      "formal_version_parity_verified": false,
+      "human_verified": false,
+      "author_final_verification": "pending",
+      "submission_ready": false
+    },
+    {
+      "reference_number": 80,
+      "title": "Segment routing for traffic engineering and effective recovery in low-earth orbit satellite constellations",
+      "doi": "10.1016/j.dcan.2022.09.022",
+      "kind": "academic",
+      "publication": "Digital Communications and Networks, 2024, 10(3): 706–715",
+      "reading_level": "full_text_unavailable",
+      "read_version_or_source": "出版方摘要；HKU条目无附件；全文未取得",
+      "body_locators": [
+        "出版方摘要；10(3):706–715；HKU handle 10722/339783无文件",
+        "全文未取得"
+      ],
+      "checked_claims": [],
+      "caution": "分段流量工程不可写成物理容量分配已证",
+      "manuscript_locations_zh": [
+        "1.3 范围与证据使用 p13b L43-43",
+        "3.3.3 路由、流量工程与更新成本 p333a L164-164",
+        "3.3.4 分层资源管理与控制职责 t4 L174-186",
+        "4.2 联合范围由服务瓶颈而非模块数量决定 p42b L256-256"
+      ],
+      "manuscript_locations_en": [
+        "1.3 Scope and use of evidence p13b L39-39",
+        "3.3.3 Routing, traffic engineering, and update costs p333a L160-160",
+        "3.3.4 Hierarchical resource management and control responsibilities t4 L170-182",
+        "4.2 Service bottlenecks, not module count, determine coupling scope p42b L252-252"
+      ],
+      "citation_block_count_zh": 4,
+      "v16_status": "本轮未取得可核读全文；继承摘要或早期提取描述，具体方法与实验论断仍待正文核验",
+      "v17_status": "no_full_text",
+      "v17_claim_ids": [
+        "R2-80-01",
+        "R2-80-02"
+      ],
+      "source_url": "https://doi.org/10.1016/j.dcan.2022.09.022",
+      "next_action": "优先获取可读正文与具体方法/图表/基线",
+      "formal_version_parity_verified": false,
+      "human_verified": false,
+      "author_final_verification": "pending",
+      "submission_ready": false
+    },
+    {
+      "reference_number": 81,
+      "title": "Hierarchical Resource Management for Mega-LEO Satellite Constellation",
+      "doi": "10.3390/s25030902",
+      "kind": "academic",
+      "publication": "Sensors, 2025, 25(3): 902",
+      "reading_level": "formal_targeted",
+      "read_version_or_source": "正式PMC归档XML，PMC11820243；Round1记录",
+      "body_locators": [
+        "正式PMC XML §4、§6.2式1–8；Round1",
+        "正式PMC XML §7.2图10–13；§8.2信息成本；Round1"
+      ],
+      "checked_claims": [
+        "NCC/空间基站/终端职责与需求价格交换",
+        "分项组件及负载比较，不叠加成完整架构统一增益"
+      ],
+      "caution": "正式PMC图号不同于预印本，组件增益不可相加",
+      "manuscript_locations_zh": [
+        "3.3.4 分层资源管理与控制职责 p334a L172-172",
+        "3.3.4 分层资源管理与控制职责 t4 L174-186",
+        "3.5 多问题耦合与综合运行管理 p35d L221-221",
+        "4.3 信息内容、时效与学习职责共同限制在线决策 p43a L262-262",
+        "4.5 面向持续服务的研究问题 p45c L293-293"
+      ],
+      "manuscript_locations_en": [
+        "3.3.4 Hierarchical resource management and control responsibilities p334a L168-168",
+        "3.3.4 Hierarchical resource management and control responsibilities t4 L170-182",
+        "3.5 Coupled problems and integrated operations p35d L217-217",
+        "4.3 Information content, freshness, and learning roles constrain online decisions p43a L258-258",
+        "4.5 Research questions for sustained service p45c L289-289"
+      ],
+      "citation_block_count_zh": 5,
+      "v16_status": "本轮定向核读正式全文；具体支持范围见逐主张记录；作者终核待完成",
+      "v17_status": "formal_body_targeted",
+      "v17_claim_ids": [
+        "R2-81-01",
+        "R2-81-02"
+      ],
+      "source_url": "https://doi.org/10.3390/s25030902",
+      "next_action": "作者终核原文命题及正文表格",
+      "formal_version_parity_verified": false,
+      "human_verified": false,
+      "author_final_verification": "pending",
+      "submission_ready": false
+    },
+    {
+      "reference_number": 82,
+      "title": "Satellite closest approach calculation through Chebyshev Proxy Polynomials",
+      "doi": "10.1016/j.actaastro.2020.01.020",
+      "kind": "academic",
+      "publication": "Acta Astronautica, 2020, 170: 55–65",
+      "reading_level": "inherited_not_confirmed",
+      "read_version_or_source": "完整历史核读状态保留于冻结父记录；本轮未重新核定，不能视为未曾读过或已全文核验",
+      "body_locators": [],
+      "checked_claims": [],
+      "caution": "按原稿证据范围使用，未作本轮整篇内容核验",
+      "manuscript_locations_zh": [
+        "3.4 安全执行、异常恢复与服务韧性 p34a L190-190",
+        "3.4 安全执行、异常恢复与服务韧性 t5 L202-211"
+      ],
+      "manuscript_locations_en": [
+        "3.4 Safe execution, anomaly recovery, and service resilience p34a L186-186",
+        "3.4 Safe execution, anomaly recovery, and service resilience t5 L198-207"
+      ],
+      "citation_block_count_zh": 2,
+      "v16_status": "沿用前轮提取；待完整全文核查",
+      "v17_status": "unchanged_parent_grade",
+      "v17_claim_ids": [],
+      "source_url": "https://www.sciencedirect.com/science/article/pii/S009457652030031X",
+      "next_action": "按正文依赖补核关键命题",
+      "formal_version_parity_verified": false,
+      "human_verified": false,
+      "author_final_verification": "pending",
+      "submission_ready": false
+    },
+    {
+      "reference_number": 83,
+      "title": "Risk-aware sensor scheduling and tracking of large constellations",
+      "doi": "10.1016/j.asr.2021.04.042",
+      "kind": "academic",
+      "publication": "Advances in Space Research, 2021, 68(6): 2530–2550",
+      "reading_level": "inherited_not_confirmed",
+      "read_version_or_source": "完整历史核读状态保留于冻结父记录；本轮未重新核定，不能视为未曾读过或已全文核验",
+      "body_locators": [],
+      "checked_claims": [],
+      "caution": "按原稿证据范围使用，未作本轮整篇内容核验",
+      "manuscript_locations_zh": [
+        "3.4 安全执行、异常恢复与服务韧性 p34a L190-190",
+        "3.4 安全执行、异常恢复与服务韧性 t5 L202-211"
+      ],
+      "manuscript_locations_en": [
+        "3.4 Safe execution, anomaly recovery, and service resilience p34a L186-186",
+        "3.4 Safe execution, anomaly recovery, and service resilience t5 L198-207"
+      ],
+      "citation_block_count_zh": 2,
+      "v16_status": "沿用前轮提取；待完整全文核查",
+      "v17_status": "unchanged_parent_grade",
+      "v17_claim_ids": [],
+      "source_url": "https://www.sciencedirect.com/science/article/pii/S0273117721003410",
+      "next_action": "按正文依赖补核关键命题",
+      "formal_version_parity_verified": false,
+      "human_verified": false,
+      "author_final_verification": "pending",
+      "submission_ready": false
+    },
+    {
+      "reference_number": 84,
+      "title": "Performance Investigation of the Conjunction Filter Methods and Enhancement of Computation Speed on Conjunction Assessment Analysis with CUDA Techniques",
+      "doi": "10.3390/aerospace10060543",
+      "kind": "academic",
+      "publication": "Aerospace, 2023, 10(6): 543",
+      "reading_level": "inherited_not_confirmed",
+      "read_version_or_source": "完整历史核读状态保留于冻结父记录；本轮未重新核定，不能视为未曾读过或已全文核验",
+      "body_locators": [],
+      "checked_claims": [],
+      "caution": "按原稿证据范围使用，未作本轮整篇内容核验",
+      "manuscript_locations_zh": [
+        "3.4 安全执行、异常恢复与服务韧性 p34a L190-190",
+        "3.4 安全执行、异常恢复与服务韧性 t5 L202-211"
+      ],
+      "manuscript_locations_en": [
+        "3.4 Safe execution, anomaly recovery, and service resilience p34a L186-186",
+        "3.4 Safe execution, anomaly recovery, and service resilience t5 L198-207"
+      ],
+      "citation_block_count_zh": 2,
+      "v16_status": "沿用前轮提取；待完整全文核查",
+      "v17_status": "unchanged_parent_grade",
+      "v17_claim_ids": [],
+      "source_url": "https://www.mdpi.com/2226-4310/10/6/543",
+      "next_action": "按正文依赖补核关键命题",
+      "formal_version_parity_verified": false,
+      "human_verified": false,
+      "author_final_verification": "pending",
+      "submission_ready": false
+    },
+    {
+      "reference_number": 85,
+      "title": "Simulation of satellites and constellations for the assessment of collision avoidance operations",
+      "doi": "10.1007/s12567-022-00471-y",
+      "kind": "academic",
+      "publication": "CEAS Space Journal, 2023, 15(5): 655–670",
+      "reading_level": "inherited_not_confirmed",
+      "read_version_or_source": "完整历史核读状态保留于冻结父记录；本轮未重新核定，不能视为未曾读过或已全文核验",
+      "body_locators": [],
+      "checked_claims": [],
+      "caution": "按原稿证据范围使用，未作本轮整篇内容核验",
+      "manuscript_locations_zh": [
+        "3.4 安全执行、异常恢复与服务韧性 p34b L192-192"
+      ],
+      "manuscript_locations_en": [
+        "3.4 Safe execution, anomaly recovery, and service resilience p34b L188-188"
+      ],
+      "citation_block_count_zh": 1,
+      "v16_status": "沿用前轮提取；待完整全文核查",
+      "v17_status": "unchanged_parent_grade",
+      "v17_claim_ids": [],
+      "source_url": "https://link.springer.com/article/10.1007/s12567-022-00471-y",
+      "next_action": "按正文依赖补核关键命题",
+      "formal_version_parity_verified": false,
+      "human_verified": false,
+      "author_final_verification": "pending",
+      "submission_ready": false
+    },
+    {
+      "reference_number": 86,
+      "title": "CAMmary: A review of spacecraft collision avoidance manoeuvre design methods",
+      "doi": "10.1016/j.actaastro.2025.07.027",
+      "kind": "academic",
+      "publication": "Acta Astronautica, 2025, 236: 770–789",
+      "reading_level": "inherited_not_confirmed",
+      "read_version_or_source": "完整历史核读状态保留于冻结父记录；本轮未重新核定，不能视为未曾读过或已全文核验",
+      "body_locators": [],
+      "checked_claims": [],
+      "caution": "按原稿证据范围使用，未作本轮整篇内容核验",
+      "manuscript_locations_zh": [
+        "3.4 安全执行、异常恢复与服务韧性 p34b L192-192"
+      ],
+      "manuscript_locations_en": [
+        "3.4 Safe execution, anomaly recovery, and service resilience p34b L188-188"
+      ],
+      "citation_block_count_zh": 1,
+      "v16_status": "沿用前轮提取；待完整全文核查",
+      "v17_status": "unchanged_parent_grade",
+      "v17_claim_ids": [],
+      "source_url": "https://re.public.polimi.it/bitstream/11311/1294611/1/PAVAZ02-25.pdf",
+      "next_action": "按正文依赖补核关键命题",
+      "formal_version_parity_verified": false,
+      "human_verified": false,
+      "author_final_verification": "pending",
+      "submission_ready": false
+    },
+    {
+      "reference_number": 87,
+      "title": "Spacecraft collision avoidance challenge: Design and results of a machine learning competition",
+      "doi": "10.1007/s42064-021-0101-5",
+      "kind": "academic",
+      "publication": "Astrodynamics, 2021, 6(2): 121–140",
+      "reading_level": "inherited_not_confirmed",
+      "read_version_or_source": "完整历史核读状态保留于冻结父记录；本轮未重新核定，不能视为未曾读过或已全文核验",
+      "body_locators": [
+        "publisher abstract and registered abstract"
+      ],
+      "checked_claims": [],
+      "caution": "按原稿证据范围使用，未作本轮整篇内容核验",
+      "manuscript_locations_zh": [
+        "3.4 安全执行、异常恢复与服务韧性 p34b L192-192",
+        "3.4 安全执行、异常恢复与服务韧性 t5 L202-211"
+      ],
+      "manuscript_locations_en": [
+        "3.4 Safe execution, anomaly recovery, and service resilience p34b L188-188",
+        "3.4 Safe execution, anomaly recovery, and service resilience t5 L198-207"
+      ],
+      "citation_block_count_zh": 2,
+      "v16_status": "沿用前轮提取；待完整全文核查",
+      "v17_status": "unchanged_parent_grade",
+      "v17_claim_ids": [],
+      "source_url": "https://link.springer.com/article/10.1007/s42064-021-0101-5",
+      "next_action": "按正文依赖补核关键命题",
+      "formal_version_parity_verified": false,
+      "human_verified": false,
+      "author_final_verification": "pending",
+      "submission_ready": false
+    },
+    {
+      "reference_number": 88,
+      "title": "Conjunction Data Message",
+      "doi": null,
+      "kind": "engineering",
+      "publication": "CCSDS 508.0-B-1, June 2013; Technical Corrigendum 2, October 2021; accessed 10 October 2026 (inherited access date)",
+      "reading_level": "official_operational_material",
+      "read_version_or_source": "完整历史核读状态保留于冻结父记录；本轮未重新核定，不能视为未曾读过或已全文核验",
+      "body_locators": [
+        "Official Blue Book entry: document number, description and current-version statement"
+      ],
+      "checked_claims": [],
+      "caution": "按原稿证据范围使用，未作本轮整篇内容核验",
+      "manuscript_locations_zh": [
+        "3.4 安全执行、异常恢复与服务韧性 p34b L192-192",
+        "4.4 运行资料补充的是状态与动作证据 t7 L272-283"
+      ],
+      "manuscript_locations_en": [
+        "3.4 Safe execution, anomaly recovery, and service resilience p34b L188-188",
+        "4.4 Operational sources contribute evidence of states and actions t7 L268-279"
+      ],
+      "citation_block_count_zh": 2,
+      "v16_status": "Inherited official-source review; no fresh operational-performance claim",
+      "v17_status": "unchanged_parent_grade",
+      "v17_claim_ids": [],
+      "source_url": "https://ccsds.org/publications/bluebooks/entry/3064/",
+      "next_action": "根据需要核官方版本/访问日期",
+      "formal_version_parity_verified": false,
+      "human_verified": false,
+      "author_final_verification": "pending",
+      "submission_ready": false
+    },
+    {
+      "reference_number": 89,
+      "title": "Starlink Collision Avoidance CONOPS",
+      "doi": null,
+      "kind": "engineering",
+      "publication": "Official operational documentation; accessed 10 October 2026 (inherited access date)",
+      "reading_level": "official_operational_material",
+      "read_version_or_source": "完整历史核读状态保留于冻结父记录；本轮未重新核定，不能视为未曾读过或已全文核验",
+      "body_locators": [],
+      "checked_claims": [],
+      "caution": "按原稿证据范围使用，未作本轮整篇内容核验",
+      "manuscript_locations_zh": [
+        "3.4 安全执行、异常恢复与服务韧性 p34b L192-192",
+        "4.4 运行资料补充的是状态与动作证据 p44a L270-270",
+        "4.4 运行资料补充的是状态与动作证据 t7 L272-283"
+      ],
+      "manuscript_locations_en": [
+        "3.4 Safe execution, anomaly recovery, and service resilience p34b L188-188",
+        "4.4 Operational sources contribute evidence of states and actions p44a L266-266",
+        "4.4 Operational sources contribute evidence of states and actions t7 L268-279"
+      ],
+      "citation_block_count_zh": 3,
+      "v16_status": "Inherited official-source review; no fresh operational-performance claim",
+      "v17_status": "unchanged_parent_grade",
+      "v17_claim_ids": [],
+      "source_url": "https://space-safety.starlink.com/docs/space-safety-articles/starlink_cola_conops/",
+      "next_action": "根据需要核官方版本/访问日期",
+      "formal_version_parity_verified": false,
+      "human_verified": false,
+      "author_final_verification": "pending",
+      "submission_ready": false
+    },
+    {
+      "reference_number": 90,
+      "title": "Safe Trajectories for Autonomous Rendezvous of Spacecraft",
+      "doi": "10.2514/1.29590",
+      "kind": "academic",
+      "publication": "Journal of Guidance, Control, and Dynamics, 2008, 31(5): 1478–1489",
+      "reading_level": "inherited_not_confirmed",
+      "read_version_or_source": "完整历史核读状态保留于冻结父记录；本轮未重新核定，不能视为未曾读过或已全文核验",
+      "body_locators": [],
+      "checked_claims": [],
+      "caution": "按原稿证据范围使用，未作本轮整篇内容核验",
+      "manuscript_locations_zh": [
+        "3.4 安全执行、异常恢复与服务韧性 p34c L194-194",
+        "3.4 安全执行、异常恢复与服务韧性 t5 L202-211"
+      ],
+      "manuscript_locations_en": [
+        "3.4 Safe execution, anomaly recovery, and service resilience p34c L190-190",
+        "3.4 Safe execution, anomaly recovery, and service resilience t5 L198-207"
+      ],
+      "citation_block_count_zh": 2,
+      "v16_status": "沿用前轮提取；待完整全文核查",
+      "v17_status": "unchanged_parent_grade",
+      "v17_claim_ids": [],
+      "source_url": "https://doi.org/10.2514/1.29590",
+      "next_action": "按正文依赖补核关键命题",
+      "formal_version_parity_verified": false,
+      "human_verified": false,
+      "author_final_verification": "pending",
+      "submission_ready": false
+    },
+    {
+      "reference_number": 91,
+      "title": "Autonomous Trajectory Planning for Rendezvous and Proximity Operations by Conic Optimization",
+      "doi": "10.2514/1.58436",
+      "kind": "academic",
+      "publication": "Journal of Guidance, Control, and Dynamics, 2013, 36(2): 375–389",
+      "reading_level": "inherited_not_confirmed",
+      "read_version_or_source": "完整历史核读状态保留于冻结父记录；本轮未重新核定，不能视为未曾读过或已全文核验",
+      "body_locators": [],
+      "checked_claims": [],
+      "caution": "按原稿证据范围使用，未作本轮整篇内容核验",
+      "manuscript_locations_zh": [
+        "3.4 安全执行、异常恢复与服务韧性 p34c L194-194",
+        "3.4 安全执行、异常恢复与服务韧性 t5 L202-211"
+      ],
+      "manuscript_locations_en": [
+        "3.4 Safe execution, anomaly recovery, and service resilience p34c L190-190",
+        "3.4 Safe execution, anomaly recovery, and service resilience t5 L198-207"
+      ],
+      "citation_block_count_zh": 2,
+      "v16_status": "沿用前轮提取；待完整全文核查",
+      "v17_status": "unchanged_parent_grade",
+      "v17_claim_ids": [],
+      "source_url": "https://www.researchgate.net/publication/268557803_Autonomous_Trajectory_Planning_for_Rendezvous_and_Proximity_Operations_by_Conic_Optimization",
+      "next_action": "按正文依赖补核关键命题",
+      "formal_version_parity_verified": false,
+      "human_verified": false,
+      "author_final_verification": "pending",
+      "submission_ready": false
+    },
+    {
+      "reference_number": 92,
+      "title": "Model Predictive Control of Swarms of Spacecraft Using Sequential Convex Programming",
+      "doi": "10.2514/1.G000218",
+      "kind": "academic",
+      "publication": "Journal of Guidance, Control, and Dynamics, 2014, 37(6): 1725–1740",
+      "reading_level": "inherited_not_confirmed",
+      "read_version_or_source": "完整历史核读状态保留于冻结父记录；本轮未重新核定，不能视为未曾读过或已全文核验",
+      "body_locators": [
+        "author institutional abstract"
+      ],
+      "checked_claims": [],
+      "caution": "按原稿证据范围使用，未作本轮整篇内容核验",
+      "manuscript_locations_zh": [
+        "3.4 安全执行、异常恢复与服务韧性 p34c L194-194",
+        "3.4 安全执行、异常恢复与服务韧性 t5 L202-211",
+        "4.3 信息内容、时效与学习职责共同限制在线决策 p43c L266-266"
+      ],
+      "manuscript_locations_en": [
+        "3.4 Safe execution, anomaly recovery, and service resilience p34c L190-190",
+        "3.4 Safe execution, anomaly recovery, and service resilience t5 L198-207",
+        "4.3 Information content, freshness, and learning roles constrain online decisions p43c L262-262"
+      ],
+      "citation_block_count_zh": 3,
+      "v16_status": "沿用前轮提取；待完整全文核查",
+      "v17_status": "unchanged_parent_grade",
+      "v17_claim_ids": [],
+      "source_url": "https://authors.library.caltech.edu/records/mvhns-j8a04",
+      "next_action": "按正文依赖补核关键命题",
+      "formal_version_parity_verified": false,
+      "human_verified": false,
+      "author_final_verification": "pending",
+      "submission_ready": false
+    },
+    {
+      "reference_number": 93,
+      "title": "Chance-constrained model predictive control for spacecraft rendezvous with disturbance estimation",
+      "doi": "10.1016/j.conengprac.2011.09.006",
+      "kind": "academic",
+      "publication": "Control Engineering Practice, 2012, 20(2): 111–122",
+      "reading_level": "inherited_not_confirmed",
+      "read_version_or_source": "完整历史核读状态保留于冻结父记录；本轮未重新核定，不能视为未曾读过或已全文核验",
+      "body_locators": [],
+      "checked_claims": [],
+      "caution": "按原稿证据范围使用，未作本轮整篇内容核验",
+      "manuscript_locations_zh": [
+        "3.4 安全执行、异常恢复与服务韧性 p34c L194-194",
+        "3.4 安全执行、异常恢复与服务韧性 t5 L202-211"
+      ],
+      "manuscript_locations_en": [
+        "3.4 Safe execution, anomaly recovery, and service resilience p34c L190-190",
+        "3.4 Safe execution, anomaly recovery, and service resilience t5 L198-207"
+      ],
+      "citation_block_count_zh": 2,
+      "v16_status": "沿用前轮提取；待完整全文核查",
+      "v17_status": "unchanged_parent_grade",
+      "v17_claim_ids": [],
+      "source_url": "https://www.sciencedirect.com/science/article/pii/S0967066111001985",
+      "next_action": "按正文依赖补核关键命题",
+      "formal_version_parity_verified": false,
+      "human_verified": false,
+      "author_final_verification": "pending",
+      "submission_ready": false
+    },
+    {
+      "reference_number": 94,
+      "title": "Chance-constrained visual servoing MPC for non-cooperative spacecraft rendezvous",
+      "doi": "10.1016/j.ast.2025.111237",
+      "kind": "academic",
+      "publication": "Aerospace Science and Technology, 2026, 169: 111237",
+      "reading_level": "inherited_not_confirmed",
+      "read_version_or_source": "完整历史核读状态保留于冻结父记录；本轮未重新核定，不能视为未曾读过或已全文核验",
+      "body_locators": [],
+      "checked_claims": [],
+      "caution": "按原稿证据范围使用，未作本轮整篇内容核验",
+      "manuscript_locations_zh": [
+        "3.4 安全执行、异常恢复与服务韧性 p34c L194-194",
+        "3.4 安全执行、异常恢复与服务韧性 t5 L202-211"
+      ],
+      "manuscript_locations_en": [
+        "3.4 Safe execution, anomaly recovery, and service resilience p34c L190-190",
+        "3.4 Safe execution, anomaly recovery, and service resilience t5 L198-207"
+      ],
+      "citation_block_count_zh": 2,
+      "v16_status": "沿用前轮提取；待完整全文核查",
+      "v17_status": "unchanged_parent_grade",
+      "v17_claim_ids": [],
+      "source_url": "https://www.sciencedirect.com/science/article/pii/S1270963825013008",
+      "next_action": "按正文依赖补核关键命题",
+      "formal_version_parity_verified": false,
+      "human_verified": false,
+      "author_final_verification": "pending",
+      "submission_ready": false
+    },
+    {
+      "reference_number": 95,
+      "title": "Continuous-Time Successive Convexification for Passively-Safe Spacecraft Rendezvous on a Near Rectilinear Halo Orbit",
+      "doi": "10.2514/6.2026-2446",
+      "kind": "academic",
+      "publication": "AIAA SCITECH 2026 Forum, 2026",
+      "reading_level": "inherited_not_confirmed",
+      "read_version_or_source": "完整历史核读状态保留于冻结父记录；本轮未重新核定，不能视为未曾读过或已全文核验",
+      "body_locators": [],
+      "checked_claims": [],
+      "caution": "按原稿证据范围使用，未作本轮整篇内容核验",
+      "manuscript_locations_zh": [
+        "3.4 安全执行、异常恢复与服务韧性 p34c L194-194",
+        "3.4 安全执行、异常恢复与服务韧性 t5 L202-211"
+      ],
+      "manuscript_locations_en": [
+        "3.4 Safe execution, anomaly recovery, and service resilience p34c L190-190",
+        "3.4 Safe execution, anomaly recovery, and service resilience t5 L198-207"
+      ],
+      "citation_block_count_zh": 2,
+      "v16_status": "沿用前轮提取；待完整全文核查",
+      "v17_status": "unchanged_parent_grade",
+      "v17_claim_ids": [],
+      "source_url": "https://www.merl.com/publications/TR2026-016",
+      "next_action": "按正文依赖补核关键命题",
+      "formal_version_parity_verified": false,
+      "human_verified": false,
+      "author_final_verification": "pending",
+      "submission_ready": false
+    },
+    {
+      "reference_number": 96,
+      "title": "Two Approaches to Autonomous Spacecraft Inspection: Shielded Reinforcement Learning versus Probabilistic Roadmaps",
+      "doi": "10.1007/s40295-026-00631-w",
+      "kind": "academic",
+      "publication": "The Journal of the Astronautical Sciences, 2026, 73(5): 89",
+      "reading_level": "inherited_not_confirmed",
+      "read_version_or_source": "完整历史核读状态保留于冻结父记录；本轮未重新核定，不能视为未曾读过或已全文核验",
+      "body_locators": [],
+      "checked_claims": [],
+      "caution": "按原稿证据范围使用，未作本轮整篇内容核验",
+      "manuscript_locations_zh": [
+        "3.4 安全执行、异常恢复与服务韧性 p34d L196-196",
+        "3.4 安全执行、异常恢复与服务韧性 t5 L202-211",
+        "4.3 信息内容、时效与学习职责共同限制在线决策 p43b L264-264",
+        "4.5 面向持续服务的研究问题 p45d L295-295"
+      ],
+      "manuscript_locations_en": [
+        "3.4 Safe execution, anomaly recovery, and service resilience p34d L192-192",
+        "3.4 Safe execution, anomaly recovery, and service resilience t5 L198-207",
+        "4.3 Information content, freshness, and learning roles constrain online decisions p43b L260-260",
+        "4.5 Research questions for sustained service p45d L291-291"
+      ],
+      "citation_block_count_zh": 4,
+      "v16_status": "沿用前轮提取；待完整全文核查",
+      "v17_status": "unchanged_parent_grade",
+      "v17_claim_ids": [],
+      "source_url": "https://link.springer.com/article/10.1007/s40295-026-00631-w",
+      "next_action": "按正文依赖补核关键命题",
+      "formal_version_parity_verified": false,
+      "human_verified": false,
+      "author_final_verification": "pending",
+      "submission_ready": false
+    },
+    {
+      "reference_number": 97,
+      "title": "Astroscale’s ADRAS-J Achieves Historic 15-Meter Approach to Space Debris",
+      "doi": null,
+      "kind": "engineering",
+      "publication": "Official mission release; accessed 10 October 2026 (inherited access date)",
+      "reading_level": "official_operational_material",
+      "read_version_or_source": "完整历史核读状态保留于冻结父记录；本轮未重新核定，不能视为未曾读过或已全文核验",
+      "body_locators": [],
+      "checked_claims": [],
+      "caution": "按原稿证据范围使用，未作本轮整篇内容核验",
+      "manuscript_locations_zh": [
+        "3.4 安全执行、异常恢复与服务韧性 p34d L196-196",
+        "4.4 运行资料补充的是状态与动作证据 p44a L270-270",
+        "4.4 运行资料补充的是状态与动作证据 t7 L272-283"
+      ],
+      "manuscript_locations_en": [
+        "3.4 Safe execution, anomaly recovery, and service resilience p34d L192-192",
+        "4.4 Operational sources contribute evidence of states and actions p44a L266-266",
+        "4.4 Operational sources contribute evidence of states and actions t7 L268-279"
+      ],
+      "citation_block_count_zh": 3,
+      "v16_status": "Inherited official-source review; no fresh operational-performance claim",
+      "v17_status": "unchanged_parent_grade",
+      "v17_claim_ids": [],
+      "source_url": "https://www.astroscale.com/en/news/astroscales-adras-j-achieves-historic-15-meter-approach-to-space-debris",
+      "next_action": "根据需要核官方版本/访问日期",
+      "formal_version_parity_verified": false,
+      "human_verified": false,
+      "author_final_verification": "pending",
+      "submission_ready": false
+    },
+    {
+      "reference_number": 98,
+      "title": "Detecting Spacecraft Anomalies Using LSTMs and Nonparametric Dynamic Thresholding",
+      "doi": "10.1145/3219819.3219845",
+      "kind": "academic",
+      "publication": "Proceedings of ACM SIGKDD, 2018: 387–395",
+      "reading_level": "partial_body_checked",
+      "read_version_or_source": "完整历史核读状态保留于冻结父记录；本轮未重新核定，不能视为未曾读过或已全文核验",
+      "body_locators": [],
+      "checked_claims": [
+        "arXiv方法局部核读；尚未完整实验对照"
+      ],
+      "caution": "按原稿证据范围使用，未作本轮整篇内容核验",
+      "manuscript_locations_zh": [
+        "3.4 安全执行、异常恢复与服务韧性 p34e L198-198"
+      ],
+      "manuscript_locations_en": [
+        "3.4 Safe execution, anomaly recovery, and service resilience p34e L194-194"
+      ],
+      "citation_block_count_zh": 1,
+      "v16_status": "本轮已核原文局部；完整精读待完成",
+      "v17_status": "unchanged_parent_grade",
+      "v17_claim_ids": [],
+      "source_url": "https://arxiv.org/html/1802.04431v3",
+      "next_action": "扩大至方法、实验、限制章节",
+      "formal_version_parity_verified": false,
+      "human_verified": false,
+      "author_final_verification": "pending",
+      "submission_ready": false
+    },
+    {
+      "reference_number": 99,
+      "title": "Imbalanced satellite telemetry data anomaly detection model based on Bayesian LSTM",
+      "doi": "10.1016/j.actaastro.2020.12.012",
+      "kind": "academic",
+      "publication": "Acta Astronautica, 2021, 180: 232–242",
+      "reading_level": "inherited_not_confirmed",
+      "read_version_or_source": "完整历史核读状态保留于冻结父记录；本轮未重新核定，不能视为未曾读过或已全文核验",
+      "body_locators": [],
+      "checked_claims": [],
+      "caution": "按原稿证据范围使用，未作本轮整篇内容核验",
+      "manuscript_locations_zh": [
+        "3.4 安全执行、异常恢复与服务韧性 p34e L198-198"
+      ],
+      "manuscript_locations_en": [
+        "3.4 Safe execution, anomaly recovery, and service resilience p34e L194-194"
+      ],
+      "citation_block_count_zh": 1,
+      "v16_status": "沿用前轮提取；待完整全文核查",
+      "v17_status": "unchanged_parent_grade",
+      "v17_claim_ids": [],
+      "source_url": "https://www.sciencedirect.com/science/article/pii/S0094576520307463",
+      "next_action": "按正文依赖补核关键命题",
+      "formal_version_parity_verified": false,
+      "human_verified": false,
+      "author_final_verification": "pending",
+      "submission_ready": false
+    },
+    {
+      "reference_number": 100,
+      "title": "Validation-gated continual learning for anomaly detection in satellite telemetry",
+      "doi": "10.1016/j.actaastro.2026.07.065",
+      "kind": "academic",
+      "publication": "Acta Astronautica, 2026, 249: 971–985; assigned issue: December 2026",
+      "reading_level": "inherited_not_confirmed",
+      "read_version_or_source": "完整历史核读状态保留于冻结父记录；本轮未重新核定，不能视为未曾读过或已全文核验",
+      "body_locators": [],
+      "checked_claims": [],
+      "caution": "按原稿证据范围使用，未作本轮整篇内容核验",
+      "manuscript_locations_zh": [
+        "3.4 安全执行、异常恢复与服务韧性 p34e L198-198"
+      ],
+      "manuscript_locations_en": [
+        "3.4 Safe execution, anomaly recovery, and service resilience p34e L194-194"
+      ],
+      "citation_block_count_zh": 1,
+      "v16_status": "沿用前轮提取；待完整全文核查",
+      "v17_status": "unchanged_parent_grade",
+      "v17_claim_ids": [],
+      "source_url": "https://www.sciencedirect.com/science/article/pii/S0094576526005187",
+      "next_action": "按正文依赖补核关键命题",
+      "formal_version_parity_verified": false,
+      "human_verified": false,
+      "author_final_verification": "pending",
+      "submission_ready": false
+    },
+    {
+      "reference_number": 101,
+      "title": "Unmasking overestimation: a re-evaluation of deep anomaly detection in spacecraft telemetry",
+      "doi": "10.1007/s12567-023-00529-5",
+      "kind": "academic",
+      "publication": "CEAS Space Journal, 2024, 16(2): 225–237",
+      "reading_level": "historical_primary_targeted",
+      "read_version_or_source": "完整历史核读状态保留于冻结父记录；本轮未重新核定，不能视为未曾读过或已全文核验",
+      "body_locators": [],
+      "checked_claims": [
+        "异常检测评价指标、基线和后处理；精确页节待补"
+      ],
+      "caution": "按原稿证据范围使用，未作本轮整篇内容核验",
+      "manuscript_locations_zh": [
+        "3.4 安全执行、异常恢复与服务韧性 p34e L198-198"
+      ],
+      "manuscript_locations_en": [
+        "3.4 Safe execution, anomaly recovery, and service resilience p34e L194-194"
+      ],
+      "citation_block_count_zh": 1,
+      "v16_status": "本批已完成一手原文指定方法/实验/限制段落精读；作者全文验收待完成",
+      "v17_status": "unchanged_parent_grade",
+      "v17_claim_ids": [],
+      "source_url": "https://link.springer.com/article/10.1007/s12567-023-00529-5",
+      "next_action": "补实际核读版本/原文页节",
+      "formal_version_parity_verified": false,
+      "human_verified": false,
+      "author_final_verification": "pending",
+      "submission_ready": false
+    },
+    {
+      "reference_number": 102,
+      "title": "Knowledge-based satellite failure detection, isolation and recovery (FDIR)",
+      "doi": "10.1007/s12567-025-00651-6",
+      "kind": "academic",
+      "publication": "CEAS Space Journal, 2026, 18(5): 991–1004",
+      "reading_level": "historical_primary_targeted",
+      "read_version_or_source": "完整历史核读状态保留于冻结父记录；本轮未重新核定，不能视为未曾读过或已全文核验",
+      "body_locators": [],
+      "checked_claims": [
+        "基于CLIPS的规则FDIR与地面原型；星载硬件未证明"
+      ],
+      "caution": "按原稿证据范围使用，未作本轮整篇内容核验",
+      "manuscript_locations_zh": [
+        "3.4 安全执行、异常恢复与服务韧性 p34e L198-198",
+        "3.4 安全执行、异常恢复与服务韧性 t5 L202-211"
+      ],
+      "manuscript_locations_en": [
+        "3.4 Safe execution, anomaly recovery, and service resilience p34e L194-194",
+        "3.4 Safe execution, anomaly recovery, and service resilience t5 L198-207"
+      ],
+      "citation_block_count_zh": 2,
+      "v16_status": "本批已完成一手原文指定方法/实验/限制段落精读；作者全文验收待完成",
+      "v17_status": "unchanged_parent_grade",
+      "v17_claim_ids": [],
+      "source_url": "https://link.springer.com/article/10.1007/s12567-025-00651-6",
+      "next_action": "补实际核读版本/原文页节",
+      "formal_version_parity_verified": false,
+      "human_verified": false,
+      "author_final_verification": "pending",
+      "submission_ready": false
+    },
+    {
+      "reference_number": 103,
+      "title": "Resilient Autonomous Mission Management for Decentralized Multispacecraft Missions",
+      "doi": "10.2514/1.I011208",
+      "kind": "academic",
+      "publication": "Journal of Aerospace Information Systems, 2023, 20(7): 387–397",
+      "reading_level": "inherited_not_confirmed",
+      "read_version_or_source": "完整历史核读状态保留于冻结父记录；本轮未重新核定，不能视为未曾读过或已全文核验",
+      "body_locators": [],
+      "checked_claims": [],
+      "caution": "按原稿证据范围使用，未作本轮整篇内容核验",
+      "manuscript_locations_zh": [
+        "3.4 安全执行、异常恢复与服务韧性 p34f L200-200",
+        "3.4 安全执行、异常恢复与服务韧性 t5 L202-211"
+      ],
+      "manuscript_locations_en": [
+        "3.4 Safe execution, anomaly recovery, and service resilience p34f L196-196",
+        "3.4 Safe execution, anomaly recovery, and service resilience t5 L198-207"
+      ],
+      "citation_block_count_zh": 2,
+      "v16_status": "沿用前轮提取；待完整全文核查",
+      "v17_status": "unchanged_parent_grade",
+      "v17_claim_ids": [],
+      "source_url": "https://doi.org/10.2514/1.I011208",
+      "next_action": "按正文依赖补核关键命题",
+      "formal_version_parity_verified": false,
+      "human_verified": false,
+      "author_final_verification": "pending",
+      "submission_ready": false
+    },
+    {
+      "reference_number": 104,
+      "title": "RPRS: a reactive plan repair strategy for rapid response to plan failures of deep space missions",
+      "doi": "10.1016/j.actaastro.2020.05.011",
+      "kind": "academic",
+      "publication": "Acta Astronautica, 2020, 175: 155–162",
+      "reading_level": "inherited_not_confirmed",
+      "read_version_or_source": "完整历史核读状态保留于冻结父记录；本轮未重新核定，不能视为未曾读过或已全文核验",
+      "body_locators": [],
+      "checked_claims": [],
+      "caution": "按原稿证据范围使用，未作本轮整篇内容核验",
+      "manuscript_locations_zh": [
+        "3.4 安全执行、异常恢复与服务韧性 p34f L200-200",
+        "3.4 安全执行、异常恢复与服务韧性 t5 L202-211"
+      ],
+      "manuscript_locations_en": [
+        "3.4 Safe execution, anomaly recovery, and service resilience p34f L196-196",
+        "3.4 Safe execution, anomaly recovery, and service resilience t5 L198-207"
+      ],
+      "citation_block_count_zh": 2,
+      "v16_status": "沿用前轮提取；待完整全文核查",
+      "v17_status": "unchanged_parent_grade",
+      "v17_claim_ids": [],
+      "source_url": "https://www.sciencedirect.com/science/article/abs/pii/S0094576520302940",
+      "next_action": "按正文依赖补核关键命题",
+      "formal_version_parity_verified": false,
+      "human_verified": false,
+      "author_final_verification": "pending",
+      "submission_ready": false
+    },
+    {
+      "reference_number": 105,
+      "title": "Artificial Intelligence for Trusted Autonomous Satellite Operations",
+      "doi": "10.1016/j.paerosci.2023.100960",
+      "kind": "academic",
+      "publication": "Progress in Aerospace Sciences, 2024, 144: 100960",
+      "reading_level": "inherited_not_confirmed",
+      "read_version_or_source": "完整历史核读状态保留于冻结父记录；本轮未重新核定，不能视为未曾读过或已全文核验",
+      "body_locators": [],
+      "checked_claims": [],
+      "caution": "按原稿证据范围使用，未作本轮整篇内容核验",
+      "manuscript_locations_zh": [
+        "3.5 多问题耦合与综合运行管理 p35a L215-215"
+      ],
+      "manuscript_locations_en": [
+        "3.5 Coupled problems and integrated operations p35a L211-211"
+      ],
+      "citation_block_count_zh": 1,
+      "v16_status": "沿用前轮提取；待完整全文核查",
+      "v17_status": "unchanged_parent_grade",
+      "v17_claim_ids": [],
+      "source_url": "https://doi.org/10.1016/j.paerosci.2023.100960",
+      "next_action": "按正文依赖补核关键命题",
+      "formal_version_parity_verified": false,
+      "human_verified": false,
+      "author_final_verification": "pending",
+      "submission_ready": false
+    },
+    {
+      "reference_number": 106,
+      "title": "A delay-tolerant network approach to satellite pickup and delivery scheduling",
+      "doi": "10.1016/j.adhoc.2023.103289",
+      "kind": "academic",
+      "publication": "Ad Hoc Networks, 2023, 151: 103289",
+      "reading_level": "formal_targeted",
+      "read_version_or_source": "正式出版PDF；13页；Round1记录",
+      "body_locators": [
+        "正式PDF §4算法1、§4.2–4.3，pp6–8；Round1",
+        "正式PDF §5.4 pp9–12图6–8；Round1"
+      ],
+      "checked_claims": [
+        "逐请求联合选择节点与交付路径，扣减接触容量；无限存储能源",
+        "交付增加改变成功样本；源/局部路由随接触失效条件变化"
+      ],
+      "caution": "逐请求选择而非全局最优，模型假设存储与能源无限",
+      "manuscript_locations_zh": [
+        "3.5 多问题耦合与综合运行管理 p35b L217-217",
+        "3.5 多问题耦合与综合运行管理 fig2 L229-229",
+        "3.5 多问题耦合与综合运行管理 t6 L231-240",
+        "4.2 联合范围由服务瓶颈而非模块数量决定 p42a L254-254",
+        "4.2 联合范围由服务瓶颈而非模块数量决定 p42c L258-258",
+        "4.5 面向持续服务的研究问题 p45b L291-291"
+      ],
+      "manuscript_locations_en": [
+        "3.5 Coupled problems and integrated operations p35b L213-213",
+        "3.5 Coupled problems and integrated operations fig2 L225-225",
+        "3.5 Coupled problems and integrated operations t6 L227-236",
+        "4.2 Service bottlenecks, not module count, determine coupling scope p42a L250-250",
+        "4.2 Service bottlenecks, not module count, determine coupling scope p42c L254-254",
+        "4.5 Research questions for sustained service p45b L287-287"
+      ],
+      "citation_block_count_zh": 6,
+      "v16_status": "本轮定向核读正式全文；具体支持范围见逐主张记录；作者终核待完成",
+      "v17_status": "formal_body_targeted",
+      "v17_claim_ids": [
+        "R2-106-01",
+        "R2-106-02"
+      ],
+      "source_url": "https://doi.org/10.1016/j.adhoc.2023.103289",
+      "next_action": "作者终核原文命题及正文表格",
+      "formal_version_parity_verified": false,
+      "human_verified": false,
+      "author_final_verification": "pending",
+      "submission_ready": false
+    },
+    {
+      "reference_number": 107,
+      "title": "Reasoning-Based Scheduling Method for Agile Earth Observation Satellite with Multi-Subsystem Coupling",
+      "doi": "10.3390/rs15061577",
+      "kind": "academic",
+      "publication": "Remote Sensing, 2023, 15(6): 1577",
+      "reading_level": "formal_targeted",
+      "read_version_or_source": "MDPI提供的正式全文文本；28页正式页眉；含混入的预审水印提取，非逐字一致性证明",
+      "body_locators": [
+        "§3.2.1–3.2.3；网页正文约L1479–1503、L1870–1974",
+        "§2；§4，正文L523–536、L2270–2331",
+        "§3.3；§4"
+      ],
+      "checked_claims": [
+        "模型状态预测→规则调整策略权重→插入与约束检查；不写为神经预测",
+        "单颗敏捷观测卫星的观测与传输；三类资源情景，不是在轨遥测闭环",
+        "三个启发式与一个元启发式对照；不把定性比较扩展为实测在轨收益"
+      ],
+      "caution": "正式提供正文文本，规则符号和水印混排待原PDF核",
+      "manuscript_locations_zh": [
+        "3.5 多问题耦合与综合运行管理 p35e L223-223",
+        "3.5 多问题耦合与综合运行管理 fig2 L229-229",
+        "3.5 多问题耦合与综合运行管理 t6 L231-240"
+      ],
+      "manuscript_locations_en": [
+        "3.5 Coupled problems and integrated operations p35e L219-219",
+        "3.5 Coupled problems and integrated operations fig2 L225-225",
+        "3.5 Coupled problems and integrated operations t6 L227-236"
+      ],
+      "citation_block_count_zh": 3,
+      "v16_status": "本轮未取得可核读全文；继承摘要或早期提取描述，具体方法与实验论断仍待正文核验",
+      "v17_status": "formal_body_targeted",
+      "v17_claim_ids": [
+        "R2-107-01",
+        "R2-107-02",
+        "R2-107-03",
+        "R2-107-04"
+      ],
+      "source_url": "https://www.mdpi.com/2072-4292/15/6/1577",
+      "next_action": "作者终核原文命题及正文表格",
+      "formal_version_parity_verified": false,
+      "human_verified": false,
+      "author_final_verification": "pending",
+      "submission_ready": false
+    },
+    {
+      "reference_number": 108,
+      "title": "Remote Agent: to boldly go where no AI system has gone before",
+      "doi": "10.1016/S0004-3702(98)00068-X",
+      "kind": "academic",
+      "publication": "Artificial Intelligence, 1998, 103(1–2): 5–47",
+      "reading_level": "inherited_not_confirmed",
+      "read_version_or_source": "完整历史核读状态保留于冻结父记录；本轮未重新核定，不能视为未曾读过或已全文核验",
+      "body_locators": [
+        "author original: architecture, sections 1.4 and 2"
+      ],
+      "checked_claims": [],
+      "caution": "按原稿证据范围使用，未作本轮整篇内容核验",
+      "manuscript_locations_zh": [
+        "3.5 多问题耦合与综合运行管理 p35f L225-225"
+      ],
+      "manuscript_locations_en": [
+        "3.5 Coupled problems and integrated operations p35f L221-221"
+      ],
+      "citation_block_count_zh": 1,
+      "v16_status": "沿用前轮提取；待完整全文核查",
+      "v17_status": "unchanged_parent_grade",
+      "v17_claim_ids": [],
+      "source_url": "https://people.csail.mit.edu/williams/Web%20site/papers/aij98.pdf",
+      "next_action": "按正文依赖补核关键命题",
+      "formal_version_parity_verified": false,
+      "human_verified": false,
+      "author_final_verification": "pending",
+      "submission_ready": false
+    },
+    {
+      "reference_number": 109,
+      "title": "Mission Operations of Earth Observing-1 with Onboard Autonomy",
+      "doi": "10.1109/SMC-IT.2006.48",
+      "kind": "academic",
+      "publication": "SMC-IT, 2006: 367–373",
+      "reading_level": "inherited_not_confirmed",
+      "read_version_or_source": "完整历史核读状态保留于冻结父记录；本轮未重新核定，不能视为未曾读过或已全文核验",
+      "body_locators": [],
+      "checked_claims": [],
+      "caution": "按原稿证据范围使用，未作本轮整篇内容核验",
+      "manuscript_locations_zh": [
+        "3.5 多问题耦合与综合运行管理 p35f L225-225",
+        "4.4 运行资料补充的是状态与动作证据 t7 L272-283"
+      ],
+      "manuscript_locations_en": [
+        "3.5 Coupled problems and integrated operations p35f L221-221",
+        "4.4 Operational sources contribute evidence of states and actions t7 L268-279"
+      ],
+      "citation_block_count_zh": 2,
+      "v16_status": "沿用前轮提取；待完整全文核查",
+      "v17_status": "unchanged_parent_grade",
+      "v17_claim_ids": [],
+      "source_url": "https://ntrs.nasa.gov/citations/20060050174",
+      "next_action": "按正文依赖补核关键命题",
+      "formal_version_parity_verified": false,
+      "human_verified": false,
+      "author_final_verification": "pending",
+      "submission_ready": false
+    },
+    {
+      "reference_number": 110,
+      "title": "Onboard Autonomy on the Intelligent Payload Experiment CubeSat Mission",
+      "doi": "10.2514/1.I010386",
+      "kind": "academic",
+      "publication": "Journal of Aerospace Information Systems, 2017, 14(6): 307–315",
+      "reading_level": "inherited_not_confirmed",
+      "read_version_or_source": "完整历史核读状态保留于冻结父记录；本轮未重新核定，不能视为未曾读过或已全文核验",
+      "body_locators": [],
+      "checked_claims": [],
+      "caution": "按原稿证据范围使用，未作本轮整篇内容核验",
+      "manuscript_locations_zh": [
+        "3.5 多问题耦合与综合运行管理 p35f L225-225",
+        "4.4 运行资料补充的是状态与动作证据 t7 L272-283"
+      ],
+      "manuscript_locations_en": [
+        "3.5 Coupled problems and integrated operations p35f L221-221",
+        "4.4 Operational sources contribute evidence of states and actions t7 L268-279"
+      ],
+      "citation_block_count_zh": 2,
+      "v16_status": "沿用前轮提取；待完整全文核查",
+      "v17_status": "unchanged_parent_grade",
+      "v17_claim_ids": [],
+      "source_url": "https://ai.jpl.nasa.gov/public/people/jdoubleday/",
+      "next_action": "按正文依赖补核关键命题",
+      "formal_version_parity_verified": false,
+      "human_verified": false,
+      "author_final_verification": "pending",
+      "submission_ready": false
+    },
+    {
+      "reference_number": 111,
+      "title": "IPEX",
+      "doi": null,
+      "kind": "engineering",
+      "publication": "Official project documentation; accessed 10 October 2026 (inherited access date)",
+      "reading_level": "official_operational_material",
+      "read_version_or_source": "完整历史核读状态保留于冻结父记录；本轮未重新核定，不能视为未曾读过或已全文核验",
+      "body_locators": [],
+      "checked_claims": [],
+      "caution": "按原稿证据范围使用，未作本轮整篇内容核验",
+      "manuscript_locations_zh": [
+        "3.5 多问题耦合与综合运行管理 p35f L225-225",
+        "3.5 多问题耦合与综合运行管理 fig2 L229-229",
+        "3.5 多问题耦合与综合运行管理 t6 L231-240",
+        "4.4 运行资料补充的是状态与动作证据 p44a L270-270",
+        "4.4 运行资料补充的是状态与动作证据 t7 L272-283"
+      ],
+      "manuscript_locations_en": [
+        "3.5 Coupled problems and integrated operations p35f L221-221",
+        "3.5 Coupled problems and integrated operations fig2 L225-225",
+        "3.5 Coupled problems and integrated operations t6 L227-236",
+        "4.4 Operational sources contribute evidence of states and actions p44a L266-266",
+        "4.4 Operational sources contribute evidence of states and actions t7 L268-279"
+      ],
+      "citation_block_count_zh": 5,
+      "v16_status": "Inherited official-source review; no fresh operational-performance claim",
+      "v17_status": "unchanged_parent_grade",
+      "v17_claim_ids": [],
+      "source_url": "https://ai.jpl.nasa.gov/public/projects/ipex/",
+      "next_action": "根据需要核官方版本/访问日期",
+      "formal_version_parity_verified": false,
+      "human_verified": false,
+      "author_final_verification": "pending",
+      "submission_ready": false
+    },
+    {
+      "reference_number": 112,
+      "title": "Reference architecture for autonomy and adaptivity in satellites",
+      "doi": "10.1016/j.jss.2026.112802",
+      "kind": "academic",
+      "publication": "Journal of Systems and Software, 2026, 236: 112802",
+      "reading_level": "full_text_unavailable",
+      "read_version_or_source": "出版方摘要与作者/会议条目；全文未取得",
+      "body_locators": [
+        "出版方摘要及作者/ICSA journal-first条目",
+        "正式全文未取得；SSRN入口不可读"
+      ],
+      "checked_claims": [],
+      "caution": "MAPE-K完整接口、NIMBUS验证、性能未知",
+      "manuscript_locations_zh": [
+        "1.3 范围与证据使用 p13b L43-43",
+        "3.5 多问题耦合与综合运行管理 p35f L225-225",
+        "3.5 多问题耦合与综合运行管理 t6 L231-240"
+      ],
+      "manuscript_locations_en": [
+        "1.3 Scope and use of evidence p13b L39-39",
+        "3.5 Coupled problems and integrated operations p35f L221-221",
+        "3.5 Coupled problems and integrated operations t6 L227-236"
+      ],
+      "citation_block_count_zh": 3,
+      "v16_status": "本轮未取得可核读全文；继承摘要或早期提取描述，具体方法与实验论断仍待正文核验",
+      "v17_status": "no_full_text",
+      "v17_claim_ids": [
+        "R2-112-01",
+        "R2-112-02"
+      ],
+      "source_url": "https://www.sciencedirect.com/science/article/pii/S0164121226000361",
+      "next_action": "优先获取可读正文与具体方法/图表/基线",
+      "formal_version_parity_verified": false,
+      "human_verified": false,
+      "author_final_verification": "pending",
+      "submission_ready": false
+    },
+    {
+      "reference_number": 113,
+      "title": "Core Flight System – Demo Bundle",
+      "doi": null,
+      "kind": "engineering",
+      "publication": "Official software repository; accessed 10 October 2026 (inherited access date)",
+      "reading_level": "official_operational_material",
+      "read_version_or_source": "完整历史核读状态保留于冻结父记录；本轮未重新核定，不能视为未曾读过或已全文核验",
+      "body_locators": [
+        "README opening paragraphs and distributions"
+      ],
+      "checked_claims": [],
+      "caution": "按原稿证据范围使用，未作本轮整篇内容核验",
+      "manuscript_locations_zh": [
+        "3.5 多问题耦合与综合运行管理 p35f L225-225",
+        "3.5 多问题耦合与综合运行管理 t6 L231-240",
+        "4.4 运行资料补充的是状态与动作证据 t7 L272-283"
+      ],
+      "manuscript_locations_en": [
+        "3.5 Coupled problems and integrated operations p35f L221-221",
+        "3.5 Coupled problems and integrated operations t6 L227-236",
+        "4.4 Operational sources contribute evidence of states and actions t7 L268-279"
+      ],
+      "citation_block_count_zh": 3,
+      "v16_status": "Inherited official-source review; no fresh operational-performance claim",
+      "v17_status": "unchanged_parent_grade",
+      "v17_claim_ids": [],
+      "source_url": "https://github.com/nasa/cFS",
+      "next_action": "根据需要核官方版本/访问日期",
+      "formal_version_parity_verified": false,
+      "human_verified": false,
+      "author_final_verification": "pending",
+      "submission_ready": false
+    },
+    {
+      "reference_number": 114,
+      "title": "What is Starling?",
+      "doi": null,
+      "kind": "engineering",
+      "publication": "Official mission documentation; accessed 10 October 2026 (inherited access date)",
+      "reading_level": "official_operational_material",
+      "read_version_or_source": "完整历史核读状态保留于冻结父记录；本轮未重新核定，不能视为未曾读过或已全文核验",
+      "body_locators": [],
+      "checked_claims": [],
+      "caution": "按原稿证据范围使用，未作本轮整篇内容核验",
+      "manuscript_locations_zh": [
+        "3.5 多问题耦合与综合运行管理 p35g L227-227",
+        "3.5 多问题耦合与综合运行管理 fig2 L229-229",
+        "3.5 多问题耦合与综合运行管理 t6 L231-240",
+        "4.4 运行资料补充的是状态与动作证据 p44a L270-270",
+        "4.4 运行资料补充的是状态与动作证据 t7 L272-283"
+      ],
+      "manuscript_locations_en": [
+        "3.5 Coupled problems and integrated operations p35g L223-223",
+        "3.5 Coupled problems and integrated operations fig2 L225-225",
+        "3.5 Coupled problems and integrated operations t6 L227-236",
+        "4.4 Operational sources contribute evidence of states and actions p44a L266-266",
+        "4.4 Operational sources contribute evidence of states and actions t7 L268-279"
+      ],
+      "citation_block_count_zh": 5,
+      "v16_status": "Inherited official-source review; no fresh operational-performance claim",
+      "v17_status": "unchanged_parent_grade",
+      "v17_claim_ids": [],
+      "source_url": "https://www.nasa.gov/smallspacecraft/what-is-starling/",
+      "next_action": "根据需要核官方版本/访问日期",
+      "formal_version_parity_verified": false,
+      "human_verified": false,
+      "author_final_verification": "pending",
+      "submission_ready": false
+    },
+    {
+      "reference_number": 115,
+      "title": "NASA Starling and SpaceX Starlink Improve Space Traffic Coordination",
+      "doi": null,
+      "kind": "engineering",
+      "publication": "Official mission release; accessed 10 October 2026 (inherited access date)",
+      "reading_level": "official_operational_material",
+      "read_version_or_source": "完整历史核读状态保留于冻结父记录；本轮未重新核定，不能视为未曾读过或已全文核验",
+      "body_locators": [],
+      "checked_claims": [],
+      "caution": "按原稿证据范围使用，未作本轮整篇内容核验",
+      "manuscript_locations_zh": [
+        "3.5 多问题耦合与综合运行管理 p35g L227-227",
+        "3.5 多问题耦合与综合运行管理 t6 L231-240",
+        "4.4 运行资料补充的是状态与动作证据 p44a L270-270",
+        "4.4 运行资料补充的是状态与动作证据 t7 L272-283"
+      ],
+      "manuscript_locations_en": [
+        "3.5 Coupled problems and integrated operations p35g L223-223",
+        "3.5 Coupled problems and integrated operations t6 L227-236",
+        "4.4 Operational sources contribute evidence of states and actions p44a L266-266",
+        "4.4 Operational sources contribute evidence of states and actions t7 L268-279"
+      ],
+      "citation_block_count_zh": 4,
+      "v16_status": "Inherited official-source review; no fresh operational-performance claim",
+      "v17_status": "unchanged_parent_grade",
+      "v17_claim_ids": [],
+      "source_url": "https://www.nasa.gov/centers-and-facilities/ames/nasa-starling-and-spacex-starlink-improve-space-traffic-coordination/",
+      "next_action": "根据需要核官方版本/访问日期",
+      "formal_version_parity_verified": false,
+      "human_verified": false,
+      "author_final_verification": "pending",
+      "submission_ready": false
+    },
+    {
+      "reference_number": 116,
+      "title": "Basilisk: A Flexible, Scalable and Modular Astrodynamics Simulation Framework",
+      "doi": "10.2514/1.I010762",
+      "kind": "academic",
+      "publication": "Journal of Aerospace Information Systems, 2020, 17(9): 496–507",
+      "reading_level": "inherited_not_confirmed",
+      "read_version_or_source": "完整历史核读状态保留于冻结父记录；本轮未重新核定，不能视为未曾读过或已全文核验",
+      "body_locators": [],
+      "checked_claims": [],
+      "caution": "按原稿证据范围使用，未作本轮整篇内容核验",
+      "manuscript_locations_zh": [
+        "3.5 多问题耦合与综合运行管理 p35g L227-227"
+      ],
+      "manuscript_locations_en": [
+        "3.5 Coupled problems and integrated operations p35g L223-223"
+      ],
+      "citation_block_count_zh": 1,
+      "v16_status": "沿用前轮提取；待完整全文核查",
+      "v17_status": "unchanged_parent_grade",
+      "v17_claim_ids": [],
+      "source_url": "https://www.hanspeterschaub.info/PapersPrivate/Kenneally2020a.pdf",
+      "next_action": "按正文依赖补核关键命题",
+      "formal_version_parity_verified": false,
+      "human_verified": false,
+      "author_final_verification": "pending",
+      "submission_ready": false
+    },
+    {
+      "reference_number": 117,
+      "title": "Formal Methods for Trusted Space Autonomy: Boon or Bane?",
+      "doi": "10.1007/978-3-031-06773-0_1",
+      "kind": "academic",
+      "publication": "NASA Formal Methods, Lecture Notes in Computer Science, 2022: 3–13",
+      "reading_level": "inherited_not_confirmed",
+      "read_version_or_source": "完整历史核读状态保留于冻结父记录；本轮未重新核定，不能视为未曾读过或已全文核验",
+      "body_locators": [
+        "author original: abstract and verification-practice scope"
+      ],
+      "checked_claims": [],
+      "caution": "按原稿证据范围使用，未作本轮整篇内容核验",
+      "manuscript_locations_zh": [
+        "3.5 多问题耦合与综合运行管理 p35g L227-227",
+        "4.4 运行资料补充的是状态与动作证据 p44b L285-285"
+      ],
+      "manuscript_locations_en": [
+        "3.5 Coupled problems and integrated operations p35g L223-223",
+        "4.4 Operational sources contribute evidence of states and actions p44b L281-281"
+      ],
+      "citation_block_count_zh": 2,
+      "v16_status": "沿用前轮提取；待完整全文核查",
+      "v17_status": "unchanged_parent_grade",
+      "v17_claim_ids": [],
+      "source_url": "https://ai.jpl.nasa.gov/public/documents/papers/chien-nfm-2022.pdf",
+      "next_action": "按正文依赖补核关键命题",
+      "formal_version_parity_verified": false,
+      "human_verified": false,
+      "author_final_verification": "pending",
+      "submission_ready": false
+    },
+    {
+      "reference_number": 118,
+      "title": "Performance of the Asynchronous Consensus Based Bundle Algorithm in Lossy Network Environments",
+      "doi": "10.1109/SAM.2018.8448984",
+      "kind": "academic",
+      "publication": "IEEE SAM, 2018: 311–315",
+      "reading_level": "inherited_not_confirmed",
+      "read_version_or_source": "完整历史核读状态保留于冻结父记录；本轮未重新核定，不能视为未曾读过或已全文核验",
+      "body_locators": [],
+      "checked_claims": [],
+      "caution": "按原稿证据范围使用，未作本轮整篇内容核验",
+      "manuscript_locations_zh": [
+        "4.3 信息内容、时效与学习职责共同限制在线决策 p43a L262-262"
+      ],
+      "manuscript_locations_en": [
+        "4.3 Information content, freshness, and learning roles constrain online decisions p43a L258-258"
+      ],
+      "citation_block_count_zh": 1,
+      "v16_status": "沿用前轮提取；待完整全文核查",
+      "v17_status": "unchanged_parent_grade",
+      "v17_claim_ids": [],
+      "source_url": "https://researchconnect.buffalo.edu/en/publications/performance-of-the-asynchronous-consensus-based-bundle-algorithm-/",
+      "next_action": "按正文依赖补核关键命题",
+      "formal_version_parity_verified": false,
+      "human_verified": false,
+      "author_final_verification": "pending",
+      "submission_ready": false
+    },
+    {
+      "reference_number": 119,
+      "title": "A model-driven framework for supervised reconfiguration of satellite schedulers",
+      "doi": "10.1007/s10270-026-01426-1",
+      "kind": "academic",
+      "publication": "Software and Systems Modeling, 2026",
+      "reading_level": "historical_primary_targeted",
+      "read_version_or_source": "完整历史核读状态保留于冻结父记录；本轮未重新核定，不能视为未曾读过或已全文核验",
+      "body_locators": [],
+      "checked_claims": [
+        "卫星调度器受监督重配置；软件验证不代表全星座业务收益"
+      ],
+      "caution": "按原稿证据范围使用，未作本轮整篇内容核验",
+      "manuscript_locations_zh": [
+        "4.4 运行资料补充的是状态与动作证据 t7 L272-283",
+        "4.4 运行资料补充的是状态与动作证据 p44b L285-285"
+      ],
+      "manuscript_locations_en": [
+        "4.4 Operational sources contribute evidence of states and actions t7 L268-279",
+        "4.4 Operational sources contribute evidence of states and actions p44b L281-281"
+      ],
+      "citation_block_count_zh": 2,
+      "v16_status": "本批已完成一手原文指定方法/实验/限制段落精读；作者全文验收待完成",
+      "v17_status": "unchanged_parent_grade",
+      "v17_claim_ids": [],
+      "source_url": "https://link.springer.com/article/10.1007/s10270-026-01426-1",
+      "next_action": "补实际核读版本/原文页节",
+      "formal_version_parity_verified": false,
+      "human_verified": false,
+      "author_final_verification": "pending",
+      "submission_ready": false
+    },
+    {
+      "reference_number": 120,
+      "title": "Model checking of spacecraft operational designs: a scalability analysis",
+      "doi": "10.1007/s10270-025-01281-6",
+      "kind": "academic",
+      "publication": "Software and Systems Modeling, 2025, 24(6): 1825–1846",
+      "reading_level": "inherited_not_confirmed",
+      "read_version_or_source": "完整历史核读状态保留于冻结父记录；本轮未重新核定，不能视为未曾读过或已全文核验",
+      "body_locators": [],
+      "checked_claims": [],
+      "caution": "按原稿证据范围使用，未作本轮整篇内容核验",
+      "manuscript_locations_zh": [
+        "4.4 运行资料补充的是状态与动作证据 t7 L272-283",
+        "4.4 运行资料补充的是状态与动作证据 p44b L285-285"
+      ],
+      "manuscript_locations_en": [
+        "4.4 Operational sources contribute evidence of states and actions t7 L268-279",
+        "4.4 Operational sources contribute evidence of states and actions p44b L281-281"
+      ],
+      "citation_block_count_zh": 2,
+      "v16_status": "沿用前轮提取；待完整全文核查",
+      "v17_status": "unchanged_parent_grade",
+      "v17_claim_ids": [],
+      "source_url": "https://link.springer.com/article/10.1007/s10270-025-01281-6",
+      "next_action": "按正文依赖补核关键命题",
+      "formal_version_parity_verified": false,
+      "human_verified": false,
+      "author_final_verification": "pending",
+      "submission_ready": false
+    },
+    {
+      "reference_number": 121,
+      "title": "On-Demand Routing in LEO Mega-Constellations With Dynamic Laser Inter-Satellite Links",
+      "doi": "10.1109/TAES.2024.3415571",
+      "kind": "academic",
+      "publication": "IEEE Transactions on Aerospace and Electronic Systems, 2024, 60(5): 7089–7105",
+      "reading_level": "author_manuscript_targeted",
+      "read_version_or_source": "arXiv:2406.01953v1；17页；2024-06-04；PDF第10–12页已看像素",
+      "body_locators": [
+        "作者稿PDF p10表III、§V-A；页面像素已读",
+        "作者稿PDF p11首段及图3；像素已读",
+        "作者稿p12图4–6及§V-D像素；提前控制前提继承Round1原定位"
+      ],
+      "checked_claims": [
+        "1584星、600个1秒时隙；无排队延迟；模型规模与参数",
+        "低建链代价下ILPR/ALPR略差于ILSR；ISASR在1 ms仍优于ILSR",
+        "计算时间与路径变化存在取舍；模型假设控制提前计算/分发，非已证明星载时限"
+      ],
+      "caution": "作者稿有PDF局部像素检查，IEEE正式版未核；不等于星载在线期限",
+      "manuscript_locations_zh": [
+        "1.3 范围与证据使用 p13b L43-43",
+        "3.3.3 路由、流量工程与更新成本 p333b L166-166",
+        "3.3.4 分层资源管理与控制职责 p334a L172-172",
+        "3.3.4 分层资源管理与控制职责 t4 L174-186",
+        "4.1 可扩展性来自何处，又付出了什么代价 p41b L248-248",
+        "4.3 信息内容、时效与学习职责共同限制在线决策 p43a L262-262",
+        "4.3 信息内容、时效与学习职责共同限制在线决策 p43c L266-266",
+        "4.5 面向持续服务的研究问题 p45b L291-291"
+      ],
+      "manuscript_locations_en": [
+        "1.3 Scope and use of evidence p13b L39-39",
+        "3.3.3 Routing, traffic engineering, and update costs p333b L162-162",
+        "3.3.4 Hierarchical resource management and control responsibilities p334a L168-168",
+        "3.3.4 Hierarchical resource management and control responsibilities t4 L170-182",
+        "4.1 Sources and costs of scalability p41b L244-244",
+        "4.3 Information content, freshness, and learning roles constrain online decisions p43a L258-258",
+        "4.3 Information content, freshness, and learning roles constrain online decisions p43c L262-262",
+        "4.5 Research questions for sustained service p45b L287-287"
+      ],
+      "citation_block_count_zh": 8,
+      "v16_status": "本轮定向核读指定公开作者稿；正式版模型和结果一致性仍待核；作者终核待完成",
+      "v17_status": "author_version_only",
+      "v17_claim_ids": [
+        "R2-121-01",
+        "R2-121-02",
+        "R2-121-03",
+        "R2-121-04"
+      ],
+      "source_url": "https://doi.org/10.1109/TAES.2024.3415571",
+      "next_action": "出版正式版逐命题对照",
+      "formal_version_parity_verified": false,
+      "human_verified": false,
+      "author_final_verification": "pending",
+      "submission_ready": false
+    }
+  ]
+}
