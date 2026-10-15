@@ -1,0 +1,249 @@
+{
+  "batch": "B03_20261015",
+  "historical_27_ids_preserved": [
+    "FT-75",
+    "FT-77",
+    "FT-79",
+    "FT-80",
+    "FT-112",
+    "VOR-53",
+    "VOR-74",
+    "VOR-76",
+    "VOR-121",
+    "PDF-73",
+    "PDF-107",
+    "PAGE-74",
+    "POWER-53",
+    "PDF-AUTHOR-REST",
+    "BIB-REMAINDER",
+    "EVIDENCE-REMAINDER",
+    "BIB-EN-CN",
+    "JOURNAL-RULES",
+    "AUTHOR-FINAL",
+    "PDF-96",
+    "EN-V18-SYNC",
+    "R4-FP-42",
+    "R4-FP-44",
+    "R4-BODY-23",
+    "R4-BODY-33",
+    "R4-BODY-63",
+    "R4-EN-SYNC"
+  ],
+  "B01_5_findings_preserved": [
+    "B01-APPENDIX-44",
+    "B01-TABLE4-53",
+    "B01-DELAYFIG-76",
+    "B01-TYPO-76",
+    "B01-COSTCONFIG-121"
+  ],
+  "B02_grouped_open_items_preserved": [
+    {
+      "id": "B02-PDF-85",
+      "refs": [
+        85
+      ],
+      "status": "open",
+      "issue": "远端正式PDF正文可读，本地普通获取TLS/连接失败；无完整本地SHA/大小、实际图页像素未见。",
+      "close_when": "获得合法完整PDF或可显示的正式页面，校验身份/字节并复核所用表图。"
+    },
+    {
+      "id": "B02-HORIZON-65",
+      "refs": [
+        65
+      ],
+      "status": "open",
+      "issue": "p3的约3轨、90分钟、45×6分钟说法不能直接一致。",
+      "close_when": "代码配置、作者说明或正式补充材料解释三者关系；此前不采用精确总时长。"
+    },
+    {
+      "id": "B02-DATE-87",
+      "refs": [
+        87
+      ],
+      "status": "open",
+      "issue": "请求v1/实际arXiv 2020印记与文内2022日期不一致。",
+      "close_when": "版本历史、正式副本和文件来源可核对，记录哪份对应所读SHA；不推断修订史。"
+    },
+    {
+      "id": "B02-BIB-109",
+      "refs": [
+        109
+      ],
+      "status": "open",
+      "issue": "Crossref作者字段合并且不全，实际首页11位作者；PDF文字抽取不可用。",
+      "close_when": "正式副本或权威书目核定11位作者与顺序；历史书目修订另获授权后实施。"
+    },
+    {
+      "id": "B02-VOR-NEW",
+      "refs": [
+        23,
+        27,
+        28,
+        87,
+        95,
+        98,
+        108,
+        109,
+        117
+      ],
+      "status": "open",
+      "issue": "9篇所读为作者稿/技术报告；本轮没有逐命题对照正式出版全文。",
+      "close_when": "逐篇取得合法正式全文，按模型、假设、公式、图表和所用命题配对；不能凭同DOI闭合。"
+    },
+    {
+      "id": "B02-UNREAD-PARTS",
+      "refs": [
+        17,
+        23,
+        27,
+        28,
+        34,
+        65,
+        84,
+        85,
+        87,
+        95,
+        98,
+        108,
+        109,
+        117,
+        120
+      ],
+      "status": "open",
+      "issue": "除[109]逐页视觉阅读外均有未覆盖段落或图页；全批均未独立核全部证明、代码及实验。",
+      "close_when": "按命题重要性补具体范围并记录；不要求把下载或渲染误记为核读。"
+    },
+    {
+      "id": "B02-CHANGE-REVIEW",
+      "refs": [
+        17,
+        23,
+        27,
+        28,
+        34,
+        65,
+        84,
+        85,
+        87,
+        95,
+        98,
+        108,
+        109,
+        117,
+        120
+      ],
+      "status": "open",
+      "issue": "本批改写均为新目录中的候选，v1.9没有应用；作者终核仍缺。",
+      "close_when": "作者审阅候选，另行授权在新稿实施，并作语言/科学/版本核对。"
+    }
+  ],
+  "new_grouped_open_items": [
+    {
+      "id": "B03-META-21",
+      "refs": [
+        21
+      ],
+      "status": "open",
+      "issue": "本轮Crossref刷新被429限制；正式DOI/出版串沿用冻结记录，正文为已识别arXiv v2。",
+      "close_when": "合法出版元数据直接核定并记录；不据作者稿反推正式页码。"
+    },
+    {
+      "id": "B03-PROB-41",
+      "refs": [
+        41
+      ],
+      "status": "open",
+      "issue": "丢失概率定义、pl=0.1图标和仅10%到达文字口径需代码核对。",
+      "close_when": "核模拟器概率变量及实验配置；此前不用固定90%丢包等精确结论。"
+    },
+    {
+      "id": "B03-MODEL-49",
+      "refs": [
+        49
+      ],
+      "status": "open",
+      "issue": "作者草稿的逐活动同刻单viewperiod假设与展示约束需进一步勾稽；文件仍有占位DOI/表号。",
+      "close_when": "取得正式版及代码核实际约束；本轮没有构造反例，不判正式论文错误。"
+    },
+    {
+      "id": "B03-FORMAL-PAIR",
+      "refs": [
+        12,
+        13,
+        14,
+        20,
+        21,
+        24,
+        25,
+        47,
+        48,
+        49
+      ],
+      "status": "open",
+      "issue": "10篇作者稿未逐命题配对正式版，[20]还是2026-09后续更新稿。",
+      "close_when": "合法VOR对照模型、假设、实验、公式和所用命题。"
+    },
+    {
+      "id": "B03-VALIDATION-SCOPE",
+      "refs": [
+        12,
+        13,
+        14,
+        20,
+        21,
+        24,
+        25,
+        36,
+        41,
+        47,
+        48,
+        49,
+        50,
+        58,
+        116
+      ],
+      "status": "open",
+      "issue": "定向段落/32页像素范围以外的推导、图表、代码、完整时域验证未独立完成。",
+      "close_when": "针对实际拟用命题补范围并记录，不以下载/渲染充作核读。"
+    },
+    {
+      "id": "B03-CANDIDATE-REVIEW",
+      "refs": [
+        12,
+        13,
+        14,
+        20,
+        21,
+        24,
+        25,
+        36,
+        41,
+        47,
+        48,
+        49,
+        50,
+        58,
+        116
+      ],
+      "status": "open",
+      "issue": "修改建议保存在本批，尚未应用正文或作者终核；无整稿新版本。",
+      "close_when": "作者审阅后在获授权的新稿中实施和双语核对。"
+    }
+  ],
+  "automatically_closed_items": [],
+  "historical_records_modified": false,
+  "existing_fulltext_gaps_unchanged": [
+    75,
+    77,
+    79,
+    80,
+    112
+  ],
+  "existing_page_gaps_unchanged": [
+    73,
+    107,
+    96
+  ],
+  "prior_B02_85_local_PDF_and_pixels_gap_unchanged": true,
+  "human_verified": false
+}

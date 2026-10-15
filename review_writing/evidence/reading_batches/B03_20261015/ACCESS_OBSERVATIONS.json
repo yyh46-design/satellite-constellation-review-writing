@@ -1,0 +1,396 @@
+{
+  "batch": "B03_20261015",
+  "policy": "ordinary public primary URLs and local files; restricted endpoint retries stopped; no paywall/captcha/403/429/TLS verification bypass",
+  "discovery_snapshot_sha256": "5c21525b0e5bbdfd7518420d4611a023cdf07b426c9a1a2e62826d135be75e2a",
+  "discovery_records": [
+    {
+      "reference_number": 10,
+      "title": "Dynamic Management Topology Construction, Evolution, and Maintenance of Low Earth Orbit Mega-Constellation",
+      "doi": "10.34133/space.0248",
+      "known_url": "https://re.public.polimi.it/bitstream/11311/1294046/1/MAOYW01-25.pdf",
+      "openalex_error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "reference_number": 12,
+      "title": "Regional Constellation Reconfiguration Problem: Integer Linear Programming Formulation and Lagrangian Heuristic Method",
+      "doi": "10.2514/1.A35685",
+      "known_url": "https://arxiv.org/abs/2206.02910",
+      "openalex_error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "reference_number": 13,
+      "title": "Deterministic Multistage Constellation Reconfiguration Using Integer Programming and Sequential Decision-Making Methods",
+      "doi": "10.2514/1.A35990",
+      "known_url": "https://arxiv.org/abs/2401.11567",
+      "openalex_error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "reference_number": 14,
+      "title": "Satellite Constellation Pattern Optimization for Complex Regional Coverage",
+      "doi": "10.2514/1.A34657",
+      "known_url": "https://arxiv.org/abs/1910.00672",
+      "openalex_error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "reference_number": 20,
+      "title": "Spare Strategy Analysis and Design for Mega Satellite Constellations Using Markov Chain",
+      "doi": "10.2514/1.A36599",
+      "known_url": "https://arxiv.org/abs/2509.09957",
+      "openalex_error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "reference_number": 21,
+      "title": "Spare strategy for large-scale satellite constellations under dual resupply channels using Markov chain",
+      "doi": "10.1016/j.actaastro.2026.06.020",
+      "known_url": "https://arxiv.org/abs/2605.20875",
+      "crossref_error": "HTTP Error 429: Too Many Requests",
+      "openalex_error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "reference_number": 24,
+      "title": "Orbital Facility Location Problem for Satellite Constellation Servicing Depots",
+      "doi": "10.2514/1.A35691",
+      "known_url": "https://repository.gatech.edu/entities/publication/308f4a40-c36b-460c-a2fc-e90a347f211b",
+      "openalex_error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "reference_number": 25,
+      "title": "Orbital Depot Location Optimization for Satellite Constellation Servicing with Low-Thrust Transfers",
+      "doi": "10.2514/1.A36386",
+      "known_url": "https://arxiv.org/abs/2502.15914",
+      "openalex_error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "reference_number": 36,
+      "title": "Scheduling of Earth observing satellites using distributed constraint optimization",
+      "doi": "10.1007/s10951-024-00816-x",
+      "known_url": "https://link.springer.com/article/10.1007/s10951-024-00816-x",
+      "openalex_error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "reference_number": 37,
+      "title": "Consensus-Based Decentralized Auctions for Robust Task Allocation",
+      "doi": "10.1109/TRO.2009.2022423",
+      "known_url": "https://dspace.mit.edu/entities/publication/b0bf0a05-be3b-433b-9f4b-ce314ed5178b",
+      "openalex_error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "reference_number": 41,
+      "title": "Asynchronous Communication Aware Multi-Agent Task Allocation",
+      "doi": "10.24963/ijcai.2023/30",
+      "known_url": "https://www.ijcai.org/proceedings/2023/30",
+      "openalex_error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "reference_number": 47,
+      "title": "Scheduling Space–Ground Communications for the Air Force Satellite Control Network",
+      "doi": "10.1023/B:JOSH.0000013053.32600.3c",
+      "known_url": "https://www.cs.colostate.edu/~howe/papers/JOS04.pdf",
+      "openalex_error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "reference_number": 48,
+      "title": "Satellite downlink scheduling problem: A case study",
+      "doi": "10.1016/j.omega.2015.01.001",
+      "known_url": "https://repository.essex.ac.uk/17381/1/1206.5503v3.pdf",
+      "openalex_error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "reference_number": 49,
+      "title": "Deep Space Network Scheduling via Mixed-Integer Linear Programming",
+      "doi": "10.1109/ACCESS.2021.3064928",
+      "known_url": "https://ieeexplore.ieee.org/abstract/document/9373338",
+      "openalex_error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "reference_number": 50,
+      "title": "Automated Scheduling for NASA's Deep Space Network",
+      "doi": "10.1609/aimag.v35i4.2552",
+      "known_url": "https://ojs.aaai.org/aimagazine/index.php/aimagazine/article/view/2552",
+      "openalex_error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "reference_number": 58,
+      "title": "Kodan: Addressing the Computational Bottleneck in Space",
+      "doi": "10.1145/3582016.3582043",
+      "known_url": "https://www.microsoft.com/en-us/research/publication/kodan-addressing-the-computational-bottleneck-in-space/",
+      "openalex_error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "reference_number": 103,
+      "title": "Resilient Autonomous Mission Management for Decentralized Multispacecraft Missions",
+      "doi": "10.2514/1.I011208",
+      "known_url": "https://doi.org/10.2514/1.I011208",
+      "openalex_error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "reference_number": 116,
+      "title": "Basilisk: A Flexible, Scalable and Modular Astrodynamics Simulation Framework",
+      "doi": "10.2514/1.I010762",
+      "known_url": "https://www.hanspeterschaub.info/PapersPrivate/Kenneally2020a.pdf",
+      "openalex_error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "reference_number": 118,
+      "title": "Performance of the Asynchronous Consensus Based Bundle Algorithm in Lossy Network Environments",
+      "doi": "10.1109/SAM.2018.8448984",
+      "known_url": "https://researchconnect.buffalo.edu/en/publications/performance-of-the-asynchronous-consensus-based-bundle-algorithm-/",
+      "openalex_error": "HTTP Error 429: Too Many Requests"
+    }
+  ],
+  "blocked_candidates_not_counted": [
+    {
+      "ref": 10,
+      "urls": [
+        "https://re.public.polimi.it/bitstream/11311/1294046/1/MAOYW01-25.pdf",
+        "https://spj.science.org/doi/pdf/10.34133/space.0248"
+      ],
+      "result": "HTTP 403 at both; SciOpen abstract only"
+    },
+    {
+      "ref": 37,
+      "url": "https://dspace.mit.edu/bitstreams/9954d25d-991a-4c8d-be1d-3574ee986f43/download",
+      "result": "HTTP 429; stop downloading"
+    }
+  ],
+  "ordinary_transfer_notes": [
+    {
+      "refs": [
+        12,
+        58
+      ],
+      "result": "initial incomplete/invalid PDF excluded; ordinary curl successful complete replacement"
+    },
+    {
+      "ref": 13,
+      "result": "one stalled Python download process stopped after inspection; ordinary curl with max-time 90 succeeded; no access restriction bypass"
+    },
+    {
+      "ref": 21,
+      "result": "Crossref formal metadata refresh HTTP 429; no retry, frozen DOI retained as inherited"
+    }
+  ],
+  "native_receipts": [
+    [
+      {
+        "ref": 12,
+        "url": "https://arxiv.org/pdf/2206.02910",
+        "local_file": "D:\\SKT727\\materials\\constellation_review_B03_20261015\\012_native.pdf",
+        "valid_pdf": true,
+        "ordinary_request_no_access_bypass": true,
+        "curl_exit": 0,
+        "error": "",
+        "sha256": "b2eeb10241dd1b72ac89c1b0f5ecc1cd98c92904e3aa1e1b7fb1381a17c5bf5c",
+        "bytes": 1430441,
+        "pages": 41,
+        "text_chars_per_page": [
+          2136,
+          856,
+          3549,
+          3842,
+          3225,
+          2664,
+          2470,
+          2649,
+          2240,
+          2791,
+          2927,
+          2114,
+          2565,
+          2863,
+          1813,
+          2128,
+          2694,
+          1835,
+          2578,
+          2261,
+          2020,
+          3060,
+          1944,
+          2738,
+          3180,
+          2950,
+          3405,
+          3558,
+          993,
+          1180,
+          3508,
+          3356,
+          2204,
+          1037,
+          2537,
+          2420,
+          2025,
+          3128,
+          2825,
+          2887,
+          1599
+        ]
+      },
+      {
+        "ref": 14,
+        "url": "https://arxiv.org/pdf/1910.00672v4",
+        "local_file": "D:\\SKT727\\materials\\constellation_review_B03_20261015\\014_native.pdf",
+        "valid_pdf": true,
+        "ordinary_request_no_access_bypass": true,
+        "curl_exit": 0,
+        "error": "",
+        "sha256": "b5419c7b075011f1e756e9b1752e0bd719e2c97bd01ada810bf27a763be5c9cc",
+        "bytes": 9406766,
+        "pages": 47,
+        "text_chars_per_page": [
+          2166,
+          927,
+          1624,
+          3697,
+          3436,
+          3171,
+          1740,
+          2405,
+          2961,
+          1773,
+          1891,
+          2365,
+          2120,
+          1907,
+          1591,
+          1970,
+          2856,
+          1708,
+          1382,
+          1348,
+          2268,
+          2196,
+          2152,
+          1940,
+          2459,
+          1642,
+          1442,
+          1561,
+          1240,
+          1502,
+          1143,
+          1590,
+          2507,
+          1880,
+          2185,
+          1489,
+          1213,
+          3645,
+          2175,
+          1352,
+          3091,
+          2046,
+          1312,
+          703,
+          2509,
+          3001,
+          2661
+        ]
+      },
+      {
+        "ref": 24,
+        "url": "https://arxiv.org/pdf/2302.12191",
+        "local_file": "D:\\SKT727\\materials\\constellation_review_B03_20261015\\024_native.pdf",
+        "valid_pdf": true,
+        "ordinary_request_no_access_bypass": true,
+        "curl_exit": 0,
+        "error": "",
+        "sha256": "68baa4105b5210d1a407062b78cfbf3d155364deea58d9ece46fe6a5af501a6e",
+        "bytes": 14325819,
+        "pages": 50,
+        "text_chars_per_page": [
+          1983,
+          2052,
+          3648,
+          3534,
+          1929,
+          1277,
+          1615,
+          2980,
+          1902,
+          2047,
+          3302,
+          2315,
+          2244,
+          1908,
+          2781,
+          1948,
+          2122,
+          2162,
+          1508,
+          1182,
+          1396,
+          1501,
+          518,
+          165,
+          1602,
+          1757,
+          3179,
+          3573,
+          1951,
+          244,
+          1199,
+          3570,
+          3667,
+          1455,
+          1498,
+          485,
+          3095,
+          3183,
+          3027,
+          2826,
+          651,
+          1427,
+          1307,
+          474,
+          1220,
+          1350,
+          152,
+          154,
+          1310,
+          230
+        ]
+      },
+      {
+        "ref": 58,
+        "url": "https://www.microsoft.com/en-us/research/uploads/prod/2023/08/asplosc23main-p858-p-224936cdce-68637-final.pdf",
+        "local_file": "D:\\SKT727\\materials\\constellation_review_B03_20261015\\058_native.pdf",
+        "valid_pdf": true,
+        "ordinary_request_no_access_bypass": true,
+        "curl_exit": 0,
+        "error": "",
+        "sha256": "d020df104eebef2d0cce6013c6620a8e7d98419521747922b37c7d0755d9b5bf",
+        "bytes": 3492396,
+        "pages": 12,
+        "text_chars_per_page": [
+          6109,
+          5866,
+          5216,
+          5388,
+          6040,
+          5407,
+          4383,
+          5441,
+          5945,
+          4941,
+          7123,
+          7576
+        ]
+      }
+    ],
+    {
+      "ref": 13,
+      "url": "https://arxiv.org/pdf/2401.11567",
+      "curl_exit": 0,
+      "error": "",
+      "valid_pdf": true,
+      "local_file": "D:\\SKT727\\materials\\constellation_review_B03_20261015\\013_native.pdf",
+      "bytes": 50006485,
+      "sha256": "3c87c92a8bb369601a7d57b9c4b143d37be73e7752410d95c9edc40ec3f8f596",
+      "pages": 39
+    }
+  ],
+  "third_party_PDFs_or_fulltext_committed": false,
+  "download_is_reading": false
+}

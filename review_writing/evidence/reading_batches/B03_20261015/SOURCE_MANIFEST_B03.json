@@ -1,0 +1,971 @@
+{
+  "batch": "B03_20261015",
+  "as_of": "2026-10-15 Asia/Shanghai",
+  "sources": [
+    {
+      "reference_number": 12,
+      "doi": "10.2514/1.A35685",
+      "doi_url": "https://doi.org/10.2514/1.A35685",
+      "english_title": "Regional Constellation Reconfiguration Problem: Integer Linear Programming Formulation and Lagrangian Heuristic Method",
+      "chinese_translation": "区域星座重构问题：整数线性规划建模与拉格朗日启发式方法",
+      "metadata": {
+        "status": "crossref_snapshot_obtained_not_human_final",
+        "metadata_url": "https://api.crossref.org/works/10.2514/1.A35685",
+        "snapshot_sha256": "cf8d3184e587e3a41f5c1c84d210be12498fb210ad03d898281ff75b0d72dcf4",
+        "authors": [
+          "Hang Woon Lee",
+          "Koki Ho"
+        ],
+        "container_titles": [
+          "Journal of Spacecraft and Rockets"
+        ],
+        "volume": "60",
+        "issue": "6",
+        "page_or_article_number": "1828-1845",
+        "dates": {
+          "issued": {
+            "date-parts": [
+              [
+                2023,
+                11
+              ]
+            ]
+          },
+          "published": {
+            "date-parts": [
+              [
+                2023,
+                11
+              ]
+            ]
+          },
+          "published-print": {
+            "date-parts": [
+              [
+                2023,
+                11
+              ]
+            ]
+          }
+        }
+      },
+      "version_identity": "author_preprint_arxiv_2206.02910v2_2023-07-03",
+      "identity_basis": "实际首页arXiv:2206.02910v2，3 Jul 2023；41页作者稿，正式DOI配对尚未实施。",
+      "read_source_url": "https://arxiv.org/pdf/2206.02910",
+      "local_pdf_path": "D:\\SKT727\\materials\\constellation_review_B03_20261015\\012_native.pdf",
+      "physical_pdf_pages": 41,
+      "bytes": 1430441,
+      "sha256": "b2eeb10241dd1b72ac89c1b0f5ecc1cd98c92904e3aa1e1b7fb1381a17c5bf5c",
+      "text_status": "readable_selected_body_passages_with_some_ligature_or_formula_encoding_artifacts",
+      "special_page_note": "physical PDF pages are not formal publication folios",
+      "targeted_body_reading_recorded": true,
+      "all_page_all_proof_close_reading_complete": false,
+      "formal_version_parity_closed": false,
+      "human_verified": false,
+      "third_party_PDF_committed": false
+    },
+    {
+      "reference_number": 13,
+      "doi": "10.2514/1.A35990",
+      "doi_url": "https://doi.org/10.2514/1.A35990",
+      "english_title": "Deterministic Multistage Constellation Reconfiguration Using Integer Programming and Sequential Decision-Making Methods",
+      "chinese_translation": "基于整数规划与序贯决策方法的确定性多阶段星座重构",
+      "metadata": {
+        "status": "crossref_snapshot_obtained_not_human_final",
+        "metadata_url": "https://api.crossref.org/works/10.2514/1.A35990",
+        "snapshot_sha256": "e02a6d941d33ef1ebee906e006819a9892eacaf62d99abb046bb83f63aa80e65",
+        "authors": [
+          "Hang Woon Lee",
+          "David O. Williams Rogers",
+          "Brycen D. Pearl",
+          "Hao Chen",
+          "Koki Ho"
+        ],
+        "container_titles": [
+          "Journal of Spacecraft and Rockets"
+        ],
+        "volume": "62",
+        "issue": "1",
+        "page_or_article_number": "206-222",
+        "dates": {
+          "issued": {
+            "date-parts": [
+              [
+                2025,
+                1
+              ]
+            ]
+          },
+          "published": {
+            "date-parts": [
+              [
+                2025,
+                1
+              ]
+            ]
+          },
+          "published-print": {
+            "date-parts": [
+              [
+                2025,
+                1
+              ]
+            ]
+          }
+        }
+      },
+      "version_identity": "author_preprint_arxiv_2401.11567v3_2024-09-04",
+      "identity_basis": "实际首页arXiv:2401.11567v3，4 Sep 2024；39页作者稿。请求未带版本号，按实际首页及SHA锁定v3。",
+      "read_source_url": "https://arxiv.org/pdf/2401.11567",
+      "local_pdf_path": "D:\\SKT727\\materials\\constellation_review_B03_20261015\\013_native.pdf",
+      "physical_pdf_pages": 39,
+      "bytes": 50006485,
+      "sha256": "3c87c92a8bb369601a7d57b9c4b143d37be73e7752410d95c9edc40ec3f8f596",
+      "text_status": "readable_selected_body_passages_with_some_ligature_or_formula_encoding_artifacts",
+      "special_page_note": "physical PDF pages are not formal publication folios",
+      "targeted_body_reading_recorded": true,
+      "all_page_all_proof_close_reading_complete": false,
+      "formal_version_parity_closed": false,
+      "human_verified": false,
+      "third_party_PDF_committed": false
+    },
+    {
+      "reference_number": 14,
+      "doi": "10.2514/1.A34657",
+      "doi_url": "https://doi.org/10.2514/1.A34657",
+      "english_title": "Satellite Constellation Pattern Optimization for Complex Regional Coverage",
+      "chinese_translation": "面向复杂区域覆盖的卫星星座模式优化",
+      "metadata": {
+        "status": "crossref_snapshot_obtained_not_human_final",
+        "metadata_url": "https://api.crossref.org/works/10.2514/1.A34657",
+        "snapshot_sha256": "afababbf16ef7d905476be14a5a3850503c6fdff19617f0aa8a2fa4b6f8918dd",
+        "authors": [
+          "Hang Woon Lee",
+          "Seiichi Shimizu",
+          "Shoji Yoshikawa",
+          "Koki Ho"
+        ],
+        "container_titles": [
+          "Journal of Spacecraft and Rockets"
+        ],
+        "volume": "57",
+        "issue": "6",
+        "page_or_article_number": "1309-1327",
+        "dates": {
+          "issued": {
+            "date-parts": [
+              [
+                2020,
+                11
+              ]
+            ]
+          },
+          "published": {
+            "date-parts": [
+              [
+                2020,
+                11
+              ]
+            ]
+          },
+          "published-print": {
+            "date-parts": [
+              [
+                2020,
+                11
+              ]
+            ]
+          }
+        }
+      },
+      "version_identity": "author_preprint_arxiv_1910.00672v4_2020-10-06",
+      "identity_basis": "实际首页arXiv:1910.00672v4，6 Oct 2020；47页，正式元数据为JSR 57(6):1309–1327，二者不以页数等同。",
+      "read_source_url": "https://arxiv.org/pdf/1910.00672v4",
+      "local_pdf_path": "D:\\SKT727\\materials\\constellation_review_B03_20261015\\014_native.pdf",
+      "physical_pdf_pages": 47,
+      "bytes": 9406766,
+      "sha256": "b5419c7b075011f1e756e9b1752e0bd719e2c97bd01ada810bf27a763be5c9cc",
+      "text_status": "readable_selected_body_passages_with_some_ligature_or_formula_encoding_artifacts",
+      "special_page_note": "physical PDF pages are not formal publication folios",
+      "targeted_body_reading_recorded": true,
+      "all_page_all_proof_close_reading_complete": false,
+      "formal_version_parity_closed": false,
+      "human_verified": false,
+      "third_party_PDF_committed": false
+    },
+    {
+      "reference_number": 20,
+      "doi": "10.2514/1.A36599",
+      "doi_url": "https://doi.org/10.2514/1.A36599",
+      "english_title": "Spare Strategy Analysis and Design for Mega Satellite Constellations Using Markov Chain",
+      "chinese_translation": "基于马尔可夫链的巨型卫星星座备星策略分析与设计",
+      "metadata": {
+        "status": "crossref_snapshot_obtained_not_human_final",
+        "metadata_url": "https://api.crossref.org/works/10.2514/1.A36599",
+        "snapshot_sha256": "70a8a3dd502e4b7c57b821ba66bcb2dfebf456504a31e5b76efd492d42dd0ab7",
+        "authors": [
+          "Seungyeop Han",
+          "Zachary Grieser",
+          "Shoji Yoshikawa",
+          "Takumi Noro",
+          "Takumi Suda",
+          "Koki Ho"
+        ],
+        "container_titles": [
+          "Journal of Spacecraft and Rockets"
+        ],
+        "volume": null,
+        "issue": null,
+        "page_or_article_number": "1-12",
+        "dates": {
+          "issued": {
+            "date-parts": [
+              [
+                2026,
+                6,
+                30
+              ]
+            ]
+          },
+          "published": {
+            "date-parts": [
+              [
+                2026,
+                6,
+                30
+              ]
+            ]
+          },
+          "published-online": {
+            "date-parts": [
+              [
+                2026,
+                6,
+                30
+              ]
+            ]
+          }
+        }
+      },
+      "version_identity": "author_preprint_arxiv_2509.09957v4_2026-09-26",
+      "identity_basis": "实际首页arXiv:2509.09957v4，26 Sep 2026；30页，作者后续更新稿，不能自动等于正式DOI版本。",
+      "read_source_url": "https://arxiv.org/pdf/2509.09957",
+      "local_pdf_path": "D:\\SKT727\\materials\\constellation_review_B03_20261015\\020_arxiv.pdf",
+      "physical_pdf_pages": 30,
+      "bytes": 1634265,
+      "sha256": "8ffd7ae1df19662bb686c875d1faa2c29f147673ab43da464b1d372feacaee1f",
+      "text_status": "readable_selected_body_passages_with_some_ligature_or_formula_encoding_artifacts",
+      "special_page_note": "physical PDF pages are not formal publication folios",
+      "targeted_body_reading_recorded": true,
+      "all_page_all_proof_close_reading_complete": false,
+      "formal_version_parity_closed": false,
+      "human_verified": false,
+      "third_party_PDF_committed": false
+    },
+    {
+      "reference_number": 21,
+      "doi": "10.1016/j.actaastro.2026.06.020",
+      "doi_url": "https://doi.org/10.1016/j.actaastro.2026.06.020",
+      "english_title": "Spare strategy for large-scale satellite constellations under dual resupply channels using Markov chain",
+      "chinese_translation": "双补给通道下基于马尔可夫链的大规模卫星星座备星策略",
+      "metadata": {
+        "status": "formal_metadata_inherited_refresh_blocked_HTTP_429",
+        "metadata_url": "https://doi.org/10.1016/j.actaastro.2026.06.020",
+        "snapshot_sha256": null,
+        "authors_observed_read_copy": [
+          "Seungyeop Han",
+          "Shoji Yoshikawa",
+          "Takumi Noro",
+          "Takumi Suda",
+          "Koki Ho"
+        ],
+        "formal_publication_string_inherited": "Acta Astronautica, 2026, 248: 614–629; assigned issue: November 2026",
+        "formal_metadata_refreshed": false,
+        "arxiv_record_url": "https://arxiv.org/abs/2605.20875v2"
+      },
+      "version_identity": "author_preprint_arxiv_2605.20875v2_2026-06-21",
+      "identity_basis": "实际首页arXiv:2605.20875v2，21 Jun 2026；57页。正式DOI沿用冻结编号；本轮Crossref请求429，正式出版元数据未独立刷新，不能据作者稿推正式出版分页。",
+      "read_source_url": "https://arxiv.org/pdf/2605.20875v2",
+      "local_pdf_path": "D:\\SKT727\\materials\\constellation_review_B03_20261015\\021_arxiv_v2.pdf",
+      "physical_pdf_pages": 57,
+      "bytes": 2755660,
+      "sha256": "a87cc30e1dbc9953f36823d44c85a38ae8d28d2fc62e9af16fdd56e04c1e004d",
+      "text_status": "readable_selected_body_passages_with_some_ligature_or_formula_encoding_artifacts",
+      "special_page_note": "physical PDF pages are not formal publication folios",
+      "targeted_body_reading_recorded": true,
+      "all_page_all_proof_close_reading_complete": false,
+      "formal_version_parity_closed": false,
+      "human_verified": false,
+      "third_party_PDF_committed": false
+    },
+    {
+      "reference_number": 24,
+      "doi": "10.2514/1.A35691",
+      "doi_url": "https://doi.org/10.2514/1.A35691",
+      "english_title": "Orbital Facility Location Problem for Satellite Constellation Servicing Depots",
+      "chinese_translation": "卫星星座服务仓库的轨道设施选址问题",
+      "metadata": {
+        "status": "crossref_snapshot_obtained_not_human_final",
+        "metadata_url": "https://api.crossref.org/works/10.2514/1.A35691",
+        "snapshot_sha256": "f65b0724a50bc018f7bb65368284cf6a85d66286cf29a78ad2cb6fbfafc71be4",
+        "authors": [
+          "Yuri Shimane",
+          "Nicholas Gollins",
+          "Koki Ho"
+        ],
+        "container_titles": [
+          "Journal of Spacecraft and Rockets"
+        ],
+        "volume": "61",
+        "issue": "3",
+        "page_or_article_number": "808-825",
+        "dates": {
+          "issued": {
+            "date-parts": [
+              [
+                2024,
+                5
+              ]
+            ]
+          },
+          "published": {
+            "date-parts": [
+              [
+                2024,
+                5
+              ]
+            ]
+          },
+          "published-print": {
+            "date-parts": [
+              [
+                2024,
+                5
+              ]
+            ]
+          }
+        }
+      },
+      "version_identity": "author_preprint_arxiv_2302.12191v3_2024-03-28",
+      "identity_basis": "实际首页arXiv:2302.12191v3，28 Mar 2024；50页作者文件包含后部附录/补充表，不作正式期刊页数。作者稿Nicholas Gollins与元数据Nick Gollins姓名写法分存。",
+      "read_source_url": "https://arxiv.org/pdf/2302.12191",
+      "local_pdf_path": "D:\\SKT727\\materials\\constellation_review_B03_20261015\\024_native.pdf",
+      "physical_pdf_pages": 50,
+      "bytes": 14325819,
+      "sha256": "68baa4105b5210d1a407062b78cfbf3d155364deea58d9ece46fe6a5af501a6e",
+      "text_status": "readable_selected_body_passages_with_some_ligature_or_formula_encoding_artifacts",
+      "special_page_note": "physical PDF pages are not formal publication folios",
+      "targeted_body_reading_recorded": true,
+      "all_page_all_proof_close_reading_complete": false,
+      "formal_version_parity_closed": false,
+      "human_verified": false,
+      "third_party_PDF_committed": false
+    },
+    {
+      "reference_number": 25,
+      "doi": "10.2514/1.A36386",
+      "doi_url": "https://doi.org/10.2514/1.A36386",
+      "english_title": "Orbital Depot Location Optimization for Satellite Constellation Servicing with Low-Thrust Transfers",
+      "chinese_translation": "考虑低推力转移的卫星星座服务轨道仓库选址优化",
+      "metadata": {
+        "status": "crossref_snapshot_obtained_not_human_final",
+        "metadata_url": "https://api.crossref.org/works/10.2514/1.A36386",
+        "snapshot_sha256": "d13451596e1caa332d6fb32cc92be3c9d4381ee4f4645e6016c541cc12c1dfe6",
+        "authors": [
+          "Euihyeon Choi",
+          "Koki Ho"
+        ],
+        "container_titles": [
+          "Journal of Spacecraft and Rockets"
+        ],
+        "volume": "63",
+        "issue": "1",
+        "page_or_article_number": "4-13",
+        "dates": {
+          "issued": {
+            "date-parts": [
+              [
+                2026,
+                1
+              ]
+            ]
+          },
+          "published": {
+            "date-parts": [
+              [
+                2026,
+                1
+              ]
+            ]
+          },
+          "published-print": {
+            "date-parts": [
+              [
+                2026,
+                1
+              ]
+            ]
+          }
+        }
+      },
+      "version_identity": "author_preprint_arxiv_2502.15914v2_2025-08-25",
+      "identity_basis": "实际首页arXiv:2502.15914v2，25 Aug 2025；24页作者稿；与JSR正式DOI尚未逐命题配对。",
+      "read_source_url": "https://arxiv.org/pdf/2502.15914",
+      "local_pdf_path": "D:\\SKT727\\materials\\constellation_review_B03_20261015\\025_arxiv.pdf",
+      "physical_pdf_pages": 24,
+      "bytes": 1745204,
+      "sha256": "ab590503c3a40246337670912368b358ac67a4228f2e84b2e15ff24d60f864d8",
+      "text_status": "readable_selected_body_passages_with_some_ligature_or_formula_encoding_artifacts",
+      "special_page_note": "physical PDF pages are not formal publication folios",
+      "targeted_body_reading_recorded": true,
+      "all_page_all_proof_close_reading_complete": false,
+      "formal_version_parity_closed": false,
+      "human_verified": false,
+      "third_party_PDF_committed": false
+    },
+    {
+      "reference_number": 36,
+      "doi": "10.1007/s10951-024-00816-x",
+      "doi_url": "https://doi.org/10.1007/s10951-024-00816-x",
+      "english_title": "Scheduling of Earth observing satellites using distributed constraint optimization",
+      "chinese_translation": "基于分布式约束优化的对地观测卫星调度",
+      "metadata": {
+        "status": "crossref_snapshot_obtained_not_human_final",
+        "metadata_url": "https://api.crossref.org/works/10.1007/s10951-024-00816-x",
+        "snapshot_sha256": "272819181f559d8693412e18c1e7bcb68fd2587f3241f6f72d7377c688228cd7",
+        "authors": [
+          "Shai Krigman",
+          "Tal Grinshpoun",
+          "Lihi Dery"
+        ],
+        "container_titles": [
+          "Journal of Scheduling"
+        ],
+        "volume": "27",
+        "issue": "5",
+        "page_or_article_number": "507-524",
+        "dates": {
+          "issued": {
+            "date-parts": [
+              [
+                2024,
+                10
+              ]
+            ]
+          },
+          "published": {
+            "date-parts": [
+              [
+                2024,
+                10
+              ]
+            ]
+          },
+          "published-online": {
+            "date-parts": [
+              [
+                2024,
+                10,
+                7
+              ]
+            ]
+          },
+          "published-print": {
+            "date-parts": [
+              [
+                2024,
+                10
+              ]
+            ]
+          }
+        }
+      },
+      "version_identity": "publisher_version_Springer",
+      "identity_basis": "18页Springer正式排版，Journal of Scheduling 27:507–524 (2024)、DOI/在线日期匹配。",
+      "read_source_url": "https://link.springer.com/content/pdf/10.1007/s10951-024-00816-x.pdf",
+      "local_pdf_path": "D:\\SKT727\\materials\\constellation_review_B03_20261015\\036_publisher.pdf",
+      "physical_pdf_pages": 18,
+      "bytes": 2912387,
+      "sha256": "ee77d1c2433335c5d87b085489a4f466462a53627699088668237baedcbe9d38",
+      "text_status": "readable_selected_body_passages_with_some_ligature_or_formula_encoding_artifacts",
+      "special_page_note": "physical PDF pages are not formal publication folios",
+      "targeted_body_reading_recorded": true,
+      "all_page_all_proof_close_reading_complete": false,
+      "formal_version_parity_closed": false,
+      "human_verified": false,
+      "third_party_PDF_committed": false
+    },
+    {
+      "reference_number": 41,
+      "doi": "10.24963/ijcai.2023/30",
+      "doi_url": "https://doi.org/10.24963/ijcai.2023/30",
+      "english_title": "Asynchronous Communication Aware Multi-Agent Task Allocation",
+      "chinese_translation": "考虑异步通信的多智能体任务分配",
+      "metadata": {
+        "status": "crossref_snapshot_obtained_not_human_final",
+        "metadata_url": "https://api.crossref.org/works/10.24963/ijcai.2023/30",
+        "snapshot_sha256": "dce345b0001c4c0656755271cb88469f7793fa78dcbbe061763aa58f90e60563",
+        "authors": [
+          "Ben Rachmut",
+          "Sofia Amador Nelke",
+          "Roie Zivan"
+        ],
+        "container_titles": [
+          "Proceedings of the Thirty-Second International Joint Conference on Artificial Intelligence"
+        ],
+        "volume": null,
+        "issue": null,
+        "page_or_article_number": "262-270",
+        "dates": {
+          "issued": {
+            "date-parts": [
+              [
+                2023,
+                8
+              ]
+            ]
+          },
+          "published": {
+            "date-parts": [
+              [
+                2023,
+                8
+              ]
+            ]
+          },
+          "published-print": {
+            "date-parts": [
+              [
+                2023,
+                8
+              ]
+            ]
+          }
+        }
+      },
+      "version_identity": "publisher_proceedings_IJCAI_2023",
+      "identity_basis": "IJCAI官方9页262–270正式会议PDF，题名作者和DOI匹配。",
+      "read_source_url": "https://www.ijcai.org/proceedings/2023/0030.pdf",
+      "local_pdf_path": "D:\\SKT727\\materials\\constellation_review_B03_20261015\\041_publisher.pdf",
+      "physical_pdf_pages": 9,
+      "bytes": 2235554,
+      "sha256": "ab22251d02cb03f9e5731f6d8db751c001bf4a3245e00011e421f1b859674e50",
+      "text_status": "readable_selected_body_passages_with_some_ligature_or_formula_encoding_artifacts",
+      "special_page_note": "physical PDF pages are not formal publication folios",
+      "targeted_body_reading_recorded": true,
+      "all_page_all_proof_close_reading_complete": false,
+      "formal_version_parity_closed": false,
+      "human_verified": false,
+      "third_party_PDF_committed": false
+    },
+    {
+      "reference_number": 47,
+      "doi": "10.1023/B:JOSH.0000013053.32600.3c",
+      "doi_url": "https://doi.org/10.1023/B:JOSH.0000013053.32600.3c",
+      "english_title": "Scheduling Space–Ground Communications for the Air Force Satellite Control Network",
+      "chinese_translation": "空军卫星控制网络的天地通信调度",
+      "metadata": {
+        "status": "crossref_snapshot_obtained_not_human_final",
+        "metadata_url": "https://api.crossref.org/works/10.1023/B:JOSH.0000013053.32600.3c",
+        "snapshot_sha256": "ffd074d8386c01a1fa2ac3873b98c4ea7bb696bbf17f3ff0555b662a8c959aef",
+        "authors": [
+          "Laura Barbulescu",
+          "Jean-Paul Watson",
+          "L. Darrell Whitley",
+          "Adele E. Howe"
+        ],
+        "container_titles": [
+          "Journal of Scheduling"
+        ],
+        "volume": "7",
+        "issue": "1",
+        "page_or_article_number": "7-34",
+        "dates": {
+          "issued": {
+            "date-parts": [
+              [
+                2004,
+                1
+              ]
+            ]
+          },
+          "published": {
+            "date-parts": [
+              [
+                2004,
+                1
+              ]
+            ]
+          },
+          "published-print": {
+            "date-parts": [
+              [
+                2004,
+                1
+              ]
+            ]
+          }
+        }
+      },
+      "version_identity": "author_manuscript_faculty_public_copy",
+      "identity_basis": "40页作者主页公开稿，题名/作者对应正式DOI，抽取有少量连字控制字符；不是按正式期刊分页配对的版本。",
+      "read_source_url": "https://www.cs.colostate.edu/~howe/papers/JOS04.pdf",
+      "local_pdf_path": "D:\\SKT727\\materials\\constellation_review_B03_20261015\\047_faculty.pdf",
+      "physical_pdf_pages": 40,
+      "bytes": 333453,
+      "sha256": "3c5e10d7fa07fb5ca9ea689a98d50906ea40f0bb2ed3ead28ad4e2420b9f86be",
+      "text_status": "readable_selected_body_passages_with_some_ligature_or_formula_encoding_artifacts",
+      "special_page_note": "physical PDF pages are not formal publication folios",
+      "targeted_body_reading_recorded": true,
+      "all_page_all_proof_close_reading_complete": false,
+      "formal_version_parity_closed": false,
+      "human_verified": false,
+      "third_party_PDF_committed": false
+    },
+    {
+      "reference_number": 48,
+      "doi": "10.1016/j.omega.2015.01.001",
+      "doi_url": "https://doi.org/10.1016/j.omega.2015.01.001",
+      "english_title": "Satellite downlink scheduling problem: A case study",
+      "chinese_translation": "卫星下传调度问题：案例研究",
+      "metadata": {
+        "status": "crossref_snapshot_obtained_not_human_final",
+        "metadata_url": "https://api.crossref.org/works/10.1016/j.omega.2015.01.001",
+        "snapshot_sha256": "fe896b8ee464ac95bac824254d0d06b5d1cc0093fc2c2a7614e0e9af22dacd2d",
+        "authors": [
+          "Daniel Karapetyan",
+          "Snezana Mitrovic Minic",
+          "Krishna T. Malladi",
+          "Abraham P. Punnen"
+        ],
+        "container_titles": [
+          "Omega"
+        ],
+        "volume": "53",
+        "issue": null,
+        "page_or_article_number": "115-123",
+        "dates": {
+          "issued": {
+            "date-parts": [
+              [
+                2015,
+                6
+              ]
+            ]
+          },
+          "published": {
+            "date-parts": [
+              [
+                2015,
+                6
+              ]
+            ]
+          },
+          "published-print": {
+            "date-parts": [
+              [
+                2015,
+                6
+              ]
+            ]
+          }
+        }
+      },
+      "version_identity": "author_preprint_arxiv_1206.5503v3_2015-02-14_repository_copy",
+      "identity_basis": "Essex仓储作者稿，实际首页arXiv:1206.5503v3，14 Feb 2015；23页，与Omega正式DOI尚未逐命题配对。",
+      "read_source_url": "https://repository.essex.ac.uk/17381/1/1206.5503v3.pdf",
+      "local_pdf_path": "D:\\SKT727\\materials\\constellation_review_B03_20261015\\048_repository.pdf",
+      "physical_pdf_pages": 23,
+      "bytes": 244434,
+      "sha256": "9ff7e684cef48bcb609ed6f9ebfcbedf373316fa00de539560cc77e5f60d34ab",
+      "text_status": "readable_selected_body_passages_with_some_ligature_or_formula_encoding_artifacts",
+      "special_page_note": "physical PDF pages are not formal publication folios",
+      "targeted_body_reading_recorded": true,
+      "all_page_all_proof_close_reading_complete": false,
+      "formal_version_parity_closed": false,
+      "human_verified": false,
+      "third_party_PDF_committed": false
+    },
+    {
+      "reference_number": 49,
+      "doi": "10.1109/ACCESS.2021.3064928",
+      "doi_url": "https://doi.org/10.1109/ACCESS.2021.3064928",
+      "english_title": "Deep Space Network Scheduling via Mixed-Integer Linear Programming",
+      "chinese_translation": "基于混合整数线性规划的深空网络调度",
+      "metadata": {
+        "status": "crossref_snapshot_obtained_not_human_final",
+        "metadata_url": "https://api.crossref.org/works/10.1109/ACCESS.2021.3064928",
+        "snapshot_sha256": "9f0ead07d9abde51a49b119e9f5c8585d86fc364eacc06ea1cb85c5dc1efa62a",
+        "authors": [
+          "Alex Sabol",
+          "Ryan Alimo",
+          "Farhad Kamangar",
+          "Ramtin Madani"
+        ],
+        "container_titles": [
+          "IEEE Access"
+        ],
+        "volume": "9",
+        "issue": null,
+        "page_or_article_number": "39985-39994",
+        "dates": {
+          "issued": {
+            "date-parts": [
+              [
+                2021
+              ]
+            ]
+          },
+          "published": {
+            "date-parts": [
+              [
+                2021
+              ]
+            ]
+          },
+          "published-print": {
+            "date-parts": [
+              [
+                2021
+              ]
+            ]
+          }
+        }
+      },
+      "version_identity": "author_draft_with_template_metadata",
+      "identity_basis": "作者Columbia公开11页稿，仍有xxxx日期、占位DOI、VOLUME 4,2016和Table ??等模板内容；真实题名作者匹配目标DOI，但不能把模板字段当正式元数据。Δ-MILP是后续不同论文，不用于冒充此篇。",
+      "read_source_url": "https://www.columbia.edu/~rm3122/paper/deep_space.pdf",
+      "local_pdf_path": "D:\\SKT727\\materials\\constellation_review_B03_20261015\\049_faculty.pdf",
+      "physical_pdf_pages": 11,
+      "bytes": 780892,
+      "sha256": "82227db029fb21d38852e96ffa6354d4586a2a9a2fa2ed33fc43faafc2b9242a",
+      "text_status": "readable_selected_body_passages_with_some_ligature_or_formula_encoding_artifacts",
+      "special_page_note": "physical PDF pages are not formal publication folios",
+      "targeted_body_reading_recorded": true,
+      "all_page_all_proof_close_reading_complete": false,
+      "formal_version_parity_closed": false,
+      "human_verified": false,
+      "third_party_PDF_committed": false
+    },
+    {
+      "reference_number": 50,
+      "doi": "10.1609/aimag.v35i4.2552",
+      "doi_url": "https://doi.org/10.1609/aimag.v35i4.2552",
+      "english_title": "Automated Scheduling for NASA's Deep Space Network",
+      "chinese_translation": "NASA深空网络的自动化调度",
+      "metadata": {
+        "status": "crossref_snapshot_obtained_not_human_final",
+        "metadata_url": "https://api.crossref.org/works/10.1609/aimag.v35i4.2552",
+        "snapshot_sha256": "203f1634f74d3f417b5db17794290afbedf1a14b6c4adcb0973549d11b18c60e",
+        "authors": [
+          "Mark D. Johnston",
+          "Daniel Tran",
+          "Belinda Arroyo",
+          "Sugi Sorensen",
+          "Peter Tay",
+          "Butch Carruth",
+          "Adam Coffman",
+          "Mike Wallace"
+        ],
+        "container_titles": [
+          "AI Magazine"
+        ],
+        "volume": "35",
+        "issue": "4",
+        "page_or_article_number": "7-25",
+        "dates": {
+          "issued": {
+            "date-parts": [
+              [
+                2014,
+                12
+              ]
+            ]
+          },
+          "published": {
+            "date-parts": [
+              [
+                2014,
+                12
+              ]
+            ]
+          },
+          "published-online": {
+            "date-parts": [
+              [
+                2014,
+                12
+              ]
+            ]
+          },
+          "published-print": {
+            "date-parts": [
+              [
+                2014,
+                12
+              ]
+            ]
+          }
+        }
+      },
+      "version_identity": "publisher_version_AI_Magazine_2014",
+      "identity_basis": "AAAI官方19页正式PDF，对应AI Magazine 35(4):7–25 (2014)。所述现状/未来计划均是2014语境，不视为2026最新状态。",
+      "read_source_url": "https://ojs.aaai.org/aimagazine/index.php/aimagazine/article/view/2552/2452",
+      "local_pdf_path": "D:\\SKT727\\materials\\constellation_review_B03_20261015\\050_publisher.pdf",
+      "physical_pdf_pages": 19,
+      "bytes": 8410807,
+      "sha256": "1db7076e2331d4cb26d576dca0e84a42ef5768465f14a890c1639a05f4cb552e",
+      "text_status": "readable_selected_body_passages_with_some_ligature_or_formula_encoding_artifacts",
+      "special_page_note": "physical PDF pages are not formal publication folios",
+      "targeted_body_reading_recorded": true,
+      "all_page_all_proof_close_reading_complete": false,
+      "formal_version_parity_closed": false,
+      "human_verified": false,
+      "third_party_PDF_committed": false
+    },
+    {
+      "reference_number": 58,
+      "doi": "10.1145/3582016.3582043",
+      "doi_url": "https://doi.org/10.1145/3582016.3582043",
+      "english_title": "Kodan: Addressing the Computational Bottleneck in Space",
+      "chinese_translation": "Kodan：缓解空间计算瓶颈",
+      "metadata": {
+        "status": "crossref_snapshot_obtained_not_human_final",
+        "metadata_url": "https://api.crossref.org/works/10.1145/3582016.3582043",
+        "snapshot_sha256": "53d6cf3f5c30c4f8a50997cecc78ba5f7bbd3f7e13a608373bf723da68352a6c",
+        "authors": [
+          "Bradley Denby",
+          "Krishna Chintalapudi",
+          "Ranveer Chandra",
+          "Brandon Lucia",
+          "Shadi Noghabi"
+        ],
+        "container_titles": [
+          "Proceedings of the 28th ACM International Conference on Architectural Support for Programming Languages and Operating Systems, Volume 3"
+        ],
+        "volume": null,
+        "issue": null,
+        "page_or_article_number": "392-403",
+        "dates": {
+          "issued": {
+            "date-parts": [
+              [
+                2023,
+                3,
+                25
+              ]
+            ]
+          },
+          "published": {
+            "date-parts": [
+              [
+                2023,
+                3,
+                25
+              ]
+            ]
+          },
+          "published-online": {
+            "date-parts": [
+              [
+                2023,
+                3,
+                25
+              ]
+            ]
+          },
+          "published-print": {
+            "date-parts": [
+              [
+                2023,
+                3,
+                25
+              ]
+            ]
+          }
+        }
+      },
+      "version_identity": "publisher_typeset_proceedings_copy_hosted_Microsoft_Research",
+      "identity_basis": "Microsoft Research公开12页ACM最终排版副本，ASPLOS 2023:392–403、DOI及许可标记可见。",
+      "read_source_url": "https://www.microsoft.com/en-us/research/uploads/prod/2023/08/asplosc23main-p858-p-224936cdce-68637-final.pdf",
+      "local_pdf_path": "D:\\SKT727\\materials\\constellation_review_B03_20261015\\058_native.pdf",
+      "physical_pdf_pages": 12,
+      "bytes": 3492396,
+      "sha256": "d020df104eebef2d0cce6013c6620a8e7d98419521747922b37c7d0755d9b5bf",
+      "text_status": "readable_selected_body_passages_with_some_ligature_or_formula_encoding_artifacts",
+      "special_page_note": "physical PDF pages are not formal publication folios",
+      "targeted_body_reading_recorded": true,
+      "all_page_all_proof_close_reading_complete": false,
+      "formal_version_parity_closed": false,
+      "human_verified": false,
+      "third_party_PDF_committed": false
+    },
+    {
+      "reference_number": 116,
+      "doi": "10.2514/1.I010762",
+      "doi_url": "https://doi.org/10.2514/1.I010762",
+      "english_title": "Basilisk: A Flexible, Scalable and Modular Astrodynamics Simulation Framework",
+      "chinese_translation": "Basilisk：灵活、可扩展的模块化航天动力学仿真框架",
+      "metadata": {
+        "status": "crossref_snapshot_obtained_not_human_final",
+        "metadata_url": "https://api.crossref.org/works/10.2514/1.I010762",
+        "snapshot_sha256": "4abfc88e297712b5e59e2b8975bb974d2b4de8343dd797a7899179e3319ebdfd",
+        "authors": [
+          "Patrick W. Kenneally",
+          "Scott Piggott",
+          "Hanspeter Schaub"
+        ],
+        "container_titles": [
+          "Journal of Aerospace Information Systems"
+        ],
+        "volume": "17",
+        "issue": "9",
+        "page_or_article_number": "496-507",
+        "dates": {
+          "issued": {
+            "date-parts": [
+              [
+                2020,
+                9
+              ]
+            ]
+          },
+          "published": {
+            "date-parts": [
+              [
+                2020,
+                9
+              ]
+            ]
+          },
+          "published-print": {
+            "date-parts": [
+              [
+                2020,
+                9
+              ]
+            ]
+          }
+        }
+      },
+      "version_identity": "publisher_typeset_copy_plus_cited_by_appendage",
+      "identity_basis": "教师主页13物理页文件中p1–12为正式JAIS 17(9):496–507论文，p13是附加cited-by列表，不能当论文多一页。",
+      "read_source_url": "https://www.hanspeterschaub.info/PapersPrivate/Kenneally2020a.pdf",
+      "local_pdf_path": "D:\\SKT727\\materials\\constellation_review_B03_20261015\\116_faculty.pdf",
+      "physical_pdf_pages": 13,
+      "bytes": 1319931,
+      "sha256": "be2b914e7e438dadfb05b1f5d38bc584c191bce9da0f8fcb9ddb6236bc157c56",
+      "text_status": "readable_selected_body_passages_with_some_ligature_or_formula_encoding_artifacts",
+      "special_page_note": "p1–12 article 496–507; p13 publisher cited-by appendage, excluded from paper body claims",
+      "targeted_body_reading_recorded": true,
+      "all_page_all_proof_close_reading_complete": false,
+      "formal_version_parity_closed": false,
+      "human_verified": false,
+      "third_party_PDF_committed": false
+    }
+  ],
+  "formal_metadata_snapshots_obtained": 14,
+  "formal_metadata_refresh_incomplete_refs": [
+    21
+  ]
+}

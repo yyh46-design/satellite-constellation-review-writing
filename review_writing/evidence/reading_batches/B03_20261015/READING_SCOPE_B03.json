@@ -1,0 +1,431 @@
+{
+  "batch": "B03_20261015",
+  "page_number_basis": "one-based physical pages of read copy",
+  "targeted_paper_count": 15,
+  "local_complete_PDFs_hashed": 15,
+  "actual_visual_page_count": 32,
+  "all_page_all_proof_completion_claimed": false,
+  "human_verified": false,
+  "papers": [
+    {
+      "reference_number": 12,
+      "physical_pdf_pages_total": 41,
+      "text_passage_pages_inspected": [
+        6,
+        14,
+        15,
+        16,
+        17,
+        24,
+        25,
+        27,
+        32,
+        35
+      ],
+      "actual_visual_pages_inspected": [
+        15
+      ],
+      "partial_pages_included": true,
+      "scope": "manuscript-relevant passages in model/method/evaluation/limitations; listed page is not whole-page completion",
+      "additional_scope_note": "未核全部松弛推导/附录与代码；正式版仍需逐命题对照；覆盖机会没有连到成像、缓冲和下传。",
+      "human_verified": false,
+      "all_page_all_proof_close_reading_complete": false,
+      "download_is_reading_completion": false
+    },
+    {
+      "reference_number": 13,
+      "physical_pdf_pages_total": 39,
+      "text_passage_pages_inspected": [
+        4,
+        5,
+        7,
+        10,
+        11,
+        12,
+        14,
+        16,
+        18,
+        19,
+        20,
+        24,
+        25,
+        28,
+        30,
+        31
+      ],
+      "actual_visual_pages_inspected": [
+        28
+      ],
+      "partial_pages_included": true,
+      "scope": "manuscript-relevant passages in model/method/evaluation/limitations; listed page is not whole-page completion",
+      "additional_scope_note": "正式版配对、全约束证明、全部图表和转移执行有效性未复核；时变目标仍为全时域预知，不作为在线未知事件实证。",
+      "human_verified": false,
+      "all_page_all_proof_close_reading_complete": false,
+      "download_is_reading_completion": false
+    },
+    {
+      "reference_number": 14,
+      "physical_pdf_pages_total": 47,
+      "text_passage_pages_inspected": [
+        9,
+        13,
+        15,
+        17,
+        20,
+        23,
+        25,
+        28,
+        31,
+        33,
+        36,
+        38
+      ],
+      "actual_visual_pages_inspected": [
+        23,
+        33
+      ],
+      "partial_pages_included": true,
+      "scope": "manuscript-relevant passages in model/method/evaluation/limitations; listed page is not whole-page completion",
+      "additional_scope_note": "正式版未配对，全部卷积/回归轨道推导与连续时间采样误差未独立证明；只读五个示例的关键段落而非全部曲线。",
+      "human_verified": false,
+      "all_page_all_proof_close_reading_complete": false,
+      "download_is_reading_completion": false
+    },
+    {
+      "reference_number": 20,
+      "physical_pdf_pages_total": 30,
+      "text_passage_pages_inspected": [
+        4,
+        7,
+        8,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        23,
+        24,
+        25
+      ],
+      "actual_visual_pages_inspected": [
+        18,
+        20,
+        24
+      ],
+      "partial_pages_included": true,
+      "scope": "manuscript-relevant passages in model/method/evaluation/limitations; listed page is not whole-page completion",
+      "additional_scope_note": "正式版及v4变化未配对；全稳态矩阵/独立性假设证明与代码未复现，案例价格不是2026年实时市场报价。",
+      "human_verified": false,
+      "all_page_all_proof_close_reading_complete": false,
+      "download_is_reading_completion": false
+    },
+    {
+      "reference_number": 21,
+      "physical_pdf_pages_total": 57,
+      "text_passage_pages_inspected": [
+        5,
+        6,
+        7,
+        11,
+        12,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51
+      ],
+      "actual_visual_pages_inspected": [
+        42,
+        47
+      ],
+      "partial_pages_included": true,
+      "scope": "manuscript-relevant passages in model/method/evaluation/limitations; listed page is not whole-page completion",
+      "additional_scope_note": "B03-META-21正式出版元数据刷新仍缺；正式版配对、完整矩阵及代码未核，全部敏感性图像素尚未检。",
+      "human_verified": false,
+      "all_page_all_proof_close_reading_complete": false,
+      "download_is_reading_completion": false
+    },
+    {
+      "reference_number": 24,
+      "physical_pdf_pages_total": 50,
+      "text_passage_pages_inspected": [
+        5,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        27,
+        28,
+        29,
+        31,
+        33
+      ],
+      "actual_visual_pages_inspected": [
+        11,
+        19,
+        31
+      ],
+      "partial_pages_included": true,
+      "scope": "manuscript-relevant passages in model/method/evaluation/limitations; listed page is not whole-page completion",
+      "additional_scope_note": "正式版逐命题配对、全Q-law与连续全局优化验证、轨迹预计算完整耗时和补充表未全部核读。",
+      "human_verified": false,
+      "all_page_all_proof_close_reading_complete": false,
+      "download_is_reading_completion": false
+    },
+    {
+      "reference_number": 25,
+      "physical_pdf_pages_total": 24,
+      "text_passage_pages_inspected": [
+        4,
+        5,
+        7,
+        8,
+        9,
+        10,
+        11,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21
+      ],
+      "actual_visual_pages_inspected": [
+        9,
+        19
+      ],
+      "partial_pages_included": true,
+      "scope": "manuscript-relevant passages in model/method/evaluation/limitations; listed page is not whole-page completion",
+      "additional_scope_note": "正式版、所有导数/约束、代码复现未核；J2仅作RAAN敏感性，不作为动态高保真轨迹已验证；不能从限时求解失败推物理不可行。",
+      "human_verified": false,
+      "all_page_all_proof_close_reading_complete": false,
+      "download_is_reading_completion": false
+    },
+    {
+      "reference_number": 36,
+      "physical_pdf_pages_total": 18,
+      "text_passage_pages_inspected": [
+        3,
+        4,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "actual_visual_pages_inspected": [
+        8,
+        12
+      ],
+      "partial_pages_included": true,
+      "scope": "manuscript-relevant passages in model/method/evaluation/limitations; listed page is not whole-page completion",
+      "additional_scope_note": "未进行隐私攻击/形式隐私量化、真实网络或算法复现；全部附录参数调优和图页未穷尽。",
+      "human_verified": false,
+      "all_page_all_proof_close_reading_complete": false,
+      "download_is_reading_completion": false
+    },
+    {
+      "reference_number": 41,
+      "physical_pdf_pages_total": 9,
+      "text_passage_pages_inspected": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "actual_visual_pages_inspected": [
+        6,
+        7
+      ],
+      "partial_pages_included": true,
+      "scope": "manuscript-relevant passages in model/method/evaluation/limitations; listed page is not whole-page completion",
+      "additional_scope_note": "B03-PROB-41：文中消息丢失/到达概率用语与图pl=0.1解释不一致，精确丢包率需代码核；全部收敛证明/卫星适配未做。",
+      "human_verified": false,
+      "all_page_all_proof_close_reading_complete": false,
+      "download_is_reading_completion": false
+    },
+    {
+      "reference_number": 47,
+      "physical_pdf_pages_total": 40,
+      "text_passage_pages_inspected": [
+        5,
+        8,
+        12,
+        24,
+        26,
+        30,
+        31,
+        33,
+        35,
+        36
+      ],
+      "actual_visual_pages_inspected": [
+        24,
+        35
+      ],
+      "partial_pages_included": true,
+      "scope": "manuscript-relevant passages in model/method/evaluation/limitations; listed page is not whole-page completion",
+      "additional_scope_note": "正式版配对、全复杂性证明和全部生成器/统计实验未复现；文中“当前/现代”指原发表时期，非2026现况。",
+      "human_verified": false,
+      "all_page_all_proof_close_reading_complete": false,
+      "download_is_reading_completion": false
+    },
+    {
+      "reference_number": 48,
+      "physical_pdf_pages_total": 23,
+      "text_passage_pages_inspected": [
+        3,
+        4,
+        5,
+        6,
+        10,
+        12,
+        15,
+        16,
+        17,
+        18,
+        20
+      ],
+      "actual_visual_pages_inspected": [
+        17
+      ],
+      "partial_pages_included": true,
+      "scope": "manuscript-relevant passages in model/method/evaluation/limitations; listed page is not whole-page completion",
+      "additional_scope_note": "正式版对照、全生成器证明/实例复现未核；运营者额外判断和约束无法完全重建，不能做无条件人机因果比较。",
+      "human_verified": false,
+      "all_page_all_proof_close_reading_complete": false,
+      "download_is_reading_completion": false
+    },
+    {
+      "reference_number": 49,
+      "physical_pdf_pages_total": 11,
+      "text_passage_pages_inspected": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "actual_visual_pages_inspected": [
+        5,
+        7
+      ],
+      "partial_pages_included": true,
+      "scope": "manuscript-relevant passages in model/method/evaluation/limitations; listed page is not whole-page completion",
+      "additional_scope_note": "B03-MODEL-49：假设逐活动同刻唯一viewperiod与所示约束覆盖需正式版/代码核；不可凭本稿声称全部运营约束已验证，亦未复现实验。",
+      "human_verified": false,
+      "all_page_all_proof_close_reading_complete": false,
+      "download_is_reading_completion": false
+    },
+    {
+      "reference_number": 50,
+      "physical_pdf_pages_total": 19,
+      "text_passage_pages_inspected": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        10,
+        11,
+        13,
+        14,
+        16,
+        17
+      ],
+      "actual_visual_pages_inspected": [
+        6,
+        14,
+        16
+      ],
+      "partial_pages_included": true,
+      "scope": "manuscript-relevant passages in model/method/evaluation/limitations; listed page is not whole-page completion",
+      "additional_scope_note": "未逐项核所有业务规则实现/新平台当前状态；正文中的40%测试降冲突无完整实例分母，本批不作通用精确收益。",
+      "human_verified": false,
+      "all_page_all_proof_close_reading_complete": false,
+      "download_is_reading_completion": false
+    },
+    {
+      "reference_number": 58,
+      "physical_pdf_pages_total": 12,
+      "text_passage_pages_inspected": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "actual_visual_pages_inspected": [
+        6,
+        7,
+        8
+      ],
+      "partial_pages_included": true,
+      "scope": "manuscript-relevant passages in model/method/evaluation/limitations; listed page is not whole-page completion",
+      "additional_scope_note": "未核全部训练划分/超参数及代码；本批不把仿真+地面硬件测量写成在轨运行，不把相对增幅与指标取值混淆。",
+      "human_verified": false,
+      "all_page_all_proof_close_reading_complete": false,
+      "download_is_reading_completion": false
+    },
+    {
+      "reference_number": 116,
+      "physical_pdf_pages_total": 13,
+      "text_passage_pages_inspected": [
+        1,
+        3,
+        4,
+        5,
+        6,
+        7,
+        10,
+        11,
+        12,
+        13
+      ],
+      "actual_visual_pages_inspected": [
+        4,
+        11,
+        13
+      ],
+      "partial_pages_included": true,
+      "scope": "manuscript-relevant passages in model/method/evaluation/limitations; listed page is not whole-page completion",
+      "additional_scope_note": "未复现控制、轨道或Monte Carlo实例，也未核新版本功能；2020论文中的计划功能不当作当前软件缺陷或当前能力声明。",
+      "human_verified": false,
+      "all_page_all_proof_close_reading_complete": false,
+      "download_is_reading_completion": false
+    }
+  ]
+}
