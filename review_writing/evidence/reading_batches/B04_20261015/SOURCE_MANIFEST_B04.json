@@ -1,0 +1,970 @@
+{
+  "batch": "B04_20261015",
+  "as_of": "2026-10-15 Asia/Shanghai",
+  "sources": [
+    {
+      "reference_number": 2,
+      "doi": "10.2514/1.A35982",
+      "doi_url": "https://doi.org/10.2514/1.A35982",
+      "original_language": "en",
+      "original_title": "Space Logistics Modeling and Optimization: Review of the State of the Art",
+      "english_title": "Space Logistics Modeling and Optimization: Review of the State of the Art",
+      "english_title_role": "formal_English_title",
+      "chinese_translation": "空间物流建模与优化：研究现状综述",
+      "metadata": {
+        "status": "crossref_snapshot_obtained_not_human_final",
+        "metadata_url": "https://api.crossref.org/works/10.2514/1.A35982",
+        "snapshot_sha256": "ab8c27a3f53ae519ae80f788a0aa76ba9c25cb4145230205c1eab773e2f6ffd6",
+        "authors": [
+          "Koki Ho"
+        ],
+        "container_titles": [
+          "Journal of Spacecraft and Rockets"
+        ],
+        "volume": "61",
+        "issue": "5",
+        "page_or_article_number": "1417-1427",
+        "dates": {
+          "issued": {
+            "date-parts": [
+              [
+                2024,
+                9
+              ]
+            ]
+          },
+          "published": {
+            "date-parts": [
+              [
+                2024,
+                9
+              ]
+            ]
+          },
+          "published-print": {
+            "date-parts": [
+              [
+                2024,
+                9
+              ]
+            ]
+          }
+        },
+        "warnings": null
+      },
+      "version_identity": "author_preprint_arxiv_2306.01107v8_2024-09-12",
+      "version_group": "author_copy",
+      "identity_basis": "首页arXiv v8，2024-09-12，25物理页；未与正式版逐项配对。",
+      "read_copy_title_difference": null,
+      "read_source_url": "https://arxiv.org/pdf/2306.01107",
+      "local_pdf_path": "D:\\SKT727\\materials\\constellation_review_B04_20261015\\002_next.pdf",
+      "physical_pdf_pages": 25,
+      "bytes": 1923617,
+      "sha256": "cce2963c96a3d4a737831f31fe34d3e7d13b5bac1b955a159094b0834080c037",
+      "HTML_tool_capture_receipts": [],
+      "text_status": "selected_body_readable_with_some_formula_or_ligature_encoding_artifacts",
+      "targeted_body_reading_recorded": true,
+      "all_page_all_proof_close_reading_complete": false,
+      "formal_version_parity_closed": false,
+      "human_verified": false,
+      "third_party_PDF_committed": false
+    },
+    {
+      "reference_number": 5,
+      "doi": "10.1016/j.actaastro.2025.10.018",
+      "doi_url": "https://doi.org/10.1016/j.actaastro.2025.10.018",
+      "original_language": "en",
+      "original_title": "Agent-based approaches for distributed space systems and mission management: Methodologies, current practices and challenges",
+      "english_title": "Agent-based approaches for distributed space systems and mission management: Methodologies, current practices and challenges",
+      "english_title_role": "formal_English_title",
+      "chinese_translation": "分布式空间系统与任务管理的基于智能体方法：方法论、实践现状与挑战",
+      "metadata": {
+        "status": "crossref_snapshot_obtained_not_human_final",
+        "metadata_url": "https://api.crossref.org/works/10.1016/j.actaastro.2025.10.018",
+        "snapshot_sha256": "6ca93a6d270e135e4384147cbbf38fe55bd33dd16ebbe381348a85459bad0af1",
+        "authors": [
+          "Mohammad Reza Jabbarpour",
+          "Bao Quoc Vo",
+          "Ghaith El-Dalahmeh",
+          "Hassam Tahir",
+          "Ryszard Kowalczyk",
+          "Travis Bessell",
+          "James Barr"
+        ],
+        "container_titles": [
+          "Acta Astronautica"
+        ],
+        "volume": "238",
+        "issue": null,
+        "page_or_article_number": "237-257",
+        "dates": {
+          "issued": {
+            "date-parts": [
+              [
+                2026,
+                1
+              ]
+            ]
+          },
+          "published": {
+            "date-parts": [
+              [
+                2026,
+                1
+              ]
+            ]
+          },
+          "published-print": {
+            "date-parts": [
+              [
+                2026,
+                1
+              ]
+            ]
+          }
+        },
+        "warnings": null
+      },
+      "version_identity": "publisher_VOR_OA_institutional_repository",
+      "version_group": "publisher_typeset_copy",
+      "identity_basis": "Acta Astronautica238(2026):237–257正式排版，21物理页，2025-10-14在线；阿德莱德大学仓储公开副本。",
+      "read_copy_title_difference": null,
+      "read_source_url": "https://digital.library.adelaide.edu.au/server/api/core/bitstreams/482432e4-b0a1-48de-aefb-979a0fc69ca5/content",
+      "local_pdf_path": "D:\\SKT727\\materials\\constellation_review_B04_20261015\\005_last.pdf",
+      "physical_pdf_pages": 21,
+      "bytes": 2825534,
+      "sha256": "d162a300fa462c36ac1b0db6691181bdc2d2555b477b60c532b96dc95adb22ed",
+      "HTML_tool_capture_receipts": [],
+      "text_status": "selected_body_readable_with_some_formula_or_ligature_encoding_artifacts",
+      "targeted_body_reading_recorded": true,
+      "all_page_all_proof_close_reading_complete": false,
+      "formal_version_parity_closed": false,
+      "human_verified": false,
+      "third_party_PDF_committed": false
+    },
+    {
+      "reference_number": 7,
+      "doi": "10.7527/S1000-6893.2026.32935",
+      "doi_url": "https://doi.org/10.7527/S1000-6893.2026.32935",
+      "original_language": "zh",
+      "original_title": "低轨巨型星座智能组网技术综述",
+      "english_title": "A Survey of Intelligent Networking Technologies for LEO Mega-Constellations",
+      "english_title_role": "publisher_provided_translation",
+      "chinese_translation": "低轨巨型星座智能组网技术综述",
+      "metadata": {
+        "status": "publisher_network_first_metadata_conflicts",
+        "metadata_url": "https://doi.org/10.7527/S1000-6893.2026.32935",
+        "snapshot_sha256": null,
+        "authors_observed_read_copy": [
+          "龚李赠",
+          "张文龙",
+          "陈全",
+          "杨磊",
+          "姚雯"
+        ],
+        "container_titles": [
+          "航空学报 / Acta Aeronautica et Astronautica Sinica"
+        ],
+        "formal_publication_string_inherited": "航空学报, 2026; online 23 March 2026",
+        "basis_and_limits": "Crossref404；PDF首屏DOI去除上标脚注后匹配；页眉2025/Vol46NoX与引用栏2026,46(13):532935、2026-02-04录用日期不能视为已终排核准",
+        "Crossref_snapshot_obtained": false,
+        "warnings": "不以网络首发的模板年月推定终排卷期"
+      },
+      "version_identity": "publisher_network_first_PDF_provisional_metadata",
+      "version_group": "publisher_provisional_PDF",
+      "identity_basis": "出版社公开21页网络首发/待终排PDF。首页像素核对确认DOI为10.7527/S1000-6893.2026.32935，末尾1为上标脚注，非DOI组成；页眉Jan25 2025/Vol46 NoX与引用栏2026,46(13):532935及2026录用日期不一致，终排信息仍待核。",
+      "read_copy_title_difference": null,
+      "read_source_url": "https://hkxb.buaa.edu.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=21249",
+      "local_pdf_path": "D:\\SKT727\\materials\\constellation_review_B04_20261015\\007_extra.pdf",
+      "physical_pdf_pages": 21,
+      "bytes": 1108650,
+      "sha256": "7d8e18e99dec024c56315c7a166cd3e1055d2207ac14ff3cf0ae554c201b76ee",
+      "HTML_tool_capture_receipts": [],
+      "text_status": "selected_body_readable_with_some_formula_or_ligature_encoding_artifacts",
+      "targeted_body_reading_recorded": true,
+      "all_page_all_proof_close_reading_complete": false,
+      "formal_version_parity_closed": false,
+      "human_verified": false,
+      "third_party_PDF_committed": false
+    },
+    {
+      "reference_number": 8,
+      "doi": "10.3873/j.issn.1000-1328.2026.02.002",
+      "doi_url": "https://doi.org/10.3873/j.issn.1000-1328.2026.02.002",
+      "original_language": "zh",
+      "original_title": "低轨通信卫星星座网络资源管控与优化技术综述",
+      "english_title": "Review on Resource Management and Optimization Technologies for LEO Communication Satellite Constellation Networks",
+      "english_title_role": "publisher_provided_translation",
+      "chinese_translation": "低轨通信卫星星座网络资源管控与优化技术综述",
+      "metadata": {
+        "status": "publisher_VOR_front_matter_metadata",
+        "metadata_url": "https://doi.org/10.3873/j.issn.1000-1328.2026.02.002",
+        "snapshot_sha256": null,
+        "authors_observed_read_copy": [
+          "邸航",
+          "董涛",
+          "刘志慧",
+          "魏硕彤",
+          "张丁允"
+        ],
+        "container_titles": [
+          "宇航学报 / Journal of Astronautics"
+        ],
+        "formal_publication_string_inherited": "宇航学报, 2026, 47(2): 270–283",
+        "basis_and_limits": "CrossrefTLS握手超时；正式PDF首页47(2)(2026):270–283、DOI及作者均可核",
+        "Crossref_snapshot_obtained": false,
+        "warnings": null
+      },
+      "version_identity": "publisher_VOR_public_PDF",
+      "version_group": "publisher_typeset_copy",
+      "identity_basis": "宇航学报47(2)(2026):270–283正式排版14页；中文为原标题，首页另附官方英文题名。",
+      "read_copy_title_difference": null,
+      "read_source_url": "https://www.spacejournal.cn/yhxb/cn/article/pdf/preview/10.3873/j.issn.1000-1328.2026.02.002.pdf",
+      "local_pdf_path": "D:\\SKT727\\materials\\constellation_review_B04_20261015\\008_extra.pdf",
+      "physical_pdf_pages": 14,
+      "bytes": 1668310,
+      "sha256": "59a764b80a0297fc58ca826c660bf90dc48b0d08bfd18b79b8fc140dc770ba0b",
+      "HTML_tool_capture_receipts": [],
+      "text_status": "selected_body_readable_with_some_formula_or_ligature_encoding_artifacts",
+      "targeted_body_reading_recorded": true,
+      "all_page_all_proof_close_reading_complete": false,
+      "formal_version_parity_closed": false,
+      "human_verified": false,
+      "third_party_PDF_committed": false
+    },
+    {
+      "reference_number": 16,
+      "doi": "10.1007/s42405-026-01298-1",
+      "doi_url": "https://doi.org/10.1007/s42405-026-01298-1",
+      "original_language": "en",
+      "original_title": "Two-Stage Framework for Deployment-Aware Optimization of Satellite Constellation Pattern Design",
+      "english_title": "Two-Stage Framework for Deployment-Aware Optimization of Satellite Constellation Pattern Design",
+      "english_title_role": "formal_English_title",
+      "chinese_translation": "面向部署的卫星星座构型优化两阶段框架",
+      "metadata": {
+        "status": "publisher_VOR_online_first_metadata",
+        "metadata_url": "https://doi.org/10.1007/s42405-026-01298-1",
+        "snapshot_sha256": null,
+        "authors_observed_read_copy": [
+          "Beomjin Gwon",
+          "Jaemyung Ahn"
+        ],
+        "container_titles": [
+          "International Journal of Aeronautical and Space Sciences"
+        ],
+        "formal_publication_string_inherited": "International Journal of Aeronautical and Space Sciences, 2026",
+        "basis_and_limits": "Crossref429后停止；正式PDF及出版社页显示DOI题名作者，2026-10-07发表于线上，未填造未见的卷期页",
+        "Crossref_snapshot_obtained": false,
+        "warnings": null
+      },
+      "version_identity": "publisher_VOR_Springer_OA_online_first",
+      "version_group": "publisher_typeset_copy",
+      "identity_basis": "正式排版21物理页，官方页发表日期2026-10-07；DOI、题名与作者吻合。Crossref普通请求429未重试。",
+      "read_copy_title_difference": null,
+      "read_source_url": "https://link.springer.com/content/pdf/10.1007/s42405-026-01298-1.pdf",
+      "local_pdf_path": "D:\\SKT727\\materials\\constellation_review_B04_20261015\\016_next.pdf",
+      "physical_pdf_pages": 21,
+      "bytes": 1177555,
+      "sha256": "4e366f02c06f10964d8b6a528447fe35ca33ff6c3ee824013111d7c9a3dae8c9",
+      "HTML_tool_capture_receipts": [],
+      "text_status": "selected_body_readable_with_some_formula_or_ligature_encoding_artifacts",
+      "targeted_body_reading_recorded": true,
+      "all_page_all_proof_close_reading_complete": false,
+      "formal_version_parity_closed": false,
+      "human_verified": false,
+      "third_party_PDF_committed": false
+    },
+    {
+      "reference_number": 19,
+      "doi": "10.2514/1.A36281",
+      "doi_url": "https://doi.org/10.2514/1.A36281",
+      "original_language": "en",
+      "original_title": "Replenishment Strategy for Satellite Constellation with Dual Supply Modes",
+      "english_title": "Replenishment Strategy for Satellite Constellation with Dual Supply Modes",
+      "english_title_role": "formal_English_title",
+      "chinese_translation": "具有双供应模式的卫星星座补给策略",
+      "metadata": {
+        "status": "crossref_snapshot_obtained_not_human_final",
+        "metadata_url": "https://api.crossref.org/works/10.2514/1.A36281",
+        "snapshot_sha256": "792911c455bd36a396c078de31a1d3f3ed81703aab270ec27d158fa9b50c4e8a",
+        "authors": [
+          "Jaewoo Kim",
+          "Jaemyung Ahn",
+          "Taehyun Sung"
+        ],
+        "container_titles": [
+          "Journal of Spacecraft and Rockets"
+        ],
+        "volume": "62",
+        "issue": "5",
+        "page_or_article_number": "1567-1583",
+        "dates": {
+          "issued": {
+            "date-parts": [
+              [
+                2025,
+                9
+              ]
+            ]
+          },
+          "published": {
+            "date-parts": [
+              [
+                2025,
+                9
+              ]
+            ]
+          },
+          "published-print": {
+            "date-parts": [
+              [
+                2025,
+                9
+              ]
+            ]
+          }
+        },
+        "warnings": null
+      },
+      "version_identity": "author_preprint_arxiv_2408.09696v2_2024-09-08",
+      "version_group": "author_copy",
+      "identity_basis": "实际首页arXiv v2，2024-09-08；作者稿题名含Optimal，与正式题名不同；41物理页并非正式出版页数。",
+      "read_copy_title_difference": "Read copy begins Optimal Replenishment Strategy..., formal title omits Optimal",
+      "read_source_url": "https://arxiv.org/pdf/2408.09696",
+      "local_pdf_path": "D:\\SKT727\\materials\\constellation_review_B04_20261015\\019_public.pdf",
+      "physical_pdf_pages": 41,
+      "bytes": 1239936,
+      "sha256": "7b46e1100583fdce3d9f9f61412d69ba5df311dc3883ea5cc22e97589e6b3b9c",
+      "HTML_tool_capture_receipts": [],
+      "text_status": "selected_body_readable_with_some_formula_or_ligature_encoding_artifacts",
+      "targeted_body_reading_recorded": true,
+      "all_page_all_proof_close_reading_complete": false,
+      "formal_version_parity_closed": false,
+      "human_verified": false,
+      "third_party_PDF_committed": false
+    },
+    {
+      "reference_number": 26,
+      "doi": "10.1155/2021/6644339",
+      "doi_url": "https://doi.org/10.1155/2021/6644339",
+      "original_language": "en",
+      "original_title": "Deployment of On-Orbit Service Vehicles Using a Fuzzy Adaptive Particle Swarm Optimization Algorithm",
+      "english_title": "Deployment of On-Orbit Service Vehicles Using a Fuzzy Adaptive Particle Swarm Optimization Algorithm",
+      "english_title_role": "formal_English_title",
+      "chinese_translation": "采用模糊自适应粒子群算法的在轨服务飞行器部署",
+      "metadata": {
+        "status": "crossref_snapshot_obtained_not_human_final",
+        "metadata_url": "https://api.crossref.org/works/10.1155/2021/6644339",
+        "snapshot_sha256": "f92a5e29d38e44ef9f070c02279e44b7830c8a86d7af74d84e7852e2ae6bafc4",
+        "authors": [
+          "Yaxiong Li",
+          "Xinglong Sun",
+          "Xinxue Liu",
+          "Jian Wu",
+          "Qingguo Liu"
+        ],
+        "container_titles": [
+          "Modelling and Simulation in Engineering"
+        ],
+        "volume": "2021",
+        "issue": null,
+        "page_or_article_number": "1-15",
+        "dates": {
+          "issued": {
+            "date-parts": [
+              [
+                2021,
+                6,
+                19
+              ]
+            ]
+          },
+          "published": {
+            "date-parts": [
+              [
+                2021,
+                6,
+                19
+              ]
+            ]
+          },
+          "published-print": {
+            "date-parts": [
+              [
+                2021,
+                6,
+                19
+              ]
+            ]
+          }
+        },
+        "warnings": "Crossref日期2021-06-19与出版社HTMLFirst published2021-06-21分别保留"
+      },
+      "version_identity": "publisher_open_HTML_PDF_unavailable",
+      "version_group": "publisher_HTML_body",
+      "identity_basis": "Wiley开放HTML正文可读，PDF普通请求403后停止；没有本地PDF、页数/大小/SHA或像素核查。模型中的若干数学表达式在网页提取中缺失。",
+      "read_copy_title_difference": null,
+      "read_source_url": "https://onlinelibrary.wiley.com/doi/10.1155/2021/6644339",
+      "local_pdf_path": null,
+      "physical_pdf_pages": null,
+      "bytes": null,
+      "sha256": null,
+      "HTML_tool_capture_receipts": [
+        {
+          "local_capture_path": "D:\\SKT727\\materials\\constellation_review_B04_20261015\\WEB_CAPTURE_026_MODEL.json",
+          "bytes": 32298,
+          "sha256": "138ffa8f872fa616f7b03ef1e18e6193de0e8ec0c3eb1ce24f861048d6aa1792",
+          "identity": "tool_return_snapshot_not_original_HTML_bytes_or_PDF"
+        },
+        {
+          "local_capture_path": "D:\\SKT727\\materials\\constellation_review_B04_20261015\\WEB_CAPTURE_026_RESULTS.json",
+          "bytes": 24518,
+          "sha256": "1a4fec90dab3a46b107a21a0427abf7c51ea341351173b0dc7f37c17d556c389",
+          "identity": "tool_return_snapshot_not_original_HTML_bytes_or_PDF"
+        }
+      ],
+      "text_status": "visible_HTML_body_readable_some_math_missing",
+      "targeted_body_reading_recorded": true,
+      "all_page_all_proof_close_reading_complete": false,
+      "formal_version_parity_closed": false,
+      "human_verified": false,
+      "third_party_PDF_committed": false
+    },
+    {
+      "reference_number": 30,
+      "doi": "10.1016/S1270-9638(02)01173-2",
+      "doi_url": "https://doi.org/10.1016/S1270-9638(02)01173-2",
+      "original_language": "en",
+      "original_title": "Selecting and scheduling observations of agile satellites",
+      "english_title": "Selecting and scheduling observations of agile satellites",
+      "english_title_role": "formal_English_title",
+      "chinese_translation": "敏捷卫星观测的选择与调度",
+      "metadata": {
+        "status": "publisher_typeset_copy_front_matter_metadata",
+        "metadata_url": "https://doi.org/10.1016/S1270-9638(02)01173-2",
+        "snapshot_sha256": null,
+        "authors_observed_read_copy": [
+          "Michel Lemaître",
+          "Gérard Verfaillie",
+          "Frank Jouhaud",
+          "Jean-Michel Lachiver",
+          "Nicolas Bataille"
+        ],
+        "container_titles": [
+          "Aerospace Science and Technology"
+        ],
+        "formal_publication_string_inherited": "Aerospace Science and Technology, 2002, 6(5): 367–381",
+        "basis_and_limits": "未另请求Crossref；正式排版公开副本6(2002):367–381，题名作者及PII可核，DOI来自冻结书目",
+        "Crossref_snapshot_obtained": false,
+        "warnings": null
+      },
+      "version_identity": "publisher_typeset_article_copy_hosted_SFU_course",
+      "version_group": "publisher_typeset_copy",
+      "identity_basis": "SFU课程公开15页原期刊排版副本，Aerospace Science and Technology6(2002):367–381，题名作者及PII吻合。",
+      "read_copy_title_difference": null,
+      "read_source_url": "https://www2.cs.sfu.ca/CourseCentral/827/havens/papers/topic%2312%28SatelliteScheduling%29/lemaitre-2002.pdf",
+      "local_pdf_path": "D:\\SKT727\\materials\\constellation_review_B04_20261015\\030_public.pdf",
+      "physical_pdf_pages": 15,
+      "bytes": 307237,
+      "sha256": "e0d479deb97455c53c55edf51d740736b39097e7e2c1e0d7c41219f734cff86e",
+      "HTML_tool_capture_receipts": [],
+      "text_status": "selected_body_readable_with_some_formula_or_ligature_encoding_artifacts",
+      "targeted_body_reading_recorded": true,
+      "all_page_all_proof_close_reading_complete": false,
+      "formal_version_parity_closed": false,
+      "human_verified": false,
+      "third_party_PDF_committed": false
+    },
+    {
+      "reference_number": 39,
+      "doi": "10.1109/JSEE.2016.00066",
+      "doi_url": "https://doi.org/10.1109/JSEE.2016.00066",
+      "original_language": "en",
+      "original_title": "Distributed cooperative task planning algorithm for multiple satellites in delayed communication environment",
+      "english_title": "Distributed cooperative task planning algorithm for multiple satellites in delayed communication environment",
+      "english_title_role": "formal_English_title",
+      "chinese_translation": "时延通信环境下的多卫星分布式协同任务规划算法",
+      "metadata": {
+        "status": "crossref_snapshot_obtained_not_human_final",
+        "metadata_url": "https://api.crossref.org/works/10.1109/JSEE.2016.00066",
+        "snapshot_sha256": "8e4b0b07e7aee319a1c26c5f50e11d344c4d214f7e0795864265964cfd3b8887",
+        "authors": [
+          "Chong Wang",
+          "Jinhui Tang",
+          "Xiaohang Cheng",
+          "Yingchen Liu",
+          "Changchun Wang"
+        ],
+        "container_titles": [
+          "Journal of Systems Engineering and Electronics"
+        ],
+        "volume": "27",
+        "issue": "3",
+        "page_or_article_number": "619-633",
+        "dates": {
+          "issued": {
+            "date-parts": [
+              [
+                2016,
+                6,
+                22
+              ]
+            ]
+          },
+          "published": {
+            "date-parts": [
+              [
+                2016,
+                6,
+                22
+              ]
+            ]
+          },
+          "published-print": {
+            "date-parts": [
+              [
+                2016,
+                6,
+                22
+              ]
+            ]
+          }
+        },
+        "warnings": "出版社落地页Published字段2010与正式PDF及Crossref2016不符；按实际所读2016稿记录"
+      },
+      "version_identity": "publisher_VOR_public_PDF",
+      "version_group": "publisher_typeset_copy",
+      "identity_basis": "15页正式排版，Journal of Systems Engineering and Electronics27(3)(2016):619–633；出版社落地页部分日期字段写2010，与PDF/Crossref2016不同。",
+      "read_copy_title_difference": null,
+      "read_source_url": "https://www.jseepub.com/CN/article/downloadArticleFile.do?attachType=PDF&id=5650",
+      "local_pdf_path": "D:\\SKT727\\materials\\constellation_review_B04_20261015\\039_last.pdf",
+      "physical_pdf_pages": 15,
+      "bytes": 1403000,
+      "sha256": "9642a659b2e13eeee59bce165e02f50426ee875162e5a9cb194a555133df2206",
+      "HTML_tool_capture_receipts": [],
+      "text_status": "selected_body_readable_with_some_formula_or_ligature_encoding_artifacts",
+      "targeted_body_reading_recorded": true,
+      "all_page_all_proof_close_reading_complete": false,
+      "formal_version_parity_closed": false,
+      "human_verified": false,
+      "third_party_PDF_committed": false
+    },
+    {
+      "reference_number": 57,
+      "doi": "10.1007/s10586-025-05663-9",
+      "doi_url": "https://doi.org/10.1007/s10586-025-05663-9",
+      "original_language": "en",
+      "original_title": "Orbit-aware task scheduling in satellite edge computing",
+      "english_title": "Orbit-aware task scheduling in satellite edge computing",
+      "english_title_role": "formal_English_title",
+      "chinese_translation": "卫星边缘计算中的轨道感知任务调度",
+      "metadata": {
+        "status": "crossref_snapshot_obtained_not_human_final",
+        "metadata_url": "https://api.crossref.org/works/10.1007/s10586-025-05663-9",
+        "snapshot_sha256": "747dc05053a81934e912c3fe676b9d23d7238375b9876d206aceb8b4f3dbb607",
+        "authors": [
+          "Danilo Magliarisi",
+          "Emiliano Casalicchio",
+          "Vincenzo Salvatore"
+        ],
+        "container_titles": [
+          "Cluster Computing"
+        ],
+        "volume": "28",
+        "issue": "16",
+        "page_or_article_number": "1013",
+        "dates": {
+          "issued": {
+            "date-parts": [
+              [
+                2025,
+                10,
+                17
+              ]
+            ]
+          },
+          "published": {
+            "date-parts": [
+              [
+                2025,
+                10,
+                17
+              ]
+            ]
+          },
+          "published-online": {
+            "date-parts": [
+              [
+                2025,
+                10,
+                17
+              ]
+            ]
+          },
+          "published-print": {
+            "date-parts": [
+              [
+                2025,
+                12
+              ]
+            ]
+          }
+        },
+        "warnings": null
+      },
+      "version_identity": "publisher_VOR_Springer_OA",
+      "version_group": "publisher_typeset_copy",
+      "identity_basis": "Springer公开正式排版18页，Cluster Computing28:1013(2025)，DOI及作者可核。",
+      "read_copy_title_difference": null,
+      "read_source_url": "https://link.springer.com/content/pdf/10.1007/s10586-025-05663-9.pdf",
+      "local_pdf_path": "D:\\SKT727\\materials\\constellation_review_B04_20261015\\057_public.pdf",
+      "physical_pdf_pages": 18,
+      "bytes": 4515261,
+      "sha256": "f1c1bd362d23b0f70c444fc892e6527cec5afa1dbbc69504538e86c7a2aab37b",
+      "HTML_tool_capture_receipts": [],
+      "text_status": "selected_body_readable_with_some_formula_or_ligature_encoding_artifacts",
+      "targeted_body_reading_recorded": true,
+      "all_page_all_proof_close_reading_complete": false,
+      "formal_version_parity_closed": false,
+      "human_verified": false,
+      "third_party_PDF_committed": false
+    },
+    {
+      "reference_number": 61,
+      "doi": "10.1109/TAES.2019.2947978",
+      "doi_url": "https://doi.org/10.1109/TAES.2019.2947978",
+      "original_language": "en",
+      "original_title": "Robust Earth Observation Satellite Scheduling With Uncertainty of Cloud Coverage",
+      "english_title": "Robust Earth Observation Satellite Scheduling With Uncertainty of Cloud Coverage",
+      "english_title_role": "formal_English_title",
+      "chinese_translation": "考虑云覆盖不确定性的鲁棒对地观测卫星调度",
+      "metadata": {
+        "status": "crossref_snapshot_obtained_not_human_final",
+        "metadata_url": "https://api.crossref.org/works/10.1109/TAES.2019.2947978",
+        "snapshot_sha256": "7219ed1153241bd29884285eb99d90cd8695e262cf593eac90a909b791383083",
+        "authors": [
+          "Xinwei Wang",
+          "Guopeng Song",
+          "Roel Leus",
+          "Chao Han"
+        ],
+        "container_titles": [
+          "IEEE Transactions on Aerospace and Electronic Systems"
+        ],
+        "volume": "56",
+        "issue": "3",
+        "page_or_article_number": "2450-2461",
+        "dates": {
+          "issued": {
+            "date-parts": [
+              [
+                2020,
+                6
+              ]
+            ]
+          },
+          "published": {
+            "date-parts": [
+              [
+                2020,
+                6
+              ]
+            ]
+          },
+          "published-print": {
+            "date-parts": [
+              [
+                2020,
+                6
+              ]
+            ]
+          }
+        },
+        "warnings": null
+      },
+      "version_identity": "author_manuscript_dated_2020-03-18",
+      "version_group": "author_copy",
+      "identity_basis": "作者公开GoogleDrive副本由Leus公开出版物页直接链接，41页，首页Preprint submitted to IEEE TAES March18,2020；未与正式12页配对。",
+      "read_copy_title_difference": null,
+      "read_source_url": "https://drive.google.com/uc?export=download&id=1ZWAE-hwLsw2lb1-6BrzXHcVYRNGIDMJe",
+      "local_pdf_path": "D:\\SKT727\\materials\\constellation_review_B04_20261015\\061_additional.pdf",
+      "physical_pdf_pages": 41,
+      "bytes": 452187,
+      "sha256": "900e6c9125732d92f2d17ca3072dd2a23130515d2bc01f399e942b989d94bacb",
+      "HTML_tool_capture_receipts": [],
+      "text_status": "selected_body_readable_with_some_formula_or_ligature_encoding_artifacts",
+      "targeted_body_reading_recorded": true,
+      "all_page_all_proof_close_reading_complete": false,
+      "formal_version_parity_closed": false,
+      "human_verified": false,
+      "third_party_PDF_committed": false
+    },
+    {
+      "reference_number": 62,
+      "doi": "10.1016/j.ejor.2018.11.043",
+      "doi_url": "https://doi.org/10.1016/j.ejor.2018.11.043",
+      "original_language": "en",
+      "original_title": "Mixed-integer programming models for optimal constellation scheduling given cloud cover uncertainty",
+      "english_title": "Mixed-integer programming models for optimal constellation scheduling given cloud cover uncertainty",
+      "english_title_role": "formal_English_title",
+      "chinese_translation": "考虑云覆盖不确定性的最优星座调度混合整数规划模型",
+      "metadata": {
+        "status": "crossref_snapshot_obtained_not_human_final",
+        "metadata_url": "https://api.crossref.org/works/10.1016/j.ejor.2018.11.043",
+        "snapshot_sha256": "70e0de5e752b9232984cf7b1b51529e114193557c1892264348180b265cf1c12",
+        "authors": [
+          "Christopher G. Valicka",
+          "Deanna Garcia",
+          "Andrea Staid",
+          "Jean-Paul Watson",
+          "Gabriel Hackebeil",
+          "Sivakumar Rathinam",
+          "Lewis Ntaimo"
+        ],
+        "container_titles": [
+          "European Journal of Operational Research"
+        ],
+        "volume": "275",
+        "issue": "2",
+        "page_or_article_number": "431-445",
+        "dates": {
+          "issued": {
+            "date-parts": [
+              [
+                2019,
+                6
+              ]
+            ]
+          },
+          "published": {
+            "date-parts": [
+              [
+                2019,
+                6
+              ]
+            ]
+          },
+          "published-print": {
+            "date-parts": [
+              [
+                2019,
+                6
+              ]
+            ]
+          }
+        },
+        "warnings": null
+      },
+      "version_identity": "author_accepted_manuscript_OSTI",
+      "version_group": "author_copy",
+      "identity_basis": "OSTI公开39页作者/接受稿，非正式排版；DOI和作者题名吻合，正式版配对未关闭。",
+      "read_copy_title_difference": null,
+      "read_source_url": "https://www.osti.gov/servlets/purl/1524209",
+      "local_pdf_path": "D:\\SKT727\\materials\\constellation_review_B04_20261015\\062_long.pdf",
+      "physical_pdf_pages": 39,
+      "bytes": 3744687,
+      "sha256": "136c28f5121ece9e892961ccaf2487e886713e4f495140dfe45c5eff76bd085c",
+      "HTML_tool_capture_receipts": [],
+      "text_status": "selected_body_readable_with_some_formula_or_ligature_encoding_artifacts",
+      "targeted_body_reading_recorded": true,
+      "all_page_all_proof_close_reading_complete": false,
+      "formal_version_parity_closed": false,
+      "human_verified": false,
+      "third_party_PDF_committed": false
+    },
+    {
+      "reference_number": 72,
+      "doi": "10.1007/s40295-025-00487-6",
+      "doi_url": "https://doi.org/10.1007/s40295-025-00487-6",
+      "original_language": "en",
+      "original_title": "Optimal Multi-Client Trajectory Planning for A Low-Thrust Servicing Satellite in the Presence of Perturbations",
+      "english_title": "Optimal Multi-Client Trajectory Planning for A Low-Thrust Servicing Satellite in the Presence of Perturbations",
+      "english_title_role": "formal_English_title",
+      "chinese_translation": "存在摄动时低推力服务卫星的最优多客户轨迹规划",
+      "metadata": {
+        "status": "publisher_VOR_front_matter_metadata",
+        "metadata_url": "https://doi.org/10.1007/s40295-025-00487-6",
+        "snapshot_sha256": null,
+        "authors_observed_read_copy": [
+          "Riccardo Apa",
+          "Shambo Bhattacharjee",
+          "Jennifer Hudson",
+          "Marcello Romano"
+        ],
+        "container_titles": [
+          "The Journal of the Astronautical Sciences"
+        ],
+        "formal_publication_string_inherited": "The Journal of the Astronautical Sciences, 2025, 72(2): 7",
+        "basis_and_limits": "CrossrefTLS握手超时；正式PDF72:7(2025)，首页Published online11March2025，38物理页",
+        "Crossref_snapshot_obtained": false,
+        "warnings": null
+      },
+      "version_identity": "publisher_VOR_Springer_OA",
+      "version_group": "publisher_typeset_copy",
+      "identity_basis": "The Journal of the Astronautical Sciences72:7(2025)，38页正式排版；公开服务器常规字节范围续传后PDF完整、可解析。",
+      "read_copy_title_difference": null,
+      "read_source_url": "https://link.springer.com/content/pdf/10.1007/s40295-025-00487-6.pdf",
+      "local_pdf_path": "D:\\SKT727\\materials\\constellation_review_B04_20261015\\072_publisher.pdf",
+      "physical_pdf_pages": 38,
+      "bytes": 10664944,
+      "sha256": "4c33ba12334a19d142e50684472aa81ad21f9b24448c92e5fabf918aa122b160",
+      "HTML_tool_capture_receipts": [],
+      "text_status": "selected_body_readable_with_some_formula_or_ligature_encoding_artifacts",
+      "targeted_body_reading_recorded": true,
+      "all_page_all_proof_close_reading_complete": false,
+      "formal_version_parity_closed": false,
+      "human_verified": false,
+      "third_party_PDF_committed": false
+    },
+    {
+      "reference_number": 86,
+      "doi": "10.1016/j.actaastro.2025.07.027",
+      "doi_url": "https://doi.org/10.1016/j.actaastro.2025.07.027",
+      "original_language": "en",
+      "original_title": "CAMmary: A review of spacecraft collision avoidance manoeuvre design methods",
+      "english_title": "CAMmary: A review of spacecraft collision avoidance manoeuvre design methods",
+      "english_title_role": "formal_English_title",
+      "chinese_translation": "CAMmary：航天器避碰机动设计方法综述",
+      "metadata": {
+        "status": "crossref_snapshot_obtained_not_human_final",
+        "metadata_url": "https://api.crossref.org/works/10.1016/j.actaastro.2025.07.027",
+        "snapshot_sha256": "f685d4d36196474b6a15be5b5f8a1295da43430f44e8bab76769aff91dd89eb9",
+        "authors": [
+          "Zeno Pavanello",
+          "Luigi De Maria",
+          "Andrea De Vittori",
+          "Michele Maestrini",
+          "Pierluigi Di Lizia",
+          "Roberto Armellin"
+        ],
+        "container_titles": [
+          "Acta Astronautica"
+        ],
+        "volume": "236",
+        "issue": null,
+        "page_or_article_number": "770-789",
+        "dates": {
+          "issued": {
+            "date-parts": [
+              [
+                2025,
+                11
+              ]
+            ]
+          },
+          "published": {
+            "date-parts": [
+              [
+                2025,
+                11
+              ]
+            ]
+          },
+          "published-print": {
+            "date-parts": [
+              [
+                2025,
+                11
+              ]
+            ]
+          }
+        },
+        "warnings": null
+      },
+      "version_identity": "author_preprint_arxiv_2503.22555v1_2025-03-28",
+      "version_group": "author_copy",
+      "identity_basis": "arXiv v1，40物理页，2025-03-28；未与Acta正式排版进行全文配对。",
+      "read_copy_title_difference": null,
+      "read_source_url": "https://arxiv.org/pdf/2503.22555",
+      "local_pdf_path": "D:\\SKT727\\materials\\constellation_review_B04_20261015\\086_next.pdf",
+      "physical_pdf_pages": 40,
+      "bytes": 1201567,
+      "sha256": "9b2e1c032b9b99cfb88530ed54cbbfb47c4880f36740d24a1e5ddf2e91377a31",
+      "HTML_tool_capture_receipts": [],
+      "text_status": "selected_body_readable_with_some_formula_or_ligature_encoding_artifacts",
+      "targeted_body_reading_recorded": true,
+      "all_page_all_proof_close_reading_complete": false,
+      "formal_version_parity_closed": false,
+      "human_verified": false,
+      "third_party_PDF_committed": false
+    },
+    {
+      "reference_number": 92,
+      "doi": "10.2514/1.G000218",
+      "doi_url": "https://doi.org/10.2514/1.G000218",
+      "original_language": "en",
+      "original_title": "Model Predictive Control of Swarms of Spacecraft Using Sequential Convex Programming",
+      "english_title": "Model Predictive Control of Swarms of Spacecraft Using Sequential Convex Programming",
+      "english_title_role": "formal_English_title",
+      "chinese_translation": "采用序列凸规划的航天器集群模型预测控制",
+      "metadata": {
+        "status": "crossref_snapshot_obtained_not_human_final",
+        "metadata_url": "https://api.crossref.org/works/10.2514/1.G000218",
+        "snapshot_sha256": "a10417225bb382e497d6f805cba6b2c0d823898bbea8f3bedfcfb5e55e283527",
+        "authors": [
+          "Daniel Morgan",
+          "Soon-Jo Chung",
+          "Fred Y. Hadaegh"
+        ],
+        "container_titles": [
+          "Journal of Guidance, Control, and Dynamics"
+        ],
+        "volume": "37",
+        "issue": "6",
+        "page_or_article_number": "1725-1740",
+        "dates": {
+          "issued": {
+            "date-parts": [
+              [
+                2014,
+                11
+              ]
+            ]
+          },
+          "published": {
+            "date-parts": [
+              [
+                2014,
+                11
+              ]
+            ]
+          },
+          "published-print": {
+            "date-parts": [
+              [
+                2014,
+                11
+              ]
+            ]
+          }
+        },
+        "warnings": null
+      },
+      "version_identity": "publisher_typeset_VOR_copy_author_public_repository",
+      "version_group": "publisher_typeset_copy",
+      "identity_basis": "作者Caltech研究页直接链接公开Box副本，16页正式JGCD37(6)(2014):1725–1740排版，题名/DOI吻合；不保存临时签名下载跳转。",
+      "read_copy_title_difference": null,
+      "read_source_url": "https://caltech.app.box.com/shared/static/xb19dc8ih9su97894omrmh8k44tfko1u.pdf",
+      "local_pdf_path": "D:\\SKT727\\materials\\constellation_review_B04_20261015\\092_author.pdf",
+      "physical_pdf_pages": 16,
+      "bytes": 1418077,
+      "sha256": "e977867ad600a2be7ab982703c34e07d80f90000363d95daa9bfa266c06e6bb0",
+      "HTML_tool_capture_receipts": [],
+      "text_status": "selected_body_readable_with_some_formula_or_ligature_encoding_artifacts",
+      "targeted_body_reading_recorded": true,
+      "all_page_all_proof_close_reading_complete": false,
+      "formal_version_parity_closed": false,
+      "human_verified": false,
+      "third_party_PDF_committed": false
+    }
+  ],
+  "Crossref_snapshots_obtained": 10,
+  "publisher_or_typeset_metadata_fallback_refs": [
+    7,
+    8,
+    16,
+    30,
+    72
+  ],
+  "formal_metadata_human_final_verified": false
+}

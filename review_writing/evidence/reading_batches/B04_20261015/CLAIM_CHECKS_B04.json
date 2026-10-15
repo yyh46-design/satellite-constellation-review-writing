@@ -1,0 +1,2680 @@
+{
+  "batch": "B04_20261015",
+  "frozen_manuscript_commit": "51be6a1326e8c615ea24f80f1887f16a2e7b02fc",
+  "frozen_manuscript_git_blob_sha256": "0b9f3f6f6b8d3c13af97f25d7baf3dac6dc18ecad8614e182633e12b6e3bbc69",
+  "claim_count": 90,
+  "claims": [
+    {
+      "claim_id": "B04-002-C01",
+      "reference_number": 2,
+      "doi": "10.2514/1.A35982",
+      "claim_type": "review_body_observation",
+      "source_physical_pages": [
+        4,
+        5
+      ],
+      "HTML_locator": null,
+      "source_locator": "applications; Table1",
+      "source_pdf_sha256": "cce2963c96a3d4a737831f31fe34d3e7d13b5bac1b955a159094b0834080c037",
+      "HTML_tool_capture_sha256s": [],
+      "source_version": "author_preprint_arxiv_2306.01107v8_2024-09-12",
+      "source_url": "https://arxiv.org/pdf/2306.01107",
+      "finding_cn": "综述将部署、补给、重构等应用，与网络流、排队和库存等建模方法交叉组织；大型星座只是空间物流应用之一。",
+      "citation_boundary_cn": "可借鉴双轴分类，但不能将其物流分类直接当成业务调度与安全控制的全领域分类。",
+      "actual_visual_pages_within_locator": [
+        5
+      ],
+      "manuscript_candidate_lines": [
+        23,
+        27,
+        322
+      ],
+      "candidate_position_may_be_cross_study_not_explicit_citation": true,
+      "manuscript_modified": false,
+      "formal_version_parity_closed": false,
+      "human_verified": false
+    },
+    {
+      "claim_id": "B04-002-C02",
+      "reference_number": 2,
+      "doi": "10.2514/1.A35982",
+      "claim_type": "review_body_observation",
+      "source_physical_pages": [
+        7,
+        9
+      ],
+      "HTML_locator": null,
+      "source_locator": "network flow developments",
+      "source_pdf_sha256": "cce2963c96a3d4a737831f31fe34d3e7d13b5bac1b955a159094b0834080c037",
+      "HTML_tool_capture_sha256s": [],
+      "source_version": "author_preprint_arxiv_2306.01107v8_2024-09-12",
+      "source_url": "https://arxiv.org/pdf/2306.01107",
+      "finding_cn": "低推力转移的质量/时间关联及多时间尺度推动时间扩展、多尺度和事件驱动等不同网络表示。",
+      "citation_boundary_cn": "不能概括为所有转移代价都固定，亦不能反向声称所有预计算都无效。",
+      "actual_visual_pages_within_locator": [],
+      "manuscript_candidate_lines": [
+        270
+      ],
+      "candidate_position_may_be_cross_study_not_explicit_citation": true,
+      "manuscript_modified": false,
+      "formal_version_parity_closed": false,
+      "human_verified": false
+    },
+    {
+      "claim_id": "B04-002-C03",
+      "reference_number": 2,
+      "doi": "10.2514/1.A35982",
+      "claim_type": "review_body_observation",
+      "source_physical_pages": [
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "HTML_locator": null,
+      "source_locator": "queueing and inventory theory",
+      "source_pdf_sha256": "cce2963c96a3d4a737831f31fe34d3e7d13b5bac1b955a159094b0834080c037",
+      "HTML_tool_capture_sha256s": [],
+      "source_version": "author_preprint_arxiv_2306.01107v8_2024-09-12",
+      "source_url": "https://arxiv.org/pdf/2306.01107",
+      "finding_cn": "排队刻画服务等待，库存模型刻画备件和补给需求；有限故障源与补给策略使两类方法存在耦合。",
+      "citation_boundary_cn": "等待时长、库存满足率和用户业务交付是不同变量，不能统一改写成任务成功率。",
+      "actual_visual_pages_within_locator": [],
+      "manuscript_candidate_lines": [
+        99,
+        276,
+        326
+      ],
+      "candidate_position_may_be_cross_study_not_explicit_citation": true,
+      "manuscript_modified": false,
+      "formal_version_parity_closed": false,
+      "human_verified": false
+    },
+    {
+      "claim_id": "B04-002-C04",
+      "reference_number": 2,
+      "doi": "10.2514/1.A35982",
+      "claim_type": "review_body_observation",
+      "source_physical_pages": [
+        14,
+        15
+      ],
+      "HTML_locator": null,
+      "source_locator": "decision rules; hierarchical learning; games",
+      "source_pdf_sha256": "cce2963c96a3d4a737831f31fe34d3e7d13b5bac1b955a159094b0834080c037",
+      "HTML_tool_capture_sha256s": [],
+      "source_version": "author_preprint_arxiv_2306.01107v8_2024-09-12",
+      "source_url": "https://arxiv.org/pdf/2306.01107",
+      "finding_cn": "决策规则、分层强化学习与MILP等在此作为已有研究族归纳，包含不同层次和不同信息条件。",
+      "citation_boundary_cn": "这部分并非该综述新做的统一算法实验，具体性能需追溯一次文献。",
+      "actual_visual_pages_within_locator": [
+        15
+      ],
+      "manuscript_candidate_lines": [
+        27,
+        270
+      ],
+      "candidate_position_may_be_cross_study_not_explicit_citation": true,
+      "manuscript_modified": false,
+      "formal_version_parity_closed": false,
+      "human_verified": false
+    },
+    {
+      "claim_id": "B04-002-C05",
+      "reference_number": 2,
+      "doi": "10.2514/1.A35982",
+      "claim_type": "review_body_observation",
+      "source_physical_pages": [
+        15,
+        16
+      ],
+      "HTML_locator": null,
+      "source_locator": "Table2; Fig4",
+      "source_pdf_sha256": "cce2963c96a3d4a737831f31fe34d3e7d13b5bac1b955a159094b0834080c037",
+      "HTML_tool_capture_sha256s": [],
+      "source_version": "author_preprint_arxiv_2306.01107v8_2024-09-12",
+      "source_url": "https://arxiv.org/pdf/2306.01107",
+      "finding_cn": "应用—方法映射允许同一研究跨类别；图4引文数采用2024-02-20的Google Scholar快照。",
+      "citation_boundary_cn": "引文量是历史统计，不是当前影响力核验或方法优劣证据。",
+      "actual_visual_pages_within_locator": [
+        15
+      ],
+      "manuscript_candidate_lines": [
+        27,
+        322
+      ],
+      "candidate_position_may_be_cross_study_not_explicit_citation": true,
+      "manuscript_modified": false,
+      "formal_version_parity_closed": false,
+      "human_verified": false
+    },
+    {
+      "claim_id": "B04-002-C06",
+      "reference_number": 2,
+      "doi": "10.2514/1.A35982",
+      "claim_type": "review_body_observation",
+      "source_physical_pages": [
+        16,
+        17
+      ],
+      "HTML_locator": null,
+      "source_locator": "future directions; conclusion",
+      "source_pdf_sha256": "cce2963c96a3d4a737831f31fe34d3e7d13b5bac1b955a159094b0834080c037",
+      "HTML_tool_capture_sha256s": [],
+      "source_version": "author_preprint_arxiv_2306.01107v8_2024-09-12",
+      "source_url": "https://arxiv.org/pdf/2306.01107",
+      "finding_cn": "作者强调设计优化后用更高保真模型验证，并讨论复杂排队、多品类库存和可扩展求解需求。",
+      "citation_boundary_cn": "2024综述中的空白判断不能自动代表2026仍无研究；本综述应说明接口条件与证据范围。",
+      "actual_visual_pages_within_locator": [],
+      "manuscript_candidate_lines": [
+        270,
+        322,
+        328
+      ],
+      "candidate_position_may_be_cross_study_not_explicit_citation": true,
+      "manuscript_modified": false,
+      "formal_version_parity_closed": false,
+      "human_verified": false
+    },
+    {
+      "claim_id": "B04-005-C01",
+      "reference_number": 5,
+      "doi": "10.1016/j.actaastro.2025.10.018",
+      "claim_type": "review_body_observation",
+      "source_physical_pages": [
+        2,
+        4,
+        6,
+        7
+      ],
+      "HTML_locator": null,
+      "source_locator": "scope; taxonomy; Table1",
+      "source_pdf_sha256": "d162a300fa462c36ac1b0db6691181bdc2d2555b477b60c532b96dc95adb22ed",
+      "HTML_tool_capture_sha256s": [],
+      "source_version": "publisher_VOR_OA_institutional_repository",
+      "source_url": "https://digital.library.adelaide.edu.au/server/api/core/bitstreams/482432e4-b0a1-48de-aefb-979a0fc69ca5/content",
+      "finding_cn": "分类轴包括智能体类型、组织架构、通信、任务管理职责与应用，建议从应用需求依次选择职责、架构、智能体和协议。",
+      "citation_boundary_cn": "各轴不互斥；学习型、分布式和自主权限不是同一个分类变量，也不必另立平行章节。",
+      "actual_visual_pages_within_locator": [],
+      "manuscript_candidate_lines": [
+        27,
+        36,
+        299
+      ],
+      "candidate_position_may_be_cross_study_not_explicit_citation": true,
+      "manuscript_modified": false,
+      "formal_version_parity_closed": false,
+      "human_verified": false
+    },
+    {
+      "claim_id": "B04-005-C02",
+      "reference_number": 5,
+      "doi": "10.1016/j.actaastro.2025.10.018",
+      "claim_type": "review_body_observation",
+      "source_physical_pages": [
+        2,
+        16,
+        17
+      ],
+      "HTML_locator": null,
+      "source_locator": "inclusion criteria; statistical review",
+      "source_pdf_sha256": "d162a300fa462c36ac1b0db6691181bdc2d2555b477b60c532b96dc95adb22ed",
+      "HTML_tool_capture_sha256s": [],
+      "source_version": "publisher_VOR_OA_institutional_repository",
+      "source_url": "https://digital.library.adelaide.edu.au/server/api/core/bitstreams/482432e4-b0a1-48de-aefb-979a0fc69ca5/content",
+      "finding_cn": "检索覆盖五类学术数据库/搜索引擎，以英文同行评议期刊会议为条件；68篇入选中25篇给出具体智能体方案，其余为背景等。",
+      "citation_boundary_cn": "68与25的统计总体不同；该综述的数量和比例不能代称全部空间自治研究的系统普查。",
+      "actual_visual_pages_within_locator": [],
+      "manuscript_candidate_lines": [
+        27,
+        36,
+        322
+      ],
+      "candidate_position_may_be_cross_study_not_explicit_citation": true,
+      "manuscript_modified": false,
+      "formal_version_parity_closed": false,
+      "human_verified": false
+    },
+    {
+      "claim_id": "B04-005-C03",
+      "reference_number": 5,
+      "doi": "10.1016/j.actaastro.2025.10.018",
+      "claim_type": "review_body_observation",
+      "source_physical_pages": [
+        6,
+        7,
+        15
+      ],
+      "HTML_locator": null,
+      "source_locator": "Table1; examples; Table3",
+      "source_pdf_sha256": "d162a300fa462c36ac1b0db6691181bdc2d2555b477b60c532b96dc95adb22ed",
+      "HTML_tool_capture_sha256s": [],
+      "source_version": "publisher_VOR_OA_institutional_repository",
+      "source_url": "https://digital.library.adelaide.edu.au/server/api/core/bitstreams/482432e4-b0a1-48de-aefb-979a0fc69ca5/content",
+      "finding_cn": "表1组织功能和架构，表3用用途、功能、故障恢复等比较ASPEN、CASPER和MiRAGE，并保留部分方法离线验证的限制。",
+      "citation_boundary_cn": "表中高/中/低韧性等是作者定性归纳，不是相同实验条件下的统一分数或飞行成熟度证书。",
+      "actual_visual_pages_within_locator": [],
+      "manuscript_candidate_lines": [
+        36,
+        299,
+        322
+      ],
+      "candidate_position_may_be_cross_study_not_explicit_citation": true,
+      "manuscript_modified": false,
+      "formal_version_parity_closed": false,
+      "human_verified": false
+    },
+    {
+      "claim_id": "B04-005-C04",
+      "reference_number": 5,
+      "doi": "10.1016/j.actaastro.2025.10.018",
+      "claim_type": "review_body_observation",
+      "source_physical_pages": [
+        17,
+        18,
+        19
+      ],
+      "HTML_locator": null,
+      "source_locator": "Table4; Fig6",
+      "source_pdf_sha256": "d162a300fa462c36ac1b0db6691181bdc2d2555b477b60c532b96dc95adb22ed",
+      "HTML_tool_capture_sha256s": [],
+      "source_version": "publisher_VOR_OA_institutional_repository",
+      "source_url": "https://digital.library.adelaide.edu.au/server/api/core/bitstreams/482432e4-b0a1-48de-aefb-979a0fc69ca5/content",
+      "finding_cn": "表4逐项记录软件环境与评价指标，含Unknown及No simulation；图6列52%软件IDE、20%自建、20%未知、8%无实验。",
+      "citation_boundary_cn": "有软件记录不等于所有研究已验证；文中92%表述包含未知项，不能移用成92%通过实验验证。",
+      "actual_visual_pages_within_locator": [
+        18,
+        19
+      ],
+      "manuscript_candidate_lines": [
+        36,
+        270,
+        322
+      ],
+      "candidate_position_may_be_cross_study_not_explicit_citation": true,
+      "manuscript_modified": false,
+      "formal_version_parity_closed": false,
+      "human_verified": false
+    },
+    {
+      "claim_id": "B04-005-C05",
+      "reference_number": 5,
+      "doi": "10.1016/j.actaastro.2025.10.018",
+      "claim_type": "review_body_observation",
+      "source_physical_pages": [
+        15,
+        16,
+        18
+      ],
+      "HTML_locator": null,
+      "source_locator": "design challenges; insights",
+      "source_pdf_sha256": "d162a300fa462c36ac1b0db6691181bdc2d2555b477b60c532b96dc95adb22ed",
+      "HTML_tool_capture_sha256s": [],
+      "source_version": "publisher_VOR_OA_institutional_repository",
+      "source_url": "https://digital.library.adelaide.edu.au/server/api/core/bitstreams/482432e4-b0a1-48de-aefb-979a0fc69ca5/content",
+      "finding_cn": "通信拥塞、异构协调、资源限制、故障恢复、解释和人工介入共同限制自治落地，作者指出统一评价不足。",
+      "citation_boundary_cn": "这些是综述判断；本综述应配一次研究给出具体条件，不能只堆通用挑战名称。",
+      "actual_visual_pages_within_locator": [
+        18
+      ],
+      "manuscript_candidate_lines": [
+        299,
+        303,
+        322
+      ],
+      "candidate_position_may_be_cross_study_not_explicit_citation": true,
+      "manuscript_modified": false,
+      "formal_version_parity_closed": false,
+      "human_verified": false
+    },
+    {
+      "claim_id": "B04-005-C06",
+      "reference_number": 5,
+      "doi": "10.1016/j.actaastro.2025.10.018",
+      "claim_type": "review_body_observation",
+      "source_physical_pages": [
+        18,
+        19
+      ],
+      "HTML_locator": null,
+      "source_locator": "insights; conclusion",
+      "source_pdf_sha256": "d162a300fa462c36ac1b0db6691181bdc2d2555b477b60c532b96dc95adb22ed",
+      "HTML_tool_capture_sha256s": [],
+      "source_version": "publisher_VOR_OA_institutional_repository",
+      "source_url": "https://digital.library.adelaide.edu.au/server/api/core/bitstreams/482432e4-b0a1-48de-aefb-979a0fc69ca5/content",
+      "finding_cn": "结论称多数方案处TRL3–5，并讨论结合任务需求与健康状态的自适应、单星智能体数量及解释成本。",
+      "citation_boundary_cn": "TRL和架构优势未在本批逐项独立审计；保留为该综述的判断，不能证明每种方案相同成熟度。",
+      "actual_visual_pages_within_locator": [
+        18,
+        19
+      ],
+      "manuscript_candidate_lines": [
+        27,
+        36,
+        322,
+        328
+      ],
+      "candidate_position_may_be_cross_study_not_explicit_citation": true,
+      "manuscript_modified": false,
+      "formal_version_parity_closed": false,
+      "human_verified": false
+    },
+    {
+      "claim_id": "B04-007-C01",
+      "reference_number": 7,
+      "doi": "10.7527/S1000-6893.2026.32935",
+      "claim_type": "review_body_observation",
+      "source_physical_pages": [
+        2,
+        3,
+        5
+      ],
+      "HTML_locator": null,
+      "source_locator": "review framework; Table1; Fig5",
+      "source_pdf_sha256": "7d8e18e99dec024c56315c7a166cd3e1055d2207ac14ff3cf0ae554c201b76ee",
+      "HTML_tool_capture_sha256s": [],
+      "source_version": "publisher_network_first_PDF_provisional_metadata",
+      "source_url": "https://hkxb.buaa.edu.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=21249",
+      "finding_cn": "以感知—认知—决策框架串联业务预测、拓扑移动性、波束、路由和多维资源五个技术方向，表1按这些方向比较已有综述。",
+      "citation_boundary_cn": "覆盖通信网络环节不等于覆盖部署补给、维修、轨迹安全及业务恢复全链；本综述可据此划清范围。",
+      "actual_visual_pages_within_locator": [
+        5
+      ],
+      "manuscript_candidate_lines": [
+        27,
+        38,
+        299
+      ],
+      "candidate_position_may_be_cross_study_not_explicit_citation": true,
+      "manuscript_modified": false,
+      "formal_version_parity_closed": false,
+      "human_verified": false
+    },
+    {
+      "claim_id": "B04-007-C02",
+      "reference_number": 7,
+      "doi": "10.7527/S1000-6893.2026.32935",
+      "claim_type": "review_body_observation",
+      "source_physical_pages": [
+        6,
+        8
+      ],
+      "HTML_locator": null,
+      "source_locator": "traffic prediction; topology",
+      "source_pdf_sha256": "7d8e18e99dec024c56315c7a166cd3e1055d2207ac14ff3cf0ae554c201b76ee",
+      "HTML_tool_capture_sha256s": [],
+      "source_version": "publisher_network_first_PDF_provisional_metadata",
+      "source_url": "https://hkxb.buaa.edu.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=21249",
+      "finding_cn": "区分单星时序与多星时空业务关联，强调轨道运动、接入覆盖变化和星间流量共同作用。",
+      "citation_boundary_cn": "预测精度改善需进一步证明能改善调度；此综述的案例百分比不能当本批直接核验的一次研究结果。",
+      "actual_visual_pages_within_locator": [],
+      "manuscript_candidate_lines": [
+        38,
+        276,
+        303
+      ],
+      "candidate_position_may_be_cross_study_not_explicit_citation": true,
+      "manuscript_modified": false,
+      "formal_version_parity_closed": false,
+      "human_verified": false
+    },
+    {
+      "claim_id": "B04-007-C03",
+      "reference_number": 7,
+      "doi": "10.7527/S1000-6893.2026.32935",
+      "claim_type": "review_body_observation",
+      "source_physical_pages": [
+        9
+      ],
+      "HTML_locator": null,
+      "source_locator": "beam scheduling; Table4",
+      "source_pdf_sha256": "7d8e18e99dec024c56315c7a166cd3e1055d2207ac14ff3cf0ae554c201b76ee",
+      "HTML_tool_capture_sha256s": [],
+      "source_version": "publisher_network_first_PDF_provisional_metadata",
+      "source_url": "https://hkxb.buaa.edu.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=21249",
+      "finding_cn": "波束调度按单星与多星协同对比，多星引入覆盖重叠、干扰和负载均衡，同时增加计算开销。",
+      "citation_boundary_cn": "单星简单/多星复杂是该文归纳；没有统一规模与约束下的算法排名或全网保障证明。",
+      "actual_visual_pages_within_locator": [],
+      "manuscript_candidate_lines": [
+        38,
+        270,
+        276
+      ],
+      "candidate_position_may_be_cross_study_not_explicit_citation": true,
+      "manuscript_modified": false,
+      "formal_version_parity_closed": false,
+      "human_verified": false
+    },
+    {
+      "claim_id": "B04-007-C04",
+      "reference_number": 7,
+      "doi": "10.7527/S1000-6893.2026.32935",
+      "claim_type": "review_body_observation",
+      "source_physical_pages": [
+        10,
+        11
+      ],
+      "HTML_locator": null,
+      "source_locator": "routing; Table5",
+      "source_pdf_sha256": "7d8e18e99dec024c56315c7a166cd3e1055d2207ac14ff3cf0ae554c201b76ee",
+      "HTML_tool_capture_sha256s": [],
+      "source_version": "publisher_network_first_PDF_provisional_metadata",
+      "source_url": "https://hkxb.buaa.edu.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=21249",
+      "finding_cn": "路由按集中与分布组织，再讨论虚拟拓扑、学习、负载均衡和多路径，强调全网状态代价与本地信息不足。",
+      "citation_boundary_cn": "分布式、低时延、低开销不能自动同时成立；集中训练与分布执行也需分别描述。",
+      "actual_visual_pages_within_locator": [],
+      "manuscript_candidate_lines": [
+        38,
+        270,
+        299
+      ],
+      "candidate_position_may_be_cross_study_not_explicit_citation": true,
+      "manuscript_modified": false,
+      "formal_version_parity_closed": false,
+      "human_verified": false
+    },
+    {
+      "claim_id": "B04-007-C05",
+      "reference_number": 7,
+      "doi": "10.7527/S1000-6893.2026.32935",
+      "claim_type": "review_body_observation",
+      "source_physical_pages": [
+        11,
+        12,
+        13
+      ],
+      "HTML_locator": null,
+      "source_locator": "resource management; Table6; challenges",
+      "source_pdf_sha256": "7d8e18e99dec024c56315c7a166cd3e1055d2207ac14ff3cf0ae554c201b76ee",
+      "HTML_tool_capture_sha256s": [],
+      "source_version": "publisher_network_first_PDF_provisional_metadata",
+      "source_url": "https://hkxb.buaa.edu.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=21249",
+      "finding_cn": "多维资源联合目标与训练数据覆盖、模型大小、信令开销共同构成实用约束；后续用户接入也可能受当前最优分配影响。",
+      "citation_boundary_cn": "不将“智能”或多资源标签改写成鲁棒与泛化保证；尚需一次论文中的信息、停止规则和样本外证据。",
+      "actual_visual_pages_within_locator": [],
+      "manuscript_candidate_lines": [
+        38,
+        276,
+        303
+      ],
+      "candidate_position_may_be_cross_study_not_explicit_citation": true,
+      "manuscript_modified": false,
+      "formal_version_parity_closed": false,
+      "human_verified": false
+    },
+    {
+      "claim_id": "B04-007-C06",
+      "reference_number": 7,
+      "doi": "10.7527/S1000-6893.2026.32935",
+      "claim_type": "review_body_observation",
+      "source_physical_pages": [
+        13,
+        14
+      ],
+      "HTML_locator": null,
+      "source_locator": "validation outlook; conclusion",
+      "source_pdf_sha256": "7d8e18e99dec024c56315c7a166cd3e1055d2207ac14ff3cf0ae554c201b76ee",
+      "HTML_tool_capture_sha256s": [],
+      "source_version": "publisher_network_first_PDF_provisional_metadata",
+      "source_url": "https://hkxb.buaa.edu.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=21249",
+      "finding_cn": "全篇采用特点挑战—框架—关键技术—挑战趋势—结论五个一级章节，验证环境与数字孪生放在趋势部分。",
+      "citation_boundary_cn": "可借鉴紧凑结构与跨技术归纳；展望中的工具集成和在轨镜像不是本文完成的工程验证。",
+      "actual_visual_pages_within_locator": [],
+      "manuscript_candidate_lines": [
+        38,
+        322,
+        328
+      ],
+      "candidate_position_may_be_cross_study_not_explicit_citation": true,
+      "manuscript_modified": false,
+      "formal_version_parity_closed": false,
+      "human_verified": false
+    },
+    {
+      "claim_id": "B04-008-C01",
+      "reference_number": 8,
+      "doi": "10.3873/j.issn.1000-1328.2026.02.002",
+      "claim_type": "review_body_observation",
+      "source_physical_pages": [
+        1,
+        2,
+        4,
+        8
+      ],
+      "HTML_locator": null,
+      "source_locator": "scope; resource management/control/optimization",
+      "source_pdf_sha256": "59a764b80a0297fc58ca826c660bf90dc48b0d08bfd18b79b8fc140dc770ba0b",
+      "HTML_tool_capture_sha256s": [],
+      "source_version": "publisher_VOR_public_PDF",
+      "source_url": "https://www.spacejournal.cn/yhxb/cn/article/pdf/preview/10.3873/j.issn.1000-1328.2026.02.002.pdf",
+      "finding_cn": "将网络资源表征、感知、虚拟化、预测，与控制架构及资源分配求解分开组织，资源含链路、节点、存储和计算。",
+      "citation_boundary_cn": "“控制”主要指网络控制平面，不等于姿轨控；“全生命周期”措辞亦不证明覆盖硬件补网与退役。",
+      "actual_visual_pages_within_locator": [
+        4
+      ],
+      "manuscript_candidate_lines": [
+        27,
+        38,
+        299
+      ],
+      "candidate_position_may_be_cross_study_not_explicit_citation": true,
+      "manuscript_modified": false,
+      "formal_version_parity_closed": false,
+      "human_verified": false
+    },
+    {
+      "claim_id": "B04-008-C02",
+      "reference_number": 8,
+      "doi": "10.3873/j.issn.1000-1328.2026.02.002",
+      "claim_type": "review_body_observation",
+      "source_physical_pages": [
+        4
+      ],
+      "HTML_locator": null,
+      "source_locator": "SSG versus TEG; Fig2",
+      "source_pdf_sha256": "59a764b80a0297fc58ca826c660bf90dc48b0d08bfd18b79b8fc140dc770ba0b",
+      "HTML_tool_capture_sha256s": [],
+      "source_version": "publisher_VOR_public_PDF",
+      "source_url": "https://www.spacejournal.cn/yhxb/cn/article/pdf/preview/10.3873/j.issn.1000-1328.2026.02.002.pdf",
+      "finding_cn": "快照图表征各时片拓扑，时间扩展图另用存储边连接不同时片，能够表示没有瞬时端到端路径时的跨片传输。",
+      "citation_boundary_cn": "时间扩展拓扑可达性不是自动满足带宽、存储和最终交付时限；还需相应约束与求解。",
+      "actual_visual_pages_within_locator": [
+        4
+      ],
+      "manuscript_candidate_lines": [
+        38,
+        270,
+        276
+      ],
+      "candidate_position_may_be_cross_study_not_explicit_citation": true,
+      "manuscript_modified": false,
+      "formal_version_parity_closed": false,
+      "human_verified": false
+    },
+    {
+      "claim_id": "B04-008-C03",
+      "reference_number": 8,
+      "doi": "10.3873/j.issn.1000-1328.2026.02.002",
+      "claim_type": "review_body_observation",
+      "source_physical_pages": [
+        4,
+        5,
+        6
+      ],
+      "HTML_locator": null,
+      "source_locator": "INT; virtualization; prediction",
+      "source_pdf_sha256": "59a764b80a0297fc58ca826c660bf90dc48b0d08bfd18b79b8fc140dc770ba0b",
+      "HTML_tool_capture_sha256s": [],
+      "source_version": "publisher_VOR_public_PDF",
+      "source_url": "https://www.spacejournal.cn/yhxb/cn/article/pdf/preview/10.3873/j.issn.1000-1328.2026.02.002.pdf",
+      "finding_cn": "资源状态取得包括采集、上报与分析，主动/被动测量各有开销和视野限制；预测依赖实际或合成数据。",
+      "citation_boundary_cn": "近实时数据和全局视图是有通信与处理成本的输入条件；预测模型准确度不等于控制或服务可靠性。",
+      "actual_visual_pages_within_locator": [
+        4
+      ],
+      "manuscript_candidate_lines": [
+        38,
+        299,
+        303
+      ],
+      "candidate_position_may_be_cross_study_not_explicit_citation": true,
+      "manuscript_modified": false,
+      "formal_version_parity_closed": false,
+      "human_verified": false
+    },
+    {
+      "claim_id": "B04-008-C04",
+      "reference_number": 8,
+      "doi": "10.3873/j.issn.1000-1328.2026.02.002",
+      "claim_type": "review_body_observation",
+      "source_physical_pages": [
+        6,
+        7,
+        8
+      ],
+      "HTML_locator": null,
+      "source_locator": "control models; placement/migration",
+      "source_pdf_sha256": "59a764b80a0297fc58ca826c660bf90dc48b0d08bfd18b79b8fc140dc770ba0b",
+      "HTML_tool_capture_sha256s": [],
+      "source_version": "publisher_VOR_public_PDF",
+      "source_url": "https://www.spacejournal.cn/yhxb/cn/article/pdf/preview/10.3873/j.issn.1000-1328.2026.02.002.pdf",
+      "finding_cn": "对集中、分布和混合控制分别讨论全局能力、节点计算与控制权切换，并区分控制器部署和节点映射。",
+      "citation_boundary_cn": "混合架构仅提供分工选择，仍需状态时效、权限交接、映射与负载的具体接口，不是天然最优。",
+      "actual_visual_pages_within_locator": [
+        7
+      ],
+      "manuscript_candidate_lines": [
+        38,
+        299,
+        301
+      ],
+      "candidate_position_may_be_cross_study_not_explicit_citation": true,
+      "manuscript_modified": false,
+      "formal_version_parity_closed": false,
+      "human_verified": false
+    },
+    {
+      "claim_id": "B04-008-C05",
+      "reference_number": 8,
+      "doi": "10.3873/j.issn.1000-1328.2026.02.002",
+      "claim_type": "review_body_observation",
+      "source_physical_pages": [
+        8,
+        9,
+        10
+      ],
+      "HTML_locator": null,
+      "source_locator": "routing/flow/load balancing",
+      "source_pdf_sha256": "59a764b80a0297fc58ca826c660bf90dc48b0d08bfd18b79b8fc140dc770ba0b",
+      "HTML_tool_capture_sha256s": [],
+      "source_version": "publisher_VOR_public_PDF",
+      "source_url": "https://www.spacejournal.cn/yhxb/cn/article/pdf/preview/10.3873/j.issn.1000-1328.2026.02.002.pdf",
+      "finding_cn": "路由、流量调度和负载均衡共同响应带宽、延迟和计算需求；分流、预留和冗余会消耗额外资源。",
+      "citation_boundary_cn": "通信负载均衡与卫星物理任务重排不是同义；冗余可靠性收益需与资源成本及相同业务负荷比较。",
+      "actual_visual_pages_within_locator": [],
+      "manuscript_candidate_lines": [
+        38,
+        276
+      ],
+      "candidate_position_may_be_cross_study_not_explicit_citation": true,
+      "manuscript_modified": false,
+      "formal_version_parity_closed": false,
+      "human_verified": false
+    },
+    {
+      "claim_id": "B04-008-C06",
+      "reference_number": 8,
+      "doi": "10.3873/j.issn.1000-1328.2026.02.002",
+      "claim_type": "review_body_observation",
+      "source_physical_pages": [
+        10,
+        11
+      ],
+      "HTML_locator": null,
+      "source_locator": "solution families; challenges",
+      "source_pdf_sha256": "59a764b80a0297fc58ca826c660bf90dc48b0d08bfd18b79b8fc140dc770ba0b",
+      "HTML_tool_capture_sha256s": [],
+      "source_version": "publisher_VOR_public_PDF",
+      "source_url": "https://www.spacejournal.cn/yhxb/cn/article/pdf/preview/10.3873/j.issn.1000-1328.2026.02.002.pdf",
+      "finding_cn": "归纳博弈、凸优化和AI方法，并将轻量化、动态适配和离线训练限制列为后续问题。",
+      "citation_boundary_cn": "简化非凸问题后的凸子问题最优不能替代原问题全局最优；泛化表述需回一次研究核查。",
+      "actual_visual_pages_within_locator": [],
+      "manuscript_candidate_lines": [
+        38,
+        270,
+        303,
+        328
+      ],
+      "candidate_position_may_be_cross_study_not_explicit_citation": true,
+      "manuscript_modified": false,
+      "formal_version_parity_closed": false,
+      "human_verified": false
+    },
+    {
+      "claim_id": "B04-016-C01",
+      "reference_number": 16,
+      "doi": "10.1007/s42405-026-01298-1",
+      "claim_type": "source_body_observation",
+      "source_physical_pages": [
+        3,
+        6,
+        7,
+        8,
+        9
+      ],
+      "HTML_locator": null,
+      "source_locator": "candidate RGT/CGT; Stage1 access profile",
+      "source_pdf_sha256": "4e366f02c06f10964d8b6a528447fe35ca33ff6c3ee824013111d7c9a3dae8c9",
+      "HTML_tool_capture_sha256s": [],
+      "source_version": "publisher_VOR_Springer_OA_online_first",
+      "source_url": "https://link.springer.com/content/pdf/10.1007/s42405-026-01298-1.pdf",
+      "finding_cn": "第一阶段汇总各发射选项在允许RAAN区间内的潜在可达覆盖；第二阶段才选择具体卫星并指派发射方案，满足真实选集的覆盖与容量。",
+      "citation_boundary_cn": "所有候选的潜在覆盖并不等于某个已选定星座的实际覆盖，代理目标改善不能直接代称系统性能改善。",
+      "actual_visual_pages_within_locator": [
+        9
+      ],
+      "manuscript_candidate_lines": [
+        93,
+        270
+      ],
+      "candidate_position_may_be_cross_study_not_explicit_citation": true,
+      "manuscript_modified": false,
+      "formal_version_parity_closed": false,
+      "human_verified": false
+    },
+    {
+      "claim_id": "B04-016-C02",
+      "reference_number": 16,
+      "doi": "10.1007/s42405-026-01298-1",
+      "claim_type": "source_body_observation",
+      "source_physical_pages": [
+        6,
+        11,
+        20,
+        21
+      ],
+      "HTML_locator": null,
+      "source_locator": "deployment assumptions; limitations",
+      "source_pdf_sha256": "4e366f02c06f10964d8b6a528447fe35ca33ff6c3ee824013111d7c9a3dae8c9",
+      "HTML_tool_capture_sha256s": [],
+      "source_version": "publisher_VOR_Springer_OA_online_first",
+      "source_url": "https://link.springer.com/content/pdf/10.1007/s42405-026-01298-1.pdf",
+      "finding_cn": "部署时间由相对一阶J2漂移主导；假设注入RAAN可选择，将共同转移时间视为偏移。异构低推力转移等仍需扩展。",
+      "citation_boundary_cn": "这是构型与部署的设计筛选，不是发射场/窗口/连续推力轨迹联合求解或逐星到达证书。",
+      "actual_visual_pages_within_locator": [
+        20
+      ],
+      "manuscript_candidate_lines": [
+        93,
+        276
+      ],
+      "candidate_position_may_be_cross_study_not_explicit_citation": true,
+      "manuscript_modified": false,
+      "formal_version_parity_closed": false,
+      "human_verified": false
+    },
+    {
+      "claim_id": "B04-016-C03",
+      "reference_number": 16,
+      "doi": "10.1007/s42405-026-01298-1",
+      "claim_type": "source_body_observation",
+      "source_physical_pages": [
+        9,
+        10,
+        11,
+        12
+      ],
+      "HTML_locator": null,
+      "source_locator": "two-stage MILP; t1/t2; epsilon constraints",
+      "source_pdf_sha256": "4e366f02c06f10964d8b6a528447fe35ca33ff6c3ee824013111d7c9a3dae8c9",
+      "HTML_tool_capture_sha256s": [],
+      "source_version": "publisher_VOR_Springer_OA_online_first",
+      "source_url": "https://link.springer.com/content/pdf/10.1007/s42405-026-01298-1.pdf",
+      "finding_cn": "第一阶段以最差时刻的发射选项可达数量及小权重驻留裕量筛选注入选择，第二阶段在该选择下作成本—时间折中。",
+      "citation_boundary_cn": "裕量是确定性代理，不是随机鲁棒概率；固定第一阶段后所得前沿不保证全注入决策的联合全局前沿。",
+      "actual_visual_pages_within_locator": [
+        9
+      ],
+      "manuscript_candidate_lines": [
+        93,
+        270,
+        276
+      ],
+      "candidate_position_may_be_cross_study_not_explicit_citation": true,
+      "manuscript_modified": false,
+      "formal_version_parity_closed": false,
+      "human_verified": false
+    },
+    {
+      "claim_id": "B04-016-C04",
+      "reference_number": 16,
+      "doi": "10.1007/s42405-026-01298-1",
+      "claim_type": "source_body_observation",
+      "source_physical_pages": [
+        12,
+        14,
+        16,
+        17,
+        18
+      ],
+      "HTML_locator": null,
+      "source_locator": "case studies; Tables7–8",
+      "source_pdf_sha256": "4e366f02c06f10964d8b6a528447fe35ca33ff6c3ee824013111d7c9a3dae8c9",
+      "HTML_tool_capture_sha256s": [],
+      "source_version": "publisher_VOR_Springer_OA_online_first",
+      "source_url": "https://link.springer.com/content/pdf/10.1007/s42405-026-01298-1.pdf",
+      "finding_cn": "案例含单地面点、一日720时间步；第二阶段逐次给Gurobi三小时并记录可行解与间隙。表7首点间隙14.86%，表8首点13.54%。",
+      "citation_boundary_cn": "限时可行解不能称全部Pareto点已证最优；35–83星案例不等于超大星座活动调度扩展性证明。",
+      "actual_visual_pages_within_locator": [
+        17
+      ],
+      "manuscript_candidate_lines": [
+        93,
+        270
+      ],
+      "candidate_position_may_be_cross_study_not_explicit_citation": true,
+      "manuscript_modified": false,
+      "formal_version_parity_closed": false,
+      "human_verified": false
+    },
+    {
+      "claim_id": "B04-016-C05",
+      "reference_number": 16,
+      "doi": "10.1007/s42405-026-01298-1",
+      "claim_type": "source_body_observation",
+      "source_physical_pages": [
+        18,
+        19,
+        20
+      ],
+      "HTML_locator": null,
+      "source_locator": "t1-only ablation; coverage-first comparison",
+      "source_pdf_sha256": "4e366f02c06f10964d8b6a528447fe35ca33ff6c3ee824013111d7c9a3dae8c9",
+      "HTML_tool_capture_sha256s": [],
+      "source_version": "publisher_VOR_Springer_OA_online_first",
+      "source_url": "https://link.springer.com/content/pdf/10.1007/s42405-026-01298-1.pdf",
+      "finding_cn": "去掉第二筛选指标会改变后续候选质量；覆盖优先参考解193.61日/790.75百万美元，对应快速部署方案196.08日/658.05百万美元。",
+      "citation_boundary_cn": "成本降低伴随部署时间变化，原文亦说明不存在统一支配；这些是案例参数而非当前报价。",
+      "actual_visual_pages_within_locator": [
+        20
+      ],
+      "manuscript_candidate_lines": [
+        93,
+        270
+      ],
+      "candidate_position_may_be_cross_study_not_explicit_citation": true,
+      "manuscript_modified": false,
+      "formal_version_parity_closed": false,
+      "human_verified": false
+    },
+    {
+      "claim_id": "B04-016-C06",
+      "reference_number": 16,
+      "doi": "10.1007/s42405-026-01298-1",
+      "claim_type": "open_source_question",
+      "source_physical_pages": [
+        16,
+        17
+      ],
+      "HTML_locator": null,
+      "source_locator": "open question: wording versus Tables7–8",
+      "source_pdf_sha256": "4e366f02c06f10964d8b6a528447fe35ca33ff6c3ee824013111d7c9a3dae8c9",
+      "HTML_tool_capture_sha256s": [],
+      "source_version": "publisher_VOR_Springer_OA_online_first",
+      "source_url": "https://link.springer.com/content/pdf/10.1007/s42405-026-01298-1.pdf",
+      "finding_cn": "页16概括同构型在各发射选项下时间相同，但两表4次发射/35星行分别为363.46与305.44日，且均有未闭合间隙。",
+      "citation_boundary_cn": "保留为需模型输入、限时解或表述解释的未关闭项，不据此宣判论文错误或引用一概相同的结论。",
+      "actual_visual_pages_within_locator": [
+        17
+      ],
+      "manuscript_candidate_lines": [
+        93,
+        270
+      ],
+      "candidate_position_may_be_cross_study_not_explicit_citation": true,
+      "manuscript_modified": false,
+      "formal_version_parity_closed": false,
+      "human_verified": false
+    },
+    {
+      "claim_id": "B04-019-C01",
+      "reference_number": 19,
+      "doi": "10.2514/1.A36281",
+      "claim_type": "source_body_observation",
+      "source_physical_pages": [
+        8,
+        9,
+        11,
+        15,
+        16
+      ],
+      "HTML_locator": null,
+      "source_locator": "§II.B; §III assumptions",
+      "source_pdf_sha256": "7b46e1100583fdce3d9f9f61412d69ba5df311dc3883ea5cc22e97589e6b3b9c",
+      "HTML_tool_capture_sha256s": [],
+      "source_version": "author_preprint_arxiv_2408.09696v2_2024-09-08",
+      "source_url": "https://arxiv.org/pdf/2408.09696",
+      "finding_cn": "双阈值R1>R2及批量Q1/Q2控制正常间接与辅助直接补给；辅助单仅在正常单触发后的tw内可启动。库存位置包含在途量和欠货。",
+      "citation_boundary_cn": "策略受单周期在途、Walker构型等假设约束；直接注入仍有发射等待，不等于故障即时恢复。",
+      "actual_visual_pages_within_locator": [
+        15
+      ],
+      "manuscript_candidate_lines": [
+        99,
+        326
+      ],
+      "candidate_position_may_be_cross_study_not_explicit_citation": true,
+      "manuscript_modified": false,
+      "formal_version_parity_closed": false,
+      "human_verified": false
+    },
+    {
+      "claim_id": "B04-019-C02",
+      "reference_number": 19,
+      "doi": "10.2514/1.A36281",
+      "claim_type": "source_body_observation",
+      "source_physical_pages": [
+        14,
+        15,
+        16,
+        18
+      ],
+      "HTML_locator": null,
+      "source_locator": "replacement assumptions; lead time",
+      "source_pdf_sha256": "7b46e1100583fdce3d9f9f61412d69ba5df311dc3883ea5cc22e97589e6b3b9c",
+      "HTML_tool_capture_sha256s": [],
+      "source_version": "author_preprint_arxiv_2408.09696v2_2024-09-08",
+      "source_url": "https://arxiv.org/pdf/2408.09696",
+      "finding_cn": "在轨面内备星替换失效星被视为即时；作者注明可能至2日的替换延迟未纳入。间接补给另计RAAN漂移对齐与转移时长。",
+      "citation_boundary_cn": "订单满足率描述现货满足需求；不是用户业务按期交付率或逐故障服务恢复时长。",
+      "actual_visual_pages_within_locator": [
+        15
+      ],
+      "manuscript_candidate_lines": [
+        99,
+        326
+      ],
+      "candidate_position_may_be_cross_study_not_explicit_citation": true,
+      "manuscript_modified": false,
+      "formal_version_parity_closed": false,
+      "human_verified": false
+    },
+    {
+      "claim_id": "B04-019-C03",
+      "reference_number": 19,
+      "doi": "10.2514/1.A36281",
+      "claim_type": "source_body_observation",
+      "source_physical_pages": [
+        26,
+        27
+      ],
+      "HTML_locator": null,
+      "source_locator": "validation study; Table 3",
+      "source_pdf_sha256": "7b46e1100583fdce3d9f9f61412d69ba5df311dc3883ea5cc22e97589e6b3b9c",
+      "HTML_tool_capture_sha256s": [],
+      "source_version": "author_preprint_arxiv_2408.09696v2_2024-09-08",
+      "source_url": "https://arxiv.org/pdf/2408.09696",
+      "finding_cn": "库存模型以30年、周步长、每例100次Monte Carlo作比较；均值库存/成本用相对误差，订单满足率/周期概率用绝对百分点误差。",
+      "citation_boundary_cn": "表中小误差不等于有统计等价检验；不同误差单位不可合并为统一百分比。",
+      "actual_visual_pages_within_locator": [
+        26
+      ],
+      "manuscript_candidate_lines": [
+        99,
+        322
+      ],
+      "candidate_position_may_be_cross_study_not_explicit_citation": true,
+      "manuscript_modified": false,
+      "formal_version_parity_closed": false,
+      "human_verified": false
+    },
+    {
+      "claim_id": "B04-019-C04",
+      "reference_number": 19,
+      "doi": "10.2514/1.A36281",
+      "claim_type": "source_body_observation",
+      "source_physical_pages": [
+        27,
+        28,
+        29
+      ],
+      "HTML_locator": null,
+      "source_locator": "POR Eqs58–69; PVA Eqs70–73",
+      "source_pdf_sha256": "7b46e1100583fdce3d9f9f61412d69ba5df311dc3883ea5cc22e97589e6b3b9c",
+      "HTML_tool_capture_sha256s": [],
+      "source_version": "author_preprint_arxiv_2408.09696v2_2024-09-08",
+      "source_url": "https://arxiv.org/pdf/2408.09696",
+      "finding_cn": "POR在满足库存服务水平下选补给参数与停车构型；PVA另引入费用上限和辅助通道最低使用要求来估计愿付价格。",
+      "citation_boundary_cn": "后者是带市场份额条件的设计估值，不是证明辅助通道在所有参数下更便宜。",
+      "actual_visual_pages_within_locator": [],
+      "manuscript_candidate_lines": [
+        99,
+        326
+      ],
+      "candidate_position_may_be_cross_study_not_explicit_citation": true,
+      "manuscript_modified": false,
+      "formal_version_parity_closed": false,
+      "human_verified": false
+    },
+    {
+      "claim_id": "B04-019-C05",
+      "reference_number": 19,
+      "doi": "10.2514/1.A36281",
+      "claim_type": "source_body_observation",
+      "source_physical_pages": [
+        30,
+        31,
+        32
+      ],
+      "HTML_locator": null,
+      "source_locator": "case studies1–2; Tables4–8",
+      "source_pdf_sha256": "7b46e1100583fdce3d9f9f61412d69ba5df311dc3883ea5cc22e97589e6b3b9c",
+      "HTML_tool_capture_sha256s": [],
+      "source_version": "author_preprint_arxiv_2408.09696v2_2024-09-08",
+      "source_url": "https://arxiv.org/pdf/2408.09696",
+      "finding_cn": "40轨道面×40星案例固定部分一般决策变量，采用GA；基础参数下正常间接通道主导，库存持有费改变会引起离散策略跃迁。",
+      "citation_boundary_cn": "1600星是名义系统规模；未因此求解1600星逐活动调度，亦非连续成本变化必然平滑响应。",
+      "actual_visual_pages_within_locator": [],
+      "manuscript_candidate_lines": [
+        99,
+        270
+      ],
+      "candidate_position_may_be_cross_study_not_explicit_citation": true,
+      "manuscript_modified": false,
+      "formal_version_parity_closed": false,
+      "human_verified": false
+    },
+    {
+      "claim_id": "B04-019-C06",
+      "reference_number": 19,
+      "doi": "10.2514/1.A36281",
+      "claim_type": "source_body_observation",
+      "source_physical_pages": [
+        34,
+        35,
+        36
+      ],
+      "HTML_locator": null,
+      "source_locator": "case study3; conclusion",
+      "source_pdf_sha256": "7b46e1100583fdce3d9f9f61412d69ba5df311dc3883ea5cc22e97589e6b3b9c",
+      "HTML_tool_capture_sha256s": [],
+      "source_version": "author_preprint_arxiv_2408.09696v2_2024-09-08",
+      "source_url": "https://arxiv.org/pdf/2408.09696",
+      "finding_cn": "辅助发射估值与参考单通道预算、最低相对使用率联立；文末将环境因素及停车轨道可持续性列为后续工作。",
+      "citation_boundary_cn": "本研究提供长期供应策略，业务恢复时间链和环境风险不能据此视为已验证。",
+      "actual_visual_pages_within_locator": [],
+      "manuscript_candidate_lines": [
+        99,
+        326
+      ],
+      "candidate_position_may_be_cross_study_not_explicit_citation": true,
+      "manuscript_modified": false,
+      "formal_version_parity_closed": false,
+      "human_verified": false
+    },
+    {
+      "claim_id": "B04-026-C01",
+      "reference_number": 26,
+      "doi": "10.1155/2021/6644339",
+      "claim_type": "source_body_observation",
+      "source_physical_pages": [],
+      "HTML_locator": "HTML §1–4; model explanations",
+      "source_locator": "HTML §1–4; model explanations",
+      "source_pdf_sha256": null,
+      "HTML_tool_capture_sha256s": [
+        "138ffa8f872fa616f7b03ef1e18e6193de0e8ec0c3eb1ce24f861048d6aa1792",
+        "1a4fec90dab3a46b107a21a0427abf7c51ea341351173b0dc7f37c17d556c389"
+      ],
+      "source_version": "publisher_open_HTML_PDF_unavailable",
+      "source_url": "https://onlinelibrary.wiley.com/doi/10.1155/2021/6644339",
+      "finding_cn": "GA转移、DPSO分配与外层FAPSO嵌套。",
+      "citation_boundary_cn": "启发式结果不构成全局最优证明。",
+      "actual_visual_pages_within_locator": [],
+      "manuscript_candidate_lines": [
+        105
+      ],
+      "candidate_position_may_be_cross_study_not_explicit_citation": true,
+      "manuscript_modified": false,
+      "formal_version_parity_closed": false,
+      "human_verified": false
+    },
+    {
+      "claim_id": "B04-026-C02",
+      "reference_number": 26,
+      "doi": "10.1155/2021/6644339",
+      "claim_type": "source_body_observation",
+      "source_physical_pages": [],
+      "HTML_locator": "HTML §4.2–4.3",
+      "source_locator": "HTML §4.2–4.3",
+      "source_pdf_sha256": null,
+      "HTML_tool_capture_sha256s": [
+        "138ffa8f872fa616f7b03ef1e18e6193de0e8ec0c3eb1ce24f861048d6aa1792",
+        "1a4fec90dab3a46b107a21a0427abf7c51ea341351173b0dc7f37c17d556c389"
+      ],
+      "source_version": "publisher_open_HTML_PDF_unavailable",
+      "source_url": "https://onlinelibrary.wiley.com/doi/10.1155/2021/6644339",
+      "finding_cn": "通过模式搜索检查服务启动时刻。",
+      "citation_boundary_cn": "不能当随机加注时长或全区间证书。",
+      "actual_visual_pages_within_locator": [],
+      "manuscript_candidate_lines": [
+        105,
+        276
+      ],
+      "candidate_position_may_be_cross_study_not_explicit_citation": true,
+      "manuscript_modified": false,
+      "formal_version_parity_closed": false,
+      "human_verified": false
+    },
+    {
+      "claim_id": "B04-026-C03",
+      "reference_number": 26,
+      "doi": "10.1155/2021/6644339",
+      "claim_type": "source_body_observation",
+      "source_physical_pages": [],
+      "HTML_locator": "HTML §3.1",
+      "source_locator": "HTML §3.1",
+      "source_pdf_sha256": null,
+      "HTML_tool_capture_sha256s": [
+        "138ffa8f872fa616f7b03ef1e18e6193de0e8ec0c3eb1ce24f861048d6aa1792",
+        "1a4fec90dab3a46b107a21a0427abf7c51ea341351173b0dc7f37c17d556c389"
+      ],
+      "source_version": "publisher_open_HTML_PDF_unavailable",
+      "source_url": "https://onlinelibrary.wiley.com/doi/10.1155/2021/6644339",
+      "finding_cn": "分配指标优先服务数量，次看最少剩余燃料。",
+      "citation_boundary_cn": "不等于总业务交付价值。",
+      "actual_visual_pages_within_locator": [],
+      "manuscript_candidate_lines": [
+        105
+      ],
+      "candidate_position_may_be_cross_study_not_explicit_citation": true,
+      "manuscript_modified": false,
+      "formal_version_parity_closed": false,
+      "human_verified": false
+    },
+    {
+      "claim_id": "B04-026-C04",
+      "reference_number": 26,
+      "doi": "10.1155/2021/6644339",
+      "claim_type": "source_body_observation",
+      "source_physical_pages": [],
+      "HTML_locator": "HTML §5.1",
+      "source_locator": "HTML §5.1",
+      "source_pdf_sha256": null,
+      "HTML_tool_capture_sha256s": [
+        "138ffa8f872fa616f7b03ef1e18e6193de0e8ec0c3eb1ce24f861048d6aa1792",
+        "1a4fec90dab3a46b107a21a0427abf7c51ea341351173b0dc7f37c17d556c389"
+      ],
+      "source_version": "publisher_open_HTML_PDF_unavailable",
+      "source_url": "https://onlinelibrary.wiley.com/doi/10.1155/2021/6644339",
+      "finding_cn": "示例21客户、每船最多3个，服务限72小时。",
+      "citation_boundary_cn": "客户数、服务时域和搜索时域须分开。",
+      "actual_visual_pages_within_locator": [],
+      "manuscript_candidate_lines": [
+        105,
+        270
+      ],
+      "candidate_position_may_be_cross_study_not_explicit_citation": true,
+      "manuscript_modified": false,
+      "formal_version_parity_closed": false,
+      "human_verified": false
+    },
+    {
+      "claim_id": "B04-026-C05",
+      "reference_number": 26,
+      "doi": "10.1155/2021/6644339",
+      "claim_type": "source_body_observation",
+      "source_physical_pages": [],
+      "HTML_locator": "HTML §5.2; Tables6–7",
+      "source_locator": "HTML §5.2; Tables6–7",
+      "source_pdf_sha256": null,
+      "HTML_tool_capture_sha256s": [
+        "138ffa8f872fa616f7b03ef1e18e6193de0e8ec0c3eb1ce24f861048d6aa1792",
+        "1a4fec90dab3a46b107a21a0427abf7c51ea341351173b0dc7f37c17d556c389"
+      ],
+      "source_version": "publisher_open_HTML_PDF_unavailable",
+      "source_url": "https://onlinelibrary.wiley.com/doi/10.1155/2021/6644339",
+      "finding_cn": "表格和文字的具体分配不一致。",
+      "citation_boundary_cn": "保留问题，不采用这些指派作证。",
+      "actual_visual_pages_within_locator": [],
+      "manuscript_candidate_lines": [
+        105
+      ],
+      "candidate_position_may_be_cross_study_not_explicit_citation": true,
+      "manuscript_modified": false,
+      "formal_version_parity_closed": false,
+      "human_verified": false
+    },
+    {
+      "claim_id": "B04-026-C06",
+      "reference_number": 26,
+      "doi": "10.1155/2021/6644339",
+      "claim_type": "source_body_observation",
+      "source_physical_pages": [],
+      "HTML_locator": "HTML §6",
+      "source_locator": "HTML §6",
+      "source_pdf_sha256": null,
+      "HTML_tool_capture_sha256s": [
+        "138ffa8f872fa616f7b03ef1e18e6193de0e8ec0c3eb1ce24f861048d6aa1792",
+        "1a4fec90dab3a46b107a21a0427abf7c51ea341351173b0dc7f37c17d556c389"
+      ],
+      "source_version": "publisher_open_HTML_PDF_unavailable",
+      "source_url": "https://onlinelibrary.wiley.com/doi/10.1155/2021/6644339",
+      "finding_cn": "有限推力及扰动仍待扩展。",
+      "citation_boundary_cn": "模糊调参不等于不确定环境鲁棒保证。",
+      "actual_visual_pages_within_locator": [],
+      "manuscript_candidate_lines": [
+        105,
+        276
+      ],
+      "candidate_position_may_be_cross_study_not_explicit_citation": true,
+      "manuscript_modified": false,
+      "formal_version_parity_closed": false,
+      "human_verified": false
+    },
+    {
+      "claim_id": "B04-030-C01",
+      "reference_number": 30,
+      "doi": "10.1016/S1270-9638(02)01173-2",
+      "claim_type": "source_body_observation",
+      "source_physical_pages": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "HTML_locator": null,
+      "source_locator": "§2.1 full problem; §2.2 simplifications",
+      "source_pdf_sha256": "e0d479deb97455c53c55edf51d740736b39097e7e2c1e0d7c41219f734cff86e",
+      "HTML_tool_capture_sha256s": [],
+      "source_version": "publisher_typeset_article_copy_hosted_SFU_course",
+      "source_url": "https://www2.cs.sfu.ca/CourseCentral/827/havens/papers/topic%2312%28SatelliteScheduling%29/lemaitre-2002.pdf",
+      "finding_cn": "完整业务描述包括请求有效期、立体成像和非线性部分收益；实际求解按单个受光半圈轨道段截断，并预先选择条带方向。",
+      "citation_boundary_cn": "原文所谓full operational constraints仍是轨道段简化问题，不能写成完整多星采集—处理—交付联合求解。",
+      "actual_visual_pages_within_locator": [
+        4
+      ],
+      "manuscript_candidate_lines": [
+        113,
+        248
+      ],
+      "candidate_position_may_be_cross_study_not_explicit_citation": true,
+      "manuscript_modified": false,
+      "formal_version_parity_closed": false,
+      "human_verified": false
+    },
+    {
+      "claim_id": "B04-030-C02",
+      "reference_number": 30,
+      "doi": "10.1016/S1270-9638(02)01173-2",
+      "claim_type": "source_body_observation",
+      "source_physical_pages": [
+        4,
+        5,
+        6
+      ],
+      "HTML_locator": null,
+      "source_locator": "§2.1.7; §2.2.1; mathematical model",
+      "source_pdf_sha256": "e0d479deb97455c53c55edf51d740736b39097e7e2c1e0d7c41219f734cff86e",
+      "HTML_tool_capture_sha256s": [],
+      "source_version": "publisher_typeset_article_copy_hosted_SFU_course",
+      "source_url": "https://www2.cs.sfu.ca/CourseCentral/827/havens/papers/topic%2312%28SatelliteScheduling%29/lemaitre-2002.pdf",
+      "finding_cn": "能量/存储未纳入当前求解；姿态转移用表格近似均值，输出计划再按真实转移时间检查，必要时放大近似值重算。",
+      "citation_boundary_cn": "这里的事后检查负责转移近似，不能据此声称实际已完成存储/能量或下传闭环验证。",
+      "actual_visual_pages_within_locator": [
+        4
+      ],
+      "manuscript_candidate_lines": [
+        113,
+        270
+      ],
+      "candidate_position_may_be_cross_study_not_explicit_citation": true,
+      "manuscript_modified": false,
+      "formal_version_parity_closed": false,
+      "human_verified": false
+    },
+    {
+      "claim_id": "B04-030-C03",
+      "reference_number": 30,
+      "doi": "10.1016/S1270-9638(02)01173-2",
+      "claim_type": "source_body_observation",
+      "source_physical_pages": [
+        4,
+        6
+      ],
+      "HTML_locator": null,
+      "source_locator": "quality criteria; Eq5",
+      "source_pdf_sha256": "e0d479deb97455c53c55edf51d740736b39097e7e2c1e0d7c41219f734cff86e",
+      "HTML_tool_capture_sha256s": [],
+      "source_version": "publisher_typeset_article_copy_hosted_SFU_course",
+      "source_url": "https://www2.cs.sfu.ca/CourseCentral/827/havens/papers/topic%2312%28SatelliteScheduling%29/lemaitre-2002.pdf",
+      "finding_cn": "凸的部分覆盖奖励意在优先完成已接近满足的面目标；立体图像以成对选择约束表达。",
+      "citation_boundary_cn": "获取面积、条带数及满足完整请求可能是不同目标；部分覆盖奖励仍非交付质量实测。",
+      "actual_visual_pages_within_locator": [
+        4
+      ],
+      "manuscript_candidate_lines": [
+        113,
+        276
+      ],
+      "candidate_position_may_be_cross_study_not_explicit_citation": true,
+      "manuscript_modified": false,
+      "formal_version_parity_closed": false,
+      "human_verified": false
+    },
+    {
+      "claim_id": "B04-030-C04",
+      "reference_number": 30,
+      "doi": "10.1016/S1270-9638(02)01173-2",
+      "claim_type": "source_body_observation",
+      "source_physical_pages": [
+        9,
+        10
+      ],
+      "HTML_locator": null,
+      "source_locator": "§3.2 DPA; §3.3 CPA",
+      "source_pdf_sha256": "e0d479deb97455c53c55edf51d740736b39097e7e2c1e0d7c41219f734cff86e",
+      "HTML_tool_capture_sha256s": [],
+      "source_version": "publisher_typeset_article_copy_hosted_SFU_course",
+      "source_url": "https://www2.cs.sfu.ca/CourseCentral/827/havens/papers/topic%2312%28SatelliteScheduling%29/lemaitre-2002.pdf",
+      "finding_cn": "DPA在线性收益、去除立体约束、预设图像顺序和离散时刻下获得受限问题最优解；CPA实际又用非冗余启发约束控制搜索。",
+      "citation_boundary_cn": "不能以动态规划或约束规划的类别名称，自动赋予原始不受限问题全局最优保证。",
+      "actual_visual_pages_within_locator": [],
+      "manuscript_candidate_lines": [
+        113,
+        270
+      ],
+      "candidate_position_may_be_cross_study_not_explicit_citation": true,
+      "manuscript_modified": false,
+      "formal_version_parity_closed": false,
+      "human_verified": false
+    },
+    {
+      "claim_id": "B04-030-C05",
+      "reference_number": 30,
+      "doi": "10.1016/S1270-9638(02)01173-2",
+      "claim_type": "source_body_observation",
+      "source_physical_pages": [
+        11,
+        12,
+        13
+      ],
+      "HTML_locator": null,
+      "source_locator": "LSA; Table1",
+      "source_pdf_sha256": "e0d479deb97455c53c55edf51d740736b39097e7e2c1e0d7c41219f734cff86e",
+      "HTML_tool_capture_sha256s": [],
+      "source_version": "publisher_typeset_article_copy_hosted_SFU_course",
+      "source_url": "https://www2.cs.sfu.ca/CourseCentral/827/havens/papers/topic%2312%28SatelliteScheduling%29/lemaitre-2002.pdf",
+      "finding_cn": "比较使用6个人工合成代表实例、每方法每例2分钟；LSA另作100次求均值。受限比较中DPA最好，非线性/立体条件下仅CPA和LSA参比且LSA较好。",
+      "citation_boundary_cn": "两组排名对应不同可选算法和约束；不能合成全问题上四算法的一张统一速度/质量排行榜。",
+      "actual_visual_pages_within_locator": [
+        12
+      ],
+      "manuscript_candidate_lines": [
+        113,
+        270
+      ],
+      "candidate_position_may_be_cross_study_not_explicit_citation": true,
+      "manuscript_modified": false,
+      "formal_version_parity_closed": false,
+      "human_verified": false
+    },
+    {
+      "claim_id": "B04-030-C06",
+      "reference_number": 30,
+      "doi": "10.1016/S1270-9638(02)01173-2",
+      "claim_type": "source_body_observation",
+      "source_physical_pages": [
+        13,
+        14
+      ],
+      "HTML_locator": null,
+      "source_locator": "§3.5; conclusions",
+      "source_pdf_sha256": "e0d479deb97455c53c55edf51d740736b39097e7e2c1e0d7c41219f734cff86e",
+      "HTML_tool_capture_sha256s": [],
+      "source_version": "publisher_typeset_article_copy_hosted_SFU_course",
+      "source_url": "https://www2.cs.sfu.ca/CourseCentral/827/havens/papers/topic%2312%28SatelliteScheduling%29/lemaitre-2002.pdf",
+      "finding_cn": "作者同时评价算法灵活性、实现与调参；多轨道段、多星、存储/能量/下传及持续反应式规划仍列于未来方向。",
+      "citation_boundary_cn": "这些未来扩展不是论文已经解决的约束；2002研究语境不用于断言当前技术尚未具备。",
+      "actual_visual_pages_within_locator": [],
+      "manuscript_candidate_lines": [
+        113,
+        305
+      ],
+      "candidate_position_may_be_cross_study_not_explicit_citation": true,
+      "manuscript_modified": false,
+      "formal_version_parity_closed": false,
+      "human_verified": false
+    },
+    {
+      "claim_id": "B04-039-C01",
+      "reference_number": 39,
+      "doi": "10.1109/JSEE.2016.00066",
+      "claim_type": "source_body_observation",
+      "source_physical_pages": [
+        2,
+        3
+      ],
+      "HTML_locator": null,
+      "source_locator": "CTSDAG model",
+      "source_pdf_sha256": "9642a659b2e13eeee59bce165e02f50426ee875162e5a9cb194a555133df2206",
+      "HTML_tool_capture_sha256s": [],
+      "source_version": "publisher_VOR_public_PDF",
+      "source_url": "https://www.jseepub.com/CN/article/downloadArticleFile.do?attachType=PDF&id=5650",
+      "finding_cn": "协同时间空间DAG将各星已知观测窗、目标、存储和能量信息组织成局部顺序决策；跨图边表达同一任务。",
+      "citation_boundary_cn": "该抽象并非真实网络消息执行日志；轨道与任务窗已知的前提需保留。",
+      "actual_visual_pages_within_locator": [],
+      "manuscript_candidate_lines": [
+        117,
+        299
+      ],
+      "candidate_position_may_be_cross_study_not_explicit_citation": true,
+      "manuscript_modified": false,
+      "formal_version_parity_closed": false,
+      "human_verified": false
+    },
+    {
+      "claim_id": "B04-039-C02",
+      "reference_number": 39,
+      "doi": "10.1109/JSEE.2016.00066",
+      "claim_type": "source_body_observation",
+      "source_physical_pages": [
+        6,
+        7
+      ],
+      "HTML_locator": null,
+      "source_locator": "cooperative reward",
+      "source_pdf_sha256": "9642a659b2e13eeee59bce165e02f50426ee875162e5a9cb194a555133df2206",
+      "HTML_tool_capture_sha256s": [],
+      "source_version": "publisher_VOR_public_PDF",
+      "source_url": "https://www.jseepub.com/CN/article/downloadArticleFile.do?attachType=PDF&id=5650",
+      "finding_cn": "加权协同收益同时含观测价值、重点目标重复观测激励和执行代价，低价值重复可被抑制。",
+      "citation_boundary_cn": "重复观测并非一概无效；权重设定不等于交付业务价值的独立测量。",
+      "actual_visual_pages_within_locator": [],
+      "manuscript_candidate_lines": [
+        117,
+        276
+      ],
+      "candidate_position_may_be_cross_study_not_explicit_citation": true,
+      "manuscript_modified": false,
+      "formal_version_parity_closed": false,
+      "human_verified": false
+    },
+    {
+      "claim_id": "B04-039-C03",
+      "reference_number": 39,
+      "doi": "10.1109/JSEE.2016.00066",
+      "claim_type": "source_body_observation",
+      "source_physical_pages": [
+        9
+      ],
+      "HTML_locator": null,
+      "source_locator": "SDC; delay CDF approximation",
+      "source_pdf_sha256": "9642a659b2e13eeee59bce165e02f50426ee875162e5a9cb194a555133df2206",
+      "HTML_tool_capture_sha256s": [],
+      "source_version": "publisher_VOR_public_PDF",
+      "source_url": "https://www.jseepub.com/CN/article/downloadArticleFile.do?attachType=PDF&id=5650",
+      "finding_cn": "时延分布由累积概率表示；计算时将所有非即时通信近似集中为一个时间步，只有一时间步内概率为1等条件下才精确。",
+      "citation_boundary_cn": "多步延迟测试不意味着对任意延迟分布的原始问题进行了精确求解。",
+      "actual_visual_pages_within_locator": [
+        9
+      ],
+      "manuscript_candidate_lines": [
+        117,
+        299
+      ],
+      "candidate_position_may_be_cross_study_not_explicit_citation": true,
+      "manuscript_modified": false,
+      "formal_version_parity_closed": false,
+      "human_verified": false
+    },
+    {
+      "claim_id": "B04-039-C04",
+      "reference_number": 39,
+      "doi": "10.1109/JSEE.2016.00066",
+      "claim_type": "source_body_observation",
+      "source_physical_pages": [
+        9,
+        10,
+        11,
+        12
+      ],
+      "HTML_locator": null,
+      "source_locator": "DEC-POMDP; sequence vectors; MVFSA",
+      "source_pdf_sha256": "9642a659b2e13eeee59bce165e02f50426ee875162e5a9cb194a555133df2206",
+      "HTML_tool_capture_sha256s": [],
+      "source_version": "publisher_VOR_public_PDF",
+      "source_url": "https://www.jseepub.com/CN/article/downloadArticleFile.do?attachType=PDF&id=5650",
+      "finding_cn": "使用DEC-POMDP、贝叶斯博弈和序列向量表示，并提出MVFSA启发式；表示复杂度的降低与全算法最优性是两回事。",
+      "citation_boundary_cn": "不能改称强化学习训练或多项式时间全局最优求解；没有由表示界直接推出机载可运行结论。",
+      "actual_visual_pages_within_locator": [
+        9
+      ],
+      "manuscript_candidate_lines": [
+        117,
+        270,
+        299
+      ],
+      "candidate_position_may_be_cross_study_not_explicit_citation": true,
+      "manuscript_modified": false,
+      "formal_version_parity_closed": false,
+      "human_verified": false
+    },
+    {
+      "claim_id": "B04-039-C05",
+      "reference_number": 39,
+      "doi": "10.1109/JSEE.2016.00066",
+      "claim_type": "source_body_observation",
+      "source_physical_pages": [
+        12,
+        13,
+        14
+      ],
+      "HTML_locator": null,
+      "source_locator": "experimental setup; Table2; Fig8",
+      "source_pdf_sha256": "9642a659b2e13eeee59bce165e02f50426ee875162e5a9cb194a555133df2206",
+      "HTML_tool_capture_sha256s": [],
+      "source_version": "publisher_VOR_public_PDF",
+      "source_url": "https://www.jseepub.com/CN/article/downloadArticleFile.do?attachType=PDF&id=5650",
+      "finding_cn": "6星、24小时，50/100/150/200目标的随机、聚集及混合分布形成12组，每组50次取均值，并与Perseus比较不同延迟参数。",
+      "citation_boundary_cn": "目标聚集使协同信息更重要；该参数化仿真不能作为千星在轨实测或完整网络协议验证。",
+      "actual_visual_pages_within_locator": [
+        14
+      ],
+      "manuscript_candidate_lines": [
+        117,
+        270
+      ],
+      "candidate_position_may_be_cross_study_not_explicit_citation": true,
+      "manuscript_modified": false,
+      "formal_version_parity_closed": false,
+      "human_verified": false
+    },
+    {
+      "claim_id": "B04-039-C06",
+      "reference_number": 39,
+      "doi": "10.1109/JSEE.2016.00066",
+      "claim_type": "source_body_observation",
+      "source_physical_pages": [
+        12,
+        13,
+        14
+      ],
+      "HTML_locator": null,
+      "source_locator": "evaluation boundaries",
+      "source_pdf_sha256": "9642a659b2e13eeee59bce165e02f50426ee875162e5a9cb194a555133df2206",
+      "HTML_tool_capture_sha256s": [],
+      "source_version": "publisher_VOR_public_PDF",
+      "source_url": "https://www.jseepub.com/CN/article/downloadArticleFile.do?attachType=PDF&id=5650",
+      "finding_cn": "主要报告加权目标值随延迟概率的变化；所读实验没有给出端到端通信、求解和执行的完整时间预算。",
+      "citation_boundary_cn": "可说明信息时效影响决策，不据此声称已经满足业务截止期或完成异步系统闭环。",
+      "actual_visual_pages_within_locator": [
+        14
+      ],
+      "manuscript_candidate_lines": [
+        117,
+        299,
+        330
+      ],
+      "candidate_position_may_be_cross_study_not_explicit_citation": true,
+      "manuscript_modified": false,
+      "formal_version_parity_closed": false,
+      "human_verified": false
+    },
+    {
+      "claim_id": "B04-057-C01",
+      "reference_number": 57,
+      "doi": "10.1007/s10586-025-05663-9",
+      "claim_type": "source_body_observation",
+      "source_physical_pages": [
+        5,
+        7,
+        8
+      ],
+      "HTML_locator": null,
+      "source_locator": "§3 model; §5.1 AP selection",
+      "source_pdf_sha256": "f1c1bd362d23b0f70c444fc892e6527cec5afa1dbbc69504538e86c7a2aab37b",
+      "HTML_tool_capture_sha256s": [],
+      "source_version": "publisher_VOR_Springer_OA",
+      "source_url": "https://link.springer.com/content/pdf/10.1007/s10586-025-05663-9.pdf",
+      "finding_cn": "固定地面观察者的listening dome由仰角阈值定义；接入选择偏向接近观察者的卫星，任务请求从单个地理位置产生。",
+      "citation_boundary_cn": "orbital sunset在此指离开地面可见域，不是进入地影或太阳能中断。",
+      "actual_visual_pages_within_locator": [],
+      "manuscript_candidate_lines": [
+        129,
+        276
+      ],
+      "candidate_position_may_be_cross_study_not_explicit_citation": true,
+      "manuscript_modified": false,
+      "formal_version_parity_closed": false,
+      "human_verified": false
+    },
+    {
+      "claim_id": "B04-057-C02",
+      "reference_number": 57,
+      "doi": "10.1007/s10586-025-05663-9",
+      "claim_type": "source_body_observation",
+      "source_physical_pages": [
+        7,
+        8,
+        10
+      ],
+      "HTML_locator": null,
+      "source_locator": "response model Eqs2–9; OrbitAware",
+      "source_pdf_sha256": "f1c1bd362d23b0f70c444fc892e6527cec5afa1dbbc69504538e86c7a2aab37b",
+      "HTML_tool_capture_sha256s": [],
+      "source_version": "publisher_VOR_Springer_OA",
+      "source_url": "https://link.springer.com/content/pdf/10.1007/s10586-025-05663-9.pdf",
+      "finding_cn": "模型采用稳定的M/M/1非抢占优先队列；OrbitAware以估计响应时间小于剩余可见时间筛候选，配合RAM/存储检查和邻域搜索。",
+      "citation_boundary_cn": "估计值筛选并不构成所有随机服务时长下按期完成的硬保证；不实现离域后的结果重路由。",
+      "actual_visual_pages_within_locator": [],
+      "manuscript_candidate_lines": [
+        129,
+        276
+      ],
+      "candidate_position_may_be_cross_study_not_explicit_citation": true,
+      "manuscript_modified": false,
+      "formal_version_parity_closed": false,
+      "human_verified": false
+    },
+    {
+      "claim_id": "B04-057-C03",
+      "reference_number": 57,
+      "doi": "10.1007/s10586-025-05663-9",
+      "claim_type": "source_body_observation",
+      "source_physical_pages": [
+        12,
+        13
+      ],
+      "HTML_locator": null,
+      "source_locator": "Table2; §7.1 metrics",
+      "source_pdf_sha256": "f1c1bd362d23b0f70c444fc892e6527cec5afa1dbbc69504538e86c7a2aab37b",
+      "HTML_tool_capture_sha256s": [],
+      "source_version": "publisher_VOR_Springer_OA",
+      "source_url": "https://link.springer.com/content/pdf/10.1007/s10586-025-05663-9.pdf",
+      "finding_cn": "600秒仿真，40个当时相关卫星、5接入点，固定地理请求源；30秒业务截止期与25–176秒可见时间为不同参数。",
+      "citation_boundary_cn": "40是当时处理范围而非整个真实星座的在轨测量规模。到达量随不同平均到达间隔改变。",
+      "actual_visual_pages_within_locator": [
+        13
+      ],
+      "manuscript_candidate_lines": [
+        129,
+        270
+      ],
+      "candidate_position_may_be_cross_study_not_explicit_citation": true,
+      "manuscript_modified": false,
+      "formal_version_parity_closed": false,
+      "human_verified": false
+    },
+    {
+      "claim_id": "B04-057-C04",
+      "reference_number": 57,
+      "doi": "10.1007/s10586-025-05663-9",
+      "claim_type": "source_body_observation",
+      "source_physical_pages": [
+        13,
+        14,
+        15,
+        16
+      ],
+      "HTML_locator": null,
+      "source_locator": "§7.1 success definition; Table4",
+      "source_pdf_sha256": "f1c1bd362d23b0f70c444fc892e6527cec5afa1dbbc69504538e86c7a2aab37b",
+      "HTML_tool_capture_sha256s": [],
+      "source_version": "publisher_VOR_Springer_OA",
+      "source_url": "https://link.springer.com/content/pdf/10.1007/s10586-025-05663-9.pdf",
+      "finding_cn": "超过30秒截止但在离域前完成仍被计为successful；平均响应时间按成功请求统计，失败还含未分配、排队残留和离域完成。",
+      "citation_boundary_cn": "成功率不是按期完成率；负载变大时成功子集变短，均值降低不表示所有请求服务改善。",
+      "actual_visual_pages_within_locator": [
+        13,
+        16
+      ],
+      "manuscript_candidate_lines": [
+        129,
+        270,
+        303
+      ],
+      "candidate_position_may_be_cross_study_not_explicit_citation": true,
+      "manuscript_modified": false,
+      "formal_version_parity_closed": false,
+      "human_verified": false
+    },
+    {
+      "claim_id": "B04-057-C05",
+      "reference_number": 57,
+      "doi": "10.1007/s10586-025-05663-9",
+      "claim_type": "source_body_observation",
+      "source_physical_pages": [
+        14,
+        16
+      ],
+      "HTML_locator": null,
+      "source_locator": "§7.2 DTS-TMAX versus OrbitAware",
+      "source_pdf_sha256": "f1c1bd362d23b0f70c444fc892e6527cec5afa1dbbc69504538e86c7a2aab37b",
+      "HTML_tool_capture_sha256s": [],
+      "source_version": "publisher_VOR_Springer_OA",
+      "source_url": "https://link.springer.com/content/pdf/10.1007/s10586-025-05663-9.pdf",
+      "finding_cn": "带动态优先级时两算法总体表现接近，作者解释为两者共享的接入点选择已偏向剩余可见期长的节点。",
+      "citation_boundary_cn": "结论段的概括不能替代直接对照；不能写成新增轨道感知筛选在所有测试中显著更优。",
+      "actual_visual_pages_within_locator": [
+        16
+      ],
+      "manuscript_candidate_lines": [
+        129,
+        276
+      ],
+      "candidate_position_may_be_cross_study_not_explicit_citation": true,
+      "manuscript_modified": false,
+      "formal_version_parity_closed": false,
+      "human_verified": false
+    },
+    {
+      "claim_id": "B04-057-C06",
+      "reference_number": 57,
+      "doi": "10.1007/s10586-025-05663-9",
+      "claim_type": "source_body_observation",
+      "source_physical_pages": [
+        15,
+        16
+      ],
+      "HTML_locator": null,
+      "source_locator": "Table5; §7.3 priority management",
+      "source_pdf_sha256": "f1c1bd362d23b0f70c444fc892e6527cec5afa1dbbc69504538e86c7a2aab37b",
+      "HTML_tool_capture_sha256s": [],
+      "source_version": "publisher_VOR_Springer_OA",
+      "source_url": "https://link.springer.com/content/pdf/10.1007/s10586-025-05663-9.pdf",
+      "finding_cn": "动态优先级提高完成比例并将一部分原低优先任务升为高优先级，作者比较静态与动态队列。",
+      "citation_boundary_cn": "输出高优先标签比例不能直接解释为原始高优先客户的完成率；应保留原始类别和统计分母。",
+      "actual_visual_pages_within_locator": [
+        16
+      ],
+      "manuscript_candidate_lines": [
+        129,
+        303
+      ],
+      "candidate_position_may_be_cross_study_not_explicit_citation": true,
+      "manuscript_modified": false,
+      "formal_version_parity_closed": false,
+      "human_verified": false
+    },
+    {
+      "claim_id": "B04-061-C01",
+      "reference_number": 61,
+      "doi": "10.1109/TAES.2019.2947978",
+      "claim_type": "source_body_observation",
+      "source_physical_pages": [
+        7,
+        8,
+        12,
+        13,
+        14
+      ],
+      "HTML_locator": null,
+      "source_locator": "§2; Eqs8–17",
+      "source_pdf_sha256": "900e6c9125732d92f2d17ca3072dd2a23130515d2bc01f399e942b989d94bacb",
+      "HTML_tool_capture_sha256s": [],
+      "source_version": "author_manuscript_dated_2020-03-18",
+      "source_url": "https://drive.google.com/uc?export=download&id=1ZWAE-hwLsw2lb1-6BrzXHcVYRNGIDMJe",
+      "finding_cn": "云覆盖被转成每次观测收益的区间偏差，按目标设置扰动预算Gamma，并通过对偶化保持线性。",
+      "citation_boundary_cn": "Gamma是集合的保守程度，不是校准后的云概率、违约概率或任意相关云场的可靠性保证。",
+      "actual_visual_pages_within_locator": [
+        14
+      ],
+      "manuscript_candidate_lines": [
+        133,
+        276
+      ],
+      "candidate_position_may_be_cross_study_not_explicit_citation": true,
+      "manuscript_modified": false,
+      "formal_version_parity_closed": false,
+      "human_verified": false
+    },
+    {
+      "claim_id": "B04-061-C02",
+      "reference_number": 61,
+      "doi": "10.1109/TAES.2019.2947978",
+      "claim_type": "source_body_observation",
+      "source_physical_pages": [
+        8,
+        23,
+        24,
+        32,
+        33
+      ],
+      "HTML_locator": null,
+      "source_locator": "assumptions; experiments; future work",
+      "source_pdf_sha256": "900e6c9125732d92f2d17ca3072dd2a23130515d2bc01f399e942b989d94bacb",
+      "HTML_tool_capture_sha256s": [],
+      "source_version": "author_manuscript_dated_2020-03-18",
+      "source_url": "https://drive.google.com/uc?export=download&id=1ZWAE-hwLsw2lb1-6BrzXHcVYRNGIDMJe",
+      "finding_cn": "考虑转移、能量、存储及重复观测收益上限；假定地面站/中继充足而省略传输。算例基于4星高景一号参数、150–300随机目标、通常72小时。",
+      "citation_boundary_cn": "并非大型星座端到端交付实验；敏捷卫星和真实传输约束仍属后续扩展。",
+      "actual_visual_pages_within_locator": [],
+      "manuscript_candidate_lines": [
+        133,
+        248
+      ],
+      "candidate_position_may_be_cross_study_not_explicit_citation": true,
+      "manuscript_modified": false,
+      "formal_version_parity_closed": false,
+      "human_verified": false
+    },
+    {
+      "claim_id": "B04-061-C03",
+      "reference_number": 61,
+      "doi": "10.1109/TAES.2019.2947978",
+      "claim_type": "source_body_observation",
+      "source_physical_pages": [
+        19,
+        25,
+        26
+      ],
+      "HTML_locator": null,
+      "source_locator": "CGH; pricing DAG; gap definition",
+      "source_pdf_sha256": "900e6c9125732d92f2d17ca3072dd2a23130515d2bc01f399e942b989d94bacb",
+      "HTML_tool_capture_sha256s": [],
+      "source_version": "author_manuscript_dated_2020-03-18",
+      "source_url": "https://drive.google.com/uc?export=download&id=1ZWAE-hwLsw2lb1-6BrzXHcVYRNGIDMJe",
+      "finding_cn": "按卫星轨道列生成，以DP求定价，再由生成列求整数主问题；报告CGH整数解与LP界的相对间隙。",
+      "citation_boundary_cn": "原文是列生成启发式，不是分支定价完备搜索；限制主问题的整数最优不等于原始模型整数最优。",
+      "actual_visual_pages_within_locator": [
+        26
+      ],
+      "manuscript_candidate_lines": [
+        133,
+        270
+      ],
+      "candidate_position_may_be_cross_study_not_explicit_citation": true,
+      "manuscript_modified": false,
+      "formal_version_parity_closed": false,
+      "human_verified": false
+    },
+    {
+      "claim_id": "B04-061-C04",
+      "reference_number": 61,
+      "doi": "10.1109/TAES.2019.2947978",
+      "claim_type": "source_body_observation",
+      "source_physical_pages": [
+        24,
+        25,
+        26
+      ],
+      "HTML_locator": null,
+      "source_locator": "§4.2 setup; Table3",
+      "source_pdf_sha256": "900e6c9125732d92f2d17ca3072dd2a23130515d2bc01f399e942b989d94bacb",
+      "HTML_tool_capture_sha256s": [],
+      "source_version": "author_manuscript_dated_2020-03-18",
+      "source_url": "https://drive.google.com/uc?export=download&id=1ZWAE-hwLsw2lb1-6BrzXHcVYRNGIDMJe",
+      "finding_cn": "每参数组合10例，CPLEX12.6.3、1%整数求解容差及1200秒上限；原紧凑模型到200目标时明显遇到限时问题。",
+      "citation_boundary_cn": "求解容差与后续报告的LP界间隙不同；超时不等于无可行解或物理不可行。",
+      "actual_visual_pages_within_locator": [
+        26
+      ],
+      "manuscript_candidate_lines": [
+        133,
+        270
+      ],
+      "candidate_position_may_be_cross_study_not_explicit_citation": true,
+      "manuscript_modified": false,
+      "formal_version_parity_closed": false,
+      "human_verified": false
+    },
+    {
+      "claim_id": "B04-061-C05",
+      "reference_number": 61,
+      "doi": "10.1109/TAES.2019.2947978",
+      "claim_type": "source_body_observation",
+      "source_physical_pages": [
+        25,
+        26,
+        29
+      ],
+      "HTML_locator": null,
+      "source_locator": "CGH performance; runtime split",
+      "source_pdf_sha256": "900e6c9125732d92f2d17ca3072dd2a23130515d2bc01f399e942b989d94bacb",
+      "HTML_tool_capture_sha256s": [],
+      "source_version": "author_manuscript_dated_2020-03-18",
+      "source_url": "https://drive.google.com/uc?export=download&id=1ZWAE-hwLsw2lb1-6BrzXHcVYRNGIDMJe",
+      "finding_cn": "作者报告CGH平均间隙较小，但300目标组有46/270例未在1200秒内完成整数主问题；大例整数阶段占主要耗时。",
+      "citation_boundary_cn": "不得把LP列生成很快写成整个调度都在相同时间内完成；未独立复算论文数值。",
+      "actual_visual_pages_within_locator": [
+        26
+      ],
+      "manuscript_candidate_lines": [
+        133,
+        270
+      ],
+      "candidate_position_may_be_cross_study_not_explicit_citation": true,
+      "manuscript_modified": false,
+      "formal_version_parity_closed": false,
+      "human_verified": false
+    },
+    {
+      "claim_id": "B04-061-C06",
+      "reference_number": 61,
+      "doi": "10.1109/TAES.2019.2947978",
+      "claim_type": "source_body_observation",
+      "source_physical_pages": [
+        29,
+        30,
+        32,
+        33
+      ],
+      "HTML_locator": null,
+      "source_locator": "Table8; conclusions",
+      "source_pdf_sha256": "900e6c9125732d92f2d17ca3072dd2a23130515d2bc01f399e942b989d94bacb",
+      "HTML_tool_capture_sha256s": [],
+      "source_version": "author_manuscript_dated_2020-03-18",
+      "source_url": "https://drive.google.com/uc?export=download&id=1ZWAE-hwLsw2lb1-6BrzXHcVYRNGIDMJe",
+      "finding_cn": "增加Gamma降低保守目标值，运行时间呈先升后降；更大扰动预算并非必然更难。",
+      "citation_boundary_cn": "这是给定收益区间和实例下的模型敏感性，不是实测业务质量随真实云量变化的曲线。",
+      "actual_visual_pages_within_locator": [],
+      "manuscript_candidate_lines": [
+        133,
+        276
+      ],
+      "candidate_position_may_be_cross_study_not_explicit_citation": true,
+      "manuscript_modified": false,
+      "formal_version_parity_closed": false,
+      "human_verified": false
+    },
+    {
+      "claim_id": "B04-062-C01",
+      "reference_number": 62,
+      "doi": "10.1016/j.ejor.2018.11.043",
+      "claim_type": "source_body_observation",
+      "source_physical_pages": [
+        6,
+        7,
+        8,
+        12,
+        13
+      ],
+      "HTML_locator": null,
+      "source_locator": "model assumptions; collection windows",
+      "source_pdf_sha256": "136c28f5121ece9e892961ccaf2487e886713e4f495140dfe45c5eff76bd085c",
+      "HTML_tool_capture_sha256s": [],
+      "source_version": "author_accepted_manuscript_OSTI",
+      "source_url": "https://www.osti.gov/servlets/purl/1524209",
+      "finding_cn": "可观测窗、时长、适用传感器等事先给定；设定时间吸收入固定持续时长，质量阈值作参数，避免顺序相关转移计算。",
+      "citation_boundary_cn": "案例为GEO传感器；不是大规模LEO敏捷姿态/成像/下传全链约束，轨道物理已在窗生成阶段处理。",
+      "actual_visual_pages_within_locator": [],
+      "manuscript_candidate_lines": [
+        133,
+        270
+      ],
+      "candidate_position_may_be_cross_study_not_explicit_citation": true,
+      "manuscript_modified": false,
+      "formal_version_parity_closed": false,
+      "human_verified": false
+    },
+    {
+      "claim_id": "B04-062-C02",
+      "reference_number": 62,
+      "doi": "10.1016/j.ejor.2018.11.043",
+      "claim_type": "source_body_observation",
+      "source_physical_pages": [
+        14,
+        15,
+        16,
+        17
+      ],
+      "HTML_locator": null,
+      "source_locator": "two-stage stochastic model",
+      "source_pdf_sha256": "136c28f5121ece9e892961ccaf2487e886713e4f495140dfe45c5eff76bd085c",
+      "HTML_tool_capture_sha256s": [],
+      "source_version": "author_accepted_manuscript_OSTI",
+      "source_url": "https://www.osti.gov/servlets/purl/1524209",
+      "finding_cn": "两阶段模型共享先验安排，后续只按天气情景评价质量；该阶段是结构性追索，不允许操作上重调度。",
+      "citation_boundary_cn": "最大期望质量不等于最坏情形保证；简化云场对受影响时间窗施加共同天气份额。",
+      "actual_visual_pages_within_locator": [
+        17
+      ],
+      "manuscript_candidate_lines": [
+        133,
+        276,
+        299
+      ],
+      "candidate_position_may_be_cross_study_not_explicit_citation": true,
+      "manuscript_modified": false,
+      "formal_version_parity_closed": false,
+      "human_verified": false
+    },
+    {
+      "claim_id": "B04-062-C03",
+      "reference_number": 62,
+      "doi": "10.1016/j.ejor.2018.11.043",
+      "claim_type": "source_body_observation",
+      "source_physical_pages": [
+        17,
+        18,
+        19,
+        20,
+        33
+      ],
+      "HTML_locator": null,
+      "source_locator": "three-stage information; noon update",
+      "source_pdf_sha256": "136c28f5121ece9e892961ccaf2487e886713e4f495140dfe45c5eff76bd085c",
+      "HTML_tool_capture_sha256s": [],
+      "source_version": "author_accepted_manuscript_OSTI",
+      "source_url": "https://www.osti.gov/servlets/purl/1524209",
+      "finding_cn": "三阶段树在中午获得天气后可调整后半日安排，前半日已执行部分固定，末阶段再评价最终天气下质量。",
+      "citation_boundary_cn": "不能将两阶段和三阶段都称在线重规划；固定中午一次更新也不等于任意事件的连续滚动策略。",
+      "actual_visual_pages_within_locator": [
+        17
+      ],
+      "manuscript_candidate_lines": [
+        133,
+        299,
+        301
+      ],
+      "candidate_position_may_be_cross_study_not_explicit_citation": true,
+      "manuscript_modified": false,
+      "formal_version_parity_closed": false,
+      "human_verified": false
+    },
+    {
+      "claim_id": "B04-062-C04",
+      "reference_number": 62,
+      "doi": "10.1016/j.ejor.2018.11.043",
+      "claim_type": "source_body_observation",
+      "source_physical_pages": [
+        20,
+        25,
+        26,
+        33
+      ],
+      "HTML_locator": null,
+      "source_locator": "size and computational experiments",
+      "source_pdf_sha256": "136c28f5121ece9e892961ccaf2487e886713e4f495140dfe45c5eff76bd085c",
+      "HTML_tool_capture_sha256s": [],
+      "source_version": "author_accepted_manuscript_OSTI",
+      "source_url": "https://www.osti.gov/servlets/purl/1524209",
+      "finding_cn": "主要1/2传感器、223–520窗口、1440时间步；百万量级变量来自时间和情景展开。三阶段2传感器430窗/9情景例2400秒达到0.23%间隙。",
+      "citation_boundary_cn": "变量数不等于卫星数；计算条件和停止间隙需随结果保留，不能概括成机载实时大星座验证。",
+      "actual_visual_pages_within_locator": [],
+      "manuscript_candidate_lines": [
+        133,
+        270
+      ],
+      "candidate_position_may_be_cross_study_not_explicit_citation": true,
+      "manuscript_modified": false,
+      "formal_version_parity_closed": false,
+      "human_verified": false
+    },
+    {
+      "claim_id": "B04-062-C05",
+      "reference_number": 62,
+      "doi": "10.1016/j.ejor.2018.11.043",
+      "claim_type": "source_body_observation",
+      "source_physical_pages": [
+        30,
+        31,
+        32
+      ],
+      "HTML_locator": null,
+      "source_locator": "out-of-sample comparison; Tables3/6",
+      "source_pdf_sha256": "136c28f5121ece9e892961ccaf2487e886713e4f495140dfe45c5eff76bd085c",
+      "HTML_tool_capture_sha256s": [],
+      "source_version": "author_accepted_manuscript_OSTI",
+      "source_url": "https://www.osti.gov/servlets/purl/1524209",
+      "finding_cn": "作者区分训练与样本外评价；表6第6例两种指标相对确定性基线分别为−2.13%和−1.46%，表3亦有负值。",
+      "citation_boundary_cn": "不能把总体优势写成所有样本外实例均更好；50场景安排并非一般收敛或可靠性证书。",
+      "actual_visual_pages_within_locator": [
+        30,
+        32
+      ],
+      "manuscript_candidate_lines": [
+        133,
+        276,
+        303
+      ],
+      "candidate_position_may_be_cross_study_not_explicit_citation": true,
+      "manuscript_modified": false,
+      "formal_version_parity_closed": false,
+      "human_verified": false
+    },
+    {
+      "claim_id": "B04-062-C06",
+      "reference_number": 62,
+      "doi": "10.1016/j.ejor.2018.11.043",
+      "claim_type": "source_body_observation",
+      "source_physical_pages": [
+        26,
+        28,
+        33,
+        34,
+        35,
+        36
+      ],
+      "HTML_locator": null,
+      "source_locator": "quality metrics; three-stage comparisons",
+      "source_pdf_sha256": "136c28f5121ece9e892961ccaf2487e886713e4f495140dfe45c5eff76bd085c",
+      "HTML_tool_capture_sha256s": [],
+      "source_version": "author_accepted_manuscript_OSTI",
+      "source_url": "https://www.osti.gov/servlets/purl/1524209",
+      "finding_cn": "目标为加权观测质量，累计信息按观测开始计入；三阶段相对确定性基线的增益同时改变不确定性建模和改排能力。",
+      "citation_boundary_cn": "不是数据产品交付时刻；不能将组合变化所得增益全归因于某一个改排模块。",
+      "actual_visual_pages_within_locator": [],
+      "manuscript_candidate_lines": [
+        133,
+        270,
+        297,
+        328
+      ],
+      "candidate_position_may_be_cross_study_not_explicit_citation": true,
+      "manuscript_modified": false,
+      "formal_version_parity_closed": false,
+      "human_verified": false
+    },
+    {
+      "claim_id": "B04-072-C01",
+      "reference_number": 72,
+      "doi": "10.1007/s40295-025-00487-6",
+      "claim_type": "source_body_observation",
+      "source_physical_pages": [
+        6,
+        7,
+        8
+      ],
+      "HTML_locator": null,
+      "source_locator": "Problem1 versus AssumptionA.1",
+      "source_pdf_sha256": "4c33ba12334a19d142e50684472aa81ad21f9b24448c92e5fabf918aa122b160",
+      "HTML_tool_capture_sha256s": [],
+      "source_version": "publisher_VOR_Springer_OA",
+      "source_url": "https://link.springer.com/content/pdf/10.1007/s40295-025-00487-6.pdf",
+      "finding_cn": "一般问题写出六根数交会条件，但实际求解明确忽略相位代价，采用五轨道根数转移。",
+      "citation_boundary_cn": "轨道转移到目标轨道不是已完成相位一致的交会服务，不能把一般定义替代实际简化模型。",
+      "actual_visual_pages_within_locator": [
+        8
+      ],
+      "manuscript_candidate_lines": [
+        143,
+        157,
+        270
+      ],
+      "candidate_position_may_be_cross_study_not_explicit_citation": true,
+      "manuscript_modified": false,
+      "formal_version_parity_closed": false,
+      "human_verified": false
+    },
+    {
+      "claim_id": "B04-072-C02",
+      "reference_number": 72,
+      "doi": "10.1007/s40295-025-00487-6",
+      "claim_type": "source_body_observation",
+      "source_physical_pages": [
+        8,
+        9,
+        13,
+        14,
+        15
+      ],
+      "HTML_locator": null,
+      "source_locator": "dynamic model; TVMI; Eq21",
+      "source_pdf_sha256": "4c33ba12334a19d142e50684472aa81ad21f9b24448c92e5fabf918aa122b160",
+      "HTML_tool_capture_sha256s": [],
+      "source_version": "publisher_VOR_Springer_OA",
+      "source_url": "https://link.springer.com/content/pdf/10.1007/s40295-025-00487-6.pdf",
+      "finding_cn": "Q-law代价纳入质量耗减、地影推力约束和长期J2，在初始质量与出发时刻网格上按有向目标对预计算，再双线性插值。",
+      "citation_boundary_cn": "短/长周期摄动被简化；成本数组有效域由网格和固定动力学决定，不能无条件用于新环境。",
+      "actual_visual_pages_within_locator": [
+        8
+      ],
+      "manuscript_candidate_lines": [
+        143,
+        157,
+        270
+      ],
+      "candidate_position_may_be_cross_study_not_explicit_citation": true,
+      "manuscript_modified": false,
+      "formal_version_parity_closed": false,
+      "human_verified": false
+    },
+    {
+      "claim_id": "B04-072-C03",
+      "reference_number": 72,
+      "doi": "10.1007/s40295-025-00487-6",
+      "claim_type": "source_body_observation",
+      "source_physical_pages": [
+        18,
+        19,
+        23,
+        24
+      ],
+      "HTML_locator": null,
+      "source_locator": "setup; Tables4–6",
+      "source_pdf_sha256": "4c33ba12334a19d142e50684472aa81ad21f9b24448c92e5fabf918aa122b160",
+      "HTML_tool_capture_sha256s": [],
+      "source_version": "publisher_VOR_Springer_OA",
+      "source_url": "https://link.springer.com/content/pdf/10.1007/s40295-025-00487-6.pdf",
+      "finding_cn": "20个MEO/GEO目标案例每种策略需296400次积分，8核并行预计算分别2.62及4.85小时；后续各启发式100次运行，表中序列阶段不足5分钟。",
+      "citation_boundary_cn": "序列计时不能当完整预计算—搜索—高保真复核总时长；不是20以外所有规模均成立。",
+      "actual_visual_pages_within_locator": [
+        24
+      ],
+      "manuscript_candidate_lines": [
+        143,
+        270
+      ],
+      "candidate_position_may_be_cross_study_not_explicit_citation": true,
+      "manuscript_modified": false,
+      "formal_version_parity_closed": false,
+      "human_verified": false
+    },
+    {
+      "claim_id": "B04-072-C04",
+      "reference_number": 72,
+      "doi": "10.1007/s40295-025-00487-6",
+      "claim_type": "source_body_observation",
+      "source_physical_pages": [
+        7,
+        17,
+        23,
+        24
+      ],
+      "HTML_locator": null,
+      "source_locator": "heuristic optimality boundary",
+      "source_pdf_sha256": "4c33ba12334a19d142e50684472aa81ad21f9b24448c92e5fabf918aa122b160",
+      "HTML_tool_capture_sha256s": [],
+      "source_version": "publisher_VOR_Springer_OA",
+      "source_url": "https://link.springer.com/content/pdf/10.1007/s40295-025-00487-6.pdf",
+      "finding_cn": "对GA、SA和PSO重复随机搜索并选最好序列；原文也说明启发式通常不保证全局最优。",
+      "citation_boundary_cn": "标题和表格写optimal不构成最优性证明，100次收敛或直接法局部解亦不能替代穷举/有效全局界。",
+      "actual_visual_pages_within_locator": [
+        24
+      ],
+      "manuscript_candidate_lines": [
+        143,
+        270
+      ],
+      "candidate_position_may_be_cross_study_not_explicit_citation": true,
+      "manuscript_modified": false,
+      "formal_version_parity_closed": false,
+      "human_verified": false
+    },
+    {
+      "claim_id": "B04-072-C05",
+      "reference_number": 72,
+      "doi": "10.1007/s40295-025-00487-6",
+      "claim_type": "source_body_observation",
+      "source_physical_pages": [
+        22,
+        23,
+        27,
+        28,
+        29,
+        30
+      ],
+      "HTML_locator": null,
+      "source_locator": "interpolation validation versus GPOPS-II",
+      "source_pdf_sha256": "4c33ba12334a19d142e50684472aa81ad21f9b24448c92e5fabf918aa122b160",
+      "HTML_tool_capture_sha256s": [],
+      "source_version": "publisher_VOR_Springer_OA",
+      "source_url": "https://link.springer.com/content/pdf/10.1007/s40295-025-00487-6.pdf",
+      "finding_cn": "插值与直接Q-law比较的平均燃料/时间相对误差约1.05%/1.32%；另一层用GPOPS-II含更完整J2逐段比较，误差另有口径。",
+      "citation_boundary_cn": "插值误差不等于物理轨迹误差；最小燃料直接法比较固定Q-law时长，不能称无条件联合全局最优校准。",
+      "actual_visual_pages_within_locator": [],
+      "manuscript_candidate_lines": [
+        143,
+        157,
+        322
+      ],
+      "candidate_position_may_be_cross_study_not_explicit_citation": true,
+      "manuscript_modified": false,
+      "formal_version_parity_closed": false,
+      "human_verified": false
+    },
+    {
+      "claim_id": "B04-072-C06",
+      "reference_number": 72,
+      "doi": "10.1007/s40295-025-00487-6",
+      "claim_type": "source_body_observation",
+      "source_physical_pages": [
+        29,
+        30,
+        31
+      ],
+      "HTML_locator": null,
+      "source_locator": "validation; limitations",
+      "source_pdf_sha256": "4c33ba12334a19d142e50684472aa81ad21f9b24448c92e5fabf918aa122b160",
+      "HTML_tool_capture_sha256s": [],
+      "source_version": "publisher_VOR_Springer_OA",
+      "source_url": "https://link.springer.com/content/pdf/10.1007/s40295-025-00487-6.pdf",
+      "finding_cn": "直接法比较中逐段误差可约10%或17%，全序列总量误差较小；文末指出LEO中J2相对控制加速度过强时可能降低准确度。",
+      "citation_boundary_cn": "总误差小不能抹去局部段误差；MEO/GEO结果不自动证明低轨大星座所有服务路线可实施。",
+      "actual_visual_pages_within_locator": [],
+      "manuscript_candidate_lines": [
+        143,
+        157,
+        270,
+        322
+      ],
+      "candidate_position_may_be_cross_study_not_explicit_citation": true,
+      "manuscript_modified": false,
+      "formal_version_parity_closed": false,
+      "human_verified": false
+    },
+    {
+      "claim_id": "B04-086-C01",
+      "reference_number": 86,
+      "doi": "10.1016/j.actaastro.2025.07.027",
+      "claim_type": "review_body_observation",
+      "source_physical_pages": [
+        3,
+        4
+      ],
+      "HTML_locator": null,
+      "source_locator": "autonomy definition; scope",
+      "source_pdf_sha256": "9b2e1c032b9b99cfb88530ed54cbbfb47c4880f36740d24a1e5ddf2e91377a31",
+      "HTML_tool_capture_sha256s": [],
+      "source_version": "author_preprint_arxiv_2503.22555v1_2025-03-28",
+      "source_url": "https://arxiv.org/pdf/2503.22555",
+      "finding_cn": "区别地面自治与星上自治，筛查、风险判断、命令上注、轨迹设计是不同环节；该文聚焦适合自治的CAM计算。",
+      "citation_boundary_cn": "决策位置不等于全部输入也在星上获得；历史工程现状与作者优选判断不能作当前普遍事实。",
+      "actual_visual_pages_within_locator": [],
+      "manuscript_candidate_lines": [
+        209,
+        322
+      ],
+      "candidate_position_may_be_cross_study_not_explicit_citation": true,
+      "manuscript_modified": false,
+      "formal_version_parity_closed": false,
+      "human_verified": false
+    },
+    {
+      "claim_id": "B04-086-C02",
+      "reference_number": 86,
+      "doi": "10.1016/j.actaastro.2025.07.027",
+      "claim_type": "review_body_observation",
+      "source_physical_pages": [
+        5,
+        6,
+        7
+      ],
+      "HTML_locator": null,
+      "source_locator": "uncertainty propagation; short-term PoC",
+      "source_pdf_sha256": "9b2e1c032b9b99cfb88530ed54cbbfb47c4880f36740d24a1e5ddf2e91377a31",
+      "HTML_tool_capture_sha256s": [],
+      "source_version": "author_preprint_arxiv_2503.22555v1_2025-03-28",
+      "source_url": "https://arxiv.org/pdf/2503.22555",
+      "finding_cn": "短遭遇概率近似依赖位置高斯及不相关、相对轨迹近直线、忽略速度不确定性和等效硬体半径等条件。",
+      "citation_boundary_cn": "最小距离与碰撞概率不是同指标；短遭遇模型不能不经检验移到长期弯曲相对运动或非高斯情况。",
+      "actual_visual_pages_within_locator": [],
+      "manuscript_candidate_lines": [
+        209,
+        276
+      ],
+      "candidate_position_may_be_cross_study_not_explicit_citation": true,
+      "manuscript_modified": false,
+      "formal_version_parity_closed": false,
+      "human_verified": false
+    },
+    {
+      "claim_id": "B04-086-C03",
+      "reference_number": 86,
+      "doi": "10.1016/j.actaastro.2025.07.027",
+      "claim_type": "review_body_observation",
+      "source_physical_pages": [
+        23,
+        24
+      ],
+      "HTML_locator": null,
+      "source_locator": "Tables6–7; comparative setup",
+      "source_pdf_sha256": "9b2e1c032b9b99cfb88530ed54cbbfb47c4880f36740d24a1e5ddf2e91377a31",
+      "HTML_tool_capture_sha256s": [],
+      "source_version": "author_preprint_arxiv_2503.22555v1_2025-03-28",
+      "source_url": "https://arxiv.org/pdf/2503.22555",
+      "finding_cn": "选6种方法在2170个合成LEO单短遭遇、开普勒动力学、一轨道预警及指定阈值上比较；各法的10/20/60机动机会设置不同。",
+      "citation_boundary_cn": "这是明确限定的代表集，非所有CAM方法统一排名；设置和离散机会差异需随性能结论保留。",
+      "actual_visual_pages_within_locator": [
+        23
+      ],
+      "manuscript_candidate_lines": [
+        209,
+        270,
+        322
+      ],
+      "candidate_position_may_be_cross_study_not_explicit_citation": true,
+      "manuscript_modified": false,
+      "formal_version_parity_closed": false,
+      "human_verified": false
+    },
+    {
+      "claim_id": "B04-086-C04",
+      "reference_number": 86,
+      "doi": "10.1016/j.actaastro.2025.07.027",
+      "claim_type": "review_body_observation",
+      "source_physical_pages": [
+        23,
+        24
+      ],
+      "HTML_locator": null,
+      "source_locator": "runtime; capability not exercised",
+      "source_pdf_sha256": "9b2e1c032b9b99cfb88530ed54cbbfb47c4880f36740d24a1e5ddf2e91377a31",
+      "HTML_tool_capture_sha256s": [],
+      "source_version": "author_preprint_arxiv_2503.22555v1_2025-03-28",
+      "source_url": "https://arxiv.org/pdf/2503.22555",
+      "finding_cn": "报告选中方法均在1秒内，解析/半解析通常更快；作者指出本实验未利用数值法加入额外操作约束的能力。",
+      "citation_boundary_cn": "计时是给定桌面平台的CAM计算，不含筛查/测定轨/上注/执行；亦不证明复杂约束或真实星载平台同速。",
+      "actual_visual_pages_within_locator": [
+        23
+      ],
+      "manuscript_candidate_lines": [
+        209,
+        270
+      ],
+      "candidate_position_may_be_cross_study_not_explicit_citation": true,
+      "manuscript_modified": false,
+      "formal_version_parity_closed": false,
+      "human_verified": false
+    },
+    {
+      "claim_id": "B04-086-C05",
+      "reference_number": 86,
+      "doi": "10.1016/j.actaastro.2025.07.027",
+      "claim_type": "review_body_observation",
+      "source_physical_pages": [
+        24,
+        26,
+        27
+      ],
+      "HTML_locator": null,
+      "source_locator": "validation; constraint violations",
+      "source_pdf_sha256": "9b2e1c032b9b99cfb88530ed54cbbfb47c4880f36740d24a1e5ddf2e91377a31",
+      "HTML_tool_capture_sha256s": [],
+      "source_version": "author_preprint_arxiv_2503.22555v1_2025-03-28",
+      "source_url": "https://arxiv.org/pdf/2503.22555",
+      "finding_cn": "以开普勒前向传播复核MD或PoC，报告部分方法有阈值违反；PoC用相对误差，MD用米，且不同实现用不同概率公式。",
+      "citation_boundary_cn": "不能把所选方法统称严格无违约；本实验明确没有评估偏离标称条件的鲁棒性。",
+      "actual_visual_pages_within_locator": [
+        27
+      ],
+      "manuscript_candidate_lines": [
+        209,
+        276,
+        322
+      ],
+      "candidate_position_may_be_cross_study_not_explicit_citation": true,
+      "manuscript_modified": false,
+      "formal_version_parity_closed": false,
+      "human_verified": false
+    },
+    {
+      "claim_id": "B04-086-C06",
+      "reference_number": 86,
+      "doi": "10.1016/j.actaastro.2025.07.027",
+      "claim_type": "review_body_observation",
+      "source_physical_pages": [
+        28,
+        29,
+        30
+      ],
+      "HTML_locator": null,
+      "source_locator": "future directions; conclusion",
+      "source_pdf_sha256": "9b2e1c032b9b99cfb88530ed54cbbfb47c4880f36740d24a1e5ddf2e91377a31",
+      "HTML_tool_capture_sha256s": [],
+      "source_version": "author_preprint_arxiv_2503.22555v1_2025-03-28",
+      "source_url": "https://arxiv.org/pdf/2503.22555",
+      "finding_cn": "未来方向包括地月空间与无推力方案，整体归纳数值灵活性与解析速度之间的折中。",
+      "citation_boundary_cn": "综述内新比较应限在小而清晰的可比子集；本批仅核读其设计与结果，不开展新的计算实验。",
+      "actual_visual_pages_within_locator": [],
+      "manuscript_candidate_lines": [
+        209,
+        270,
+        322,
+        328
+      ],
+      "candidate_position_may_be_cross_study_not_explicit_citation": true,
+      "manuscript_modified": false,
+      "formal_version_parity_closed": false,
+      "human_verified": false
+    },
+    {
+      "claim_id": "B04-092-C01",
+      "reference_number": 92,
+      "doi": "10.2514/1.G000218",
+      "claim_type": "source_body_observation",
+      "source_physical_pages": [
+        3,
+        7,
+        8
+      ],
+      "HTML_locator": null,
+      "source_locator": "dynamics; MPC problems4–5",
+      "source_pdf_sha256": "e977867ad600a2be7ab982703c34e07d80f90000363d95daa9bfa266c06e6bb0",
+      "HTML_tool_capture_sha256s": [],
+      "source_version": "publisher_typeset_VOR_copy_author_public_repository",
+      "source_url": "https://caltech.app.box.com/shared/static/xb19dc8ih9su97894omrmh8k44tfko1u.pdf",
+      "finding_cn": "以J2相对动力学、推力与分离约束构造重构控制，滚动用实际位置速度重置初值；预测域之外用终端成本且不施加避碰约束。",
+      "citation_boundary_cn": "这是邻域轨迹执行反馈，不是一般观测/网络/服务任务的星座全局调度；凸子问题不等于原问题全局最优。",
+      "actual_visual_pages_within_locator": [
+        8
+      ],
+      "manuscript_candidate_lines": [
+        213,
+        233,
+        301
+      ],
+      "candidate_position_may_be_cross_study_not_explicit_citation": true,
+      "manuscript_modified": false,
+      "formal_version_parity_closed": false,
+      "human_verified": false
+    },
+    {
+      "claim_id": "B04-092-C02",
+      "reference_number": 92,
+      "doi": "10.2514/1.G000218",
+      "claim_type": "source_body_observation",
+      "source_physical_pages": [
+        6,
+        7
+      ],
+      "HTML_locator": null,
+      "source_locator": "decentralization; ordering",
+      "source_pdf_sha256": "e977867ad600a2be7ab982703c34e07d80f90000363d95daa9bfa266c06e6bb0",
+      "HTML_tool_capture_sha256s": [],
+      "source_version": "publisher_typeset_VOR_copy_author_public_repository",
+      "source_url": "https://caltech.app.box.com/shared/static/xb19dc8ih9su97894omrmh8k44tfko1u.pdf",
+      "finding_cn": "邻星旧轨迹作为固定障碍并行更新可能振荡；用任意编号优先次序让一方避让，作者承认可能损失燃料最优性。",
+      "citation_boundary_cn": "不是任意异步消息条件的共识保证；并行计算仍有前轮信息及更新规则。",
+      "actual_visual_pages_within_locator": [],
+      "manuscript_candidate_lines": [
+        213,
+        270,
+        299
+      ],
+      "candidate_position_may_be_cross_study_not_explicit_citation": true,
+      "manuscript_modified": false,
+      "formal_version_parity_closed": false,
+      "human_verified": false
+    },
+    {
+      "claim_id": "B04-092-C03",
+      "reference_number": 92,
+      "doi": "10.2514/1.G000218",
+      "claim_type": "source_body_observation",
+      "source_physical_pages": [
+        8,
+        9,
+        10,
+        12
+      ],
+      "HTML_locator": null,
+      "source_locator": "Assumptions1–2; Proposition2; Theorems3/7",
+      "source_pdf_sha256": "e977867ad600a2be7ab982703c34e07d80f90000363d95daa9bfa266c06e6bb0",
+      "HTML_tool_capture_sha256s": [],
+      "source_version": "publisher_typeset_VOR_copy_author_public_repository",
+      "source_url": "https://caltech.app.box.com/shared/static/xb19dc8ih9su97894omrmh8k44tfko1u.pdf",
+      "finding_cn": "扰动界基于线性化/离散误差相对可忽略及状态/执行误差有界，膨胀分离半径并构造终端误差球。",
+      "citation_boundary_cn": "不能扩展成任意未建模误差或任意通信中断下的鲁棒安全保证；边界需随引用一并保留。",
+      "actual_visual_pages_within_locator": [
+        8,
+        10
+      ],
+      "manuscript_candidate_lines": [
+        213,
+        233,
+        276
+      ],
+      "candidate_position_may_be_cross_study_not_explicit_citation": true,
+      "manuscript_modified": false,
+      "formal_version_parity_closed": false,
+      "human_verified": false
+    },
+    {
+      "claim_id": "B04-092-C04",
+      "reference_number": 92,
+      "doi": "10.2514/1.G000218",
+      "claim_type": "source_body_observation",
+      "source_physical_pages": [
+        10
+      ],
+      "HTML_locator": null,
+      "source_locator": "Propositions4–5; Eqs42–43",
+      "source_pdf_sha256": "e977867ad600a2be7ab982703c34e07d80f90000363d95daa9bfa266c06e6bb0",
+      "HTML_tool_capture_sha256s": [],
+      "source_version": "publisher_typeset_VOR_copy_author_public_repository",
+      "source_url": "https://caltech.app.box.com/shared/static/xb19dc8ih9su97894omrmh8k44tfko1u.pdf",
+      "finding_cn": "可检测条件要求通信半径覆盖预测域内最坏相对位移，计算条件要求新解在现有安全预测域用尽前算完。",
+      "citation_boundary_cn": "通信半径、最大速度、预测域和实际求解时间共同决定条件，不能仅凭算法名认定实时可实施。",
+      "actual_visual_pages_within_locator": [
+        10
+      ],
+      "manuscript_candidate_lines": [
+        213,
+        233,
+        270,
+        299
+      ],
+      "candidate_position_may_be_cross_study_not_explicit_citation": true,
+      "manuscript_modified": false,
+      "formal_version_parity_closed": false,
+      "human_verified": false
+    },
+    {
+      "claim_id": "B04-092-C05",
+      "reference_number": 92,
+      "doi": "10.2514/1.G000218",
+      "claim_type": "source_body_observation",
+      "source_physical_pages": [
+        10,
+        11,
+        12
+      ],
+      "HTML_locator": null,
+      "source_locator": "Theorem6; Remark5–6",
+      "source_pdf_sha256": "e977867ad600a2be7ab982703c34e07d80f90000363d95daa9bfa266c06e6bb0",
+      "HTML_tool_capture_sha256s": [],
+      "source_version": "publisher_typeset_VOR_copy_author_public_repository",
+      "source_url": "https://caltech.app.box.com/shared/static/xb19dc8ih9su97894omrmh8k44tfko1u.pdf",
+      "finding_cn": "连续时段安全另有步长/半径/加速度条件；作者提醒速度或推力约束仍可能使滚动问题不可行，并讨论延长终止时刻。",
+      "citation_boundary_cn": "离散点安全不等于连续安全；碰撞约束可解也不保证原固定截止时刻的全部约束可解。",
+      "actual_visual_pages_within_locator": [
+        10
+      ],
+      "manuscript_candidate_lines": [
+        213,
+        233,
+        301
+      ],
+      "candidate_position_may_be_cross_study_not_explicit_citation": true,
+      "manuscript_modified": false,
+      "formal_version_parity_closed": false,
+      "human_verified": false
+    },
+    {
+      "claim_id": "B04-092-C06",
+      "reference_number": 92,
+      "doi": "10.2514/1.G000218",
+      "claim_type": "source_body_observation",
+      "source_physical_pages": [
+        12,
+        13,
+        14
+      ],
+      "HTML_locator": null,
+      "source_locator": "simulation setup; Tables1–2",
+      "source_pdf_sha256": "e977867ad600a2be7ab982703c34e07d80f90000363d95daa9bfa266c06e6bb0",
+      "HTML_tool_capture_sha256s": [],
+      "source_version": "publisher_typeset_VOR_copy_author_public_repository",
+      "source_url": "https://caltech.app.box.com/shared/static/xb19dc8ih9su97894omrmh8k44tfko1u.pdf",
+      "finding_cn": "实际数值例为10和100星，表列MPC每次求解平均时间与SCP整次轨迹时间；MPC误差更小但耗油增加，扰动场景100星平均末端误差约1.013米。",
+      "citation_boundary_cn": "引言的千星应用愿景不是千星试验；每次平均计时不等于任务总计算量或最坏时限，亦非飞行验证。",
+      "actual_visual_pages_within_locator": [
+        13,
+        14
+      ],
+      "manuscript_candidate_lines": [
+        213,
+        233,
+        270,
+        322
+      ],
+      "candidate_position_may_be_cross_study_not_explicit_citation": true,
+      "manuscript_modified": false,
+      "formal_version_parity_closed": false,
+      "human_verified": false
+    }
+  ]
+}

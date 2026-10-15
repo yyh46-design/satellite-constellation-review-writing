@@ -1,0 +1,179 @@
+{
+  "batch": "B04_20261015",
+  "all_parity_closed": false,
+  "formal_publisher_PDF_copies_obtained_refs": [
+    5,
+    8,
+    16,
+    30,
+    39,
+    57,
+    72,
+    92
+  ],
+  "author_copy_requires_pairing_refs": [
+    2,
+    19,
+    61,
+    62,
+    86
+  ],
+  "publisher_provisional_metadata_requires_check_refs": [
+    7
+  ],
+  "HTML_missing_formula_PDF_refs": [
+    26
+  ],
+  "queue": [
+    {
+      "reference_number": 2,
+      "doi": "10.2514/1.A35982",
+      "read_version": "author_preprint_arxiv_2306.01107v8_2024-09-12",
+      "read_url": "https://arxiv.org/pdf/2306.01107",
+      "formal_entry": "https://doi.org/10.2514/1.A35982",
+      "PDF_sha256": "cce2963c96a3d4a737831f31fe34d3e7d13b5bac1b955a159094b0834080c037",
+      "next_check": "正式版对照、全部背景引文及公式证明未核；被综述研究的数值结论仍需对应一次文献。",
+      "formal_version_parity_closed": false
+    },
+    {
+      "reference_number": 5,
+      "doi": "10.1016/j.actaastro.2025.10.018",
+      "read_version": "publisher_VOR_OA_institutional_repository",
+      "read_url": "https://digital.library.adelaide.edu.au/server/api/core/bitstreams/482432e4-b0a1-48de-aefb-979a0fc69ca5/content",
+      "formal_entry": "https://doi.org/10.1016/j.actaastro.2025.10.018",
+      "PDF_sha256": "d162a300fa462c36ac1b0db6691181bdc2d2555b477b60c532b96dc95adb22ed",
+      "next_check": "未回读其全部一次文献；TRL3–5判断和系统定性等级不是独立在轨审计；不能由工具使用比例直接推出验证通过比例。",
+      "formal_version_parity_closed": false
+    },
+    {
+      "reference_number": 7,
+      "doi": "10.7527/S1000-6893.2026.32935",
+      "read_version": "publisher_network_first_PDF_provisional_metadata",
+      "read_url": "https://hkxb.buaa.edu.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=21249",
+      "formal_entry": "https://doi.org/10.7527/S1000-6893.2026.32935",
+      "PDF_sha256": "7d8e18e99dec024c56315c7a166cd3e1055d2207ac14ff3cf0ae554c201b76ee",
+      "next_check": "终排正式版和首页元数据问题未关闭；文中工程/标准现状及各算法百分比均属二次材料，本批未追溯验证。",
+      "formal_version_parity_closed": false
+    },
+    {
+      "reference_number": 8,
+      "doi": "10.3873/j.issn.1000-1328.2026.02.002",
+      "read_version": "publisher_VOR_public_PDF",
+      "read_url": "https://www.spacejournal.cn/yhxb/cn/article/pdf/preview/10.3873/j.issn.1000-1328.2026.02.002.pdf",
+      "formal_entry": "https://doi.org/10.3873/j.issn.1000-1328.2026.02.002",
+      "PDF_sha256": "59a764b80a0297fc58ca826c660bf90dc48b0d08bfd18b79b8fc140dc770ba0b",
+      "next_check": "未追溯全部一次研究/工程计划；所列网络优化一般性优点不能代替具体问题的保证，正式元数据Crossref刷新超时。",
+      "formal_version_parity_closed": false
+    },
+    {
+      "reference_number": 16,
+      "doi": "10.1007/s42405-026-01298-1",
+      "read_version": "publisher_VOR_Springer_OA_online_first",
+      "read_url": "https://link.springer.com/content/pdf/10.1007/s42405-026-01298-1.pdf",
+      "formal_entry": "https://doi.org/10.1007/s42405-026-01298-1",
+      "PDF_sha256": "4e366f02c06f10964d8b6a528447fe35ca33ff6c3ee824013111d7c9a3dae8c9",
+      "next_check": "注入轨道/发射时刻和高保真轨迹、代码复现未核；页16泛称同构型时间不变与表7/8具体行仍需解释；不是全面全局Pareto证明。",
+      "formal_version_parity_closed": false
+    },
+    {
+      "reference_number": 19,
+      "doi": "10.2514/1.A36281",
+      "read_version": "author_preprint_arxiv_2408.09696v2_2024-09-08",
+      "read_url": "https://arxiv.org/pdf/2408.09696",
+      "formal_entry": "https://doi.org/10.2514/1.A36281",
+      "PDF_sha256": "7b46e1100583fdce3d9f9f61412d69ba5df311dc3883ea5cc22e97589e6b3b9c",
+      "next_check": "正式版差异、全部库存推导和独立Monte Carlo复现未核；案例成本为论文参数，不能当当前报价；GA求得的设计不据此宣称全局最优。",
+      "formal_version_parity_closed": false
+    },
+    {
+      "reference_number": 26,
+      "doi": "10.1155/2021/6644339",
+      "read_version": "publisher_open_HTML_PDF_unavailable",
+      "read_url": "https://onlinelibrary.wiley.com/doi/10.1155/2021/6644339",
+      "formal_entry": "https://doi.org/10.1155/2021/6644339",
+      "PDF_sha256": null,
+      "next_check": "需PDF和公式/图表核查；表6/7与文字的服务分配有差异，不能采用具体指派；未证明连续激活区间全覆盖或全局最优。",
+      "formal_version_parity_closed": false
+    },
+    {
+      "reference_number": 30,
+      "doi": "10.1016/S1270-9638(02)01173-2",
+      "read_version": "publisher_typeset_article_copy_hosted_SFU_course",
+      "read_url": "https://www2.cs.sfu.ca/CourseCentral/827/havens/papers/topic%2312%28SatelliteScheduling%29/lemaitre-2002.pdf",
+      "formal_entry": "https://doi.org/10.1016/S1270-9638(02)01173-2",
+      "PDF_sha256": "e0d479deb97455c53c55edf51d740736b39097e7e2c1e0d7c41219f734cff86e",
+      "next_check": "未复现代码或当前平台计时；本批不宣称覆盖其全部背景引文和算法证明。实际比较只针对简化单轨道段问题。",
+      "formal_version_parity_closed": false
+    },
+    {
+      "reference_number": 39,
+      "doi": "10.1109/JSEE.2016.00066",
+      "read_version": "publisher_VOR_public_PDF",
+      "read_url": "https://www.jseepub.com/CN/article/downloadArticleFile.do?attachType=PDF&id=5650",
+      "formal_entry": "https://doi.org/10.1109/JSEE.2016.00066",
+      "PDF_sha256": "9642a659b2e13eeee59bce165e02f50426ee875162e5a9cb194a555133df2206",
+      "next_check": "未复现MVFSA、独立审计贝叶斯计算或机载通信执行；不将6星数值算例外推千星实时性能。",
+      "formal_version_parity_closed": false
+    },
+    {
+      "reference_number": 57,
+      "doi": "10.1007/s10586-025-05663-9",
+      "read_version": "publisher_VOR_Springer_OA",
+      "read_url": "https://link.springer.com/content/pdf/10.1007/s10586-025-05663-9.pdf",
+      "formal_entry": "https://doi.org/10.1007/s10586-025-05663-9",
+      "PDF_sha256": "f1c1bd362d23b0f70c444fc892e6527cec5afa1dbbc69504538e86c7a2aab37b",
+      "next_check": "全部队列公式、原代码、重复试验及置信区间未独立核；不将单一地理请求源的仿真写成全球多站验证。",
+      "formal_version_parity_closed": false
+    },
+    {
+      "reference_number": 61,
+      "doi": "10.1109/TAES.2019.2947978",
+      "read_version": "author_manuscript_dated_2020-03-18",
+      "read_url": "https://drive.google.com/uc?export=download&id=1ZWAE-hwLsw2lb1-6BrzXHcVYRNGIDMJe",
+      "formal_entry": "https://doi.org/10.1109/TAES.2019.2947978",
+      "PDF_sha256": "900e6c9125732d92f2d17ca3072dd2a23130515d2bc01f399e942b989d94bacb",
+      "next_check": "正式版、全部定价证明及代码复现未核；需继续核27页所述超时实例的具体界与可行解范围。",
+      "formal_version_parity_closed": false
+    },
+    {
+      "reference_number": 62,
+      "doi": "10.1016/j.ejor.2018.11.043",
+      "read_version": "author_accepted_manuscript_OSTI",
+      "read_url": "https://www.osti.gov/servlets/purl/1524209",
+      "formal_entry": "https://doi.org/10.1016/j.ejor.2018.11.043",
+      "PDF_sha256": "136c28f5121ece9e892961ccaf2487e886713e4f495140dfe45c5eff76bd085c",
+      "next_check": "正式版、全部非预见性/场景树约束和代码复现未核；不由所读段落未显示某式推出模型有错。",
+      "formal_version_parity_closed": false
+    },
+    {
+      "reference_number": 72,
+      "doi": "10.1007/s40295-025-00487-6",
+      "read_version": "publisher_VOR_Springer_OA",
+      "read_url": "https://link.springer.com/content/pdf/10.1007/s40295-025-00487-6.pdf",
+      "formal_entry": "https://doi.org/10.1007/s40295-025-00487-6",
+      "PDF_sha256": "4c33ba12334a19d142e50684472aa81ad21f9b24448c92e5fabf918aa122b160",
+      "next_check": "未独立复现Q-law/GPOPS-II、全部附录推导；不将100次随机运行叫全局证书；LEO高扰动适用性需另核。",
+      "formal_version_parity_closed": false
+    },
+    {
+      "reference_number": 86,
+      "doi": "10.1016/j.actaastro.2025.07.027",
+      "read_version": "author_preprint_arxiv_2503.22555v1_2025-03-28",
+      "read_url": "https://arxiv.org/pdf/2503.22555",
+      "formal_entry": "https://doi.org/10.1016/j.actaastro.2025.07.027",
+      "PDF_sha256": "9b2e1c032b9b99cfb88530ed54cbbfb47c4880f36740d24a1e5ddf2e91377a31",
+      "next_check": "正式版差异、完整CAM分类与全部引用未读尽；未运行公开基准；不能将2025作者工程现状判断当2026核实现状。",
+      "formal_version_parity_closed": false
+    },
+    {
+      "reference_number": 92,
+      "doi": "10.2514/1.G000218",
+      "read_version": "publisher_typeset_VOR_copy_author_public_repository",
+      "read_url": "https://caltech.app.box.com/shared/static/xb19dc8ih9su97894omrmh8k44tfko1u.pdf",
+      "formal_entry": "https://doi.org/10.2514/1.G000218",
+      "PDF_sha256": "e977867ad600a2be7ab982703c34e07d80f90000363d95daa9bfa266c06e6bb0",
+      "next_check": "实际复核页8/10的关键假设、通信/计算条件及页13/14结果表，其他数学字形仍需页面核；未独立验证全部定理或机载运行，固定终止时刻的严格可行性未审计。",
+      "formal_version_parity_closed": false
+    }
+  ]
+}

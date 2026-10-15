@@ -1,0 +1,586 @@
+{
+  "batch": "B04_20261015",
+  "policy": "ordinary public URLs; 403/429 stop at endpoint; no bypass; incomplete downloads excluded; standard public range resume allowed",
+  "logs": [
+    {
+      "external_log_name": "ACQUISITION_CHINESE_BOX.json",
+      "external_log_bytes": 7538,
+      "external_log_sha256": "cf9bd94fe260e08f642dda643b8c47b345db9065bd15000a08355dc693ed6e8a",
+      "sanitized_observations": [
+        {
+          "reference_number": 7,
+          "url": "https://hkxb.buaa.edu.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=21249",
+          "method": "ordinary public download; publisher citation_pdf_url or author-linked Box public share with download enabled",
+          "curl_exit": 0,
+          "error": "",
+          "valid_pdf": true,
+          "bytes": 1108650,
+          "pages": 21,
+          "sha256": "7d8e18e99dec024c56315c7a166cd3e1055d2207ac14ff3cf0ae554c201b76ee"
+        },
+        {
+          "reference_number": 8,
+          "url": "https://www.spacejournal.cn/yhxb/cn/article/pdf/preview/10.3873/j.issn.1000-1328.2026.02.002.pdf",
+          "method": "ordinary public download; publisher citation_pdf_url or author-linked Box public share with download enabled",
+          "curl_exit": 0,
+          "error": "",
+          "valid_pdf": true,
+          "bytes": 1668310,
+          "pages": 14,
+          "sha256": "59a764b80a0297fc58ca826c660bf90dc48b0d08bfd18b79b8fc140dc770ba0b"
+        },
+        {
+          "reference_number": 92,
+          "url": "https://caltech.app.box.com/shared/static/xb19dc8ih9su97894omrmh8k44tfko1u.pdf",
+          "method": "ordinary public download; publisher citation_pdf_url or author-linked Box public share with download enabled",
+          "curl_exit": 28,
+          "error": "curl: (28) Failed to connect to caltech.app.box.com port 443 after 12005 ms: Timeout was reached\r\n"
+        }
+      ]
+    },
+    {
+      "external_log_name": "ACQUISITION_FINAL_CANDIDATES.json",
+      "external_log_bytes": 5858,
+      "external_log_sha256": "7983cde1a25aa13664559ffe9f86f2a750cb84c1d7a8b3797d691092c8cd971a",
+      "sanitized_observations": [
+        {
+          "reference_number": 5,
+          "url": "https://digital.library.adelaide.edu.au/server/api/core/bitstreams/482432e4-b0a1-48de-aefb-979a0fc69ca5/content",
+          "method": "ordinary public urllib request, timeout12/total50sec",
+          "http_status": 200,
+          "valid_pdf": true,
+          "bytes": 2825534,
+          "pages": 21,
+          "sha256": "d162a300fa462c36ac1b0db6691181bdc2d2555b477b60c532b96dc95adb22ed"
+        },
+        {
+          "reference_number": 39,
+          "url": "https://www.jseepub.com/CN/article/downloadArticleFile.do?attachType=PDF&id=5650",
+          "method": "ordinary public urllib request, timeout12/total50sec",
+          "http_status": 200,
+          "valid_pdf": true,
+          "bytes": 1403000,
+          "pages": 15,
+          "sha256": "9642a659b2e13eeee59bce165e02f50426ee875162e5a9cb194a555133df2206"
+        },
+        {
+          "reference_number": 26,
+          "url": "https://onlinelibrary.wiley.com/doi/pdf/10.1155/2021/6644339",
+          "method": "ordinary public urllib request, timeout12/total50sec",
+          "error": "HTTP Error 403: Forbidden",
+          "valid_pdf": false
+        },
+        {
+          "reference_number": "box92",
+          "url": "https://caltech.box.com/s/xb19dc8ih9su97894omrmh8k44tfko1u",
+          "method": "ordinary public urllib request, timeout12/total50sec",
+          "http_status": 200,
+          "valid_pdf": false,
+          "bytes": 33243
+        },
+        {
+          "reference_number": "7meta",
+          "url": "https://hkxb.buaa.edu.cn/CN/10.7527/S1000-6893.2026.32935",
+          "method": "ordinary public urllib request, timeout12/total50sec",
+          "http_status": 200,
+          "valid_pdf": false,
+          "bytes": 88021
+        },
+        {
+          "reference_number": "8meta",
+          "url": "https://www.spacejournal.cn/yhxb/article/doi/10.3873/j.issn.1000-1328.2026.02.002",
+          "method": "ordinary public urllib request, timeout12/total50sec",
+          "http_status": 200,
+          "valid_pdf": false,
+          "bytes": 387430
+        },
+        {
+          "reference_number": "ssrn60",
+          "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2495339",
+          "method": "ordinary public urllib request, timeout12/total50sec",
+          "error": "HTTP Error 403: Forbidden",
+          "valid_pdf": false
+        }
+      ]
+    },
+    {
+      "external_log_name": "ACQUISITION_INITIAL.json",
+      "external_log_bytes": 10171,
+      "external_log_sha256": "4be08cd09756a7893fffa1971b2915a1551afcaf549c03c499cd687010b60559",
+      "sanitized_observations": [
+        {
+          "reference_number": 30,
+          "url": "https://www2.cs.sfu.ca/CourseCentral/827/havens/papers/topic%2312%28SatelliteScheduling%29/lemaitre-2002.pdf",
+          "curl_exit": 0,
+          "error": "",
+          "valid_pdf": true,
+          "bytes": 307237,
+          "pages": 15,
+          "sha256": "e0d479deb97455c53c55edf51d740736b39097e7e2c1e0d7c41219f734cff86e"
+        },
+        {
+          "reference_number": 57,
+          "url": "https://link.springer.com/content/pdf/10.1007/s10586-025-05663-9.pdf",
+          "curl_exit": 0,
+          "error": "",
+          "valid_pdf": true,
+          "bytes": 4515261,
+          "pages": 18,
+          "sha256": "f1c1bd362d23b0f70c444fc892e6527cec5afa1dbbc69504538e86c7a2aab37b"
+        },
+        {
+          "reference_number": 82,
+          "url": "https://kclpure.kcl.ac.uk/portal/files/123432633/AuthorsAccepted.pdf",
+          "curl_exit": 43,
+          "error": "curl: (43) A libcurl function was given a bad argument\r\n"
+        },
+        {
+          "reference_number": 19,
+          "url": "https://arxiv.org/pdf/2408.09696",
+          "curl_exit": 0,
+          "error": "",
+          "valid_pdf": true,
+          "bytes": 1239936,
+          "pages": 41,
+          "sha256": "7b46e1100583fdce3d9f9f61412d69ba5df311dc3883ea5cc22e97589e6b3b9c"
+        },
+        {
+          "reference_number": 90,
+          "url": "https://arc.aiaa.org/doi/am-pdf/10.2514/1.29590",
+          "curl_exit": 43,
+          "error": "curl: (43) A libcurl function was given a bad argument\r\n"
+        },
+        {
+          "reference_number": 91,
+          "url": "https://arc.aiaa.org/doi/am-pdf/10.2514/1.58436",
+          "curl_exit": 43,
+          "error": "curl: (43) A libcurl function was given a bad argument\r\n"
+        },
+        {
+          "reference_number": 92,
+          "url": "https://arc.aiaa.org/doi/am-pdf/10.2514/1.G000218",
+          "curl_exit": 43,
+          "error": "curl: (43) A libcurl function was given a bad argument\r\n"
+        },
+        {
+          "reference_number": 103,
+          "url": "https://arc.aiaa.org/doi/am-pdf/10.2514/1.I011208",
+          "curl_exit": 43,
+          "error": "curl: (43) A libcurl function was given a bad argument\r\n"
+        },
+        {
+          "reference_number": 62,
+          "url": "https://www.osti.gov/servlets/purl/1524209",
+          "curl_exit": 28,
+          "error": "curl: (28) Operation timed out after 45006 milliseconds with 1114951 out of 3744687 bytes received\r\n"
+        }
+      ]
+    },
+    {
+      "external_log_name": "ACQUISITION_MORE.json",
+      "external_log_bytes": 4771,
+      "external_log_sha256": "81a87a2966661c37ecfd81e8cfe604c69ea37bca8cf3f4ebb43ba8e417044217",
+      "sanitized_observations": [
+        {
+          "reference_number": 82,
+          "url": "https://kclpure.kcl.ac.uk/portal/files/123432633/AuthorsAccepted.pdf",
+          "method": "ordinary urllib request, no retry on access denial",
+          "error": "HTTP Error 403: Forbidden",
+          "valid_pdf": false
+        },
+        {
+          "reference_number": 90,
+          "url": "https://arc.aiaa.org/doi/am-pdf/10.2514/1.29590",
+          "method": "ordinary urllib request, no retry on access denial",
+          "error": "<urlopen error _ssl.c:993: The handshake operation timed out>",
+          "valid_pdf": false
+        },
+        {
+          "reference_number": 91,
+          "url": "https://arc.aiaa.org/doi/am-pdf/10.2514/1.58436",
+          "method": "ordinary urllib request, no retry on access denial",
+          "error": "HTTP Error 403: Forbidden",
+          "valid_pdf": false
+        },
+        {
+          "reference_number": 92,
+          "url": "https://arc.aiaa.org/doi/am-pdf/10.2514/1.G000218",
+          "method": "ordinary urllib request, no retry on access denial",
+          "error": "HTTP Error 403: Forbidden",
+          "valid_pdf": false
+        },
+        {
+          "reference_number": 103,
+          "url": "https://arc.aiaa.org/doi/am-pdf/10.2514/1.I011208",
+          "method": "ordinary urllib request, no retry on access denial",
+          "error": "HTTP Error 403: Forbidden",
+          "valid_pdf": false
+        },
+        {
+          "reference_number": 68,
+          "url": "https://iris.polito.it/retrieve/96bbb20b-93c0-4695-b08b-998f363c3a8f/1-s2.0-S1000936125003802-main.pdf",
+          "method": "ordinary urllib request, no retry on access denial",
+          "error": "HTTP Error 403: Forbidden",
+          "valid_pdf": false
+        },
+        {
+          "reference_number": 61,
+          "url": "https://drive.google.com/uc?export=download&id=1ZWAE-hwLsw2lb1-6BrzXHcVYRNGIDMJe",
+          "method": "ordinary urllib request, no retry on access denial",
+          "http_status": 200,
+          "valid_pdf": true,
+          "bytes": 452187,
+          "pages": 41,
+          "sha256": "900e6c9125732d92f2d17ca3072dd2a23130515d2bc01f399e942b989d94bacb"
+        },
+        {
+          "reference_number": "caltech",
+          "url": "https://aerospacerobotics.caltech.edu/scpstochasticnonlinear",
+          "method": "ordinary urllib request, no retry on access denial",
+          "http_status": 200,
+          "valid_pdf": false,
+          "bytes": 90273
+        },
+        {
+          "reference_number": "jsee",
+          "url": "https://www.jseepub.com/EN/10.1109/JSEE.2016.00066",
+          "method": "ordinary urllib request, no retry on access denial",
+          "http_status": 200,
+          "valid_pdf": false,
+          "bytes": 44316
+        }
+      ]
+    },
+    {
+      "external_log_name": "ACQUISITION_NEXT.json",
+      "external_log_bytes": 7740,
+      "external_log_sha256": "fcb09e7159250ed6aacebca01d3f96f08d5d8d6743b513ab8a8ad0269d66a781",
+      "sanitized_observations": [
+        {
+          "reference_number": 16,
+          "url": "https://link.springer.com/content/pdf/10.1007/s42405-026-01298-1.pdf",
+          "method": "ordinary curl public URL, total budget 90sec",
+          "curl_exit": 0,
+          "error": "",
+          "valid_pdf": true,
+          "bytes": 1177555,
+          "pages": 21,
+          "sha256": "4e366f02c06f10964d8b6a528447fe35ca33ff6c3ee824013111d7c9a3dae8c9"
+        },
+        {
+          "reference_number": 2,
+          "url": "https://arxiv.org/pdf/2306.01107",
+          "method": "ordinary curl public URL, total budget 90sec",
+          "curl_exit": 0,
+          "error": "",
+          "valid_pdf": true,
+          "bytes": 1923617,
+          "pages": 25,
+          "sha256": "cce2963c96a3d4a737831f31fe34d3e7d13b5bac1b955a159094b0834080c037"
+        },
+        {
+          "reference_number": 86,
+          "url": "https://arxiv.org/pdf/2503.22555",
+          "method": "ordinary curl public URL, total budget 90sec",
+          "curl_exit": 0,
+          "error": "",
+          "valid_pdf": true,
+          "bytes": 1201567,
+          "pages": 40,
+          "sha256": "9b2e1c032b9b99cfb88530ed54cbbfb47c4880f36740d24a1e5ddf2e91377a31"
+        },
+        {
+          "reference_number": 39,
+          "url": "https://www.jseepub.com/CN/article/downloadArticleFile.do?attachType=PDF&id=5650",
+          "method": "ordinary curl public URL, total budget 90sec",
+          "curl_exit": 22,
+          "error": "curl: (22) The requested URL returned error: 502\r\n"
+        },
+        {
+          "reference_number": 26,
+          "url": "https://onlinelibrary.wiley.com/doi/pdf/10.1155/2021/6644339",
+          "method": "ordinary curl public URL, total budget 90sec",
+          "curl_exit": 43,
+          "error": "curl: (43) A libcurl function was given a bad argument\r\n"
+        },
+        {
+          "reference_number": 4,
+          "url": "https://iris.unimore.it/retrieve/6c945f3f-e4a5-48bf-be24-f3fc9c2b8992/1-s2.0-S0305054824003472-main.pdf",
+          "method": "ordinary curl public URL, total budget 90sec",
+          "curl_exit": 22,
+          "error": "curl: (22) The requested URL returned error: 403\r\n"
+        },
+        {
+          "reference_number": 62,
+          "url": "https://www.osti.gov/servlets/purl/1524209",
+          "method": "ordinary curl public URL, total budget 90sec",
+          "curl_exit": 28,
+          "error": "curl: (28) Operation timed out after 90007 milliseconds with 2061190 out of 3744687 bytes received\r\n"
+        },
+        {
+          "reference_number": "box92",
+          "url": "https://caltech.box.com/s/xb19dc8ih9su97894omrmh8k44tfko1u",
+          "method": "ordinary curl public URL, total budget 90sec",
+          "curl_exit": 28,
+          "error": "curl: (28) Failed to connect to caltech.app.box.com port 443 after 12013 ms: Timeout was reached\r\n"
+        },
+        {
+          "reference_number": "ssrn60",
+          "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2495339",
+          "method": "ordinary curl public URL, total budget 90sec",
+          "curl_exit": 28,
+          "error": "curl: (28) Failed to connect to papers.ssrn.com port 443 after 12012 ms: Timeout was reached\r\n"
+        }
+      ]
+    },
+    {
+      "external_log_name": "METADATA_ADDITIONAL.json",
+      "external_log_bytes": 11066,
+      "external_log_sha256": "fc57446e645c6bb333f2455cbcf41e9f15acbf4daa5c2b4beaaba6ed9315d87a",
+      "sanitized_observations": [
+        {
+          "reference_number": 2,
+          "url": "https://api.crossref.org/works/10.2514/1.A35982",
+          "status": "ok"
+        },
+        {
+          "reference_number": 5,
+          "url": "https://api.crossref.org/works/10.1016/j.actaastro.2025.10.018",
+          "status": "ok"
+        },
+        {
+          "reference_number": 7,
+          "url": "https://api.crossref.org/works/10.7527/S1000-6893.2026.32935",
+          "status": "not_obtained",
+          "error": "HTTP Error 404: Not Found"
+        },
+        {
+          "reference_number": 8,
+          "url": "https://api.crossref.org/works/10.3873/j.issn.1000-1328.2026.02.002",
+          "status": "not_obtained",
+          "error": "<urlopen error _ssl.c:993: The handshake operation timed out>"
+        },
+        {
+          "reference_number": 16,
+          "url": "https://api.crossref.org/works/10.1007/s42405-026-01298-1",
+          "status": "not_obtained",
+          "error": "HTTP Error 429: Too Many Requests"
+        },
+        {
+          "reference_number": 19,
+          "url": "https://api.crossref.org/works/10.2514/1.A36281",
+          "status": "ok"
+        },
+        {
+          "reference_number": 26,
+          "url": "https://api.crossref.org/works/10.1155/2021/6644339",
+          "status": "ok"
+        },
+        {
+          "reference_number": 72,
+          "url": "https://api.crossref.org/works/10.1007/s40295-025-00487-6",
+          "status": "not_obtained",
+          "error": "<urlopen error _ssl.c:993: The handshake operation timed out>"
+        },
+        {
+          "reference_number": 86,
+          "url": "https://api.crossref.org/works/10.1016/j.actaastro.2025.07.027",
+          "status": "ok"
+        }
+      ]
+    },
+    {
+      "external_log_name": "METADATA_DISCOVERY.json",
+      "external_log_bytes": 61027,
+      "external_log_sha256": "238a9ec7a9cf3dec78cda460580e3d51c2384461b787c2413936e4d6d8142ddf",
+      "sanitized_observations": [
+        {
+          "reference_number": 31,
+          "url": "https://api.crossref.org/works/10.1109/TSMC.2020.3020732",
+          "status": "ok"
+        },
+        {
+          "reference_number": 32,
+          "url": "https://api.crossref.org/works/10.1016/j.swevo.2024.101792",
+          "status": "ok"
+        },
+        {
+          "reference_number": 33,
+          "url": "https://api.crossref.org/works/10.1016/j.cor.2025.107259",
+          "status": "ok"
+        },
+        {
+          "reference_number": 38,
+          "url": "https://api.crossref.org/works/10.1016/j.asr.2020.02.018",
+          "status": "ok"
+        },
+        {
+          "reference_number": 39,
+          "url": "https://api.crossref.org/works/10.1109/JSEE.2016.00066",
+          "status": "ok"
+        },
+        {
+          "reference_number": 40,
+          "url": "https://api.crossref.org/works/10.1016/j.asr.2021.09.003",
+          "status": "ok"
+        },
+        {
+          "reference_number": 43,
+          "url": "https://api.crossref.org/works/10.1016/j.actaastro.2025.02.008",
+          "status": "ok"
+        },
+        {
+          "reference_number": 54,
+          "url": "https://api.crossref.org/works/10.1109/JIOT.2024.3482290",
+          "status": "ok"
+        },
+        {
+          "reference_number": 55,
+          "url": "https://api.crossref.org/works/10.1016/j.comcom.2024.05.008",
+          "status": "ok"
+        },
+        {
+          "reference_number": 56,
+          "url": "https://api.crossref.org/works/10.1109/TMC.2025.3570799",
+          "status": "ok"
+        },
+        {
+          "reference_number": 57,
+          "url": "https://api.crossref.org/works/10.1007/s10586-025-05663-9",
+          "status": "ok"
+        },
+        {
+          "reference_number": 59,
+          "url": "https://api.crossref.org/works/10.1016/j.asr.2025.12.008",
+          "status": "ok"
+        },
+        {
+          "reference_number": 60,
+          "url": "https://api.crossref.org/works/10.1016/j.cor.2016.04.014",
+          "status": "ok"
+        },
+        {
+          "reference_number": 61,
+          "url": "https://api.crossref.org/works/10.1109/TAES.2019.2947978",
+          "status": "ok"
+        },
+        {
+          "reference_number": 62,
+          "url": "https://api.crossref.org/works/10.1016/j.ejor.2018.11.043",
+          "status": "ok"
+        },
+        {
+          "reference_number": 63,
+          "url": "https://api.crossref.org/works/10.1016/j.eswa.2025.128502",
+          "status": "ok"
+        },
+        {
+          "reference_number": 64,
+          "url": "https://api.crossref.org/works/10.1016/j.eswa.2025.128350",
+          "status": "ok"
+        },
+        {
+          "reference_number": 82,
+          "url": "https://api.crossref.org/works/10.1016/j.actaastro.2020.01.020",
+          "status": "ok"
+        },
+        {
+          "reference_number": 83,
+          "url": "https://api.crossref.org/works/10.1016/j.asr.2021.04.042",
+          "status": "ok"
+        },
+        {
+          "reference_number": 90,
+          "url": "https://api.crossref.org/works/10.2514/1.29590",
+          "status": "ok"
+        },
+        {
+          "reference_number": 91,
+          "url": "https://api.crossref.org/works/10.2514/1.58436",
+          "status": "ok"
+        },
+        {
+          "reference_number": 92,
+          "url": "https://api.crossref.org/works/10.2514/1.G000218",
+          "status": "ok"
+        },
+        {
+          "reference_number": 93,
+          "url": "https://api.crossref.org/works/10.1016/j.conengprac.2011.09.006",
+          "status": "ok"
+        },
+        {
+          "reference_number": 99,
+          "url": "https://api.crossref.org/works/10.1016/j.actaastro.2020.12.012",
+          "status": "ok"
+        },
+        {
+          "reference_number": 103,
+          "url": "https://api.crossref.org/works/10.2514/1.I011208",
+          "status": "ok"
+        },
+        {
+          "reference_number": 104,
+          "url": "https://api.crossref.org/works/10.1016/j.actaastro.2020.05.011",
+          "status": "ok"
+        },
+        {
+          "reference_number": 118,
+          "url": "https://api.crossref.org/works/10.1109/SAM.2018.8448984",
+          "status": "ok"
+        }
+      ]
+    },
+    {
+      "external_log_name": "092_PUBLIC_SHARE_RECEIPT.json",
+      "external_log_bytes": 3774,
+      "external_log_sha256": "9425adaa27ef9a70334ec4e77c177dc44e8f48b79e1ef468e925b9e5524c3827",
+      "sanitized_observations": [
+        {
+          "reference_number": 92,
+          "url": "https://caltech.app.box.com/shared/static/xb19dc8ih9su97894omrmh8k44tfko1u.pdf",
+          "method": "ordinary public Box shared download; author public link; no authentication or header workaround",
+          "http_status": 200,
+          "valid_pdf": true,
+          "bytes": 1418077,
+          "pages": 16,
+          "sha256": "e977867ad600a2be7ab982703c34e07d80f90000363d95daa9bfa266c06e6bb0"
+        }
+      ]
+    }
+  ],
+  "HTML_capture_receipts": [
+    {
+      "local_capture_path": "D:\\SKT727\\materials\\constellation_review_B04_20261015\\WEB_CAPTURE_026_MODEL.json",
+      "bytes": 32298,
+      "sha256": "138ffa8f872fa616f7b03ef1e18e6193de0e8ec0c3eb1ce24f861048d6aa1792",
+      "identity": "tool_return_snapshot_not_original_HTML_bytes_or_PDF"
+    },
+    {
+      "local_capture_path": "D:\\SKT727\\materials\\constellation_review_B04_20261015\\WEB_CAPTURE_026_RESULTS.json",
+      "bytes": 24518,
+      "sha256": "1a4fec90dab3a46b107a21a0427abf7c51ea341351173b0dc7f37c17d556c389",
+      "identity": "tool_return_snapshot_not_original_HTML_bytes_or_PDF"
+    }
+  ],
+  "transfer_notes": [
+    {
+      "ref": 62,
+      "result": "incomplete ordinary timeout copies excluded; complete39page normal request obtained"
+    },
+    {
+      "ref": 72,
+      "result": "public request7889340bytes + standard HTTP2062775604bytes =10664944 complete; PDF parsed38pages, EOF/hash checked"
+    },
+    {
+      "ref": 92,
+      "result": "Caltech research page links public Box share with download enabled; only stable share/static URL retained, no ephemeral signed redirect in Git"
+    }
+  ],
+  "author_page_urls": {
+    "61": "https://sites.google.com/view/roel-leus/publications",
+    "92": "https://aerospacerobotics.caltech.edu/scpstochasticnonlinear"
+  },
+  "third_party_fulltext_or_images_committed": false,
+  "download_is_reading": false
+}

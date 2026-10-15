@@ -1,0 +1,455 @@
+{
+  "batch": "B04_20261015",
+  "page_number_basis": "one-based physical PDF pages, HTML separate section/line locators",
+  "targeted_paper_count": 15,
+  "local_complete_PDFs_hashed": 14,
+  "HTML_body_without_PDF_count": 1,
+  "actual_visual_page_count": 32,
+  "all_page_all_proof_completion_claimed": false,
+  "human_verified": false,
+  "papers": [
+    {
+      "reference_number": 2,
+      "source_medium": "PDF",
+      "physical_pdf_pages_total": 25,
+      "text_passage_pages_inspected": [
+        4,
+        5,
+        7,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17
+      ],
+      "actual_visual_pages_inspected": [
+        5,
+        15
+      ],
+      "HTML_body_scope": null,
+      "scope": "only manuscript-relevant passages and chosen page regions; page listed does not mean all formulas/figures/proofs read",
+      "additional_scope_note": "正式版对照、全部背景引文及公式证明未核；被综述研究的数值结论仍需对应一次文献。",
+      "human_verified": false,
+      "all_page_all_proof_close_reading_complete": false,
+      "download_is_reading_completion": false
+    },
+    {
+      "reference_number": 5,
+      "source_medium": "PDF",
+      "physical_pdf_pages_total": 21,
+      "text_passage_pages_inspected": [
+        2,
+        4,
+        6,
+        7,
+        15,
+        16,
+        17,
+        18,
+        19
+      ],
+      "actual_visual_pages_inspected": [
+        18,
+        19
+      ],
+      "HTML_body_scope": null,
+      "scope": "only manuscript-relevant passages and chosen page regions; page listed does not mean all formulas/figures/proofs read",
+      "additional_scope_note": "未回读其全部一次文献；TRL3–5判断和系统定性等级不是独立在轨审计；不能由工具使用比例直接推出验证通过比例。",
+      "human_verified": false,
+      "all_page_all_proof_close_reading_complete": false,
+      "download_is_reading_completion": false
+    },
+    {
+      "reference_number": 7,
+      "source_medium": "PDF",
+      "physical_pdf_pages_total": 21,
+      "text_passage_pages_inspected": [
+        1,
+        2,
+        3,
+        5,
+        6,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "actual_visual_pages_inspected": [
+        1,
+        5
+      ],
+      "HTML_body_scope": null,
+      "scope": "only manuscript-relevant passages and chosen page regions; page listed does not mean all formulas/figures/proofs read",
+      "additional_scope_note": "终排正式版和首页元数据问题未关闭；文中工程/标准现状及各算法百分比均属二次材料，本批未追溯验证。",
+      "human_verified": false,
+      "all_page_all_proof_close_reading_complete": false,
+      "download_is_reading_completion": false
+    },
+    {
+      "reference_number": 8,
+      "source_medium": "PDF",
+      "physical_pdf_pages_total": 14,
+      "text_passage_pages_inspected": [
+        1,
+        2,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "actual_visual_pages_inspected": [
+        4,
+        7
+      ],
+      "HTML_body_scope": null,
+      "scope": "only manuscript-relevant passages and chosen page regions; page listed does not mean all formulas/figures/proofs read",
+      "additional_scope_note": "未追溯全部一次研究/工程计划；所列网络优化一般性优点不能代替具体问题的保证，正式元数据Crossref刷新超时。",
+      "human_verified": false,
+      "all_page_all_proof_close_reading_complete": false,
+      "download_is_reading_completion": false
+    },
+    {
+      "reference_number": 16,
+      "source_medium": "PDF",
+      "physical_pdf_pages_total": 21,
+      "text_passage_pages_inspected": [
+        3,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        14,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21
+      ],
+      "actual_visual_pages_inspected": [
+        9,
+        17,
+        20
+      ],
+      "HTML_body_scope": null,
+      "scope": "only manuscript-relevant passages and chosen page regions; page listed does not mean all formulas/figures/proofs read",
+      "additional_scope_note": "注入轨道/发射时刻和高保真轨迹、代码复现未核；页16泛称同构型时间不变与表7/8具体行仍需解释；不是全面全局Pareto证明。",
+      "human_verified": false,
+      "all_page_all_proof_close_reading_complete": false,
+      "download_is_reading_completion": false
+    },
+    {
+      "reference_number": 19,
+      "source_medium": "PDF",
+      "physical_pdf_pages_total": 41,
+      "text_passage_pages_inspected": [
+        8,
+        9,
+        11,
+        14,
+        15,
+        16,
+        18,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        34,
+        35,
+        36
+      ],
+      "actual_visual_pages_inspected": [
+        15,
+        26
+      ],
+      "HTML_body_scope": null,
+      "scope": "only manuscript-relevant passages and chosen page regions; page listed does not mean all formulas/figures/proofs read",
+      "additional_scope_note": "正式版差异、全部库存推导和独立Monte Carlo复现未核；案例成本为论文参数，不能当当前报价；GA求得的设计不据此宣称全局最优。",
+      "human_verified": false,
+      "all_page_all_proof_close_reading_complete": false,
+      "download_is_reading_completion": false
+    },
+    {
+      "reference_number": 26,
+      "source_medium": "HTML",
+      "physical_pdf_pages_total": null,
+      "text_passage_pages_inspected": [],
+      "actual_visual_pages_inspected": [],
+      "HTML_body_scope": "§1–4的已显示模型解释及§5–6；工具页行145–376、377–536；仅段落与HTML表格，不含缺失公式及图像",
+      "scope": "only manuscript-relevant passages and chosen page regions; page listed does not mean all formulas/figures/proofs read",
+      "additional_scope_note": "需PDF和公式/图表核查；表6/7与文字的服务分配有差异，不能采用具体指派；未证明连续激活区间全覆盖或全局最优。",
+      "human_verified": false,
+      "all_page_all_proof_close_reading_complete": false,
+      "download_is_reading_completion": false
+    },
+    {
+      "reference_number": 30,
+      "source_medium": "PDF",
+      "physical_pdf_pages_total": 15,
+      "text_passage_pages_inspected": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "actual_visual_pages_inspected": [
+        4,
+        12
+      ],
+      "HTML_body_scope": null,
+      "scope": "only manuscript-relevant passages and chosen page regions; page listed does not mean all formulas/figures/proofs read",
+      "additional_scope_note": "未复现代码或当前平台计时；本批不宣称覆盖其全部背景引文和算法证明。实际比较只针对简化单轨道段问题。",
+      "human_verified": false,
+      "all_page_all_proof_close_reading_complete": false,
+      "download_is_reading_completion": false
+    },
+    {
+      "reference_number": 39,
+      "source_medium": "PDF",
+      "physical_pdf_pages_total": 15,
+      "text_passage_pages_inspected": [
+        2,
+        3,
+        6,
+        7,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "actual_visual_pages_inspected": [
+        9,
+        14
+      ],
+      "HTML_body_scope": null,
+      "scope": "only manuscript-relevant passages and chosen page regions; page listed does not mean all formulas/figures/proofs read",
+      "additional_scope_note": "未复现MVFSA、独立审计贝叶斯计算或机载通信执行；不将6星数值算例外推千星实时性能。",
+      "human_verified": false,
+      "all_page_all_proof_close_reading_complete": false,
+      "download_is_reading_completion": false
+    },
+    {
+      "reference_number": 57,
+      "source_medium": "PDF",
+      "physical_pdf_pages_total": 18,
+      "text_passage_pages_inspected": [
+        5,
+        7,
+        8,
+        10,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "actual_visual_pages_inspected": [
+        13,
+        16
+      ],
+      "HTML_body_scope": null,
+      "scope": "only manuscript-relevant passages and chosen page regions; page listed does not mean all formulas/figures/proofs read",
+      "additional_scope_note": "全部队列公式、原代码、重复试验及置信区间未独立核；不将单一地理请求源的仿真写成全球多站验证。",
+      "human_verified": false,
+      "all_page_all_proof_close_reading_complete": false,
+      "download_is_reading_completion": false
+    },
+    {
+      "reference_number": 61,
+      "source_medium": "PDF",
+      "physical_pdf_pages_total": 41,
+      "text_passage_pages_inspected": [
+        7,
+        8,
+        12,
+        13,
+        14,
+        19,
+        23,
+        24,
+        25,
+        26,
+        29,
+        30,
+        32,
+        33
+      ],
+      "actual_visual_pages_inspected": [
+        14,
+        26
+      ],
+      "HTML_body_scope": null,
+      "scope": "only manuscript-relevant passages and chosen page regions; page listed does not mean all formulas/figures/proofs read",
+      "additional_scope_note": "正式版、全部定价证明及代码复现未核；需继续核27页所述超时实例的具体界与可行解范围。",
+      "human_verified": false,
+      "all_page_all_proof_close_reading_complete": false,
+      "download_is_reading_completion": false
+    },
+    {
+      "reference_number": 62,
+      "source_medium": "PDF",
+      "physical_pdf_pages_total": 39,
+      "text_passage_pages_inspected": [
+        6,
+        7,
+        8,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        23,
+        25,
+        26,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36
+      ],
+      "actual_visual_pages_inspected": [
+        17,
+        30,
+        32
+      ],
+      "HTML_body_scope": null,
+      "scope": "only manuscript-relevant passages and chosen page regions; page listed does not mean all formulas/figures/proofs read",
+      "additional_scope_note": "正式版、全部非预见性/场景树约束和代码复现未核；不由所读段落未显示某式推出模型有错。",
+      "human_verified": false,
+      "all_page_all_proof_close_reading_complete": false,
+      "download_is_reading_completion": false
+    },
+    {
+      "reference_number": 72,
+      "source_medium": "PDF",
+      "physical_pdf_pages_total": 38,
+      "text_passage_pages_inspected": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        22,
+        23,
+        24,
+        27,
+        28,
+        29,
+        30,
+        31
+      ],
+      "actual_visual_pages_inspected": [
+        8,
+        24
+      ],
+      "HTML_body_scope": null,
+      "scope": "only manuscript-relevant passages and chosen page regions; page listed does not mean all formulas/figures/proofs read",
+      "additional_scope_note": "未独立复现Q-law/GPOPS-II、全部附录推导；不将100次随机运行叫全局证书；LEO高扰动适用性需另核。",
+      "human_verified": false,
+      "all_page_all_proof_close_reading_complete": false,
+      "download_is_reading_completion": false
+    },
+    {
+      "reference_number": 86,
+      "source_medium": "PDF",
+      "physical_pdf_pages_total": 40,
+      "text_passage_pages_inspected": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        22,
+        23,
+        24,
+        26,
+        27,
+        28,
+        29,
+        30
+      ],
+      "actual_visual_pages_inspected": [
+        23,
+        27
+      ],
+      "HTML_body_scope": null,
+      "scope": "only manuscript-relevant passages and chosen page regions; page listed does not mean all formulas/figures/proofs read",
+      "additional_scope_note": "正式版差异、完整CAM分类与全部引用未读尽；未运行公开基准；不能将2025作者工程现状判断当2026核实现状。",
+      "human_verified": false,
+      "all_page_all_proof_close_reading_complete": false,
+      "download_is_reading_completion": false
+    },
+    {
+      "reference_number": 92,
+      "source_medium": "PDF",
+      "physical_pdf_pages_total": 16,
+      "text_passage_pages_inspected": [
+        2,
+        3,
+        4,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "actual_visual_pages_inspected": [
+        8,
+        10,
+        13,
+        14
+      ],
+      "HTML_body_scope": null,
+      "scope": "only manuscript-relevant passages and chosen page regions; page listed does not mean all formulas/figures/proofs read",
+      "additional_scope_note": "实际复核页8/10的关键假设、通信/计算条件及页13/14结果表，其他数学字形仍需页面核；未独立验证全部定理或机载运行，固定终止时刻的严格可行性未审计。",
+      "human_verified": false,
+      "all_page_all_proof_close_reading_complete": false,
+      "download_is_reading_completion": false
+    }
+  ]
+}
