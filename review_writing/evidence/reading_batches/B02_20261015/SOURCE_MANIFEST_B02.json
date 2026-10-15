@@ -1,0 +1,1083 @@
+{
+  "batch": "B02_20261015",
+  "record_date": "2026-10-15",
+  "sources": [
+    {
+      "reference_number": 17,
+      "doi": "10.1016/j.comnet.2024.110942",
+      "doi_url": "https://doi.org/10.1016/j.comnet.2024.110942",
+      "english_title_crossref": "Joint satellite platform and constellation sizing for instantaneous beam-hopping in 5G/6G Non-Terrestrial Networks",
+      "chinese_title_translation": "面向5G/6G非地面网络瞬时跳波束的卫星平台与星座联合规模设计",
+      "authors_crossref_snapshot": [
+        "Samuel Martínez Zamacola",
+        "Ramón Martínez Rodríguez-Osorio",
+        "Miguel A. Salas-Natera"
+      ],
+      "authors_observed_on_read_copy": [
+        "Samuel Martínez Zamacola",
+        "Ramón Martínez Rodríguez-Osorio",
+        "Miguel A. Salas-Natera"
+      ],
+      "venue_crossref_snapshot": [
+        "Computer Networks"
+      ],
+      "dates_crossref_snapshot": {
+        "published": {
+          "date-parts": [
+            [
+              2025,
+              2
+            ]
+          ]
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2025,
+              2
+            ]
+          ]
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2025,
+              2
+            ]
+          ]
+        }
+      },
+      "volume_crossref_snapshot": "257",
+      "issue_crossref_snapshot": null,
+      "pages_or_article_number_crossref_snapshot": "110942",
+      "metadata_snapshot_sha256": "e0a6edd350ab482dfedb72de4a8177c201ee4a7702feca585f508cf70d5e0d59",
+      "metadata_provenance": "https://api.crossref.org/works/10.1016/j.comnet.2024.110942",
+      "fulltext_url_or_primary_record": "https://oa.upm.es/88332/1/10309454.pdf",
+      "version_identity": "publisher_typeset_version_hosted_institutionally",
+      "identity_basis": "UPM公开PDF具有Computer Networks 257 (2025) 110942、最终排版、DOI及版权/许可标记。OpenAlex的submittedVersion标签与实际文件不符；按实际页认定为出版社排版正式版副本。",
+      "local_pdf_path": "D:\\SKT727\\materials\\constellation_review_B02_20261015\\017_institutional_native.pdf",
+      "local_pdf_pages": 14,
+      "remote_pdf_pages_observed": null,
+      "pdf_bytes": 3237988,
+      "pdf_sha256": "06661c9a49d0e32888481708abc1c23c95f204b6a8fda0d8356a582c0de84094",
+      "text_extraction_status": "readable_selected_passages",
+      "third_party_PDF_committed": false,
+      "formal_version_parity_closed": false,
+      "human_verified": false,
+      "all_page_all_proof_close_reading_complete": false,
+      "targeted_body_reading_recorded": true
+    },
+    {
+      "reference_number": 23,
+      "doi": "10.2514/1.A36684",
+      "doi_url": "https://doi.org/10.2514/1.A36684",
+      "english_title_crossref": "On-Orbit Servicing-Integrated Maintenance Strategy for a Satellite Constellation",
+      "chinese_title_translation": "融合在轨服务的卫星星座维护策略",
+      "authors_crossref_snapshot": [
+        "Jaewoo Kim",
+        "Taehyun Sung",
+        "Woonam Hwang",
+        "Jaemyung Ahn"
+      ],
+      "authors_observed_on_read_copy": [
+        "Jaewoo Kim",
+        "Taehyun Sung",
+        "Woonam Hwang",
+        "Jaemyung Ahn"
+      ],
+      "venue_crossref_snapshot": [
+        "Journal of Spacecraft and Rockets"
+      ],
+      "dates_crossref_snapshot": {
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              8,
+              3
+            ]
+          ]
+        },
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              8,
+              3
+            ]
+          ]
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              8,
+              3
+            ]
+          ]
+        }
+      },
+      "volume_crossref_snapshot": null,
+      "issue_crossref_snapshot": null,
+      "pages_or_article_number_crossref_snapshot": "1-18",
+      "metadata_snapshot_sha256": "a38dcbfb82e6da5a8a9ea8c48121aabe4c5938e4ebc4ca36174dbbb203a0e4f3",
+      "metadata_provenance": "https://api.crossref.org/works/10.2514/1.A36684",
+      "fulltext_url_or_primary_record": "https://arxiv.org/pdf/2512.18985v2",
+      "version_identity": "author_preprint_arxiv_v2",
+      "identity_basis": "读取arXiv:2512.18985v2，实际首页标记20 Apr 2026，40页。正式DOI元数据题名含a，作者稿题名省略a；作者、问题与正式摘要对应，尚未取得正式18页版本逐命题对照。",
+      "local_pdf_path": "D:\\SKT727\\materials\\constellation_review_B02_20261015\\023_arxiv_v2.pdf",
+      "local_pdf_pages": 40,
+      "remote_pdf_pages_observed": null,
+      "pdf_bytes": 1291426,
+      "pdf_sha256": "43bb1bd4e39adbcc55d5692862881176039474b9bb77af36abb28f12c09d4353",
+      "text_extraction_status": "readable_selected_passages",
+      "third_party_PDF_committed": false,
+      "formal_version_parity_closed": false,
+      "human_verified": false,
+      "all_page_all_proof_close_reading_complete": false,
+      "targeted_body_reading_recorded": true
+    },
+    {
+      "reference_number": 27,
+      "doi": "10.2514/1.A34978",
+      "doi_url": "https://doi.org/10.2514/1.A34978",
+      "english_title_crossref": "Framework for Modeling and Optimization of On-Orbit Servicing Operations Under Demand Uncertainties",
+      "chinese_title_translation": "需求不确定条件下在轨服务运行建模与优化框架",
+      "authors_crossref_snapshot": [
+        "Tristan Sarton du Jonchay",
+        "Hao Chen",
+        "Onalli Gunasekara",
+        "Koki Ho"
+      ],
+      "authors_observed_on_read_copy": [
+        "Tristan Sarton du Jonchay",
+        "Hao Chen",
+        "Onalli Gunasekara",
+        "Koki Ho"
+      ],
+      "venue_crossref_snapshot": [
+        "Journal of Spacecraft and Rockets"
+      ],
+      "dates_crossref_snapshot": {
+        "published": {
+          "date-parts": [
+            [
+              2021,
+              7
+            ]
+          ]
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2021,
+              7
+            ]
+          ]
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2021,
+              7
+            ]
+          ]
+        }
+      },
+      "volume_crossref_snapshot": "58",
+      "issue_crossref_snapshot": "4",
+      "pages_or_article_number_crossref_snapshot": "1157-1173",
+      "metadata_snapshot_sha256": "123735242d5ec9c9e508ab42c88aad09264ce15e1a70b589f9898c5e655196af",
+      "metadata_provenance": "https://api.crossref.org/works/10.2514/1.A34978",
+      "fulltext_url_or_primary_record": "https://arxiv.org/pdf/2103.08962v1",
+      "version_identity": "author_manuscript_requested_arxiv_v1",
+      "identity_basis": "读取请求地址2103.08962v1的46页作者稿；实际题名/作者与目标一致。首页未见可直接确认的arXiv版本印记，PDF内置题名/作者保留AIAA模板字段，不能据此改书目或判定正式版。",
+      "local_pdf_path": "D:\\SKT727\\materials\\constellation_review_B02_20261015\\027_arxiv_v1.pdf",
+      "local_pdf_pages": 46,
+      "remote_pdf_pages_observed": null,
+      "pdf_bytes": 1206959,
+      "pdf_sha256": "2a8482625618b2cf4471a32505d346fb77f6d32951fc99a56f58990bf485f19a",
+      "text_extraction_status": "readable_selected_passages",
+      "third_party_PDF_committed": false,
+      "formal_version_parity_closed": false,
+      "human_verified": false,
+      "all_page_all_proof_close_reading_complete": false,
+      "targeted_body_reading_recorded": true
+    },
+    {
+      "reference_number": 28,
+      "doi": "10.2514/1.A35094",
+      "doi_url": "https://doi.org/10.2514/1.A35094",
+      "english_title_crossref": "On-Orbit Servicing Optimization Framework with High- and Low-Thrust Propulsion Tradeoff",
+      "chinese_title_translation": "考虑高低推力推进权衡的在轨服务优化框架",
+      "authors_crossref_snapshot": [
+        "Tristan Sarton du Jonchay",
+        "Hao Chen",
+        "Masafumi Isaji",
+        "Yuri Shimane",
+        "Koki Ho"
+      ],
+      "authors_observed_on_read_copy": [
+        "Tristan Sarton du Jonchay",
+        "Hao Chen",
+        "Masafumi Isaji",
+        "Yuri Shimane",
+        "Koki Ho"
+      ],
+      "venue_crossref_snapshot": [
+        "Journal of Spacecraft and Rockets"
+      ],
+      "dates_crossref_snapshot": {
+        "published": {
+          "date-parts": [
+            [
+              2022,
+              1
+            ]
+          ]
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2022,
+              1
+            ]
+          ]
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2022,
+              1
+            ]
+          ]
+        }
+      },
+      "volume_crossref_snapshot": "59",
+      "issue_crossref_snapshot": "1",
+      "pages_or_article_number_crossref_snapshot": "33-48",
+      "metadata_snapshot_sha256": "ecb38c439e10b8308fbe5dcc985ec5f123a9f3fe526268f6390b5e89756fa6a6",
+      "metadata_provenance": "https://api.crossref.org/works/10.2514/1.A35094",
+      "fulltext_url_or_primary_record": "https://arxiv.org/pdf/2103.08963v1",
+      "version_identity": "author_manuscript_requested_arxiv_v1",
+      "identity_basis": "读取请求地址2103.08963v1的45页作者稿；题名/作者匹配。首页无直接版本印记，不能仅凭索引acceptedVersion标签认定是接受稿或正式版。",
+      "local_pdf_path": "D:\\SKT727\\materials\\constellation_review_B02_20261015\\028_arxiv_v1.pdf",
+      "local_pdf_pages": 45,
+      "remote_pdf_pages_observed": null,
+      "pdf_bytes": 1373763,
+      "pdf_sha256": "0e2dba0414bbdf57cfa04bf5d8c408c61b0a0ad23150706bb382020df681ebbb",
+      "text_extraction_status": "readable_selected_passages",
+      "third_party_PDF_committed": false,
+      "formal_version_parity_closed": false,
+      "human_verified": false,
+      "all_page_all_proof_close_reading_complete": false,
+      "targeted_body_reading_recorded": true
+    },
+    {
+      "reference_number": 34,
+      "doi": "10.2514/1.I011215",
+      "doi_url": "https://doi.org/10.2514/1.I011215",
+      "english_title_crossref": "Decentralized Observation Allocation for a Large-Scale Constellation",
+      "chinese_title_translation": "面向大型星座的分散式观测分配",
+      "authors_crossref_snapshot": [
+        "Shreya Parjan",
+        "Steve A. Chien"
+      ],
+      "authors_observed_on_read_copy": [
+        "Shreya Parjan",
+        "Steve A. Chien"
+      ],
+      "venue_crossref_snapshot": [
+        "Journal of Aerospace Information Systems"
+      ],
+      "dates_crossref_snapshot": {
+        "published": {
+          "date-parts": [
+            [
+              2023,
+              8
+            ]
+          ]
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2023,
+              8
+            ]
+          ]
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2023,
+              8
+            ]
+          ]
+        }
+      },
+      "volume_crossref_snapshot": "20",
+      "issue_crossref_snapshot": "8",
+      "pages_or_article_number_crossref_snapshot": "447-461",
+      "metadata_snapshot_sha256": "036fc684b07f5fdc0afc032f7c122544e7b9df0cd748bc4aa9c6d959567e26ab",
+      "metadata_provenance": "https://api.crossref.org/works/10.2514/1.I011215",
+      "fulltext_url_or_primary_record": "https://ai.jpl.nasa.gov/public/documents/papers/parjan-jais2023-mas.pdf",
+      "version_identity": "publisher_typeset_copy_hosted_at_JPL",
+      "identity_basis": "15页JPL公开副本含最终期刊版式、JAIS 20(8):447–461、DOI与正式出版信息；不能因文件名或机构托管就自动降为预印本。",
+      "local_pdf_path": "D:\\SKT727\\materials\\constellation_review_B02_20261015\\034_jpl_author.pdf",
+      "local_pdf_pages": 15,
+      "remote_pdf_pages_observed": null,
+      "pdf_bytes": 2236393,
+      "pdf_sha256": "8b0af8efb6e3f61428dd1a59b24c6d914f6db52d8dd48e03c7120e7c0a7593f9",
+      "text_extraction_status": "readable_selected_passages",
+      "third_party_PDF_committed": false,
+      "formal_version_parity_closed": false,
+      "human_verified": false,
+      "all_page_all_proof_close_reading_complete": false,
+      "targeted_body_reading_recorded": true
+    },
+    {
+      "reference_number": 65,
+      "doi": "10.2514/1.A35736",
+      "doi_url": "https://doi.org/10.2514/1.A35736",
+      "english_title_crossref": "Single-Agent Reinforcement Learning for Scalable Earth-Observing Satellite Constellation Operations",
+      "chinese_title_translation": "面向可扩展对地观测卫星星座运行的单智能体强化学习",
+      "authors_crossref_snapshot": [
+        "Adam Herrmann",
+        "Mark A. Stephenson",
+        "Hanspeter Schaub"
+      ],
+      "authors_observed_on_read_copy": [
+        "Adam Herrmann",
+        "Mark A. Stephenson",
+        "Hanspeter Schaub"
+      ],
+      "venue_crossref_snapshot": [
+        "Journal of Spacecraft and Rockets"
+      ],
+      "dates_crossref_snapshot": {
+        "published": {
+          "date-parts": [
+            [
+              2024,
+              1
+            ]
+          ]
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2024,
+              1
+            ]
+          ]
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2024,
+              1
+            ]
+          ]
+        }
+      },
+      "volume_crossref_snapshot": "61",
+      "issue_crossref_snapshot": "1",
+      "pages_or_article_number_crossref_snapshot": "114-132",
+      "metadata_snapshot_sha256": "d7a069fffb79ff50a57315985da5a61f5b02acbbb6953f77d95304dc8adc4fe8",
+      "metadata_provenance": "https://api.crossref.org/works/10.2514/1.A35736",
+      "fulltext_url_or_primary_record": "https://hanspeterschaub.info/PapersPrivate/Herrmann2024.pdf",
+      "version_identity": "publisher_typeset_copy_hosted_on_faculty_site",
+      "identity_basis": "19页公开教师主页文件具最终JSR期刊版式、61(1):114–132和DOI；在线2023、卷期2024分别保留。",
+      "local_pdf_path": "D:\\SKT727\\materials\\constellation_review_B02_20261015\\065_faculty_author.pdf",
+      "local_pdf_pages": 19,
+      "remote_pdf_pages_observed": null,
+      "pdf_bytes": 1556999,
+      "pdf_sha256": "84ec30992797d7ce9d0661dc53534413631561226eccad20a85dfe3fee7ff510",
+      "text_extraction_status": "readable_selected_passages",
+      "third_party_PDF_committed": false,
+      "formal_version_parity_closed": false,
+      "human_verified": false,
+      "all_page_all_proof_close_reading_complete": false,
+      "targeted_body_reading_recorded": true
+    },
+    {
+      "reference_number": 84,
+      "doi": "10.3390/aerospace10060543",
+      "doi_url": "https://doi.org/10.3390/aerospace10060543",
+      "english_title_crossref": "Performance Investigation of the Conjunction Filter Methods and Enhancement of Computation Speed on Conjunction Assessment Analysis with CUDA Techniques",
+      "chinese_title_translation": "接近筛查方法性能评估及基于CUDA的接近分析计算提速",
+      "authors_crossref_snapshot": [
+        "Phasawee Saingyen",
+        "Sittiporn Channumsin",
+        "Suwat Sreesawet",
+        "Keerati Puttasuwan",
+        "Thanathip Limna"
+      ],
+      "authors_observed_on_read_copy": [
+        "Phasawee Saingyen",
+        "Sittiporn Channumsin",
+        "Suwat Sreesawet",
+        "Keerati Puttasuwan",
+        "Thanathip Limna"
+      ],
+      "venue_crossref_snapshot": [
+        "Aerospace"
+      ],
+      "dates_crossref_snapshot": {
+        "published": {
+          "date-parts": [
+            [
+              2023,
+              6,
+              7
+            ]
+          ]
+        },
+        "published-online": {
+          "date-parts": [
+            [
+              2023,
+              6,
+              7
+            ]
+          ]
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2023,
+              6,
+              7
+            ]
+          ]
+        }
+      },
+      "volume_crossref_snapshot": "10",
+      "issue_crossref_snapshot": "6",
+      "pages_or_article_number_crossref_snapshot": "543",
+      "metadata_snapshot_sha256": "5e106ab42db59ee555479148c956ca223a1bd5978abeae99bfc7068d7826aa94",
+      "metadata_provenance": "https://api.crossref.org/works/10.3390/aerospace10060543",
+      "fulltext_url_or_primary_record": "https://www.mdpi.com/2226-4310/10/6/543",
+      "version_identity": "publisher_version_MDPI",
+      "identity_basis": "本地既有Aerospace 2023,10,543正式PDF，DOI/最终版式匹配；文字层混有重复旧FOR PEER REVIEW字符串，p11/p13实际像素未见该旧水印，按实际页面核表。",
+      "local_pdf_path": "D:\\SKT727\\materials\\constellation_review_B02_20261015\\084_local_existing.pdf",
+      "local_pdf_pages": 14,
+      "remote_pdf_pages_observed": null,
+      "pdf_bytes": 3059466,
+      "pdf_sha256": "0f359de7fc7eaf34b9e104716e0046584213ea3f0354a337ddaeb0dac66473c7",
+      "text_extraction_status": "mixed_old_text_layer_actual_selected_pages_checked",
+      "third_party_PDF_committed": false,
+      "formal_version_parity_closed": false,
+      "human_verified": false,
+      "all_page_all_proof_close_reading_complete": false,
+      "targeted_body_reading_recorded": true
+    },
+    {
+      "reference_number": 85,
+      "doi": "10.1007/s12567-022-00471-y",
+      "doi_url": "https://doi.org/10.1007/s12567-022-00471-y",
+      "english_title_crossref": "Simulation of satellites and constellations for the assessment of collision avoidance operations",
+      "chinese_title_translation": "用于碰撞规避运行评估的卫星与星座仿真",
+      "authors_crossref_snapshot": [
+        "Simon Burgis",
+        "Lukas Rohrmüller",
+        "Martin Michel",
+        "Reinhold Bertrand"
+      ],
+      "authors_observed_on_read_copy": [
+        "Simon Burgis",
+        "Lukas Rohrmüller",
+        "Martin Michel",
+        "Reinhold Bertrand"
+      ],
+      "venue_crossref_snapshot": [
+        "CEAS Space Journal"
+      ],
+      "dates_crossref_snapshot": {
+        "published": {
+          "date-parts": [
+            [
+              2022,
+              9,
+              15
+            ]
+          ]
+        },
+        "published-online": {
+          "date-parts": [
+            [
+              2022,
+              9,
+              15
+            ]
+          ]
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2023,
+              9
+            ]
+          ]
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2022,
+              9,
+              15
+            ]
+          ]
+        }
+      },
+      "volume_crossref_snapshot": "15",
+      "issue_crossref_snapshot": "5",
+      "pages_or_article_number_crossref_snapshot": "655-670",
+      "metadata_snapshot_sha256": "e516c535a81198a27bfdf1a4f2f55b80f297362b67981d7c20827832b06ea63b",
+      "metadata_provenance": "https://api.crossref.org/works/10.1007/s12567-022-00471-y",
+      "fulltext_url_or_primary_record": "https://link.springer.com/content/pdf/10.1007/s12567-022-00471-y.pdf",
+      "version_identity": "publisher_full_PDF_text_remote_only",
+      "identity_basis": "Springer正式PDF正文通过浏览工具可读，16页，对应655–670。普通本机下载多次发生TLS/连接失败；无合法本机完整PDF，故文件大小与SHA留空。远端截图只返回引用而未返回可见像素，不能记已视检。",
+      "local_pdf_path": null,
+      "local_pdf_pages": null,
+      "remote_pdf_pages_observed": 16,
+      "pdf_bytes": null,
+      "pdf_sha256": null,
+      "text_extraction_status": "readable_remote_publisher_PDF_text_only",
+      "third_party_PDF_committed": false,
+      "formal_version_parity_closed": false,
+      "human_verified": false,
+      "all_page_all_proof_close_reading_complete": false,
+      "targeted_body_reading_recorded": true
+    },
+    {
+      "reference_number": 87,
+      "doi": "10.1007/s42064-021-0101-5",
+      "doi_url": "https://doi.org/10.1007/s42064-021-0101-5",
+      "english_title_crossref": "Spacecraft collision avoidance challenge: Design and results of a machine learning competition",
+      "chinese_title_translation": "航天器碰撞规避挑战：机器学习竞赛的设计与结果",
+      "authors_crossref_snapshot": [
+        "Thomas Uriot",
+        "Dario Izzo",
+        "Luís F. Simões",
+        "Rasit Abay",
+        "Nils Einecke",
+        "Sven Rebhan",
+        "Jose Martinez-Heras",
+        "Francesca Letizia",
+        "Jan Siminski",
+        "Klaus Merz"
+      ],
+      "authors_observed_on_read_copy": [
+        "Thomas Uriot",
+        "Dario Izzo",
+        "Luís F. Simões",
+        "Rasit Abay",
+        "Nils Einecke",
+        "Sven Rebhan",
+        "Jose Martinez-Heras",
+        "Francesca Letizia",
+        "Jan Siminski",
+        "Klaus Merz"
+      ],
+      "venue_crossref_snapshot": [
+        "Astrodynamics"
+      ],
+      "dates_crossref_snapshot": {
+        "published": {
+          "date-parts": [
+            [
+              2021,
+              4,
+              7
+            ]
+          ]
+        },
+        "published-online": {
+          "date-parts": [
+            [
+              2021,
+              4,
+              7
+            ]
+          ]
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2022,
+              6
+            ]
+          ]
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2021,
+              4,
+              7
+            ]
+          ]
+        }
+      },
+      "volume_crossref_snapshot": "6",
+      "issue_crossref_snapshot": "2",
+      "pages_or_article_number_crossref_snapshot": "121-140",
+      "metadata_snapshot_sha256": "290a1a47b82067cabd0c4fe20f3718e9ebd92d78e4b807fd7852cbbc2f87c1ff",
+      "metadata_provenance": "https://api.crossref.org/works/10.1007/s42064-021-0101-5",
+      "fulltext_url_or_primary_record": "https://arxiv.org/pdf/2008.03069v1",
+      "version_identity": "author_preprint_requested_arxiv_v1_with_internal_date_mismatch",
+      "identity_basis": "请求2008.03069v1，实际页有arXiv v1 7 Aug 2020，同时正文抬头/生成日期含28 Mar 2022，时间信息不一致。题名作者匹配并以SHA锁定所读字节，不凭请求地址推断完整修订史。",
+      "local_pdf_path": "D:\\SKT727\\materials\\constellation_review_B02_20261015\\087_arxiv_v1.pdf",
+      "local_pdf_pages": 22,
+      "remote_pdf_pages_observed": null,
+      "pdf_bytes": 4916365,
+      "pdf_sha256": "85fb56bdc051d54976d4dd446bef0ed4d2198ddf1a1242878b364d53bc6d49fd",
+      "text_extraction_status": "readable_selected_passages",
+      "third_party_PDF_committed": false,
+      "formal_version_parity_closed": false,
+      "human_verified": false,
+      "all_page_all_proof_close_reading_complete": false,
+      "targeted_body_reading_recorded": true
+    },
+    {
+      "reference_number": 95,
+      "doi": "10.2514/6.2026-2446",
+      "doi_url": "https://doi.org/10.2514/6.2026-2446",
+      "english_title_crossref": "Continuous-Time Successive Convexification for Passively-Safe Spacecraft Rendezvous on a Near Rectilinear Halo Orbit",
+      "chinese_title_translation": "近直线晕轨道被动安全交会的连续时间逐次凸化",
+      "authors_crossref_snapshot": [
+        "Purnanand Elango",
+        "Abraham P. Vinod",
+        "Kenji Kitamura",
+        "Behcet Acikmese",
+        "Stefano Di Cairano",
+        "Avishai Weiss"
+      ],
+      "authors_observed_on_read_copy": [
+        "Purnanand Elango",
+        "Abraham P. Vinod",
+        "Kenji Kitamura",
+        "Behcet Acikmese",
+        "Stefano Di Cairano",
+        "Avishai Weiss"
+      ],
+      "venue_crossref_snapshot": [
+        "AIAA SCITECH 2026 Forum"
+      ],
+      "dates_crossref_snapshot": {
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              1,
+              8
+            ]
+          ]
+        },
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              1,
+              8
+            ]
+          ]
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2026,
+              1,
+              12
+            ]
+          ]
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              1,
+              8
+            ]
+          ]
+        }
+      },
+      "volume_crossref_snapshot": null,
+      "issue_crossref_snapshot": null,
+      "pages_or_article_number_crossref_snapshot": null,
+      "metadata_snapshot_sha256": "b54d595fdcf7e0215a3db72583e1a105885ce2867ee7d353adc50dba2ce0378f",
+      "metadata_provenance": "https://api.crossref.org/works/10.2514/6.2026-2446",
+      "fulltext_url_or_primary_record": "https://www.merl.com/publications/docs/TR2026-016.pdf",
+      "version_identity": "MERL_technical_report_author_conference_version",
+      "identity_basis": "MERL TR2026-016，21个物理页含两页封面，论文页=物理页−2；官方MERL条目关联AIAA DOI。不是已配对确认的AIAA正式出版副本。",
+      "local_pdf_path": "D:\\SKT727\\materials\\constellation_review_B02_20261015\\095_merl_report.pdf",
+      "local_pdf_pages": 21,
+      "remote_pdf_pages_observed": null,
+      "pdf_bytes": 1513813,
+      "pdf_sha256": "f681f504b8c59f20d81988246e4c55cd97c5f12414600d4fe369b53ba9553625",
+      "text_extraction_status": "readable_selected_passages",
+      "third_party_PDF_committed": false,
+      "formal_version_parity_closed": false,
+      "human_verified": false,
+      "all_page_all_proof_close_reading_complete": false,
+      "targeted_body_reading_recorded": true
+    },
+    {
+      "reference_number": 98,
+      "doi": "10.1145/3219819.3219845",
+      "doi_url": "https://doi.org/10.1145/3219819.3219845",
+      "english_title_crossref": "Detecting Spacecraft Anomalies Using LSTMs and Nonparametric Dynamic Thresholding",
+      "chinese_title_translation": "基于LSTM与非参数动态阈值的航天器异常检测",
+      "authors_crossref_snapshot": [
+        "Kyle Hundman",
+        "Valentino Constantinou",
+        "Christopher Laporte",
+        "Ian Colwell",
+        "Tom Soderstrom"
+      ],
+      "authors_observed_on_read_copy": [
+        "Kyle Hundman",
+        "Valentino Constantinou",
+        "Christopher Laporte",
+        "Ian Colwell",
+        "Tom Soderstrom"
+      ],
+      "venue_crossref_snapshot": [
+        "Proceedings of the 24th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining"
+      ],
+      "dates_crossref_snapshot": {
+        "published": {
+          "date-parts": [
+            [
+              2018,
+              7,
+              19
+            ]
+          ]
+        },
+        "published-online": {
+          "date-parts": [
+            [
+              2018,
+              7,
+              19
+            ]
+          ]
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2018,
+              7,
+              19
+            ]
+          ]
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2018,
+              7,
+              19
+            ]
+          ]
+        }
+      },
+      "volume_crossref_snapshot": null,
+      "issue_crossref_snapshot": null,
+      "pages_or_article_number_crossref_snapshot": "387-395",
+      "metadata_snapshot_sha256": "5aeddf1d6e252328eba2c6d9ad3fa6de134e70330414968d286955e0a7e7e304",
+      "metadata_provenance": "https://api.crossref.org/works/10.1145/3219819.3219845",
+      "fulltext_url_or_primary_record": "https://arxiv.org/pdf/1802.04431v3",
+      "version_identity": "author_preprint_arxiv_v3",
+      "identity_basis": "实际页标记arXiv:1802.04431v3, 6 Jun 2018，9页ACM式作者预印本；与正式KDD DOI相关联，未逐命题配对正式版。",
+      "local_pdf_path": "D:\\SKT727\\materials\\constellation_review_B02_20261015\\098_native_complete.pdf",
+      "local_pdf_pages": 9,
+      "remote_pdf_pages_observed": null,
+      "pdf_bytes": 3410870,
+      "pdf_sha256": "bd5e2eb0706d2278eec1874dd32700fbd0d929e9c7208ed33c28ae5ace305836",
+      "text_extraction_status": "readable_selected_passages",
+      "third_party_PDF_committed": false,
+      "formal_version_parity_closed": false,
+      "human_verified": false,
+      "all_page_all_proof_close_reading_complete": false,
+      "targeted_body_reading_recorded": true
+    },
+    {
+      "reference_number": 108,
+      "doi": "10.1016/S0004-3702(98)00068-X",
+      "doi_url": "https://doi.org/10.1016/S0004-3702(98)00068-X",
+      "english_title_crossref": "Remote Agent: to boldly go where no AI system has gone before",
+      "chinese_title_translation": "Remote Agent：迈向人工智能系统尚未涉足之境",
+      "authors_crossref_snapshot": [
+        "Nicola Muscettola",
+        "P.Pandurang Nayak",
+        "Barney Pell",
+        "Brian C. Williams"
+      ],
+      "authors_observed_on_read_copy": [
+        "Nicola Muscettola",
+        "P.Pandurang Nayak",
+        "Barney Pell",
+        "Brian C. Williams"
+      ],
+      "venue_crossref_snapshot": [
+        "Artificial Intelligence"
+      ],
+      "dates_crossref_snapshot": {
+        "published": {
+          "date-parts": [
+            [
+              1998,
+              8
+            ]
+          ]
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              1998,
+              8
+            ]
+          ]
+        },
+        "issued": {
+          "date-parts": [
+            [
+              1998,
+              8
+            ]
+          ]
+        }
+      },
+      "volume_crossref_snapshot": "103",
+      "issue_crossref_snapshot": "1-2",
+      "pages_or_article_number_crossref_snapshot": "5-47",
+      "metadata_snapshot_sha256": "bf99273d468b8b67930d59ea1471b973c71e818789b03ede6528b72d04b60b95",
+      "metadata_provenance": "https://api.crossref.org/works/10.1016/S0004-3702(98)00068-X",
+      "fulltext_url_or_primary_record": "https://people.csail.mit.edu/williams/Web%20site/papers/aij98.pdf",
+      "version_identity": "author_manuscript_hosted_at_MIT",
+      "identity_basis": "MIT作者公开46页稿，标题/作者/正文对应Artificial Intelligence 103 (1998):5–47，实际文件非最终43页期刊分页；未比较正式版。pypdf文字有字形转义，PDFium更可读。",
+      "local_pdf_path": "D:\\SKT727\\materials\\constellation_review_B02_20261015\\108_native_complete.pdf",
+      "local_pdf_pages": 46,
+      "remote_pdf_pages_observed": null,
+      "pdf_bytes": 396360,
+      "pdf_sha256": "f9f4b623e6735ac1346c4fd08cf4dd3202b5bf139bc4c0c73f667f7b38c68600",
+      "text_extraction_status": "PDFium_readable_with_ligature_encoding_artifacts",
+      "third_party_PDF_committed": false,
+      "formal_version_parity_closed": false,
+      "human_verified": false,
+      "all_page_all_proof_close_reading_complete": false,
+      "targeted_body_reading_recorded": true
+    },
+    {
+      "reference_number": 109,
+      "doi": "10.1109/SMC-IT.2006.48",
+      "doi_url": "https://doi.org/10.1109/SMC-IT.2006.48",
+      "english_title_crossref": "Mission Operations of Earth Observing-1 with Onboard Autonomy",
+      "chinese_title_translation": "具备星上自主能力的Earth Observing-1任务运行",
+      "authors_crossref_snapshot": [
+        "Daniel Tran Gregg Rabideau"
+      ],
+      "authors_observed_on_read_copy": [
+        "Gregg Rabideau",
+        "Daniel Tran",
+        "Steve Chien",
+        "Benjamin Cichy",
+        "Rob Sherwood",
+        "Dan Mandl",
+        "Stuart Frye",
+        "Seth Shulman",
+        "Joseph Szwaczkowski",
+        "Darrell Boyer",
+        "Jim Van Gaasbeck"
+      ],
+      "venue_crossref_snapshot": [
+        "2nd IEEE International Conference on Space Mission Challenges for Information Technology (SMC-IT'06)"
+      ],
+      "dates_crossref_snapshot": {
+        "issued": {
+          "date-parts": [
+            [
+              null
+            ]
+          ]
+        }
+      },
+      "volume_crossref_snapshot": null,
+      "issue_crossref_snapshot": null,
+      "pages_or_article_number_crossref_snapshot": "367-373",
+      "metadata_snapshot_sha256": "c0f5eb28c61caddca77b014dfba8768029738643c13dd2a459aa5f4ad63ec712",
+      "metadata_provenance": "https://api.crossref.org/works/10.1109/SMC-IT.2006.48",
+      "fulltext_url_or_primary_record": "https://ntrs.nasa.gov/citations/20060050174",
+      "version_identity": "author_conference_manuscript_local_existing",
+      "identity_basis": "既有7页作者会议稿，题名和正文身份与NTRS/目标DOI匹配；定制字体使两种文字提取均乱码，因此通过实际页面逐页视觉阅读。Crossref作者合并字段不完整；按实际首页另记11位作者，不覆盖历史书目。",
+      "local_pdf_path": "D:\\SKT727\\materials\\constellation_review_B02_20261015\\109_local_existing.pdf",
+      "local_pdf_pages": 7,
+      "remote_pdf_pages_observed": null,
+      "pdf_bytes": 382021,
+      "pdf_sha256": "0295832b32c21c80eede34b4f878e6df809410fcd6cc4e94a7fcdaa3a5e5fe43",
+      "text_extraction_status": "unusable_custom_font_encoding_visual_reading_used",
+      "third_party_PDF_committed": false,
+      "formal_version_parity_closed": false,
+      "human_verified": false,
+      "all_page_all_proof_close_reading_complete": false,
+      "targeted_body_reading_recorded": true
+    },
+    {
+      "reference_number": 117,
+      "doi": "10.1007/978-3-031-06773-0_1",
+      "doi_url": "https://doi.org/10.1007/978-3-031-06773-0_1",
+      "english_title_crossref": "Formal Methods for Trusted Space Autonomy: Boon or Bane?",
+      "chinese_title_translation": "可信空间自主的形式化方法：福音还是负担？",
+      "authors_crossref_snapshot": [
+        "Steve A. Chien"
+      ],
+      "authors_observed_on_read_copy": [
+        "Steve A. Chien"
+      ],
+      "venue_crossref_snapshot": [
+        "Lecture Notes in Computer Science",
+        "NASA Formal Methods"
+      ],
+      "dates_crossref_snapshot": {
+        "published": {
+          "date-parts": [
+            [
+              2022
+            ]
+          ]
+        },
+        "published-online": {
+          "date-parts": [
+            [
+              2022,
+              5,
+              20
+            ]
+          ]
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2022
+            ]
+          ]
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2022
+            ]
+          ]
+        }
+      },
+      "volume_crossref_snapshot": null,
+      "issue_crossref_snapshot": null,
+      "pages_or_article_number_crossref_snapshot": "3-13",
+      "metadata_snapshot_sha256": "135edf431c9e9c7e5dcc173b465db0d955e6b10252007c8d225abeb51f86ac21",
+      "metadata_provenance": "https://api.crossref.org/works/10.1007/978-3-031-06773-0_1",
+      "fulltext_url_or_primary_record": "https://ai.jpl.nasa.gov/public/documents/papers/chien-nfm-2022.pdf",
+      "version_identity": "author_chapter_manuscript_hosted_at_JPL",
+      "identity_basis": "正确JPL 11页章节稿作者为Steve A. Chien。OpenAlex另给出的2201.04531v1实际是Towards Refactoring FRETish Requirements，题名/作者不符，已排除。不能因索引关联相同DOI而当作本文。",
+      "local_pdf_path": "D:\\SKT727\\materials\\constellation_review_B02_20261015\\117_retry_complete.pdf",
+      "local_pdf_pages": 11,
+      "remote_pdf_pages_observed": null,
+      "pdf_bytes": 175014,
+      "pdf_sha256": "be6bffef09410fa8c4be2225227bec0ee5a104825492cb7ad906ae9bc0c74914",
+      "text_extraction_status": "readable_selected_passages",
+      "third_party_PDF_committed": false,
+      "formal_version_parity_closed": false,
+      "human_verified": false,
+      "all_page_all_proof_close_reading_complete": false,
+      "targeted_body_reading_recorded": true
+    },
+    {
+      "reference_number": 120,
+      "doi": "10.1007/s10270-025-01281-6",
+      "doi_url": "https://doi.org/10.1007/s10270-025-01281-6",
+      "english_title_crossref": "Model checking of spacecraft operational designs: a scalability analysis",
+      "chinese_title_translation": "航天器运行设计的模型检验：可扩展性分析",
+      "authors_crossref_snapshot": [
+        "Philipp Chrszon",
+        "Paulina Maurer",
+        "George Saleip",
+        "Sascha Müller",
+        "Philipp M. Fischer",
+        "Andreas Gerndt",
+        "Michael Felderer"
+      ],
+      "authors_observed_on_read_copy": [
+        "Philipp Chrszon",
+        "Paulina Maurer",
+        "George Saleip",
+        "Sascha Müller",
+        "Philipp M. Fischer",
+        "Andreas Gerndt",
+        "Michael Felderer"
+      ],
+      "venue_crossref_snapshot": [
+        "Software and Systems Modeling"
+      ],
+      "dates_crossref_snapshot": {
+        "published": {
+          "date-parts": [
+            [
+              2025,
+              4,
+              15
+            ]
+          ]
+        },
+        "published-online": {
+          "date-parts": [
+            [
+              2025,
+              4,
+              15
+            ]
+          ]
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2025,
+              12
+            ]
+          ]
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2025,
+              4,
+              15
+            ]
+          ]
+        }
+      },
+      "volume_crossref_snapshot": "24",
+      "issue_crossref_snapshot": "6",
+      "pages_or_article_number_crossref_snapshot": "1825-1846",
+      "metadata_snapshot_sha256": "e3d7551d816accfee087d27ccae16d985bfdd740152fa01e6866038e74beacbf",
+      "metadata_provenance": "https://api.crossref.org/works/10.1007/s10270-025-01281-6",
+      "fulltext_url_or_primary_record": "https://elib.dlr.de/214190/1/s10270-025-01281-6.pdf",
+      "version_identity": "publisher_online_version_hosted_at_DLR",
+      "identity_basis": "DLR公开22页Springer排版在线版，DOI、accepted 10 Mar 2025与published online 15 Apr 2025可见。文件未印最终卷期，Crossref后续编入24(6):1825–1846；区分在线文件身份和后续书目信息。",
+      "local_pdf_path": "D:\\SKT727\\materials\\constellation_review_B02_20261015\\120_retry_complete.pdf",
+      "local_pdf_pages": 22,
+      "remote_pdf_pages_observed": null,
+      "pdf_bytes": 1568137,
+      "pdf_sha256": "957afcd0f6e95eb750d91f04d4d54666ce96122361f656a0cdc3fd6c1f05f5da",
+      "text_extraction_status": "readable_selected_passages",
+      "third_party_PDF_committed": false,
+      "formal_version_parity_closed": false,
+      "human_verified": false,
+      "all_page_all_proof_close_reading_complete": false,
+      "targeted_body_reading_recorded": true
+    }
+  ],
+  "note": "metadata snapshots are not a declaration of full publication parity or human final verification"
+}

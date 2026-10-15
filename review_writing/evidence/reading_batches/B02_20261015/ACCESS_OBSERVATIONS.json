@@ -1,0 +1,272 @@
+{
+  "batch": "B02_20261015",
+  "access_policy": "ordinary public URLs and existing local documents; no paywall/captcha/403/TLS verification bypass",
+  "ordinary_transfer_observations": [
+    {
+      "reference_number": 17,
+      "label": "institutional",
+      "requested_url_or_path": "https://oa.upm.es/88332/1/10309454.pdf",
+      "valid_pdf": false,
+      "error": "URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)>",
+      "local_log_name": "ACQUISITION_RESULTS.json",
+      "raw_local_log_sha256": "9b12b38a77a19c059d38d995aaa3fd755be45df627183356754eb9f2a73e9011"
+    },
+    {
+      "reference_number": 23,
+      "label": "arxiv_v2",
+      "requested_url_or_path": "https://arxiv.org/pdf/2512.18985v2",
+      "http_status": 200,
+      "resolved_url": "https://arxiv.org/pdf/2512.18985v2",
+      "valid_pdf": true,
+      "local_log_name": "ACQUISITION_RESULTS.json",
+      "raw_local_log_sha256": "9b12b38a77a19c059d38d995aaa3fd755be45df627183356754eb9f2a73e9011"
+    },
+    {
+      "reference_number": 27,
+      "label": "arxiv_v1",
+      "requested_url_or_path": "https://arxiv.org/pdf/2103.08962v1",
+      "http_status": 200,
+      "resolved_url": "https://arxiv.org/pdf/2103.08962v1",
+      "valid_pdf": true,
+      "local_log_name": "ACQUISITION_RESULTS.json",
+      "raw_local_log_sha256": "9b12b38a77a19c059d38d995aaa3fd755be45df627183356754eb9f2a73e9011"
+    },
+    {
+      "reference_number": 28,
+      "label": "arxiv_v1",
+      "requested_url_or_path": "https://arxiv.org/pdf/2103.08963v1",
+      "http_status": 200,
+      "resolved_url": "https://arxiv.org/pdf/2103.08963v1",
+      "valid_pdf": true,
+      "local_log_name": "ACQUISITION_RESULTS.json",
+      "raw_local_log_sha256": "9b12b38a77a19c059d38d995aaa3fd755be45df627183356754eb9f2a73e9011"
+    },
+    {
+      "reference_number": 34,
+      "label": "jpl_author",
+      "requested_url_or_path": "https://ai.jpl.nasa.gov/public/documents/papers/parjan-jais2023-mas.pdf",
+      "http_status": 200,
+      "resolved_url": "https://ai.jpl.nasa.gov/public/documents/papers/parjan-jais2023-mas.pdf",
+      "valid_pdf": true,
+      "local_log_name": "ACQUISITION_RESULTS.json",
+      "raw_local_log_sha256": "9b12b38a77a19c059d38d995aaa3fd755be45df627183356754eb9f2a73e9011"
+    },
+    {
+      "reference_number": 65,
+      "label": "faculty_author",
+      "requested_url_or_path": "https://hanspeterschaub.info/PapersPrivate/Herrmann2024.pdf",
+      "http_status": 200,
+      "resolved_url": "https://hanspeterschaub.info/PapersPrivate/Herrmann2024.pdf",
+      "valid_pdf": true,
+      "local_log_name": "ACQUISITION_RESULTS.json",
+      "raw_local_log_sha256": "9b12b38a77a19c059d38d995aaa3fd755be45df627183356754eb9f2a73e9011"
+    },
+    {
+      "reference_number": 84,
+      "label": "local_existing",
+      "requested_url_or_path": "D:\\SKT727\\competitive-baseline-literature\\saingyen_2023_aerospace_543.pdf",
+      "valid_pdf": true,
+      "local_log_name": "ACQUISITION_RESULTS.json",
+      "raw_local_log_sha256": "9b12b38a77a19c059d38d995aaa3fd755be45df627183356754eb9f2a73e9011"
+    },
+    {
+      "reference_number": 85,
+      "label": "publisher_oa",
+      "requested_url_or_path": "https://link.springer.com/content/pdf/10.1007/s12567-022-00471-y.pdf",
+      "valid_pdf": false,
+      "error": "URLError: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)>",
+      "local_log_name": "ACQUISITION_RESULTS.json",
+      "raw_local_log_sha256": "9b12b38a77a19c059d38d995aaa3fd755be45df627183356754eb9f2a73e9011"
+    },
+    {
+      "reference_number": 87,
+      "label": "arxiv_v1",
+      "requested_url_or_path": "https://arxiv.org/pdf/2008.03069v1",
+      "http_status": 200,
+      "resolved_url": "https://arxiv.org/pdf/2008.03069v1",
+      "valid_pdf": true,
+      "local_log_name": "ACQUISITION_RESULTS.json",
+      "raw_local_log_sha256": "9b12b38a77a19c059d38d995aaa3fd755be45df627183356754eb9f2a73e9011"
+    },
+    {
+      "reference_number": 95,
+      "label": "merl_report",
+      "requested_url_or_path": "https://www.merl.com/publications/docs/TR2026-016.pdf",
+      "http_status": 200,
+      "resolved_url": "https://www.merl.com/publications/docs/TR2026-016.pdf",
+      "valid_pdf": true,
+      "local_log_name": "ACQUISITION_RESULTS.json",
+      "raw_local_log_sha256": "9b12b38a77a19c059d38d995aaa3fd755be45df627183356754eb9f2a73e9011"
+    },
+    {
+      "reference_number": 98,
+      "label": "arxiv_v3",
+      "requested_url_or_path": "https://arxiv.org/pdf/1802.04431v3",
+      "http_status": 200,
+      "resolved_url": "https://arxiv.org/pdf/1802.04431v3",
+      "valid_pdf": false,
+      "error": "PdfStreamError: Stream has ended unexpectedly",
+      "local_log_name": "ACQUISITION_RESULTS.json",
+      "raw_local_log_sha256": "9b12b38a77a19c059d38d995aaa3fd755be45df627183356754eb9f2a73e9011"
+    },
+    {
+      "reference_number": 108,
+      "label": "mit_author",
+      "requested_url_or_path": "https://people.csail.mit.edu/williams/Web%20site/papers/aij98.pdf",
+      "valid_pdf": false,
+      "error": "URLError: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)>",
+      "local_log_name": "ACQUISITION_RESULTS.json",
+      "raw_local_log_sha256": "9b12b38a77a19c059d38d995aaa3fd755be45df627183356754eb9f2a73e9011"
+    },
+    {
+      "reference_number": 109,
+      "label": "local_existing",
+      "requested_url_or_path": "D:\\SKT727\\outputs\\review_full_draft_20261010\\sources\\Rabideau_EO1_2006_author_original.pdf",
+      "valid_pdf": true,
+      "local_log_name": "ACQUISITION_RESULTS.json",
+      "raw_local_log_sha256": "9b12b38a77a19c059d38d995aaa3fd755be45df627183356754eb9f2a73e9011"
+    },
+    {
+      "reference_number": 117,
+      "label": "jpl_author",
+      "requested_url_or_path": "https://ai.jpl.nasa.gov/public/documents/papers/chien-nfm-2022.pdf",
+      "http_status": 200,
+      "resolved_url": "https://ai.jpl.nasa.gov/public/documents/papers/chien-nfm-2022.pdf",
+      "valid_pdf": false,
+      "error": "PdfStreamError: Stream has ended unexpectedly",
+      "local_log_name": "ACQUISITION_RESULTS.json",
+      "raw_local_log_sha256": "9b12b38a77a19c059d38d995aaa3fd755be45df627183356754eb9f2a73e9011"
+    },
+    {
+      "reference_number": 120,
+      "label": "dlr_published",
+      "requested_url_or_path": "https://elib.dlr.de/214190/1/s10270-025-01281-6.pdf",
+      "http_status": 200,
+      "resolved_url": "https://elib.dlr.de/214190/1/s10270-025-01281-6.pdf",
+      "valid_pdf": false,
+      "error": "PdfReadError: Invalid object in /Pages",
+      "local_log_name": "ACQUISITION_RESULTS.json",
+      "raw_local_log_sha256": "9b12b38a77a19c059d38d995aaa3fd755be45df627183356754eb9f2a73e9011"
+    },
+    {
+      "reference_number": 17,
+      "url": "https://oa.upm.es/88332/1/10309454.pdf",
+      "curl_exit": 0,
+      "valid_pdf": true,
+      "local_log_name": "NATIVE_TRANSFER_RESULTS.json",
+      "raw_local_log_sha256": "5d88b3a566e62e88bbd6dc5e7be01502dad8f29bb90b9923587b0299cb97331f"
+    },
+    {
+      "reference_number": 85,
+      "url": "https://link.springer.com/content/pdf/10.1007/s12567-022-00471-y.pdf",
+      "error": "curl: (28) Failed to connect to link.springer.com port 443 after 32106 ms: Couldn't connect to server\r\n",
+      "curl_exit": 28,
+      "valid_pdf": false,
+      "local_log_name": "NATIVE_TRANSFER_RESULTS.json",
+      "raw_local_log_sha256": "5d88b3a566e62e88bbd6dc5e7be01502dad8f29bb90b9923587b0299cb97331f"
+    },
+    {
+      "reference_number": 98,
+      "url": "https://arxiv.org/pdf/1802.04431v3",
+      "curl_exit": 0,
+      "valid_pdf": true,
+      "local_log_name": "NATIVE_TRANSFER_RESULTS.json",
+      "raw_local_log_sha256": "5d88b3a566e62e88bbd6dc5e7be01502dad8f29bb90b9923587b0299cb97331f"
+    },
+    {
+      "reference_number": 108,
+      "url": "https://people.csail.mit.edu/williams/Web%20site/papers/aij98.pdf",
+      "curl_exit": 0,
+      "valid_pdf": true,
+      "local_log_name": "NATIVE_TRANSFER_RESULTS.json",
+      "raw_local_log_sha256": "5d88b3a566e62e88bbd6dc5e7be01502dad8f29bb90b9923587b0299cb97331f"
+    },
+    {
+      "reference_number": 117,
+      "url": "https://ai.jpl.nasa.gov/public/documents/papers/chien-nfm-2022.pdf",
+      "error": "curl: (28) Failed to connect to ai.jpl.nasa.gov port 443 after 21192 ms: Couldn't connect to server\r\n",
+      "curl_exit": 28,
+      "valid_pdf": false,
+      "local_log_name": "NATIVE_TRANSFER_RESULTS.json",
+      "raw_local_log_sha256": "5d88b3a566e62e88bbd6dc5e7be01502dad8f29bb90b9923587b0299cb97331f"
+    },
+    {
+      "reference_number": 120,
+      "url": "https://elib.dlr.de/214190/1/s10270-025-01281-6.pdf",
+      "error": "curl: (35) schannel: next InitializeSecurityContext failed: CRYPT_E_REVOCATION_OFFLINE (0x80092013) - ���ڵ������������ѻ������������޷���������\r\n",
+      "curl_exit": 35,
+      "valid_pdf": false,
+      "local_log_name": "NATIVE_TRANSFER_RESULTS.json",
+      "raw_local_log_sha256": "5d88b3a566e62e88bbd6dc5e7be01502dad8f29bb90b9923587b0299cb97331f"
+    },
+    {
+      "reference_number": 85,
+      "requested_url": "https://link.springer.com/content/pdf/10.1007/s12567-022-00471-y.pdf",
+      "purpose": "ordinary retry after TLS/incomplete-transfer errors; no restricted HTTP status encountered or bypassed",
+      "valid_pdf": false,
+      "error": "URLError: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)>",
+      "local_log_name": "ORDINARY_RETRY_RESULTS.json",
+      "raw_local_log_sha256": "690b7c6ed4366acc12117ce08fe325549a2a76d901b77aafe5a186ba379f08ab"
+    },
+    {
+      "reference_number": 117,
+      "requested_url": "https://ai.jpl.nasa.gov/public/documents/papers/chien-nfm-2022.pdf",
+      "purpose": "ordinary retry after TLS/incomplete-transfer errors; no restricted HTTP status encountered or bypassed",
+      "http_status": 200,
+      "resolved_url": "https://ai.jpl.nasa.gov/public/documents/papers/chien-nfm-2022.pdf",
+      "valid_pdf": true,
+      "local_log_name": "ORDINARY_RETRY_RESULTS.json",
+      "raw_local_log_sha256": "690b7c6ed4366acc12117ce08fe325549a2a76d901b77aafe5a186ba379f08ab"
+    },
+    {
+      "reference_number": 120,
+      "requested_url": "https://elib.dlr.de/214190/1/s10270-025-01281-6.pdf",
+      "purpose": "ordinary retry after TLS/incomplete-transfer errors; no restricted HTTP status encountered or bypassed",
+      "http_status": 200,
+      "resolved_url": "https://elib.dlr.de/214190/1/s10270-025-01281-6.pdf",
+      "valid_pdf": true,
+      "local_log_name": "ORDINARY_RETRY_RESULTS.json",
+      "raw_local_log_sha256": "690b7c6ed4366acc12117ce08fe325549a2a76d901b77aafe5a186ba379f08ab"
+    }
+  ],
+  "remote_access_85": {
+    "url": "https://link.springer.com/content/pdf/10.1007/s12567-022-00471-y.pdf",
+    "result": "publisher full PDF text inspected remotely; actual screenshots not displayed; no local bytes or fake SHA"
+  },
+  "wrong_discovery_rejected": {
+    "reference_number": 117,
+    "wrong_url": "https://arxiv.org/abs/2201.04531",
+    "wrong_title": "Towards Refactoring FRETish Requirements",
+    "action": "rejected as wrong paper; correct JPL chapter used",
+    "counts_as_targeted_paper": false
+  },
+  "deferred_not_counted": [
+    {
+      "ref": 33,
+      "reason": "出版社摘要/片段可得，完整方法未得"
+    },
+    {
+      "ref": 59,
+      "reason": "出版社摘要可得，未取得可核读全文"
+    },
+    {
+      "ref": 63,
+      "reason": "元数据/摘要线索不足以完成方法消融核读"
+    },
+    {
+      "ref": 92,
+      "reason": "Caltech条目可定位，本文完整正文未取得，不用不同会议论文替代"
+    },
+    {
+      "ref": 110,
+      "reason": "JPL书目可定位但未得本文完整正文，不用不同年份题名稿替代"
+    }
+  ],
+  "version_index_labels_not_authoritative": [
+    17,
+    27,
+    28
+  ],
+  "failed_partial_files_excluded_from_valid_source_count": true,
+  "local_raw_documents_committed": false
+}

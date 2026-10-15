@@ -1,0 +1,166 @@
+{
+  "batch": "B02_20261015",
+  "algorithm": "SHA256",
+  "path_base": "repository root",
+  "manifest_self_excluded": true,
+  "self_hash_and_final_commit_tree_record": "external B02_LOCAL_COMMIT_RECEIPT.json; cannot embed own/containing commit hash recursively",
+  "parent_commit": "cfda3fb7560e3aa2b89452593d8e59a4c7f06d5b",
+  "frozen_manuscript_commit": "51be6a1326e8c615ea24f80f1887f16a2e7b02fc",
+  "files": [
+    {
+      "path": "review_writing/evidence/reading_batches/B02_20261015/.gitattributes",
+      "bytes": 8,
+      "sha256": "705fd4d6451a31d36b3df7de96f83f30ac976c9b4a6d1e51671d8e2f33e2d0da"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B02_20261015/ACCESS_OBSERVATIONS.json",
+      "bytes": 12160,
+      "sha256": "bf8c59d8f0ef92308746c3c4ac4f380063e68f5cf45160bed6222086f87a78c6"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B02_20261015/CLAIM_CHECKS_B02.json",
+      "bytes": 105175,
+      "sha256": "024024ccbcc421bae0bb5362d0659f482f9245f7cfb10020af491bc4681c2b4d"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B02_20261015/CROSS_STUDY_SYNTHESIS.md",
+      "bytes": 4828,
+      "sha256": "f1007663d6fd3d5dcde7b7de0bb98ba7262f09ad2c2c1c3e758d5569a20840ef"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B02_20261015/CUMULATIVE_READING_STATUS.json",
+      "bytes": 3060,
+      "sha256": "39091f8b7f1554d6e4c5c3c9214d47abd8c27b3aa0eda4aad1f86854ba56002a"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B02_20261015/CUMULATIVE_READING_STATUS.md",
+      "bytes": 1648,
+      "sha256": "cf38541ec2ef73f8509b9acb07885caf6eeaebe15b375f9d0e5e67ad5f4be360"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B02_20261015/ENGINEERING_CASE_INTEGRATION.md",
+      "bytes": 3411,
+      "sha256": "40ffa0a645b39c0266f5dc2e373fe2c08463249b7c0e32af0a47870f695cac63"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B02_20261015/OPEN_ITEM_STATUS_B02.json",
+      "bytes": 4464,
+      "sha256": "b7edde7ae6a8394f92b8d82a469df778b3701d3a3f6277b531564761dd050066"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B02_20261015/OPEN_ITEMS_B02.md",
+      "bytes": 3815,
+      "sha256": "811382957b9bcb8c4d6bd2c76c287b2c0ca01504dfda476cb26cfa0529db4096"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B02_20261015/READING_NOTES_017.md",
+      "bytes": 4846,
+      "sha256": "f1cedf1084fbefa340b8c5fd60908f3efa5d4a33de27cf4e23614286a5a4082b"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B02_20261015/READING_NOTES_023.md",
+      "bytes": 4970,
+      "sha256": "68cf1a0e0fc7de1f95f947d2e6cf3e12ced560c2f84f8d3d6a4fb8324154d6c5"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B02_20261015/READING_NOTES_027.md",
+      "bytes": 4911,
+      "sha256": "1f02a4699123d0b1bafd959e07461d7ee0a1a7c1dcbcef6329a41f0ed1827360"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B02_20261015/READING_NOTES_028.md",
+      "bytes": 4749,
+      "sha256": "1284183e29559cbb3c13e7f340059eee288a9bc3e1b080a5c6954e1172058a25"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B02_20261015/READING_NOTES_034.md",
+      "bytes": 4607,
+      "sha256": "c98e887c50ca2b90028f7706f3b2adf55f97a3d54e23e4d1272ce9135576f448"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B02_20261015/READING_NOTES_065.md",
+      "bytes": 4664,
+      "sha256": "9ca36a26e28a83a51d6418c9c87af5988bea39bee7b474a2a9cd62795ddcc12a"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B02_20261015/READING_NOTES_084.md",
+      "bytes": 4699,
+      "sha256": "7f61d15835aa16b3d562a2a8440e6e230326968c905b6a7a4fa1fd77b083758f"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B02_20261015/READING_NOTES_085.md",
+      "bytes": 4942,
+      "sha256": "a2304d177d22778bba81f21d5cc2ba7a247b5e3f27d955ec891fd1d8c8010f03"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B02_20261015/READING_NOTES_087.md",
+      "bytes": 4627,
+      "sha256": "b429ea949341f89883c508ec79b6eb3d6d967a8b9bba61f895504c908e60c9ec"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B02_20261015/READING_NOTES_095.md",
+      "bytes": 4694,
+      "sha256": "fdf0289d3cfc14c2d5131bc9ae384a8668bf2d8482d0ccf417880f087b4714f9"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B02_20261015/READING_NOTES_098.md",
+      "bytes": 4654,
+      "sha256": "b5a6c0f030533e8f2753fce704daa25bb3572b01d51b65f6d5a1925a51afcbcb"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B02_20261015/READING_NOTES_108.md",
+      "bytes": 4720,
+      "sha256": "3a03187446b8a16d1cc8a396830cfedc57dbce1857d3dde71818f2bf88fa37e5"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B02_20261015/READING_NOTES_109.md",
+      "bytes": 5326,
+      "sha256": "5714b34376a58443f374626bd7c23b24b61da60c4e8e19eb8b3e9e68aa13ad93"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B02_20261015/READING_NOTES_117.md",
+      "bytes": 4498,
+      "sha256": "c22242d44d4537074b90b03d3234d95a003fc30b28b2685f58d39ab6b7036d6c"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B02_20261015/READING_NOTES_120.md",
+      "bytes": 4939,
+      "sha256": "66c6ac2040812a87db60a8f5f0384f52975a7237592a2719f7574fd45909b40c"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B02_20261015/READING_SCOPE_B02.json",
+      "bytes": 15152,
+      "sha256": "30da5c6df53e9de6b8ab074a0062200d35b7e3d8b50a0ecf0640739907df576f"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B02_20261015/README.md",
+      "bytes": 8618,
+      "sha256": "5ff23986a5a5edfe02c735dea9922820ff8f01e394201f4bbd148810ae626e67"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B02_20261015/SOURCE_ACCESS_REGISTER.csv",
+      "bytes": 9012,
+      "sha256": "354de7f6e596aeb8d30ab3557977e0b027efa54e7b7eda91cfc7ba3b20b9e256"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B02_20261015/SOURCE_MANIFEST_B02.json",
+      "bytes": 39180,
+      "sha256": "6b6ca902f075717dcebc7922a063c0c178cbb94fd1ae1c576198b69fb7b0f5fa"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B02_20261015/V19_CHANGE_CANDIDATES.md",
+      "bytes": 3873,
+      "sha256": "c395dbbca4dd97406e6de0c1ed7bcb591e66806554fe03a807357874b795e83d"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B02_20261015/V19_DEPENDENCY_CHECK_INDEX.csv",
+      "bytes": 26299,
+      "sha256": "0ee9b69384faf514eb7d3411a2c83de3e762d7b218f579251bba8c0e2b0e22d2"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B02_20261015/VERIFICATION_B02.json",
+      "bytes": 45175,
+      "sha256": "5a40cdd7074cc89ac5ffe95d3865ca4a8bb0383071ca4a21856fed57ba873c0d"
+    }
+  ]
+}

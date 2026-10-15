@@ -1,0 +1,439 @@
+{
+  "batch": "B02_20261015",
+  "page_number_basis": "one-based physical PDF page in the read copy",
+  "papers": [
+    {
+      "reference_number": 17,
+      "physical_pdf_pages_total": 14,
+      "text_passage_pages_inspected": [
+        1,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "actual_visual_pages_inspected": [
+        7,
+        11
+      ],
+      "partial_pages_included": true,
+      "reading_scope": "重点读§3跳波束分配流程、§4性能/需求约束、§5星座与成本案例；部分页只读相关段落，未逐页读完推导、全部曲线和参考文献。",
+      "scope_not_implied": "page listed means relevant passage inspected; no all-page/proof guarantee",
+      "figure_or_equation_page_review_remaining": "其余曲线页面、全部链路预算推导及公开仿真代码未复核；均值KPI不能扩写成逐用户硬保障；成本需保留排除项。",
+      "download_is_reading_completion": false,
+      "human_verified": false,
+      "all_page_all_proof_close_reading_complete": false
+    },
+    {
+      "reference_number": 23,
+      "physical_pdf_pages_total": 40,
+      "text_passage_pages_inspected": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        17,
+        18,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        34
+      ],
+      "actual_visual_pages_inspected": [
+        22,
+        26
+      ],
+      "partial_pages_included": true,
+      "reading_scope": "重点读库存结构、假设、双目标模型、Monte Carlo验证、基线与局限；页面中的目标段落不代表整页完整核读。",
+      "scope_not_implied": "page listed means relevant passage inspected; no all-page/proof guarantee",
+      "figure_or_equation_page_review_remaining": "正式出版版未得，R4-BODY-23仅获得作者版正文进展，仍不关闭；公式推导、补充材料、NSGA-II结果复现和全部敏感性图未逐项复核。",
+      "download_is_reading_completion": false,
+      "human_verified": false,
+      "all_page_all_proof_close_reading_complete": false
+    },
+    {
+      "reference_number": 27,
+      "physical_pdf_pages_total": 46,
+      "text_passage_pages_inspected": [
+        6,
+        7,
+        8,
+        9,
+        11,
+        15,
+        16,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        33,
+        40,
+        41
+      ],
+      "actual_visual_pages_inspected": [
+        22,
+        33
+      ],
+      "partial_pages_included": true,
+      "reading_scope": "定向读需求/网络/目标、滚动执行流程、长短期案例及结论；部分段落、公式和图表尚未完整读完，未验证全部MILP约束。",
+      "scope_not_implied": "page listed means relevant passage inspected; no all-page/proof guarantee",
+      "figure_or_equation_page_review_remaining": "正式版全文及作者稿版本身份细节仍需核对；所有约束/证明、完整算例与代码未复现。",
+      "download_is_reading_completion": false,
+      "human_verified": false,
+      "all_page_all_proof_close_reading_complete": false
+    },
+    {
+      "reference_number": 28,
+      "physical_pdf_pages_total": 45,
+      "text_passage_pages_inspected": [
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        22,
+        24,
+        25,
+        26,
+        27,
+        30,
+        31,
+        35,
+        36,
+        38,
+        39,
+        40,
+        41
+      ],
+      "actual_visual_pages_inspected": [
+        12,
+        26,
+        35
+      ],
+      "partial_pages_included": true,
+      "reading_scope": "读多弧网络、轨迹插件、低推力近似、数值案例/计算表现/限制；未独立推导全部轨迹与MILP公式，未穷尽曲线。",
+      "scope_not_implied": "page listed means relevant passage inspected; no all-page/proof guarantee",
+      "figure_or_equation_page_review_remaining": "正式版逐命题对照、轨迹插件完整复核、全部混合整数约束、算例复现尚未完成。",
+      "download_is_reading_completion": false,
+      "human_verified": false,
+      "all_page_all_proof_close_reading_complete": false
+    },
+    {
+      "reference_number": 34,
+      "physical_pdf_pages_total": 15,
+      "text_passage_pages_inspected": [
+        2,
+        3,
+        8,
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "actual_visual_pages_inspected": [
+        10,
+        12
+      ],
+      "partial_pages_included": true,
+      "reading_scope": "重点核模型假设、信息广播、渐进规划、100星实验、故障变化与讨论；未全读其余公式、图页及全部参数调优。",
+      "scope_not_implied": "page listed means relevant passage inspected; no all-page/proof guarantee",
+      "figure_or_equation_page_review_remaining": "其余实验图/全部算法细节、真实并行运行时、链路/下传执行模型未复核或原文未包含。",
+      "download_is_reading_completion": false,
+      "human_verified": false,
+      "all_page_all_proof_close_reading_complete": false
+    },
+    {
+      "reference_number": 65,
+      "physical_pdf_pages_total": 19,
+      "text_passage_pages_inspected": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        17
+      ],
+      "actual_visual_pages_inspected": [
+        3,
+        7,
+        17
+      ],
+      "partial_pages_included": true,
+      "reading_scope": "读训练/部署、奖励/安全屏蔽、资源动态、通信配置、MIP分配及GA比较；未逐幅核11–16页所有曲线。",
+      "scope_not_implied": "page listed means relevant passage inspected; no all-page/proof guarantee",
+      "figure_or_equation_page_review_remaining": "B02-HORIZON-65：p3同时出现约3轨、90分钟和45×6分钟，未用代码或作者说明解释前不选定仿真总时长；全曲线、代码复现和更大规模GA同条件比较未做。",
+      "download_is_reading_completion": false,
+      "human_verified": false,
+      "all_page_all_proof_close_reading_complete": false
+    },
+    {
+      "reference_number": 84,
+      "physical_pdf_pages_total": 14,
+      "text_passage_pages_inspected": [
+        3,
+        4,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "actual_visual_pages_inspected": [
+        11,
+        13
+      ],
+      "partial_pages_included": true,
+      "reading_scope": "读筛查/TCA/Pc流程、步长、数据、CPU/GPU实验和结论；未复核全部公式与全部页面。",
+      "scope_not_implied": "page listed means relevant passage inspected; no all-page/proof guarantee",
+      "figure_or_equation_page_review_remaining": "所有筛选证明、测试覆盖、原始TLE版本和GPU实现未复现；两页像素核查不能自动关闭另两篇[73][107]的历史页面缺口。",
+      "download_is_reading_completion": false,
+      "human_verified": false,
+      "all_page_all_proof_close_reading_complete": false
+    },
+    {
+      "reference_number": 85,
+      "physical_pdf_pages_total": 16,
+      "text_passage_pages_inspected": [
+        1,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "actual_visual_pages_inspected": [],
+      "partial_pages_included": true,
+      "reading_scope": "远端正式PDF的模型、事件生成、随机/确定方法对照及结论已定向阅读；未取得本地字节和实际图页像素，图表视检仍待补。",
+      "scope_not_implied": "page listed means relevant passage inspected; no all-page/proof guarantee",
+      "figure_or_equation_page_review_remaining": "需合法正式PDF本机副本或能实际显示的正式页面以固定SHA并核图表；未逐项复核动力学公式。未关闭实际页面项。",
+      "download_is_reading_completion": false,
+      "human_verified": false,
+      "all_page_all_proof_close_reading_complete": false
+    },
+    {
+      "reference_number": 87,
+      "physical_pdf_pages_total": 22,
+      "text_passage_pages_inspected": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        10,
+        14,
+        16,
+        20
+      ],
+      "actual_visual_pages_inspected": [
+        6,
+        10
+      ],
+      "partial_pages_included": true,
+      "reading_scope": "读数据标签、截断时间、计分、基线/最佳队伍、分布与结论；未读完全部参赛方法与附录。",
+      "scope_not_implied": "page listed means relevant passage inspected; no all-page/proof guarantee",
+      "figure_or_equation_page_review_remaining": "作者版本日期冲突、正式版对照、完整排行榜/代码及外部泛化未核；未进行竞赛复现。",
+      "download_is_reading_completion": false,
+      "human_verified": false,
+      "all_page_all_proof_close_reading_complete": false
+    },
+    {
+      "reference_number": 95,
+      "physical_pdf_pages_total": 21,
+      "text_passage_pages_inspected": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        16,
+        17,
+        18
+      ],
+      "actual_visual_pages_inspected": [
+        7,
+        14
+      ],
+      "partial_pages_included": true,
+      "reading_scope": "重点读安全定义、连续时间变换、不确定性/反馈、Monte Carlo表与限制；未独立证明所有等价变换或读完附录。",
+      "scope_not_implied": "page listed means relevant passage inspected; no all-page/proof guarantee",
+      "figure_or_equation_page_review_remaining": "正式会议版对照、全部数学证明和复现实验未完成；部分推力故障underburn安全不在当前验证保证内。",
+      "download_is_reading_completion": false,
+      "human_verified": false,
+      "all_page_all_proof_close_reading_complete": false
+    },
+    {
+      "reference_number": 98,
+      "physical_pdf_pages_total": 9,
+      "text_passage_pages_inspected": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "actual_visual_pages_inspected": [
+        4,
+        7
+      ],
+      "partial_pages_included": true,
+      "reading_scope": "读预测输入、阈值/剪枝、数据与事件评分、比较和地面试用；未逐项复现模型/标签/所有指标。",
+      "scope_not_implied": "page listed means relevant passage inspected; no all-page/proof guarantee",
+      "figure_or_equation_page_review_remaining": "正式版对照、原始数据完整性、全部正常时段误警及代码复现未完成；不采用尚未重算的F指标作精确跨文比较。",
+      "download_is_reading_completion": false,
+      "human_verified": false,
+      "all_page_all_proof_close_reading_complete": false
+    },
+    {
+      "reference_number": 108,
+      "physical_pdf_pages_total": 46,
+      "text_passage_pages_inspected": [
+        5,
+        9,
+        10,
+        11,
+        12,
+        20,
+        21,
+        22,
+        29,
+        30,
+        31,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41
+      ],
+      "actual_visual_pages_inspected": [
+        10,
+        11
+      ],
+      "partial_pages_included": true,
+      "reading_scope": "重点读MM/PS/EXEC/MI/MR架构、修复失败流程、模型/验证经验及未来工作；部分页仅抽取相关段落，不声称全部证明或历史飞行全过程核验。",
+      "scope_not_implied": "page listed means relevant passage inspected; no all-page/proof guarantee",
+      "figure_or_equation_page_review_remaining": "正式版对照、全部约束/推理算法与后续1999飞行报告未在本篇完成；不能把后续飞行结果倒填成1998本文实验。",
+      "download_is_reading_completion": false,
+      "human_verified": false,
+      "all_page_all_proof_close_reading_complete": false
+    },
+    {
+      "reference_number": 109,
+      "physical_pdf_pages_total": 7,
+      "text_passage_pages_inspected": [],
+      "actual_visual_pages_inspected": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "partial_pages_included": true,
+      "reading_scope": "7个实际物理页全部视觉阅读，包括架构图、运行前后流程表与结果/限制；没有做OCR或逐命令实现验证，不能等同人工终核/正式版本配对。",
+      "scope_not_implied": "page listed means relevant passage inspected; no all-page/proof guarantee",
+      "figure_or_equation_page_review_remaining": "需正式出版副本与NTRS附件版本配对，11位作者与正式书目核对；地面/星上整体改变的成本归因没有受控消融，不能归功单个算法。",
+      "download_is_reading_completion": false,
+      "human_verified": false,
+      "all_page_all_proof_close_reading_complete": false
+    },
+    {
+      "reference_number": 117,
+      "physical_pdf_pages_total": 11,
+      "text_passage_pages_inspected": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "actual_visual_pages_inspected": [
+        1,
+        8
+      ],
+      "partial_pages_included": true,
+      "reading_scope": "读实践回顾章节的正文与限制，参考文献未逐项追溯；这是一篇经验/立场讨论，不作为新数值方法消融实验。",
+      "scope_not_implied": "page listed means relevant passage inspected; no all-page/proof guarantee",
+      "figure_or_equation_page_review_remaining": "正式章节配对、所有引用案例原始验证报告及规范实际内容未穷尽；错误发现入口另记，不能计为第二篇精读。",
+      "download_is_reading_completion": false,
+      "human_verified": false,
+      "all_page_all_proof_close_reading_complete": false
+    },
+    {
+      "reference_number": 120,
+      "physical_pdf_pages_total": 22,
+      "text_passage_pages_inspected": [
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17
+      ],
+      "actual_visual_pages_inspected": [
+        1,
+        11,
+        14,
+        15
+      ],
+      "partial_pages_included": true,
+      "reading_scope": "读模型转换、研究问题、运行设计、工具/预算、通信规模实验和有效性威胁；实际p11/p14/p15核对单位与图趋势，未逐条实现/证明转换语义。",
+      "scope_not_implied": "page listed means relevant passage inspected; no all-page/proof guarantee",
+      "figure_or_equation_page_review_remaining": "模型转换全语义证明、生成器/代码复现及不同真实运行设计外部有效性未完成；时间抽象模型不能证明消息实时截止期。",
+      "download_is_reading_completion": false,
+      "human_verified": false,
+      "all_page_all_proof_close_reading_complete": false
+    }
+  ],
+  "targeted_count": 15,
+  "local_complete_pdf_count": 14,
+  "remote_publisher_text_only_count": 1,
+  "actual_visual_page_count": 37,
+  "all_page_all_proof_completion_claimed": false,
+  "human_verified": false
+}
