@@ -1,0 +1,68 @@
+{
+  "batch": "B09_20261016",
+  "pairs": [
+    {
+      "ref": 42,
+      "doi": "10.1109/TMC.2021.3076088",
+      "current_copy": "本机为作者稿；ResearchGate公开上传页另可见IEEE Early Access未终编声明，不能视为终排正式版。",
+      "new_version_finding": "作者上传页带有尚未完成编辑、内容可能变化的声明。未取得新的完整PDF，不能据该网页关闭正式版差异。",
+      "new_VOR_obtained": false,
+      "pair_closed": false,
+      "comparison_now_executable": "可重核已有作者稿及公开版本声明；未具备新增正式全文逐命题配对条件。",
+      "still_needed": "正式终排全文及所用模型、任务完成条件、实验规模、硬件和总耗时段落；核GA与SDR的整体成本。"
+    },
+    {
+      "ref": 44,
+      "doi": "10.1016/j.cor.2025.107212",
+      "current_copy": "本机CIRRELT 2024工作论文；正式版开放许可标记不等于已取得正式全文。",
+      "new_version_finding": "正式出版元数据已刷新；公开检索可见片段不计完整正式正文。",
+      "new_VOR_obtained": false,
+      "pair_closed": false,
+      "comparison_now_executable": "可重核已有作者稿及公开版本声明；未具备新增正式全文逐命题配对条件。",
+      "still_needed": "正式版和论文实际指向的附录/补充材料；重点核改进模型的可行域、候选压缩、能量假设及实验环境。"
+    },
+    {
+      "ref": 53,
+      "doi": "10.1002/sat.70082",
+      "current_copy": "本机arXiv v1正文；AAU页面将2604.05937v1.pdf标为接受稿，但该文件请求403，未能比对字节。",
+      "new_version_finding": "Wiley的Read full text重定向到摘要页。AAU接受稿标签与本机Draft/Submitted身份需保留为未核定，不能自动升级。arXiv页面只列v1。",
+      "new_VOR_obtained": false,
+      "pair_closed": false,
+      "comparison_now_executable": "可重核已有作者稿及公开版本声明；未具备新增正式全文逐命题配对条件。",
+      "still_needed": "正式全文；机构接受稿的实际文件及版本说明；表4功率/处理能量定义、耦合流程和实验设置。"
+    },
+    {
+      "ref": 74,
+      "doi": "10.23919/JCC.ja.2022-0864",
+      "current_copy": "本机arXiv v1，首页卷期和DOI为模板占位。",
+      "new_version_finding": "arXiv页面仅列v1，不能凭期刊风格排版或相同题名判定正式版。正式作者字段另保留Crossref原始顺序，规范姓名沿用实际首页。",
+      "new_VOR_obtained": false,
+      "pair_closed": false,
+      "comparison_now_executable": "可重核已有作者稿及公开版本声明；未具备新增正式全文逐命题配对条件。",
+      "still_needed": "正式全文；公平性指标、功率约束、复杂度及所用图页，不能将Jain公平直接等同于[76]排队时延公平。"
+    },
+    {
+      "ref": 76,
+      "doi": "10.1109/TWC.2025.3545745",
+      "current_copy": "本机arXiv v1；当前arXiv记录仍只列v1。",
+      "new_version_finding": "没有发现可合法取得的正式全文或更晚arXiv版本；本轮未验证正式版公式和图是否修正。",
+      "new_VOR_obtained": false,
+      "pair_closed": false,
+      "comparison_now_executable": "可重核已有作者稿及公开版本声明；未具备新增正式全文逐命题配对条件。",
+      "still_needed": "正式全文；时延定义、图中时间口径、公式下标、训练和推理成本及消融条件。"
+    },
+    {
+      "ref": 121,
+      "doi": "10.1109/TAES.2024.3415571",
+      "current_copy": "本机arXiv v1及NRC作者接受稿；PolyPublie记录明确未存档正文。",
+      "new_version_finding": "ResearchGate页面是arXiv DOI的预印本，不能作为新增正式版；arXiv仍只列v1。",
+      "new_VOR_obtained": false,
+      "pair_closed": false,
+      "comparison_now_executable": "可重核已有作者稿及公开版本声明；未具备新增正式全文逐命题配对条件。",
+      "still_needed": "正式全文和实际配置/实现；核链路建立代价、剪枝阈值、路由更新时间与运行成本。"
+    }
+  ],
+  "new_pairs_ready": 0,
+  "closed_pairs": 0,
+  "metadata_or_accepted_label_is_not_parity": true
+}
