@@ -1,0 +1,129 @@
+{
+  "batch": "B07_20261016",
+  "policy": "ordinary public access; denied endpoints stopped; no authentication/paywall/captcha/TLS bypass",
+  "logs": [
+    {
+      "external_log": "D:\\SKT727\\materials\\constellation_review_B07_20261016\\ACQUISITION_CANDIDATES.json",
+      "bytes": 622,
+      "sha256": "f2d8380c8473f22fd7f00e4c5d7cc87d4bbacab8e0c85cab7a59635aec56f53d"
+    },
+    {
+      "external_log": "D:\\SKT727\\materials\\constellation_review_B07_20261016\\METADATA_DISCOVERY.json",
+      "bytes": 24624,
+      "sha256": "6de6179d6ff2ddab0e30b6610e1c4e87710a0b41baa747a4dbae51086a5555ff"
+    }
+  ],
+  "search_and_tool_capture_receipts": [
+    {
+      "external_file": "D:\\SKT727\\materials\\constellation_review_B07_20261016\\SEARCH_01.txt",
+      "bytes": 37707,
+      "sha256": "7cabc113c4fa6cd6c9fc8253b5122f7509f9313fbd4cfb9d045e697486583145"
+    },
+    {
+      "external_file": "D:\\SKT727\\materials\\constellation_review_B07_20261016\\SEARCH_02.txt",
+      "bytes": 37444,
+      "sha256": "9903be8dea41cd180332a97979b589e7aeb9514c124982bd85fd4a0e4aa21481"
+    },
+    {
+      "external_file": "D:\\SKT727\\materials\\constellation_review_B07_20261016\\SEARCH_03.txt",
+      "bytes": 33840,
+      "sha256": "b0fa00411b94b33e89adce0038198bb85789cc4b78c0e6d53eaf6526ddf2ed2c"
+    },
+    {
+      "external_file": "D:\\SKT727\\materials\\constellation_review_B07_20261016\\SEARCH_04.txt",
+      "bytes": 38288,
+      "sha256": "43c7bbe9f32036724d3d7b89577b0a3abea64672d4e997e82d3b6bf4230d64f9"
+    },
+    {
+      "external_file": "D:\\SKT727\\materials\\constellation_review_B07_20261016\\SEARCH_05.txt",
+      "bytes": 31996,
+      "sha256": "c242ee486623c499450cade6fabfe285b98a4dc22463810941b08160e2414f39"
+    },
+    {
+      "external_file": "D:\\SKT727\\materials\\constellation_review_B07_20261016\\SEARCH_06.txt",
+      "bytes": 37124,
+      "sha256": "cbd85f9c6169c35fd89cf738e04bd6631b5975cb223cddd437297ab39c9900a4"
+    },
+    {
+      "external_file": "D:\\SKT727\\materials\\constellation_review_B07_20261016\\SEARCH_07_AND_082_LOCATORS.txt",
+      "bytes": 31960,
+      "sha256": "3e8a54e2cdd9fe05d037346a7f59e607d1e9482e1257d265174e279544555df9"
+    },
+    {
+      "external_file": "D:\\SKT727\\materials\\constellation_review_B07_20261016\\WEB_068_090_DISCOVERY.txt",
+      "bytes": 29612,
+      "sha256": "2954e0bd7cb680c33474f56162fcca47630f680961e609575b6ef2908502470b"
+    },
+    {
+      "external_file": "D:\\SKT727\\materials\\constellation_review_B07_20261016\\WEB_068_SCIOPEN.txt",
+      "bytes": 9836,
+      "sha256": "3abc5115881b7ea176d6f99457b90ae1e47fa480e464d16c8ba85723f49647ba"
+    },
+    {
+      "external_file": "D:\\SKT727\\materials\\constellation_review_B07_20261016\\WEB_082_090_AND_SEARCH.txt",
+      "bytes": 31281,
+      "sha256": "fd2797821fcaabf7a613f3f0bbfe34f303b6cca9792561e44d32332d7cec14ad"
+    },
+    {
+      "external_file": "D:\\SKT727\\materials\\constellation_review_B07_20261016\\WEB_082_ALGORITHM_LIMITS.txt",
+      "bytes": 24135,
+      "sha256": "8e25c80aec2bd5e478f9cc2e86307e5bd750181eb445d203783b5499fe4fa1f5"
+    },
+    {
+      "external_file": "D:\\SKT727\\materials\\constellation_review_B07_20261016\\WEB_082_CORE_AND_CATALOG.txt",
+      "bytes": 23009,
+      "sha256": "b9ae699b63aa75bcd7caf5adbe046f3cfadcadbd769c0551ec8f3136e7b29062"
+    },
+    {
+      "external_file": "D:\\SKT727\\materials\\constellation_review_B07_20261016\\WEB_082_METHOD_RESULTS.txt",
+      "bytes": 21044,
+      "sha256": "a0495f7c68951a05024b2e5c2412c98668c65d040517bdddd82dec6b9f3871ae"
+    },
+    {
+      "external_file": "D:\\SKT727\\materials\\constellation_review_B07_20261016\\WEB_INITIAL_33_82_83.txt",
+      "bytes": 26321,
+      "sha256": "a1f20661db734ed6f580f634e02a20e4fa4ddd0af23b62577a7c867586e9b1e6"
+    },
+    {
+      "external_file": "D:\\SKT727\\materials\\constellation_review_B07_20261016\\WEB_SECONDARY_DISCOVERY.txt",
+      "bytes": 34868,
+      "sha256": "dae14c5c34e7e66dd05b6a00be64e039f15dca7dbe8b6ffc61888bbeecebe342"
+    }
+  ],
+  "ordinary_download_results": [
+    {
+      "ref": 68,
+      "url": "https://iris.polito.it/retrieve/96bbb20b-93c0-4695-b08b-998f363c3a8f/1-s2.0-S1000936125003802-main.pdf",
+      "method": "ordinary public request; no authentication; stop on403/429; timeout25",
+      "valid_pdf": false,
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "ref": 33,
+      "url": "https://papers.ssrn.com/sol3/Delivery.cfm/c977889e-c679-456a-b1ad-0d9d7d1db8c7-MECA.pdf?abstractid=5202348&mirid=1&type=2",
+      "method": "ordinary public request; no authentication; stop on403/429; timeout25",
+      "valid_pdf": false,
+      "error": "HTTP Error 403: Forbidden"
+    }
+  ],
+  "additional_failures": [
+    {
+      "ref": 68,
+      "url": "https://www.sciopen.com/article/10.1016/j.cja.2025.103774",
+      "method": "ordinary urllib article request",
+      "result": "HTTP403; stopped; web-readable article has abstract only"
+    },
+    {
+      "ref": 33,
+      "url": "https://www.sciencedirect.com/science/article/pii/S0305054825002886",
+      "result": "web403, no body upgrade"
+    },
+    {
+      "ref": 83,
+      "url": "https://www.sciencedirect.com/science/article/pii/S0273117721003410",
+      "result": "web403, no body upgrade"
+    }
+  ],
+  "new_downloaded_PDFs": 0,
+  "fulltext_or_images_committed": false
+}

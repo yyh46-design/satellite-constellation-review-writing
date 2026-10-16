@@ -1,0 +1,767 @@
+{
+  "batch": "B07_20261016",
+  "meaning": "bibliographic discovery for 30 inherited sources, not body reading; only82 upgraded after separate actual body work",
+  "attempted_count": 30,
+  "observations": [
+    {
+      "ref": 29,
+      "url": "https://api.crossref.org/works/10.1016/j.actaastro.2013.02.005",
+      "http_status": 200,
+      "valid": true,
+      "sha256": "fb0f660afde623c13e5fe81aa81eb1d7ca76258d24cb7f0e9d19e876803cac7d",
+      "title": [
+        "On-orbit servicing system assessment and optimization methods based on lifecycle simulation under mixed aleatory and epistemic uncertainties"
+      ],
+      "authors": [
+        "Wen Yao",
+        "Xiaoqian Chen",
+        "Yiyong Huang",
+        "Michel van Tooren"
+      ],
+      "links": [
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S0094576513000532?httpAccept=text/xml",
+          "content-type": "text/xml",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S0094576513000532?httpAccept=text/plain",
+          "content-type": "text/plain",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        }
+      ]
+    },
+    {
+      "ref": 31,
+      "url": "https://api.crossref.org/works/10.1109/TSMC.2020.3020732",
+      "http_status": 200,
+      "valid": true,
+      "sha256": "1a777db3254508029222c2c2caa9a92aa4519d00d353e20675133b14e9a38747",
+      "title": [
+        "A Generic Markov Decision Process Model and Reinforcement Learning Method for Scheduling Agile Earth Observation Satellites"
+      ],
+      "authors": [
+        "Yongming He",
+        "Lining Xing",
+        "Yingwu Chen",
+        "Witold Pedrycz",
+        "Ling Wang",
+        "Guohua Wu"
+      ],
+      "links": [
+        {
+          "URL": "http://xplorestaging.ieee.org/ielx7/6221021/9714553/09200466.pdf?arnumber=9200466",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ]
+    },
+    {
+      "ref": 32,
+      "url": "https://api.crossref.org/works/10.1016/j.swevo.2024.101792",
+      "valid": false,
+      "error": "<urlopen error _ssl.c:993: The handshake operation timed out>"
+    },
+    {
+      "ref": 33,
+      "url": "https://api.crossref.org/works/10.1016/j.cor.2025.107259",
+      "http_status": 200,
+      "valid": true,
+      "sha256": "b4848ea144dc218431838f7cd331dbc60ee081281d128dde4b8d617bf46a8ae6",
+      "title": [
+        "A branch-and-price algorithm for energy aware task scheduling of constellations of nanosatellites"
+      ],
+      "authors": [
+        "Pedro Marcolin Antunes",
+        "Laio Oriel Seman",
+        "Eduardo Camponogara"
+      ],
+      "links": [
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S0305054825002886?httpAccept=text/xml",
+          "content-type": "text/xml",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S0305054825002886?httpAccept=text/plain",
+          "content-type": "text/plain",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        }
+      ]
+    },
+    {
+      "ref": 38,
+      "url": "https://api.crossref.org/works/10.1016/j.asr.2020.02.018",
+      "http_status": 200,
+      "valid": true,
+      "sha256": "a2cbd911ca050b2499b0df11bfd40ad091961f449e37d99a89c8f4b4e9a840d7",
+      "title": [
+        "Online scheduling of distributed Earth observation satellite system under rigid communication constraints"
+      ],
+      "authors": [
+        "Guoliang Li"
+      ],
+      "links": [
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S0273117720301101?httpAccept=text/xml",
+          "content-type": "text/xml",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S0273117720301101?httpAccept=text/plain",
+          "content-type": "text/plain",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        }
+      ]
+    },
+    {
+      "ref": 40,
+      "url": "https://api.crossref.org/works/10.1016/j.asr.2021.09.003",
+      "http_status": 200,
+      "valid": true,
+      "sha256": "9d3d5e56233acf2f25b9d6f97366dfb2debfea808a6828d8177d3a657c60a4b9",
+      "title": [
+        "Onboard coordination and scheduling of multiple autonomous satellites in an uncertain environment"
+      ],
+      "authors": [
+        "Weiyi Yang",
+        "Lei He",
+        "Xiaolu Liu",
+        "Yingwu Chen"
+      ],
+      "links": [
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S0273117721006955?httpAccept=text/xml",
+          "content-type": "text/xml",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S0273117721006955?httpAccept=text/plain",
+          "content-type": "text/plain",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        }
+      ]
+    },
+    {
+      "ref": 43,
+      "url": "https://api.crossref.org/works/10.1016/j.actaastro.2025.02.008",
+      "http_status": 200,
+      "valid": true,
+      "sha256": "6b7928541ab2718e2b80dbaf372d75833c8f0f2a0ea3fe811b36e87be9d0992f",
+      "title": [
+        "Joint observation and transmission scheduling of multiple agile satellites with energy constraint using improved ACO algorithm"
+      ],
+      "authors": [
+        "Minghao Shang",
+        "Ronggang Yuan",
+        "Bin Song",
+        "Xuxing Huang",
+        "Bin Yang",
+        "Shuang Li"
+      ],
+      "links": [
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S0094576525000797?httpAccept=text/xml",
+          "content-type": "text/xml",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S0094576525000797?httpAccept=text/plain",
+          "content-type": "text/plain",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        }
+      ]
+    },
+    {
+      "ref": 45,
+      "url": "https://api.crossref.org/works/10.1016/j.actaastro.2026.04.059",
+      "http_status": 200,
+      "valid": true,
+      "sha256": "f4731310fb0952629a1b13bf0bbf5361a87373b67e620a9aa7148873ddf973d5",
+      "title": [
+        "Tip-and-cue mission scheduling in heterogeneous satellite constellations using mixed-integer linear programming"
+      ],
+      "authors": [
+        "Sung Jun Kim",
+        "Minchae Kim",
+        "Han-Lim Choi"
+      ],
+      "links": [
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S0094576526002936?httpAccept=text/xml",
+          "content-type": "text/xml",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S0094576526002936?httpAccept=text/plain",
+          "content-type": "text/plain",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        }
+      ]
+    },
+    {
+      "ref": 46,
+      "url": "https://api.crossref.org/works/10.1016/j.cor.2014.11.004",
+      "http_status": 200,
+      "valid": true,
+      "sha256": "dc1f3224deba7e345e24f94416a5b110ccfff323a1b0b50c81ae174a2ba235d9",
+      "title": [
+        "Optimization-based scheduling for the single-satellite, multi-ground station communication problem"
+      ],
+      "authors": [
+        "Sara Spangelo",
+        "James Cutler",
+        "Kyle Gilson",
+        "Amy Cohn"
+      ],
+      "links": [
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S0305054814002809?httpAccept=text/xml",
+          "content-type": "text/xml",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S0305054814002809?httpAccept=text/plain",
+          "content-type": "text/plain",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        }
+      ]
+    },
+    {
+      "ref": 54,
+      "url": "https://api.crossref.org/works/10.1109/JIOT.2024.3482290",
+      "http_status": 200,
+      "valid": true,
+      "sha256": "138e7df9e7fdc26e757e165e1ee9580e39077156ef20da6814d16a10afcf0f20",
+      "title": [
+        "Deep Multiagent Reinforcement Learning for Task Offloading and Resource Allocation in Satellite Edge Computing"
+      ],
+      "authors": [
+        "Min Jia",
+        "Liang Zhang",
+        "Jian Wu",
+        "Qing Guo",
+        "Guowei Zhang",
+        "Xuemai Gu"
+      ],
+      "links": [
+        {
+          "URL": "http://xplorestaging.ieee.org/ielx8/6488907/10874850/10720868.pdf?arnumber=10720868",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ]
+    },
+    {
+      "ref": 55,
+      "url": "https://api.crossref.org/works/10.1016/j.comcom.2024.05.008",
+      "valid": false,
+      "error": "Remote end closed connection without response"
+    },
+    {
+      "ref": 56,
+      "url": "https://api.crossref.org/works/10.1109/TMC.2025.3570799",
+      "http_status": 200,
+      "valid": true,
+      "sha256": "e01b2984cf8b73e3ca2d99142fa70bae83fd2d26f7aca5dcae5693870540743e",
+      "title": [
+        "Satellite Edge Intelligence: DRL-Based Resource Management for Task Inference in LEO-Based Satellite-Ground Collaborative Networks"
+      ],
+      "authors": [
+        "Wenhao Fan",
+        "Qingcheng Meng",
+        "Guan Wang",
+        "Hengwei Bian",
+        "Yabin Liu",
+        "Yuan’an Liu"
+      ],
+      "links": [
+        {
+          "URL": "http://xplorestaging.ieee.org/ielx8/7755/11154819/11005988.pdf?arnumber=11005988",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ]
+    },
+    {
+      "ref": 59,
+      "url": "https://api.crossref.org/works/10.1016/j.asr.2025.12.008",
+      "valid": false,
+      "error": "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)>"
+    },
+    {
+      "ref": 60,
+      "url": "https://api.crossref.org/works/10.1016/j.cor.2016.04.014",
+      "http_status": 200,
+      "valid": true,
+      "sha256": "7059d421b761139174b4b0a21e07e209adebf53457599fb94c0032cdd15c8250",
+      "title": [
+        "A pure proactive scheduling algorithm for multiple earth observation satellites under uncertainties of clouds"
+      ],
+      "authors": [
+        "Jianjiang Wang",
+        "Erik Demeulemeester",
+        "Dishan Qiu"
+      ],
+      "links": [
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S0305054816300843?httpAccept=text/xml",
+          "content-type": "text/xml",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S0305054816300843?httpAccept=text/plain",
+          "content-type": "text/plain",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        }
+      ]
+    },
+    {
+      "ref": 63,
+      "url": "https://api.crossref.org/works/10.1016/j.eswa.2025.128502",
+      "http_status": 200,
+      "valid": true,
+      "sha256": "18be92cbdb8aca9c4a60942f0018a4950601ab3a5b1437e2b96c845a79b8b795",
+      "title": [
+        "Deep reinforcement learning-assisted large neighborhood search for online scheduling large-scale emergency tasks to Earth-observing satellites"
+      ],
+      "authors": [
+        "Jing Qi",
+        "Min Hu",
+        "Lining Xing",
+        "Zhenhua Su"
+      ],
+      "links": [
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S0957417425021219?httpAccept=text/xml",
+          "content-type": "text/xml",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S0957417425021219?httpAccept=text/plain",
+          "content-type": "text/plain",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        }
+      ]
+    },
+    {
+      "ref": 64,
+      "url": "https://api.crossref.org/works/10.1016/j.eswa.2025.128350",
+      "http_status": 200,
+      "valid": true,
+      "sha256": "e3d4a47b386e694834ab16f0571f27c5858dac6d5402c865c3c6cfc466c36e19",
+      "title": [
+        "Dynamic task scheduling optimization by rolling horizon deep reinforcement learning for distributed satellite system"
+      ],
+      "authors": [
+        "Zhe Li",
+        "Xin Zhu",
+        "Changdi Liu",
+        "JunYao Song",
+        "Yubai Liu",
+        "Chengjun Yin",
+        "Wei Sun"
+      ],
+      "links": [
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S0957417425019694?httpAccept=text/xml",
+          "content-type": "text/xml",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S0957417425019694?httpAccept=text/plain",
+          "content-type": "text/plain",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        }
+      ]
+    },
+    {
+      "ref": 67,
+      "url": "https://api.crossref.org/works/10.1016/j.cie.2022.108852",
+      "http_status": 200,
+      "valid": true,
+      "sha256": "4868c3017e58c8783d3323178dfc79e1c72735a75123f5c1f4f18dedec6036f2",
+      "title": [
+        "Multi-orbit routing and scheduling of refuellable on-orbit servicing space robots"
+      ],
+      "authors": [
+        "Susan E. Sorenson",
+        "Sarah G. Nurre Pinkley"
+      ],
+      "links": [
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S0360835222008403?httpAccept=text/xml",
+          "content-type": "text/xml",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S0360835222008403?httpAccept=text/plain",
+          "content-type": "text/plain",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        }
+      ]
+    },
+    {
+      "ref": 68,
+      "url": "https://api.crossref.org/works/10.1016/j.cja.2025.103774",
+      "http_status": 200,
+      "valid": true,
+      "sha256": "c399efe55b410e30d4d2cb47d4cdbb9e74566056264714912a3d1bd8ffc26a4d",
+      "title": [
+        "On-orbit refueling robust mission scheduling with uncertain duration for geosynchronous orbit spacecraft"
+      ],
+      "authors": [
+        "Shuai YIN",
+        "Chuanjiang LI",
+        "Edoardo FADDA",
+        "Yanning GUO",
+        "Guangtao RAN",
+        "Paolo BRANDIMARTE"
+      ],
+      "links": [
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S1000936125003802?httpAccept=text/xml",
+          "content-type": "text/xml",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S1000936125003802?httpAccept=text/plain",
+          "content-type": "text/plain",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        }
+      ]
+    },
+    {
+      "ref": 69,
+      "url": "https://api.crossref.org/works/10.1016/j.asr.2017.05.037",
+      "valid": false,
+      "error": "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)>"
+    },
+    {
+      "ref": 70,
+      "url": "https://api.crossref.org/works/10.1016/j.asr.2024.05.059",
+      "http_status": 200,
+      "valid": true,
+      "sha256": "ed6ec60a2c02ad82a5feb30c69a2f61ba8fcffb8a24a23c8c3b63fec1c427dc8",
+      "title": [
+        "GEO satellite on-orbit refueling and debris removal hybrid mission planning under uncertainty"
+      ],
+      "authors": [
+        "Weikui Liang",
+        "Hui Zhi",
+        "Peng Han",
+        "Guangtao Ran",
+        "Guangfu Ma",
+        "Yanning Guo"
+      ],
+      "links": [
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S0273117724005258?httpAccept=text/xml",
+          "content-type": "text/xml",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S0273117724005258?httpAccept=text/plain",
+          "content-type": "text/plain",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        }
+      ]
+    },
+    {
+      "ref": 82,
+      "url": "https://api.crossref.org/works/10.1016/j.actaastro.2020.01.020",
+      "http_status": 200,
+      "valid": true,
+      "sha256": "51afa2d3ee2682a299bcdd5de271531cb32c546ccddda5a5000bee9a3af410e0",
+      "title": [
+        "Satellite closest approach calculation through Chebyshev Proxy Polynomials"
+      ],
+      "authors": [
+        "Elad Denenberg"
+      ],
+      "links": [
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S009457652030031X?httpAccept=text/xml",
+          "content-type": "text/xml",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S009457652030031X?httpAccept=text/plain",
+          "content-type": "text/plain",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        }
+      ]
+    },
+    {
+      "ref": 83,
+      "url": "https://api.crossref.org/works/10.1016/j.asr.2021.04.042",
+      "http_status": 200,
+      "valid": true,
+      "sha256": "802492917c376c52a73ab02c6cd4b4ea5896b0606845c3dfd9b49857daf773f1",
+      "title": [
+        "Risk-aware sensor scheduling and tracking of large constellations"
+      ],
+      "authors": [
+        "Nicholas Ravago",
+        "Brandon A. Jones"
+      ],
+      "links": [
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S0273117721003410?httpAccept=text/xml",
+          "content-type": "text/xml",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S0273117721003410?httpAccept=text/plain",
+          "content-type": "text/plain",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        }
+      ]
+    },
+    {
+      "ref": 90,
+      "url": "https://api.crossref.org/works/10.2514/1.29590",
+      "http_status": 200,
+      "valid": true,
+      "sha256": "7d32c74edaccee530355dfe7c79276ed1bf933d3e603453a30344703b8a31019",
+      "title": [
+        "Safe Trajectories for Autonomous Rendezvous of Spacecraft"
+      ],
+      "authors": [
+        "Louis Breger",
+        "Jonathan P. How"
+      ],
+      "links": [
+        {
+          "URL": "http://arc.aiaa.org/doi/pdf/10.2514/1.29590",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ]
+    },
+    {
+      "ref": 94,
+      "url": "https://api.crossref.org/works/10.1016/j.ast.2025.111237",
+      "http_status": 200,
+      "valid": true,
+      "sha256": "5ec87eadb8727dc76639cd4abe8bedb602e6c9f91bbdd21b3a1a3c1d558922af",
+      "title": [
+        "Chance-constrained visual servoing MPC for non-cooperative spacecraft rendezvous"
+      ],
+      "authors": [
+        "Zhenbo Zhao",
+        "Fan Wu",
+        "Jian Chen"
+      ],
+      "links": [
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S1270963825013008?httpAccept=text/xml",
+          "content-type": "text/xml",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S1270963825013008?httpAccept=text/plain",
+          "content-type": "text/plain",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        }
+      ]
+    },
+    {
+      "ref": 99,
+      "url": "https://api.crossref.org/works/10.1016/j.actaastro.2020.12.012",
+      "http_status": 200,
+      "valid": true,
+      "sha256": "edbc52e7feeea61b6fd2a242a6f5c70dafc62e9e056632183940caa4fe6e0669",
+      "title": [
+        "Imbalanced satellite telemetry data anomaly detection model based on Bayesian LSTM"
+      ],
+      "authors": [
+        "Junfu Chen",
+        "Dechang Pi",
+        "Zhiyuan Wu",
+        "Xiaodong Zhao",
+        "Yue Pan",
+        "Qiang Zhang"
+      ],
+      "links": [
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S0094576520307463?httpAccept=text/xml",
+          "content-type": "text/xml",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S0094576520307463?httpAccept=text/plain",
+          "content-type": "text/plain",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        }
+      ]
+    },
+    {
+      "ref": 100,
+      "url": "https://api.crossref.org/works/10.1016/j.actaastro.2026.07.065",
+      "http_status": 200,
+      "valid": true,
+      "sha256": "bc300504de07771769538658e704c7eb8412381112c7406f9053b9285e168ae5",
+      "title": [
+        "Validation-gated continual learning for anomaly detection in satellite telemetry"
+      ],
+      "authors": [
+        "Nils Kuhn",
+        "Bruno Sánchez Gómez",
+        "Natalia Moreno Blasco",
+        "Polona Caserman",
+        "Federico Antonello"
+      ],
+      "links": [
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S0094576526005187?httpAccept=text/xml",
+          "content-type": "text/xml",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S0094576526005187?httpAccept=text/plain",
+          "content-type": "text/plain",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        }
+      ]
+    },
+    {
+      "ref": 103,
+      "url": "https://api.crossref.org/works/10.2514/1.I011208",
+      "http_status": 200,
+      "valid": true,
+      "sha256": "f617f599cbbe2898de1580ae001d12ff58e7f56d309a87acbe70c9a1f5a407e2",
+      "title": [
+        "Resilient Autonomous Mission Management for Decentralized Multispacecraft Missions"
+      ],
+      "authors": [
+        "Antony Gillette",
+        "Alan George"
+      ],
+      "links": [
+        {
+          "URL": "https://arc.aiaa.org/doi/am-pdf/10.2514/1.I011208",
+          "content-type": "application/pdf",
+          "content-version": "am",
+          "intended-application": "unspecified"
+        },
+        {
+          "URL": "https://arc.aiaa.org/doi/pdf/10.2514/1.I011208",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "syndication"
+        },
+        {
+          "URL": "https://arc.aiaa.org/doi/pdf/10.2514/1.I011208",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ]
+    },
+    {
+      "ref": 104,
+      "url": "https://api.crossref.org/works/10.1016/j.actaastro.2020.05.011",
+      "http_status": 200,
+      "valid": true,
+      "sha256": "a0d30e7f9d90176b86c62c3ef523f5aebd6568dde77c73e7311880bd0d9c3fa1",
+      "title": [
+        "RPRS: a reactive plan repair strategy for rapid response to plan failures of deep space missions"
+      ],
+      "authors": [
+        "Chao Chen",
+        "Rui Xu",
+        "Shengying Zhu",
+        "Zhaoyu Li",
+        "Huiping Jiang"
+      ],
+      "links": [
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S0094576520302940?httpAccept=text/xml",
+          "content-type": "text/xml",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S0094576520302940?httpAccept=text/plain",
+          "content-type": "text/plain",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        }
+      ]
+    },
+    {
+      "ref": 110,
+      "url": "https://api.crossref.org/works/10.2514/1.I010386",
+      "valid": false,
+      "error": "Remote end closed connection without response"
+    },
+    {
+      "ref": 118,
+      "url": "https://api.crossref.org/works/10.1109/SAM.2018.8448984",
+      "http_status": 200,
+      "valid": true,
+      "sha256": "f24985b25e53c9455bcf68874496c7eb8d4633bc26ae270032fec4e7821e9599",
+      "title": [
+        "Performance of the Asynchronous Consensus Based Bundle Algorithm in Lossy Network Environments"
+      ],
+      "authors": [
+        "Matthew Rantanen",
+        "Jalil Modares",
+        "Nicholas Mastronarde",
+        "Farshad Ghanei",
+        "Karthik Dantu"
+      ],
+      "links": [
+        {
+          "URL": "http://xplorestaging.ieee.org/ielx7/8424836/8448390/08448984.pdf?arnumber=8448984",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ]
+    }
+  ],
+  "raw_snapshots_external_only": true,
+  "all_other_reading_statuses_unchanged": true
+}

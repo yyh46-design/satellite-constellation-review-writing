@@ -1,0 +1,18 @@
+{
+  "batch": "B07_20261016",
+  "items": [
+    {
+      "reference_number": 90,
+      "doi": "10.2514/1.29590",
+      "candidate_url": "https://www.researchgate.net/publication/228835933_Safe_Trajectories_for_Autonomous_Rendezvous_of_Spacecraft",
+      "observed_body_locator": "WEB_068_090_DISCOVERY.txt, L65–205 and L357–494",
+      "actual_representation": "17-page AIAA conference-style manuscript embedded under a journal metadata heading",
+      "journal_version_relation_proven": false,
+      "local_PDF_obtained": false,
+      "counted_in_15_reading_sources": false,
+      "counted_in_unique_reading_upgrade": false,
+      "remaining": "journal body or explicit version relation; same-title2006 conference discovery is not proof of exact identity"
+    }
+  ],
+  "wrong_or_unmatched_representation_not_reading_completion": true
+}

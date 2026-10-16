@@ -1,0 +1,1147 @@
+{
+  "batch": "B07_20261016",
+  "sources": [
+    {
+      "reference_number": 17,
+      "doi": "10.1016/j.comnet.2024.110942",
+      "doi_url": "https://doi.org/10.1016/j.comnet.2024.110942",
+      "english_title": "Joint satellite platform and constellation sizing for instantaneous beam-hopping in 5G/6G Non-Terrestrial Networks",
+      "chinese_translation": "面向5G/6G非地面网络瞬时跳波束的卫星平台与星座联合规模设计",
+      "metadata": {
+        "status": "inherited_exact_B02_fields_not_human_final",
+        "metadata_url": "https://api.crossref.org/works/10.1016/j.comnet.2024.110942",
+        "snapshot_sha256": "e0a6edd350ab482dfedb72de4a8177c201ee4a7702feca585f508cf70d5e0d59",
+        "authors": [
+          "Samuel Martínez Zamacola",
+          "Ramón Martínez Rodríguez-Osorio",
+          "Miguel A. Salas-Natera"
+        ],
+        "authors_observed_read_copy": [
+          "Samuel Martínez Zamacola",
+          "Ramón Martínez Rodríguez-Osorio",
+          "Miguel A. Salas-Natera"
+        ],
+        "container_titles": [
+          "Computer Networks"
+        ],
+        "volume": "257",
+        "issue": null,
+        "page_or_article_number": "110942",
+        "dates": {
+          "published": {
+            "date-parts": [
+              [
+                2025,
+                2
+              ]
+            ]
+          },
+          "published-print": {
+            "date-parts": [
+              [
+                2025,
+                2
+              ]
+            ]
+          },
+          "issued": {
+            "date-parts": [
+              [
+                2025,
+                2
+              ]
+            ]
+          }
+        }
+      },
+      "version_identity": "publisher_typeset_version_hosted_institutionally",
+      "identity_basis": "UPM公开PDF具有Computer Networks 257 (2025) 110942、最终排版、DOI及版权/许可标记。OpenAlex的submittedVersion标签与实际文件不符；按实际页认定为出版社排版正式版副本。",
+      "read_source_url": "https://oa.upm.es/88332/1/10309454.pdf",
+      "local_pdf_path": "D:\\SKT727\\materials\\constellation_review_B02_20261015\\017_institutional_native.pdf",
+      "physical_pdf_pages": 14,
+      "bytes": 3237988,
+      "sha256": "06661c9a49d0e32888481708abc1c23c95f204b6a8fda0d8356a582c0de84094",
+      "version_group": "publisher_typeset_copy",
+      "metadata_provenance": "inherited prior source record, not refreshed in this batch; local PDF rehashed",
+      "inherited_source_record_path": "review_writing/evidence/reading_batches/B02_20261015/SOURCE_MANIFEST_B02.json",
+      "inherited_source_record_git_blob_sha256": "6b6ca902f075717dcebc7922a063c0c178cbb94fd1ae1c576198b69fb7b0f5fa",
+      "HTML_tool_capture_receipts": [],
+      "B07_reading_kind": "followup_no_unique_increment",
+      "new_unique_targeted_addition": false,
+      "new_unique_body_engagement": false,
+      "text_status": "selected_PDF_passages_with_actual_page_region_review; font/layer artifacts not silently repaired",
+      "targeted_body_reading_recorded": true,
+      "all_page_all_proof_close_reading_complete": false,
+      "formal_version_parity_closed": false,
+      "human_verified": false,
+      "submission_ready": false,
+      "third_party_PDF_committed": false
+    },
+    {
+      "reference_number": 20,
+      "doi": "10.2514/1.A36599",
+      "doi_url": "https://doi.org/10.2514/1.A36599",
+      "english_title": "Spare Strategy Analysis and Design for Mega Satellite Constellations Using Markov Chain",
+      "chinese_translation": "基于马尔可夫链的巨型卫星星座备星策略分析与设计",
+      "metadata": {
+        "status": "crossref_snapshot_obtained_not_human_final",
+        "metadata_url": "https://api.crossref.org/works/10.2514/1.A36599",
+        "snapshot_sha256": "70a8a3dd502e4b7c57b821ba66bcb2dfebf456504a31e5b76efd492d42dd0ab7",
+        "authors": [
+          "Seungyeop Han",
+          "Zachary Grieser",
+          "Shoji Yoshikawa",
+          "Takumi Noro",
+          "Takumi Suda",
+          "Koki Ho"
+        ],
+        "container_titles": [
+          "Journal of Spacecraft and Rockets"
+        ],
+        "volume": null,
+        "issue": null,
+        "page_or_article_number": "1-12",
+        "dates": {
+          "issued": {
+            "date-parts": [
+              [
+                2026,
+                6,
+                30
+              ]
+            ]
+          },
+          "published": {
+            "date-parts": [
+              [
+                2026,
+                6,
+                30
+              ]
+            ]
+          },
+          "published-online": {
+            "date-parts": [
+              [
+                2026,
+                6,
+                30
+              ]
+            ]
+          }
+        }
+      },
+      "version_identity": "author_preprint_arxiv_2509.09957v4_2026-09-26",
+      "identity_basis": "实际首页arXiv:2509.09957v4，26 Sep 2026；30页，作者后续更新稿，不能自动等于正式DOI版本。",
+      "read_source_url": "https://arxiv.org/pdf/2509.09957",
+      "local_pdf_path": "D:\\SKT727\\materials\\constellation_review_B03_20261015\\020_arxiv.pdf",
+      "physical_pdf_pages": 30,
+      "bytes": 1634265,
+      "sha256": "8ffd7ae1df19662bb686c875d1faa2c29f147673ab43da464b1d372feacaee1f",
+      "text_status": "selected_PDF_passages_with_actual_page_region_review; font/layer artifacts not silently repaired",
+      "special_page_note": "physical PDF pages are not formal publication folios",
+      "targeted_body_reading_recorded": true,
+      "all_page_all_proof_close_reading_complete": false,
+      "formal_version_parity_closed": false,
+      "human_verified": false,
+      "third_party_PDF_committed": false,
+      "version_group": "author_copy",
+      "metadata_provenance": "inherited prior source record, not refreshed in this batch; local PDF rehashed",
+      "inherited_source_record_path": "review_writing/evidence/reading_batches/B03_20261015/SOURCE_MANIFEST_B03.json",
+      "inherited_source_record_git_blob_sha256": "284f18a27862303720a41c4bc36390ba684ea3f0c42ee260e127029fade65d10",
+      "HTML_tool_capture_receipts": [],
+      "B07_reading_kind": "followup_no_unique_increment",
+      "new_unique_targeted_addition": false,
+      "new_unique_body_engagement": false,
+      "submission_ready": false
+    },
+    {
+      "reference_number": 21,
+      "doi": "10.1016/j.actaastro.2026.06.020",
+      "doi_url": "https://doi.org/10.1016/j.actaastro.2026.06.020",
+      "english_title": "Spare strategy for large-scale satellite constellations under dual resupply channels using Markov chain",
+      "chinese_translation": "双补给通道下基于马尔可夫链的大规模卫星星座备星策略",
+      "metadata": {
+        "status": "formal_metadata_inherited_refresh_blocked_HTTP_429",
+        "metadata_url": "https://doi.org/10.1016/j.actaastro.2026.06.020",
+        "snapshot_sha256": null,
+        "authors_observed_read_copy": [
+          "Seungyeop Han",
+          "Shoji Yoshikawa",
+          "Takumi Noro",
+          "Takumi Suda",
+          "Koki Ho"
+        ],
+        "formal_publication_string_inherited": "Acta Astronautica, 2026, 248: 614–629; assigned issue: November 2026",
+        "formal_metadata_refreshed": false,
+        "arxiv_record_url": "https://arxiv.org/abs/2605.20875v2"
+      },
+      "version_identity": "author_preprint_arxiv_2605.20875v2_2026-06-21",
+      "identity_basis": "实际首页arXiv:2605.20875v2，21 Jun 2026；57页。正式DOI沿用冻结编号；本轮Crossref请求429，正式出版元数据未独立刷新，不能据作者稿推正式出版分页。",
+      "read_source_url": "https://arxiv.org/pdf/2605.20875v2",
+      "local_pdf_path": "D:\\SKT727\\materials\\constellation_review_B03_20261015\\021_arxiv_v2.pdf",
+      "physical_pdf_pages": 57,
+      "bytes": 2755660,
+      "sha256": "a87cc30e1dbc9953f36823d44c85a38ae8d28d2fc62e9af16fdd56e04c1e004d",
+      "text_status": "selected_PDF_passages_with_actual_page_region_review; font/layer artifacts not silently repaired",
+      "special_page_note": "physical PDF pages are not formal publication folios",
+      "targeted_body_reading_recorded": true,
+      "all_page_all_proof_close_reading_complete": false,
+      "formal_version_parity_closed": false,
+      "human_verified": false,
+      "third_party_PDF_committed": false,
+      "version_group": "author_copy",
+      "metadata_provenance": "inherited prior source record, not refreshed in this batch; local PDF rehashed",
+      "inherited_source_record_path": "review_writing/evidence/reading_batches/B03_20261015/SOURCE_MANIFEST_B03.json",
+      "inherited_source_record_git_blob_sha256": "284f18a27862303720a41c4bc36390ba684ea3f0c42ee260e127029fade65d10",
+      "HTML_tool_capture_receipts": [],
+      "B07_reading_kind": "followup_no_unique_increment",
+      "new_unique_targeted_addition": false,
+      "new_unique_body_engagement": false,
+      "submission_ready": false
+    },
+    {
+      "reference_number": 24,
+      "doi": "10.2514/1.A35691",
+      "doi_url": "https://doi.org/10.2514/1.A35691",
+      "english_title": "Orbital Facility Location Problem for Satellite Constellation Servicing Depots",
+      "chinese_translation": "卫星星座服务仓库的轨道设施选址问题",
+      "metadata": {
+        "status": "crossref_snapshot_obtained_not_human_final",
+        "metadata_url": "https://api.crossref.org/works/10.2514/1.A35691",
+        "snapshot_sha256": "f65b0724a50bc018f7bb65368284cf6a85d66286cf29a78ad2cb6fbfafc71be4",
+        "authors": [
+          "Yuri Shimane",
+          "Nicholas Gollins",
+          "Koki Ho"
+        ],
+        "container_titles": [
+          "Journal of Spacecraft and Rockets"
+        ],
+        "volume": "61",
+        "issue": "3",
+        "page_or_article_number": "808-825",
+        "dates": {
+          "issued": {
+            "date-parts": [
+              [
+                2024,
+                5
+              ]
+            ]
+          },
+          "published": {
+            "date-parts": [
+              [
+                2024,
+                5
+              ]
+            ]
+          },
+          "published-print": {
+            "date-parts": [
+              [
+                2024,
+                5
+              ]
+            ]
+          }
+        }
+      },
+      "version_identity": "author_preprint_arxiv_2302.12191v3_2024-03-28",
+      "identity_basis": "实际首页arXiv:2302.12191v3，28 Mar 2024；50页作者文件包含后部附录/补充表，不作正式期刊页数。作者稿Nicholas Gollins与元数据Nick Gollins姓名写法分存。",
+      "read_source_url": "https://arxiv.org/pdf/2302.12191",
+      "local_pdf_path": "D:\\SKT727\\materials\\constellation_review_B03_20261015\\024_native.pdf",
+      "physical_pdf_pages": 50,
+      "bytes": 14325819,
+      "sha256": "68baa4105b5210d1a407062b78cfbf3d155364deea58d9ece46fe6a5af501a6e",
+      "text_status": "selected_PDF_passages_with_actual_page_region_review; font/layer artifacts not silently repaired",
+      "special_page_note": "physical PDF pages are not formal publication folios",
+      "targeted_body_reading_recorded": true,
+      "all_page_all_proof_close_reading_complete": false,
+      "formal_version_parity_closed": false,
+      "human_verified": false,
+      "third_party_PDF_committed": false,
+      "version_group": "author_copy",
+      "metadata_provenance": "inherited prior source record, not refreshed in this batch; local PDF rehashed",
+      "inherited_source_record_path": "review_writing/evidence/reading_batches/B03_20261015/SOURCE_MANIFEST_B03.json",
+      "inherited_source_record_git_blob_sha256": "284f18a27862303720a41c4bc36390ba684ea3f0c42ee260e127029fade65d10",
+      "HTML_tool_capture_receipts": [],
+      "B07_reading_kind": "followup_no_unique_increment",
+      "new_unique_targeted_addition": false,
+      "new_unique_body_engagement": false,
+      "submission_ready": false
+    },
+    {
+      "reference_number": 25,
+      "doi": "10.2514/1.A36386",
+      "doi_url": "https://doi.org/10.2514/1.A36386",
+      "english_title": "Orbital Depot Location Optimization for Satellite Constellation Servicing with Low-Thrust Transfers",
+      "chinese_translation": "考虑低推力转移的卫星星座服务轨道仓库选址优化",
+      "metadata": {
+        "status": "crossref_snapshot_obtained_not_human_final",
+        "metadata_url": "https://api.crossref.org/works/10.2514/1.A36386",
+        "snapshot_sha256": "d13451596e1caa332d6fb32cc92be3c9d4381ee4f4645e6016c541cc12c1dfe6",
+        "authors": [
+          "Euihyeon Choi",
+          "Koki Ho"
+        ],
+        "container_titles": [
+          "Journal of Spacecraft and Rockets"
+        ],
+        "volume": "63",
+        "issue": "1",
+        "page_or_article_number": "4-13",
+        "dates": {
+          "issued": {
+            "date-parts": [
+              [
+                2026,
+                1
+              ]
+            ]
+          },
+          "published": {
+            "date-parts": [
+              [
+                2026,
+                1
+              ]
+            ]
+          },
+          "published-print": {
+            "date-parts": [
+              [
+                2026,
+                1
+              ]
+            ]
+          }
+        }
+      },
+      "version_identity": "author_preprint_arxiv_2502.15914v2_2025-08-25",
+      "identity_basis": "实际首页arXiv:2502.15914v2，25 Aug 2025；24页作者稿；与JSR正式DOI尚未逐命题配对。",
+      "read_source_url": "https://arxiv.org/pdf/2502.15914",
+      "local_pdf_path": "D:\\SKT727\\materials\\constellation_review_B03_20261015\\025_arxiv.pdf",
+      "physical_pdf_pages": 24,
+      "bytes": 1745204,
+      "sha256": "ab590503c3a40246337670912368b358ac67a4228f2e84b2e15ff24d60f864d8",
+      "text_status": "selected_PDF_passages_with_actual_page_region_review; font/layer artifacts not silently repaired",
+      "special_page_note": "physical PDF pages are not formal publication folios",
+      "targeted_body_reading_recorded": true,
+      "all_page_all_proof_close_reading_complete": false,
+      "formal_version_parity_closed": false,
+      "human_verified": false,
+      "third_party_PDF_committed": false,
+      "version_group": "author_copy",
+      "metadata_provenance": "inherited prior source record, not refreshed in this batch; local PDF rehashed",
+      "inherited_source_record_path": "review_writing/evidence/reading_batches/B03_20261015/SOURCE_MANIFEST_B03.json",
+      "inherited_source_record_git_blob_sha256": "284f18a27862303720a41c4bc36390ba684ea3f0c42ee260e127029fade65d10",
+      "HTML_tool_capture_receipts": [],
+      "B07_reading_kind": "followup_no_unique_increment",
+      "new_unique_targeted_addition": false,
+      "new_unique_body_engagement": false,
+      "submission_ready": false
+    },
+    {
+      "reference_number": 28,
+      "doi": "10.2514/1.A35094",
+      "doi_url": "https://doi.org/10.2514/1.A35094",
+      "english_title": "On-Orbit Servicing Optimization Framework with High- and Low-Thrust Propulsion Tradeoff",
+      "chinese_translation": "考虑高低推力推进权衡的在轨服务优化框架",
+      "metadata": {
+        "status": "inherited_exact_B02_fields_not_human_final",
+        "metadata_url": "https://api.crossref.org/works/10.2514/1.A35094",
+        "snapshot_sha256": "ecb38c439e10b8308fbe5dcc985ec5f123a9f3fe526268f6390b5e89756fa6a6",
+        "authors": [
+          "Tristan Sarton du Jonchay",
+          "Hao Chen",
+          "Masafumi Isaji",
+          "Yuri Shimane",
+          "Koki Ho"
+        ],
+        "authors_observed_read_copy": [
+          "Tristan Sarton du Jonchay",
+          "Hao Chen",
+          "Masafumi Isaji",
+          "Yuri Shimane",
+          "Koki Ho"
+        ],
+        "container_titles": [
+          "Journal of Spacecraft and Rockets"
+        ],
+        "volume": "59",
+        "issue": "1",
+        "page_or_article_number": "33-48",
+        "dates": {
+          "published": {
+            "date-parts": [
+              [
+                2022,
+                1
+              ]
+            ]
+          },
+          "published-print": {
+            "date-parts": [
+              [
+                2022,
+                1
+              ]
+            ]
+          },
+          "issued": {
+            "date-parts": [
+              [
+                2022,
+                1
+              ]
+            ]
+          }
+        }
+      },
+      "version_identity": "author_manuscript_requested_arxiv_v1",
+      "identity_basis": "读取请求地址2103.08963v1的45页作者稿；题名/作者匹配。首页无直接版本印记，不能仅凭索引acceptedVersion标签认定是接受稿或正式版。",
+      "read_source_url": "https://arxiv.org/pdf/2103.08963v1",
+      "local_pdf_path": "D:\\SKT727\\materials\\constellation_review_B02_20261015\\028_arxiv_v1.pdf",
+      "physical_pdf_pages": 45,
+      "bytes": 1373763,
+      "sha256": "0e2dba0414bbdf57cfa04bf5d8c408c61b0a0ad23150706bb382020df681ebbb",
+      "version_group": "author_copy",
+      "metadata_provenance": "inherited prior source record, not refreshed in this batch; local PDF rehashed",
+      "inherited_source_record_path": "review_writing/evidence/reading_batches/B02_20261015/SOURCE_MANIFEST_B02.json",
+      "inherited_source_record_git_blob_sha256": "6b6ca902f075717dcebc7922a063c0c178cbb94fd1ae1c576198b69fb7b0f5fa",
+      "HTML_tool_capture_receipts": [],
+      "B07_reading_kind": "followup_no_unique_increment",
+      "new_unique_targeted_addition": false,
+      "new_unique_body_engagement": false,
+      "text_status": "selected_PDF_passages_with_actual_page_region_review; font/layer artifacts not silently repaired",
+      "targeted_body_reading_recorded": true,
+      "all_page_all_proof_close_reading_complete": false,
+      "formal_version_parity_closed": false,
+      "human_verified": false,
+      "submission_ready": false,
+      "third_party_PDF_committed": false
+    },
+    {
+      "reference_number": 47,
+      "doi": "10.1023/B:JOSH.0000013053.32600.3c",
+      "doi_url": "https://doi.org/10.1023/B:JOSH.0000013053.32600.3c",
+      "english_title": "Scheduling Space–Ground Communications for the Air Force Satellite Control Network",
+      "chinese_translation": "空军卫星控制网络的天地通信调度",
+      "metadata": {
+        "status": "crossref_snapshot_obtained_not_human_final",
+        "metadata_url": "https://api.crossref.org/works/10.1023/B:JOSH.0000013053.32600.3c",
+        "snapshot_sha256": "ffd074d8386c01a1fa2ac3873b98c4ea7bb696bbf17f3ff0555b662a8c959aef",
+        "authors": [
+          "Laura Barbulescu",
+          "Jean-Paul Watson",
+          "L. Darrell Whitley",
+          "Adele E. Howe"
+        ],
+        "container_titles": [
+          "Journal of Scheduling"
+        ],
+        "volume": "7",
+        "issue": "1",
+        "page_or_article_number": "7-34",
+        "dates": {
+          "issued": {
+            "date-parts": [
+              [
+                2004,
+                1
+              ]
+            ]
+          },
+          "published": {
+            "date-parts": [
+              [
+                2004,
+                1
+              ]
+            ]
+          },
+          "published-print": {
+            "date-parts": [
+              [
+                2004,
+                1
+              ]
+            ]
+          }
+        }
+      },
+      "version_identity": "author_manuscript_faculty_public_copy",
+      "identity_basis": "40页作者主页公开稿，题名/作者对应正式DOI，抽取有少量连字控制字符；不是按正式期刊分页配对的版本。",
+      "read_source_url": "https://www.cs.colostate.edu/~howe/papers/JOS04.pdf",
+      "local_pdf_path": "D:\\SKT727\\materials\\constellation_review_B03_20261015\\047_faculty.pdf",
+      "physical_pdf_pages": 40,
+      "bytes": 333453,
+      "sha256": "3c5e10d7fa07fb5ca9ea689a98d50906ea40f0bb2ed3ead28ad4e2420b9f86be",
+      "text_status": "selected_PDF_passages_with_actual_page_region_review; font/layer artifacts not silently repaired",
+      "special_page_note": "physical PDF pages are not formal publication folios",
+      "targeted_body_reading_recorded": true,
+      "all_page_all_proof_close_reading_complete": false,
+      "formal_version_parity_closed": false,
+      "human_verified": false,
+      "third_party_PDF_committed": false,
+      "version_group": "author_copy",
+      "metadata_provenance": "inherited prior source record, not refreshed in this batch; local PDF rehashed",
+      "inherited_source_record_path": "review_writing/evidence/reading_batches/B03_20261015/SOURCE_MANIFEST_B03.json",
+      "inherited_source_record_git_blob_sha256": "284f18a27862303720a41c4bc36390ba684ea3f0c42ee260e127029fade65d10",
+      "HTML_tool_capture_receipts": [],
+      "B07_reading_kind": "followup_no_unique_increment",
+      "new_unique_targeted_addition": false,
+      "new_unique_body_engagement": false,
+      "submission_ready": false
+    },
+    {
+      "reference_number": 48,
+      "doi": "10.1016/j.omega.2015.01.001",
+      "doi_url": "https://doi.org/10.1016/j.omega.2015.01.001",
+      "english_title": "Satellite downlink scheduling problem: A case study",
+      "chinese_translation": "卫星下传调度问题：案例研究",
+      "metadata": {
+        "status": "crossref_snapshot_obtained_not_human_final",
+        "metadata_url": "https://api.crossref.org/works/10.1016/j.omega.2015.01.001",
+        "snapshot_sha256": "fe896b8ee464ac95bac824254d0d06b5d1cc0093fc2c2a7614e0e9af22dacd2d",
+        "authors": [
+          "Daniel Karapetyan",
+          "Snezana Mitrovic Minic",
+          "Krishna T. Malladi",
+          "Abraham P. Punnen"
+        ],
+        "container_titles": [
+          "Omega"
+        ],
+        "volume": "53",
+        "issue": null,
+        "page_or_article_number": "115-123",
+        "dates": {
+          "issued": {
+            "date-parts": [
+              [
+                2015,
+                6
+              ]
+            ]
+          },
+          "published": {
+            "date-parts": [
+              [
+                2015,
+                6
+              ]
+            ]
+          },
+          "published-print": {
+            "date-parts": [
+              [
+                2015,
+                6
+              ]
+            ]
+          }
+        }
+      },
+      "version_identity": "author_preprint_arxiv_1206.5503v3_2015-02-14_repository_copy",
+      "identity_basis": "Essex仓储作者稿，实际首页arXiv:1206.5503v3，14 Feb 2015；23页，与Omega正式DOI尚未逐命题配对。",
+      "read_source_url": "https://repository.essex.ac.uk/17381/1/1206.5503v3.pdf",
+      "local_pdf_path": "D:\\SKT727\\materials\\constellation_review_B03_20261015\\048_repository.pdf",
+      "physical_pdf_pages": 23,
+      "bytes": 244434,
+      "sha256": "9ff7e684cef48bcb609ed6f9ebfcbedf373316fa00de539560cc77e5f60d34ab",
+      "text_status": "selected_PDF_passages_with_actual_page_region_review; font/layer artifacts not silently repaired",
+      "special_page_note": "physical PDF pages are not formal publication folios",
+      "targeted_body_reading_recorded": true,
+      "all_page_all_proof_close_reading_complete": false,
+      "formal_version_parity_closed": false,
+      "human_verified": false,
+      "third_party_PDF_committed": false,
+      "version_group": "author_copy",
+      "metadata_provenance": "inherited prior source record, not refreshed in this batch; local PDF rehashed",
+      "inherited_source_record_path": "review_writing/evidence/reading_batches/B03_20261015/SOURCE_MANIFEST_B03.json",
+      "inherited_source_record_git_blob_sha256": "284f18a27862303720a41c4bc36390ba684ea3f0c42ee260e127029fade65d10",
+      "HTML_tool_capture_receipts": [],
+      "B07_reading_kind": "followup_no_unique_increment",
+      "new_unique_targeted_addition": false,
+      "new_unique_body_engagement": false,
+      "submission_ready": false
+    },
+    {
+      "reference_number": 58,
+      "doi": "10.1145/3582016.3582043",
+      "doi_url": "https://doi.org/10.1145/3582016.3582043",
+      "english_title": "Kodan: Addressing the Computational Bottleneck in Space",
+      "chinese_translation": "Kodan：缓解空间计算瓶颈",
+      "metadata": {
+        "status": "crossref_snapshot_obtained_not_human_final",
+        "metadata_url": "https://api.crossref.org/works/10.1145/3582016.3582043",
+        "snapshot_sha256": "53d6cf3f5c30c4f8a50997cecc78ba5f7bbd3f7e13a608373bf723da68352a6c",
+        "authors": [
+          "Bradley Denby",
+          "Krishna Chintalapudi",
+          "Ranveer Chandra",
+          "Brandon Lucia",
+          "Shadi Noghabi"
+        ],
+        "container_titles": [
+          "Proceedings of the 28th ACM International Conference on Architectural Support for Programming Languages and Operating Systems, Volume 3"
+        ],
+        "volume": null,
+        "issue": null,
+        "page_or_article_number": "392-403",
+        "dates": {
+          "issued": {
+            "date-parts": [
+              [
+                2023,
+                3,
+                25
+              ]
+            ]
+          },
+          "published": {
+            "date-parts": [
+              [
+                2023,
+                3,
+                25
+              ]
+            ]
+          },
+          "published-online": {
+            "date-parts": [
+              [
+                2023,
+                3,
+                25
+              ]
+            ]
+          },
+          "published-print": {
+            "date-parts": [
+              [
+                2023,
+                3,
+                25
+              ]
+            ]
+          }
+        }
+      },
+      "version_identity": "publisher_typeset_proceedings_copy_hosted_Microsoft_Research",
+      "identity_basis": "Microsoft Research公开12页ACM最终排版副本，ASPLOS 2023:392–403、DOI及许可标记可见。",
+      "read_source_url": "https://www.microsoft.com/en-us/research/uploads/prod/2023/08/asplosc23main-p858-p-224936cdce-68637-final.pdf",
+      "local_pdf_path": "D:\\SKT727\\materials\\constellation_review_B03_20261015\\058_native.pdf",
+      "physical_pdf_pages": 12,
+      "bytes": 3492396,
+      "sha256": "d020df104eebef2d0cce6013c6620a8e7d98419521747922b37c7d0755d9b5bf",
+      "text_status": "selected_PDF_passages_with_actual_page_region_review; font/layer artifacts not silently repaired",
+      "special_page_note": "physical PDF pages are not formal publication folios",
+      "targeted_body_reading_recorded": true,
+      "all_page_all_proof_close_reading_complete": false,
+      "formal_version_parity_closed": false,
+      "human_verified": false,
+      "third_party_PDF_committed": false,
+      "version_group": "publisher_typeset_copy",
+      "metadata_provenance": "inherited prior source record, not refreshed in this batch; local PDF rehashed",
+      "inherited_source_record_path": "review_writing/evidence/reading_batches/B03_20261015/SOURCE_MANIFEST_B03.json",
+      "inherited_source_record_git_blob_sha256": "284f18a27862303720a41c4bc36390ba684ea3f0c42ee260e127029fade65d10",
+      "HTML_tool_capture_receipts": [],
+      "B07_reading_kind": "followup_no_unique_increment",
+      "new_unique_targeted_addition": false,
+      "new_unique_body_engagement": false,
+      "submission_ready": false
+    },
+    {
+      "reference_number": 72,
+      "doi": "10.1007/s40295-025-00487-6",
+      "doi_url": "https://doi.org/10.1007/s40295-025-00487-6",
+      "original_language": "en",
+      "original_title": "Optimal Multi-Client Trajectory Planning for A Low-Thrust Servicing Satellite in the Presence of Perturbations",
+      "english_title": "Optimal Multi-Client Trajectory Planning for A Low-Thrust Servicing Satellite in the Presence of Perturbations",
+      "english_title_role": "formal_English_title",
+      "chinese_translation": "存在摄动时低推力服务卫星的最优多客户轨迹规划",
+      "metadata": {
+        "status": "publisher_VOR_front_matter_metadata",
+        "metadata_url": "https://doi.org/10.1007/s40295-025-00487-6",
+        "snapshot_sha256": null,
+        "authors_observed_read_copy": [
+          "Riccardo Apa",
+          "Shambo Bhattacharjee",
+          "Jennifer Hudson",
+          "Marcello Romano"
+        ],
+        "container_titles": [
+          "The Journal of the Astronautical Sciences"
+        ],
+        "formal_publication_string_inherited": "The Journal of the Astronautical Sciences, 2025, 72(2): 7",
+        "basis_and_limits": "CrossrefTLS握手超时；正式PDF72:7(2025)，首页Published online11March2025，38物理页",
+        "Crossref_snapshot_obtained": false,
+        "warnings": null
+      },
+      "version_identity": "publisher_VOR_Springer_OA",
+      "version_group": "publisher_typeset_copy",
+      "identity_basis": "The Journal of the Astronautical Sciences72:7(2025)，38页正式排版；公开服务器常规字节范围续传后PDF完整、可解析。",
+      "read_copy_title_difference": null,
+      "read_source_url": "https://link.springer.com/content/pdf/10.1007/s40295-025-00487-6.pdf",
+      "local_pdf_path": "D:\\SKT727\\materials\\constellation_review_B04_20261015\\072_publisher.pdf",
+      "physical_pdf_pages": 38,
+      "bytes": 10664944,
+      "sha256": "4c33ba12334a19d142e50684472aa81ad21f9b24448c92e5fabf918aa122b160",
+      "HTML_tool_capture_receipts": [],
+      "text_status": "selected_PDF_passages_with_actual_page_region_review; font/layer artifacts not silently repaired",
+      "targeted_body_reading_recorded": true,
+      "all_page_all_proof_close_reading_complete": false,
+      "formal_version_parity_closed": false,
+      "human_verified": false,
+      "third_party_PDF_committed": false,
+      "metadata_provenance": "inherited prior source record, not refreshed in this batch; local PDF rehashed",
+      "inherited_source_record_path": "review_writing/evidence/reading_batches/B04_20261015/SOURCE_MANIFEST_B04.json",
+      "inherited_source_record_git_blob_sha256": "c09e38f2666a4147bd8c2e44deb091c5f558f80749c2e043f51ceb9b307dbe51",
+      "B07_reading_kind": "followup_no_unique_increment",
+      "new_unique_targeted_addition": false,
+      "new_unique_body_engagement": false,
+      "submission_ready": false
+    },
+    {
+      "reference_number": 82,
+      "doi": "10.1016/j.actaastro.2020.01.020",
+      "doi_url": "https://doi.org/10.1016/j.actaastro.2020.01.020",
+      "english_title": "Satellite closest approach calculation through Chebyshev Proxy Polynomials",
+      "chinese_translation": "基于Chebyshev代理多项式的卫星最近接近计算",
+      "metadata": {
+        "status": "primary_Crossref_snapshot_not_human_final",
+        "metadata_url": "https://api.crossref.org/works/10.1016/j.actaastro.2020.01.020",
+        "snapshot_sha256": "51afa2d3ee2682a299bcdd5de271531cb32c546ccddda5a5000bee9a3af410e0",
+        "authors": [
+          "Elad Denenberg"
+        ],
+        "container_titles": [
+          "Acta Astronautica"
+        ],
+        "volume": "170",
+        "issue": null,
+        "page_or_article_number": "55-65",
+        "dates": {
+          "issued": {
+            "date-parts": [
+              [
+                2020,
+                5
+              ]
+            ]
+          },
+          "published": {
+            "date-parts": [
+              [
+                2020,
+                5
+              ]
+            ]
+          },
+          "published-print": {
+            "date-parts": [
+              [
+                2020,
+                5
+              ]
+            ]
+          }
+        },
+        "crossref_title": [
+          "Satellite closest approach calculation through Chebyshev Proxy Polynomials"
+        ]
+      },
+      "version_identity": "author_accepted_manuscript_public_HTML_2020-06-07",
+      "version_group": "public_HTML_no_local_PDF",
+      "identity_basis": "公开页面明确Authors Accepted Manuscript，接受日15January2020，作者EladDenenberg于7June2020上传；本轮未取得PDF，不推定正式版内容相同。",
+      "read_source_url": "https://www.researchgate.net/publication/338609111_Satellite_Closest_Approach_Calculation_Through_Chebyshev_Proxy_Polynomials",
+      "local_pdf_path": null,
+      "physical_pdf_pages": null,
+      "bytes": null,
+      "sha256": null,
+      "metadata_provenance": "new primary snapshot",
+      "HTML_tool_capture_receipts": [
+        {
+          "local_capture_path": "D:\\SKT727\\materials\\constellation_review_B07_20261016\\WEB_INITIAL_33_82_83.txt",
+          "bytes": 26321,
+          "sha256": "a1f20661db734ed6f580f634e02a20e4fa4ddd0af23b62577a7c867586e9b1e6",
+          "not_PDF_hash": true
+        },
+        {
+          "local_capture_path": "D:\\SKT727\\materials\\constellation_review_B07_20261016\\WEB_082_090_AND_SEARCH.txt",
+          "bytes": 31281,
+          "sha256": "fd2797821fcaabf7a613f3f0bbfe34f303b6cca9792561e44d32332d7cec14ad",
+          "not_PDF_hash": true
+        },
+        {
+          "local_capture_path": "D:\\SKT727\\materials\\constellation_review_B07_20261016\\WEB_082_METHOD_RESULTS.txt",
+          "bytes": 21044,
+          "sha256": "a0495f7c68951a05024b2e5c2412c98668c65d040517bdddd82dec6b9f3871ae",
+          "not_PDF_hash": true
+        },
+        {
+          "local_capture_path": "D:\\SKT727\\materials\\constellation_review_B07_20261016\\WEB_082_ALGORITHM_LIMITS.txt",
+          "bytes": 24135,
+          "sha256": "8e25c80aec2bd5e478f9cc2e86307e5bd750181eb445d203783b5499fe4fa1f5",
+          "not_PDF_hash": true
+        },
+        {
+          "local_capture_path": "D:\\SKT727\\materials\\constellation_review_B07_20261016\\WEB_082_CORE_AND_CATALOG.txt",
+          "bytes": 23009,
+          "sha256": "b9ae699b63aa75bcd7caf5adbe046f3cfadcadbd769c0551ec8f3136e7b29062",
+          "not_PDF_hash": true
+        }
+      ],
+      "B07_reading_kind": "new_targeted_from_inherited",
+      "new_unique_targeted_addition": true,
+      "new_unique_body_engagement": true,
+      "text_status": "public_HTML_body_only; formula notation and pixels unverified",
+      "targeted_body_reading_recorded": true,
+      "all_page_all_proof_close_reading_complete": false,
+      "formal_version_parity_closed": false,
+      "human_verified": false,
+      "submission_ready": false,
+      "third_party_PDF_committed": false
+    },
+    {
+      "reference_number": 84,
+      "doi": "10.3390/aerospace10060543",
+      "doi_url": "https://doi.org/10.3390/aerospace10060543",
+      "english_title": "Performance Investigation of the Conjunction Filter Methods and Enhancement of Computation Speed on Conjunction Assessment Analysis with CUDA Techniques",
+      "chinese_translation": "接近筛查方法性能评估及基于CUDA的接近分析计算提速",
+      "metadata": {
+        "status": "inherited_exact_B02_fields_not_human_final",
+        "metadata_url": "https://api.crossref.org/works/10.3390/aerospace10060543",
+        "snapshot_sha256": "5e106ab42db59ee555479148c956ca223a1bd5978abeae99bfc7068d7826aa94",
+        "authors": [
+          "Phasawee Saingyen",
+          "Sittiporn Channumsin",
+          "Suwat Sreesawet",
+          "Keerati Puttasuwan",
+          "Thanathip Limna"
+        ],
+        "authors_observed_read_copy": [
+          "Phasawee Saingyen",
+          "Sittiporn Channumsin",
+          "Suwat Sreesawet",
+          "Keerati Puttasuwan",
+          "Thanathip Limna"
+        ],
+        "container_titles": [
+          "Aerospace"
+        ],
+        "volume": "10",
+        "issue": "6",
+        "page_or_article_number": "543",
+        "dates": {
+          "published": {
+            "date-parts": [
+              [
+                2023,
+                6,
+                7
+              ]
+            ]
+          },
+          "published-online": {
+            "date-parts": [
+              [
+                2023,
+                6,
+                7
+              ]
+            ]
+          },
+          "issued": {
+            "date-parts": [
+              [
+                2023,
+                6,
+                7
+              ]
+            ]
+          }
+        }
+      },
+      "version_identity": "publisher_version_MDPI",
+      "identity_basis": "本地既有Aerospace 2023,10,543正式PDF，DOI/最终版式匹配；文字层混有重复旧FOR PEER REVIEW字符串，p11/p13实际像素未见该旧水印，按实际页面核表。",
+      "read_source_url": "https://www.mdpi.com/2226-4310/10/6/543",
+      "local_pdf_path": "D:\\SKT727\\materials\\constellation_review_B02_20261015\\084_local_existing.pdf",
+      "physical_pdf_pages": 14,
+      "bytes": 3059466,
+      "sha256": "0f359de7fc7eaf34b9e104716e0046584213ea3f0354a337ddaeb0dac66473c7",
+      "version_group": "publisher_typeset_copy",
+      "metadata_provenance": "inherited prior source record, not refreshed in this batch; local PDF rehashed",
+      "inherited_source_record_path": "review_writing/evidence/reading_batches/B02_20261015/SOURCE_MANIFEST_B02.json",
+      "inherited_source_record_git_blob_sha256": "6b6ca902f075717dcebc7922a063c0c178cbb94fd1ae1c576198b69fb7b0f5fa",
+      "HTML_tool_capture_receipts": [],
+      "B07_reading_kind": "followup_no_unique_increment",
+      "new_unique_targeted_addition": false,
+      "new_unique_body_engagement": false,
+      "text_status": "selected_PDF_passages_with_actual_page_region_review; font/layer artifacts not silently repaired",
+      "targeted_body_reading_recorded": true,
+      "all_page_all_proof_close_reading_complete": false,
+      "formal_version_parity_closed": false,
+      "human_verified": false,
+      "submission_ready": false,
+      "third_party_PDF_committed": false
+    },
+    {
+      "reference_number": 86,
+      "doi": "10.1016/j.actaastro.2025.07.027",
+      "doi_url": "https://doi.org/10.1016/j.actaastro.2025.07.027",
+      "original_language": "en",
+      "original_title": "CAMmary: A review of spacecraft collision avoidance manoeuvre design methods",
+      "english_title": "CAMmary: A review of spacecraft collision avoidance manoeuvre design methods",
+      "english_title_role": "formal_English_title",
+      "chinese_translation": "CAMmary：航天器避碰机动设计方法综述",
+      "metadata": {
+        "status": "crossref_snapshot_obtained_not_human_final",
+        "metadata_url": "https://api.crossref.org/works/10.1016/j.actaastro.2025.07.027",
+        "snapshot_sha256": "f685d4d36196474b6a15be5b5f8a1295da43430f44e8bab76769aff91dd89eb9",
+        "authors": [
+          "Zeno Pavanello",
+          "Luigi De Maria",
+          "Andrea De Vittori",
+          "Michele Maestrini",
+          "Pierluigi Di Lizia",
+          "Roberto Armellin"
+        ],
+        "container_titles": [
+          "Acta Astronautica"
+        ],
+        "volume": "236",
+        "issue": null,
+        "page_or_article_number": "770-789",
+        "dates": {
+          "issued": {
+            "date-parts": [
+              [
+                2025,
+                11
+              ]
+            ]
+          },
+          "published": {
+            "date-parts": [
+              [
+                2025,
+                11
+              ]
+            ]
+          },
+          "published-print": {
+            "date-parts": [
+              [
+                2025,
+                11
+              ]
+            ]
+          }
+        },
+        "warnings": null
+      },
+      "version_identity": "author_preprint_arxiv_2503.22555v1_2025-03-28",
+      "version_group": "author_copy",
+      "identity_basis": "arXiv v1，40物理页，2025-03-28；未与Acta正式排版进行全文配对。",
+      "read_copy_title_difference": null,
+      "read_source_url": "https://arxiv.org/pdf/2503.22555",
+      "local_pdf_path": "D:\\SKT727\\materials\\constellation_review_B04_20261015\\086_next.pdf",
+      "physical_pdf_pages": 40,
+      "bytes": 1201567,
+      "sha256": "9b2e1c032b9b99cfb88530ed54cbbfb47c4880f36740d24a1e5ddf2e91377a31",
+      "HTML_tool_capture_receipts": [],
+      "text_status": "selected_PDF_passages_with_actual_page_region_review; font/layer artifacts not silently repaired",
+      "targeted_body_reading_recorded": true,
+      "all_page_all_proof_close_reading_complete": false,
+      "formal_version_parity_closed": false,
+      "human_verified": false,
+      "third_party_PDF_committed": false,
+      "metadata_provenance": "inherited prior source record, not refreshed in this batch; local PDF rehashed",
+      "inherited_source_record_path": "review_writing/evidence/reading_batches/B04_20261015/SOURCE_MANIFEST_B04.json",
+      "inherited_source_record_git_blob_sha256": "c09e38f2666a4147bd8c2e44deb091c5f558f80749c2e043f51ceb9b307dbe51",
+      "B07_reading_kind": "followup_no_unique_increment",
+      "new_unique_targeted_addition": false,
+      "new_unique_body_engagement": false,
+      "submission_ready": false
+    },
+    {
+      "reference_number": 87,
+      "doi": "10.1007/s42064-021-0101-5",
+      "doi_url": "https://doi.org/10.1007/s42064-021-0101-5",
+      "english_title": "Spacecraft collision avoidance challenge: Design and results of a machine learning competition",
+      "chinese_translation": "航天器碰撞规避挑战：机器学习竞赛的设计与结果",
+      "metadata": {
+        "status": "inherited_exact_B02_fields_not_human_final",
+        "metadata_url": "https://api.crossref.org/works/10.1007/s42064-021-0101-5",
+        "snapshot_sha256": "290a1a47b82067cabd0c4fe20f3718e9ebd92d78e4b807fd7852cbbc2f87c1ff",
+        "authors": [
+          "Thomas Uriot",
+          "Dario Izzo",
+          "Luís F. Simões",
+          "Rasit Abay",
+          "Nils Einecke",
+          "Sven Rebhan",
+          "Jose Martinez-Heras",
+          "Francesca Letizia",
+          "Jan Siminski",
+          "Klaus Merz"
+        ],
+        "authors_observed_read_copy": [
+          "Thomas Uriot",
+          "Dario Izzo",
+          "Luís F. Simões",
+          "Rasit Abay",
+          "Nils Einecke",
+          "Sven Rebhan",
+          "Jose Martinez-Heras",
+          "Francesca Letizia",
+          "Jan Siminski",
+          "Klaus Merz"
+        ],
+        "container_titles": [
+          "Astrodynamics"
+        ],
+        "volume": "6",
+        "issue": "2",
+        "page_or_article_number": "121-140",
+        "dates": {
+          "published": {
+            "date-parts": [
+              [
+                2021,
+                4,
+                7
+              ]
+            ]
+          },
+          "published-online": {
+            "date-parts": [
+              [
+                2021,
+                4,
+                7
+              ]
+            ]
+          },
+          "published-print": {
+            "date-parts": [
+              [
+                2022,
+                6
+              ]
+            ]
+          },
+          "issued": {
+            "date-parts": [
+              [
+                2021,
+                4,
+                7
+              ]
+            ]
+          }
+        }
+      },
+      "version_identity": "author_preprint_requested_arxiv_v1_with_internal_date_mismatch",
+      "identity_basis": "请求2008.03069v1，实际页有arXiv v1 7 Aug 2020，同时正文抬头/生成日期含28 Mar 2022，时间信息不一致。题名作者匹配并以SHA锁定所读字节，不凭请求地址推断完整修订史。",
+      "read_source_url": "https://arxiv.org/pdf/2008.03069v1",
+      "local_pdf_path": "D:\\SKT727\\materials\\constellation_review_B02_20261015\\087_arxiv_v1.pdf",
+      "physical_pdf_pages": 22,
+      "bytes": 4916365,
+      "sha256": "85fb56bdc051d54976d4dd446bef0ed4d2198ddf1a1242878b364d53bc6d49fd",
+      "version_group": "author_copy",
+      "metadata_provenance": "inherited prior source record, not refreshed in this batch; local PDF rehashed",
+      "inherited_source_record_path": "review_writing/evidence/reading_batches/B02_20261015/SOURCE_MANIFEST_B02.json",
+      "inherited_source_record_git_blob_sha256": "6b6ca902f075717dcebc7922a063c0c178cbb94fd1ae1c576198b69fb7b0f5fa",
+      "HTML_tool_capture_receipts": [],
+      "B07_reading_kind": "followup_no_unique_increment",
+      "new_unique_targeted_addition": false,
+      "new_unique_body_engagement": false,
+      "text_status": "selected_PDF_passages_with_actual_page_region_review; font/layer artifacts not silently repaired",
+      "targeted_body_reading_recorded": true,
+      "all_page_all_proof_close_reading_complete": false,
+      "formal_version_parity_closed": false,
+      "human_verified": false,
+      "submission_ready": false,
+      "third_party_PDF_committed": false
+    },
+    {
+      "reference_number": 116,
+      "doi": "10.2514/1.I010762",
+      "doi_url": "https://doi.org/10.2514/1.I010762",
+      "english_title": "Basilisk: A Flexible, Scalable and Modular Astrodynamics Simulation Framework",
+      "chinese_translation": "Basilisk：灵活、可扩展的模块化航天动力学仿真框架",
+      "metadata": {
+        "status": "crossref_snapshot_obtained_not_human_final",
+        "metadata_url": "https://api.crossref.org/works/10.2514/1.I010762",
+        "snapshot_sha256": "4abfc88e297712b5e59e2b8975bb974d2b4de8343dd797a7899179e3319ebdfd",
+        "authors": [
+          "Patrick W. Kenneally",
+          "Scott Piggott",
+          "Hanspeter Schaub"
+        ],
+        "container_titles": [
+          "Journal of Aerospace Information Systems"
+        ],
+        "volume": "17",
+        "issue": "9",
+        "page_or_article_number": "496-507",
+        "dates": {
+          "issued": {
+            "date-parts": [
+              [
+                2020,
+                9
+              ]
+            ]
+          },
+          "published": {
+            "date-parts": [
+              [
+                2020,
+                9
+              ]
+            ]
+          },
+          "published-print": {
+            "date-parts": [
+              [
+                2020,
+                9
+              ]
+            ]
+          }
+        }
+      },
+      "version_identity": "publisher_typeset_copy_plus_cited_by_appendage",
+      "identity_basis": "教师主页13物理页文件中p1–12为正式JAIS 17(9):496–507论文，p13是附加cited-by列表，不能当论文多一页。",
+      "read_source_url": "https://www.hanspeterschaub.info/PapersPrivate/Kenneally2020a.pdf",
+      "local_pdf_path": "D:\\SKT727\\materials\\constellation_review_B03_20261015\\116_faculty.pdf",
+      "physical_pdf_pages": 13,
+      "bytes": 1319931,
+      "sha256": "be2b914e7e438dadfb05b1f5d38bc584c191bce9da0f8fcb9ddb6236bc157c56",
+      "text_status": "selected_PDF_passages_with_actual_page_region_review; font/layer artifacts not silently repaired",
+      "special_page_note": "p1–12 article 496–507; p13 publisher cited-by appendage, excluded from paper body claims",
+      "targeted_body_reading_recorded": true,
+      "all_page_all_proof_close_reading_complete": false,
+      "formal_version_parity_closed": false,
+      "human_verified": false,
+      "third_party_PDF_committed": false,
+      "version_group": "publisher_typeset_copy",
+      "metadata_provenance": "inherited prior source record, not refreshed in this batch; local PDF rehashed",
+      "inherited_source_record_path": "review_writing/evidence/reading_batches/B03_20261015/SOURCE_MANIFEST_B03.json",
+      "inherited_source_record_git_blob_sha256": "284f18a27862303720a41c4bc36390ba684ea3f0c42ee260e127029fade65d10",
+      "HTML_tool_capture_receipts": [],
+      "B07_reading_kind": "followup_no_unique_increment",
+      "new_unique_targeted_addition": false,
+      "new_unique_body_engagement": false,
+      "submission_ready": false
+    }
+  ],
+  "third_party_files_external_only": true
+}

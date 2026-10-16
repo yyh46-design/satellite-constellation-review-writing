@@ -1,0 +1,171 @@
+{
+  "batch": "B07_20261016",
+  "formal_pair_closed_count": 0,
+  "queue": [
+    {
+      "reference_number": 17,
+      "doi": "10.1016/j.comnet.2024.110942",
+      "read_version": "publisher_typeset_version_hosted_institutionally",
+      "read_url": "https://oa.upm.es/88332/1/10309454.pdf",
+      "formal_DOI_entry": "https://doi.org/10.1016/j.comnet.2024.110942",
+      "PDF_sha256": "06661c9a49d0e32888481708abc1c23c95f204b6a8fda0d8356a582c0de84094",
+      "HTML_only": false,
+      "next_check": "其余链路与波束推导、完整寿命/电池动态及成本仍未独立复现；不是2026市场报价。",
+      "formal_version_parity_closed": false
+    },
+    {
+      "reference_number": 20,
+      "doi": "10.2514/1.A36599",
+      "read_version": "author_preprint_arxiv_2509.09957v4_2026-09-26",
+      "read_url": "https://arxiv.org/pdf/2509.09957",
+      "formal_DOI_entry": "https://doi.org/10.2514/1.A36599",
+      "PDF_sha256": "8ffd7ae1df19662bb686c875d1faa2c29f147673ab43da464b1d372feacaee1f",
+      "HTML_only": false,
+      "next_check": "作者v4与正式版差异、附录及全部稳态证明/代码未核完。",
+      "formal_version_parity_closed": false
+    },
+    {
+      "reference_number": 21,
+      "doi": "10.1016/j.actaastro.2026.06.020",
+      "read_version": "author_preprint_arxiv_2605.20875v2_2026-06-21",
+      "read_url": "https://arxiv.org/pdf/2605.20875v2",
+      "formal_DOI_entry": "https://doi.org/10.1016/j.actaastro.2026.06.020",
+      "PDF_sha256": "a87cc30e1dbc9953f36823d44c85a38ae8d28d2fc62e9af16fdd56e04c1e004d",
+      "HTML_only": false,
+      "next_check": "作者v2未配正式版；矩阵、马尔可夫性/独立性条件和代码未完整审核。",
+      "formal_version_parity_closed": false
+    },
+    {
+      "reference_number": 24,
+      "doi": "10.2514/1.A35691",
+      "read_version": "author_preprint_arxiv_2302.12191v3_2024-03-28",
+      "read_url": "https://arxiv.org/pdf/2302.12191",
+      "formal_DOI_entry": "https://doi.org/10.2514/1.A35691",
+      "PDF_sha256": "68baa4105b5210d1a407062b78cfbf3d155364deea58d9ece46fe6a5af501a6e",
+      "HTML_only": false,
+      "next_check": "未独立核全Q-law推导；作者稿终刊配对、三客户以上路由和全设施联合多客户优化保持开放。",
+      "formal_version_parity_closed": false
+    },
+    {
+      "reference_number": 25,
+      "doi": "10.2514/1.A36386",
+      "read_version": "author_preprint_arxiv_2502.15914v2_2025-08-25",
+      "read_url": "https://arxiv.org/pdf/2502.15914",
+      "formal_DOI_entry": "https://doi.org/10.2514/1.A36386",
+      "PDF_sha256": "ab590503c3a40246337670912368b358ac67a4228f2e84b2e15ff24d60f864d8",
+      "HTML_only": false,
+      "next_check": "解析梯度未独立推导/有限差分对验，退化几何与全局收敛、正式配对未核完。",
+      "formal_version_parity_closed": false
+    },
+    {
+      "reference_number": 28,
+      "doi": "10.2514/1.A35094",
+      "read_version": "author_manuscript_requested_arxiv_v1",
+      "read_url": "https://arxiv.org/pdf/2103.08963v1",
+      "formal_DOI_entry": "https://doi.org/10.2514/1.A35094",
+      "PDF_sha256": "0e2dba0414bbdf57cfa04bf5d8c408c61b0a0ad23150706bb382020df681ebbb",
+      "HTML_only": false,
+      "next_check": "作者稿与正式版未配；5访问/4服务口径、全部质量/推进约束和完整重规划过程未独立复现。",
+      "formal_version_parity_closed": false
+    },
+    {
+      "reference_number": 47,
+      "doi": "10.1023/B:JOSH.0000013053.32600.3c",
+      "read_version": "author_manuscript_faculty_public_copy",
+      "read_url": "https://www.cs.colostate.edu/~howe/papers/JOS04.pdf",
+      "formal_DOI_entry": "https://doi.org/10.1023/B:JOSH.0000013053.32600.3c",
+      "PDF_sha256": "3c5e10d7fa07fb5ca9ea689a98d50906ea40f0bb2ed3ead28ad4e2420b9f86be",
+      "HTML_only": false,
+      "next_check": "定理只阅读相关证明段，未作独立全篇证明检查；作者稿终刊差异和全部求解结果未复现。",
+      "formal_version_parity_closed": false
+    },
+    {
+      "reference_number": 48,
+      "doi": "10.1016/j.omega.2015.01.001",
+      "read_version": "author_preprint_arxiv_1206.5503v3_2015-02-14_repository_copy",
+      "read_url": "https://repository.essex.ac.uk/17381/1/1206.5503v3.pdf",
+      "formal_DOI_entry": "https://doi.org/10.1016/j.omega.2015.01.001",
+      "PDF_sha256": "9ff7e684cef48bcb609ed6f9ebfcbedf373316fa00de539560cc77e5f60d34ab",
+      "HTML_only": false,
+      "next_check": "未重跑算例、全部解码器复杂度证明及正式配对；参数外推保持开放。",
+      "formal_version_parity_closed": false
+    },
+    {
+      "reference_number": 58,
+      "doi": "10.1145/3582016.3582043",
+      "read_version": "publisher_typeset_proceedings_copy_hosted_Microsoft_Research",
+      "read_url": "https://www.microsoft.com/en-us/research/uploads/prod/2023/08/asplosc23main-p858-p-224936cdce-68637-final.pdf",
+      "formal_DOI_entry": "https://doi.org/10.1145/3582016.3582043",
+      "PDF_sha256": "d020df104eebef2d0cce6013c6620a8e7d98419521747922b37c7d0755d9b5bf",
+      "HTML_only": false,
+      "next_check": "历史硬件与应用条件保留；未复现分类、下传或丢弃风险，未证明全年业务交付。",
+      "formal_version_parity_closed": false
+    },
+    {
+      "reference_number": 72,
+      "doi": "10.1007/s40295-025-00487-6",
+      "read_version": "publisher_VOR_Springer_OA",
+      "read_url": "https://link.springer.com/content/pdf/10.1007/s40295-025-00487-6.pdf",
+      "formal_DOI_entry": "https://doi.org/10.1007/s40295-025-00487-6",
+      "PDF_sha256": "4c33ba12334a19d142e50684472aa81ad21f9b24448c92e5fabf918aa122b160",
+      "HTML_only": false,
+      "next_check": "未独立证明Q-law最优性或完成全部扰动轨迹核验；相位、插值与原始代码问题继承。",
+      "formal_version_parity_closed": false
+    },
+    {
+      "reference_number": 82,
+      "doi": "10.1016/j.actaastro.2020.01.020",
+      "read_version": "author_accepted_manuscript_public_HTML_2020-06-07",
+      "read_url": "https://www.researchgate.net/publication/338609111_Satellite_Closest_Approach_Calculation_Through_Chebyshev_Proxy_Polynomials",
+      "formal_DOI_entry": "https://doi.org/10.1016/j.actaastro.2020.01.020",
+      "PDF_sha256": null,
+      "HTML_only": true,
+      "next_check": "本轮仅作者接受稿公开HTML；本机PDF、公式图表像素、正式版配对、数学前提、端点与伪代码记号及星载实测仍缺。",
+      "formal_version_parity_closed": false
+    },
+    {
+      "reference_number": 84,
+      "doi": "10.3390/aerospace10060543",
+      "read_version": "publisher_version_MDPI",
+      "read_url": "https://www.mdpi.com/2226-4310/10/6/543",
+      "formal_DOI_entry": "https://doi.org/10.3390/aerospace10060543",
+      "PDF_sha256": "0f359de7fc7eaf34b9e104716e0046584213ea3f0354a337ddaeb0dac66473c7",
+      "HTML_only": false,
+      "next_check": "未独立证明全域不漏检；抽取层混入draft重复段但实际页面仅最终版；全部公式/实现和原漏检项继续开放。",
+      "formal_version_parity_closed": false
+    },
+    {
+      "reference_number": 86,
+      "doi": "10.1016/j.actaastro.2025.07.027",
+      "read_version": "author_preprint_arxiv_2503.22555v1_2025-03-28",
+      "read_url": "https://arxiv.org/pdf/2503.22555",
+      "formal_DOI_entry": "https://doi.org/10.1016/j.actaastro.2025.07.027",
+      "PDF_sha256": "9b2e1c032b9b99cfb88530ed54cbbfb47c4880f36740d24a1e5ddf2e91377a31",
+      "HTML_only": false,
+      "next_check": "本来源是综述，其转述原始方法未在B07逐篇打开；不新增这些被引原始论文的精读计数。作者稿正式版配对和概率定理仍待核。",
+      "formal_version_parity_closed": false
+    },
+    {
+      "reference_number": 87,
+      "doi": "10.1007/s42064-021-0101-5",
+      "read_version": "author_preprint_requested_arxiv_v1_with_internal_date_mismatch",
+      "read_url": "https://arxiv.org/pdf/2008.03069v1",
+      "formal_DOI_entry": "https://doi.org/10.1007/s42064-021-0101-5",
+      "PDF_sha256": "85fb56bdc051d54976d4dd446bef0ed4d2198ddf1a1242878b364d53bc6d49fd",
+      "HTML_only": false,
+      "next_check": "作者稿内部日期与请求arXiv版本差异继承；未复现重采样、统计检验、阈值或终刊配对；不能标在轨风险处置验证。",
+      "formal_version_parity_closed": false
+    },
+    {
+      "reference_number": 116,
+      "doi": "10.2514/1.I010762",
+      "read_version": "publisher_typeset_copy_plus_cited_by_appendage",
+      "read_url": "https://www.hanspeterschaub.info/PapersPrivate/Kenneally2020a.pdf",
+      "formal_DOI_entry": "https://doi.org/10.2514/1.I010762",
+      "PDF_sha256": "be2b914e7e438dadfb05b1f5d38bc584c191bce9da0f8fcb9ddb6236bc157c56",
+      "HTML_only": false,
+      "next_check": "原文示例文字、代码、图的采样周期不一致未关闭；13页副本最后为cited-by附页非正文；本轮未运行软件/硬件在环。",
+      "formal_version_parity_closed": false
+    }
+  ]
+}

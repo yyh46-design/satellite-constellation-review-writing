@@ -1,0 +1,322 @@
+{
+  "batch": "B07_20261016",
+  "papers": [
+    {
+      "reference_number": 17,
+      "reading_kind": "followup_no_unique_increment",
+      "text_passage_pages_inspected": [
+        3,
+        10,
+        12
+      ],
+      "actual_visual_pages_inspected": [
+        10,
+        12
+      ],
+      "HTML_tool_line_ranges_inspected": [],
+      "physical_pdf_pages_total": 14,
+      "locator_system": "one-based physical PDF pages; selected passages/regions only",
+      "source_pdf_sha256": "06661c9a49d0e32888481708abc1c23c95f204b6a8fda0d8356a582c0de84094",
+      "all_page_all_proof_close_reading_complete": false,
+      "human_verified": false
+    },
+    {
+      "reference_number": 20,
+      "reading_kind": "followup_no_unique_increment",
+      "text_passage_pages_inspected": [
+        9,
+        13,
+        15
+      ],
+      "actual_visual_pages_inspected": [
+        9,
+        15
+      ],
+      "HTML_tool_line_ranges_inspected": [],
+      "physical_pdf_pages_total": 30,
+      "locator_system": "one-based physical PDF pages; selected passages/regions only",
+      "source_pdf_sha256": "8ffd7ae1df19662bb686c875d1faa2c29f147673ab43da464b1d372feacaee1f",
+      "all_page_all_proof_close_reading_complete": false,
+      "human_verified": false
+    },
+    {
+      "reference_number": 21,
+      "reading_kind": "followup_no_unique_increment",
+      "text_passage_pages_inspected": [
+        16,
+        19,
+        23
+      ],
+      "actual_visual_pages_inspected": [
+        16,
+        19
+      ],
+      "HTML_tool_line_ranges_inspected": [],
+      "physical_pdf_pages_total": 57,
+      "locator_system": "one-based physical PDF pages; selected passages/regions only",
+      "source_pdf_sha256": "a87cc30e1dbc9953f36823d44c85a38ae8d28d2fc62e9af16fdd56e04c1e004d",
+      "all_page_all_proof_close_reading_complete": false,
+      "human_verified": false
+    },
+    {
+      "reference_number": 24,
+      "reading_kind": "followup_no_unique_increment",
+      "text_passage_pages_inspected": [
+        6,
+        7,
+        32
+      ],
+      "actual_visual_pages_inspected": [
+        7,
+        32
+      ],
+      "HTML_tool_line_ranges_inspected": [],
+      "physical_pdf_pages_total": 50,
+      "locator_system": "one-based physical PDF pages; selected passages/regions only",
+      "source_pdf_sha256": "68baa4105b5210d1a407062b78cfbf3d155364deea58d9ece46fe6a5af501a6e",
+      "all_page_all_proof_close_reading_complete": false,
+      "human_verified": false
+    },
+    {
+      "reference_number": 25,
+      "reading_kind": "followup_no_unique_increment",
+      "text_passage_pages_inspected": [
+        12,
+        13,
+        14
+      ],
+      "actual_visual_pages_inspected": [
+        12,
+        14
+      ],
+      "HTML_tool_line_ranges_inspected": [],
+      "physical_pdf_pages_total": 24,
+      "locator_system": "one-based physical PDF pages; selected passages/regions only",
+      "source_pdf_sha256": "ab590503c3a40246337670912368b358ac67a4228f2e84b2e15ff24d60f864d8",
+      "all_page_all_proof_close_reading_complete": false,
+      "human_verified": false
+    },
+    {
+      "reference_number": 28,
+      "reading_kind": "followup_no_unique_increment",
+      "text_passage_pages_inspected": [
+        17,
+        18,
+        32,
+        33
+      ],
+      "actual_visual_pages_inspected": [
+        18,
+        32,
+        33
+      ],
+      "HTML_tool_line_ranges_inspected": [],
+      "physical_pdf_pages_total": 45,
+      "locator_system": "one-based physical PDF pages; selected passages/regions only",
+      "source_pdf_sha256": "0e2dba0414bbdf57cfa04bf5d8c408c61b0a0ad23150706bb382020df681ebbb",
+      "all_page_all_proof_close_reading_complete": false,
+      "human_verified": false
+    },
+    {
+      "reference_number": 47,
+      "reading_kind": "followup_no_unique_increment",
+      "text_passage_pages_inspected": [
+        9,
+        10,
+        17,
+        18
+      ],
+      "actual_visual_pages_inspected": [
+        9,
+        18
+      ],
+      "HTML_tool_line_ranges_inspected": [],
+      "physical_pdf_pages_total": 40,
+      "locator_system": "one-based physical PDF pages; selected passages/regions only",
+      "source_pdf_sha256": "3c5e10d7fa07fb5ca9ea689a98d50906ea40f0bb2ed3ead28ad4e2420b9f86be",
+      "all_page_all_proof_close_reading_complete": false,
+      "human_verified": false
+    },
+    {
+      "reference_number": 48,
+      "reading_kind": "followup_no_unique_increment",
+      "text_passage_pages_inspected": [
+        7,
+        8,
+        9,
+        19
+      ],
+      "actual_visual_pages_inspected": [
+        8,
+        19
+      ],
+      "HTML_tool_line_ranges_inspected": [],
+      "physical_pdf_pages_total": 23,
+      "locator_system": "one-based physical PDF pages; selected passages/regions only",
+      "source_pdf_sha256": "9ff7e684cef48bcb609ed6f9ebfcbedf373316fa00de539560cc77e5f60d34ab",
+      "all_page_all_proof_close_reading_complete": false,
+      "human_verified": false
+    },
+    {
+      "reference_number": 58,
+      "reading_kind": "followup_no_unique_increment",
+      "text_passage_pages_inspected": [
+        4,
+        5,
+        9,
+        10
+      ],
+      "actual_visual_pages_inspected": [
+        5,
+        10
+      ],
+      "HTML_tool_line_ranges_inspected": [],
+      "physical_pdf_pages_total": 12,
+      "locator_system": "one-based physical PDF pages; selected passages/regions only",
+      "source_pdf_sha256": "d020df104eebef2d0cce6013c6620a8e7d98419521747922b37c7d0755d9b5bf",
+      "all_page_all_proof_close_reading_complete": false,
+      "human_verified": false
+    },
+    {
+      "reference_number": 72,
+      "reading_kind": "followup_no_unique_increment",
+      "text_passage_pages_inspected": [
+        10,
+        11,
+        12,
+        25
+      ],
+      "actual_visual_pages_inspected": [
+        11,
+        12
+      ],
+      "HTML_tool_line_ranges_inspected": [],
+      "physical_pdf_pages_total": 38,
+      "locator_system": "one-based physical PDF pages; selected passages/regions only",
+      "source_pdf_sha256": "4c33ba12334a19d142e50684472aa81ad21f9b24448c92e5fabf918aa122b160",
+      "all_page_all_proof_close_reading_complete": false,
+      "human_verified": false
+    },
+    {
+      "reference_number": 82,
+      "reading_kind": "new_targeted_from_inherited",
+      "text_passage_pages_inspected": [],
+      "actual_visual_pages_inspected": [],
+      "HTML_tool_line_ranges_inspected": [
+        [
+          247,
+          326
+        ],
+        [
+          919,
+          1274
+        ],
+        [
+          1288,
+          1595
+        ],
+        [
+          1726,
+          2004
+        ],
+        [
+          2069,
+          2214
+        ]
+      ],
+      "physical_pdf_pages_total": null,
+      "locator_system": "saved web-tool snapshot lines, not physical PDF folios",
+      "source_pdf_sha256": null,
+      "all_page_all_proof_close_reading_complete": false,
+      "human_verified": false
+    },
+    {
+      "reference_number": 84,
+      "reading_kind": "followup_no_unique_increment",
+      "text_passage_pages_inspected": [
+        5,
+        6,
+        8,
+        9
+      ],
+      "actual_visual_pages_inspected": [
+        6,
+        9
+      ],
+      "HTML_tool_line_ranges_inspected": [],
+      "physical_pdf_pages_total": 14,
+      "locator_system": "one-based physical PDF pages; selected passages/regions only",
+      "source_pdf_sha256": "0f359de7fc7eaf34b9e104716e0046584213ea3f0354a337ddaeb0dac66473c7",
+      "all_page_all_proof_close_reading_complete": false,
+      "human_verified": false
+    },
+    {
+      "reference_number": 86,
+      "reading_kind": "followup_no_unique_increment",
+      "text_passage_pages_inspected": [
+        8,
+        9,
+        12,
+        16
+      ],
+      "actual_visual_pages_inspected": [
+        8,
+        16
+      ],
+      "HTML_tool_line_ranges_inspected": [],
+      "physical_pdf_pages_total": 40,
+      "locator_system": "one-based physical PDF pages; selected passages/regions only",
+      "source_pdf_sha256": "9b2e1c032b9b99cfb88530ed54cbbfb47c4880f36740d24a1e5ddf2e91377a31",
+      "all_page_all_proof_close_reading_complete": false,
+      "human_verified": false
+    },
+    {
+      "reference_number": 87,
+      "reading_kind": "followup_no_unique_increment",
+      "text_passage_pages_inspected": [
+        11,
+        12,
+        13,
+        17,
+        18
+      ],
+      "actual_visual_pages_inspected": [
+        11,
+        13,
+        18
+      ],
+      "HTML_tool_line_ranges_inspected": [],
+      "physical_pdf_pages_total": 22,
+      "locator_system": "one-based physical PDF pages; selected passages/regions only",
+      "source_pdf_sha256": "85fb56bdc051d54976d4dd446bef0ed4d2198ddf1a1242878b364d53bc6d49fd",
+      "all_page_all_proof_close_reading_complete": false,
+      "human_verified": false
+    },
+    {
+      "reference_number": 116,
+      "reading_kind": "followup_no_unique_increment",
+      "text_passage_pages_inspected": [
+        6,
+        8,
+        9
+      ],
+      "actual_visual_pages_inspected": [
+        6,
+        8,
+        9
+      ],
+      "HTML_tool_line_ranges_inspected": [],
+      "physical_pdf_pages_total": 13,
+      "locator_system": "one-based physical PDF pages; selected passages/regions only",
+      "source_pdf_sha256": "be2b914e7e438dadfb05b1f5d38bc584c191bce9da0f8fcb9ddb6236bc157c56",
+      "all_page_all_proof_close_reading_complete": false,
+      "human_verified": false
+    }
+  ],
+  "actual_visual_page_count": 31,
+  "unique_sources": 15,
+  "new_targeted_sources": 1,
+  "followup_sources": 14,
+  "all_page_all_proof_completion_count_claimed": 0,
+  "human_verified": false
+}
