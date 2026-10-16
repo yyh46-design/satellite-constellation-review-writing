@@ -1,0 +1,57 @@
+{
+  "algorithm": "SHA256",
+  "path_base": "repository root",
+  "manifest_self_excluded": true,
+  "files": [
+    {
+      "path": "review_writing/manuscripts/v2.1-cn/.gitattributes",
+      "bytes": 9,
+      "sha256": "8b9c3028d6467ff3be7c793141927841d70f47f52d0590677438f488ca154992"
+    },
+    {
+      "path": "review_writing/manuscripts/v2.1-cn/assets/fig1_cn.svg",
+      "bytes": 5936,
+      "sha256": "bfdf42dd50cabd68960cd771e5f5982b62197db6945afb564e44b4eab9422a78"
+    },
+    {
+      "path": "review_writing/manuscripts/v2.1-cn/assets/fig2_cn.svg",
+      "bytes": 4865,
+      "sha256": "4b972ef37f868a8a75ccc4e0049bc7a3b224cf2ad6a93314027b9be5d10cfddf"
+    },
+    {
+      "path": "review_writing/manuscripts/v2.1-cn/CHANGES_FROM_v2.0.diff",
+      "bytes": 30317,
+      "sha256": "2e3f220121bad2cab4156b2471cfe00ee42c648377fd1d1ad36dfa68485301a2"
+    },
+    {
+      "path": "review_writing/manuscripts/v2.1-cn/CLAIM_MAP_CN.csv",
+      "bytes": 24163,
+      "sha256": "f991de9daf38d3ce70c25b1cc57b65af330104bdf8c150351d266db2de2e0cf3"
+    },
+    {
+      "path": "review_writing/manuscripts/v2.1-cn/INTEGRITY_CHECK.json",
+      "bytes": 3788,
+      "sha256": "4dca9bc13b473a7c2c4d981dc9c05470a2efcd4452203dedad1cefcc1d740a2f"
+    },
+    {
+      "path": "review_writing/manuscripts/v2.1-cn/README.md",
+      "bytes": 1256,
+      "sha256": "216e74ec59013ad4124983d3437f139b044db040aced9d666200b6f4b720c844"
+    },
+    {
+      "path": "review_writing/manuscripts/v2.1-cn/REVIEW_CN_v2.1.md",
+      "bytes": 86789,
+      "sha256": "6bfa024719c1362905098e189f1fb288401a9638b800068d7039434f908df089"
+    },
+    {
+      "path": "review_writing/manuscripts/v2.1-cn/REVISION_REGISTER_CN.json",
+      "bytes": 26760,
+      "sha256": "d06e4107465a7738bc4e1b632efad228a820e6210ef5f06017ff5139b36be362"
+    },
+    {
+      "path": "review_writing/manuscripts/v2.1-cn/SUBMISSION_GAP_ASSESSMENT_CN.md",
+      "bytes": 12211,
+      "sha256": "678facacaba9c3bc90a560bcfbbfac96d27068d6d821703f072b8743c6e22852"
+    }
+  ]
+}

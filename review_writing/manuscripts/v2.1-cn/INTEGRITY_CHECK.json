@@ -1,0 +1,89 @@
+{
+  "status": "PASS",
+  "meaning": "delivery and content consistency, not scientific certification",
+  "parent_commit": "513652a7cfe914b6a1a88a599b82d0b94e2d352b",
+  "checks": {
+    "Word_sources_text_matched": true,
+    "v21_layout_pages_individually_inspected": 23,
+    "v20_commented_layout_pages_inspected": 22,
+    "v20_clean_and_commented_layouts_pixel_identical": true,
+    "comments_structural_and_native_count": 12,
+    "historical_parent_paths_unchanged": 409,
+    "historical_raw_bytes_identical": 365,
+    "v20_manifest_all_files_unchanged": true,
+    "CN21_numbered_references": 121,
+    "CN21_claim_and_table_bindings": 123,
+    "revision_groups": 16,
+    "Word_links_checked_per_document": 121,
+    "new_paper_readings": 0,
+    "formal_version_pairs_closed": 0,
+    "English_full_body_updated": false
+  },
+  "delivery_files": [
+    {
+      "path": "D:\\SKT727\\outputs\\constellation_review_word_20261016\\REVIEW_CN_v2.1_中文修订稿.docx",
+      "sha256": "d7fdbacce897a68d65c80e1c38086175e8bfed76e7106c313bc5990983b5e2c7",
+      "bytes": 568208,
+      "source_path": "D:\\SKT727\\outputs\\constellation_review_b00_20261014_repo\\review_writing\\manuscripts\\v2.1-cn\\REVIEW_CN_v2.1.md",
+      "source_sha256": "6bfa024719c1362905098e189f1fb288401a9638b800068d7039434f908df089",
+      "pages_native_Word": 23,
+      "tables": 7,
+      "figures": 2,
+      "references": 121,
+      "comments": 0,
+      "text_matches_corresponding_Markdown": true,
+      "layout_reviewed": true,
+      "human_verified": false
+    },
+    {
+      "path": "D:\\SKT727\\outputs\\constellation_review_word_20261016\\REVIEW_CN_v2.0_批注审阅稿.docx",
+      "sha256": "4ad8e7f07064ae7ab3f07d1d8f460511f789a6a31ae5483c873e8587c890c340",
+      "bytes": 570794,
+      "source_path": "D:\\SKT727\\outputs\\constellation_review_b00_20261014_repo\\review_writing\\manuscripts\\v2.0\\REVIEW_CN_v2.0.md",
+      "source_sha256": "e180dfe60ce19a81f9941ed7ae7d2c88dad2d22e7065c96a9bcbd96537833807",
+      "pages_native_Word": 22,
+      "tables": 7,
+      "figures": 2,
+      "references": 121,
+      "comments": 12,
+      "text_matches_corresponding_Markdown": true,
+      "layout_reviewed": true,
+      "human_verified": false
+    }
+  ],
+  "report": {
+    "path": "D:\\SKT727\\outputs\\constellation_review_word_20261016\\中文稿投稿差距评估_20261016.md",
+    "sha256": "678facacaba9c3bc90a560bcfbbfac96d27068d6d821703f072b8743c6e22852"
+  },
+  "scientific_gate": "HOLD",
+  "submission_gate": "HOLD",
+  "human_verified": false,
+  "submission_ready": false,
+  "writing_lint": {
+    "issues": [
+      {
+        "code": "CONFIDENTIALITY_GATE_NOT_CHECKED",
+        "location": "manifest",
+        "severity": "warning"
+      }
+    ],
+    "status": "pass",
+    "summary": {
+      "errors": 0,
+      "lines_checked": 564,
+      "raw_text_echoed": false,
+      "warnings": 1
+    },
+    "tool": "lint_manuscript"
+  },
+  "package_renderer_default_failure": "LibreOffice not installed; native Word COM converter and PDFium adapter used with packaged render_docx.py; managed package unchanged",
+  "external_scripts": {
+    "build_word.py": "f7f513acae10366ef2e179bb0d0e526ee1b681e30bd1e997f866186fd146ba4f",
+    "build_word_v21.py": "ffe5c8c91f69a8219316694e3434e066e07eb65cdd45a5b3d80f1578e1d9d9ce",
+    "render_word_adapter.py": "bf3df8a770fe29cdba550af5ab93e8f6587af053ba2971b4ef72b8ceb0790423",
+    "render_word_v21.py": "27562f47f1c7cc884fbdf7ba61d81fe38c27a4e64238e7474f850b192d3323ed",
+    "revise_cn_v21.py": "594fadfd0ca79b0be0f5d69a2579bd630f7102772dcae5e3e1566defbfaf18ff",
+    "verify_delivery.py": "2c34e8f6b180942d5ffd31bba1ceaf1ed97c8b1ab54d28faaeb1a28ea09196c4"
+  },
+  "published_to_GitHub": false
+}
