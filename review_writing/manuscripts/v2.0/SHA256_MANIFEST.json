@@ -1,0 +1,161 @@
+{
+  "document_id": "constellation-review-v2.0",
+  "algorithm": "SHA256",
+  "path_base": "repository root",
+  "manifest_self_excluded": true,
+  "self_hash_location": "external V20_LOCAL_COMMIT_RECEIPT.json",
+  "parent_commit": "9f43347e0e098f6020d1e3e7ea332a313eb0d20b",
+  "frozen_commit": "51be6a1326e8c615ea24f80f1887f16a2e7b02fc",
+  "files": [
+    {
+      "path": "review_writing/manuscripts/v2.0/.gitattributes",
+      "bytes": 8,
+      "sha256": "705fd4d6451a31d36b3df7de96f83f30ac976c9b4a6d1e51671d8e2f33e2d0da"
+    },
+    {
+      "path": "review_writing/manuscripts/v2.0/ABSTRACT_ONLY_USE_REGISTER.csv",
+      "bytes": 7818,
+      "sha256": "ef7fdf131ede00cca60be02a90cdd8e3298c8039f5e05ec0fc972521011e4b71"
+    },
+    {
+      "path": "review_writing/manuscripts/v2.0/assets/fig1_cn.svg",
+      "bytes": 5936,
+      "sha256": "bfdf42dd50cabd68960cd771e5f5982b62197db6945afb564e44b4eab9422a78"
+    },
+    {
+      "path": "review_writing/manuscripts/v2.0/assets/fig1_en.svg",
+      "bytes": 6032,
+      "sha256": "cda8ec2ed75627a40a0205956f6ab0d29910d3d4e4a9566077e3b63de0e6266f"
+    },
+    {
+      "path": "review_writing/manuscripts/v2.0/assets/fig2_cn.svg",
+      "bytes": 4865,
+      "sha256": "4b972ef37f868a8a75ccc4e0049bc7a3b224cf2ad6a93314027b9be5d10cfddf"
+    },
+    {
+      "path": "review_writing/manuscripts/v2.0/assets/fig2_en.svg",
+      "bytes": 4960,
+      "sha256": "58b8f6f684c94ecef6b9fa14f3db0dfb10a82b124db5179f578ab234b773c5d6"
+    },
+    {
+      "path": "review_writing/manuscripts/v2.0/AUTHOR_MATERIALS_PENDING.md",
+      "bytes": 1645,
+      "sha256": "114da1f7692a301950e20b27dd4f5a0aa78b7eb3212751f32443b7a436828e78"
+    },
+    {
+      "path": "review_writing/manuscripts/v2.0/BIBLIOGRAPHIC_UPDATE_REGISTER.json",
+      "bytes": 4218,
+      "sha256": "0ee6c4742724e17355c32117459714467ac4130d088b6e4d943c1fee13fce900"
+    },
+    {
+      "path": "review_writing/manuscripts/v2.0/BILINGUAL_ALIGNMENT.json",
+      "bytes": 31944,
+      "sha256": "058744130398cde39e14273090b80be1db5d418c1c459ec0d2888ddd04ef7094"
+    },
+    {
+      "path": "review_writing/manuscripts/v2.0/CHANGES_v1.9_TO_v2.0.diff",
+      "bytes": 105583,
+      "sha256": "84984a19ae906f9e8bbf9ec75ce4c7959a70d3baca08a3970c323d3e9baeac29"
+    },
+    {
+      "path": "review_writing/manuscripts/v2.0/CLAIM_EVIDENCE_REGISTER.csv",
+      "bytes": 93238,
+      "sha256": "ac3d6515efb85e1041f51f91682bab88139127bbc1b526bf26f46dd2a9d0d333"
+    },
+    {
+      "path": "review_writing/manuscripts/v2.0/FIGURE_PROVENANCE.json",
+      "bytes": 2336,
+      "sha256": "23f860334ea446de8daf0b9db85b82cc3a2c7a18f96c543cb552a7e43c51eaa6"
+    },
+    {
+      "path": "review_writing/manuscripts/v2.0/FIRST_CITATION_ORDER_PROPOSAL.csv",
+      "bytes": 4757,
+      "sha256": "c4a751981281f8b2e086340ecac10d479b5ed6b8fe3e6afd6b8385d79561d52a"
+    },
+    {
+      "path": "review_writing/manuscripts/v2.0/INTEGRITY_CHECK.json",
+      "bytes": 94356,
+      "sha256": "f4aa42424c7edf5cab70c0b4e358c37d324c5ade209adbc3e5ea5493b6f3e686"
+    },
+    {
+      "path": "review_writing/manuscripts/v2.0/JOURNAL_POLICY_CHECK.json",
+      "bytes": 1631,
+      "sha256": "bcad8d30ebd11f4cbfe01777b66f949dca28ea6c47e91a41ed5fa5ed8554d518"
+    },
+    {
+      "path": "review_writing/manuscripts/v2.0/PDF_DELIVERY_MANIFEST.json",
+      "bytes": 27012,
+      "sha256": "a1518050a9045beadff072ce7d291f6e2b23888caae86c2eea19e17aabd3c0db"
+    },
+    {
+      "path": "review_writing/manuscripts/v2.0/README.md",
+      "bytes": 3391,
+      "sha256": "7a5611a4c1f4b87efdd5b9f8ad6f25bdcbe9484ad4c4feee313c0e8da861031d"
+    },
+    {
+      "path": "review_writing/manuscripts/v2.0/REVIEW_CN_v2.0.md",
+      "bytes": 87933,
+      "sha256": "e180dfe60ce19a81f9941ed7ae7d2c88dad2d22e7065c96a9bcbd96537833807"
+    },
+    {
+      "path": "review_writing/manuscripts/v2.0/REVIEW_EN_v2.0.md",
+      "bytes": 96877,
+      "sha256": "071db9148f10a1ee71de10b5c00dc27c737615258cd824743da830168b49782e"
+    },
+    {
+      "path": "review_writing/manuscripts/v2.0/REVIEW_METHODS_AND_LIMITS.md",
+      "bytes": 1436,
+      "sha256": "52f728c256e18bc96b080637560c63bd3d22b3dfb84cffdd2247237cb701b8ec"
+    },
+    {
+      "path": "review_writing/manuscripts/v2.0/REVISION_GATE_STATUS_v2.0.json",
+      "bytes": 783,
+      "sha256": "24b08333dc33072286b803f3c2b7998c092cb7e1a2029f5e06c109d695ea226a"
+    },
+    {
+      "path": "review_writing/manuscripts/v2.0/REVISION_METRICS.json",
+      "bytes": 393,
+      "sha256": "dd4671fad151965430d0a36039458e0e284e2ee1f06f2feea133b392f5e883ec"
+    },
+    {
+      "path": "review_writing/manuscripts/v2.0/REVISION_REGISTER.csv",
+      "bytes": 13861,
+      "sha256": "38fb62d0e88ed339d12dc4fa597d34018a8aeb96222ed4f94639be7d08e07055"
+    },
+    {
+      "path": "review_writing/manuscripts/v2.0/REVISION_REPORT_CN.md",
+      "bytes": 2662,
+      "sha256": "4b35913712fdc29323bc061a63e42c2ebc35de583f99058a83624d9a149520b1"
+    },
+    {
+      "path": "review_writing/manuscripts/v2.0/SEARCH_PROVENANCE.json",
+      "bytes": 28190,
+      "sha256": "87fbdd4271bdab7559945b9397b82ec066efe54b9554d2c02defc32e5f079f3d"
+    },
+    {
+      "path": "review_writing/manuscripts/v2.0/SOURCE_MANIFEST_v2.0.json",
+      "bytes": 274109,
+      "sha256": "fd87a4bc567014cb6bcb9cc4b2fe3ea824640974a8e41890c49a897503f9a349"
+    },
+    {
+      "path": "review_writing/manuscripts/v2.0/SOURCE_USE_MAP.csv",
+      "bytes": 95480,
+      "sha256": "a9027df6e3d23b4625eac67f16729a21f4c30c640e4ca182bb08090d3eb5c642"
+    },
+    {
+      "path": "review_writing/manuscripts/v2.0/SUBMISSION_COMPONENTS_DRAFT.md",
+      "bytes": 1354,
+      "sha256": "69fcf9298445a8b6f9bfb369ae49666c5e10c0401b5de7c8f76ac44b8d429f87"
+    },
+    {
+      "path": "review_writing/manuscripts/v2.0/SUBMISSION_READINESS.md",
+      "bytes": 2646,
+      "sha256": "2c602fa1dcb0ba1cf870417cd6d137097b82521956e0ae1ee11820b5014dbb07"
+    },
+    {
+      "path": "review_writing/manuscripts/v2.0/WRITING_CHECK_REPORT.json",
+      "bytes": 1887,
+      "sha256": "c4e737872ab11767b621aacb88154efd3daca869ccc82c402168956d006bc9ad"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "writing_revision_complete": true,
+  "manuscript_languages": [
+    "CN",
+    "EN"
+  ],
+  "full_English_body_synchronized": true,
+  "bibliography_English_metadata_complete": false,
+  "evidence_gate": "HOLD",
+  "submission_gate": "HOLD",
+  "submission_ready": false,
+  "human_verified": false,
+  "new_papers_read": 0,
+  "academic_targeted_count_unchanged": 77,
+  "academic_remaining_unchanged": 34,
+  "frozen_v19_modified": false,
+  "historical_audits_modified": false,
+  "publisher_guides_fully_read": false,
+  "author_materials_approved": false,
+  "external_manuscript_upload": false,
+  "submitted": false,
+  "pushed": false,
+  "official_English_titles_and_names_frontmatter_checked_refs": [
+    7,
+    8
+  ],
+  "bibliography_terminal_metadata_and_journal_style_pending": true
+}

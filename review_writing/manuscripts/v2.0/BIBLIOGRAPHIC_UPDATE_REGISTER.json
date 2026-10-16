@@ -1,0 +1,64 @@
+{
+  "scope": "English bibliography front matter only; no new paper-body reading",
+  "CN_reference_block_unchanged": true,
+  "identities_numbers_and_DOIs_unchanged": true,
+  "records": [
+    {
+      "reference_number": 7,
+      "doi": "10.7527/S1000-6893.2026.32935",
+      "English_title": "A Survey of Intelligent Networking Technologies for LEO Mega-Constellations",
+      "English_authors": [
+        "GONG Lizeng",
+        "ZHANG Wenlong",
+        "CHEN Quan",
+        "YANG Lei",
+        "YAO Wen"
+      ],
+      "venue": "Acta Aeronautica et Astronautica Sinica",
+      "PDF_path": "D:\\SKT727\\materials\\constellation_review_B04_20261015\\007_extra.pdf",
+      "frontmatter_page_actually_inspected": 21,
+      "total_pages": 21,
+      "url": "https://hkxb.buaa.edu.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=21249",
+      "bibliography": "7. GONG Lizeng; ZHANG Wenlong; CHEN Quan; YANG Lei; YAO Wen. A Survey of Intelligent Networking Technologies for LEO Mega-Constellations. Acta Aeronautica et Astronautica Sinica, 2026, network-first version; final publication metadata pending (in Chinese). DOI: 10.7527/S1000-6893.2026.32935. [Source](https://doi.org/10.7527/S1000-6893.2026.32935)",
+      "remaining_metadata": "Publisher PDF header gives 2025,46(No.X), citation template gives 2026,46(13):532935, and acceptance date is 2026-02-04. Terminal publication and online date remain unresolved. No final issue/pages inferred from template.",
+      "previous_EN_bibliography": "7. 龚李赠; 张文龙; 陈全; 等. 低轨巨型星座智能组网技术综述. 航空学报, 2026; online 23 March 2026. DOI: 10.7527/S1000-6893.2026.32935. [Source](https://doi.org/10.7527/S1000-6893.2026.32935)",
+      "PDF_sha256": "7d8e18e99dec024c56315c7a166cd3e1055d2207ac14ff3cf0ae554c201b76ee",
+      "PDF_bytes": 1108650,
+      "frontmatter_render_path": "D:\\SKT727\\materials\\constellation_review_v2_0_20261016\\007_bibliography_frontmatter.png",
+      "render_sha256": "b8466a211d54473fac9680264124da65bf6b49a0df8a839f87ff6b238606fc33",
+      "AI_frontmatter_visual_check": true,
+      "human_verified": false,
+      "body_reading_increment": 0,
+      "historical_records_changed": false
+    },
+    {
+      "reference_number": 8,
+      "doi": "10.3873/j.issn.1000-1328.2026.02.002",
+      "English_title": "Review on Resource Management and Optimization Technologies for LEO Communication Satellite Constellation Networks",
+      "English_authors": [
+        "DI Hang",
+        "DONG Tao",
+        "LIU Zhihui",
+        "WEI Shuotong",
+        "ZHANG Dingyun"
+      ],
+      "venue": "Journal of Astronautics",
+      "PDF_path": "D:\\SKT727\\materials\\constellation_review_B04_20261015\\008_extra.pdf",
+      "frontmatter_page_actually_inspected": 1,
+      "total_pages": 14,
+      "url": "https://www.spacejournal.cn/yhxb/cn/article/pdf/preview/10.3873/j.issn.1000-1328.2026.02.002.pdf",
+      "bibliography": "8. DI Hang; DONG Tao; LIU Zhihui; WEI Shuotong; ZHANG Dingyun. Review on Resource Management and Optimization Technologies for LEO Communication Satellite Constellation Networks. Journal of Astronautics, 2026, 47(2): 270–283 (in Chinese). DOI: 10.3873/j.issn.1000-1328.2026.02.002. [Source](https://doi.org/10.3873/j.issn.1000-1328.2026.02.002)",
+      "remaining_metadata": "Final author style and reference formatting await target-journal selection; no new body reading claimed.",
+      "previous_EN_bibliography": "8. 邸航; 董涛; 刘志慧; 等. 低轨通信卫星星座网络资源管控与优化技术综述. 宇航学报, 2026, 47(2): 270–283. DOI: 10.3873/j.issn.1000-1328.2026.02.002. [Source](https://doi.org/10.3873/j.issn.1000-1328.2026.02.002)",
+      "PDF_sha256": "59a764b80a0297fc58ca826c660bf90dc48b0d08bfd18b79b8fc140dc770ba0b",
+      "PDF_bytes": 1668310,
+      "frontmatter_render_path": "D:\\SKT727\\materials\\constellation_review_v2_0_20261016\\008_bibliography_frontmatter.png",
+      "render_sha256": "8c9f1dedf482ce51ff4bf70c12dc5f1d2cf23bf89d6011578d54639a62b56bbf",
+      "AI_frontmatter_visual_check": true,
+      "human_verified": false,
+      "body_reading_increment": 0,
+      "historical_records_changed": false
+    }
+  ],
+  "human_verified": false
+}

@@ -1,0 +1,983 @@
+{
+  "aligned_cited_blocks": [
+    {
+      "pair_id": "P001",
+      "CN_block_sha256": "a3898106ab66ab79c63fdffc371b782688a4a915e8d56132e54d34d64a592cfb",
+      "EN_block_sha256": "73ae7a237c5f5f5a10e22301906d96e4e2a91b59f84f781f30c48859cf6406d2",
+      "citation_sequence": [
+        "1"
+      ],
+      "citation_sequence_match": true,
+      "translation_status": "AI_translated_and_compared_not_human_final",
+      "human_verified": false
+    },
+    {
+      "pair_id": "P002",
+      "CN_block_sha256": "fccf5aa316905c3499377a6c892b5204fa5393ea520e48dbf6cd5dd63eb8bb96",
+      "EN_block_sha256": "82cd87c00a0311a953b9e021126cb501210d8321d8a7fd4a99d92fb8aa0e5089",
+      "citation_sequence": [
+        "2"
+      ],
+      "citation_sequence_match": true,
+      "translation_status": "AI_translated_and_compared_not_human_final",
+      "human_verified": false
+    },
+    {
+      "pair_id": "P003",
+      "CN_block_sha256": "5c7d3cc836e267f2f7fb1f5e657cdd3c8b5caa9e0a6167b36edb2b3c0fd61508",
+      "EN_block_sha256": "721762064b97c34ef64089a35adfa81f46326d85756535211e4452ecf2159772",
+      "citation_sequence": [
+        "3",
+        "4",
+        "5",
+        "1",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "citation_sequence_match": true,
+      "translation_status": "AI_translated_and_compared_not_human_final",
+      "human_verified": false
+    },
+    {
+      "pair_id": "P004",
+      "CN_block_sha256": "fff57d28b52e1c42737e40c2a4c770090ae2b781322e96402f850fc344e0634b",
+      "EN_block_sha256": "8f9017b38363cb4e62256430b9fd59bead69283e6dd66440fb5e8e8edb22be91",
+      "citation_sequence": [
+        "3",
+        "4",
+        "5",
+        "1",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "citation_sequence_match": true,
+      "translation_status": "AI_translated_and_compared_not_human_final",
+      "human_verified": false
+    },
+    {
+      "pair_id": "P005",
+      "CN_block_sha256": "171d8cd17cf23ba461032195e9582eb681ec5d26bad3c02c506c6406c8346eb0",
+      "EN_block_sha256": "974185a4508cbc03e9bfe18f75b0e7aa45eb50e50522df94eb97ef024b33b99e",
+      "citation_sequence": [
+        "52",
+        "106",
+        "121"
+      ],
+      "citation_sequence_match": true,
+      "translation_status": "AI_translated_and_compared_not_human_final",
+      "human_verified": false
+    },
+    {
+      "pair_id": "P006",
+      "CN_block_sha256": "7d4a22ea5392877ec98352d32915f5a460d481f256bd0017e13f8574f8db4a06",
+      "EN_block_sha256": "2a94f1b99d4de811c4c8a214fd59a7c8316abc0c3da3343ef90aaaab3336cff8",
+      "citation_sequence": [
+        "10",
+        "34",
+        "35"
+      ],
+      "citation_sequence_match": true,
+      "translation_status": "AI_translated_and_compared_not_human_final",
+      "human_verified": false
+    },
+    {
+      "pair_id": "P007",
+      "CN_block_sha256": "876d4aa096d3dd72c6fd31708db6ac47045c7c41746271bc006cf171c4f23bc0",
+      "EN_block_sha256": "7e6522f8e14318225cb5fbe9903b0f025e763d1e091b038e3210aece0e98a586",
+      "citation_sequence": [
+        "42",
+        "44"
+      ],
+      "citation_sequence_match": true,
+      "translation_status": "AI_translated_and_compared_not_human_final",
+      "human_verified": false
+    },
+    {
+      "pair_id": "P008",
+      "CN_block_sha256": "d02992c615cff94c6c5312f548249d6543d43e89e1e3608188cb93bdd68f4f1f",
+      "EN_block_sha256": "2a524b4858b2ffff571c7483d0521e1682b3b95e9217d820604999991454837b",
+      "citation_sequence": [
+        "11",
+        "12",
+        "13",
+        "14",
+        "15"
+      ],
+      "citation_sequence_match": true,
+      "translation_status": "AI_translated_and_compared_not_human_final",
+      "human_verified": false
+    },
+    {
+      "pair_id": "P009",
+      "CN_block_sha256": "54a977ae103aefc593a8db48d6a3654f8cdaefaae3216f865225f02f522a587b",
+      "EN_block_sha256": "11d352bb7e6a22754d77d10e2f68dc3bbd956ea49ab8eec07df8841ceb8d6ef1",
+      "citation_sequence": [
+        "16",
+        "17"
+      ],
+      "citation_sequence_match": true,
+      "translation_status": "AI_translated_and_compared_not_human_final",
+      "human_verified": false
+    },
+    {
+      "pair_id": "P010",
+      "CN_block_sha256": "4d51e47d46a8383030927ae04362b83d45e48f622c90b6376f99c06113fa4e8d",
+      "EN_block_sha256": "9bba43b83ac919df03f529c0c3656afb59be266e19cd604234e1f39f7804e340",
+      "citation_sequence": [
+        "18",
+        "19",
+        "20",
+        "21"
+      ],
+      "citation_sequence_match": true,
+      "translation_status": "AI_translated_and_compared_not_human_final",
+      "human_verified": false
+    },
+    {
+      "pair_id": "P011",
+      "CN_block_sha256": "4a7a1f6bebe2e5a6b9ccc034352ba5384750ab42f5b3a1fc49cdabb66fbcef78",
+      "EN_block_sha256": "cfa216fda7c1773bfabb321ca00e8610e6594fa4120ffaf64e7189c9ff95a056",
+      "citation_sequence": [
+        "23"
+      ],
+      "citation_sequence_match": true,
+      "translation_status": "AI_translated_and_compared_not_human_final",
+      "human_verified": false
+    },
+    {
+      "pair_id": "P012",
+      "CN_block_sha256": "1c6072d7249581681cb8ed1a320180669e7a8b9b1e4c223f3e21b7ebd8854a0e",
+      "EN_block_sha256": "22e5fb4fca0efda67afb2fa13ddb113271e482668eb8c341370d9effbcb00dd5",
+      "citation_sequence": [
+        "22"
+      ],
+      "citation_sequence_match": true,
+      "translation_status": "AI_translated_and_compared_not_human_final",
+      "human_verified": false
+    },
+    {
+      "pair_id": "P013",
+      "CN_block_sha256": "b8fa2475fe81eb7a2fd2b1338fb82180ae719869283f97ab8225b7e61aaeda74",
+      "EN_block_sha256": "444014258a1cbda80411ae4f6884af7a27cafab2d7cb7bfa051e06793fde46d9",
+      "citation_sequence": [
+        "24",
+        "25",
+        "26",
+        "27",
+        "28",
+        "29"
+      ],
+      "citation_sequence_match": true,
+      "translation_status": "AI_translated_and_compared_not_human_final",
+      "human_verified": false
+    },
+    {
+      "pair_id": "P014",
+      "CN_block_sha256": "5fc389b3e6d616e39bda6340d4aa995aff31a9cb8cc863ed764da38b68989baf",
+      "EN_block_sha256": "a7a5bac9ec5cc9e969aa8cb02232ae41a41aee436a80c78e5422f05f1f3a4cf2",
+      "citation_sequence": [
+        "27",
+        "28"
+      ],
+      "citation_sequence_match": true,
+      "translation_status": "AI_translated_and_compared_not_human_final",
+      "human_verified": false
+    },
+    {
+      "pair_id": "P015",
+      "CN_block_sha256": "297313cdc3cb696c4a700625294e3e0e8d65c59b12be6499f9525b50c7cb50ad",
+      "EN_block_sha256": "5935174699b332ee9649b24f123fce6f4def92d34c025af0274925f70e9e298d",
+      "citation_sequence": [
+        "30",
+        "31",
+        "32",
+        "33"
+      ],
+      "citation_sequence_match": true,
+      "translation_status": "AI_translated_and_compared_not_human_final",
+      "human_verified": false
+    },
+    {
+      "pair_id": "P016",
+      "CN_block_sha256": "288cae14dbca0a4649dbda9faa3fb8afbb9c52c22b4c53b0ef5afe5ffe17488c",
+      "EN_block_sha256": "5f61388a96b6fe0149e5a52df32ccc09507d2570c65c9b2b1475acfdfaf01003",
+      "citation_sequence": [
+        "34",
+        "35"
+      ],
+      "citation_sequence_match": true,
+      "translation_status": "AI_translated_and_compared_not_human_final",
+      "human_verified": false
+    },
+    {
+      "pair_id": "P017",
+      "CN_block_sha256": "6d4e54bbbf2819c861edfdbdbf76709c6f1817e44779eb3b0e2cf2f3fcb031ef",
+      "EN_block_sha256": "85efdf8b79a227c39506e4776fb4ee1b2af9b8bfe7b130968a684cfe28d83446",
+      "citation_sequence": [
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "citation_sequence_match": true,
+      "translation_status": "AI_translated_and_compared_not_human_final",
+      "human_verified": false
+    },
+    {
+      "pair_id": "P018",
+      "CN_block_sha256": "3bc11bd1e6b9febd89a3b43d4493a0a4a0ff9acba1c55311c5f437d8bd50c6a6",
+      "EN_block_sha256": "5d86648c776de6529609c40dd8f65bdc6338c06b5cbbc45b05fc8dfd46462f9b",
+      "citation_sequence": [
+        "42"
+      ],
+      "citation_sequence_match": true,
+      "translation_status": "AI_translated_and_compared_not_human_final",
+      "human_verified": false
+    },
+    {
+      "pair_id": "P019",
+      "CN_block_sha256": "304876b8772527a6bb2a4451d84bae5673c91d0f9253fece74738efbb6539b90",
+      "EN_block_sha256": "c6685262fa151e05703d36ce80cb431f79c6a675ac8e1aafed0782380818b2a6",
+      "citation_sequence": [
+        "44",
+        "43",
+        "45"
+      ],
+      "citation_sequence_match": true,
+      "translation_status": "AI_translated_and_compared_not_human_final",
+      "human_verified": false
+    },
+    {
+      "pair_id": "P020",
+      "CN_block_sha256": "154c9b5f123800488d95d29da8226f57789d9fa6adfee0801084a3d17ec84413",
+      "EN_block_sha256": "aa433b0e9fe2c635d4d243f9ff506701eff643ad097a3ef2168438cb21411dc3",
+      "citation_sequence": [
+        "46",
+        "47",
+        "48",
+        "49",
+        "50",
+        "51",
+        "52"
+      ],
+      "citation_sequence_match": true,
+      "translation_status": "AI_translated_and_compared_not_human_final",
+      "human_verified": false
+    },
+    {
+      "pair_id": "P021",
+      "CN_block_sha256": "e81a4ca138778fd8a18ac7bf69082c3917bd523c8653ba4ff36b16b1756a0699",
+      "EN_block_sha256": "1d88fc422f4a1a7ba402c5bc2d3e6d99f75a9910a26a7465be003c6241ec52d2",
+      "citation_sequence": [
+        "53"
+      ],
+      "citation_sequence_match": true,
+      "translation_status": "AI_translated_and_compared_not_human_final",
+      "human_verified": false
+    },
+    {
+      "pair_id": "P022",
+      "CN_block_sha256": "5db2d04a8263dd0f1a62f0708aaf244fad5de215c0b6fb0fac18a18fb486c193",
+      "EN_block_sha256": "c5465ae7e70e85fe7f4597652bcd9e7bbcd27b9ad02df8ece51eb3412d70818c",
+      "citation_sequence": [
+        "54",
+        "55",
+        "56",
+        "57",
+        "58"
+      ],
+      "citation_sequence_match": true,
+      "translation_status": "AI_translated_and_compared_not_human_final",
+      "human_verified": false
+    },
+    {
+      "pair_id": "P023",
+      "CN_block_sha256": "fed5319ae1db3f48ea3bb2ad2feb301f4eec1110801f2ce32c0618bc972c24e8",
+      "EN_block_sha256": "747efe3f8da544193afa9bf5c8899cc7c64b154b427ea03931c2a44f3675e2f5",
+      "citation_sequence": [
+        "59",
+        "63",
+        "64",
+        "60",
+        "61",
+        "62",
+        "61",
+        "62"
+      ],
+      "citation_sequence_match": true,
+      "translation_status": "AI_translated_and_compared_not_human_final",
+      "human_verified": false
+    },
+    {
+      "pair_id": "P024",
+      "CN_block_sha256": "3d520aa32dd5ef93cb551c9a988a16e6ca972764684df47ff28e56bc6b08da83",
+      "EN_block_sha256": "e37e20b425c45987d840c8de24b77120cb28bbeeb77f7eebbb8ce4072483d770",
+      "citation_sequence": [
+        "63",
+        "65",
+        "66"
+      ],
+      "citation_sequence_match": true,
+      "translation_status": "AI_translated_and_compared_not_human_final",
+      "human_verified": false
+    },
+    {
+      "pair_id": "P025",
+      "CN_block_sha256": "a0abb98997c98c52fcee65bc219d85cf046c770c2bd4f5d34cfb9ac7b6d451c9",
+      "EN_block_sha256": "e54a74ba19963d269099910e35ee4938bc504de388ff531b8397dcb41ad2f0ac",
+      "citation_sequence": [
+        "67",
+        "68",
+        "69",
+        "70"
+      ],
+      "citation_sequence_match": true,
+      "translation_status": "AI_translated_and_compared_not_human_final",
+      "human_verified": false
+    },
+    {
+      "pair_id": "P026",
+      "CN_block_sha256": "787f261fec8eb6cea9b77f9b48826312ecff09a7112a1b37a38687794bcfa411",
+      "EN_block_sha256": "c31d1b129da64eaf2667afb63e04a383bbda7d50a6df28ce6b41c47ca318677a",
+      "citation_sequence": [
+        "72",
+        "71",
+        "72"
+      ],
+      "citation_sequence_match": true,
+      "translation_status": "AI_translated_and_compared_not_human_final",
+      "human_verified": false
+    },
+    {
+      "pair_id": "P027",
+      "CN_block_sha256": "94f83a039be57fe9c457e04b453bc9e326e0daea7ee2457db36632621b1ec3b1",
+      "EN_block_sha256": "9034c766db26051dbaaf224a419a0cd972a5e4d130970bb6ebdad6d079b7476e",
+      "citation_sequence": [
+        "31",
+        "32",
+        "33",
+        "34",
+        "35",
+        "37",
+        "38",
+        "41",
+        "42",
+        "44",
+        "53",
+        "57",
+        "58",
+        "65",
+        "66",
+        "71",
+        "72"
+      ],
+      "citation_sequence_match": true,
+      "translation_status": "AI_translated_and_compared_not_human_final",
+      "human_verified": false
+    },
+    {
+      "pair_id": "P028",
+      "CN_block_sha256": "dd819107d5fc632f1b8ef05d02b4d09415cc15ce56fab61b66233f35862021ee",
+      "EN_block_sha256": "be52deeef8a19b76a3380a65a2e2463a154b122e3a35fc3cc3663b4e9c8be8c9",
+      "citation_sequence": [
+        "73"
+      ],
+      "citation_sequence_match": true,
+      "translation_status": "AI_translated_and_compared_not_human_final",
+      "human_verified": false
+    },
+    {
+      "pair_id": "P029",
+      "CN_block_sha256": "4eb2f33cce7724cbeb32608828f33a9c4d1ab9436f5746eb1566e25e0784e94c",
+      "EN_block_sha256": "75513c7fa86e7e8eac3228882135fa1ed0de55e76a87750efec0b5ccabd684e4",
+      "citation_sequence": [
+        "74"
+      ],
+      "citation_sequence_match": true,
+      "translation_status": "AI_translated_and_compared_not_human_final",
+      "human_verified": false
+    },
+    {
+      "pair_id": "P030",
+      "CN_block_sha256": "8734905d14857a5a033d7ea42c227e285428f2b522d51cb66b2ecdf33542b915",
+      "EN_block_sha256": "98c1e00c34a5305bf6467c1d201552e5f91f805f9c2f09840b0b6a6b069058dc",
+      "citation_sequence": [
+        "75",
+        "76",
+        "74"
+      ],
+      "citation_sequence_match": true,
+      "translation_status": "AI_translated_and_compared_not_human_final",
+      "human_verified": false
+    },
+    {
+      "pair_id": "P031",
+      "CN_block_sha256": "3295383070fdbe430326fb2be80f4dcf37038c80bc30b80f23a22ae6a75d6551",
+      "EN_block_sha256": "7a4bb9463d13797707e70ca52bb93d14633b7894f46d4ae2c2ef31e6a3a0a8bf",
+      "citation_sequence": [
+        "77"
+      ],
+      "citation_sequence_match": true,
+      "translation_status": "AI_translated_and_compared_not_human_final",
+      "human_verified": false
+    },
+    {
+      "pair_id": "P032",
+      "CN_block_sha256": "dce95ce16b0f2fc168f25d4c3d015396dc8970f0161e124a674c5bec27aad370",
+      "EN_block_sha256": "87dcb0b4071aaea212a70e034032a38f3a0cf8fc896d1aa0ddfd27d8e707918b",
+      "citation_sequence": [
+        "78"
+      ],
+      "citation_sequence_match": true,
+      "translation_status": "AI_translated_and_compared_not_human_final",
+      "human_verified": false
+    },
+    {
+      "pair_id": "P033",
+      "CN_block_sha256": "20f12af5906ca24351a1c537778ba2c3a2f60b03b62f4b8f91e2c152e3dbf251",
+      "EN_block_sha256": "d5224a8e1009f7eb230bde4a0e22ea9f56b6b139e54269734ffc539ba81f622b",
+      "citation_sequence": [
+        "79",
+        "80",
+        "121"
+      ],
+      "citation_sequence_match": true,
+      "translation_status": "AI_translated_and_compared_not_human_final",
+      "human_verified": false
+    },
+    {
+      "pair_id": "P034",
+      "CN_block_sha256": "324caf94e9bfc181f816560f78357ddf9e220bf3d4c8eb5f755ea702af0e0319",
+      "EN_block_sha256": "8c5011fdc929e906a58e1a784ac961742ab2b6eceb8965c5ed6c384d7fc23c17",
+      "citation_sequence": [
+        "121"
+      ],
+      "citation_sequence_match": true,
+      "translation_status": "AI_translated_and_compared_not_human_final",
+      "human_verified": false
+    },
+    {
+      "pair_id": "P035",
+      "CN_block_sha256": "cddd55019d19e5fdb86e3505e76afb138309afe9906391a64221ad450deb761f",
+      "EN_block_sha256": "a1ad04c0ea43e7264720f89353dbb9c2bd91099682f6856f0339251687a6dd0d",
+      "citation_sequence": [
+        "81"
+      ],
+      "citation_sequence_match": true,
+      "translation_status": "AI_translated_and_compared_not_human_final",
+      "human_verified": false
+    },
+    {
+      "pair_id": "P036",
+      "CN_block_sha256": "8b1addc2285ddf875fcf188737981d9f74651c4ee34a7bfec269385c01cfe4a0",
+      "EN_block_sha256": "6050eb09a3c4b59937bb1a3e13c598b9db813f53434533be2af9bcdc260f87bd",
+      "citation_sequence": [
+        "73",
+        "74",
+        "75",
+        "76",
+        "77",
+        "78",
+        "79",
+        "80",
+        "121",
+        "81"
+      ],
+      "citation_sequence_match": true,
+      "translation_status": "AI_translated_and_compared_not_human_final",
+      "human_verified": false
+    },
+    {
+      "pair_id": "P037",
+      "CN_block_sha256": "d6e3d353fff2bd79fb93fc2a8f2b27f598e18c414e042de308a057d9f235a6cf",
+      "EN_block_sha256": "4f79532527f5414d8868bafa08c8004f09c10686c6965b10ca8328dc39acf5a8",
+      "citation_sequence": [
+        "82",
+        "84",
+        "83"
+      ],
+      "citation_sequence_match": true,
+      "translation_status": "AI_translated_and_compared_not_human_final",
+      "human_verified": false
+    },
+    {
+      "pair_id": "P038",
+      "CN_block_sha256": "11ec820fa7d39546013355777e62282f366edec802e9c3b79abc258c5080dc6b",
+      "EN_block_sha256": "4f8f17b1a1b882bbbe3d3b65f2f44ee899df5b48f06d3aff8b3dbf9ed8727db9",
+      "citation_sequence": [
+        "87",
+        "86",
+        "85",
+        "88",
+        "89"
+      ],
+      "citation_sequence_match": true,
+      "translation_status": "AI_translated_and_compared_not_human_final",
+      "human_verified": false
+    },
+    {
+      "pair_id": "P039",
+      "CN_block_sha256": "93be44de497ec222fa80de6d000fbf9e647ca102364558d83d872dcd02f42ea7",
+      "EN_block_sha256": "88a94a3e42d8fd2437d4a1fef39677c808217516c44fa214d68b337fd0d339c0",
+      "citation_sequence": [
+        "90",
+        "91",
+        "92",
+        "93",
+        "94",
+        "95"
+      ],
+      "citation_sequence_match": true,
+      "translation_status": "AI_translated_and_compared_not_human_final",
+      "human_verified": false
+    },
+    {
+      "pair_id": "P040",
+      "CN_block_sha256": "04b9e0c35351ef3e12e49dbe776bfe7a0624771676678e5b2d7c9e55d8dd8c53",
+      "EN_block_sha256": "f24c5db43e84b08b6170ac84f5db53b20c313245652f47f634de85a5816a0acc",
+      "citation_sequence": [
+        "91",
+        "92",
+        "93",
+        "95"
+      ],
+      "citation_sequence_match": true,
+      "translation_status": "AI_translated_and_compared_not_human_final",
+      "human_verified": false
+    },
+    {
+      "pair_id": "P041",
+      "CN_block_sha256": "68522ea35a0109ea6488bb5a1df54cc8ae88792a834e69fb86d2f61a719e9374",
+      "EN_block_sha256": "95cb7c410ff57c8e83b5e60060fcb9ac24b25175c07bfe1d52184c595fb6cc9f",
+      "citation_sequence": [
+        "96"
+      ],
+      "citation_sequence_match": true,
+      "translation_status": "AI_translated_and_compared_not_human_final",
+      "human_verified": false
+    },
+    {
+      "pair_id": "P042",
+      "CN_block_sha256": "e45da8c11c117a6e7fbe7e1789538edc57d031a60ec6d43578c7c6443d5df07b",
+      "EN_block_sha256": "b3fc66134e3848d8ac2ebe1f65017fd720d0e6a24a9d9eb384d660d48cb0b2a3",
+      "citation_sequence": [
+        "97"
+      ],
+      "citation_sequence_match": true,
+      "translation_status": "AI_translated_and_compared_not_human_final",
+      "human_verified": false
+    },
+    {
+      "pair_id": "P043",
+      "CN_block_sha256": "2a20c5752e81461faf1cee9b7a078c3d0a38a361a1c9d401b91c090c43338b5e",
+      "EN_block_sha256": "9c04cd4fa974d092430233cdcb83b419b7ed3ae31013dc1cf46d2c27de81cfed",
+      "citation_sequence": [
+        "98",
+        "99",
+        "100",
+        "101"
+      ],
+      "citation_sequence_match": true,
+      "translation_status": "AI_translated_and_compared_not_human_final",
+      "human_verified": false
+    },
+    {
+      "pair_id": "P044",
+      "CN_block_sha256": "b8151a65864fd586b3f8f6dd437cd1902bcbd2b2130febe28dae57a39e38d809",
+      "EN_block_sha256": "6d45e2f34ee7af666bc19d0ff20a6088231b70b3f9457e258f99552b8813f3da",
+      "citation_sequence": [
+        "102",
+        "103",
+        "104"
+      ],
+      "citation_sequence_match": true,
+      "translation_status": "AI_translated_and_compared_not_human_final",
+      "human_verified": false
+    },
+    {
+      "pair_id": "P045",
+      "CN_block_sha256": "f0053241cd37974dc44f46bc74d66de1324852defdf6fce44d3f3b5239476c3b",
+      "EN_block_sha256": "c6f0d5459297642c6d977930ab57dec13bf131f4a30673b6689ccc069ecabdff",
+      "citation_sequence": [
+        "82",
+        "84",
+        "83",
+        "85",
+        "87",
+        "90",
+        "91",
+        "92",
+        "93",
+        "94",
+        "95",
+        "96",
+        "98",
+        "99",
+        "100",
+        "101",
+        "102",
+        "103",
+        "104"
+      ],
+      "citation_sequence_match": true,
+      "translation_status": "AI_translated_and_compared_not_human_final",
+      "human_verified": false
+    },
+    {
+      "pair_id": "P046",
+      "CN_block_sha256": "a62c747faf4f8bdab1669481c631e18890cdc202735454c2d9708aabde29b726",
+      "EN_block_sha256": "a87cd500da9f7fe310a7beb60679c503145e4686ff40f84576af672dacdfd2c2",
+      "citation_sequence": [
+        "6",
+        "105",
+        "106",
+        "42",
+        "44",
+        "53"
+      ],
+      "citation_sequence_match": true,
+      "translation_status": "AI_translated_and_compared_not_human_final",
+      "human_verified": false
+    },
+    {
+      "pair_id": "P047",
+      "CN_block_sha256": "cb1ba70fc8557cae2824cf35c1edbc1d2ec84c2288f539035701a989529e8c10",
+      "EN_block_sha256": "bb4cc00dea90c868c557fc901648219d774b5233962778b9861448402e45c396",
+      "citation_sequence": [
+        "106"
+      ],
+      "citation_sequence_match": true,
+      "translation_status": "AI_translated_and_compared_not_human_final",
+      "human_verified": false
+    },
+    {
+      "pair_id": "P048",
+      "CN_block_sha256": "132504036755b71db4735b1df7209d3565f03da523399d06e8f6bd50a552d19a",
+      "EN_block_sha256": "fcf5aa006865ce7aa05df7d2984f26c633b11a40afbacb0325ea9eec2f58a5c8",
+      "citation_sequence": [
+        "42",
+        "44",
+        "106",
+        "53",
+        "9",
+        "107",
+        "111"
+      ],
+      "citation_sequence_match": true,
+      "translation_status": "AI_translated_and_compared_not_human_final",
+      "human_verified": false
+    },
+    {
+      "pair_id": "P049",
+      "CN_block_sha256": "d3cee0fa747808b70a419cc52ef8bb14f2d5b942e2ebc1a12b46f2c5a3a9abbf",
+      "EN_block_sha256": "1d92fbaf33a652943f03e183be90da02b7bf593c541854cb5ba1dba201636061",
+      "citation_sequence": [
+        "9",
+        "81"
+      ],
+      "citation_sequence_match": true,
+      "translation_status": "AI_translated_and_compared_not_human_final",
+      "human_verified": false
+    },
+    {
+      "pair_id": "P050",
+      "CN_block_sha256": "7c5c0eae80211657c08d912013084db4be6e03ac671ba40fd7205fa826584e04",
+      "EN_block_sha256": "139ae621749cc1dafcda745407b80128768d855e0aff011ef077b4e5e6b158da",
+      "citation_sequence": [
+        "107"
+      ],
+      "citation_sequence_match": true,
+      "translation_status": "AI_translated_and_compared_not_human_final",
+      "human_verified": false
+    },
+    {
+      "pair_id": "P051",
+      "CN_block_sha256": "02f569088ea571c71f49b0128d5072805812c4093391d97a1defb936269d15a0",
+      "EN_block_sha256": "ec7879c32f1e578c5bbb71ad25f0ef7f5118c086ca477d1630db40a03cd59104",
+      "citation_sequence": [
+        "108",
+        "109",
+        "110",
+        "111",
+        "112",
+        "113"
+      ],
+      "citation_sequence_match": true,
+      "translation_status": "AI_translated_and_compared_not_human_final",
+      "human_verified": false
+    },
+    {
+      "pair_id": "P052",
+      "CN_block_sha256": "50df9a920688dbdc05c18fab2a9507d310cd71fb5281a388c7a27e6a1dcdd193",
+      "EN_block_sha256": "997cf574b7ec91a9d9593e244042cb24fc71f7eec84e432ce6ef4cc8a8fb94f6",
+      "citation_sequence": [
+        "114",
+        "115",
+        "116",
+        "117"
+      ],
+      "citation_sequence_match": true,
+      "translation_status": "AI_translated_and_compared_not_human_final",
+      "human_verified": false
+    },
+    {
+      "pair_id": "P053",
+      "CN_block_sha256": "de59514361f7e74f5cc902973438719d3ffb9b99362f5c0af3016f9c0ab0add9",
+      "EN_block_sha256": "254788e015cf7c53633ce94b2493ee5427958b21d78e2775de3a5306f2f700a2",
+      "citation_sequence": [
+        "42",
+        "44",
+        "71",
+        "72",
+        "34",
+        "35"
+      ],
+      "citation_sequence_match": true,
+      "translation_status": "AI_translated_and_compared_not_human_final",
+      "human_verified": false
+    },
+    {
+      "pair_id": "P054",
+      "CN_block_sha256": "984d2c1b0025374c07eaa6b362e0896e58eb353877d3a3b4503b4a1188275ad3",
+      "EN_block_sha256": "ebfb6acdd30241be827ad352b40c73447f2faa060f38d8d3794da49f3ee5975a",
+      "citation_sequence": [
+        "28",
+        "48",
+        "62",
+        "25"
+      ],
+      "citation_sequence_match": true,
+      "translation_status": "AI_translated_and_compared_not_human_final",
+      "human_verified": false
+    },
+    {
+      "pair_id": "P055",
+      "CN_block_sha256": "7813f2e72feadb5c4332fd73745e513ddb601ac3e4a91d13a21d0c409aae30c6",
+      "EN_block_sha256": "577f58e804a8daaf6aafcc606c4d3ab127c7d528baff8740d7d518ef3cc875d6",
+      "citation_sequence": [
+        "72",
+        "65",
+        "49",
+        "121"
+      ],
+      "citation_sequence_match": true,
+      "translation_status": "AI_translated_and_compared_not_human_final",
+      "human_verified": false
+    },
+    {
+      "pair_id": "P056",
+      "CN_block_sha256": "bf62aa5466afc34eeee3979fb317ab5599aa730b6e586311d5f0b9b3b8e83130",
+      "EN_block_sha256": "b6a5f30227a821c55b7c8698c89ba81daa5c383de73e31435d316b095feb4f11",
+      "citation_sequence": [
+        "42",
+        "106",
+        "53"
+      ],
+      "citation_sequence_match": true,
+      "translation_status": "AI_translated_and_compared_not_human_final",
+      "human_verified": false
+    },
+    {
+      "pair_id": "P057",
+      "CN_block_sha256": "57e8b36b696dff6effe151c9ac10da66a2f785a781175011790baa8bf0103ec6",
+      "EN_block_sha256": "530a9e314cdb5582f3558ae7352ff0df2e9433b6b7f345716351b40b08ebadd0",
+      "citation_sequence": [
+        "44"
+      ],
+      "citation_sequence_match": true,
+      "translation_status": "AI_translated_and_compared_not_human_final",
+      "human_verified": false
+    },
+    {
+      "pair_id": "P058",
+      "CN_block_sha256": "26ea4d867a6d79be88da58e15cbc1a22fbdb47f97771101a3d49a720446706f9",
+      "EN_block_sha256": "f4ea35413f0550a4bb911229ac02839eeedd48eb21daff34f5b1e7469fc0f98d",
+      "citation_sequence": [
+        "42",
+        "44",
+        "106",
+        "53",
+        "74",
+        "9",
+        "107",
+        "111"
+      ],
+      "citation_sequence_match": true,
+      "translation_status": "AI_translated_and_compared_not_human_final",
+      "human_verified": false
+    },
+    {
+      "pair_id": "P059",
+      "CN_block_sha256": "f19866ea9a8741da530557a801f41af6809e06144a024ae96250d69f841fe959",
+      "EN_block_sha256": "0e98389dc05248485cd4378de89911c980006143a8242b8924720cb9673087d4",
+      "citation_sequence": [
+        "58",
+        "74",
+        "76"
+      ],
+      "citation_sequence_match": true,
+      "translation_status": "AI_translated_and_compared_not_human_final",
+      "human_verified": false
+    },
+    {
+      "pair_id": "P060",
+      "CN_block_sha256": "ebd678dd76db8611d3e65246aa2e4ee8caece8f0b21ec4decf91e71f00b5fbf8",
+      "EN_block_sha256": "ffb09f4c8f51ac898e9f3516e0d888f7eb1d29c01c1a5df5e1a7ef7edb8ee923",
+      "citation_sequence": [
+        "65",
+        "38",
+        "118",
+        "37",
+        "81"
+      ],
+      "citation_sequence_match": true,
+      "translation_status": "AI_translated_and_compared_not_human_final",
+      "human_verified": false
+    },
+    {
+      "pair_id": "P061",
+      "CN_block_sha256": "c3c90930b3991f7b4ac0847a7dee7ab8a498147f9eb2b8f4e53ddfddb0bf599a",
+      "EN_block_sha256": "99b7a8a6db36ebbac5c3fb2fd288367b028af9b99d83c114f2ed74ed16df4ac3",
+      "citation_sequence": [
+        "52",
+        "106",
+        "121"
+      ],
+      "citation_sequence_match": true,
+      "translation_status": "AI_translated_and_compared_not_human_final",
+      "human_verified": false
+    },
+    {
+      "pair_id": "P062",
+      "CN_block_sha256": "62a61e1aafcc4baf4b792f0d93fbaefc0090cda2de880ca2d103242323622682",
+      "EN_block_sha256": "f1c2b3840d6302550c1e10a0f8b09faadb5b6b4ef57b3e55badb3977a8a95ee7",
+      "citation_sequence": [
+        "73",
+        "63",
+        "65",
+        "96",
+        "100"
+      ],
+      "citation_sequence_match": true,
+      "translation_status": "AI_translated_and_compared_not_human_final",
+      "human_verified": false
+    },
+    {
+      "pair_id": "P063",
+      "CN_block_sha256": "e6dc52c1af8e4e7a02a1b95666f58d9bc8b99a7d3d924b047f192a3a8c605fd9",
+      "EN_block_sha256": "ba7acc1abac16615cce65a32fda074ef5204112f6b9ad31372bbd4775784807e",
+      "citation_sequence": [
+        "51",
+        "52",
+        "50",
+        "78",
+        "109",
+        "114",
+        "115"
+      ],
+      "citation_sequence_match": true,
+      "translation_status": "AI_translated_and_compared_not_human_final",
+      "human_verified": false
+    },
+    {
+      "pair_id": "P064",
+      "CN_block_sha256": "f26fcf881574396b4fc2834493ccca3073fc48dcc08116da90fc73ab3e603f9e",
+      "EN_block_sha256": "8ff9cefb31c3c53189c87626187639be2d0e52987c475fcc5665e50951627c48",
+      "citation_sequence": [
+        "22",
+        "50",
+        "51",
+        "52",
+        "78",
+        "89",
+        "97",
+        "109",
+        "110",
+        "111",
+        "114",
+        "115",
+        "88",
+        "113",
+        "117",
+        "119",
+        "120"
+      ],
+      "citation_sequence_match": true,
+      "translation_status": "AI_translated_and_compared_not_human_final",
+      "human_verified": false
+    },
+    {
+      "pair_id": "P065",
+      "CN_block_sha256": "f60125470519676e7adc516cccab8f1244441575c2282b89b972cb97bfe35773",
+      "EN_block_sha256": "028e261dd0d0a0191ed8741cbfae1c8febd78a151de09fbc6c07c71e155fd9c7",
+      "citation_sequence": [
+        "119",
+        "120",
+        "102",
+        "116"
+      ],
+      "citation_sequence_match": true,
+      "translation_status": "AI_translated_and_compared_not_human_final",
+      "human_verified": false
+    },
+    {
+      "pair_id": "P066",
+      "CN_block_sha256": "42fa07b5c1a6ad2b51c77fdcde00ede6cd3f4623a233aaf4f3e966593bd20c7c",
+      "EN_block_sha256": "f83bb0aba5be321ef34f1caf39adfa90ab284f748926dda115198c68501202b8",
+      "citation_sequence": [
+        "18",
+        "19",
+        "23"
+      ],
+      "citation_sequence_match": true,
+      "translation_status": "AI_translated_and_compared_not_human_final",
+      "human_verified": false
+    },
+    {
+      "pair_id": "P067",
+      "CN_block_sha256": "9e00991830cc2d01029702911eff2ecd0c544b16c9f68bded54024324f392162",
+      "EN_block_sha256": "b6537c108f6e39f98c5fbaacbd1e8263debcdff973d1e5febb651d820e7fb81f",
+      "citation_sequence": [
+        "42",
+        "44",
+        "53",
+        "106"
+      ],
+      "citation_sequence_match": true,
+      "translation_status": "AI_translated_and_compared_not_human_final",
+      "human_verified": false
+    },
+    {
+      "pair_id": "P068",
+      "CN_block_sha256": "bcc0e8e139dcc898bf9d00ffd1cd23017f6a58033c6c5f25d659307fef87bb8b",
+      "EN_block_sha256": "010c45525688bdaf23b700a0a8f3c7744df143db449856d984a25a72f15f07a5",
+      "citation_sequence": [
+        "52",
+        "65",
+        "81",
+        "106",
+        "121"
+      ],
+      "citation_sequence_match": true,
+      "translation_status": "AI_translated_and_compared_not_human_final",
+      "human_verified": false
+    }
+  ],
+  "matched_count": 68,
+  "abstract_EN_identical_in_CN_and_EN": true,
+  "meaning": "citation and block alignment, not an independent semantic certification",
+  "official_English_metadata_for_refs_7_8_pending": false,
+  "official_English_title_and_author_frontmatter_checked_refs": [
+    7,
+    8
+  ],
+  "terminal_publication_metadata_still_pending_refs": [
+    7
+  ]
+}

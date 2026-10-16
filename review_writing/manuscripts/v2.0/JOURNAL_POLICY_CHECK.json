@@ -1,0 +1,37 @@
+{
+  "access_date": "2026-10-16",
+  "target": "common draft for Acta Astronautica and Chinese Journal of Aeronautics; no final journal decision received during work",
+  "guide_attempts": [
+    {
+      "journal": "Acta Astronautica",
+      "url": "https://www.sciencedirect.com/journal/acta-astronautica/publish/guide-for-authors",
+      "result": "HTTP403; stopped; full requirements not confirmed"
+    },
+    {
+      "journal": "Chinese Journal of Aeronautics",
+      "url": "https://www.sciencedirect.com/journal/chinese-journal-of-aeronautics/publish/guide-for-authors",
+      "result": "HTTP403; stopped; full requirements not confirmed"
+    }
+  ],
+  "publisher_AI_policy": {
+    "url": "https://www.elsevier.com/about/policies-and-standards/generative-ai-policies-for-journals",
+    "representation": "official search-index text, not a complete journal guide",
+    "recorded_points": [
+      "substantive AI manuscript assistance requires disclosure",
+      "human authors retain judgment and responsibility",
+      "no invented final-review declaration"
+    ]
+  },
+  "actual_journal_limits_and_article_acceptance_policy_confirmed": false,
+  "no_generic_or_other_journal_rules_substituted": true,
+  "external_receipts": [
+    {
+      "path": "D:\\SKT727\\materials\\constellation_review_v2_0_20261016\\JOURNAL_GUIDES_ATTEMPT.txt",
+      "sha256": "87d8bc96e8f4e6efe0428d91d7c779809ea0c838fe879b45ab1c6cd7f89dddad"
+    },
+    {
+      "path": "D:\\SKT727\\materials\\constellation_review_v2_0_20261016\\JOURNAL_POLICY_DISCOVERY.txt",
+      "sha256": "3cf854d0a7e03f2417e6809b83c651b3a200c3adbf03263cbf5d79c67a3ca347"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "CN_CJK_characters_before": 16991,
+  "CN_CJK_characters_after": 12461,
+  "EN_words_excluding_references": 6249,
+  "EN_abstract_words": 193,
+  "chapters": 5,
+  "tables": 7,
+  "figures_per_language": 2,
+  "reference_count": 121,
+  "new_paper_readings": 0,
+  "PDF_pages": {
+    "CN": 21,
+    "EN": 23
+  },
+  "AI_visual_layout_inspection_pages": 44,
+  "scientific_human_verification": false
+}

@@ -1,0 +1,872 @@
+{
+  "purpose": "retain actual historical query strings; not a new systematic search",
+  "historical_query_files": [
+    {
+      "historical_path": "review_writing/snapshots/literature_20261009/search_queries.json",
+      "snapshot_sha256": "663a6668ce7de7d55b03ec42068d9d9f92f8b2c99dd3263ac24424198230aa97",
+      "query_record_count": 36,
+      "query_records": [
+        [
+          "B01",
+          "\"Agile Earth Observation Satellite Scheduling Over 20 Years\" DOI",
+          "调度综述DOI与年份核对"
+        ],
+        [
+          "B01",
+          "\"Survey on autonomous task scheduling technology for Earth observation satellites\" DOI",
+          "自主调度综述"
+        ],
+        [
+          "B01",
+          "\"Towards the automated operations\" \"Part 2\" DOI",
+          "系统运行分类与工具"
+        ],
+        [
+          "B01",
+          "\"On-Orbit Service (OOS) of Spacecraft: A Review of Engineering Developments\" DOI",
+          "在轨服务工程综述"
+        ],
+        [
+          "B02",
+          "\"A review of the frameworks, models, and algorithms for large-scale imaging satellite mission planning\"",
+          "大规模任务规划相邻综述"
+        ],
+        [
+          "B02",
+          "\"Agent-based approaches for distributed space systems and mission management\"",
+          "分布式自主相邻综述"
+        ],
+        [
+          "B02",
+          "\"Managing Mega-Constellations: A Starlink-Informed Review\"",
+          "直接系统管理相邻综述"
+        ],
+        [
+          "B02",
+          "\"Trusted Autonomous Satellite Operations\" review",
+          "补查可信自主运行综述"
+        ],
+        [
+          "B03",
+          "\"Space Logistics Modeling and Optimization: Review of the State of the Art\"",
+          "空间物流综述"
+        ],
+        [
+          "B03",
+          "\"A Review of Deep Reinforcement Learning for Autonomous Earth Observation Satellite Scheduling\" DOI",
+          "学习方法相邻综述"
+        ],
+        [
+          "B03",
+          "\"On-board Automated Mission Planning for Spacecraft Autonomy\" DOI",
+          "星上规划基础"
+        ],
+        [
+          "B03",
+          "\"Evolutionary Computation in Satellite System Optimization for Deployment and Scheduling\"",
+          "最新进化计算综述"
+        ],
+        [
+          "B04",
+          "\"Replenishment Strategy for Satellite Constellation with Dual Supply Modes\"",
+          "补网策略"
+        ],
+        [
+          "B04",
+          "\"Integration of On-Orbit Servicing into Constellation Maintenance with Spare Inventory Management\"",
+          "会议稿与库存模型"
+        ],
+        [
+          "B04",
+          "\"On-Orbit Servicing-Integrated Maintenance Strategy for a Satellite Constellation\"",
+          "最新期刊维护策略"
+        ],
+        [
+          "B04",
+          "\"Orbital Facility Location Problem for Satellite Constellation Servicing Depots\"",
+          "设施配置"
+        ],
+        [
+          "B05",
+          "\"On-Orbit Servicing Optimization Framework with High- and Low-Thrust Propulsion Tradeoff\"",
+          "推进—物流联合规划"
+        ],
+        [
+          "B05",
+          "\"On-orbit-servicing via routing optimization using high-thrust or low-thrust propulsion\"",
+          "最新LEO路线规划"
+        ],
+        [
+          "B05",
+          "\"Tip-and-cue mission scheduling in heterogeneous satellite constellations\"",
+          "异构任务链"
+        ],
+        [
+          "B05",
+          "\"Low-Thrust Propulsion and Drift Orbit Optimization for Multi-Client Servicing Missions in Low Earth Orbit\"",
+          "最新时变路线与轨迹"
+        ],
+        [
+          "B06",
+          "\"Mission planning for on-orbit servicing through multiple servicing satellites: A new approach\"",
+          "早期多服务船联合规划"
+        ],
+        [
+          "B06",
+          "\"Optimal Multitarget Rendezvous Using Hybrid Propulsion System\"",
+          "混合推进方法"
+        ],
+        [
+          "B06",
+          "\"Deep reinforcement learning-based fast hybrid planning for multi-type on-orbit service under mass variation dynamics\"",
+          "学习加速服务规划"
+        ],
+        [
+          "B06",
+          "\"Hierarchical Resource Management for Mega-LEO Satellite Constellation\"",
+          "资源管理接口"
+        ],
+        [
+          "B07",
+          "\"Dynamic Management Topology Construction, Evolution, and Maintenance of Low Earth Orbit Mega-Constellation\"",
+          "动态管理拓扑"
+        ],
+        [
+          "B07",
+          "\"Automatic scheduling of satellite tracking tasks by means of policy-gradient reinforcement learning and transformer-based pointer networks\"",
+          "最新测控调度与正式版本"
+        ],
+        [
+          "B07",
+          "\"On-orbit observation trajectory planning for common-track mega constellations\"",
+          "飞掠巡检"
+        ],
+        [
+          "B07",
+          "\"Risk-aware sensor scheduling and tracking of large constellations\"",
+          "安全—资源调度耦合"
+        ],
+        [
+          "B08",
+          "satellite constellation on orbit servicing uncertain demand standby orbit service capability planning",
+          "主题宽检索：需求与能力"
+        ],
+        [
+          "B08",
+          "satellite constellation servicing multi fidelity reachability trajectory feasibility planning",
+          "主题宽检索：能力与物理可行性"
+        ],
+        [
+          "B08",
+          "satellite constellation autonomous operations safety verification survey planning",
+          "主题宽检索：自主与保证"
+        ],
+        [
+          "B08",
+          "large LEO constellation service scheduling multi spacecraft trajectory resource optimization 2025 2026",
+          "主题宽检索：近期服务调度"
+        ],
+        [
+          "B09",
+          "\"Reference architecture for autonomy and adaptivity in satellites\" DOI",
+          "执行与软件接口补查"
+        ],
+        [
+          "B09",
+          "\"Learning-based spacecraft multi-constraint rapid trajectory planning for emergency collision avoidance\"",
+          "候选补查：本轮未纳入，待进一步获取一手内容"
+        ],
+        [
+          "B09",
+          "\"卫星自主与协同任务调度规划综述\"",
+          "中文自主调度"
+        ],
+        [
+          "B09",
+          "\"面向巨型星座的网算资源智能调度方法综述\"",
+          "中文网算资源综述"
+        ]
+      ],
+      "actual_search_date_not_reconstructed": true
+    },
+    {
+      "historical_path": "review_writing/snapshots/literature_round2_20261009/search_queries.json",
+      "snapshot_sha256": "d06e5ebf5fec0f374d992f142ada4fb58ddd804382772b22f05f404d0b859f41",
+      "query_record_count": 66,
+      "query_records": [
+        [
+          "A",
+          "satellite constellation autonomous operations planning scheduling original research ASPEN CASPER EO-1 DOI"
+        ],
+        [
+          "B",
+          "on orbit servicing constellation demand uncertainty facility location inventory stochastic optimization research DOI"
+        ],
+        [
+          "C",
+          "spacecraft rendezvous safe model predictive control chance constrained collision avoidance DOI"
+        ],
+        [
+          "D",
+          "distributed satellite constellation task allocation consensus auction multi agent scheduling DOI"
+        ],
+        [
+          "A",
+          "satellite autonomous operations \"DOI\" \"onboard\" \"planning\" EO-1"
+        ],
+        [
+          "A",
+          "\"constellation\" \"autonomous operations\" \"reinforcement learning\" satellite scheduling doi"
+        ],
+        [
+          "B",
+          "\"satellite constellation\" \"inventory\" \"spare\" \"DOI\""
+        ],
+        [
+          "B",
+          "\"on-orbit servicing\" \"stochastic\" \"optimization\" \"DOI\""
+        ],
+        [
+          "B",
+          "\"Optimal Replenishment Strategy for Large\" satellite constellation"
+        ],
+        [
+          "B",
+          "\"Multi-orbit routing and scheduling of refuellable on-orbit servicing space robots\""
+        ],
+        [
+          "A",
+          "\"Mission operations of Earth Observing-1 with onboard autonomy\" NASA"
+        ],
+        [
+          "D",
+          "\"satellite\" \"distributed\" \"task allocation\" \"consensus\" \"10.\""
+        ],
+        [
+          "B",
+          "satellite constellation \"spare strategy\" \"multi-echelon\" 2019 2020"
+        ],
+        [
+          "B",
+          "\"GEO satellite on-orbit refueling and debris removal hybrid mission planning under uncertainty\""
+        ],
+        [
+          "D",
+          "\"Efficient and Responsive Task Allocation in Distributed Satellite Systems\""
+        ],
+        [
+          "D",
+          "\"Online scheduling of distributed Earth observation satellite system under rigid communication constraints\""
+        ],
+        [
+          "C",
+          "\"conjunction\" \"closest approach\" \"algorithm\" \"satellite\" \"DOI\""
+        ],
+        [
+          "C",
+          "\"collision\" \"screening\" \"large\" \"constellation\" \"10.1016\""
+        ],
+        [
+          "C",
+          "\"Safe Trajectories for Autonomous Rendezvous of Spacecraft\""
+        ],
+        [
+          "D",
+          "\"satellite constellation\" \"multi-agent reinforcement learning\" \"task scheduling\" DOI"
+        ],
+        [
+          "C",
+          "\"satellite\" \"conjunction\" \"screening\" \"fast\" \"DOI\""
+        ],
+        [
+          "C",
+          "\"time of closest approach\" \"Chebyshev\""
+        ],
+        [
+          "D",
+          "\"satellite scheduling\" \"multi-agent deep reinforcement learning\" observation"
+        ],
+        [
+          "A",
+          "\"autonomous satellite\" \"planning\" \"flight\" \"10.1109\" EO-1"
+        ],
+        [
+          "B",
+          "\"Optimal satellite constellation spare strategy using multi-echelon inventory control with stochastic demand and lead times\""
+        ],
+        [
+          "A",
+          "\"Single-Agent Reinforcement Learning for Scalable Earth-Observing Satellite Constellation Operations\""
+        ],
+        [
+          "D",
+          "\"Efficient and Responsive Task Allocation\" satellites central nodes"
+        ],
+        [
+          "C",
+          "\"Satellite closest approach calculation through Chebyshev Proxy Polynomials\" DOI"
+        ],
+        [
+          "B",
+          "\"Analysis and Design of Spare Strategy for Large-Scale Satellite Constellation Using Markov Chain\" DOI"
+        ],
+        [
+          "B",
+          "\"Optimal Satellite Constellation Spare Strategy\" \"10.2514\""
+        ],
+        [
+          "C",
+          "\"Satellite closest approach calculation through Chebyshev\" \"10.1016\""
+        ],
+        [
+          "B",
+          "\"On-orbit refueling robust mission scheduling with uncertain duration\""
+        ],
+        [
+          "A",
+          "\"Deep reinforcement learning-assisted large neighborhood search\" satellites \"10.1016\""
+        ],
+        [
+          "B",
+          "\"A clustering-reconstruction-based\" \"refueling\""
+        ],
+        [
+          "D",
+          "\"Onboard coordination and scheduling of multiple autonomous satellites in an uncertain environment\""
+        ],
+        [
+          "C",
+          "\"Model predictive control of swarms of spacecraft using sequential convex programming\""
+        ],
+        [
+          "C",
+          "\"Continuous-Time Successive Convexification for Passively-Safe Spacecraft Rendezvous\" \"10.2514\""
+        ],
+        [
+          "B",
+          "\"Spare Strategy Analysis and Design for Mega Satellite Constellations Using Markov Chain\""
+        ],
+        [
+          "B",
+          "\"Spare strategy for large-scale satellite constellations under dual resupply channels using Markov chain\""
+        ],
+        [
+          "B",
+          "\"Optimal Satellite Constellation Spare Strategy Using Multi-Echelon Inventory Control\" \"A34387\""
+        ],
+        [
+          "A",
+          "\"10.1016/j.eswa.2025.128502\""
+        ],
+        [
+          "B",
+          "\"10.1016/j.ast.2025.111457\""
+        ],
+        [
+          "C",
+          "\"10.2514/1.29590\""
+        ],
+        [
+          "C",
+          "\"10.2514/1.58436\""
+        ],
+        [
+          "C",
+          "\"Autonomous Trajectory Planning for Rendezvous and Proximity Operations by Conic Optimization\" Lu Liu"
+        ],
+        [
+          "C",
+          "\"Safe Trajectories for Autonomous Rendezvous of Spacecraft\" 2008 pdf MIT"
+        ],
+        [
+          "B",
+          "\"On-orbit servicing system assessment and optimization methods based on lifecycle simulation\""
+        ],
+        [
+          "A",
+          "\"Deep reinforcement learning-assisted large neighborhood search\" \"framework\""
+        ],
+        [
+          "C",
+          "\"Autonomous Trajectory Planning for Rendezvous and Proximity Operations by Conic Optimization\" site:arc.aiaa.org"
+        ],
+        [
+          "C",
+          "\"Safe Trajectories for Autonomous Rendezvous of Spacecraft\" site:dspace.mit.edu"
+        ],
+        [
+          "A",
+          "\"A high-performance onboard computing architecture\" \"flight\" \"2026\""
+        ],
+        [
+          "B",
+          "\"Deployment of On-Orbit Service Vehicles\" \"orbit\" \"cases\""
+        ],
+        [
+          "C",
+          "\"Autonomous Trajectory Planning\" \"Conic Optimization\" abstract"
+        ],
+        [
+          "C",
+          "\"Safe Trajectories\" \"Breger\" \"JGCD\" pdf"
+        ],
+        [
+          "B",
+          "\"基于深度强化学习\" \"多对多\" \"在轨服务\" 夏宏伟"
+        ],
+        [
+          "D",
+          "\"CBBA-based Decentralized Task Allocation Framework\" satellite simulation"
+        ],
+        [
+          "B",
+          "\"10.2514/1.A36599\" site:arc.aiaa.org"
+        ],
+        [
+          "B",
+          "\"10.1016/j.actaastro.2026.06.020\" \"Available online\""
+        ],
+        [
+          "C",
+          "\"Continuous-Time Successive Convexification for Passively-Safe Spacecraft Rendezvous\" Elango 2026 DOI"
+        ],
+        [
+          "D",
+          "\"An Online Distributed Satellite Cooperative Observation Scheduling Algorithm Based on Multi-Agent Deep Reinforcement Learning\""
+        ],
+        [
+          "A",
+          "\"Single-Agent Reinforcement Learning for Scalable\" \"40\" \"3200\" [domain:hanspeterschaub.info]"
+        ],
+        [
+          "B",
+          "\"Deployment of On-Orbit Service Vehicles\" \"satellites\" \"20\" [domain:onlinelibrary.wiley.com]"
+        ],
+        [
+          "D",
+          "\"Onboard coordination and scheduling of multiple autonomous satellites\" \"rolling\" \"blackboard\" [domain:sciencedirect.com]"
+        ],
+        [
+          "B",
+          "\"10.2514/1.A36599\" \"Markov\" [domains:arc.aiaa.org,arxiv.org]"
+        ],
+        [
+          "B",
+          "\"A clustering-reconstruction-based\" \"NSGA-II\" [domain:sciencedirect.com]"
+        ],
+        [
+          "B",
+          "\"10.1016/j.actaastro.2026.06.020\" \"2026\" [domain:sciencedirect.com]"
+        ]
+      ],
+      "actual_search_date_not_reconstructed": true
+    },
+    {
+      "historical_path": "review_writing/snapshots/literature_round3_20261009/search_queries.json",
+      "snapshot_sha256": "8ac5ae87945359cf21ff6913c894beb58c26ff352f6e5adb1f7fd6b91bda1ca3",
+      "query_record_count": 56,
+      "query_records": [
+        [
+          "A",
+          "satellite constellation deployment reconfiguration optimization uncertainty research DOI"
+        ],
+        [
+          "A",
+          "satellite fault diagnosis health management autonomous recovery deep learning DOI"
+        ],
+        [
+          "B",
+          "earth observation satellite scheduling cloud uncertainty stochastic programming DOI"
+        ],
+        [
+          "D",
+          "satellite ground station scheduling optimization mixed integer programming DOI"
+        ],
+        [
+          "D",
+          "satellite edge computing task offloading resource allocation deep reinforcement learning original research DOI"
+        ],
+        [
+          "C",
+          "space situational awareness sensor tasking POMDP information scheduling satellite DOI"
+        ],
+        [
+          "C",
+          "automated satellite conjunction management Bayesian neural network DOI collision avoidance"
+        ],
+        [
+          "A",
+          "spacecraft telemetry anomaly detection fault diagnosis LSTM 2018 Hundman DOI"
+        ],
+        [
+          "A",
+          "satellite telemetry anomaly detection \"10.1016\" bayesian LSTM"
+        ],
+        [
+          "A",
+          "\"Remote Agent: To boldly go where no AI system has gone before\""
+        ],
+        [
+          "C",
+          "\"space situational awareness\" \"sensor tasking\" \"10.2514\""
+        ],
+        [
+          "D",
+          "satellite constellation distributed task allocation auction distributed constraint optimization scheduling DOI"
+        ],
+        [
+          "A",
+          "\"Satellite constellation deployment strategy\" \"uncertain areas\""
+        ],
+        [
+          "A",
+          "\"Regional Constellation Reconfiguration Problem\" DOI"
+        ],
+        [
+          "A",
+          "\"Deterministic Multistage Constellation Reconfiguration\" DOI"
+        ],
+        [
+          "A",
+          "\"Satellite Constellation Pattern Optimization for Complex Regional Coverage\""
+        ],
+        [
+          "A",
+          "\"European Space Agency\" \"Anomaly Detection Benchmark\" DOI"
+        ],
+        [
+          "A",
+          "\"Detecting Spacecraft Anomalies Using LSTMs and Nonparametric Dynamic Thresholding\" DOI"
+        ],
+        [
+          "B",
+          "\"A Generic Markov Decision Process Model and Reinforcement Learning Method\" satellite"
+        ],
+        [
+          "B",
+          "\"Selecting and scheduling observations of agile satellites\""
+        ],
+        [
+          "B",
+          "\"Scheduling space-ground communications for the air force satellite control network\""
+        ],
+        [
+          "B",
+          "\"NASA\" \"Deep Space Network\" \"scheduling\" \"10.1109/ACCESS\""
+        ],
+        [
+          "B",
+          "\"Scheduling NASA’s Deep Space Network\" reinforcement learning DOI"
+        ],
+        [
+          "A",
+          "\"ESA Anomaly Detection Benchmark\" \"10.1145\""
+        ],
+        [
+          "D",
+          "\"Joint Power and Bandwidth Allocation\" \"Satellite\" optimization"
+        ],
+        [
+          "D",
+          "\"beam hopping\" \"resource allocation\" \"optimization\" \"10.1109\" satellite"
+        ],
+        [
+          "C",
+          "\"Spacecraft collision avoidance challenge\" \"results\""
+        ],
+        [
+          "C",
+          "\"Dynamic sensor tasking for space situational awareness\""
+        ],
+        [
+          "C",
+          "\"Multisensor Tasking Using Analytical Rényi Divergence\""
+        ],
+        [
+          "C",
+          "\"Mutual Information Based Sensor Tasking\" \"Space Situational Awareness\""
+        ],
+        [
+          "D",
+          "\"Large-Scale Continual Scheduling and Execution\" \"10.1609\""
+        ],
+        [
+          "D",
+          "\"Consensus-Based Decentralized Auctions for Robust Task Allocation\""
+        ],
+        [
+          "D",
+          "\"Large-Scale Continual Scheduling and Execution for Dynamic\" Zilberstein"
+        ],
+        [
+          "A",
+          "\"Satellite Constellation Pattern Optimization for Complex Regional Coverage\" \"10.2514\""
+        ],
+        [
+          "B",
+          "\"Satellite downlink scheduling problem: A case study\""
+        ],
+        [
+          "B",
+          "\"Deep Space Network Scheduling via Mixed-Integer Linear Programming\""
+        ],
+        [
+          "A",
+          "\"Satellite Constellation Pattern Optimization\" DOI Lee Shimizu"
+        ],
+        [
+          "D",
+          "\"Satellite Edge Intelligence: DRL-Based Resource Management\" DOI"
+        ],
+        [
+          "D",
+          "\"Decentralized Observation Allocation for a Large-Scale Constellation\""
+        ],
+        [
+          "C",
+          "\"Mutual Information Based Sensor Tasking\" site:arc.aiaa.org"
+        ],
+        [
+          "D",
+          "\"Decentralized, Decomposition-Based Observation Scheduling\" \"2025\" [domains:jair.org,ai.jpl.nasa.gov]"
+        ],
+        [
+          "C",
+          "\"Mutual Information Based Sensor Tasking\" abstract [domains:arc.aiaa.org,par.nsf.gov]"
+        ],
+        [
+          "C",
+          "\"Space-Based Sensor Tasking Using Deep Reinforcement Learning\" [domain:link.springer.com]"
+        ],
+        [
+          "D",
+          "\"Large-Scale Continual Scheduling and Execution\" \"JCYH5778\""
+        ],
+        [
+          "B",
+          "\"10.1109/TSMC.2020.3020732\""
+        ],
+        [
+          "A",
+          "\"Unmasking overestimation\" spacecraft telemetry evaluation"
+        ],
+        [
+          "A",
+          "\"Validation-gated continual learning\" \"Available online\""
+        ],
+        [
+          "C",
+          "\"Multi-Sensor Tasking for Ground-Based Space Situational Awareness via Job-Shop Scheduling Problem\""
+        ],
+        [
+          "D",
+          "\"A novel deep reinforcement learning architecture for dynamic power and bandwidth allocation in multibeam satellites\""
+        ],
+        [
+          "D",
+          "\"Multi-agent reinforcement learning based computation offloading and resource allocation for LEO Satellite edge computing networks\""
+        ],
+        [
+          "A",
+          "\"Satellite Constellation Reconfiguration Using Surrogate-Based Optimization\" \"Gaussian\""
+        ],
+        [
+          "C",
+          "\"Multisensor Tasking Using Analytical\" \"Rényi\" site:arc.aiaa.org"
+        ],
+        [
+          "B",
+          "\"A Generic Markov Decision Process Model and Reinforcement Learning Method for Scheduling Agile Earth Observation Satellites\" abstract"
+        ],
+        [
+          "C",
+          "\"Mutual Information Based Sensor Tasking with Applications to Space Situational Awareness\" pdf"
+        ],
+        [
+          "C",
+          "\"Mutual Information Based Sensor Tasking\" \"Adurthi\" site:arxiv.org"
+        ],
+        [
+          "C",
+          "\"Mutual Information Based Sensor Tasking\" site:researchgate.net/publication"
+        ]
+      ],
+      "actual_search_date_not_reconstructed": true
+    },
+    {
+      "historical_path": "review_writing/snapshots/literature_round4_20261009/search_queries.json",
+      "snapshot_sha256": "5cafe6a454dc7c8cb08c1ecbac61d0e9b539ce2c1fc8131b3860fe35ad277d5f",
+      "query_record_count": 41,
+      "query_records": [
+        [
+          "F1",
+          "satellite fault recovery autonomous replanning \"Remote Agent Experiment\" DOI"
+        ],
+        [
+          "F2",
+          "large scale satellite constellation scheduling \"1000\" research DOI"
+        ],
+        [
+          "F3",
+          "integrated observation download energy storage satellite scheduling optimization DOI"
+        ],
+        [
+          "F4",
+          "distributed satellite task allocation asynchronous communication delay packet loss DOI"
+        ],
+        [
+          "F1",
+          "\"The Remote Agent Experiment\""
+        ],
+        [
+          "F1",
+          "satellite fault detection isolation recovery autonomous reconfiguration planning DOI research"
+        ],
+        [
+          "F5",
+          "Basilisk spacecraft simulation framework DOI BSK-RL satellite reinforcement learning benchmark"
+        ],
+        [
+          "F5",
+          "satellite autonomous scheduling \"flight\" \"DOI\" IPEX M2020"
+        ],
+        [
+          "F2",
+          "\"A Data-Driven Parallel Scheduling Approach for Multiple Agile Earth Observation Satellites\""
+        ],
+        [
+          "F2",
+          "\"A decompose-and-learn multi-objective algorithm for scheduling large-scale earth observation satellites\""
+        ],
+        [
+          "F3",
+          "\"Joint observation and transmission scheduling of multiple agile satellites with energy constraint\""
+        ],
+        [
+          "F4",
+          "\"Asynchronous Consensus-Based Bundle Algorithm\" DOI"
+        ],
+        [
+          "F1",
+          "satellite \"fault\" \"recovery\" \"planning\" site:link.springer.com/article"
+        ],
+        [
+          "F5",
+          "\"Basilisk\" \"Kenneally\" \"2020\" DOI"
+        ],
+        [
+          "F5",
+          "\"IPEX\" \"autonomous\" \"10.\" satellite"
+        ],
+        [
+          "F3",
+          "\"An integrated scheduling algorithm of satellite observation and data download\""
+        ],
+        [
+          "F1",
+          "satellite \"replanning\" \"failure\" \"fault\" research doi scheduling"
+        ],
+        [
+          "F5",
+          "\"IPEX\" \"autonomy\" site:ai.jpl.nasa.gov/public/documents/papers"
+        ],
+        [
+          "F1",
+          "\"Remote Agent\" \"flight\" \"verification\" \"10.1007\""
+        ],
+        [
+          "F3",
+          "\"reasoning-based\" \"multi-subsystem\" satellite scheduling"
+        ],
+        [
+          "F2",
+          "\"10.1109/TEVC.2019.2934148\""
+        ],
+        [
+          "F5",
+          "\"Onboard Autonomy on the Intelligent Payload Experiment\" DOI"
+        ],
+        [
+          "F5",
+          "\"Formal Methods for Trusted Space Autonomy\" DOI"
+        ],
+        [
+          "F5",
+          "\"Formal Analysis of the Remote Agent Before and After Flight\" DOI"
+        ],
+        [
+          "F1",
+          "\"Resilient Autonomous Mission Management for Decentralized Multispacecraft Missions\""
+        ],
+        [
+          "F1",
+          "\"RPRS: a reactive plan repair strategy\""
+        ],
+        [
+          "F2",
+          "\"10.7527/S1000-6893.2024.30181\""
+        ],
+        [
+          "F5",
+          "\"Model checking of spacecraft operational designs: a scalability analysis\""
+        ],
+        [
+          "F2",
+          "\"30181\" \"预警\" \"星座\""
+        ],
+        [
+          "F2",
+          "\"A Data-Driven Parallel Scheduling Approach\" site:ieeexplore.ieee.org"
+        ],
+        [
+          "F3",
+          "\"Joint Observation and Transmission Scheduling in Agile Satellite Networks\" site:ieeexplore.ieee.org"
+        ],
+        [
+          "F3",
+          "\"10450239\" satellite scheduling"
+        ],
+        [
+          "F2",
+          "\"面向预警\" \"规范\" \"星座\""
+        ],
+        [
+          "F2",
+          "\"A Data-Driven Parallel Scheduling Approach\" abstract"
+        ],
+        [
+          "F3",
+          "\"Joint Observation and Transmission Scheduling in Agile Satellite Networks\" abstract"
+        ],
+        [
+          "F3",
+          "\"An Integrated Scheduling Algorithm of Satellite Observation\" abstract"
+        ],
+        [
+          "F2",
+          "\"A Data-Driven Parallel Scheduling Approach\" \"probabilistic\""
+        ],
+        [
+          "F3",
+          "\"An Integrated Scheduling Algorithm of Satellite Observation and Data Download\" \"Chen\" \"algorithm\""
+        ],
+        [
+          "F5",
+          "\"Onboard Autonomy on the Intelligent Payload Experiment CubeSat Mission\" site:ai.jpl.nasa.gov"
+        ],
+        [
+          "F3",
+          "\"Kodan: Addressing the Computational Bottleneck in Space\""
+        ],
+        [
+          "F5",
+          "\"Resilient Autonomous Mission Management\" \"development boards\""
+        ]
+      ],
+      "actual_search_date_not_reconstructed": true
+    }
+  ],
+  "new_thematic_search_this_revision": false,
+  "B00_to_B08_role": "source access/version/targeted passage audits, not an exhaustive literature update",
+  "database_hit_counts_or_screening_exclusions_not_fabricated": true
+}

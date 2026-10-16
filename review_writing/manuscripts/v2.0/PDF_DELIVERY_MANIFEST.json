@@ -1,0 +1,684 @@
+{
+  "files": [
+    {
+      "language": "CN",
+      "path": "D:\\SKT727\\outputs\\constellation_review_v2_0_20261016\\REVIEW_CN_v2.0.pdf",
+      "pages": 21,
+      "bytes": 993479,
+      "sha256": "35fb70b2b72a9b9564c9b72d95761aec9021117308963fc2f9654b72d3877368",
+      "all_text_extractable": true,
+      "typeset_from": "REVIEW_CN_v2.0.md",
+      "third_party_PDF": false,
+      "not_a_journal_template": true
+    },
+    {
+      "language": "EN",
+      "path": "D:\\SKT727\\outputs\\constellation_review_v2_0_20261016\\REVIEW_EN_v2.0.pdf",
+      "pages": 23,
+      "bytes": 997309,
+      "sha256": "8bfa7bc90caf96c96bbb3297c0a5b3acd0e724262b1b760d09783c973ee23cd4",
+      "all_text_extractable": true,
+      "typeset_from": "REVIEW_EN_v2.0.md",
+      "third_party_PDF": false,
+      "not_a_journal_template": true
+    }
+  ],
+  "layout_events": [
+    {
+      "language": "CN",
+      "page": 2,
+      "text": "表1 既有综述的组织对象与本文的比较问题",
+      "kind": "caption"
+    },
+    {
+      "language": "CN",
+      "page": 3,
+      "figure": "fig1_cn.svg",
+      "kind": "figure"
+    },
+    {
+      "language": "CN",
+      "page": 3,
+      "text": "图1 业务过程与共同管理职责。箭头表示任务、资源或状态的传递，为本文归纳；具体研究可以只优化其中一部分，不表示图中全部功能已在同一系统验证。",
+      "kind": "caption"
+    },
+    {
+      "language": "CN",
+      "page": 4,
+      "text": "表2 管理对象、可选变量与结果定义",
+      "kind": "caption"
+    },
+    {
+      "language": "CN",
+      "page": 7,
+      "text": "表3 观测与服务调度中的代表性决策组织",
+      "kind": "caption"
+    },
+    {
+      "language": "CN",
+      "page": 8,
+      "text": "表4 通信研究中的结果定义与主要条件",
+      "kind": "caption"
+    },
+    {
+      "language": "CN",
+      "page": 10,
+      "text": "表5 安全与恢复的输出及验证对象",
+      "kind": "caption"
+    },
+    {
+      "language": "CN",
+      "page": 11,
+      "figure": "fig2_cn.svg",
+      "kind": "figure"
+    },
+    {
+      "language": "CN",
+      "page": 11,
+      "text": "图2 联合选择、顺序安排与运行反馈。图中代表研究按实际阅读版本解释：共同选择[42][44][106]、顺序配置[53]及状态更新[9][107][111]。虚线表示反馈只作用于仍允许修改的活动；图示为本文归纳。",
+      "kind": "caption"
+    },
+    {
+      "language": "CN",
+      "page": 12,
+      "text": "表6 决策连接的适用条件与评价要求",
+      "kind": "caption"
+    },
+    {
+      "language": "CN",
+      "page": 13,
+      "text": "表7 运行资料与工具能够支持的认识",
+      "kind": "caption"
+    },
+    {
+      "language": "EN",
+      "page": 2,
+      "text": "Table 1 Existing organizing perspectives and the comparisons developed here",
+      "kind": "caption"
+    },
+    {
+      "language": "EN",
+      "page": 3,
+      "figure": "fig1_en.svg",
+      "kind": "figure"
+    },
+    {
+      "language": "EN",
+      "page": 3,
+      "text": "Figure 1. Service processes and shared management responsibilities. Arrows represent task, resource, or state transfers synthesized in this review. Individual s",
+      "kind": "caption"
+    },
+    {
+      "language": "EN",
+      "page": 4,
+      "text": "Table 2 Management objects, selectable variables, and outcome definitions",
+      "kind": "caption"
+    },
+    {
+      "language": "EN",
+      "page": 8,
+      "text": "Table 3 Representative decision organizations in observation and servicing",
+      "kind": "caption"
+    },
+    {
+      "language": "EN",
+      "page": 10,
+      "text": "Table 4 Outcome definitions and conditions in communication studies",
+      "kind": "caption"
+    },
+    {
+      "language": "EN",
+      "page": 12,
+      "text": "Table 5 Outputs and validation objects in safety and recovery",
+      "kind": "caption"
+    },
+    {
+      "language": "EN",
+      "page": 13,
+      "figure": "fig2_en.svg",
+      "kind": "figure"
+    },
+    {
+      "language": "EN",
+      "page": 13,
+      "text": "Figure 2. Joint selection, sequential allocation, and operational feedback. Representative studies are interpreted in their inspected versions: common selection",
+      "kind": "caption"
+    },
+    {
+      "language": "EN",
+      "page": 15,
+      "text": "Table 6 Applicability conditions and evaluation requirements for connecting decisions",
+      "kind": "caption"
+    },
+    {
+      "language": "EN",
+      "page": 16,
+      "text": "Table 7 Contributions of operational materials and tools",
+      "kind": "caption"
+    }
+  ],
+  "visual_inspection": {
+    "pages": [
+      {
+        "language": "CN",
+        "page": 1,
+        "path": "D:\\SKT727\\materials\\constellation_review_v2_0_20261016\\pdf_qa\\CN_page_01.png",
+        "sha256": "13fd5638764e2630fdb892392a39a730e5e3a2c27fd5e26029d5d2573af7e277",
+        "rendered": true,
+        "actually_visually_inspected": true,
+        "inspection_scope": "all-page montage layout inspection; selected full-page legibility checks separately recorded"
+      },
+      {
+        "language": "CN",
+        "page": 2,
+        "path": "D:\\SKT727\\materials\\constellation_review_v2_0_20261016\\pdf_qa\\CN_page_02.png",
+        "sha256": "5b04f7275e6125b8f9d6bb7297d28aae75b209af1d9521d94e6e33d77d00f830",
+        "rendered": true,
+        "actually_visually_inspected": true,
+        "inspection_scope": "all-page montage layout inspection; selected full-page legibility checks separately recorded"
+      },
+      {
+        "language": "CN",
+        "page": 3,
+        "path": "D:\\SKT727\\materials\\constellation_review_v2_0_20261016\\pdf_qa\\CN_page_03.png",
+        "sha256": "bf0a2552eb4a09cfb12547fbfc07c07c23816a76e38c4dedfaec8ebb02293e1f",
+        "rendered": true,
+        "actually_visually_inspected": true,
+        "inspection_scope": "all-page montage layout inspection; selected full-page legibility checks separately recorded"
+      },
+      {
+        "language": "CN",
+        "page": 4,
+        "path": "D:\\SKT727\\materials\\constellation_review_v2_0_20261016\\pdf_qa\\CN_page_04.png",
+        "sha256": "28e4274d201f665567d61c2242cbfade1ee349adb452e7fb788f63502240b2fa",
+        "rendered": true,
+        "actually_visually_inspected": true,
+        "inspection_scope": "all-page montage layout inspection; selected full-page legibility checks separately recorded"
+      },
+      {
+        "language": "CN",
+        "page": 5,
+        "path": "D:\\SKT727\\materials\\constellation_review_v2_0_20261016\\pdf_qa\\CN_page_05.png",
+        "sha256": "c71eeadf4a49348c643a32d309ec852fea23337441845174c8974e3e44a08f29",
+        "rendered": true,
+        "actually_visually_inspected": true,
+        "inspection_scope": "all-page montage layout inspection; selected full-page legibility checks separately recorded"
+      },
+      {
+        "language": "CN",
+        "page": 6,
+        "path": "D:\\SKT727\\materials\\constellation_review_v2_0_20261016\\pdf_qa\\CN_page_06.png",
+        "sha256": "d414d3f9fd6bca51f0f267b0775fe006fe6472a7b51769baaaa73a80647e3a47",
+        "rendered": true,
+        "actually_visually_inspected": true,
+        "inspection_scope": "all-page montage layout inspection; selected full-page legibility checks separately recorded"
+      },
+      {
+        "language": "CN",
+        "page": 7,
+        "path": "D:\\SKT727\\materials\\constellation_review_v2_0_20261016\\pdf_qa\\CN_page_07.png",
+        "sha256": "4cf96b6306a73b09187c9ec995beff3c5833f6d15021dae57833b1024aae7f43",
+        "rendered": true,
+        "actually_visually_inspected": true,
+        "inspection_scope": "all-page montage layout inspection; selected full-page legibility checks separately recorded"
+      },
+      {
+        "language": "CN",
+        "page": 8,
+        "path": "D:\\SKT727\\materials\\constellation_review_v2_0_20261016\\pdf_qa\\CN_page_08.png",
+        "sha256": "1fa371f63b1e495c89f72f75c9aa19a9d25ce741097425cebe5d7af987897754",
+        "rendered": true,
+        "actually_visually_inspected": true,
+        "inspection_scope": "all-page montage layout inspection; selected full-page legibility checks separately recorded"
+      },
+      {
+        "language": "CN",
+        "page": 9,
+        "path": "D:\\SKT727\\materials\\constellation_review_v2_0_20261016\\pdf_qa\\CN_page_09.png",
+        "sha256": "813ab25a339ba081cb8e8c505b115ff650194e85ae7baacc5bf580a6e79e2bd7",
+        "rendered": true,
+        "actually_visually_inspected": true,
+        "inspection_scope": "all-page montage layout inspection; selected full-page legibility checks separately recorded"
+      },
+      {
+        "language": "CN",
+        "page": 10,
+        "path": "D:\\SKT727\\materials\\constellation_review_v2_0_20261016\\pdf_qa\\CN_page_10.png",
+        "sha256": "def7c44d25f45c03f7bf17b6a805e8f4a251ac95897cc7a8eef6850936adc8cf",
+        "rendered": true,
+        "actually_visually_inspected": true,
+        "inspection_scope": "all-page montage layout inspection; selected full-page legibility checks separately recorded"
+      },
+      {
+        "language": "CN",
+        "page": 11,
+        "path": "D:\\SKT727\\materials\\constellation_review_v2_0_20261016\\pdf_qa\\CN_page_11.png",
+        "sha256": "3ca433c7f585edbc90bbc8d133fc8d381afddfa504448a148d39db821eddbdfc",
+        "rendered": true,
+        "actually_visually_inspected": true,
+        "inspection_scope": "all-page montage layout inspection; selected full-page legibility checks separately recorded"
+      },
+      {
+        "language": "CN",
+        "page": 12,
+        "path": "D:\\SKT727\\materials\\constellation_review_v2_0_20261016\\pdf_qa\\CN_page_12.png",
+        "sha256": "a839f26de1c67280732d51ef08a173f78d6572858981a07b04eaf91a99fba11e",
+        "rendered": true,
+        "actually_visually_inspected": true,
+        "inspection_scope": "all-page montage layout inspection; selected full-page legibility checks separately recorded"
+      },
+      {
+        "language": "CN",
+        "page": 13,
+        "path": "D:\\SKT727\\materials\\constellation_review_v2_0_20261016\\pdf_qa\\CN_page_13.png",
+        "sha256": "06ab98985196db9ffd2a90964ac7884e337890d761c873d679d227e57bd504a6",
+        "rendered": true,
+        "actually_visually_inspected": true,
+        "inspection_scope": "all-page montage layout inspection; selected full-page legibility checks separately recorded"
+      },
+      {
+        "language": "CN",
+        "page": 14,
+        "path": "D:\\SKT727\\materials\\constellation_review_v2_0_20261016\\pdf_qa\\CN_page_14.png",
+        "sha256": "ccd923bfbec7ececfc55dec34e89e0adbabe374ae2327d632b51291e67e9219a",
+        "rendered": true,
+        "actually_visually_inspected": true,
+        "inspection_scope": "all-page montage layout inspection; selected full-page legibility checks separately recorded"
+      },
+      {
+        "language": "CN",
+        "page": 15,
+        "path": "D:\\SKT727\\materials\\constellation_review_v2_0_20261016\\pdf_qa\\CN_page_15.png",
+        "sha256": "83204d5acb5fe17ce88e3620c793793a06120f03f3b7406a4ef607e36d88b4dd",
+        "rendered": true,
+        "actually_visually_inspected": true,
+        "inspection_scope": "all-page montage layout inspection; selected full-page legibility checks separately recorded"
+      },
+      {
+        "language": "CN",
+        "page": 16,
+        "path": "D:\\SKT727\\materials\\constellation_review_v2_0_20261016\\pdf_qa\\CN_page_16.png",
+        "sha256": "298435be9715a350b4b61db80045a36bcfa1c3f0585c80fd7006df762f0747bd",
+        "rendered": true,
+        "actually_visually_inspected": true,
+        "inspection_scope": "all-page montage layout inspection; selected full-page legibility checks separately recorded"
+      },
+      {
+        "language": "CN",
+        "page": 17,
+        "path": "D:\\SKT727\\materials\\constellation_review_v2_0_20261016\\pdf_qa\\CN_page_17.png",
+        "sha256": "6064beb95eda2a62aff418ffe7c3ee816bb734666eb6748611799e10f0e318a9",
+        "rendered": true,
+        "actually_visually_inspected": true,
+        "inspection_scope": "all-page montage layout inspection; selected full-page legibility checks separately recorded"
+      },
+      {
+        "language": "CN",
+        "page": 18,
+        "path": "D:\\SKT727\\materials\\constellation_review_v2_0_20261016\\pdf_qa\\CN_page_18.png",
+        "sha256": "8357f482ac3f4c07a801486633bac168e1ea3af35999faa10d441abe2f45256b",
+        "rendered": true,
+        "actually_visually_inspected": true,
+        "inspection_scope": "all-page montage layout inspection; selected full-page legibility checks separately recorded"
+      },
+      {
+        "language": "CN",
+        "page": 19,
+        "path": "D:\\SKT727\\materials\\constellation_review_v2_0_20261016\\pdf_qa\\CN_page_19.png",
+        "sha256": "b766627be1580210719fac25ebe1152dfe5e7fd07ba727cb6937a82810f2ec47",
+        "rendered": true,
+        "actually_visually_inspected": true,
+        "inspection_scope": "all-page montage layout inspection; selected full-page legibility checks separately recorded"
+      },
+      {
+        "language": "CN",
+        "page": 20,
+        "path": "D:\\SKT727\\materials\\constellation_review_v2_0_20261016\\pdf_qa\\CN_page_20.png",
+        "sha256": "2ab83e5411dd799aadc69a0b03efa30cbfb492c4211ffe27b775d38e4dcb678e",
+        "rendered": true,
+        "actually_visually_inspected": true,
+        "inspection_scope": "all-page montage layout inspection; selected full-page legibility checks separately recorded"
+      },
+      {
+        "language": "CN",
+        "page": 21,
+        "path": "D:\\SKT727\\materials\\constellation_review_v2_0_20261016\\pdf_qa\\CN_page_21.png",
+        "sha256": "b40a6650a285c2ad2f7d112000c0999ac002eb4590ce2b4c2dd42b9417a85f84",
+        "rendered": true,
+        "actually_visually_inspected": true,
+        "inspection_scope": "all-page montage layout inspection; selected full-page legibility checks separately recorded"
+      },
+      {
+        "language": "EN",
+        "page": 1,
+        "path": "D:\\SKT727\\materials\\constellation_review_v2_0_20261016\\pdf_qa\\EN_page_01.png",
+        "sha256": "7035fe4f69171c02fe76b346878db782077cb5031aa761b222c3cd7aad8d3cf3",
+        "rendered": true,
+        "actually_visually_inspected": true,
+        "inspection_scope": "all-page montage layout inspection; selected full-page legibility checks separately recorded"
+      },
+      {
+        "language": "EN",
+        "page": 2,
+        "path": "D:\\SKT727\\materials\\constellation_review_v2_0_20261016\\pdf_qa\\EN_page_02.png",
+        "sha256": "878e11d3447ba5c07aefdd308035ec916b55cfa491bfb7a96ea47213a8546a9c",
+        "rendered": true,
+        "actually_visually_inspected": true,
+        "inspection_scope": "all-page montage layout inspection; selected full-page legibility checks separately recorded"
+      },
+      {
+        "language": "EN",
+        "page": 3,
+        "path": "D:\\SKT727\\materials\\constellation_review_v2_0_20261016\\pdf_qa\\EN_page_03.png",
+        "sha256": "8c31a9dc7dcfba7589800f7527eea42ec86e89af025183d842569780b767b00a",
+        "rendered": true,
+        "actually_visually_inspected": true,
+        "inspection_scope": "all-page montage layout inspection; selected full-page legibility checks separately recorded"
+      },
+      {
+        "language": "EN",
+        "page": 4,
+        "path": "D:\\SKT727\\materials\\constellation_review_v2_0_20261016\\pdf_qa\\EN_page_04.png",
+        "sha256": "130d4f15e8803e61baa1808d784dd707a824fc8ac5fcb381f9950abd7a8672fd",
+        "rendered": true,
+        "actually_visually_inspected": true,
+        "inspection_scope": "all-page montage layout inspection; selected full-page legibility checks separately recorded"
+      },
+      {
+        "language": "EN",
+        "page": 5,
+        "path": "D:\\SKT727\\materials\\constellation_review_v2_0_20261016\\pdf_qa\\EN_page_05.png",
+        "sha256": "35bf28b0f3182bab85a892b10b003d6d7258b3e46deb82e87f22e518f6e677b5",
+        "rendered": true,
+        "actually_visually_inspected": true,
+        "inspection_scope": "all-page montage layout inspection; selected full-page legibility checks separately recorded"
+      },
+      {
+        "language": "EN",
+        "page": 6,
+        "path": "D:\\SKT727\\materials\\constellation_review_v2_0_20261016\\pdf_qa\\EN_page_06.png",
+        "sha256": "9a48f33a9f665f3c645017d09b3ad0c6f2d6aaab3b72cfd91e83189ae8aacd4d",
+        "rendered": true,
+        "actually_visually_inspected": true,
+        "inspection_scope": "all-page montage layout inspection; selected full-page legibility checks separately recorded"
+      },
+      {
+        "language": "EN",
+        "page": 7,
+        "path": "D:\\SKT727\\materials\\constellation_review_v2_0_20261016\\pdf_qa\\EN_page_07.png",
+        "sha256": "a51afad802b5ee2c566a67ca8e85ea1da0fd7c2675cd323be4b659542c17a924",
+        "rendered": true,
+        "actually_visually_inspected": true,
+        "inspection_scope": "all-page montage layout inspection; selected full-page legibility checks separately recorded"
+      },
+      {
+        "language": "EN",
+        "page": 8,
+        "path": "D:\\SKT727\\materials\\constellation_review_v2_0_20261016\\pdf_qa\\EN_page_08.png",
+        "sha256": "44509d9b23ac5fec09e5a66abe21b324c0efebd52424c542ebb107199f789257",
+        "rendered": true,
+        "actually_visually_inspected": true,
+        "inspection_scope": "all-page montage layout inspection; selected full-page legibility checks separately recorded"
+      },
+      {
+        "language": "EN",
+        "page": 9,
+        "path": "D:\\SKT727\\materials\\constellation_review_v2_0_20261016\\pdf_qa\\EN_page_09.png",
+        "sha256": "332c49b7f295740fb10e4f8b0bf78dafaee8990dfb78008b5fa95656029abe6d",
+        "rendered": true,
+        "actually_visually_inspected": true,
+        "inspection_scope": "all-page montage layout inspection; selected full-page legibility checks separately recorded"
+      },
+      {
+        "language": "EN",
+        "page": 10,
+        "path": "D:\\SKT727\\materials\\constellation_review_v2_0_20261016\\pdf_qa\\EN_page_10.png",
+        "sha256": "e6555fba5c5a5cfc329f84ff1e2ee67d7c163f6d97f8d1907dd687349da87964",
+        "rendered": true,
+        "actually_visually_inspected": true,
+        "inspection_scope": "all-page montage layout inspection; selected full-page legibility checks separately recorded"
+      },
+      {
+        "language": "EN",
+        "page": 11,
+        "path": "D:\\SKT727\\materials\\constellation_review_v2_0_20261016\\pdf_qa\\EN_page_11.png",
+        "sha256": "53bad99982f828381748c86e5b7613b51367da9241fbc1fb009e33ebb334b137",
+        "rendered": true,
+        "actually_visually_inspected": true,
+        "inspection_scope": "all-page montage layout inspection; selected full-page legibility checks separately recorded"
+      },
+      {
+        "language": "EN",
+        "page": 12,
+        "path": "D:\\SKT727\\materials\\constellation_review_v2_0_20261016\\pdf_qa\\EN_page_12.png",
+        "sha256": "6160bac84819267b45f827300db3ca8bdf790605a6a2071e52e024d8ba5c56b4",
+        "rendered": true,
+        "actually_visually_inspected": true,
+        "inspection_scope": "all-page montage layout inspection; selected full-page legibility checks separately recorded"
+      },
+      {
+        "language": "EN",
+        "page": 13,
+        "path": "D:\\SKT727\\materials\\constellation_review_v2_0_20261016\\pdf_qa\\EN_page_13.png",
+        "sha256": "4f32f2fb6867e45ceaa2e707b9bffe357b85a8b9418919e316801979f7fe0304",
+        "rendered": true,
+        "actually_visually_inspected": true,
+        "inspection_scope": "all-page montage layout inspection; selected full-page legibility checks separately recorded"
+      },
+      {
+        "language": "EN",
+        "page": 14,
+        "path": "D:\\SKT727\\materials\\constellation_review_v2_0_20261016\\pdf_qa\\EN_page_14.png",
+        "sha256": "90ab58500e70f59a9aa8634b1e3b3d8ba06f42499dea26a6e9b909c63497393a",
+        "rendered": true,
+        "actually_visually_inspected": true,
+        "inspection_scope": "all-page montage layout inspection; selected full-page legibility checks separately recorded"
+      },
+      {
+        "language": "EN",
+        "page": 15,
+        "path": "D:\\SKT727\\materials\\constellation_review_v2_0_20261016\\pdf_qa\\EN_page_15.png",
+        "sha256": "d511da245b076b72d1f3b2ac89dbd239df94bf3967dcf7a99585ebf01664ad86",
+        "rendered": true,
+        "actually_visually_inspected": true,
+        "inspection_scope": "all-page montage layout inspection; selected full-page legibility checks separately recorded"
+      },
+      {
+        "language": "EN",
+        "page": 16,
+        "path": "D:\\SKT727\\materials\\constellation_review_v2_0_20261016\\pdf_qa\\EN_page_16.png",
+        "sha256": "316823b1fcafcad9851a7c9bfeaf773d9447a3bf9f6f205227c5e484a1ae7f65",
+        "rendered": true,
+        "actually_visually_inspected": true,
+        "inspection_scope": "all-page montage layout inspection; selected full-page legibility checks separately recorded"
+      },
+      {
+        "language": "EN",
+        "page": 17,
+        "path": "D:\\SKT727\\materials\\constellation_review_v2_0_20261016\\pdf_qa\\EN_page_17.png",
+        "sha256": "f1a1b93a3ce765def35c5d205a1feab6183b67b4323b871804ba20c7cbc26f0e",
+        "rendered": true,
+        "actually_visually_inspected": true,
+        "inspection_scope": "all-page montage layout inspection; selected full-page legibility checks separately recorded"
+      },
+      {
+        "language": "EN",
+        "page": 18,
+        "path": "D:\\SKT727\\materials\\constellation_review_v2_0_20261016\\pdf_qa\\EN_page_18.png",
+        "sha256": "0dc117b9267a90abd4dcb0818cc68acc40f6442cd34079963651f850538a3207",
+        "rendered": true,
+        "actually_visually_inspected": true,
+        "inspection_scope": "all-page montage layout inspection; selected full-page legibility checks separately recorded"
+      },
+      {
+        "language": "EN",
+        "page": 19,
+        "path": "D:\\SKT727\\materials\\constellation_review_v2_0_20261016\\pdf_qa\\EN_page_19.png",
+        "sha256": "38b93ae9e99c4f5b48449f4c5e74a474d38800b69babce245b8a96e6520a7647",
+        "rendered": true,
+        "actually_visually_inspected": true,
+        "inspection_scope": "all-page montage layout inspection; selected full-page legibility checks separately recorded"
+      },
+      {
+        "language": "EN",
+        "page": 20,
+        "path": "D:\\SKT727\\materials\\constellation_review_v2_0_20261016\\pdf_qa\\EN_page_20.png",
+        "sha256": "5856b9ae608dd9c76319e032ab31fb8b781a094eabbfa9cf56b57f38567d7c72",
+        "rendered": true,
+        "actually_visually_inspected": true,
+        "inspection_scope": "all-page montage layout inspection; selected full-page legibility checks separately recorded"
+      },
+      {
+        "language": "EN",
+        "page": 21,
+        "path": "D:\\SKT727\\materials\\constellation_review_v2_0_20261016\\pdf_qa\\EN_page_21.png",
+        "sha256": "7fead87506602852b42a54b859ea2ca939b1721f9bbe25ae7819f4a63b8c2fcd",
+        "rendered": true,
+        "actually_visually_inspected": true,
+        "inspection_scope": "all-page montage layout inspection; selected full-page legibility checks separately recorded"
+      },
+      {
+        "language": "EN",
+        "page": 22,
+        "path": "D:\\SKT727\\materials\\constellation_review_v2_0_20261016\\pdf_qa\\EN_page_22.png",
+        "sha256": "14fc22e468862f2ebd345fcf1d02d7a1a9da872cff31a5d4810d46f9d362ca0c",
+        "rendered": true,
+        "actually_visually_inspected": true,
+        "inspection_scope": "all-page montage layout inspection; selected full-page legibility checks separately recorded"
+      },
+      {
+        "language": "EN",
+        "page": 23,
+        "path": "D:\\SKT727\\materials\\constellation_review_v2_0_20261016\\pdf_qa\\EN_page_23.png",
+        "sha256": "e47c8d7acbf9ce6008397e5c952027c84cb84a41e4cafcc65219a3e7a9de5282",
+        "rendered": true,
+        "actually_visually_inspected": true,
+        "inspection_scope": "all-page montage layout inspection; selected full-page legibility checks separately recorded"
+      }
+    ],
+    "montages": [
+      {
+        "language": "CN",
+        "pages": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ],
+        "path": "D:\\SKT727\\materials\\constellation_review_v2_0_20261016\\pdf_qa\\CN_contact_1.png"
+      },
+      {
+        "language": "CN",
+        "pages": [
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "path": "D:\\SKT727\\materials\\constellation_review_v2_0_20261016\\pdf_qa\\CN_contact_2.png"
+      },
+      {
+        "language": "EN",
+        "pages": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ],
+        "path": "D:\\SKT727\\materials\\constellation_review_v2_0_20261016\\pdf_qa\\EN_contact_1.png"
+      },
+      {
+        "language": "EN",
+        "pages": [
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23
+        ],
+        "path": "D:\\SKT727\\materials\\constellation_review_v2_0_20261016\\pdf_qa\\EN_contact_2.png"
+      }
+    ],
+    "rendered_page_count": 44,
+    "not_yet_visual_approval": false,
+    "AI_visual_layout_inspection_completed": true,
+    "inspected_page_count": 44,
+    "human_verified": false,
+    "scientific_evidence_verified": false,
+    "full_page_detail_checks": [
+      {
+        "language": "EN",
+        "page": 1
+      },
+      {
+        "language": "CN",
+        "page": 12
+      },
+      {
+        "language": "EN",
+        "page": 15
+      },
+      {
+        "language": "CN",
+        "page": 21
+      },
+      {
+        "language": "EN",
+        "page": 13
+      },
+      {
+        "language": "CN",
+        "page": 3
+      },
+      {
+        "language": "EN",
+        "page": 23
+      },
+      {
+        "language": "EN",
+        "page": 18
+      }
+    ],
+    "latest_montages_actually_inspected": [
+      "D:\\SKT727\\materials\\constellation_review_v2_0_20261016\\pdf_qa\\CN_contact_1.png",
+      "D:\\SKT727\\materials\\constellation_review_v2_0_20261016\\pdf_qa\\CN_contact_2.png",
+      "D:\\SKT727\\materials\\constellation_review_v2_0_20261016\\pdf_qa\\EN_contact_1.png",
+      "D:\\SKT727\\materials\\constellation_review_v2_0_20261016\\pdf_qa\\EN_contact_2.png"
+    ],
+    "resolved_layout_issues": [
+      "English title justification",
+      "diagram label/arrow overlap",
+      "parenthesized DOI hyperlinks"
+    ],
+    "remaining_detected_layout_defects": []
+  },
+  "PDFs_external_to_Git_repository": true,
+  "meaning": "layout inspection, not scientific or journal approval"
+}

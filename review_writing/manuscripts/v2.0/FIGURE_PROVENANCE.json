@@ -1,0 +1,56 @@
+{
+  "figures": [
+    {
+      "path": "review_writing/manuscripts/v2.0/assets/fig1_cn.svg",
+      "sha256": "bfdf42dd50cabd68960cd771e5f5982b62197db6945afb564e44b4eab9422a78",
+      "kind": "original_review_author_conceptual_synthesis",
+      "copied_from_third_party": false,
+      "does_not_encode_new_experimental_data": true,
+      "human_verified": false
+    },
+    {
+      "path": "review_writing/manuscripts/v2.0/assets/fig2_cn.svg",
+      "sha256": "4b972ef37f868a8a75ccc4e0049bc7a3b224cf2ad6a93314027b9be5d10cfddf",
+      "kind": "original_review_author_conceptual_synthesis",
+      "copied_from_third_party": false,
+      "does_not_encode_new_experimental_data": true,
+      "human_verified": false
+    },
+    {
+      "path": "review_writing/manuscripts/v2.0/assets/fig1_en.svg",
+      "sha256": "cda8ec2ed75627a40a0205956f6ab0d29910d3d4e4a9566077e3b63de0e6266f",
+      "kind": "original_review_author_conceptual_synthesis",
+      "copied_from_third_party": false,
+      "does_not_encode_new_experimental_data": true,
+      "human_verified": false
+    },
+    {
+      "path": "review_writing/manuscripts/v2.0/assets/fig2_en.svg",
+      "sha256": "58b8f6f684c94ecef6b9fa14f3db0dfb10a82b124db5179f578ab234b773c5d6",
+      "kind": "original_review_author_conceptual_synthesis",
+      "copied_from_third_party": false,
+      "does_not_encode_new_experimental_data": true,
+      "human_verified": false
+    }
+  ],
+  "actual_figure_inspection": "four-figure contact sheet and final PDF figure pages inspected; vector labels and arrows checked",
+  "external_PNGs": [
+    {
+      "path": "D:\\SKT727\\materials\\constellation_review_v2_0_20261016\\fig1_cn.png",
+      "sha256": "0b7f50546bfba95bfade9914ca46e02516efff87fbaf8ca8d1b2d4e77680a157"
+    },
+    {
+      "path": "D:\\SKT727\\materials\\constellation_review_v2_0_20261016\\fig2_cn.png",
+      "sha256": "eb19add7095cb0acf9a701b67aed0276e9bf2f107b0ef5618661c4049c3e76f2"
+    },
+    {
+      "path": "D:\\SKT727\\materials\\constellation_review_v2_0_20261016\\fig1_en.png",
+      "sha256": "b8735504672ab477a39637c6be605ec3e40f332362edae89d421ff9460d408c5"
+    },
+    {
+      "path": "D:\\SKT727\\materials\\constellation_review_v2_0_20261016\\fig2_en.png",
+      "sha256": "27ab2d12ff6dd3380a580039e395f98a41ba49bae76673962c5fd8e43c13b16d"
+    }
+  ],
+  "human_verified": false
+}

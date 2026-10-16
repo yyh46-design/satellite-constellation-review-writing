@@ -1,0 +1,72 @@
+{
+  "tool_results": {
+    "CN": {
+      "issues": [
+        {
+          "code": "CONFIDENTIALITY_GATE_NOT_CHECKED",
+          "location": "manifest",
+          "severity": "warning"
+        }
+      ],
+      "status": "pass",
+      "summary": {
+        "errors": 0,
+        "lines_checked": 563,
+        "raw_text_echoed": false,
+        "warnings": 1
+      },
+      "tool": "lint_manuscript"
+    },
+    "EN": {
+      "issues": [
+        {
+          "code": "CONFIDENTIALITY_GATE_NOT_CHECKED",
+          "location": "manifest",
+          "severity": "warning"
+        },
+        {
+          "code": "POTENTIAL_OVERSTATEMENT",
+          "location": "line:107",
+          "severity": "warning"
+        },
+        {
+          "code": "POTENTIAL_OVERSTATEMENT",
+          "location": "line:199",
+          "severity": "warning"
+        },
+        {
+          "code": "POTENTIAL_OVERSTATEMENT",
+          "location": "line:213",
+          "severity": "warning"
+        }
+      ],
+      "status": "pass",
+      "summary": {
+        "errors": 0,
+        "lines_checked": 557,
+        "raw_text_echoed": false,
+        "warnings": 4
+      },
+      "tool": "lint_manuscript"
+    }
+  },
+  "manual_dispositions": [
+    {
+      "code": "CONFIDENTIALITY_GATE_NOT_CHECKED",
+      "status": "open_for_author_policy_review",
+      "comment": "no confidentiality/institutional clearance fabricated; local processing only, no manuscript sent in web queries"
+    },
+    {
+      "code": "POTENTIAL_OVERSTATEMENT",
+      "locations": [
+        "EN line107",
+        "EN line199",
+        "EN line213"
+      ],
+      "status": "context_reviewed_no_unconditional_guarantee_asserted",
+      "comment": "phrases qualify conditions/levels or label a scope column; source-property and human checks remain pending"
+    }
+  ],
+  "machine_zero_errors_is_not_scientific_verification": true,
+  "human_verified": false
+}
