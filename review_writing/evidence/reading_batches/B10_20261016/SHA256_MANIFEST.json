@@ -1,0 +1,96 @@
+{
+  "batch": "B10_20261016",
+  "parent_commit": "2f82af74406caa0c840e1bba763bbda2c7d51fdf",
+  "scope": "B10新目录本地提交；不含第三方原文文件；不是GitHub发布回执",
+  "expected_local_commit_files": [
+    ".gitattributes",
+    "ACCESS_OBSERVATIONS.json",
+    "CLAIM_CHECKS_B10.json",
+    "CLAIM_DEPENDENCY_MAP.csv",
+    "CROSS_STUDY_SYNTHESIS.md",
+    "CUMULATIVE_READING_STATUS.json",
+    "OPEN_ITEMS_B10.md",
+    "READING_NOTES_B10.md",
+    "README.md",
+    "REPLACEMENT_DECISION_MATRIX.csv",
+    "SHA256_MANIFEST.json",
+    "SOURCE_ACCESS_REGISTER.csv",
+    "SOURCE_MANIFEST_B10.json",
+    "V21_REPLACEMENT_CANDIDATES.md",
+    "verify_b10.py"
+  ],
+  "files_excluding_manifest": [
+    {
+      "path": ".gitattributes",
+      "bytes": 14,
+      "sha256": "a79691a93b46e49ce460c26ef22afcc03d6eca1e63bf2edbc20e96159510f6c9"
+    },
+    {
+      "path": "ACCESS_OBSERVATIONS.json",
+      "bytes": 27302,
+      "sha256": "0b9c3ca5e3449a2031badcc742d93bb289bb6f5b815df04ea437fa3a15d705c3"
+    },
+    {
+      "path": "CLAIM_CHECKS_B10.json",
+      "bytes": 37253,
+      "sha256": "6f156a87f9e6f73af589334b7234f168788259cb065c06c16c0a78f29b015e11"
+    },
+    {
+      "path": "CLAIM_DEPENDENCY_MAP.csv",
+      "bytes": 25909,
+      "sha256": "e4a83934059a653ba7c92ee1b39ac5b3edc79e863a02de11abfe578470312d07"
+    },
+    {
+      "path": "CROSS_STUDY_SYNTHESIS.md",
+      "bytes": 4828,
+      "sha256": "3168c53baeb037be422e16469a03693f7c6fb1dcd389b43bc4137d3d7db65875"
+    },
+    {
+      "path": "CUMULATIVE_READING_STATUS.json",
+      "bytes": 2835,
+      "sha256": "25139d4500a4773c6767d86eed5e2a3efbb6dd5b906e279d58fba4ffd4770711"
+    },
+    {
+      "path": "OPEN_ITEMS_B10.md",
+      "bytes": 4641,
+      "sha256": "443eca4265cd6fef062548119a1e4931ed5620b84127db8747dbce01bd9ad716"
+    },
+    {
+      "path": "READING_NOTES_B10.md",
+      "bytes": 17385,
+      "sha256": "e153152dc9fd33b8cf11682646c5b563bc72e78f626249c1aa52c6ba17c67594"
+    },
+    {
+      "path": "README.md",
+      "bytes": 5022,
+      "sha256": "584a02803e0fa81448d3a9621a65e978352a638e2ffd9f267dfd592ee5216b0f"
+    },
+    {
+      "path": "REPLACEMENT_DECISION_MATRIX.csv",
+      "bytes": 5949,
+      "sha256": "dc343706e1a30f58c27042b05512dc98da7c71b5f9d1a51cfddfdd94381234e5"
+    },
+    {
+      "path": "SOURCE_ACCESS_REGISTER.csv",
+      "bytes": 9311,
+      "sha256": "d62545580b99e10e3463c21c6d90a74c57dc8d5228d4c87dff9c2fa0c6169863"
+    },
+    {
+      "path": "SOURCE_MANIFEST_B10.json",
+      "bytes": 85259,
+      "sha256": "bf9a648619d13ef5708fb4885cfea4c904032c372f24b8d333b0ab221e3060d2"
+    },
+    {
+      "path": "V21_REPLACEMENT_CANDIDATES.md",
+      "bytes": 7441,
+      "sha256": "e9938d0a2466b59968dd3ea9db63359c000c9a4f89a128de3398a3c000370dd4"
+    },
+    {
+      "path": "verify_b10.py",
+      "bytes": 5936,
+      "sha256": "1b26f1d1cd3ffef5eb64c1976ad234dbed4662387b41dbdfb82f6bd583065d01"
+    }
+  ],
+  "manifest_self_hash": "由Git对象固定，避免自引用",
+  "third_party_files_included": false
+}

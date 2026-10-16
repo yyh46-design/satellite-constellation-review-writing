@@ -1,0 +1,2219 @@
+{
+  "batch": "B10_20261016",
+  "access_date_client": "2026-10-16",
+  "parent_commit": "2f82af74406caa0c840e1bba763bbda2c7d51fdf",
+  "material_root": "D:\\SKT727\\materials\\constellation_review_B10_20261016",
+  "unique_candidate_papers": 11,
+  "outside_original_catalog": 10,
+  "existing_catalog_reread_refs": [
+    119
+  ],
+  "papers_with_selected_complete_pdf": 10,
+  "selected_pdf_version_categories": {
+    "publisher_or_publisher_formatted": 4,
+    "accepted_or_institution_author_copy": 2,
+    "arxiv_preprint": 4
+  },
+  "publisher_html_only_papers": 1,
+  "extra_pdf_version_files": 1,
+  "sources": [
+    {
+      "id": "ALT01",
+      "title_cn": "面向纳卫星星座服务质量保障的能量感知任务调度",
+      "formal_doi": "10.3390/s22103715",
+      "read_doi": "10.3390/s22103715",
+      "metadata_file": "ALT01_crossref.json",
+      "pdf": "ALT01_paper.pdf",
+      "version": "publisher_version",
+      "version_cn": "出版社开放获取正式PDF",
+      "priority": "推荐按论点改写后采用",
+      "read_pages": [
+        4,
+        5,
+        6,
+        10,
+        11,
+        12,
+        13,
+        17
+      ],
+      "visual_pages": [
+        5,
+        11,
+        17
+      ],
+      "sections": "§3建模与ε约束方法；§4实验；§5结论",
+      "scope": "个体任务、共享任务、可选同时冗余，轨道光照与电池SoC约束；MILP用Gurobi求解。",
+      "experiment": "1—5星；同轨等间隔、623 km、96 min轨道；Julia/JuMP、Gurobi GAP≤1%；Xeon E5-2630 v4 2.20 GHz，20核40线程，64 GB，Ubuntu 20.04.2。",
+      "finding": "论文给出个体与集体任务QoS及冗余之间的可行权衡，适合解释能量模型如何改变任务选择。",
+      "limitation": "§5明确把branch-and-price列为未来工作。不能保留原[33]已实现分支定价的描述；1—5星不是巨型星座验证；求解停止间隙不等于严格全局最优。",
+      "open": "若综述要讨论分支定价定价子问题、列生成和大星座耗时，仍需原[33]正文或另找同类已核读来源。",
+      "title_read": "An Energy-Aware Task Scheduling for Quality-of-Service Assurance in Constellations of Nanosatellites",
+      "original_ref_roles": [
+        33
+      ],
+      "publication_metadata": {
+        "DOI": "10.3390/s22103715",
+        "title": [
+          "An Energy-Aware Task Scheduling for Quality-of-Service Assurance in Constellations of Nanosatellites"
+        ],
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0000-0002-6806-9122",
+            "authenticated-orcid": false,
+            "given": "Laio Oriel",
+            "family": "Seman",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Graduate Program in Applied Computer Science, University of Vale do Itajaí (UNIVALI), Itajaí 88302-901, SC, Brazil"
+              },
+              {
+                "name": "Department of Automation and Systems Engineering, Federal University of Santa Catarina (UFSC), Florianópolis 88040-900, SC, Brazil"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Brenda F.",
+            "family": "Ribeiro",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Department of Electrical Engineering, Federal University of Santa Catarina (UFSC), Florianópolis 88040-900, SC, Brazil"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Cezar A.",
+            "family": "Rigo",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Department of Electrical Engineering, Federal University of Santa Catarina (UFSC), Florianópolis 88040-900, SC, Brazil"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Edemar Morsch",
+            "family": "Filho",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Graduate Program in Aerospace Engineering, Federal University of Maranhão (UFMA), São Luís 65080-805, MA, Brazil"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0002-0236-0689",
+            "authenticated-orcid": false,
+            "given": "Eduardo",
+            "family": "Camponogara",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Department of Automation and Systems Engineering, Federal University of Santa Catarina (UFSC), Florianópolis 88040-900, SC, Brazil"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0002-5071-0831",
+            "authenticated-orcid": false,
+            "given": "Rodrigo",
+            "family": "Leonardi",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Brazilian Space Agency (AEB), Brasilia 70610-200, DF, Brazil"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0002-2191-6064",
+            "authenticated-orcid": false,
+            "given": "Eduardo A.",
+            "family": "Bezerra",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Department of Electrical Engineering, Federal University of Santa Catarina (UFSC), Florianópolis 88040-900, SC, Brazil"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Sensors"
+        ],
+        "volume": "22",
+        "issue": "10",
+        "page": "3715",
+        "article-number": null,
+        "published": {
+          "date-parts": [
+            [
+              2022,
+              5,
+              13
+            ]
+          ]
+        },
+        "published-online": {
+          "date-parts": [
+            [
+              2022,
+              5,
+              13
+            ]
+          ]
+        },
+        "relation": {},
+        "update-to": null
+      },
+      "authors_read": [
+        "Laio Oriel Seman",
+        "Brenda F. Ribeiro",
+        "Cezar A. Rigo",
+        "Edemar Morsch Filho",
+        "Eduardo Camponogara",
+        "Rodrigo Leonardi",
+        "Eduardo A. Bezerra"
+      ],
+      "metadata_match": "exact_normalized_title_and_DOI",
+      "source_url": "https://mdpi-res.com/d_attachment/sensors/sensors-22-03715/article_deploy/sensors-22-03715-v3.pdf?version=1653469277",
+      "local_pdf": "D:\\SKT727\\materials\\constellation_review_B10_20261016\\ALT01_paper.pdf",
+      "pdf_pages": 18,
+      "pdf_bytes": 429966,
+      "pdf_sha256": "41c7aad14b1d60aee948d073f1d6210892061b84edaccc817d01dcaf424df5d0",
+      "text_path": "D:\\SKT727\\materials\\constellation_review_B10_20261016\\ALT01_paper.txt",
+      "text_sha256": "2bb3ea97841e1481d86bbb08a563b3eaad0f9e078cf650223b0f001359ffcbaf",
+      "text_extractable": true,
+      "text_extraction_limit": "公式仍以实际页面为准；未逐式验算",
+      "matches_original_121": [],
+      "body_reading": "targeted_method_model_and_evaluation_passages",
+      "all_pages_all_proofs_read": false,
+      "human_verified": false,
+      "formal_version_parity_closed": false,
+      "access_date_client": "2026-10-16",
+      "third_party_pdf_uploaded": false,
+      "actual_visual_checks": [
+        {
+          "pdf": "ALT01_paper.pdf",
+          "physical_page": 5,
+          "png": "D:\\SKT727\\materials\\constellation_review_B10_20261016\\page_checks\\ALT01_paper_p05.png",
+          "sha256": "a10c0fd6b6a402d48b6a95fb43c0a11e022b030f241d45132e8bea2d617b2209",
+          "rendered": true,
+          "visually_reviewed": true,
+          "reviewer": "Codex AI",
+          "human_verified": false,
+          "inspection": "full_page_pixels_returned_and_inspected"
+        },
+        {
+          "pdf": "ALT01_paper.pdf",
+          "physical_page": 11,
+          "png": "D:\\SKT727\\materials\\constellation_review_B10_20261016\\page_checks\\ALT01_paper_p11.png",
+          "sha256": "1c84ea7079dd578c21ec0509a3950c0b90b07c9d6a63af2d6af8642cb72f2cd8",
+          "rendered": true,
+          "visually_reviewed": true,
+          "reviewer": "Codex AI",
+          "human_verified": false,
+          "inspection": "full_page_pixels_returned_and_inspected"
+        },
+        {
+          "pdf": "ALT01_paper.pdf",
+          "physical_page": 17,
+          "png": "D:\\SKT727\\materials\\constellation_review_B10_20261016\\page_checks\\ALT01_paper_p17.png",
+          "sha256": "24b87e0d3c0a42c7b349b45353baa76c513fbe9d5381c07526740416bd66612f",
+          "rendered": true,
+          "visually_reviewed": true,
+          "reviewer": "Codex AI",
+          "human_verified": false,
+          "inspection": "full_page_pixels_returned_and_inspected"
+        }
+      ]
+    },
+    {
+      "id": "ALT02",
+      "title_cn": "RL-GA：面向电磁探测卫星调度的强化学习遗传算法",
+      "formal_doi": "10.1016/j.swevo.2023.101236",
+      "read_doi": "10.1016/j.swevo.2023.101236",
+      "metadata_file": "ALT02_crossref.json",
+      "pdf": "ALT02_paper.pdf",
+      "version": "publisher_formatted_author_hosted",
+      "version_cn": "作者公开的出版社排版全文",
+      "priority": "推荐按论点改写后采用",
+      "read_pages": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        10,
+        11
+      ],
+      "visual_pages": [
+        6,
+        8,
+        11
+      ],
+      "sections": "§3.1.6 Q-learning；§3.2 TTWSA；§4.1设置；§4.2.3及表6耗时",
+      "scope": "Q表按适应度是否改善选择交叉、变异及其组合；时间窗选择器承担可行解码。",
+      "experiment": "2星、100—1400任务；30次运行；共同5000次评价预算；MATLAB 2020a，Core i7-7700 3.6 GHz，16 GB，Windows 11；STK 11.2生成窗口。",
+      "finding": "可支撑学习位于搜索算子选择层的归类。表6列出1400任务实例约4秒的CPU时间，但个别实例并非所有方法中最快。",
+      "limitation": "不是深度强化学习、不是大邻域搜索，也未据所核读内容验证在线应急任务到达。任务数不能换成卫星数；案例流程不能当作独立确认的在轨实测。",
+      "open": "原[63]的DRL-LNS在线重调度机理、训练成本和请求到达实验仍待原文；若采用ALT02，应把代表性论点改为学习辅助搜索。",
+      "title_read": "RL-GA: A Reinforcement Learning-based Genetic Algorithm for Electromagnetic Detection Satellite Scheduling Problem",
+      "original_ref_roles": [
+        63
+      ],
+      "publication_metadata": {
+        "DOI": "10.1016/j.swevo.2023.101236",
+        "title": [
+          "RL-GA: A Reinforcement Learning-based Genetic Algorithm for Electromagnetic Detection Satellite Scheduling Problem"
+        ],
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0000-0002-4313-8312",
+            "authenticated-orcid": false,
+            "given": "Yanjie",
+            "family": "Song",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Luona",
+            "family": "Wei",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Qing",
+            "family": "Yang",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Jian",
+            "family": "Wu",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Lining",
+            "family": "Xing",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Yingwu",
+            "family": "Chen",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Swarm and Evolutionary Computation"
+        ],
+        "volume": "77",
+        "issue": null,
+        "page": "101236",
+        "article-number": "101236",
+        "published": {
+          "date-parts": [
+            [
+              2023,
+              3
+            ]
+          ]
+        },
+        "published-online": null,
+        "relation": {},
+        "update-to": null
+      },
+      "authors_read": [
+        "Yanjie Song",
+        "Luona Wei",
+        "Qing Yang",
+        "Jian Wu",
+        "Lining Xing",
+        "Yingwu Chen"
+      ],
+      "metadata_match": "exact_normalized_title_and_DOI",
+      "source_url": "https://yanjiesong.github.io/files/RLGA2023.pdf",
+      "local_pdf": "D:\\SKT727\\materials\\constellation_review_B10_20261016\\ALT02_paper.pdf",
+      "pdf_pages": 14,
+      "pdf_bytes": 2198498,
+      "pdf_sha256": "1ad9e06feab95c2fcf84f2bc26332c3574b36724e5290eb11ac46c4f3f1b2598",
+      "text_path": "D:\\SKT727\\materials\\constellation_review_B10_20261016\\ALT02_paper.txt",
+      "text_sha256": "b5b3432c19ff30b0701b97e45d12fb49c5e96990c8b95fb2a053aa658deb4b35",
+      "text_extractable": true,
+      "text_extraction_limit": "公式仍以实际页面为准；未逐式验算",
+      "matches_original_121": [],
+      "body_reading": "targeted_method_model_and_evaluation_passages",
+      "all_pages_all_proofs_read": false,
+      "human_verified": false,
+      "formal_version_parity_closed": false,
+      "access_date_client": "2026-10-16",
+      "third_party_pdf_uploaded": false,
+      "actual_visual_checks": [
+        {
+          "pdf": "ALT02_paper.pdf",
+          "physical_page": 6,
+          "png": "D:\\SKT727\\materials\\constellation_review_B10_20261016\\page_checks\\ALT02_paper_p06.png",
+          "sha256": "650149d826575f3934517e2ae187821704489c9af754ee9f41e0d75296b04947",
+          "rendered": true,
+          "visually_reviewed": true,
+          "reviewer": "Codex AI",
+          "human_verified": false,
+          "inspection": "full_page_pixels_returned_and_inspected"
+        },
+        {
+          "pdf": "ALT02_paper.pdf",
+          "physical_page": 8,
+          "png": "D:\\SKT727\\materials\\constellation_review_B10_20261016\\page_checks\\ALT02_paper_p08.png",
+          "sha256": "83f757514ab7fdf15996157ce52d94949048e4992718ba94386569cefc9d6fa2",
+          "rendered": true,
+          "visually_reviewed": true,
+          "reviewer": "Codex AI",
+          "human_verified": false,
+          "inspection": "full_page_pixels_returned_and_inspected"
+        },
+        {
+          "pdf": "ALT02_paper.pdf",
+          "physical_page": 11,
+          "png": "D:\\SKT727\\materials\\constellation_review_B10_20261016\\page_checks\\ALT02_paper_p11.png",
+          "sha256": "a6fba333e6409426e42315148e3f9b3dc8a2a064f2e1e7d67d07020a3ed8dbb3",
+          "rendered": true,
+          "visually_reviewed": true,
+          "reviewer": "Codex AI",
+          "human_verified": false,
+          "inspection": "full_page_pixels_returned_and_inspected"
+        }
+      ]
+    },
+    {
+      "id": "ALT03",
+      "title_cn": "低轨卫星网络的切换协议学习：接入时延与碰撞最小化",
+      "formal_doi": "10.1109/TWC.2023.3342975",
+      "read_doi": "10.1109/TWC.2023.3342975",
+      "alternate_doi": "10.48550/arXiv.2310.20215",
+      "metadata_file": "ALT03_formal_crossref.json",
+      "pdf": "ALT03_usc_publisher_formatted.pdf",
+      "version": "publisher_formatted_institution_hosted",
+      "version_cn": "USC公开的正式排版PDF（另取得arXiv v1）",
+      "priority": "推荐按论点改写后采用",
+      "read_pages": [
+        3,
+        4,
+        5,
+        9,
+        10,
+        11,
+        12
+      ],
+      "visual_pages": [
+        9,
+        11
+      ],
+      "sections": "§III协议与碰撞；§IV学习；§V及表III、V",
+      "scope": "DHO用学习预测接入条件，省去测量报告环节；分别处理资源块不足与随机接入前导碰撞。",
+      "experiment": "1服务星＋2目标星、3轨道面、550 km；1000×1000 m²用户区域；表III用户数10—200；IMPALA、部分可观测状态仿真。",
+      "finding": "表V显示接入时延改善时PRACH碰撞仍可能高于随机方案，适合综述解释多指标权衡。",
+      "limitation": "接入协议时延不是端到端路由时延；3星场景不能表述为多层巨型星座实测。训练用户规模增加带来额外成本。",
+      "open": "原[77]路由代价与切换联合决策仍未被替代；若要保留该专门结论，仍需原文。ALT03与其arXiv副本未逐式对照。",
+      "title_read": "Handover Protocol Learning for LEO Satellite Networks: Access Delay and Collision Minimization",
+      "original_ref_roles": [
+        77
+      ],
+      "publication_metadata": {
+        "DOI": "10.1109/twc.2023.3342975",
+        "title": [
+          "Handover Protocol Learning for LEO Satellite Networks: Access Delay and Collision Minimization"
+        ],
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0000-0003-1947-0283",
+            "authenticated-orcid": false,
+            "given": "Ju-Hyung",
+            "family": "Lee",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Ming Hsieh Department of Electrical and Computer Engineering, University of Southern California, Los Angeles, CA, USA"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0002-7945-2362",
+            "authenticated-orcid": false,
+            "given": "Chanyoung",
+            "family": "Park",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "School of Electrical Engineering, Korea University, Seoul, South Korea"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0002-6556-9746",
+            "authenticated-orcid": false,
+            "given": "Soohyun",
+            "family": "Park",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "School of Electrical Engineering, Korea University, Seoul, South Korea"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0002-4779-4763",
+            "authenticated-orcid": false,
+            "given": "Andreas F.",
+            "family": "Molisch",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Ming Hsieh Department of Electrical and Computer Engineering, University of Southern California, Los Angeles, CA, USA"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "IEEE Transactions on Wireless Communications"
+        ],
+        "volume": "23",
+        "issue": "7",
+        "page": "7624-7637",
+        "article-number": null,
+        "published": {
+          "date-parts": [
+            [
+              2024,
+              7
+            ]
+          ]
+        },
+        "published-online": null,
+        "relation": {},
+        "update-to": null
+      },
+      "authors_read": [
+        "Ju-Hyung Lee",
+        "Chanyoung Park",
+        "Soohyun Park",
+        "Andreas F. Molisch"
+      ],
+      "metadata_match": "exact_normalized_title_and_DOI",
+      "source_url": "https://wides.usc.edu/Updated_pdf/Handover%20Protocol%20Learning%20for%20LEO%20Satellite%20Networks%3A%20Access%20Delay%20and%20Collision%20Minimization.pdf",
+      "local_pdf": "D:\\SKT727\\materials\\constellation_review_B10_20261016\\ALT03_usc_publisher_formatted.pdf",
+      "pdf_pages": 14,
+      "pdf_bytes": 1869557,
+      "pdf_sha256": "6a26a5f9a0212ece286cc0c1717c1c095f810634e446b6748694a4f192300a6d",
+      "text_path": "D:\\SKT727\\materials\\constellation_review_B10_20261016\\ALT03_usc_publisher_formatted.txt",
+      "text_sha256": "fa2e1e68115d1706fda2a3596815cdc88a47306b3934dc40afce4dc639354c51",
+      "text_extractable": true,
+      "text_extraction_limit": "公式仍以实际页面为准；未逐式验算",
+      "matches_original_121": [],
+      "body_reading": "targeted_method_model_and_evaluation_passages",
+      "all_pages_all_proofs_read": false,
+      "human_verified": false,
+      "formal_version_parity_closed": false,
+      "access_date_client": "2026-10-16",
+      "third_party_pdf_uploaded": false,
+      "actual_visual_checks": [
+        {
+          "pdf": "ALT03_usc_publisher_formatted.pdf",
+          "physical_page": 9,
+          "png": "D:\\SKT727\\materials\\constellation_review_B10_20261016\\page_checks\\ALT03_usc_publisher_formatted_p09.png",
+          "sha256": "ee0f7d39cb459e5dd6a67df9abb23f4f077eb9b7184456b1ce1caabfb85c4399",
+          "rendered": true,
+          "visually_reviewed": true,
+          "reviewer": "Codex AI",
+          "human_verified": false,
+          "inspection": "full_page_pixels_returned_and_inspected"
+        },
+        {
+          "pdf": "ALT03_usc_publisher_formatted.pdf",
+          "physical_page": 11,
+          "png": "D:\\SKT727\\materials\\constellation_review_B10_20261016\\page_checks\\ALT03_usc_publisher_formatted_p11.png",
+          "sha256": "dc276ac1c1ce59bd9059c6a00cd77098c7036db08391f92e85bce90fffda43ac",
+          "rendered": true,
+          "visually_reviewed": true,
+          "reviewer": "Codex AI",
+          "human_verified": false,
+          "inspection": "full_page_pixels_returned_and_inspected"
+        }
+      ]
+    },
+    {
+      "id": "ALT04",
+      "title_cn": "兼顾切换频率控制与星地频谱共享的低轨卫星波束管理",
+      "formal_doi_candidate": "10.1109/TCOMM.2024.3516479",
+      "read_doi": "10.48550/arXiv.2404.08967",
+      "pdf": "ALT04_paper.pdf",
+      "version": "arxiv_v1",
+      "version_cn": "arXiv v1作者预印本",
+      "authors_read": [
+        "Yaohua Sun",
+        "Jianfeng Zhu",
+        "Mugen Peng"
+      ],
+      "year_read": 2024,
+      "priority": "机制候选；公式和版本待核",
+      "read_pages": [
+        1,
+        5,
+        6,
+        10,
+        11
+      ],
+      "visual_pages": [
+        5,
+        10
+      ],
+      "sections": "§III约束与Lyapunov转换；§IV分解；§V实验",
+      "scope": "以虚拟队列处理长期切换频率；分解星间切换、跳波束与星地频谱共享。",
+      "experiment": "背景1200星（30×40）、20波束小区、200地面基站簇；每小区始终由2颗可见星服务的简化；理论复杂度而非已核得的硬件计时。",
+      "finding": "能补充长期切换约束与短时波束决策之间的时间尺度连接，也表明全星座规模与局部优化规模应分开报告。",
+      "limitation": "是卫星—地面基站共存，不是GEO—LEO共存。页面复核确认式(14)显示两二元量之和等于0，不能自行改成≤1；正式发表作者顺序与v1不同，全文同一性未核。",
+      "open": "正式DOI仅为候选匹配：ComSoc官方目录确认题名、作者Jianfeng Zhu/Yaohua Sun/Mugen Peng、2025、5247—5263，但未取得正式全文逐式对照。保留预印本身份，不复述公式证明或绝对增益。",
+      "title_read": "Beam Management in Low Earth Orbit Satellite Communication With Handover Frequency Control and Satellite-Terrestrial Spectrum Sharing",
+      "original_ref_roles": [
+        75,
+        77
+      ],
+      "publication_metadata": null,
+      "metadata_match": "arxiv_frontmatter; formal_not_verified",
+      "source_url": "https://arxiv.org/pdf/2404.08967v1",
+      "local_pdf": "D:\\SKT727\\materials\\constellation_review_B10_20261016\\ALT04_paper.pdf",
+      "pdf_pages": 14,
+      "pdf_bytes": 1535634,
+      "pdf_sha256": "3b55c56a48eb60c97209248ea21faec757a3f7436f5cbfb4da1523c4331f5b44",
+      "text_path": "D:\\SKT727\\materials\\constellation_review_B10_20261016\\ALT04_paper.txt",
+      "text_sha256": "e9792f33cf931bb1cd09c3aa9d156def73dcdb6ac884e97f8e26d3db2e16ee66",
+      "text_extractable": true,
+      "text_extraction_limit": "公式仍以实际页面为准；未逐式验算",
+      "matches_original_121": [],
+      "body_reading": "targeted_method_model_and_evaluation_passages",
+      "all_pages_all_proofs_read": false,
+      "human_verified": false,
+      "formal_version_parity_closed": false,
+      "access_date_client": "2026-10-16",
+      "third_party_pdf_uploaded": false,
+      "actual_visual_checks": [
+        {
+          "pdf": "ALT04_paper.pdf",
+          "physical_page": 5,
+          "png": "D:\\SKT727\\materials\\constellation_review_B10_20261016\\page_checks\\ALT04_paper_p05.png",
+          "sha256": "1410afcd636d0433e5e8d0554a67d3ab9abf9152f6eeca766c54634cc8ac16c1",
+          "rendered": true,
+          "visually_reviewed": true,
+          "reviewer": "Codex AI",
+          "human_verified": false,
+          "inspection": "full_page_pixels_returned_and_inspected"
+        },
+        {
+          "pdf": "ALT04_paper.pdf",
+          "physical_page": 10,
+          "png": "D:\\SKT727\\materials\\constellation_review_B10_20261016\\page_checks\\ALT04_paper_p10.png",
+          "sha256": "d32781ab62be6e023d122d60046043566e89132ff19f3e89760247f79c0d92b5",
+          "rendered": true,
+          "visually_reviewed": true,
+          "reviewer": "Codex AI",
+          "human_verified": false,
+          "inspection": "full_page_pixels_returned_and_inspected"
+        }
+      ]
+    },
+    {
+      "id": "ALT05",
+      "title_cn": "基于深度强化学习的多卫星跳波束与功率分配",
+      "read_doi": "10.48550/arXiv.2501.02309",
+      "pdf": "ALT05_paper.pdf",
+      "version": "arxiv_v1",
+      "version_cn": "arXiv v1作者预印本；正式发表记录未确认",
+      "authors_read": [
+        "Xia Xie",
+        "Kexin Fan",
+        "Wenfeng Deng",
+        "Nikolaos Pappas",
+        "Qinyu Zhang"
+      ],
+      "year_read": 2025,
+      "priority": "储备；不采用绝对性能数字",
+      "read_pages": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        9,
+        11
+      ],
+      "visual_pages": [
+        9
+      ],
+      "sections": "§II队列；§III问题；§IV混合动作PPO；§V及表II",
+      "scope": "集中式NOCC利用队列、信道状态；共享底座的离散选束与连续功率双输出PPO；惩罚波束重叠和超功率。",
+      "experiment": "5星、161小区、每星8波束、550 km、2 ms时隙；表II为10000回合、每回合200步。",
+      "finding": "适合解释混合离散—连续动作表示，以及吞吐与队列等待时延之间的权衡。",
+      "limitation": "第9页正文带宽500 MHz，表II为100 MHz，已实际看页确认；不采信其绝对性能数字。软惩罚不是逐动作硬可行性证明；不是各星独立智能体。",
+      "open": "带宽口径、实现、训练及推理硬件时间、正式发表版本待核。既有[76]已具作者正文，不因形式完整性而强行替换。",
+      "title_read": "Multi-Satellite Beam Hopping and Power Allocation Using Deep Reinforcement Learning",
+      "original_ref_roles": [
+        75,
+        76
+      ],
+      "publication_metadata": null,
+      "metadata_match": "arxiv_frontmatter; formal_not_verified",
+      "source_url": "https://arxiv.org/pdf/2501.02309v1",
+      "local_pdf": "D:\\SKT727\\materials\\constellation_review_B10_20261016\\ALT05_paper.pdf",
+      "pdf_pages": 13,
+      "pdf_bytes": 1103716,
+      "pdf_sha256": "1b3ba980884411e8ad0498f8e7fe66d5789bc4bb8ee00f7906d1b25ebd4bd4b0",
+      "text_path": "D:\\SKT727\\materials\\constellation_review_B10_20261016\\ALT05_paper.txt",
+      "text_sha256": "775bccd1a84a87d833940cb6784ab99616428364a0dc6a881559c6c9ce396c38",
+      "text_extractable": true,
+      "text_extraction_limit": "公式仍以实际页面为准；未逐式验算",
+      "matches_original_121": [],
+      "body_reading": "targeted_method_model_and_evaluation_passages",
+      "all_pages_all_proofs_read": false,
+      "human_verified": false,
+      "formal_version_parity_closed": false,
+      "access_date_client": "2026-10-16",
+      "third_party_pdf_uploaded": false,
+      "actual_visual_checks": [
+        {
+          "pdf": "ALT05_paper.pdf",
+          "physical_page": 9,
+          "png": "D:\\SKT727\\materials\\constellation_review_B10_20261016\\page_checks\\ALT05_paper_p09.png",
+          "sha256": "872dfb0d3ef5c18e66fa055b11e2a91c2c9dd1971b21e74d4ae30fc27e7422f1",
+          "rendered": true,
+          "visually_reviewed": true,
+          "reviewer": "Codex AI",
+          "human_verified": false,
+          "inspection": "full_page_pixels_returned_and_inspected"
+        }
+      ]
+    },
+    {
+      "id": "ALT06",
+      "title_cn": "利用地面中继实现巨型星座低时延广域路由",
+      "formal_doi": "10.1145/3365609.3365859",
+      "read_doi": "10.1145/3365609.3365859",
+      "metadata_file": "ALT06_crossref_title_search.json",
+      "pdf": "ALT06_paper.pdf",
+      "version": "accepted_version",
+      "version_cn": "UCL机构仓储标注的接受稿",
+      "priority": "推荐按论点改写后采用",
+      "read_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "visual_pages": [
+        3,
+        5
+      ],
+      "sections": "§2部署及密度；§3路由计算与差分更新；§4混合网络；afterword",
+      "scope": "卫星—地面中继交替转发；分块索引、保留扩展可见边及差分时延预测降低重复建图开销。",
+      "experiment": "2019设计仿真；1584星与5000中继的单源到全目的计算，2.7 GHz Core i7；文中报告朴素1.55 s与优化61 ms。",
+      "finding": "地面中继密度、路径时延、路径变化频率和建图成本应一起讨论；可支持无ISL或混合ISL网络的架构比较。",
+      "limitation": "历史部署假设不是当前Starlink运行事实；最短路径传播时延和路由计算耗时是不同指标。不是原[79]/[80]具体算法、DBTS+/LFA+恢复实验的复现。",
+      "open": "接受稿与正式版差异未核；不把2019理想光纤或当时Internet对照移植为2026现网结论。",
+      "title_read": "Using ground relays for low-latency wide-area routing in megaconstellations",
+      "original_ref_roles": [
+        79,
+        80
+      ],
+      "publication_metadata": {
+        "DOI": "10.1145/3365609.3365859",
+        "title": [
+          "Using ground relays for low-latency wide-area routing in megaconstellations"
+        ],
+        "author": [
+          {
+            "given": "Mark",
+            "family": "Handley",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "University College London"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Proceedings of the 18th ACM Workshop on Hot Topics in Networks"
+        ],
+        "volume": null,
+        "issue": null,
+        "page": "125-132",
+        "article-number": null,
+        "published": {
+          "date-parts": [
+            [
+              2019,
+              11,
+              14
+            ]
+          ]
+        },
+        "published-online": {
+          "date-parts": [
+            [
+              2019,
+              11,
+              14
+            ]
+          ]
+        },
+        "relation": null,
+        "update-to": null
+      },
+      "authors_read": [
+        "Mark Handley"
+      ],
+      "metadata_match": "exact_normalized_title_and_DOI",
+      "source_url": "https://discovery.ucl.ac.uk/id/eprint/10090242/1/hotnets-ucl.pdf",
+      "local_pdf": "D:\\SKT727\\materials\\constellation_review_B10_20261016\\ALT06_paper.pdf",
+      "pdf_pages": 8,
+      "pdf_bytes": 9472424,
+      "pdf_sha256": "a29906de72db5fab66bb7570b2a1d15411cd69156522b7ff6a5b57ca7d20f8c1",
+      "text_path": "D:\\SKT727\\materials\\constellation_review_B10_20261016\\ALT06_paper.txt",
+      "text_sha256": "1e01fc448ead961056b66ff06e05ab61cde672b36594f2263d023541249338d2",
+      "text_extractable": true,
+      "text_extraction_limit": "公式仍以实际页面为准；未逐式验算",
+      "matches_original_121": [],
+      "body_reading": "targeted_method_model_and_evaluation_passages",
+      "all_pages_all_proofs_read": false,
+      "human_verified": false,
+      "formal_version_parity_closed": false,
+      "access_date_client": "2026-10-16",
+      "third_party_pdf_uploaded": false,
+      "actual_visual_checks": [
+        {
+          "pdf": "ALT06_paper.pdf",
+          "physical_page": 3,
+          "png": "D:\\SKT727\\materials\\constellation_review_B10_20261016\\page_checks\\ALT06_paper_p03.png",
+          "sha256": "9a2f05b295afebe6a3d609159c17ac89108061dd27ffda62c01b5b438e626fd0",
+          "rendered": true,
+          "visually_reviewed": true,
+          "reviewer": "Codex AI",
+          "human_verified": false,
+          "inspection": "full_page_pixels_returned_and_inspected"
+        },
+        {
+          "pdf": "ALT06_paper.pdf",
+          "physical_page": 5,
+          "png": "D:\\SKT727\\materials\\constellation_review_B10_20261016\\page_checks\\ALT06_paper_p05.png",
+          "sha256": "ac94c467001bc8346e3816e0e8b1d840902de51286f2d94f6586d215c95cfbf1",
+          "rendered": true,
+          "visually_reviewed": true,
+          "reviewer": "Codex AI",
+          "human_verified": false,
+          "inspection": "full_page_pixels_returned_and_inspected"
+        }
+      ]
+    },
+    {
+      "id": "ALT07",
+      "title_cn": "基于地标骨架图的宽带低轨星座轻量化可扩展分段路由设计",
+      "read_doi": "10.48550/arXiv.2411.19679",
+      "pdf": "ALT07_paper.pdf",
+      "version": "arxiv_v1",
+      "version_cn": "arXiv v1作者预印本；正式发表记录未确认",
+      "authors_read": [
+        "Menglan Hu",
+        "Chenxin Wang",
+        "Bin Cao",
+        "Benkuan Zhou",
+        "Yan Dong",
+        "Kai Peng"
+      ],
+      "year_read": 2024,
+      "priority": "储备；仅用于机制归类",
+      "read_pages": [
+        1,
+        3,
+        4,
+        5,
+        9,
+        10,
+        11,
+        12
+      ],
+      "visual_pages": [
+        10,
+        11,
+        12
+      ],
+      "sections": "§III四邻ISL模型；§IV骨架与概率转发；§VII实验",
+      "scope": "地面SDN抽象区域与地标骨架，区内概率多径分段转发；采用四邻ISL二维环面及静态时间片近似。",
+      "experiment": "NetworkX/Python；320—3920节点；隧道数2.5k—80k；Core i5-1135G7 2.4 GHz，16 GB；延迟为负载函数模型。",
+      "finding": "可作为层次化路径表达的机制候选，不能拿来支撑无ISL地面转发。图9中部分情形Dijkstra的Gini更低，不能说全指标优于Dijkstra。",
+      "limitation": "正文把Dijkstra耗时增长解释为指数级，与其一般算法复杂度不能等同。第12页108 s为一百零八秒，非10^8秒；图11坐标已看页。不采用其普遍性能优势结论。",
+      "open": "代码、基线实现、重复次数、延迟标定、故障恢复有效性及正式发表版本未核；本轮未完整核验§VI证明与全部§V失效路径。",
+      "title_read": "A Lightweight and Scalable Design of Segment Routing in Broadband LEO Constellations Using Landmark-Based Skeleton Graphs",
+      "original_ref_roles": [
+        79,
+        80
+      ],
+      "publication_metadata": null,
+      "metadata_match": "arxiv_frontmatter; formal_not_verified",
+      "source_url": "https://arxiv.org/pdf/2411.19679v1",
+      "local_pdf": "D:\\SKT727\\materials\\constellation_review_B10_20261016\\ALT07_paper.pdf",
+      "pdf_pages": 13,
+      "pdf_bytes": 1963522,
+      "pdf_sha256": "b2f8df9acb62206c241db7eba140d312ec418e40f11c131697e8f784bed28079",
+      "text_path": "D:\\SKT727\\materials\\constellation_review_B10_20261016\\ALT07_paper.txt",
+      "text_sha256": "5b4e4947ed86cffcde0c164e05d91d672144b190d3ce714257a9a50e2207df55",
+      "text_extractable": true,
+      "text_extraction_limit": "部分图轴字体编码异常，图9—11已看页",
+      "matches_original_121": [],
+      "body_reading": "targeted_method_model_and_evaluation_passages",
+      "all_pages_all_proofs_read": false,
+      "human_verified": false,
+      "formal_version_parity_closed": false,
+      "access_date_client": "2026-10-16",
+      "third_party_pdf_uploaded": false,
+      "actual_visual_checks": [
+        {
+          "pdf": "ALT07_paper.pdf",
+          "physical_page": 10,
+          "png": "D:\\SKT727\\materials\\constellation_review_B10_20261016\\page_checks\\ALT07_paper_p10.png",
+          "sha256": "da02cbe31076f70c4895ae40a4646f286e8fc10e7db4be94b9258229bddff894",
+          "rendered": true,
+          "visually_reviewed": true,
+          "reviewer": "Codex AI",
+          "human_verified": false,
+          "inspection": "full_page_pixels_returned_and_inspected"
+        },
+        {
+          "pdf": "ALT07_paper.pdf",
+          "physical_page": 11,
+          "png": "D:\\SKT727\\materials\\constellation_review_B10_20261016\\page_checks\\ALT07_paper_p11.png",
+          "sha256": "a9bf0244145bb2beecf63c2023af0718d56b95fa1e5291625794b2b9ab7ea7d1",
+          "rendered": true,
+          "visually_reviewed": true,
+          "reviewer": "Codex AI",
+          "human_verified": false,
+          "inspection": "full_page_pixels_returned_and_inspected"
+        },
+        {
+          "pdf": "ALT07_paper.pdf",
+          "physical_page": 12,
+          "png": "D:\\SKT727\\materials\\constellation_review_B10_20261016\\page_checks\\ALT07_paper_p12.png",
+          "sha256": "4d29c48faf36f641a90691bac15935212da376e976c44c5c0827c2ae81edac9d",
+          "rendered": true,
+          "visually_reviewed": true,
+          "reviewer": "Codex AI",
+          "human_verified": false,
+          "inspection": "full_page_pixels_returned_and_inspected"
+        }
+      ]
+    },
+    {
+      "id": "ALT08",
+      "title_cn": "面向卫星调度器受监督重配置的模型驱动框架",
+      "formal_doi": "10.1007/s10270-026-01426-1",
+      "read_doi": "10.1007/s10270-026-01426-1",
+      "metadata_file": "ALT08_crossref.json",
+      "pdf": "ALT08_paper.pdf",
+      "version": "publisher_version",
+      "version_cn": "Springer开放获取正式PDF",
+      "priority": "推荐按论点改写后采用",
+      "read_pages": [
+        7,
+        8,
+        10,
+        12,
+        15,
+        17,
+        18,
+        20,
+        22
+      ],
+      "visual_pages": [
+        8,
+        15,
+        20
+      ],
+      "sections": "§3.1—3.4模型和受监督流程；§4.1专家评价；§4.2及表5工具链；§4.3威胁；§5讨论",
+      "scope": "Ecore/EMF模型、EVL校验、XMI交换与EGL生成；遥测触发候选优化，人工审定后交平台激活；Table1区分模型变化与部署配置变化。",
+      "experiment": "13个星上软件进程、27次ACT、16 BTS/32 ticks，约125 ms循环；6名TAS-I专家；Apple M3 Pro、32 GB；表5是解析/校验/生成开销。",
+      "finding": "适合补强优化模型如何成为可检查、可追溯、受监督配置的接口论述；同页表5明确工具链计时不代表大规模运行验证。",
+      "limitation": "CPU/星上软件调度层，与星座任务调度不同；<1 ms是各工具链步骤，不是优化器或整星座重规划时延。不是在轨部署证明；作者明确本篇不重新验证优化核心。",
+      "open": "若要保留原[112]参考架构职责或NIMBUS例子，仍需原文；本篇只能改写为独立的模型驱动受监督配置实例。未核读全部31页与前作优化器。",
+      "title_read": "A model-driven framework for supervised reconfiguration of satellite schedulers",
+      "original_ref_roles": [
+        112
+      ],
+      "publication_metadata": {
+        "DOI": "10.1007/s10270-026-01426-1",
+        "title": [
+          "A model-driven framework for supervised reconfiguration of satellite schedulers"
+        ],
+        "author": [
+          {
+            "given": "Francesco",
+            "family": "Basciani",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0003-4376-1697",
+            "authenticated-orcid": false,
+            "given": "Arianna",
+            "family": "Fedeli",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Daniele",
+            "family": "Masti",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Ludovico",
+            "family": "Iovino",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Paolo",
+            "family": "Serri",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Patrizio",
+            "family": "Pelliccione",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Software and Systems Modeling"
+        ],
+        "volume": null,
+        "issue": null,
+        "page": null,
+        "article-number": null,
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              17
+            ]
+          ]
+        },
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              17
+            ]
+          ]
+        },
+        "relation": {},
+        "update-to": null
+      },
+      "authors_read": [
+        "Francesco Basciani",
+        "Arianna Fedeli",
+        "Daniele Masti",
+        "Ludovico Iovino",
+        "Paolo Serri",
+        "Patrizio Pelliccione"
+      ],
+      "metadata_match": "exact_normalized_title_and_DOI",
+      "source_url": "https://link.springer.com/content/pdf/10.1007/s10270-026-01426-1.pdf",
+      "local_pdf": "D:\\SKT727\\materials\\constellation_review_B10_20261016\\ALT08_paper.pdf",
+      "pdf_pages": 31,
+      "pdf_bytes": 2637717,
+      "pdf_sha256": "8b340df18b2565ede7dfe060593a261f7d03436b7b0f26778ee575374e747db4",
+      "text_path": "D:\\SKT727\\materials\\constellation_review_B10_20261016\\ALT08_paper.txt",
+      "text_sha256": "70228991490722fb05ad68185bb654bc215ccacc1e863d9d83d6937601cdb356",
+      "text_extractable": true,
+      "text_extraction_limit": "公式仍以实际页面为准；未逐式验算",
+      "matches_original_121": [
+        119
+      ],
+      "body_reading": "targeted_method_model_and_evaluation_passages",
+      "all_pages_all_proofs_read": false,
+      "human_verified": false,
+      "formal_version_parity_closed": false,
+      "access_date_client": "2026-10-16",
+      "third_party_pdf_uploaded": false,
+      "actual_visual_checks": [
+        {
+          "pdf": "ALT08_paper.pdf",
+          "physical_page": 8,
+          "png": "D:\\SKT727\\materials\\constellation_review_B10_20261016\\page_checks\\ALT08_paper_p08.png",
+          "sha256": "2b8e96ee32d3cd74b344cf4e926644788c370084aa83c45035e9da003cfb8add",
+          "rendered": true,
+          "visually_reviewed": true,
+          "reviewer": "Codex AI",
+          "human_verified": false,
+          "inspection": "full_page_pixels_returned_and_inspected"
+        },
+        {
+          "pdf": "ALT08_paper.pdf",
+          "physical_page": 15,
+          "png": "D:\\SKT727\\materials\\constellation_review_B10_20261016\\page_checks\\ALT08_paper_p15.png",
+          "sha256": "4663326f9665427d2b0520afc991befcb25057ad62c33c5bf83002496c01cd08",
+          "rendered": true,
+          "visually_reviewed": true,
+          "reviewer": "Codex AI",
+          "human_verified": false,
+          "inspection": "full_page_pixels_returned_and_inspected"
+        },
+        {
+          "pdf": "ALT08_paper.pdf",
+          "physical_page": 20,
+          "png": "D:\\SKT727\\materials\\constellation_review_B10_20261016\\page_checks\\ALT08_paper_p20.png",
+          "sha256": "dd4308b4a4b00d122fd16defd235f8a27e974530c668f9120b3e744de5d322b8",
+          "rendered": true,
+          "visually_reviewed": true,
+          "reviewer": "Codex AI",
+          "human_verified": false,
+          "inspection": "full_page_pixels_returned_and_inspected"
+        }
+      ]
+    },
+    {
+      "id": "ALT09",
+      "title_cn": "面向空间网络的链路标识路由架构",
+      "formal_doi": "10.1109/TNSE.2024.3498042",
+      "read_doi": "10.48550/arXiv.2411.10926",
+      "metadata_file": "ALT09_crossref_title_search.json",
+      "pdf": "ALT09_paper.pdf",
+      "version": "arxiv_v1",
+      "version_cn": "arXiv v1作者预印本；已匹配正式书目但未核对版本",
+      "priority": "推荐按论点改写后采用；标明版本",
+      "read_pages": [
+        3,
+        5,
+        9,
+        11,
+        12,
+        13,
+        14
+      ],
+      "visual_pages": [
+        9,
+        14
+      ],
+      "sections": "§III BF转发；§IV分段；§V链路失败；§VI星地切换；§VII实验",
+      "scope": "包内Bloom filter编码链路ID；分段再编码平衡额外转发和编码时延；本地重路由ODR与预定绕行ODD，组播缓冲应对星地切换。",
+      "experiment": "INET 4.2.2/OMNeT++，66星Iridium、780 km、10 Mbps ISL、1 KB包、10 μs BF替换；MATLAB数值与包级实验分开。",
+      "finding": "适合补足分段表示、链路失效局部响应及切换期间传输保持。§VII-F给出重算路线与预设绕行在时延和交付率上的区别。",
+      "limitation": "不是无ISL地面转发，也不是原[80]同算法。66星仿真非千星实测；BF误报有额外转发成本；§VII-B说明MATLAB和OMNeT++对环路处理不同。",
+      "open": "正式论文17页与本轮预印本16页的文字/公式/图表差异未核；无正式版同一性结论。不能把数值模型吻合扩大为所有网络条件定理已验证。",
+      "title_read": "Link-identified Routing Architecture in Space",
+      "original_ref_roles": [
+        77,
+        79,
+        80
+      ],
+      "publication_metadata": {
+        "DOI": "10.1109/tnse.2024.3498042",
+        "title": [
+          "Link-Identified Routing Architecture in Space"
+        ],
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0009-0006-2935-8403",
+            "authenticated-orcid": false,
+            "given": "Hefan",
+            "family": "Zhang",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "School of Computer Science and Engineering, Beihang University, Beijing, China"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0002-1966-2421",
+            "authenticated-orcid": false,
+            "given": "Zhiyuan",
+            "family": "Wang",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "School of Computer Science and Engineering, Beihang University, Beijing, China"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0002-0978-3414",
+            "authenticated-orcid": false,
+            "given": "Shan",
+            "family": "Zhang",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "School of Computer Science and Engineering, Beihang University, Beijing, China"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0001-5394-8450",
+            "authenticated-orcid": false,
+            "given": "Qingkai",
+            "family": "Meng",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Institute of Artificial Intelligence, Beihang University, Beijing, China"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0001-6807-512X",
+            "authenticated-orcid": false,
+            "given": "Hongbin",
+            "family": "Luo",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "School of Computer Science and Engineering, Beihang University, Beijing, China"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "IEEE Transactions on Network Science and Engineering"
+        ],
+        "volume": "12",
+        "issue": "1",
+        "page": "392-408",
+        "article-number": null,
+        "published": {
+          "date-parts": [
+            [
+              2025,
+              1
+            ]
+          ]
+        },
+        "published-online": null,
+        "relation": null,
+        "update-to": null
+      },
+      "authors_read": [
+        "Hefan Zhang",
+        "Zhiyuan Wang",
+        "Shan Zhang",
+        "Qingkai Meng",
+        "Hongbin Luo"
+      ],
+      "metadata_match": "exact_normalized_title_and_DOI",
+      "source_url": "https://arxiv.org/pdf/2411.10926v1",
+      "local_pdf": "D:\\SKT727\\materials\\constellation_review_B10_20261016\\ALT09_paper.pdf",
+      "pdf_pages": 16,
+      "pdf_bytes": 7734021,
+      "pdf_sha256": "0dee4ce97679a0138e5d1b90f53a62668f4f4f106c2bf31af0d9503c141489f7",
+      "text_path": "D:\\SKT727\\materials\\constellation_review_B10_20261016\\ALT09_paper.txt",
+      "text_sha256": "9eaef124f3568fe9a580196cdc2024ba8d8575c6888397b582df2c522b53e318",
+      "text_extractable": true,
+      "text_extraction_limit": "公式仍以实际页面为准；未逐式验算",
+      "matches_original_121": [],
+      "body_reading": "targeted_method_model_and_evaluation_passages",
+      "all_pages_all_proofs_read": false,
+      "human_verified": false,
+      "formal_version_parity_closed": false,
+      "access_date_client": "2026-10-16",
+      "third_party_pdf_uploaded": false,
+      "actual_visual_checks": [
+        {
+          "pdf": "ALT09_paper.pdf",
+          "physical_page": 9,
+          "png": "D:\\SKT727\\materials\\constellation_review_B10_20261016\\page_checks\\ALT09_paper_p09.png",
+          "sha256": "614ff44b7f9cec2c7c3c336467b72b2b290fcd758957866b6c2fa9b023993cf7",
+          "rendered": true,
+          "visually_reviewed": true,
+          "reviewer": "Codex AI",
+          "human_verified": false,
+          "inspection": "full_page_pixels_returned_and_inspected"
+        },
+        {
+          "pdf": "ALT09_paper.pdf",
+          "physical_page": 14,
+          "png": "D:\\SKT727\\materials\\constellation_review_B10_20261016\\page_checks\\ALT09_paper_p14.png",
+          "sha256": "7141f81bc5c053257ed494d69b0bd3ffc9ae1ec427d624767bb3e6fd4477d33c",
+          "rendered": true,
+          "visually_reviewed": true,
+          "reviewer": "Codex AI",
+          "human_verified": false,
+          "inspection": "full_page_pixels_returned_and_inspected"
+        }
+      ]
+    },
+    {
+      "id": "ALT10",
+      "title_cn": "采用滚动时域策略的对地观测卫星动态调度方法",
+      "formal_doi": "10.1155/2013/304047",
+      "read_doi": "10.1155/2013/304047",
+      "metadata_file": "ALT10_crossref.json",
+      "pdf": null,
+      "html_url": "https://onlinelibrary.wiley.com/doi/10.1155/2013/304047",
+      "version": "publisher_html",
+      "version_cn": "出版社完整HTML可由网页工具读取；本地GET与PDF均403",
+      "priority": "基础方法候选；定性采用",
+      "read_pages": [],
+      "visual_pages": [],
+      "sections": "出版社HTML §2—4，行166—367；公式图像未实际页面核验",
+      "scope": "周期＋事件触发更新等待/新到任务集，再用启发式分配；在滚动框架下修订尚未执行任务。",
+      "experiment": "4—6星、100—400任务随机场景；MATLAB2007，Pentium IV 3.06 GHz、2 GB、Windows XP；缺少可读公式页面。",
+      "finding": "可作动态请求到达与滚动时域的基础例证，不能代替[59]分层MIP的大规模实验。",
+      "limitation": "HTML有公式缺项及WIS/CIS命名不一致；不采公式和百分比增益；没有PDF文件及其页数/哈希。",
+      "open": "欲核对公式、图3/4和算法命名仍需PDF；仅依据HTML已核读的定性流程。",
+      "title_read": "A Dynamic Scheduling Method of Earth-Observing Satellites by Employing Rolling Horizon Strategy",
+      "original_ref_roles": [
+        59,
+        63
+      ],
+      "publication_metadata": {
+        "DOI": "10.1155/2013/304047",
+        "title": [
+          "A Dynamic Scheduling Method of Earth‐Observing Satellites by Employing Rolling Horizon Strategy"
+        ],
+        "author": [
+          {
+            "given": "Qiu",
+            "family": "Dishan",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0001-9708-3073",
+            "authenticated-orcid": false,
+            "given": "He",
+            "family": "Chuan",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0003-2895-0051",
+            "authenticated-orcid": false,
+            "given": "Liu",
+            "family": "Jin",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Ma",
+            "family": "Manhao",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "The Scientific World Journal"
+        ],
+        "volume": "2013",
+        "issue": "1",
+        "page": null,
+        "article-number": "304047",
+        "published": {
+          "date-parts": [
+            [
+              2013,
+              1
+            ]
+          ]
+        },
+        "published-online": {
+          "date-parts": [
+            [
+              2013,
+              4,
+              18
+            ]
+          ]
+        },
+        "relation": {},
+        "update-to": null
+      },
+      "authors_read": [
+        "Qiu Dishan",
+        "He Chuan",
+        "Liu Jin",
+        "Ma Manhao"
+      ],
+      "metadata_match": "exact_normalized_title_and_DOI",
+      "source_url": "https://onlinelibrary.wiley.com/doi/10.1155/2013/304047",
+      "local_pdf": null,
+      "pdf_pages": null,
+      "pdf_bytes": null,
+      "pdf_sha256": null,
+      "text_extractable": null,
+      "text_extraction_limit": "网页工具返回正文，公式有缺项；本地错误HTML不是正文",
+      "body_capture_path": "D:\\SKT727\\materials\\constellation_review_B10_20261016\\B10_dynamic_body1.txt",
+      "body_capture_sha256": "6146d408cdb75614ff4d445d226b5b04ad3df978435fd524f955a61471e146cb",
+      "matches_original_121": [],
+      "body_reading": "targeted_method_model_and_evaluation_passages",
+      "all_pages_all_proofs_read": false,
+      "human_verified": false,
+      "formal_version_parity_closed": false,
+      "access_date_client": "2026-10-16",
+      "third_party_pdf_uploaded": false,
+      "actual_visual_checks": []
+    },
+    {
+      "id": "ALT11",
+      "title_cn": "认知GEO–LEO卫星网络中基于多智能体DDPG的联合跳波束与资源分配",
+      "formal_doi": "10.1109/LNET.2025.3605531",
+      "read_doi": "10.1109/LNET.2025.3605531",
+      "metadata_file": "ALT11_crossref_title_search.json",
+      "pdf": "ALT11_paper.pdf",
+      "version": "institution_author_copy",
+      "version_cn": "UTS机构公开作者全文；接受稿/正式版身份未确证",
+      "priority": "推荐机制改写；参数与版本待核",
+      "read_pages": [
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "visual_pages": [
+        4,
+        5,
+        6
+      ],
+      "sections": "正文§II—V；式7—9；图2；表I和图4—6（物理页含封面）",
+      "scope": "以小区簇作为智能体，集中评论器训练、分散执行，联合选束/子带/功率；目标含吞吐与服务时延极差，超GEO聚合干扰进入奖励惩罚。",
+      "experiment": "1 GEO Inmarsat-4F2＋1 LEO Iridium-NEXT914覆盖；261 LEO小区分17簇=17智能体；100 ms周期；2100训练回合。",
+      "finding": "最贴近[75]的GEO—LEO共存主题，可解释联合资源动作与干扰限制，但须把多星负载平衡改成该论文的小区资源决策。",
+      "limitation": "物理第5页50—200 kbps，第6页图4/6为Mbps，页面确认；不采用绝对流量及提升百分比。软惩罚不等于每动作满足硬限制；17智能体不是17颗星。",
+      "open": "流量单位、正式版对应和时延极差目标与平均时延结果的口径待核；不声称取得原[75]正文。",
+      "title_read": "Multi-Agent DDPG-Based Joint Beam Hopping and Resource Allocation for Cognitive GEO-LEO Satellite Networks",
+      "original_ref_roles": [
+        75
+      ],
+      "publication_metadata": {
+        "DOI": "10.1109/lnet.2025.3605531",
+        "title": [
+          "Multi-Agent DDPG-Based Joint Beam Hopping and Resource Allocation for Cognitive GEO-LEO Satellite Networks"
+        ],
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0000-0001-6259-3444",
+            "authenticated-orcid": false,
+            "given": "Quynh Tu",
+            "family": "Ngo",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "School of Electrical and Data Engineering, University of Technology Sydney, Ultimo, Australia"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0003-1603-9375",
+            "authenticated-orcid": false,
+            "given": "Ying",
+            "family": "He",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "School of Electrical and Data Engineering, University of Technology Sydney, Ultimo, Australia"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0003-4693-344X",
+            "authenticated-orcid": false,
+            "given": "Beeshanga",
+            "family": "Jayawickrama",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "School of Electrical and Data Engineering, University of Technology Sydney, Ultimo, Australia"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0002-4268-9286",
+            "authenticated-orcid": false,
+            "given": "Eryk",
+            "family": "Dutkiewicz",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "School of Electrical and Data Engineering, University of Technology Sydney, Ultimo, Australia"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "IEEE Networking Letters"
+        ],
+        "volume": "7",
+        "issue": "4",
+        "page": "303-307",
+        "article-number": null,
+        "published": {
+          "date-parts": [
+            [
+              2025,
+              12
+            ]
+          ]
+        },
+        "published-online": null,
+        "relation": null,
+        "update-to": null
+      },
+      "authors_read": [
+        "Quynh Tu Ngo",
+        "Ying He",
+        "Beeshanga Jayawickrama",
+        "Eryk Dutkiewicz"
+      ],
+      "metadata_match": "exact_normalized_title_and_DOI",
+      "source_url": "https://opus.lib.uts.edu.au/bitstream/10453/189674/3/Multi-Agent%20DDPG-Based%20Joint%20Beam%20Hopping%20and%20Resource%20Allocation%20for%20Cognitive%20GEO-LEO%20Satellite%20Networks.pdf",
+      "local_pdf": "D:\\SKT727\\materials\\constellation_review_B10_20261016\\ALT11_paper.pdf",
+      "pdf_pages": 6,
+      "pdf_bytes": 899120,
+      "pdf_sha256": "a73865b98827983c2e77eceebb9457d09da781de6429766bd930a972695fd94a",
+      "text_path": "D:\\SKT727\\materials\\constellation_review_B10_20261016\\ALT11_paper.txt",
+      "text_sha256": "52dc38bc2c5f005177f912a2b8eb2e8c584ddbcf0d2b649e6807264ab19c0edb",
+      "text_extractable": true,
+      "text_extraction_limit": "公式仍以实际页面为准；未逐式验算",
+      "matches_original_121": [],
+      "body_reading": "targeted_method_model_and_evaluation_passages",
+      "all_pages_all_proofs_read": false,
+      "human_verified": false,
+      "formal_version_parity_closed": false,
+      "access_date_client": "2026-10-16",
+      "third_party_pdf_uploaded": false,
+      "actual_visual_checks": [
+        {
+          "pdf": "ALT11_paper.pdf",
+          "physical_page": 4,
+          "png": "D:\\SKT727\\materials\\constellation_review_B10_20261016\\page_checks\\ALT11_paper_p04.png",
+          "sha256": "b0ac455a4ae32e74e9b84789c85bcc2195b63f438896da0dfde0bea5460c128e",
+          "rendered": true,
+          "visually_reviewed": true,
+          "reviewer": "Codex AI",
+          "human_verified": false,
+          "inspection": "full_page_pixels_returned_and_inspected"
+        },
+        {
+          "pdf": "ALT11_paper.pdf",
+          "physical_page": 5,
+          "png": "D:\\SKT727\\materials\\constellation_review_B10_20261016\\page_checks\\ALT11_paper_p05.png",
+          "sha256": "5769219e5d135248bf288159dee766dd30e31d68a91e274128677426b52e69e6",
+          "rendered": true,
+          "visually_reviewed": true,
+          "reviewer": "Codex AI",
+          "human_verified": false,
+          "inspection": "full_page_pixels_returned_and_inspected"
+        },
+        {
+          "pdf": "ALT11_paper.pdf",
+          "physical_page": 6,
+          "png": "D:\\SKT727\\materials\\constellation_review_B10_20261016\\page_checks\\ALT11_paper_p06.png",
+          "sha256": "51a7bcba615d504b7d1f8da96d205313e7012488d40e2f4db85732ab69147c3b",
+          "rendered": true,
+          "visually_reviewed": true,
+          "reviewer": "Codex AI",
+          "human_verified": false,
+          "inspection": "full_page_pixels_returned_and_inspected"
+        }
+      ]
+    }
+  ],
+  "local_external_inventory": [
+    {
+      "name": "ACTUAL_VISUAL_CHECKS.json",
+      "path": "D:\\SKT727\\materials\\constellation_review_B10_20261016\\ACTUAL_VISUAL_CHECKS.json",
+      "bytes": 10432,
+      "sha256": "43809a21f27ead5aace2ac1ffb7fc15f6e60a7cd5259212e58b67f3d00cdb825",
+      "uploaded": false
+    },
+    {
+      "name": "ALT01_crossref.json",
+      "path": "D:\\SKT727\\materials\\constellation_review_B10_20261016\\ALT01_crossref.json",
+      "bytes": 11454,
+      "sha256": "f764a9c27bf81ed026be180c5a429d80ab76b142353cafe33b6887dbfe4257ac",
+      "uploaded": false
+    },
+    {
+      "name": "ALT01_paper.pdf",
+      "path": "D:\\SKT727\\materials\\constellation_review_B10_20261016\\ALT01_paper.pdf",
+      "bytes": 429966,
+      "sha256": "41c7aad14b1d60aee948d073f1d6210892061b84edaccc817d01dcaf424df5d0",
+      "uploaded": false
+    },
+    {
+      "name": "ALT01_paper.txt",
+      "path": "D:\\SKT727\\materials\\constellation_review_B10_20261016\\ALT01_paper.txt",
+      "bytes": 54070,
+      "sha256": "2bb3ea97841e1481d86bbb08a563b3eaad0f9e078cf650223b0f001359ffcbaf",
+      "uploaded": false
+    },
+    {
+      "name": "ALT02_crossref.json",
+      "path": "D:\\SKT727\\materials\\constellation_review_B10_20261016\\ALT02_crossref.json",
+      "bytes": 18133,
+      "sha256": "57f80eede52bd59fe1d6418fd6f9eb8dd063c34973c31070729f868c92bc1f40",
+      "uploaded": false
+    },
+    {
+      "name": "ALT02_paper.pdf",
+      "path": "D:\\SKT727\\materials\\constellation_review_B10_20261016\\ALT02_paper.pdf",
+      "bytes": 2198498,
+      "sha256": "1ad9e06feab95c2fcf84f2bc26332c3574b36724e5290eb11ac46c4f3f1b2598",
+      "uploaded": false
+    },
+    {
+      "name": "ALT02_paper.txt",
+      "path": "D:\\SKT727\\materials\\constellation_review_B10_20261016\\ALT02_paper.txt",
+      "bytes": 79503,
+      "sha256": "b5b3432c19ff30b0701b97e45d12fb49c5e96990c8b95fb2a053aa658deb4b35",
+      "uploaded": false
+    },
+    {
+      "name": "ALT03_formal_crossref.json",
+      "path": "D:\\SKT727\\materials\\constellation_review_B10_20261016\\ALT03_formal_crossref.json",
+      "bytes": 3582,
+      "sha256": "432d9ea1fdffcb4840d91672d74a0c45aef0d3c6e1119276f36d2d7fba0156fb",
+      "uploaded": false
+    },
+    {
+      "name": "ALT03_paper.pdf",
+      "path": "D:\\SKT727\\materials\\constellation_review_B10_20261016\\ALT03_paper.pdf",
+      "bytes": 1082629,
+      "sha256": "1faed8683e8bf4a71baae70a9b5e1e6e5b3b9139e56cb8ae3d075533cd83c361",
+      "uploaded": false
+    },
+    {
+      "name": "ALT03_paper.txt",
+      "path": "D:\\SKT727\\materials\\constellation_review_B10_20261016\\ALT03_paper.txt",
+      "bytes": 67647,
+      "sha256": "6545ce400114403df07086b84849657b19108860710fe4eb0de7fe2f0050e1c7",
+      "uploaded": false
+    },
+    {
+      "name": "ALT03_usc_publisher_formatted.pdf",
+      "path": "D:\\SKT727\\materials\\constellation_review_B10_20261016\\ALT03_usc_publisher_formatted.pdf",
+      "bytes": 1869557,
+      "sha256": "6a26a5f9a0212ece286cc0c1717c1c095f810634e446b6748694a4f192300a6d",
+      "uploaded": false
+    },
+    {
+      "name": "ALT03_usc_publisher_formatted.txt",
+      "path": "D:\\SKT727\\materials\\constellation_review_B10_20261016\\ALT03_usc_publisher_formatted.txt",
+      "bytes": 69649,
+      "sha256": "fa2e1e68115d1706fda2a3596815cdc88a47306b3934dc40afce4dc639354c51",
+      "uploaded": false
+    },
+    {
+      "name": "ALT04_paper.pdf",
+      "path": "D:\\SKT727\\materials\\constellation_review_B10_20261016\\ALT04_paper.pdf",
+      "bytes": 1535634,
+      "sha256": "3b55c56a48eb60c97209248ea21faec757a3f7436f5cbfb4da1523c4331f5b44",
+      "uploaded": false
+    },
+    {
+      "name": "ALT04_paper.txt",
+      "path": "D:\\SKT727\\materials\\constellation_review_B10_20261016\\ALT04_paper.txt",
+      "bytes": 74877,
+      "sha256": "e9792f33cf931bb1cd09c3aa9d156def73dcdb6ac884e97f8e26d3db2e16ee66",
+      "uploaded": false
+    },
+    {
+      "name": "ALT05_crossref_title_search.json",
+      "path": "D:\\SKT727\\materials\\constellation_review_B10_20261016\\ALT05_crossref_title_search.json",
+      "bytes": 12745,
+      "sha256": "edb37a83ac08561bf76d5783009d0c2ad2364a667c60d854117c9f707c4c1a00",
+      "uploaded": false
+    },
+    {
+      "name": "ALT05_paper.pdf",
+      "path": "D:\\SKT727\\materials\\constellation_review_B10_20261016\\ALT05_paper.pdf",
+      "bytes": 1103716,
+      "sha256": "1b3ba980884411e8ad0498f8e7fe66d5789bc4bb8ee00f7906d1b25ebd4bd4b0",
+      "uploaded": false
+    },
+    {
+      "name": "ALT05_paper.txt",
+      "path": "D:\\SKT727\\materials\\constellation_review_B10_20261016\\ALT05_paper.txt",
+      "bytes": 65852,
+      "sha256": "775bccd1a84a87d833940cb6784ab99616428364a0dc6a881559c6c9ce396c38",
+      "uploaded": false
+    },
+    {
+      "name": "ALT06_crossref_title_search.json",
+      "path": "D:\\SKT727\\materials\\constellation_review_B10_20261016\\ALT06_crossref_title_search.json",
+      "bytes": 13522,
+      "sha256": "97daf3cb14a0b13e97fd605bd838af9814e248f030e1705853fbc64ff8d659e8",
+      "uploaded": false
+    },
+    {
+      "name": "ALT06_paper.pdf",
+      "path": "D:\\SKT727\\materials\\constellation_review_B10_20261016\\ALT06_paper.pdf",
+      "bytes": 9472424,
+      "sha256": "a29906de72db5fab66bb7570b2a1d15411cd69156522b7ff6a5b57ca7d20f8c1",
+      "uploaded": false
+    },
+    {
+      "name": "ALT06_paper.txt",
+      "path": "D:\\SKT727\\materials\\constellation_review_B10_20261016\\ALT06_paper.txt",
+      "bytes": 33344,
+      "sha256": "1e01fc448ead961056b66ff06e05ab61cde672b36594f2263d023541249338d2",
+      "uploaded": false
+    },
+    {
+      "name": "ALT07_paper.pdf",
+      "path": "D:\\SKT727\\materials\\constellation_review_B10_20261016\\ALT07_paper.pdf",
+      "bytes": 1963522,
+      "sha256": "b2f8df9acb62206c241db7eba140d312ec418e40f11c131697e8f784bed28079",
+      "uploaded": false
+    },
+    {
+      "name": "ALT07_paper.txt",
+      "path": "D:\\SKT727\\materials\\constellation_review_B10_20261016\\ALT07_paper.txt",
+      "bytes": 75655,
+      "sha256": "5b4e4947ed86cffcde0c164e05d91d672144b190d3ce714257a9a50e2207df55",
+      "uploaded": false
+    },
+    {
+      "name": "ALT08_crossref.json",
+      "path": "D:\\SKT727\\materials\\constellation_review_B10_20261016\\ALT08_crossref.json",
+      "bytes": 36926,
+      "sha256": "547ab521ce273d0df9d2954777ef2c779c64fcfd2f06856c9bc55ee27e0f598e",
+      "uploaded": false
+    },
+    {
+      "name": "ALT08_paper.pdf",
+      "path": "D:\\SKT727\\materials\\constellation_review_B10_20261016\\ALT08_paper.pdf",
+      "bytes": 2637717,
+      "sha256": "8b340df18b2565ede7dfe060593a261f7d03436b7b0f26778ee575374e747db4",
+      "uploaded": false
+    },
+    {
+      "name": "ALT08_paper.txt",
+      "path": "D:\\SKT727\\materials\\constellation_review_B10_20261016\\ALT08_paper.txt",
+      "bytes": 155423,
+      "sha256": "70228991490722fb05ad68185bb654bc215ccacc1e863d9d83d6937601cdb356",
+      "uploaded": false
+    },
+    {
+      "name": "ALT09_crossref_title_search.json",
+      "path": "D:\\SKT727\\materials\\constellation_review_B10_20261016\\ALT09_crossref_title_search.json",
+      "bytes": 10237,
+      "sha256": "d60bb02f3edf4d06772ead857158e46365bdd80572cc049ac65744b5675c6ca9",
+      "uploaded": false
+    },
+    {
+      "name": "ALT09_paper.pdf",
+      "path": "D:\\SKT727\\materials\\constellation_review_B10_20261016\\ALT09_paper.pdf",
+      "bytes": 7734021,
+      "sha256": "0dee4ce97679a0138e5d1b90f53a62668f4f4f106c2bf31af0d9503c141489f7",
+      "uploaded": false
+    },
+    {
+      "name": "ALT09_paper.txt",
+      "path": "D:\\SKT727\\materials\\constellation_review_B10_20261016\\ALT09_paper.txt",
+      "bytes": 90133,
+      "sha256": "9eaef124f3568fe9a580196cdc2024ba8d8575c6888397b582df2c522b53e318",
+      "uploaded": false
+    },
+    {
+      "name": "ALT10_crossref.json",
+      "path": "D:\\SKT727\\materials\\constellation_review_B10_20261016\\ALT10_crossref.json",
+      "bytes": 9810,
+      "sha256": "b3ca670dc3c0b7b9cb2dd70a8fc1ed87fbba81951864e2adfe18c6b627e17d3b",
+      "uploaded": false
+    },
+    {
+      "name": "ALT11_crossref_title_search.json",
+      "path": "D:\\SKT727\\materials\\constellation_review_B10_20261016\\ALT11_crossref_title_search.json",
+      "bytes": 8666,
+      "sha256": "685c3ef357a809a21a57e2ea50e93ad7d7cd3a51765984406d111a70cea279b5",
+      "uploaded": false
+    },
+    {
+      "name": "ALT11_paper.pdf",
+      "path": "D:\\SKT727\\materials\\constellation_review_B10_20261016\\ALT11_paper.pdf",
+      "bytes": 899120,
+      "sha256": "a73865b98827983c2e77eceebb9457d09da781de6429766bd930a972695fd94a",
+      "uploaded": false
+    },
+    {
+      "name": "ALT11_paper.txt",
+      "path": "D:\\SKT727\\materials\\constellation_review_B10_20261016\\ALT11_paper.txt",
+      "bytes": 26716,
+      "sha256": "52dc38bc2c5f005177f912a2b8eb2e8c584ddbcf0d2b649e6807264ab19c0edb",
+      "uploaded": false
+    },
+    {
+      "name": "assemble_b10.py",
+      "path": "D:\\SKT727\\materials\\constellation_review_B10_20261016\\assemble_b10.py",
+      "bytes": 18796,
+      "sha256": "b71c104b118c836c54c0c59c9f63b26501a15e7a2956ce25a6bba03788d7f60a",
+      "uploaded": false
+    },
+    {
+      "name": "B10_ALT04_arxiv_identity.txt",
+      "path": "D:\\SKT727\\materials\\constellation_review_B10_20261016\\B10_ALT04_arxiv_identity.txt",
+      "bytes": 8044,
+      "sha256": "9d0f050551d5ecd6799ab7cc6bd2f3f4308a6be40cfdf4ffa3600cc8b89fd019",
+      "uploaded": false
+    },
+    {
+      "name": "B10_ALT04_identity.txt",
+      "path": "D:\\SKT727\\materials\\constellation_review_B10_20261016\\B10_ALT04_identity.txt",
+      "bytes": 28480,
+      "sha256": "767af674a9eb06349ac8ea8f66254fa32f2e92308aff2469bd9245e1a44d5029",
+      "uploaded": false
+    },
+    {
+      "name": "B10_arxiv_seeds.txt",
+      "path": "D:\\SKT727\\materials\\constellation_review_B10_20261016\\B10_arxiv_seeds.txt",
+      "bytes": 32336,
+      "sha256": "c5e5090f75a57dff361baf03cfd6808e957eb945213fda845e9875d9efce7c43",
+      "uploaded": false
+    },
+    {
+      "name": "B10_discovery2.txt",
+      "path": "D:\\SKT727\\materials\\constellation_review_B10_20261016\\B10_discovery2.txt",
+      "bytes": 32607,
+      "sha256": "a5e65ad47d968b5307b969620419a79d8ff80cd6cb4c1b66fac0355b592f9bb9",
+      "uploaded": false
+    },
+    {
+      "name": "B10_discovery3.txt",
+      "path": "D:\\SKT727\\materials\\constellation_review_B10_20261016\\B10_discovery3.txt",
+      "bytes": 37053,
+      "sha256": "affcad375b3ccd2700d514b26aa9af7d503923d53128da3a05f69b10e51c7965",
+      "uploaded": false
+    },
+    {
+      "name": "B10_discovery4.txt",
+      "path": "D:\\SKT727\\materials\\constellation_review_B10_20261016\\B10_discovery4.txt",
+      "bytes": 38699,
+      "sha256": "3117c092a6db1cd4a7f90b81003a2c17b84d584d2545e6ce39c1b8d54ba01d1a",
+      "uploaded": false
+    },
+    {
+      "name": "B10_discovery5.txt",
+      "path": "D:\\SKT727\\materials\\constellation_review_B10_20261016\\B10_discovery5.txt",
+      "bytes": 37984,
+      "sha256": "2ac67af07d73cf528f08b84c55d7347c5a37d37014b4b6775c9128a092f323c9",
+      "uploaded": false
+    },
+    {
+      "name": "B10_dynamic_and_metadata.txt",
+      "path": "D:\\SKT727\\materials\\constellation_review_B10_20261016\\B10_dynamic_and_metadata.txt",
+      "bytes": 32963,
+      "sha256": "0b0a666fa28a065c941e98173ce2115db9df8e2873b9ad30fdeb7e6785717d97",
+      "uploaded": false
+    },
+    {
+      "name": "B10_dynamic_body1.txt",
+      "path": "D:\\SKT727\\materials\\constellation_review_B10_20261016\\B10_dynamic_body1.txt",
+      "bytes": 33729,
+      "sha256": "6146d408cdb75614ff4d445d226b5b04ad3df978435fd524f955a61471e146cb",
+      "uploaded": false
+    },
+    {
+      "name": "B10_formal_metadata_search.txt",
+      "path": "D:\\SKT727\\materials\\constellation_review_B10_20261016\\B10_formal_metadata_search.txt",
+      "bytes": 31721,
+      "sha256": "17ea4b4ce47888d4dc7943cca9a503d9bb5f35500575be7644ebe97d1203ebc1",
+      "uploaded": false
+    },
+    {
+      "name": "B10_gso_full.txt",
+      "path": "D:\\SKT727\\materials\\constellation_review_B10_20261016\\B10_gso_full.txt",
+      "bytes": 33327,
+      "sha256": "c102876a36229e8329e37528ad96d2215a4360d94f99a6e4ed0f02cf8249e764",
+      "uploaded": false
+    },
+    {
+      "name": "B10_initial_discovery.txt",
+      "path": "D:\\SKT727\\materials\\constellation_review_B10_20261016\\B10_initial_discovery.txt",
+      "bytes": 39334,
+      "sha256": "b6031455d355c326cde4a689cd638178cf749a8ba0f32e5039c69697ea1f8981",
+      "uploaded": false
+    },
+    {
+      "name": "B10_metadata_final.txt",
+      "path": "D:\\SKT727\\materials\\constellation_review_B10_20261016\\B10_metadata_final.txt",
+      "bytes": 33450,
+      "sha256": "fd201f7f1c01dcac0438d64f9024a369d53546188b98f544da0ae3a5e1034d9d",
+      "uploaded": false
+    },
+    {
+      "name": "B10_oa_dynamic_and_gso.txt",
+      "path": "D:\\SKT727\\materials\\constellation_review_B10_20261016\\B10_oa_dynamic_and_gso.txt",
+      "bytes": 38134,
+      "sha256": "3515bd74f103e5d96edad4170931341503fd5852c2d830715944b09513f18c83",
+      "uploaded": false
+    },
+    {
+      "name": "B10_primary_open.txt",
+      "path": "D:\\SKT727\\materials\\constellation_review_B10_20261016\\B10_primary_open.txt",
+      "bytes": 41105,
+      "sha256": "c41093c9edca6ba593f33fcba305af2644ea483b28f0ccadd6c61d632c44d400",
+      "uploaded": false
+    },
+    {
+      "name": "CANDIDATE_PLAN.json",
+      "path": "D:\\SKT727\\materials\\constellation_review_B10_20261016\\CANDIDATE_PLAN.json",
+      "bytes": 3344,
+      "sha256": "e829d21cc4ba15e2534dc44ce5e3b87999c6b10992ab558aff27fc92717b18dd",
+      "uploaded": false
+    },
+    {
+      "name": "fetch_b10.py",
+      "path": "D:\\SKT727\\materials\\constellation_review_B10_20261016\\fetch_b10.py",
+      "bytes": 2499,
+      "sha256": "e5e6afc8f1f3005c8f5a35bcb0f5aa386ca5bccbba2fbc6257925756a0698d26",
+      "uploaded": false
+    },
+    {
+      "name": "HTTP_ATTEMPTS.json",
+      "path": "D:\\SKT727\\materials\\constellation_review_B10_20261016\\HTTP_ATTEMPTS.json",
+      "bytes": 24356,
+      "sha256": "f3398f87d4a1e66c94a6e1be318c301f7ff9f4d3ade2f57cb778d016c428ac01",
+      "uploaded": false
+    },
+    {
+      "name": "HTTP_ATTEMPTS_JOBS2_snapshot.json",
+      "path": "D:\\SKT727\\materials\\constellation_review_B10_20261016\\HTTP_ATTEMPTS_JOBS2_snapshot.json",
+      "bytes": 16512,
+      "sha256": "f6d4ca9fdce7b07b6afb9c60d707e6531bc83034e3c153927132db44edd9f756",
+      "uploaded": false
+    },
+    {
+      "name": "JOBS1.json",
+      "path": "D:\\SKT727\\materials\\constellation_review_B10_20261016\\JOBS1.json",
+      "bytes": 1379,
+      "sha256": "1253210f794c86bc9f5b053eddf7e47ff7aa9291090b2748d7c4689af7cf31c6",
+      "uploaded": false
+    },
+    {
+      "name": "JOBS2.json",
+      "path": "D:\\SKT727\\materials\\constellation_review_B10_20261016\\JOBS2.json",
+      "bytes": 529,
+      "sha256": "59fefe5c719e6381ba8fffb5b066f595c5c1d471d3536a0cf633b73ab94f7d19",
+      "uploaded": false
+    },
+    {
+      "name": "JOBS3.json",
+      "path": "D:\\SKT727\\materials\\constellation_review_B10_20261016\\JOBS3.json",
+      "bytes": 340,
+      "sha256": "9248303c3fae5bea3339697ffff72f80b755e226520d0e00973ae100d5c553ad",
+      "uploaded": false
+    },
+    {
+      "name": "JOBS4.json",
+      "path": "D:\\SKT727\\materials\\constellation_review_B10_20261016\\JOBS4.json",
+      "bytes": 1355,
+      "sha256": "a02e8031ac16dca1e63594f20b496527cffa8ac45b098ea1b658317df8c5240d",
+      "uploaded": false
+    },
+    {
+      "name": "reading_data.json",
+      "path": "D:\\SKT727\\materials\\constellation_review_B10_20261016\\reading_data.json",
+      "bytes": 14610,
+      "sha256": "3717fc442b04011005e0dada0e2e6dbabae4075bba11bf5f9b66dea7e4e699ab",
+      "uploaded": false
+    },
+    {
+      "name": "render_checks.py",
+      "path": "D:\\SKT727\\materials\\constellation_review_B10_20261016\\render_checks.py",
+      "bytes": 1076,
+      "sha256": "33e2c0793866a97bbcc8681537e3e74b7688b8957b497fe81758707dbcb25ddb",
+      "uploaded": false
+    },
+    {
+      "name": "RENDER_RECEIPTS.json",
+      "path": "D:\\SKT727\\materials\\constellation_review_B10_20261016\\RENDER_RECEIPTS.json",
+      "bytes": 7552,
+      "sha256": "feb816bcb9554bae435e0bd2364d310557c358fb98e773d735fb895ddfa4b6e8",
+      "uploaded": false
+    }
+  ],
+  "metadata_receipts": [
+    {
+      "candidate_id": "ALT01",
+      "path": "D:\\SKT727\\materials\\constellation_review_B10_20261016\\ALT01_crossref.json",
+      "sha256": "f764a9c27bf81ed026be180c5a429d80ab76b142353cafe33b6887dbfe4257ac"
+    },
+    {
+      "candidate_id": "ALT02",
+      "path": "D:\\SKT727\\materials\\constellation_review_B10_20261016\\ALT02_crossref.json",
+      "sha256": "57f80eede52bd59fe1d6418fd6f9eb8dd063c34973c31070729f868c92bc1f40"
+    },
+    {
+      "candidate_id": "ALT03",
+      "path": "D:\\SKT727\\materials\\constellation_review_B10_20261016\\ALT03_formal_crossref.json",
+      "sha256": "432d9ea1fdffcb4840d91672d74a0c45aef0d3c6e1119276f36d2d7fba0156fb"
+    },
+    {
+      "candidate_id": "ALT06",
+      "path": "D:\\SKT727\\materials\\constellation_review_B10_20261016\\ALT06_crossref_title_search.json",
+      "sha256": "97daf3cb14a0b13e97fd605bd838af9814e248f030e1705853fbc64ff8d659e8"
+    },
+    {
+      "candidate_id": "ALT08",
+      "path": "D:\\SKT727\\materials\\constellation_review_B10_20261016\\ALT08_crossref.json",
+      "sha256": "547ab521ce273d0df9d2954777ef2c779c64fcfd2f06856c9bc55ee27e0f598e"
+    },
+    {
+      "candidate_id": "ALT09",
+      "path": "D:\\SKT727\\materials\\constellation_review_B10_20261016\\ALT09_crossref_title_search.json",
+      "sha256": "d60bb02f3edf4d06772ead857158e46365bdd80572cc049ac65744b5675c6ca9"
+    },
+    {
+      "candidate_id": "ALT10",
+      "path": "D:\\SKT727\\materials\\constellation_review_B10_20261016\\ALT10_crossref.json",
+      "sha256": "b3ca670dc3c0b7b9cb2dd70a8fc1ed87fbba81951864e2adfe18c6b627e17d3b"
+    },
+    {
+      "candidate_id": "ALT11",
+      "path": "D:\\SKT727\\materials\\constellation_review_B10_20261016\\ALT11_crossref_title_search.json",
+      "sha256": "685c3ef357a809a21a57e2ea50e93ad7d7cd3a51765984406d111a70cea279b5"
+    }
+  ],
+  "third_party_files_uploaded": false
+}
