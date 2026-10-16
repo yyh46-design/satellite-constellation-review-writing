@@ -1,0 +1,1582 @@
+{
+  "batch": "B08_20261016",
+  "OpenAlex_index_obtained_count": 28,
+  "OpenAlex_index_failed_refs": [
+    68
+  ],
+  "OpenAlex_is_discovery_only": true,
+  "inherited_primary_Crossref_refs": [
+    29,
+    31,
+    33,
+    38,
+    40,
+    43,
+    45,
+    46,
+    54,
+    56,
+    60,
+    63,
+    64,
+    67,
+    68,
+    70,
+    83,
+    90,
+    94,
+    99,
+    100,
+    103,
+    104,
+    118
+  ],
+  "secondary_metadata_pending_primary_refs": [
+    32,
+    55,
+    59,
+    69,
+    110
+  ],
+  "current_Crossref_refresh_failures": [
+    {
+      "ref": 32,
+      "url": "https://api.crossref.org/works/10.1016/j.swevo.2024.101792",
+      "error": "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)>"
+    },
+    {
+      "ref": 55,
+      "url": "https://api.crossref.org/works/10.1016/j.comcom.2024.05.008",
+      "error": "The read operation timed out"
+    },
+    {
+      "ref": 59,
+      "url": "https://api.crossref.org/works/10.1016/j.asr.2025.12.008",
+      "error": "IncompleteRead(8383 bytes read)"
+    }
+  ],
+  "future_issue_date_does_not_mean_fulltext_obtained": true,
+  "records": [
+    {
+      "reference_number": 29,
+      "doi": "10.1016/j.actaastro.2013.02.005",
+      "metadata": {
+        "status": "inherited_B07_primary_Crossref_not_new_verification",
+        "metadata_url": "https://api.crossref.org/works/10.1016/j.actaastro.2013.02.005",
+        "snapshot": {
+          "external_path": "D:\\SKT727\\materials\\constellation_review_B07_20261016\\029_crossref.json",
+          "bytes": 9761,
+          "sha256": "fb0f660afde623c13e5fe81aa81eb1d7ca76258d24cb7f0e9d19e876803cac7d"
+        },
+        "authors": [
+          "Wen Yao",
+          "Xiaoqian Chen",
+          "Yiyong Huang",
+          "Michel van Tooren"
+        ],
+        "container_titles": [
+          "Acta Astronautica"
+        ],
+        "volume": "87",
+        "issue": null,
+        "page_or_article_number": "107-126",
+        "dates": {
+          "issued": {
+            "date-parts": [
+              [
+                2013,
+                6
+              ]
+            ]
+          },
+          "published": {
+            "date-parts": [
+              [
+                2013,
+                6
+              ]
+            ]
+          },
+          "published-print": {
+            "date-parts": [
+              [
+                2013,
+                6
+              ]
+            ]
+          }
+        },
+        "title_observed": [
+          "On-orbit servicing system assessment and optimization methods based on lifecycle simulation under mixed aleatory and epistemic uncertainties"
+        ],
+        "human_verified": false
+      }
+    },
+    {
+      "reference_number": 31,
+      "doi": "10.1109/TSMC.2020.3020732",
+      "metadata": {
+        "status": "inherited_B07_primary_Crossref_not_new_verification",
+        "metadata_url": "https://api.crossref.org/works/10.1109/TSMC.2020.3020732",
+        "snapshot": {
+          "external_path": "D:\\SKT727\\materials\\constellation_review_B07_20261016\\031_crossref.json",
+          "bytes": 9837,
+          "sha256": "1a777db3254508029222c2c2caa9a92aa4519d00d353e20675133b14e9a38747"
+        },
+        "authors": [
+          "Yongming He",
+          "Lining Xing",
+          "Yingwu Chen",
+          "Witold Pedrycz",
+          "Ling Wang",
+          "Guohua Wu"
+        ],
+        "container_titles": [
+          "IEEE Transactions on Systems, Man, and Cybernetics: Systems"
+        ],
+        "volume": "52",
+        "issue": "3",
+        "page_or_article_number": "1463-1474",
+        "dates": {
+          "issued": {
+            "date-parts": [
+              [
+                2022,
+                3
+              ]
+            ]
+          },
+          "published": {
+            "date-parts": [
+              [
+                2022,
+                3
+              ]
+            ]
+          },
+          "published-print": {
+            "date-parts": [
+              [
+                2022,
+                3
+              ]
+            ]
+          }
+        },
+        "title_observed": [
+          "A Generic Markov Decision Process Model and Reinforcement Learning Method for Scheduling Agile Earth Observation Satellites"
+        ],
+        "human_verified": false
+      }
+    },
+    {
+      "reference_number": 32,
+      "doi": "10.1016/j.swevo.2024.101792",
+      "metadata": {
+        "status": "secondary_OpenAlex_pending_primary_metadata",
+        "metadata_url": "https://api.openalex.org/works/https://doi.org/10.1016/j.swevo.2024.101792",
+        "snapshot": {
+          "external_path": "D:\\SKT727\\materials\\constellation_review_B08_20261016\\032_openalex.json",
+          "bytes": 13107,
+          "sha256": "e64819a347132eeb942715c28cf8b356e3d097151a171ba4ea520d6a5c1aa850"
+        },
+        "authors": [
+          "Jing Qi",
+          "Min Hu",
+          "Lining Xing"
+        ],
+        "container_titles": [
+          "Swarm and Evolutionary Computation"
+        ],
+        "volume": "92",
+        "issue": null,
+        "page_or_article_number": {
+          "volume": "92",
+          "issue": null,
+          "first_page": "101792",
+          "last_page": "101792"
+        },
+        "dates": {
+          "publication_date_secondary_index": "2024-12-28"
+        },
+        "title_observed": [
+          "A decompose-and-learn multi-objective algorithm for scheduling large-scale earth observation satellites"
+        ],
+        "human_verified": false
+      }
+    },
+    {
+      "reference_number": 33,
+      "doi": "10.1016/j.cor.2025.107259",
+      "metadata": {
+        "status": "inherited_B07_primary_Crossref_not_new_verification",
+        "metadata_url": "https://api.crossref.org/works/10.1016/j.cor.2025.107259",
+        "snapshot": {
+          "external_path": "D:\\SKT727\\materials\\constellation_review_B07_20261016\\033_crossref.json",
+          "bytes": 17945,
+          "sha256": "b4848ea144dc218431838f7cd331dbc60ee081281d128dde4b8d617bf46a8ae6"
+        },
+        "authors": [
+          "Pedro Marcolin Antunes",
+          "Laio Oriel Seman",
+          "Eduardo Camponogara"
+        ],
+        "container_titles": [
+          "Computers &amp; Operations Research"
+        ],
+        "volume": "185",
+        "issue": null,
+        "page_or_article_number": "107259",
+        "dates": {
+          "issued": {
+            "date-parts": [
+              [
+                2026,
+                1
+              ]
+            ]
+          },
+          "published": {
+            "date-parts": [
+              [
+                2026,
+                1
+              ]
+            ]
+          },
+          "published-print": {
+            "date-parts": [
+              [
+                2026,
+                1
+              ]
+            ]
+          }
+        },
+        "title_observed": [
+          "A branch-and-price algorithm for energy aware task scheduling of constellations of nanosatellites"
+        ],
+        "human_verified": false
+      }
+    },
+    {
+      "reference_number": 38,
+      "doi": "10.1016/j.asr.2020.02.018",
+      "metadata": {
+        "status": "inherited_B07_primary_Crossref_not_new_verification",
+        "metadata_url": "https://api.crossref.org/works/10.1016/j.asr.2020.02.018",
+        "snapshot": {
+          "external_path": "D:\\SKT727\\materials\\constellation_review_B07_20261016\\038_crossref.json",
+          "bytes": 12111,
+          "sha256": "a2cbd911ca050b2499b0df11bfd40ad091961f449e37d99a89c8f4b4e9a840d7"
+        },
+        "authors": [
+          "Guoliang Li"
+        ],
+        "container_titles": [
+          "Advances in Space Research"
+        ],
+        "volume": "65",
+        "issue": "11",
+        "page_or_article_number": "2475-2496",
+        "dates": {
+          "issued": {
+            "date-parts": [
+              [
+                2020,
+                6
+              ]
+            ]
+          },
+          "published": {
+            "date-parts": [
+              [
+                2020,
+                6
+              ]
+            ]
+          },
+          "published-print": {
+            "date-parts": [
+              [
+                2020,
+                6
+              ]
+            ]
+          }
+        },
+        "title_observed": [
+          "Online scheduling of distributed Earth observation satellite system under rigid communication constraints"
+        ],
+        "human_verified": false
+      }
+    },
+    {
+      "reference_number": 40,
+      "doi": "10.1016/j.asr.2021.09.003",
+      "metadata": {
+        "status": "inherited_B07_primary_Crossref_not_new_verification",
+        "metadata_url": "https://api.crossref.org/works/10.1016/j.asr.2021.09.003",
+        "snapshot": {
+          "external_path": "D:\\SKT727\\materials\\constellation_review_B07_20261016\\040_crossref.json",
+          "bytes": 16121,
+          "sha256": "9d3d5e56233acf2f25b9d6f97366dfb2debfea808a6828d8177d3a657c60a4b9"
+        },
+        "authors": [
+          "Weiyi Yang",
+          "Lei He",
+          "Xiaolu Liu",
+          "Yingwu Chen"
+        ],
+        "container_titles": [
+          "Advances in Space Research"
+        ],
+        "volume": "68",
+        "issue": "11",
+        "page_or_article_number": "4505-4524",
+        "dates": {
+          "issued": {
+            "date-parts": [
+              [
+                2021,
+                12
+              ]
+            ]
+          },
+          "published": {
+            "date-parts": [
+              [
+                2021,
+                12
+              ]
+            ]
+          },
+          "published-print": {
+            "date-parts": [
+              [
+                2021,
+                12
+              ]
+            ]
+          }
+        },
+        "title_observed": [
+          "Onboard coordination and scheduling of multiple autonomous satellites in an uncertain environment"
+        ],
+        "human_verified": false
+      }
+    },
+    {
+      "reference_number": 43,
+      "doi": "10.1016/j.actaastro.2025.02.008",
+      "metadata": {
+        "status": "inherited_B07_primary_Crossref_not_new_verification",
+        "metadata_url": "https://api.crossref.org/works/10.1016/j.actaastro.2025.02.008",
+        "snapshot": {
+          "external_path": "D:\\SKT727\\materials\\constellation_review_B07_20261016\\043_crossref.json",
+          "bytes": 17187,
+          "sha256": "6b7928541ab2718e2b80dbaf372d75833c8f0f2a0ea3fe811b36e87be9d0992f"
+        },
+        "authors": [
+          "Minghao Shang",
+          "Ronggang Yuan",
+          "Bin Song",
+          "Xuxing Huang",
+          "Bin Yang",
+          "Shuang Li"
+        ],
+        "container_titles": [
+          "Acta Astronautica"
+        ],
+        "volume": "230",
+        "issue": null,
+        "page_or_article_number": "92-103",
+        "dates": {
+          "issued": {
+            "date-parts": [
+              [
+                2025,
+                5
+              ]
+            ]
+          },
+          "published": {
+            "date-parts": [
+              [
+                2025,
+                5
+              ]
+            ]
+          },
+          "published-print": {
+            "date-parts": [
+              [
+                2025,
+                5
+              ]
+            ]
+          }
+        },
+        "title_observed": [
+          "Joint observation and transmission scheduling of multiple agile satellites with energy constraint using improved ACO algorithm"
+        ],
+        "human_verified": false
+      }
+    },
+    {
+      "reference_number": 45,
+      "doi": "10.1016/j.actaastro.2026.04.059",
+      "metadata": {
+        "status": "inherited_B07_primary_Crossref_not_new_verification",
+        "metadata_url": "https://api.crossref.org/works/10.1016/j.actaastro.2026.04.059",
+        "snapshot": {
+          "external_path": "D:\\SKT727\\materials\\constellation_review_B07_20261016\\045_crossref.json",
+          "bytes": 25483,
+          "sha256": "f4731310fb0952629a1b13bf0bbf5361a87373b67e620a9aa7148873ddf973d5"
+        },
+        "authors": [
+          "Sung Jun Kim",
+          "Minchae Kim",
+          "Han-Lim Choi"
+        ],
+        "container_titles": [
+          "Acta Astronautica"
+        ],
+        "volume": "246",
+        "issue": null,
+        "page_or_article_number": "921-940",
+        "dates": {
+          "issued": {
+            "date-parts": [
+              [
+                2026,
+                9
+              ]
+            ]
+          },
+          "published": {
+            "date-parts": [
+              [
+                2026,
+                9
+              ]
+            ]
+          },
+          "published-print": {
+            "date-parts": [
+              [
+                2026,
+                9
+              ]
+            ]
+          }
+        },
+        "title_observed": [
+          "Tip-and-cue mission scheduling in heterogeneous satellite constellations using mixed-integer linear programming"
+        ],
+        "human_verified": false
+      }
+    },
+    {
+      "reference_number": 46,
+      "doi": "10.1016/j.cor.2014.11.004",
+      "metadata": {
+        "status": "inherited_B07_primary_Crossref_not_new_verification",
+        "metadata_url": "https://api.crossref.org/works/10.1016/j.cor.2014.11.004",
+        "snapshot": {
+          "external_path": "D:\\SKT727\\materials\\constellation_review_B07_20261016\\046_crossref.json",
+          "bytes": 14071,
+          "sha256": "dc1f3224deba7e345e24f94416a5b110ccfff323a1b0b50c81ae174a2ba235d9"
+        },
+        "authors": [
+          "Sara Spangelo",
+          "James Cutler",
+          "Kyle Gilson",
+          "Amy Cohn"
+        ],
+        "container_titles": [
+          "Computers &amp; Operations Research"
+        ],
+        "volume": "57",
+        "issue": null,
+        "page_or_article_number": "1-16",
+        "dates": {
+          "issued": {
+            "date-parts": [
+              [
+                2015,
+                5
+              ]
+            ]
+          },
+          "published": {
+            "date-parts": [
+              [
+                2015,
+                5
+              ]
+            ]
+          },
+          "published-print": {
+            "date-parts": [
+              [
+                2015,
+                5
+              ]
+            ]
+          }
+        },
+        "title_observed": [
+          "Optimization-based scheduling for the single-satellite, multi-ground station communication problem"
+        ],
+        "human_verified": false
+      }
+    },
+    {
+      "reference_number": 54,
+      "doi": "10.1109/JIOT.2024.3482290",
+      "metadata": {
+        "status": "inherited_B07_primary_Crossref_not_new_verification",
+        "metadata_url": "https://api.crossref.org/works/10.1109/JIOT.2024.3482290",
+        "snapshot": {
+          "external_path": "D:\\SKT727\\materials\\constellation_review_B07_20261016\\054_crossref.json",
+          "bytes": 7445,
+          "sha256": "138e7df9e7fdc26e757e165e1ee9580e39077156ef20da6814d16a10afcf0f20"
+        },
+        "authors": [
+          "Min Jia",
+          "Liang Zhang",
+          "Jian Wu",
+          "Qing Guo",
+          "Guowei Zhang",
+          "Xuemai Gu"
+        ],
+        "container_titles": [
+          "IEEE Internet of Things Journal"
+        ],
+        "volume": "12",
+        "issue": "4",
+        "page_or_article_number": "3832-3845",
+        "dates": {
+          "issued": {
+            "date-parts": [
+              [
+                2025,
+                2,
+                15
+              ]
+            ]
+          },
+          "published": {
+            "date-parts": [
+              [
+                2025,
+                2,
+                15
+              ]
+            ]
+          },
+          "published-print": {
+            "date-parts": [
+              [
+                2025,
+                2,
+                15
+              ]
+            ]
+          }
+        },
+        "title_observed": [
+          "Deep Multiagent Reinforcement Learning for Task Offloading and Resource Allocation in Satellite Edge Computing"
+        ],
+        "human_verified": false
+      }
+    },
+    {
+      "reference_number": 55,
+      "doi": "10.1016/j.comcom.2024.05.008",
+      "metadata": {
+        "status": "secondary_OpenAlex_pending_primary_metadata",
+        "metadata_url": "https://api.openalex.org/works/https://doi.org/10.1016/j.comcom.2024.05.008",
+        "snapshot": {
+          "external_path": "D:\\SKT727\\materials\\constellation_review_B08_20261016\\055_openalex.json",
+          "bytes": 17694,
+          "sha256": "c7a236b6b2ffd2eeecea99f37e51d6d6a04b82e47ce2fe31a460ce1d562ba2eb"
+        },
+        "authors": [
+          "Li Hai",
+          "Jinyang Yu",
+          "Lili Cao",
+          "Qin Zhang",
+          "Zhengyu Song",
+          "Shujuan Hou"
+        ],
+        "container_titles": [
+          "Computer Communications"
+        ],
+        "volume": "222",
+        "issue": null,
+        "page_or_article_number": {
+          "volume": "222",
+          "issue": null,
+          "first_page": "268",
+          "last_page": "276"
+        },
+        "dates": {
+          "publication_date_secondary_index": "2024-05-11"
+        },
+        "title_observed": [
+          "Multi-agent reinforcement learning based computation offloading and resource allocation for LEO Satellite edge computing networks"
+        ],
+        "human_verified": false
+      }
+    },
+    {
+      "reference_number": 56,
+      "doi": "10.1109/TMC.2025.3570799",
+      "metadata": {
+        "status": "inherited_B07_primary_Crossref_not_new_verification",
+        "metadata_url": "https://api.crossref.org/works/10.1109/TMC.2025.3570799",
+        "snapshot": {
+          "external_path": "D:\\SKT727\\materials\\constellation_review_B07_20261016\\056_crossref.json",
+          "bytes": 8035,
+          "sha256": "e01b2984cf8b73e3ca2d99142fa70bae83fd2d26f7aca5dcae5693870540743e"
+        },
+        "authors": [
+          "Wenhao Fan",
+          "Qingcheng Meng",
+          "Guan Wang",
+          "Hengwei Bian",
+          "Yabin Liu",
+          "Yuan’an Liu"
+        ],
+        "container_titles": [
+          "IEEE Transactions on Mobile Computing"
+        ],
+        "volume": "24",
+        "issue": "10",
+        "page_or_article_number": "10710-10728",
+        "dates": {
+          "issued": {
+            "date-parts": [
+              [
+                2025,
+                10
+              ]
+            ]
+          },
+          "published": {
+            "date-parts": [
+              [
+                2025,
+                10
+              ]
+            ]
+          },
+          "published-print": {
+            "date-parts": [
+              [
+                2025,
+                10
+              ]
+            ]
+          }
+        },
+        "title_observed": [
+          "Satellite Edge Intelligence: DRL-Based Resource Management for Task Inference in LEO-Based Satellite-Ground Collaborative Networks"
+        ],
+        "human_verified": false
+      }
+    },
+    {
+      "reference_number": 59,
+      "doi": "10.1016/j.asr.2025.12.008",
+      "metadata": {
+        "status": "secondary_OpenAlex_pending_primary_metadata",
+        "metadata_url": "https://api.openalex.org/works/https://doi.org/10.1016/j.asr.2025.12.008",
+        "snapshot": {
+          "external_path": "D:\\SKT727\\materials\\constellation_review_B08_20261016\\059_openalex.json",
+          "bytes": 14472,
+          "sha256": "9d5655cb5bc601e48a4c99e81868fbb0c2ac653558e44a8ec1090101b9dc7ce4"
+        },
+        "authors": [
+          "Jiahao Qin",
+          "Hongxia Wang",
+          "Xudong Gao",
+          "Qian Wang",
+          "Xi Chen"
+        ],
+        "container_titles": [
+          "Advances in Space Research"
+        ],
+        "volume": "77",
+        "issue": "11",
+        "page_or_article_number": {
+          "volume": "77",
+          "issue": "11",
+          "first_page": "11252",
+          "last_page": "11270"
+        },
+        "dates": {
+          "publication_date_secondary_index": "2025-12-06"
+        },
+        "title_observed": [
+          "Lagrangian hierarchical mixed-integer programming for ultra-large-scale satellite scheduling under dynamic task delivery"
+        ],
+        "human_verified": false
+      }
+    },
+    {
+      "reference_number": 60,
+      "doi": "10.1016/j.cor.2016.04.014",
+      "metadata": {
+        "status": "inherited_B07_primary_Crossref_not_new_verification",
+        "metadata_url": "https://api.crossref.org/works/10.1016/j.cor.2016.04.014",
+        "snapshot": {
+          "external_path": "D:\\SKT727\\materials\\constellation_review_B07_20261016\\060_crossref.json",
+          "bytes": 21513,
+          "sha256": "7059d421b761139174b4b0a21e07e209adebf53457599fb94c0032cdd15c8250"
+        },
+        "authors": [
+          "Jianjiang Wang",
+          "Erik Demeulemeester",
+          "Dishan Qiu"
+        ],
+        "container_titles": [
+          "Computers &amp; Operations Research"
+        ],
+        "volume": "74",
+        "issue": null,
+        "page_or_article_number": "1-13",
+        "dates": {
+          "issued": {
+            "date-parts": [
+              [
+                2016,
+                10
+              ]
+            ]
+          },
+          "published": {
+            "date-parts": [
+              [
+                2016,
+                10
+              ]
+            ]
+          },
+          "published-print": {
+            "date-parts": [
+              [
+                2016,
+                10
+              ]
+            ]
+          }
+        },
+        "title_observed": [
+          "A pure proactive scheduling algorithm for multiple earth observation satellites under uncertainties of clouds"
+        ],
+        "human_verified": false
+      }
+    },
+    {
+      "reference_number": 63,
+      "doi": "10.1016/j.eswa.2025.128502",
+      "metadata": {
+        "status": "inherited_B07_primary_Crossref_not_new_verification",
+        "metadata_url": "https://api.crossref.org/works/10.1016/j.eswa.2025.128502",
+        "snapshot": {
+          "external_path": "D:\\SKT727\\materials\\constellation_review_B07_20261016\\063_crossref.json",
+          "bytes": 21150,
+          "sha256": "18be92cbdb8aca9c4a60942f0018a4950601ab3a5b1437e2b96c845a79b8b795"
+        },
+        "authors": [
+          "Jing Qi",
+          "Min Hu",
+          "Lining Xing",
+          "Zhenhua Su"
+        ],
+        "container_titles": [
+          "Expert Systems with Applications"
+        ],
+        "volume": "291",
+        "issue": null,
+        "page_or_article_number": "128502",
+        "dates": {
+          "issued": {
+            "date-parts": [
+              [
+                2025,
+                10
+              ]
+            ]
+          },
+          "published": {
+            "date-parts": [
+              [
+                2025,
+                10
+              ]
+            ]
+          },
+          "published-print": {
+            "date-parts": [
+              [
+                2025,
+                10
+              ]
+            ]
+          }
+        },
+        "title_observed": [
+          "Deep reinforcement learning-assisted large neighborhood search for online scheduling large-scale emergency tasks to Earth-observing satellites"
+        ],
+        "human_verified": false
+      }
+    },
+    {
+      "reference_number": 64,
+      "doi": "10.1016/j.eswa.2025.128350",
+      "metadata": {
+        "status": "inherited_B07_primary_Crossref_not_new_verification",
+        "metadata_url": "https://api.crossref.org/works/10.1016/j.eswa.2025.128350",
+        "snapshot": {
+          "external_path": "D:\\SKT727\\materials\\constellation_review_B07_20261016\\064_crossref.json",
+          "bytes": 20624,
+          "sha256": "e3d4a47b386e694834ab16f0571f27c5858dac6d5402c865c3c6cfc466c36e19"
+        },
+        "authors": [
+          "Zhe Li",
+          "Xin Zhu",
+          "Changdi Liu",
+          "JunYao Song",
+          "Yubai Liu",
+          "Chengjun Yin",
+          "Wei Sun"
+        ],
+        "container_titles": [
+          "Expert Systems with Applications"
+        ],
+        "volume": "289",
+        "issue": null,
+        "page_or_article_number": "128350",
+        "dates": {
+          "issued": {
+            "date-parts": [
+              [
+                2025,
+                9
+              ]
+            ]
+          },
+          "published": {
+            "date-parts": [
+              [
+                2025,
+                9
+              ]
+            ]
+          },
+          "published-print": {
+            "date-parts": [
+              [
+                2025,
+                9
+              ]
+            ]
+          }
+        },
+        "title_observed": [
+          "Dynamic task scheduling optimization by rolling horizon deep reinforcement learning for distributed satellite system"
+        ],
+        "human_verified": false
+      }
+    },
+    {
+      "reference_number": 67,
+      "doi": "10.1016/j.cie.2022.108852",
+      "metadata": {
+        "status": "inherited_B07_primary_Crossref_not_new_verification",
+        "metadata_url": "https://api.crossref.org/works/10.1016/j.cie.2022.108852",
+        "snapshot": {
+          "external_path": "D:\\SKT727\\materials\\constellation_review_B07_20261016\\067_crossref.json",
+          "bytes": 11641,
+          "sha256": "4868c3017e58c8783d3323178dfc79e1c72735a75123f5c1f4f18dedec6036f2"
+        },
+        "authors": [
+          "Susan E. Sorenson",
+          "Sarah G. Nurre Pinkley"
+        ],
+        "container_titles": [
+          "Computers &amp; Industrial Engineering"
+        ],
+        "volume": "176",
+        "issue": null,
+        "page_or_article_number": "108852",
+        "dates": {
+          "issued": {
+            "date-parts": [
+              [
+                2023,
+                2
+              ]
+            ]
+          },
+          "published": {
+            "date-parts": [
+              [
+                2023,
+                2
+              ]
+            ]
+          },
+          "published-print": {
+            "date-parts": [
+              [
+                2023,
+                2
+              ]
+            ]
+          }
+        },
+        "title_observed": [
+          "Multi-orbit routing and scheduling of refuellable on-orbit servicing space robots"
+        ],
+        "human_verified": false
+      }
+    },
+    {
+      "reference_number": 68,
+      "doi": "10.1016/j.cja.2025.103774",
+      "metadata": {
+        "status": "inherited_B07_primary_Crossref_not_new_verification",
+        "metadata_url": "https://api.crossref.org/works/10.1016/j.cja.2025.103774",
+        "snapshot": {
+          "external_path": "D:\\SKT727\\materials\\constellation_review_B07_20261016\\068_crossref.json",
+          "bytes": 18777,
+          "sha256": "c399efe55b410e30d4d2cb47d4cdbb9e74566056264714912a3d1bd8ffc26a4d"
+        },
+        "authors": [
+          "Shuai YIN",
+          "Chuanjiang LI",
+          "Edoardo FADDA",
+          "Yanning GUO",
+          "Guangtao RAN",
+          "Paolo BRANDIMARTE"
+        ],
+        "container_titles": [
+          "Chinese Journal of Aeronautics"
+        ],
+        "volume": "39",
+        "issue": "1",
+        "page_or_article_number": "103774",
+        "dates": {
+          "issued": {
+            "date-parts": [
+              [
+                2026,
+                1
+              ]
+            ]
+          },
+          "published": {
+            "date-parts": [
+              [
+                2026,
+                1
+              ]
+            ]
+          },
+          "published-print": {
+            "date-parts": [
+              [
+                2026,
+                1
+              ]
+            ]
+          }
+        },
+        "title_observed": [
+          "On-orbit refueling robust mission scheduling with uncertain duration for geosynchronous orbit spacecraft"
+        ],
+        "human_verified": false
+      }
+    },
+    {
+      "reference_number": 69,
+      "doi": "10.1016/j.asr.2017.05.037",
+      "metadata": {
+        "status": "secondary_OpenAlex_pending_primary_metadata",
+        "metadata_url": "https://api.openalex.org/works/https://doi.org/10.1016/j.asr.2017.05.037",
+        "snapshot": {
+          "external_path": "D:\\SKT727\\materials\\constellation_review_B08_20261016\\069_openalex.json",
+          "bytes": 15659,
+          "sha256": "c55d546cd8ce2e91172255807c04d7a79056d825845c0f24776db511d9b1276a"
+        },
+        "authors": [
+          "Kamran DANESHJOU",
+          "A.A. Mohammadi-Dehabadi",
+          "Majid Bakhtiari"
+        ],
+        "container_titles": [
+          "Advances in Space Research"
+        ],
+        "volume": "60",
+        "issue": "6",
+        "page_or_article_number": {
+          "volume": "60",
+          "issue": "6",
+          "first_page": "1148",
+          "last_page": "1162"
+        },
+        "dates": {
+          "publication_date_secondary_index": "2017-06-16"
+        },
+        "title_observed": [
+          "Mission planning for on-orbit servicing through multiple servicing satellites: A new approach"
+        ],
+        "human_verified": false
+      }
+    },
+    {
+      "reference_number": 70,
+      "doi": "10.1016/j.asr.2024.05.059",
+      "metadata": {
+        "status": "inherited_B07_primary_Crossref_not_new_verification",
+        "metadata_url": "https://api.crossref.org/works/10.1016/j.asr.2024.05.059",
+        "snapshot": {
+          "external_path": "D:\\SKT727\\materials\\constellation_review_B07_20261016\\070_crossref.json",
+          "bytes": 15834,
+          "sha256": "ed6ec60a2c02ad82a5feb30c69a2f61ba8fcffb8a24a23c8c3b63fec1c427dc8"
+        },
+        "authors": [
+          "Weikui Liang",
+          "Hui Zhi",
+          "Peng Han",
+          "Guangtao Ran",
+          "Guangfu Ma",
+          "Yanning Guo"
+        ],
+        "container_titles": [
+          "Advances in Space Research"
+        ],
+        "volume": "74",
+        "issue": "5",
+        "page_or_article_number": "2376-2387",
+        "dates": {
+          "issued": {
+            "date-parts": [
+              [
+                2024,
+                9
+              ]
+            ]
+          },
+          "published": {
+            "date-parts": [
+              [
+                2024,
+                9
+              ]
+            ]
+          },
+          "published-print": {
+            "date-parts": [
+              [
+                2024,
+                9
+              ]
+            ]
+          }
+        },
+        "title_observed": [
+          "GEO satellite on-orbit refueling and debris removal hybrid mission planning under uncertainty"
+        ],
+        "human_verified": false
+      }
+    },
+    {
+      "reference_number": 83,
+      "doi": "10.1016/j.asr.2021.04.042",
+      "metadata": {
+        "status": "inherited_B07_primary_Crossref_not_new_verification",
+        "metadata_url": "https://api.crossref.org/works/10.1016/j.asr.2021.04.042",
+        "snapshot": {
+          "external_path": "D:\\SKT727\\materials\\constellation_review_B07_20261016\\083_crossref.json",
+          "bytes": 16471,
+          "sha256": "802492917c376c52a73ab02c6cd4b4ea5896b0606845c3dfd9b49857daf773f1"
+        },
+        "authors": [
+          "Nicholas Ravago",
+          "Brandon A. Jones"
+        ],
+        "container_titles": [
+          "Advances in Space Research"
+        ],
+        "volume": "68",
+        "issue": "6",
+        "page_or_article_number": "2530-2550",
+        "dates": {
+          "issued": {
+            "date-parts": [
+              [
+                2021,
+                9
+              ]
+            ]
+          },
+          "published": {
+            "date-parts": [
+              [
+                2021,
+                9
+              ]
+            ]
+          },
+          "published-print": {
+            "date-parts": [
+              [
+                2021,
+                9
+              ]
+            ]
+          }
+        },
+        "title_observed": [
+          "Risk-aware sensor scheduling and tracking of large constellations"
+        ],
+        "human_verified": false
+      }
+    },
+    {
+      "reference_number": 90,
+      "doi": "10.2514/1.29590",
+      "metadata": {
+        "status": "inherited_B07_primary_Crossref_not_new_verification",
+        "metadata_url": "https://api.crossref.org/works/10.2514/1.29590",
+        "snapshot": {
+          "external_path": "D:\\SKT727\\materials\\constellation_review_B07_20261016\\090_crossref.json",
+          "bytes": 6280,
+          "sha256": "7d32c74edaccee530355dfe7c79276ed1bf933d3e603453a30344703b8a31019"
+        },
+        "authors": [
+          "Louis Breger",
+          "Jonathan P. How"
+        ],
+        "container_titles": [
+          "Journal of Guidance, Control, and Dynamics"
+        ],
+        "volume": "31",
+        "issue": "5",
+        "page_or_article_number": "1478-1489",
+        "dates": {
+          "issued": {
+            "date-parts": [
+              [
+                2008,
+                9
+              ]
+            ]
+          },
+          "published": {
+            "date-parts": [
+              [
+                2008,
+                9
+              ]
+            ]
+          },
+          "published-print": {
+            "date-parts": [
+              [
+                2008,
+                9
+              ]
+            ]
+          }
+        },
+        "title_observed": [
+          "Safe Trajectories for Autonomous Rendezvous of Spacecraft"
+        ],
+        "human_verified": false
+      }
+    },
+    {
+      "reference_number": 94,
+      "doi": "10.1016/j.ast.2025.111237",
+      "metadata": {
+        "status": "inherited_B07_primary_Crossref_not_new_verification",
+        "metadata_url": "https://api.crossref.org/works/10.1016/j.ast.2025.111237",
+        "snapshot": {
+          "external_path": "D:\\SKT727\\materials\\constellation_review_B07_20261016\\094_crossref.json",
+          "bytes": 17426,
+          "sha256": "5ec87eadb8727dc76639cd4abe8bedb602e6c9f91bbdd21b3a1a3c1d558922af"
+        },
+        "authors": [
+          "Zhenbo Zhao",
+          "Fan Wu",
+          "Jian Chen"
+        ],
+        "container_titles": [
+          "Aerospace Science and Technology"
+        ],
+        "volume": "169",
+        "issue": null,
+        "page_or_article_number": "111237",
+        "dates": {
+          "issued": {
+            "date-parts": [
+              [
+                2026,
+                2
+              ]
+            ]
+          },
+          "published": {
+            "date-parts": [
+              [
+                2026,
+                2
+              ]
+            ]
+          },
+          "published-print": {
+            "date-parts": [
+              [
+                2026,
+                2
+              ]
+            ]
+          }
+        },
+        "title_observed": [
+          "Chance-constrained visual servoing MPC for non-cooperative spacecraft rendezvous"
+        ],
+        "human_verified": false
+      }
+    },
+    {
+      "reference_number": 99,
+      "doi": "10.1016/j.actaastro.2020.12.012",
+      "metadata": {
+        "status": "inherited_B07_primary_Crossref_not_new_verification",
+        "metadata_url": "https://api.crossref.org/works/10.1016/j.actaastro.2020.12.012",
+        "snapshot": {
+          "external_path": "D:\\SKT727\\materials\\constellation_review_B07_20261016\\099_crossref.json",
+          "bytes": 13027,
+          "sha256": "edbc52e7feeea61b6fd2a242a6f5c70dafc62e9e056632183940caa4fe6e0669"
+        },
+        "authors": [
+          "Junfu Chen",
+          "Dechang Pi",
+          "Zhiyuan Wu",
+          "Xiaodong Zhao",
+          "Yue Pan",
+          "Qiang Zhang"
+        ],
+        "container_titles": [
+          "Acta Astronautica"
+        ],
+        "volume": "180",
+        "issue": null,
+        "page_or_article_number": "232-242",
+        "dates": {
+          "issued": {
+            "date-parts": [
+              [
+                2021,
+                3
+              ]
+            ]
+          },
+          "published": {
+            "date-parts": [
+              [
+                2021,
+                3
+              ]
+            ]
+          },
+          "published-print": {
+            "date-parts": [
+              [
+                2021,
+                3
+              ]
+            ]
+          }
+        },
+        "title_observed": [
+          "Imbalanced satellite telemetry data anomaly detection model based on Bayesian LSTM"
+        ],
+        "human_verified": false
+      }
+    },
+    {
+      "reference_number": 100,
+      "doi": "10.1016/j.actaastro.2026.07.065",
+      "metadata": {
+        "status": "inherited_B07_primary_Crossref_not_new_verification",
+        "metadata_url": "https://api.crossref.org/works/10.1016/j.actaastro.2026.07.065",
+        "snapshot": {
+          "external_path": "D:\\SKT727\\materials\\constellation_review_B07_20261016\\100_crossref.json",
+          "bytes": 17916,
+          "sha256": "bc300504de07771769538658e704c7eb8412381112c7406f9053b9285e168ae5"
+        },
+        "authors": [
+          "Nils Kuhn",
+          "Bruno Sánchez Gómez",
+          "Natalia Moreno Blasco",
+          "Polona Caserman",
+          "Federico Antonello"
+        ],
+        "container_titles": [
+          "Acta Astronautica"
+        ],
+        "volume": "249",
+        "issue": null,
+        "page_or_article_number": "971-985",
+        "dates": {
+          "issued": {
+            "date-parts": [
+              [
+                2026,
+                12
+              ]
+            ]
+          },
+          "published": {
+            "date-parts": [
+              [
+                2026,
+                12
+              ]
+            ]
+          },
+          "published-print": {
+            "date-parts": [
+              [
+                2026,
+                12
+              ]
+            ]
+          }
+        },
+        "title_observed": [
+          "Validation-gated continual learning for anomaly detection in satellite telemetry"
+        ],
+        "human_verified": false
+      }
+    },
+    {
+      "reference_number": 103,
+      "doi": "10.2514/1.I011208",
+      "metadata": {
+        "status": "inherited_B07_primary_Crossref_not_new_verification",
+        "metadata_url": "https://api.crossref.org/works/10.2514/1.I011208",
+        "snapshot": {
+          "external_path": "D:\\SKT727\\materials\\constellation_review_B07_20261016\\103_crossref.json",
+          "bytes": 5750,
+          "sha256": "f617f599cbbe2898de1580ae001d12ff58e7f56d309a87acbe70c9a1f5a407e2"
+        },
+        "authors": [
+          "Antony Gillette",
+          "Alan George"
+        ],
+        "container_titles": [
+          "Journal of Aerospace Information Systems"
+        ],
+        "volume": "20",
+        "issue": "7",
+        "page_or_article_number": "387-397",
+        "dates": {
+          "issued": {
+            "date-parts": [
+              [
+                2023,
+                7
+              ]
+            ]
+          },
+          "published": {
+            "date-parts": [
+              [
+                2023,
+                7
+              ]
+            ]
+          },
+          "published-print": {
+            "date-parts": [
+              [
+                2023,
+                7
+              ]
+            ]
+          }
+        },
+        "title_observed": [
+          "Resilient Autonomous Mission Management for Decentralized Multispacecraft Missions"
+        ],
+        "human_verified": false
+      }
+    },
+    {
+      "reference_number": 104,
+      "doi": "10.1016/j.actaastro.2020.05.011",
+      "metadata": {
+        "status": "inherited_B07_primary_Crossref_not_new_verification",
+        "metadata_url": "https://api.crossref.org/works/10.1016/j.actaastro.2020.05.011",
+        "snapshot": {
+          "external_path": "D:\\SKT727\\materials\\constellation_review_B07_20261016\\104_crossref.json",
+          "bytes": 15294,
+          "sha256": "a0d30e7f9d90176b86c62c3ef523f5aebd6568dde77c73e7311880bd0d9c3fa1"
+        },
+        "authors": [
+          "Chao Chen",
+          "Rui Xu",
+          "Shengying Zhu",
+          "Zhaoyu Li",
+          "Huiping Jiang"
+        ],
+        "container_titles": [
+          "Acta Astronautica"
+        ],
+        "volume": "175",
+        "issue": null,
+        "page_or_article_number": "155-162",
+        "dates": {
+          "issued": {
+            "date-parts": [
+              [
+                2020,
+                10
+              ]
+            ]
+          },
+          "published": {
+            "date-parts": [
+              [
+                2020,
+                10
+              ]
+            ]
+          },
+          "published-print": {
+            "date-parts": [
+              [
+                2020,
+                10
+              ]
+            ]
+          }
+        },
+        "title_observed": [
+          "RPRS: a reactive plan repair strategy for rapid response to plan failures of deep space missions"
+        ],
+        "human_verified": false
+      }
+    },
+    {
+      "reference_number": 110,
+      "doi": "10.2514/1.I010386",
+      "metadata": {
+        "status": "secondary_OpenAlex_pending_primary_metadata",
+        "metadata_url": "https://api.openalex.org/works/https://doi.org/10.2514/1.I010386",
+        "snapshot": {
+          "external_path": "D:\\SKT727\\materials\\constellation_review_B08_20261016\\110_openalex.json",
+          "bytes": 21371,
+          "sha256": "7fdc117754dc98ed826733d1615e901264ae4ae6f22b3d87d8f161a7bd1cd159"
+        },
+        "authors": [
+          "Steve Chien",
+          "Joshua R. Doubleday",
+          "David Ray Thompson",
+          "Kiri L. Wagstaff",
+          "John M. Bellardo",
+          "C. Richard Francis",
+          "Eric Baumgarten",
+          "Austin Williams",
+          "Edmund Yee",
+          "Eric J. Stanton",
+          "Jordi Piug-Suari"
+        ],
+        "container_titles": [
+          "Journal of Aerospace Information Systems"
+        ],
+        "volume": "14",
+        "issue": "6",
+        "page_or_article_number": {
+          "volume": "14",
+          "issue": "6",
+          "first_page": "307",
+          "last_page": "315"
+        },
+        "dates": {
+          "publication_date_secondary_index": "2016-04-18"
+        },
+        "title_observed": [
+          "Onboard Autonomy on the Intelligent Payload Experiment CubeSat Mission"
+        ],
+        "human_verified": false
+      }
+    },
+    {
+      "reference_number": 118,
+      "doi": "10.1109/SAM.2018.8448984",
+      "metadata": {
+        "status": "inherited_B07_primary_Crossref_not_new_verification",
+        "metadata_url": "https://api.crossref.org/works/10.1109/SAM.2018.8448984",
+        "snapshot": {
+          "external_path": "D:\\SKT727\\materials\\constellation_review_B07_20261016\\118_crossref.json",
+          "bytes": 3411,
+          "sha256": "f24985b25e53c9455bcf68874496c7eb8d4633bc26ae270032fec4e7821e9599"
+        },
+        "authors": [
+          "Matthew Rantanen",
+          "Jalil Modares",
+          "Nicholas Mastronarde",
+          "Farshad Ghanei",
+          "Karthik Dantu"
+        ],
+        "container_titles": [
+          "2018 IEEE 10th Sensor Array and Multichannel Signal Processing Workshop (SAM)"
+        ],
+        "volume": null,
+        "issue": null,
+        "page_or_article_number": "311-315",
+        "dates": {
+          "issued": {
+            "date-parts": [
+              [
+                2018,
+                7
+              ]
+            ]
+          },
+          "published": {
+            "date-parts": [
+              [
+                2018,
+                7
+              ]
+            ]
+          },
+          "published-print": {
+            "date-parts": [
+              [
+                2018,
+                7
+              ]
+            ]
+          }
+        },
+        "title_observed": [
+          "Performance of the Asynchronous Consensus Based Bundle Algorithm in Lossy Network Environments"
+        ],
+        "human_verified": false
+      }
+    }
+  ]
+}

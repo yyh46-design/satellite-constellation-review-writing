@@ -1,0 +1,270 @@
+{
+  "batch": "B08_20261016",
+  "policy": "ordinary public access only;403 stopped;no paywall/captcha/authentication/TLS bypass;no messages sent to authors",
+  "search_and_web_capture_receipts": [
+    {
+      "external_path": "D:\\SKT727\\materials\\constellation_review_B08_20261016\\ACCESS_55_59_WEB.txt",
+      "bytes": 36775,
+      "sha256": "cb61c6b2ce162045bfca1d961155facc0ea29427ba9db1f0c45bfdffecfdf985"
+    },
+    {
+      "external_path": "D:\\SKT727\\materials\\constellation_review_B08_20261016\\AUTHOR_118_LAB.txt",
+      "bytes": 6536,
+      "sha256": "b30af2c430643fc4cd4baadb9791ef14b636e059561d29ac9e5b51c45332cf2d"
+    },
+    {
+      "external_path": "D:\\SKT727\\materials\\constellation_review_B08_20261016\\PUBLISHER_PREVIEWS_32_45_63.txt",
+      "bytes": 1038,
+      "sha256": "7b1ae47ccad34b0de64a648871586c5f5be773345b84f4e4b285aa8a6de3db0c"
+    },
+    {
+      "external_path": "D:\\SKT727\\materials\\constellation_review_B08_20261016\\SEARCH_01.txt",
+      "bytes": 40154,
+      "sha256": "4dc8770a4890890fa84b6b8978c7e0a85a3c31e771193675125381b8612982f8"
+    },
+    {
+      "external_path": "D:\\SKT727\\materials\\constellation_review_B08_20261016\\SEARCH_02.txt",
+      "bytes": 32777,
+      "sha256": "1e6f14a1dee4f27c0c626e2ce13f912045406d607ce3c5f880d2ea6637b321ff"
+    },
+    {
+      "external_path": "D:\\SKT727\\materials\\constellation_review_B08_20261016\\SEARCH_03.txt",
+      "bytes": 38125,
+      "sha256": "de6e59377e21c339a88e07c91cb8f21e4f614b5256a0646b0c29732ed0b98d56"
+    },
+    {
+      "external_path": "D:\\SKT727\\materials\\constellation_review_B08_20261016\\SEARCH_04.txt",
+      "bytes": 29850,
+      "sha256": "5d94c40fabb9723e8946d76cea75d5e04015f494e421fde86d0b5b30a2dbb3fd"
+    },
+    {
+      "external_path": "D:\\SKT727\\materials\\constellation_review_B08_20261016\\SEARCH_05.txt",
+      "bytes": 39168,
+      "sha256": "701ef39a1d1c672e4953e50477765c4e6883414e0d9ccac3473c0c4ac32ac88d"
+    },
+    {
+      "external_path": "D:\\SKT727\\materials\\constellation_review_B08_20261016\\SEARCH_06.txt",
+      "bytes": 36595,
+      "sha256": "40a5e23faf191b6bdf402aea54d4f44cf75da8575adfc5791d09b977f0392b98"
+    },
+    {
+      "external_path": "D:\\SKT727\\materials\\constellation_review_B08_20261016\\SEARCH_07.txt",
+      "bytes": 35739,
+      "sha256": "c12d2088256791ea63336980431618935baeaec1e7630865c048c90a76150e5b"
+    },
+    {
+      "external_path": "D:\\SKT727\\materials\\constellation_review_B08_20261016\\SEARCH_08.txt",
+      "bytes": 34387,
+      "sha256": "a6b9d164a5f69b1b665fe1701fba65ea778a7430674de000ecdce948de4bca28"
+    },
+    {
+      "external_path": "D:\\SKT727\\materials\\constellation_review_B08_20261016\\SEARCH_09.txt",
+      "bytes": 35031,
+      "sha256": "3831026a3a8f4290da1b2c05a3cb34488ec374e2b9fef6d1ee42357f1383bb73"
+    },
+    {
+      "external_path": "D:\\SKT727\\materials\\constellation_review_B08_20261016\\SEARCH_10_LATER_ORDER.txt",
+      "bytes": 33812,
+      "sha256": "9ca82d96d405b699557ba5318932ae308471fbf88f9d8569e2a276e6d1aad3b4"
+    },
+    {
+      "external_path": "D:\\SKT727\\materials\\constellation_review_B08_20261016\\SEARCH_11.txt",
+      "bytes": 26821,
+      "sha256": "ca65a4de280bb0d6c6a5348a0daf9e148fbe73b57e07762f9817db929c66025f"
+    },
+    {
+      "external_path": "D:\\SKT727\\materials\\constellation_review_B08_20261016\\SEARCH_12.txt",
+      "bytes": 33258,
+      "sha256": "2cb7368798803cf5ece66312f7828ca185bd3c414cfad2b2e43d3d1bbc79d7c0"
+    },
+    {
+      "external_path": "D:\\SKT727\\materials\\constellation_review_B08_20261016\\SEARCH_13.txt",
+      "bytes": 33928,
+      "sha256": "e8cf8eaf6878335117cfee8ea9c4a81580940345ce4894dec6d205ace44c2047"
+    },
+    {
+      "external_path": "D:\\SKT727\\materials\\constellation_review_B08_20261016\\SEARCH_14.txt",
+      "bytes": 37851,
+      "sha256": "27ff0b4e1086ffda551023cc0cf35ed8bc68b7cf2d5e649c1e9a97d475b7c512"
+    },
+    {
+      "external_path": "D:\\SKT727\\materials\\constellation_review_B08_20261016\\SEARCH_15_0.txt",
+      "bytes": 32867,
+      "sha256": "6a88099d36c128a31f86d46bf1d2c6770a4383610c996b3e4e1ff35dbea3e1d2"
+    },
+    {
+      "external_path": "D:\\SKT727\\materials\\constellation_review_B08_20261016\\SEARCH_15_1.txt",
+      "bytes": 32589,
+      "sha256": "2a2bba950929310a155a65810f05145705de1f76403d0ee9a129ac6318cd8ca2"
+    },
+    {
+      "external_path": "D:\\SKT727\\materials\\constellation_review_B08_20261016\\SEARCH_15_2.txt",
+      "bytes": 4359,
+      "sha256": "33380ef54c80a2c1c453e3d83c1f0c65840c064d9ab1c37df8cd1e56c0c5d0cb"
+    },
+    {
+      "external_path": "D:\\SKT727\\materials\\constellation_review_B08_20261016\\SEARCH_16_0.txt",
+      "bytes": 38490,
+      "sha256": "309fc25a63315bb2da3dddcb7caeafb91248fe531414e5847f59a0c216909bbc"
+    },
+    {
+      "external_path": "D:\\SKT727\\materials\\constellation_review_B08_20261016\\SEARCH_16_1.txt",
+      "bytes": 34879,
+      "sha256": "3191676f79e179afb739ce6a6ec6ced483480a741765fd6be14f10cebb50c748"
+    },
+    {
+      "external_path": "D:\\SKT727\\materials\\constellation_review_B08_20261016\\SEARCH_16_2.txt",
+      "bytes": 33925,
+      "sha256": "7d733b1e8f5f61af65ce9b6e1b5dddfc52296f0bcde341cf2b70895bcf60b332"
+    },
+    {
+      "external_path": "D:\\SKT727\\materials\\constellation_review_B08_20261016\\SEARCH_16_3.txt",
+      "bytes": 37875,
+      "sha256": "eedc59405ec74f1d8bd2d74e0ba5c1a7f2b7e8e671cc267b8db714a789c99301"
+    },
+    {
+      "external_path": "D:\\SKT727\\materials\\constellation_review_B08_20261016\\SEARCH_17.txt",
+      "bytes": 37484,
+      "sha256": "bd1d2e302ab8c95822438681d044e20757350f4da89e5bef0195f08757453b60"
+    },
+    {
+      "external_path": "D:\\SKT727\\materials\\constellation_review_B08_20261016\\SEARCH_18_0.txt",
+      "bytes": 34895,
+      "sha256": "c31a4892991d5e29f8d73f535f70b52e8789482ebf19107311cb01d09a2ece77"
+    },
+    {
+      "external_path": "D:\\SKT727\\materials\\constellation_review_B08_20261016\\SEARCH_18_1.txt",
+      "bytes": 34456,
+      "sha256": "11db61150fb92ae2e79daae794368ad49aeb0f02c739e26ae57d5e4e72ffb4fb"
+    },
+    {
+      "external_path": "D:\\SKT727\\materials\\constellation_review_B08_20261016\\SEARCH_18_2.txt",
+      "bytes": 35198,
+      "sha256": "63849e8c47943a3347a70990d0dcd27060f207422398f9ef4e29aaba14709ee8"
+    }
+  ],
+  "external_log_receipts": [
+    {
+      "external_path": "D:\\SKT727\\materials\\constellation_review_B08_20261016\\OA_DISCOVERY.json",
+      "bytes": 30434,
+      "sha256": "9009ef125e8e11980c45cd6a8460c8762769a3d405c277e555f521c3ec174227"
+    },
+    {
+      "external_path": "D:\\SKT727\\materials\\constellation_review_B08_20261016\\OA_DISCOVERY_LATER14.json",
+      "bytes": 22841,
+      "sha256": "885f35995a48fe29ab16ea769442ccf57ea06eb268d45ea1de8dfdc53a726a66"
+    },
+    {
+      "external_path": "D:\\SKT727\\materials\\constellation_review_B08_20261016\\ACQUISITION_060.json",
+      "bytes": 325,
+      "sha256": "ff34d86785f78d5ed94b8af2c2218ac6f5d30f274cd0be5bbf25a0abfc7c4041"
+    },
+    {
+      "external_path": "D:\\SKT727\\materials\\constellation_review_B08_20261016\\ACQUISITION_094.json",
+      "bytes": 258,
+      "sha256": "d4931b8d3cba0d9f0b035d2b1ad652e77c653f3b32f350221166029215f2c224"
+    },
+    {
+      "external_path": "D:\\SKT727\\materials\\constellation_review_B08_20261016\\ACQUISITION_103_RELATED.json",
+      "bytes": 211,
+      "sha256": "0c96fd560547d214a6cf78694a42df00da8ccb0d4f5fb36004643bd7d80b9c70"
+    },
+    {
+      "external_path": "D:\\SKT727\\materials\\constellation_review_B08_20261016\\DIRECT_LANDING_ATTEMPTS.json",
+      "bytes": 653,
+      "sha256": "8e89152484439a99cef3ed2c90ce6ff4d87389aaccc55c51079b963cfbe59c55"
+    },
+    {
+      "external_path": "D:\\SKT727\\materials\\constellation_review_B08_20261016\\CROSSREF_REFRESH.json",
+      "bytes": 518,
+      "sha256": "d5dd888f97ccbfe99cd13ba0c2b24706423203a63964987ed6a5feb536ae3d26"
+    },
+    {
+      "external_path": "D:\\SKT727\\materials\\constellation_review_B08_20261016\\100_code_discovery.json",
+      "bytes": 1571,
+      "sha256": "8111f8ca58bd9b392ddef95256aa2ddeefeb1ccc33874b34d97cf85b3ee047a5"
+    },
+    {
+      "external_path": "D:\\SKT727\\materials\\constellation_review_B08_20261016\\100_code_tree.json",
+      "bytes": 14406,
+      "sha256": "57b230fcd6d6d56897ce47909a40de5ab87afcb7a31c865df5803dbcc4707dd0"
+    },
+    {
+      "external_path": "D:\\SKT727\\materials\\constellation_review_B08_20261016\\100_CODE_SOURCE_MANIFEST.json",
+      "bytes": 4538,
+      "sha256": "e0a222195e1a4a1702462aeb1c2aa4b51e27642692428da2809f3d4b75353324"
+    }
+  ],
+  "current_ordinary_attempt_results": {
+    "ACQUISITION_060.json": {
+      "ref": 60,
+      "url": "https://lirias.kuleuven.be/bitstream/123456789/538685/1/A%20pure%20proactive%20scheduling%20algorithm%20for%20multiple%20earth%20observation%20sat%20%20%20.pdf",
+      "method": "ordinary public request; timeout20; noauth; stop403/429",
+      "obtained": false,
+      "error": "HTTP Error 404: Not Found"
+    },
+    "ACQUISITION_094.json": {
+      "target_ref": 94,
+      "url": "https://papers.ssrn.com/sol3/Delivery.cfm/db5a0fdd-a323-4638-856a-9f6a2a1a02aa-MECA.pdf?abstractid=5561401&mirid=1",
+      "method": "one ordinary GET to indexed public download link",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    "ACQUISITION_103_RELATED.json": {
+      "target_ref": 103,
+      "candidate_kind": "related_dissertation_not_yet_paired",
+      "url": "https://d-scholarship.pitt.edu/43768/25/antony_gillette_etdPitt2022.pdf",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    "DIRECT_LANDING_ATTEMPTS.json": [
+      {
+        "name": "060_kul_landing",
+        "url": "https://lirias.kuleuven.be/handle/123456789/460886",
+        "status": 200,
+        "final_url": "https://kuleuven.limo.libis.be/discovery/search?query=any,contains,LIRIAS2379526&tab=LIRIAS&search_scope=lirias_profile&vid=32KUL_KUL:Lirias&offset=0",
+        "content_type": "text/html",
+        "bytes": 4784,
+        "candidate_links": [
+          "lib/bower_components/pdfjs-viewer/locale/locale.properties"
+        ],
+        "relevant_text": []
+      },
+      {
+        "name": "046_author_landing",
+        "url": "https://amycohn.engin.umich.edu/research/papers/published-papers/",
+        "error": "HTTP Error 403: Forbidden"
+      }
+    ],
+    "CROSSREF_REFRESH.json": [
+      {
+        "ref": 32,
+        "url": "https://api.crossref.org/works/10.1016/j.swevo.2024.101792",
+        "error": "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)>"
+      },
+      {
+        "ref": 55,
+        "url": "https://api.crossref.org/works/10.1016/j.comcom.2024.05.008",
+        "error": "The read operation timed out"
+      },
+      {
+        "ref": 59,
+        "url": "https://api.crossref.org/works/10.1016/j.asr.2025.12.008",
+        "error": "IncompleteRead(8383 bytes read)"
+      }
+    ]
+  },
+  "browser_observations": [
+    {
+      "target_ref": 60,
+      "operation": "create hidden public KUL discovery tab",
+      "result": "30s timeout;tab later inventoried"
+    },
+    {
+      "target_ref": 60,
+      "operation": "bind/read same tab",
+      "result": "20s timeout; no record/attachment UI obtained;stopped"
+    }
+  ],
+  "source_pdf_acquired_count": 0,
+  "associated_code_files_acquired_count": 10,
+  "raw_third_party_text_external_only": true
+}

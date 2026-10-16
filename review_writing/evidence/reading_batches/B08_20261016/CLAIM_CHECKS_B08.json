@@ -1,0 +1,208 @@
+{
+  "batch": "B08_20261016",
+  "new_paper_body_claim_count": 0,
+  "associated_code_observation_count": 5,
+  "associated_code_observations": [
+    {
+      "id": "B08-100-A01",
+      "reference_number": 100,
+      "title": "更新触发与数据顺序",
+      "observation": "所核循环先对当前批预测，再保存输入/异常标志，并在预设批索引处调用重训练。",
+      "limit": "这是固定提交的调用路径观察；未测真实延迟，未证明全部方法、配置和论文实验都采用同一协议。",
+      "evidence_class": "associated_author_code_static_read_not_paper_body",
+      "code_commit": "636ac05995f52d3a12b6c7186646757a28c900eb",
+      "locators": [
+        {
+          "repo_path": "src/Main_loop.py",
+          "start_line": 128,
+          "end_line": 144,
+          "pinned_url": "https://github.com/DerKuhno/validation-gated-continual-learning/blob/636ac05995f52d3a12b6c7186646757a28c900eb/src/Main_loop.py#L128-L144",
+          "external_source_sha256": "4487ccb5edfef2957605b66d2a46c553aaf19389ec7a1f2026edaa9dcbfb2b0d",
+          "selected_lines_sha256": "8ccba8ff03f892f6b20e2b9caf00ae9f11ed0de0aa452c99cd3a9626db3cde67"
+        },
+        {
+          "repo_path": "src/CL_methods/continual_learning_manager.py",
+          "start_line": 66,
+          "end_line": 87,
+          "pinned_url": "https://github.com/DerKuhno/validation-gated-continual-learning/blob/636ac05995f52d3a12b6c7186646757a28c900eb/src/CL_methods/continual_learning_manager.py#L66-L87",
+          "external_source_sha256": "ee683687618da2ead0b22285594a30e8191c35fec9df7501a2f7340b455d8556",
+          "selected_lines_sha256": "c53935a20ad9b4599ea3910ced2fbcbd0b79ebaacf341c60a87e9abc90306495"
+        }
+      ],
+      "manuscript_candidate_lines": [
+        223
+      ],
+      "paper_reading_upgrade": false,
+      "source_code_executed": false,
+      "independent_experimental_reproduction": false,
+      "human_verified": false
+    },
+    {
+      "id": "B08-100-A02",
+      "reference_number": 100,
+      "title": "更新样本与标签条件",
+      "observation": "扩展数据函数按传入异常标志排除样本，将保留片段加入临时训练集与验证集。",
+      "limit": "异常标志的生成、确认时延和部署可得性尚未完整追踪；不能据此宣称无标注在线学习，也不能直接判定数据泄漏。",
+      "evidence_class": "associated_author_code_static_read_not_paper_body",
+      "code_commit": "636ac05995f52d3a12b6c7186646757a28c900eb",
+      "locators": [
+        {
+          "repo_path": "src/dataset_manager.py",
+          "start_line": 146,
+          "end_line": 214,
+          "pinned_url": "https://github.com/DerKuhno/validation-gated-continual-learning/blob/636ac05995f52d3a12b6c7186646757a28c900eb/src/dataset_manager.py#L146-L214",
+          "external_source_sha256": "7a4dad97f99f7de6f6a8796d504aeaa1e280c368687f398c99ba2da27b4fbdeb",
+          "selected_lines_sha256": "bb5126a5ce3a93efdf8c597dfe7ac25bdccefac7573c9da31bb898615dbdddc1"
+        }
+      ],
+      "manuscript_candidate_lines": [
+        223
+      ],
+      "paper_reading_upgrade": false,
+      "source_code_executed": false,
+      "independent_experimental_reproduction": false,
+      "human_verified": false
+    },
+    {
+      "id": "B08-100-A03",
+      "reference_number": 100,
+      "title": "验证门控的指标与恢复点",
+      "observation": "在ER且fixed_epochs=false路径中，先保存旧权重并测基线验证损失；只有损失下降超过配置delta才更新检查点，结束时加载该检查点。",
+      "limit": "所核为预测损失上的经验门控，不是碰撞概率、任务安全、恢复成功或闭环性能保证；没有执行训练或测量结果。",
+      "evidence_class": "associated_author_code_static_read_not_paper_body",
+      "code_commit": "636ac05995f52d3a12b6c7186646757a28c900eb",
+      "locators": [
+        {
+          "repo_path": "src/CL_methods/er.py",
+          "start_line": 88,
+          "end_line": 129,
+          "pinned_url": "https://github.com/DerKuhno/validation-gated-continual-learning/blob/636ac05995f52d3a12b6c7186646757a28c900eb/src/CL_methods/er.py#L88-L129",
+          "external_source_sha256": "31d09b9c888022658377e46c5518a13288abe2c4da15334c0096d339bbbfa9fd",
+          "selected_lines_sha256": "030ee3966b43f25201c12a47cf476b88d0adca404d757abd6526e44b5112858b"
+        },
+        {
+          "repo_path": "src/CL_methods/utils.py",
+          "start_line": 7,
+          "end_line": 31,
+          "pinned_url": "https://github.com/DerKuhno/validation-gated-continual-learning/blob/636ac05995f52d3a12b6c7186646757a28c900eb/src/CL_methods/utils.py#L7-L31",
+          "external_source_sha256": "0f5e234850213bbf7a4b8fbc06d3fd6de722870f7d7bad59903d41604cbf47db",
+          "selected_lines_sha256": "8f6a8df422c3776e1d7293c63f2cd5cf63e96ecf07af29cc68db5163a1d9131a"
+        },
+        {
+          "repo_path": "src/base_model.py",
+          "start_line": 53,
+          "end_line": 66,
+          "pinned_url": "https://github.com/DerKuhno/validation-gated-continual-learning/blob/636ac05995f52d3a12b6c7186646757a28c900eb/src/base_model.py#L53-L66",
+          "external_source_sha256": "9618bdca7093b31d27ddfa1acb8e9f2eb61736da5fb6f9af822f24ca4731907a",
+          "selected_lines_sha256": "3e5f20e16043af674bf0b627448350f2107f6a91b0def0456faccb3832ff6979"
+        },
+        {
+          "repo_path": "src/experiment_config.py",
+          "start_line": 68,
+          "end_line": 88,
+          "pinned_url": "https://github.com/DerKuhno/validation-gated-continual-learning/blob/636ac05995f52d3a12b6c7186646757a28c900eb/src/experiment_config.py#L68-L88",
+          "external_source_sha256": "0b5fa9420d7ff62fc3d4fd687ed9f68dbd78499d5e6f45323e6c26259111dba2",
+          "selected_lines_sha256": "b01572e798453531cba837b261fab742ea2fac66582beb5cebb031f0a34bf76b"
+        }
+      ],
+      "manuscript_candidate_lines": [
+        223
+      ],
+      "paper_reading_upgrade": false,
+      "source_code_executed": false,
+      "independent_experimental_reproduction": false,
+      "human_verified": false
+    },
+    {
+      "id": "B08-100-A04",
+      "reference_number": 100,
+      "title": "配置改变门控语义",
+      "observation": "ER的fixed_epochs分支按固定轮次保存权重，保存条件不要求验证损失改善；配置文件默认fixed_epochs=false。",
+      "limit": "论文实际实验配置未核，不能将该分支称为论文默认行为或据此否定论文；正式写作应说明核对的配置。",
+      "evidence_class": "associated_author_code_static_read_not_paper_body",
+      "code_commit": "636ac05995f52d3a12b6c7186646757a28c900eb",
+      "locators": [
+        {
+          "repo_path": "src/CL_methods/er.py",
+          "start_line": 111,
+          "end_line": 129,
+          "pinned_url": "https://github.com/DerKuhno/validation-gated-continual-learning/blob/636ac05995f52d3a12b6c7186646757a28c900eb/src/CL_methods/er.py#L111-L129",
+          "external_source_sha256": "31d09b9c888022658377e46c5518a13288abe2c4da15334c0096d339bbbfa9fd",
+          "selected_lines_sha256": "88c99adb5f197b61d2bd2cf8a5839dd2584edaf26f5ee1ee4452dbf25b7e81c5"
+        },
+        {
+          "repo_path": "src/experiment_config.py",
+          "start_line": 80,
+          "end_line": 88,
+          "pinned_url": "https://github.com/DerKuhno/validation-gated-continual-learning/blob/636ac05995f52d3a12b6c7186646757a28c900eb/src/experiment_config.py#L80-L88",
+          "external_source_sha256": "0b5fa9420d7ff62fc3d4fd687ed9f68dbd78499d5e6f45323e6c26259111dba2",
+          "selected_lines_sha256": "37fde767328c94ad93c984033c3fa020a02bed300a9cc8d1da38894d55507a79"
+        }
+      ],
+      "manuscript_candidate_lines": [
+        223
+      ],
+      "paper_reading_upgrade": false,
+      "source_code_executed": false,
+      "independent_experimental_reproduction": false,
+      "human_verified": false
+    },
+    {
+      "id": "B08-100-A05",
+      "reference_number": 100,
+      "title": "计时口径",
+      "observation": "管理器total_time在该轮训练结束、后续缓冲加入之前累加；主循环把它作为total_cl_time输出。",
+      "limit": "这个计时字段不覆盖全部推理、后处理和后续缓冲操作；不可直接当作端到端调度响应时间，未实测各部分成本。",
+      "evidence_class": "associated_author_code_static_read_not_paper_body",
+      "code_commit": "636ac05995f52d3a12b6c7186646757a28c900eb",
+      "locators": [
+        {
+          "repo_path": "src/CL_methods/continual_learning_manager.py",
+          "start_line": 78,
+          "end_line": 89,
+          "pinned_url": "https://github.com/DerKuhno/validation-gated-continual-learning/blob/636ac05995f52d3a12b6c7186646757a28c900eb/src/CL_methods/continual_learning_manager.py#L78-L89",
+          "external_source_sha256": "ee683687618da2ead0b22285594a30e8191c35fec9df7501a2f7340b455d8556",
+          "selected_lines_sha256": "fc15e09d97ead019bcf6ebed251b6f8578f4417e200dc3729f2aa3e2453ed467"
+        },
+        {
+          "repo_path": "src/CL_methods/continual_learning_manager.py",
+          "start_line": 234,
+          "end_line": 243,
+          "pinned_url": "https://github.com/DerKuhno/validation-gated-continual-learning/blob/636ac05995f52d3a12b6c7186646757a28c900eb/src/CL_methods/continual_learning_manager.py#L234-L243",
+          "external_source_sha256": "ee683687618da2ead0b22285594a30e8191c35fec9df7501a2f7340b455d8556",
+          "selected_lines_sha256": "5c57970be7a725578f873c75ad8ddf1ad47f04e9f7bf5866bcf59d4eb4ca61e0"
+        },
+        {
+          "repo_path": "src/Main_loop.py",
+          "start_line": 164,
+          "end_line": 178,
+          "pinned_url": "https://github.com/DerKuhno/validation-gated-continual-learning/blob/636ac05995f52d3a12b6c7186646757a28c900eb/src/Main_loop.py#L164-L178",
+          "external_source_sha256": "4487ccb5edfef2957605b66d2a46c553aaf19389ec7a1f2026edaa9dcbfb2b0d",
+          "selected_lines_sha256": "2976cc503fc451d159660566b647caa49fc4e9e6d0e6abeb79bd3acec6bc1dbe"
+        }
+      ],
+      "manuscript_candidate_lines": [
+        223
+      ],
+      "paper_reading_upgrade": false,
+      "source_code_executed": false,
+      "independent_experimental_reproduction": false,
+      "human_verified": false
+    }
+  ],
+  "abstract_level_citation_warning": {
+    "reference_number": 118,
+    "manuscript_line": 299,
+    "observation": "SUNY机构摘要强调ACBBA在有损通信中偏离理论行为，可能出现重复分配或未分配；v1.9将其并列用于改善信息到达条件，存在待核引文错位。",
+    "source_url": "https://researchconnect.buffalo.edu/en/publications/performance-of-the-asynchronous-consensus-based-bundle-algorithm-/",
+    "receipt": {
+      "external_path": "D:\\SKT727\\materials\\constellation_review_B08_20261016\\SEARCH_10_LATER_ORDER.txt",
+      "bytes": 33812,
+      "sha256": "9ca82d96d405b699557ba5318932ae308471fbf88f9d8569e2a276e6d1aad3b4"
+    },
+    "evidence_level": "primary_institution_abstract_only",
+    "full_paper_verified": false,
+    "manuscript_modified": false
+  },
+  "human_verified": false
+}

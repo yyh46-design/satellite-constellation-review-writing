@@ -1,0 +1,4165 @@
+{
+  "batch": "B08_20261016",
+  "source_count": 29,
+  "meaning": "ordered access and readiness records, not 29 readings",
+  "sources": [
+    {
+      "sequence_position": 1,
+      "reference_number": 29,
+      "doi": "10.1016/j.actaastro.2013.02.005",
+      "doi_url": "https://doi.org/10.1016/j.actaastro.2013.02.005",
+      "english_title_frozen_index": "On-orbit servicing system assessment and optimization methods based on lifecycle simulation under mixed aleatory and epistemic uncertainties",
+      "chinese_translation": "基于全生命周期仿真、考虑随机与认知混合不确定性的在轨服务系统评估与优化方法",
+      "metadata": {
+        "status": "inherited_B07_primary_Crossref_not_new_verification",
+        "metadata_url": "https://api.crossref.org/works/10.1016/j.actaastro.2013.02.005",
+        "snapshot": {
+          "external_path": "D:\\SKT727\\materials\\constellation_review_B07_20261016\\029_crossref.json",
+          "bytes": 9761,
+          "sha256": "fb0f660afde623c13e5fe81aa81eb1d7ca76258d24cb7f0e9d19e876803cac7d"
+        },
+        "authors": [
+          "Wen Yao",
+          "Xiaoqian Chen",
+          "Yiyong Huang",
+          "Michel van Tooren"
+        ],
+        "container_titles": [
+          "Acta Astronautica"
+        ],
+        "volume": "87",
+        "issue": null,
+        "page_or_article_number": "107-126",
+        "dates": {
+          "issued": {
+            "date-parts": [
+              [
+                2013,
+                6
+              ]
+            ]
+          },
+          "published": {
+            "date-parts": [
+              [
+                2013,
+                6
+              ]
+            ]
+          },
+          "published-print": {
+            "date-parts": [
+              [
+                2013,
+                6
+              ]
+            ]
+          }
+        },
+        "title_observed": [
+          "On-orbit servicing system assessment and optimization methods based on lifecycle simulation under mixed aleatory and epistemic uncertainties"
+        ],
+        "human_verified": false
+      },
+      "manuscript_role": "能力与生命周期评估",
+      "current_access_observation": "出版预览/摘要；未取得模型、仿真设置和结果全文。",
+      "current_discovery": {
+        "ref": 29,
+        "doi": "10.1016/j.actaastro.2013.02.005",
+        "url": "https://api.openalex.org/works/https://doi.org/10.1016/j.actaastro.2013.02.005",
+        "http_status": 200,
+        "obtained": true,
+        "sha256": "e51a2aa0c57d57b51da3f19539763bb30793d6419ac356920df76a75e8c397f0",
+        "title": "On-orbit servicing system assessment and optimization methods based on lifecycle simulation under mixed aleatory and epistemic uncertainties",
+        "oa": {
+          "is_oa": false,
+          "oa_status": "closed",
+          "oa_url": null,
+          "any_repository_has_fulltext": false
+        },
+        "locations": [
+          {
+            "landing_page_url": "https://doi.org/10.1016/j.actaastro.2013.02.005",
+            "pdf_url": null,
+            "version": "publishedVersion",
+            "is_oa": false,
+            "source": {
+              "id": "https://openalex.org/S179591353",
+              "display_name": "Acta Astronautica",
+              "issn_l": "0094-5765",
+              "issn": [
+                "0094-5765",
+                "1879-2030"
+              ],
+              "is_oa": false,
+              "is_in_doaj": false,
+              "is_core": true,
+              "listed_in": [
+                "anvur-scientific",
+                "cwts-core",
+                "dongbi-a",
+                "jufo-1",
+                "norway-1",
+                "poland-140",
+                "russia-white-list-1",
+                "vabb-shw"
+              ],
+              "host_organization": "https://openalex.org/P4310320990",
+              "host_organization_name": "Elsevier BV",
+              "host_organization_lineage": [
+                "https://openalex.org/P4310320990"
+              ],
+              "host_organization_lineage_names": [
+                "Elsevier BV"
+              ],
+              "type": "journal"
+            }
+          }
+        ]
+      },
+      "candidate_URLs": [
+        "https://www.sciencedirect.com/science/article/abs/pii/S0094576513000532",
+        "https://doi.org/10.1016/j.actaastro.2013.02.005"
+      ],
+      "URL_list_is_not_proof_of_reading": true,
+      "availability_capture_receipts": [
+        {
+          "external_path": "D:\\SKT727\\materials\\constellation_review_B08_20261016\\SEARCH_01.txt",
+          "bytes": 40154,
+          "sha256": "4dc8770a4890890fa84b6b8978c7e0a85a3c31e771193675125381b8612982f8"
+        }
+      ],
+      "body_reading_completed_this_batch": false,
+      "new_unique_targeted_addition": false,
+      "version_identity": "no_new_body_copy_obtained",
+      "author_version_relation_proven": false,
+      "formal_version_parity_closed": false,
+      "local_pdf_path": null,
+      "physical_pdf_pages": null,
+      "PDF_bytes": null,
+      "PDF_sha256": null,
+      "PDF_text_extractable": null,
+      "actual_page_review_performed": false,
+      "formula_table_figure_review_pending": true,
+      "remaining_reading_material": "区分随机/认知不确定性的参数、传播及评估口径，核清生命周期成本边界。",
+      "priority": "ordered_pending",
+      "human_verified": false,
+      "submission_ready": false
+    },
+    {
+      "sequence_position": 2,
+      "reference_number": 31,
+      "doi": "10.1109/TSMC.2020.3020732",
+      "doi_url": "https://doi.org/10.1109/TSMC.2020.3020732",
+      "english_title_frozen_index": "A Generic Markov Decision Process Model and Reinforcement Learning Method for Scheduling Agile Earth Observation Satellites",
+      "chinese_translation": "用于敏捷地球观测卫星调度的通用马尔可夫决策过程模型与强化学习方法",
+      "metadata": {
+        "status": "inherited_B07_primary_Crossref_not_new_verification",
+        "metadata_url": "https://api.crossref.org/works/10.1109/TSMC.2020.3020732",
+        "snapshot": {
+          "external_path": "D:\\SKT727\\materials\\constellation_review_B07_20261016\\031_crossref.json",
+          "bytes": 9837,
+          "sha256": "1a777db3254508029222c2c2caa9a92aa4519d00d353e20675133b14e9a38747"
+        },
+        "authors": [
+          "Yongming He",
+          "Lining Xing",
+          "Yingwu Chen",
+          "Witold Pedrycz",
+          "Ling Wang",
+          "Guohua Wu"
+        ],
+        "container_titles": [
+          "IEEE Transactions on Systems, Man, and Cybernetics: Systems"
+        ],
+        "volume": "52",
+        "issue": "3",
+        "page_or_article_number": "1463-1474",
+        "dates": {
+          "issued": {
+            "date-parts": [
+              [
+                2022,
+                3
+              ]
+            ]
+          },
+          "published": {
+            "date-parts": [
+              [
+                2022,
+                3
+              ]
+            ]
+          },
+          "published-print": {
+            "date-parts": [
+              [
+                2022,
+                3
+              ]
+            ]
+          }
+        },
+        "title_observed": [
+          "A Generic Markov Decision Process Model and Reinforcement Learning Method for Scheduling Agile Earth Observation Satellites"
+        ],
+        "human_verified": false
+      },
+      "manuscript_role": "活动选择与学习求解",
+      "current_access_observation": "IEEE摘要/引言入口，正文提示登录继续；未取得方法与实验。",
+      "current_discovery": {
+        "ref": 31,
+        "doi": "10.1109/TSMC.2020.3020732",
+        "url": "https://api.openalex.org/works/https://doi.org/10.1109/TSMC.2020.3020732",
+        "http_status": 200,
+        "obtained": true,
+        "sha256": "0c9628a7b3dc2b9e27719c111e06e6c86ad3e0592aebafb6a2c39ba721f34843",
+        "title": "A Generic Markov Decision Process Model and Reinforcement Learning Method for Scheduling Agile Earth Observation Satellites",
+        "oa": {
+          "is_oa": false,
+          "oa_status": "closed",
+          "oa_url": null,
+          "any_repository_has_fulltext": false
+        },
+        "locations": [
+          {
+            "landing_page_url": "https://doi.org/10.1109/tsmc.2020.3020732",
+            "pdf_url": null,
+            "version": "publishedVersion",
+            "is_oa": false,
+            "source": {
+              "id": "https://openalex.org/S4210209078",
+              "display_name": "IEEE Transactions on Systems Man and Cybernetics Systems",
+              "issn_l": "2168-2216",
+              "issn": [
+                "2168-2216",
+                "2168-2232"
+              ],
+              "is_oa": false,
+              "is_in_doaj": false,
+              "is_core": true,
+              "listed_in": [
+                "ccf-b",
+                "cwts-core",
+                "dongbi-b",
+                "fnege-2",
+                "jufo-2",
+                "norway-1",
+                "poland-200",
+                "russia-white-list-1",
+                "vabb-shw"
+              ],
+              "host_organization": "https://openalex.org/P4310319808",
+              "host_organization_name": "Institute of Electrical and Electronics Engineers",
+              "host_organization_lineage": [
+                "https://openalex.org/P4310319808"
+              ],
+              "host_organization_lineage_names": [
+                "Institute of Electrical and Electronics Engineers"
+              ],
+              "type": "journal"
+            }
+          }
+        ]
+      },
+      "candidate_URLs": [
+        "https://ieeexplore.ieee.org/document/9200466",
+        "https://doi.org/10.1109/tsmc.2020.3020732"
+      ],
+      "URL_list_is_not_proof_of_reading": true,
+      "availability_capture_receipts": [
+        {
+          "external_path": "D:\\SKT727\\materials\\constellation_review_B08_20261016\\SEARCH_02.txt",
+          "bytes": 32777,
+          "sha256": "1e6f14a1dee4f27c0c626e2ce13f912045406d607ce3c5f880d2ea6637b321ff"
+        }
+      ],
+      "body_reading_completed_this_batch": false,
+      "new_unique_targeted_addition": false,
+      "version_identity": "no_new_body_copy_obtained",
+      "author_version_relation_proven": false,
+      "formal_version_parity_closed": false,
+      "local_pdf_path": null,
+      "physical_pdf_pages": null,
+      "PDF_bytes": null,
+      "PDF_sha256": null,
+      "PDF_text_extractable": null,
+      "actual_page_review_performed": false,
+      "formula_table_figure_review_pending": true,
+      "remaining_reading_material": "核状态、动作、奖励、转移与可行性处理；确认正文的‘学习排序’概括是否足够准确。",
+      "priority": "ordered_pending",
+      "human_verified": false,
+      "submission_ready": false
+    },
+    {
+      "sequence_position": 3,
+      "reference_number": 32,
+      "doi": "10.1016/j.swevo.2024.101792",
+      "doi_url": "https://doi.org/10.1016/j.swevo.2024.101792",
+      "english_title_frozen_index": "A decompose-and-learn multi-objective algorithm for scheduling large-scale earth observation satellites",
+      "chinese_translation": "面向大规模地球观测卫星调度的分解与学习多目标算法",
+      "metadata": {
+        "status": "secondary_OpenAlex_pending_primary_metadata",
+        "metadata_url": "https://api.openalex.org/works/https://doi.org/10.1016/j.swevo.2024.101792",
+        "snapshot": {
+          "external_path": "D:\\SKT727\\materials\\constellation_review_B08_20261016\\032_openalex.json",
+          "bytes": 13107,
+          "sha256": "e64819a347132eeb942715c28cf8b356e3d097151a171ba4ea520d6a5c1aa850"
+        },
+        "authors": [
+          "Jing Qi",
+          "Min Hu",
+          "Lining Xing"
+        ],
+        "container_titles": [
+          "Swarm and Evolutionary Computation"
+        ],
+        "volume": "92",
+        "issue": null,
+        "page_or_article_number": {
+          "volume": "92",
+          "issue": null,
+          "first_page": "101792",
+          "last_page": "101792"
+        },
+        "dates": {
+          "publication_date_secondary_index": "2024-12-28"
+        },
+        "title_observed": [
+          "A decompose-and-learn multi-objective algorithm for scheduling large-scale earth observation satellites"
+        ],
+        "human_verified": false
+      },
+      "manuscript_role": "分解学习与多目标搜索",
+      "current_access_observation": "出版预览；ResearchGate条目无可读全文。",
+      "current_discovery": {
+        "ref": 32,
+        "doi": "10.1016/j.swevo.2024.101792",
+        "url": "https://api.openalex.org/works/https://doi.org/10.1016/j.swevo.2024.101792",
+        "http_status": 200,
+        "obtained": true,
+        "sha256": "e64819a347132eeb942715c28cf8b356e3d097151a171ba4ea520d6a5c1aa850",
+        "title": "A decompose-and-learn multi-objective algorithm for scheduling large-scale earth observation satellites",
+        "oa": {
+          "is_oa": false,
+          "oa_status": "closed",
+          "oa_url": null,
+          "any_repository_has_fulltext": false
+        },
+        "locations": [
+          {
+            "landing_page_url": "https://doi.org/10.1016/j.swevo.2024.101792",
+            "pdf_url": null,
+            "version": "publishedVersion",
+            "is_oa": false,
+            "source": {
+              "id": "https://openalex.org/S2764346689",
+              "display_name": "Swarm and Evolutionary Computation",
+              "issn_l": "2210-6502",
+              "issn": [
+                "2210-6502",
+                "2210-6510"
+              ],
+              "is_oa": false,
+              "is_in_doaj": false,
+              "is_core": true,
+              "listed_in": [
+                "cwts-core",
+                "dongbi-d",
+                "jufo-2",
+                "norway-1",
+                "poland-140",
+                "russia-white-list-1",
+                "vabb-shw"
+              ],
+              "host_organization": "https://openalex.org/P4310320990",
+              "host_organization_name": "Elsevier BV",
+              "host_organization_lineage": [
+                "https://openalex.org/P4310320990"
+              ],
+              "host_organization_lineage_names": [
+                "Elsevier BV"
+              ],
+              "type": "journal"
+            }
+          }
+        ]
+      },
+      "candidate_URLs": [
+        "https://www.researchgate.net/publication/388602751_A_decompose-and-learn_multi-objective_algorithm_for_scheduling_large-scale_earth_observation_satellites",
+        "https://doi.org/10.1016/j.swevo.2024.101792"
+      ],
+      "URL_list_is_not_proof_of_reading": true,
+      "availability_capture_receipts": [
+        {
+          "external_path": "D:\\SKT727\\materials\\constellation_review_B08_20261016\\SEARCH_02.txt",
+          "bytes": 32777,
+          "sha256": "1e6f14a1dee4f27c0c626e2ce13f912045406d607ce3c5f880d2ea6637b321ff"
+        }
+      ],
+      "body_reading_completed_this_batch": false,
+      "new_unique_targeted_addition": false,
+      "version_identity": "no_new_body_copy_obtained",
+      "author_version_relation_proven": false,
+      "formal_version_parity_closed": false,
+      "local_pdf_path": null,
+      "physical_pdf_pages": null,
+      "PDF_bytes": null,
+      "PDF_sha256": null,
+      "PDF_text_extractable": null,
+      "actual_page_review_performed": false,
+      "formula_table_figure_review_pending": true,
+      "remaining_reading_material": "核分解对象、学习作用位置、约束修补、规模及训练/搜索总成本。",
+      "priority": "ordered_pending",
+      "human_verified": false,
+      "submission_ready": false
+    },
+    {
+      "sequence_position": 4,
+      "reference_number": 33,
+      "doi": "10.1016/j.cor.2025.107259",
+      "doi_url": "https://doi.org/10.1016/j.cor.2025.107259",
+      "english_title_frozen_index": "A branch-and-price algorithm for energy aware task scheduling of constellations of nanosatellites",
+      "chinese_translation": "面向纳卫星星座能量感知任务调度的分支定价算法",
+      "metadata": {
+        "status": "inherited_B07_primary_Crossref_not_new_verification",
+        "metadata_url": "https://api.crossref.org/works/10.1016/j.cor.2025.107259",
+        "snapshot": {
+          "external_path": "D:\\SKT727\\materials\\constellation_review_B07_20261016\\033_crossref.json",
+          "bytes": 17945,
+          "sha256": "b4848ea144dc218431838f7cd331dbc60ee081281d128dde4b8d617bf46a8ae6"
+        },
+        "authors": [
+          "Pedro Marcolin Antunes",
+          "Laio Oriel Seman",
+          "Eduardo Camponogara"
+        ],
+        "container_titles": [
+          "Computers &amp; Operations Research"
+        ],
+        "volume": "185",
+        "issue": null,
+        "page_or_article_number": "107259",
+        "dates": {
+          "issued": {
+            "date-parts": [
+              [
+                2026,
+                1
+              ]
+            ]
+          },
+          "published": {
+            "date-parts": [
+              [
+                2026,
+                1
+              ]
+            ]
+          },
+          "published-print": {
+            "date-parts": [
+              [
+                2026,
+                1
+              ]
+            ]
+          }
+        },
+        "title_observed": [
+          "A branch-and-price algorithm for energy aware task scheduling of constellations of nanosatellites"
+        ],
+        "human_verified": false
+      },
+      "manuscript_role": "精确方法与优化界",
+      "current_access_observation": "发现SSRN 5202348和正式条目；原B07正式页面及公开下载均403；本批未取得正文。",
+      "current_discovery": {
+        "ref": 33,
+        "doi": "10.1016/j.cor.2025.107259",
+        "url": "https://api.openalex.org/works/https://doi.org/10.1016/j.cor.2025.107259",
+        "http_status": 200,
+        "obtained": true,
+        "sha256": "18c143535fdd969f4144484f6125acfbbca47a656fbbfa6811187806299f9089",
+        "title": "A branch-and-price algorithm for energy aware task scheduling of constellations of nanosatellites",
+        "oa": {
+          "is_oa": true,
+          "oa_status": "hybrid",
+          "oa_url": "https://doi.org/10.1016/j.cor.2025.107259",
+          "any_repository_has_fulltext": true
+        },
+        "locations": [
+          {
+            "landing_page_url": "https://doi.org/10.1016/j.cor.2025.107259",
+            "pdf_url": null,
+            "version": "publishedVersion",
+            "is_oa": true,
+            "source": {
+              "id": "https://openalex.org/S173256270",
+              "display_name": "Computers & Operations Research",
+              "issn_l": "0305-0548",
+              "issn": [
+                "0305-0548",
+                "1873-765X"
+              ],
+              "is_oa": false,
+              "is_in_doaj": false,
+              "is_core": true,
+              "listed_in": [
+                "abdc-a",
+                "anvur-class-a",
+                "anvur-scientific",
+                "cwts-core",
+                "dongbi-b",
+                "jufo-1",
+                "norway-2",
+                "poland-140",
+                "russia-white-list-1",
+                "vabb-shw"
+              ],
+              "host_organization": "https://openalex.org/P4310320990",
+              "host_organization_name": "Elsevier BV",
+              "host_organization_lineage": [
+                "https://openalex.org/P4310320990"
+              ],
+              "host_organization_lineage_names": [
+                "Elsevier BV"
+              ],
+              "type": "journal"
+            }
+          },
+          {
+            "landing_page_url": "https://doi.org/10.2139/ssrn.5202348",
+            "pdf_url": null,
+            "version": "acceptedVersion",
+            "is_oa": true,
+            "source": {
+              "id": "https://openalex.org/S4210172589",
+              "display_name": "SSRN Electronic Journal",
+              "issn_l": "1556-5068",
+              "issn": [
+                "1556-5068"
+              ],
+              "is_oa": true,
+              "is_in_doaj": false,
+              "is_core": false,
+              "listed_in": [],
+              "host_organization": "https://openalex.org/I1318003438",
+              "host_organization_name": "RELX Group (Netherlands)",
+              "host_organization_lineage": [
+                "https://openalex.org/I1318003438"
+              ],
+              "host_organization_lineage_names": [],
+              "type": "repository"
+            }
+          }
+        ]
+      },
+      "candidate_URLs": [
+        "https://doi.org/10.2139/ssrn.5202348",
+        "https://doi.org/10.1016/j.cor.2025.107259"
+      ],
+      "URL_list_is_not_proof_of_reading": true,
+      "availability_capture_receipts": [
+        {
+          "external_path": "D:\\SKT727\\materials\\constellation_review_B08_20261016\\SEARCH_02.txt",
+          "bytes": 32777,
+          "sha256": "1e6f14a1dee4f27c0c626e2ce13f912045406d607ce3c5f880d2ea6637b321ff"
+        }
+      ],
+      "body_reading_completed_this_batch": false,
+      "new_unique_targeted_addition": false,
+      "version_identity": "no_new_body_copy_obtained",
+      "author_version_relation_proven": false,
+      "formal_version_parity_closed": false,
+      "local_pdf_path": null,
+      "physical_pdf_pages": null,
+      "PDF_bytes": null,
+      "PDF_sha256": null,
+      "PDF_text_extractable": null,
+      "actual_page_review_performed": false,
+      "formula_table_figure_review_pending": true,
+      "remaining_reading_material": "核公共/专属任务、电池、Dantzig–Wolfe分解、定价、分支和界的适用模型。",
+      "priority": "first_PDF_request",
+      "human_verified": false,
+      "submission_ready": false
+    },
+    {
+      "sequence_position": 5,
+      "reference_number": 38,
+      "doi": "10.1016/j.asr.2020.02.018",
+      "doi_url": "https://doi.org/10.1016/j.asr.2020.02.018",
+      "english_title_frozen_index": "Online scheduling of distributed Earth observation satellite system under rigid communication constraints",
+      "chinese_translation": "刚性通信约束下分布式地球观测卫星系统的在线调度",
+      "metadata": {
+        "status": "inherited_B07_primary_Crossref_not_new_verification",
+        "metadata_url": "https://api.crossref.org/works/10.1016/j.asr.2020.02.018",
+        "snapshot": {
+          "external_path": "D:\\SKT727\\materials\\constellation_review_B07_20261016\\038_crossref.json",
+          "bytes": 12111,
+          "sha256": "a2cbd911ca050b2499b0df11bfd40ad091961f449e37d99a89c8f4b4e9a840d7"
+        },
+        "authors": [
+          "Guoliang Li"
+        ],
+        "container_titles": [
+          "Advances in Space Research"
+        ],
+        "volume": "65",
+        "issue": "11",
+        "page_or_article_number": "2475-2496",
+        "dates": {
+          "issued": {
+            "date-parts": [
+              [
+                2020,
+                6
+              ]
+            ]
+          },
+          "published": {
+            "date-parts": [
+              [
+                2020,
+                6
+              ]
+            ]
+          },
+          "published-print": {
+            "date-parts": [
+              [
+                2020,
+                6
+              ]
+            ]
+          }
+        },
+        "title_observed": [
+          "Online scheduling of distributed Earth observation satellite system under rigid communication constraints"
+        ],
+        "human_verified": false
+      },
+      "manuscript_role": "通信机会与分布式协调",
+      "current_access_observation": "出版入口及ResearchGate仅摘要/请求全文。",
+      "current_discovery": {
+        "ref": 38,
+        "doi": "10.1016/j.asr.2020.02.018",
+        "url": "https://api.openalex.org/works/https://doi.org/10.1016/j.asr.2020.02.018",
+        "http_status": 200,
+        "obtained": true,
+        "sha256": "c931d9b4ad544cb261350baa603cdae0b97ff7b746e2e4ab56f0a46b6e898e60",
+        "title": "Online scheduling of distributed Earth observation satellite system under rigid communication constraints",
+        "oa": {
+          "is_oa": false,
+          "oa_status": "closed",
+          "oa_url": null,
+          "any_repository_has_fulltext": false
+        },
+        "locations": [
+          {
+            "landing_page_url": "https://doi.org/10.1016/j.asr.2020.02.018",
+            "pdf_url": null,
+            "version": "publishedVersion",
+            "is_oa": false,
+            "source": {
+              "id": "https://openalex.org/S113313948",
+              "display_name": "Advances in Space Research",
+              "issn_l": "0273-1177",
+              "issn": [
+                "0273-1177",
+                "1879-1948"
+              ],
+              "is_oa": false,
+              "is_in_doaj": false,
+              "is_core": true,
+              "listed_in": [
+                "cwts-core",
+                "jufo-1",
+                "ki-jl-1",
+                "norway-1"
+              ],
+              "host_organization": "https://openalex.org/P4310320990",
+              "host_organization_name": "Elsevier BV",
+              "host_organization_lineage": [
+                "https://openalex.org/P4310320990"
+              ],
+              "host_organization_lineage_names": [
+                "Elsevier BV"
+              ],
+              "type": "journal"
+            }
+          }
+        ]
+      },
+      "candidate_URLs": [
+        "https://www.researchgate.net/publication/339506906_Online_scheduling_of_distributed_Earth_observation_satellite_system_under_rigid_communication_constraints",
+        "https://doi.org/10.1016/j.asr.2020.02.018"
+      ],
+      "URL_list_is_not_proof_of_reading": true,
+      "availability_capture_receipts": [
+        {
+          "external_path": "D:\\SKT727\\materials\\constellation_review_B08_20261016\\SEARCH_03.txt",
+          "bytes": 38125,
+          "sha256": "de6e59377e21c339a88e07c91cb8f21e4f614b5256a0646b0c29732ed0b98d56"
+        }
+      ],
+      "body_reading_completed_this_batch": false,
+      "new_unique_targeted_addition": false,
+      "version_identity": "no_new_body_copy_obtained",
+      "author_version_relation_proven": false,
+      "formal_version_parity_closed": false,
+      "local_pdf_path": null,
+      "physical_pdf_pages": null,
+      "PDF_bytes": null,
+      "PDF_sha256": null,
+      "PDF_text_extractable": null,
+      "actual_page_review_performed": false,
+      "formula_table_figure_review_pending": true,
+      "remaining_reading_material": "核通信预测、任务包、消息内容、冲突消解与执行承诺。",
+      "priority": "first_PDF_request",
+      "human_verified": false,
+      "submission_ready": false
+    },
+    {
+      "sequence_position": 6,
+      "reference_number": 40,
+      "doi": "10.1016/j.asr.2021.09.003",
+      "doi_url": "https://doi.org/10.1016/j.asr.2021.09.003",
+      "english_title_frozen_index": "Onboard coordination and scheduling of multiple autonomous satellites in an uncertain environment",
+      "chinese_translation": "不确定环境下多颗自主卫星的星上协调与调度",
+      "metadata": {
+        "status": "inherited_B07_primary_Crossref_not_new_verification",
+        "metadata_url": "https://api.crossref.org/works/10.1016/j.asr.2021.09.003",
+        "snapshot": {
+          "external_path": "D:\\SKT727\\materials\\constellation_review_B07_20261016\\040_crossref.json",
+          "bytes": 16121,
+          "sha256": "9d3d5e56233acf2f25b9d6f97366dfb2debfea808a6828d8177d3a657c60a4b9"
+        },
+        "authors": [
+          "Weiyi Yang",
+          "Lei He",
+          "Xiaolu Liu",
+          "Yingwu Chen"
+        ],
+        "container_titles": [
+          "Advances in Space Research"
+        ],
+        "volume": "68",
+        "issue": "11",
+        "page_or_article_number": "4505-4524",
+        "dates": {
+          "issued": {
+            "date-parts": [
+              [
+                2021,
+                12
+              ]
+            ]
+          },
+          "published": {
+            "date-parts": [
+              [
+                2021,
+                12
+              ]
+            ]
+          },
+          "published-print": {
+            "date-parts": [
+              [
+                2021,
+                12
+              ]
+            ]
+          }
+        },
+        "title_observed": [
+          "Onboard coordination and scheduling of multiple autonomous satellites in an uncertain environment"
+        ],
+        "human_verified": false
+      },
+      "manuscript_role": "合同网、黑板与滚动协调",
+      "current_access_observation": "出版社Article preview，显示机构访问/购买；无方法及实验全文。",
+      "current_discovery": {
+        "ref": 40,
+        "doi": "10.1016/j.asr.2021.09.003",
+        "url": "https://api.openalex.org/works/https://doi.org/10.1016/j.asr.2021.09.003",
+        "http_status": 200,
+        "obtained": true,
+        "sha256": "2a409c6bc93aead53db9bd173e112611cd7ab3789bf3434ec3a9161875691ba6",
+        "title": "Onboard coordination and scheduling of multiple autonomous satellites in an uncertain environment",
+        "oa": {
+          "is_oa": false,
+          "oa_status": "closed",
+          "oa_url": null,
+          "any_repository_has_fulltext": false
+        },
+        "locations": [
+          {
+            "landing_page_url": "https://doi.org/10.1016/j.asr.2021.09.003",
+            "pdf_url": null,
+            "version": "publishedVersion",
+            "is_oa": false,
+            "source": {
+              "id": "https://openalex.org/S113313948",
+              "display_name": "Advances in Space Research",
+              "issn_l": "0273-1177",
+              "issn": [
+                "0273-1177",
+                "1879-1948"
+              ],
+              "is_oa": false,
+              "is_in_doaj": false,
+              "is_core": true,
+              "listed_in": [
+                "cwts-core",
+                "dongbi-c",
+                "jufo-1",
+                "ki-jl-1",
+                "norway-1",
+                "poland-70",
+                "russia-white-list-1",
+                "vabb-shw"
+              ],
+              "host_organization": "https://openalex.org/P4310320990",
+              "host_organization_name": "Elsevier BV",
+              "host_organization_lineage": [
+                "https://openalex.org/P4310320990"
+              ],
+              "host_organization_lineage_names": [
+                "Elsevier BV"
+              ],
+              "type": "journal"
+            }
+          }
+        ]
+      },
+      "candidate_URLs": [
+        "https://www.sciencedirect.com/science/article/pii/S0273117721006955",
+        "https://doi.org/10.1016/j.asr.2021.09.003"
+      ],
+      "URL_list_is_not_proof_of_reading": true,
+      "availability_capture_receipts": [
+        {
+          "external_path": "D:\\SKT727\\materials\\constellation_review_B08_20261016\\SEARCH_03.txt",
+          "bytes": 38125,
+          "sha256": "de6e59377e21c339a88e07c91cb8f21e4f614b5256a0646b0c29732ed0b98d56"
+        }
+      ],
+      "body_reading_completed_this_batch": false,
+      "new_unique_targeted_addition": false,
+      "version_identity": "no_new_body_copy_obtained",
+      "author_version_relation_proven": false,
+      "formal_version_parity_closed": false,
+      "local_pdf_path": null,
+      "physical_pdf_pages": null,
+      "PDF_bytes": null,
+      "PDF_sha256": null,
+      "PDF_text_extractable": null,
+      "actual_page_review_performed": false,
+      "formula_table_figure_review_pending": true,
+      "remaining_reading_material": "核角色、黑板信息、滚动更新触发、执行权限和实验通信假设。",
+      "priority": "ordered_pending",
+      "human_verified": false,
+      "submission_ready": false
+    },
+    {
+      "sequence_position": 7,
+      "reference_number": 43,
+      "doi": "10.1016/j.actaastro.2025.02.008",
+      "doi_url": "https://doi.org/10.1016/j.actaastro.2025.02.008",
+      "english_title_frozen_index": "Joint observation and transmission scheduling of multiple agile satellites with energy constraint using improved ACO algorithm",
+      "chinese_translation": "采用改进蚁群算法的能源约束多敏捷卫星观测与传输联合调度",
+      "metadata": {
+        "status": "inherited_B07_primary_Crossref_not_new_verification",
+        "metadata_url": "https://api.crossref.org/works/10.1016/j.actaastro.2025.02.008",
+        "snapshot": {
+          "external_path": "D:\\SKT727\\materials\\constellation_review_B07_20261016\\043_crossref.json",
+          "bytes": 17187,
+          "sha256": "6b7928541ab2718e2b80dbaf372d75833c8f0f2a0ea3fe811b36e87be9d0992f"
+        },
+        "authors": [
+          "Minghao Shang",
+          "Ronggang Yuan",
+          "Bin Song",
+          "Xuxing Huang",
+          "Bin Yang",
+          "Shuang Li"
+        ],
+        "container_titles": [
+          "Acta Astronautica"
+        ],
+        "volume": "230",
+        "issue": null,
+        "page_or_article_number": "92-103",
+        "dates": {
+          "issued": {
+            "date-parts": [
+              [
+                2025,
+                5
+              ]
+            ]
+          },
+          "published": {
+            "date-parts": [
+              [
+                2025,
+                5
+              ]
+            ]
+          },
+          "published-print": {
+            "date-parts": [
+              [
+                2025,
+                5
+              ]
+            ]
+          }
+        },
+        "title_observed": [
+          "Joint observation and transmission scheduling of multiple agile satellites with energy constraint using improved ACO algorithm"
+        ],
+        "human_verified": false
+      },
+      "manuscript_role": "观测、数传与充电耦合",
+      "current_access_observation": "正式元数据和ResearchGate条目；后者明确No full-text available。",
+      "current_discovery": {
+        "ref": 43,
+        "doi": "10.1016/j.actaastro.2025.02.008",
+        "url": "https://api.openalex.org/works/https://doi.org/10.1016/j.actaastro.2025.02.008",
+        "http_status": 200,
+        "obtained": true,
+        "sha256": "3e6d619f984e14c52a8e0154c38400231d8fda794a9411dc7c57029002a5413a",
+        "title": "Joint observation and transmission scheduling of multiple agile satellites with energy constraint using improved ACO algorithm",
+        "oa": {
+          "is_oa": false,
+          "oa_status": "closed",
+          "oa_url": null,
+          "any_repository_has_fulltext": false
+        },
+        "locations": [
+          {
+            "landing_page_url": "https://doi.org/10.1016/j.actaastro.2025.02.008",
+            "pdf_url": null,
+            "version": "publishedVersion",
+            "is_oa": false,
+            "source": {
+              "id": "https://openalex.org/S179591353",
+              "display_name": "Acta Astronautica",
+              "issn_l": "0094-5765",
+              "issn": [
+                "0094-5765",
+                "1879-2030"
+              ],
+              "is_oa": false,
+              "is_in_doaj": false,
+              "is_core": true,
+              "listed_in": [
+                "anvur-scientific",
+                "cwts-core",
+                "dongbi-a",
+                "jufo-1",
+                "norway-1",
+                "poland-140",
+                "russia-white-list-1",
+                "vabb-shw"
+              ],
+              "host_organization": "https://openalex.org/P4310320990",
+              "host_organization_name": "Elsevier BV",
+              "host_organization_lineage": [
+                "https://openalex.org/P4310320990"
+              ],
+              "host_organization_lineage_names": [
+                "Elsevier BV"
+              ],
+              "type": "journal"
+            }
+          }
+        ]
+      },
+      "candidate_URLs": [
+        "https://www.researchgate.net/publication/388751294_Joint_observation_and_transmission_scheduling_of_multiple_agile_satellites_with_energy_constraint_using_improved_ACO_algorithm",
+        "https://doi.org/10.1016/j.actaastro.2025.02.008"
+      ],
+      "URL_list_is_not_proof_of_reading": true,
+      "availability_capture_receipts": [
+        {
+          "external_path": "D:\\SKT727\\materials\\constellation_review_B08_20261016\\SEARCH_07.txt",
+          "bytes": 35739,
+          "sha256": "c12d2088256791ea63336980431618935baeaec1e7630865c048c90a76150e5b"
+        }
+      ],
+      "body_reading_completed_this_batch": false,
+      "new_unique_targeted_addition": false,
+      "version_identity": "no_new_body_copy_obtained",
+      "author_version_relation_proven": false,
+      "formal_version_parity_closed": false,
+      "local_pdf_path": null,
+      "physical_pdf_pages": null,
+      "PDF_bytes": null,
+      "PDF_sha256": null,
+      "PDF_text_extractable": null,
+      "actual_page_review_performed": false,
+      "formula_table_figure_review_pending": true,
+      "remaining_reading_material": "核充电是显式活动还是资源演化，及能量约束、任务完成和基线定义。",
+      "priority": "ordered_pending",
+      "human_verified": false,
+      "submission_ready": false
+    },
+    {
+      "sequence_position": 8,
+      "reference_number": 45,
+      "doi": "10.1016/j.actaastro.2026.04.059",
+      "doi_url": "https://doi.org/10.1016/j.actaastro.2026.04.059",
+      "english_title_frozen_index": "Tip-and-cue mission scheduling in heterogeneous satellite constellations using mixed-integer linear programming",
+      "chinese_translation": "采用混合整数线性规划的异构卫星星座提示—精细观测任务调度",
+      "metadata": {
+        "status": "inherited_B07_primary_Crossref_not_new_verification",
+        "metadata_url": "https://api.crossref.org/works/10.1016/j.actaastro.2026.04.059",
+        "snapshot": {
+          "external_path": "D:\\SKT727\\materials\\constellation_review_B07_20261016\\045_crossref.json",
+          "bytes": 25483,
+          "sha256": "f4731310fb0952629a1b13bf0bbf5361a87373b67e620a9aa7148873ddf973d5"
+        },
+        "authors": [
+          "Sung Jun Kim",
+          "Minchae Kim",
+          "Han-Lim Choi"
+        ],
+        "container_titles": [
+          "Acta Astronautica"
+        ],
+        "volume": "246",
+        "issue": null,
+        "page_or_article_number": "921-940",
+        "dates": {
+          "issued": {
+            "date-parts": [
+              [
+                2026,
+                9
+              ]
+            ]
+          },
+          "published": {
+            "date-parts": [
+              [
+                2026,
+                9
+              ]
+            ]
+          },
+          "published-print": {
+            "date-parts": [
+              [
+                2026,
+                9
+              ]
+            ]
+          }
+        },
+        "title_observed": [
+          "Tip-and-cue mission scheduling in heterogeneous satellite constellations using mixed-integer linear programming"
+        ],
+        "human_verified": false
+      },
+      "manuscript_role": "异构观测与先后任务链",
+      "current_access_observation": "KAIST仅摘要/元数据；本批出版社完整页面403；相近APISAT会议稿不替代。",
+      "current_discovery": {
+        "ref": 45,
+        "doi": "10.1016/j.actaastro.2026.04.059",
+        "url": "https://api.openalex.org/works/https://doi.org/10.1016/j.actaastro.2026.04.059",
+        "http_status": 200,
+        "obtained": true,
+        "sha256": "474587050d28e5dc641a82d8fa7cf410335d9b5e1cdf0241433a3ecdbc0e50ca",
+        "title": "Tip-and-cue mission scheduling in heterogeneous satellite constellations using mixed-integer linear programming",
+        "oa": {
+          "is_oa": false,
+          "oa_status": "closed",
+          "oa_url": null,
+          "any_repository_has_fulltext": false
+        },
+        "locations": [
+          {
+            "landing_page_url": "https://doi.org/10.1016/j.actaastro.2026.04.059",
+            "pdf_url": null,
+            "version": "publishedVersion",
+            "is_oa": false,
+            "source": {
+              "id": "https://openalex.org/S179591353",
+              "display_name": "Acta Astronautica",
+              "issn_l": "0094-5765",
+              "issn": [
+                "0094-5765",
+                "1879-2030"
+              ],
+              "is_oa": false,
+              "is_in_doaj": false,
+              "is_core": true,
+              "listed_in": [
+                "anvur-scientific",
+                "cwts-core",
+                "dongbi-a",
+                "jufo-1",
+                "norway-1",
+                "poland-140",
+                "russia-white-list-1",
+                "vabb-shw"
+              ],
+              "host_organization": "https://openalex.org/P4310320990",
+              "host_organization_name": "Elsevier BV",
+              "host_organization_lineage": [
+                "https://openalex.org/P4310320990"
+              ],
+              "host_organization_lineage_names": [
+                "Elsevier BV"
+              ],
+              "type": "journal"
+            }
+          }
+        ]
+      },
+      "candidate_URLs": [
+        "https://pure.kaist.ac.kr/en/publications/tip-and-cue-mission-scheduling-in-heterogeneous-satellite-constel/",
+        "https://doi.org/10.1016/j.actaastro.2026.04.059"
+      ],
+      "URL_list_is_not_proof_of_reading": true,
+      "availability_capture_receipts": [
+        {
+          "external_path": "D:\\SKT727\\materials\\constellation_review_B08_20261016\\SEARCH_09.txt",
+          "bytes": 35031,
+          "sha256": "3831026a3a8f4290da1b2c05a3cb34488ec374e2b9fef6d1ee42357f1383bb73"
+        }
+      ],
+      "body_reading_completed_this_batch": false,
+      "new_unique_targeted_addition": false,
+      "version_identity": "no_new_body_copy_obtained",
+      "author_version_relation_proven": false,
+      "formal_version_parity_closed": false,
+      "local_pdf_path": null,
+      "physical_pdf_pages": null,
+      "PDF_bytes": null,
+      "PDF_sha256": null,
+      "PDF_text_extractable": null,
+      "actual_page_review_performed": false,
+      "formula_table_figure_review_pending": true,
+      "remaining_reading_material": "核SAR—中继—EO—下传链、存储一致性、聚类近似与80星场景的计时边界。",
+      "priority": "ordered_pending",
+      "human_verified": false,
+      "submission_ready": false
+    },
+    {
+      "sequence_position": 9,
+      "reference_number": 46,
+      "doi": "10.1016/j.cor.2014.11.004",
+      "doi_url": "https://doi.org/10.1016/j.cor.2014.11.004",
+      "english_title_frozen_index": "Optimization-based scheduling for the single-satellite, multi-ground station communication problem",
+      "chinese_translation": "单卫星多地面站通信问题的基于优化的调度",
+      "metadata": {
+        "status": "inherited_B07_primary_Crossref_not_new_verification",
+        "metadata_url": "https://api.crossref.org/works/10.1016/j.cor.2014.11.004",
+        "snapshot": {
+          "external_path": "D:\\SKT727\\materials\\constellation_review_B07_20261016\\046_crossref.json",
+          "bytes": 14071,
+          "sha256": "dc1f3224deba7e345e24f94416a5b110ccfff323a1b0b50c81ae174a2ba235d9"
+        },
+        "authors": [
+          "Sara Spangelo",
+          "James Cutler",
+          "Kyle Gilson",
+          "Amy Cohn"
+        ],
+        "container_titles": [
+          "Computers &amp; Operations Research"
+        ],
+        "volume": "57",
+        "issue": null,
+        "page_or_article_number": "1-16",
+        "dates": {
+          "issued": {
+            "date-parts": [
+              [
+                2015,
+                5
+              ]
+            ]
+          },
+          "published": {
+            "date-parts": [
+              [
+                2015,
+                5
+              ]
+            ]
+          },
+          "published-print": {
+            "date-parts": [
+              [
+                2015,
+                5
+              ]
+            ]
+          }
+        },
+        "title_observed": [
+          "Optimization-based scheduling for the single-satellite, multi-ground station communication problem"
+        ],
+        "human_verified": false
+      },
+      "manuscript_role": "星地资源分配与能源/数据动态",
+      "current_access_observation": "ResearchGate摘要；Amy Cohn作者页面普通GET403；2012年会议论文不是目标期刊论文。",
+      "current_discovery": {
+        "ref": 46,
+        "doi": "10.1016/j.cor.2014.11.004",
+        "url": "https://api.openalex.org/works/https://doi.org/10.1016/j.cor.2014.11.004",
+        "http_status": 200,
+        "obtained": true,
+        "sha256": "257db5d0cc5c39ae1fcc6884a075c36c07c660d84254890b47e51b22f5cd9086",
+        "title": "Optimization-based scheduling for the single-satellite, multi-ground station communication problem",
+        "oa": {
+          "is_oa": false,
+          "oa_status": "closed",
+          "oa_url": null,
+          "any_repository_has_fulltext": false
+        },
+        "locations": [
+          {
+            "landing_page_url": "https://doi.org/10.1016/j.cor.2014.11.004",
+            "pdf_url": null,
+            "version": "publishedVersion",
+            "is_oa": false,
+            "source": {
+              "id": "https://openalex.org/S173256270",
+              "display_name": "Computers & Operations Research",
+              "issn_l": "0305-0548",
+              "issn": [
+                "0305-0548",
+                "1873-765X"
+              ],
+              "is_oa": false,
+              "is_in_doaj": false,
+              "is_core": true,
+              "listed_in": [
+                "abdc-a",
+                "anvur-class-a",
+                "anvur-scientific",
+                "cwts-core",
+                "dongbi-b",
+                "jufo-1",
+                "norway-2",
+                "poland-140",
+                "russia-white-list-1",
+                "vabb-shw"
+              ],
+              "host_organization": "https://openalex.org/P4310320990",
+              "host_organization_name": "Elsevier BV",
+              "host_organization_lineage": [
+                "https://openalex.org/P4310320990"
+              ],
+              "host_organization_lineage_names": [
+                "Elsevier BV"
+              ],
+              "type": "journal"
+            }
+          }
+        ]
+      },
+      "candidate_URLs": [
+        "https://www.researchgate.net/publication/270053736_Optimization-based_scheduling_for_the_single-satellite_multi-ground_station_communication_problem",
+        "https://doi.org/10.1016/j.cor.2014.11.004"
+      ],
+      "URL_list_is_not_proof_of_reading": true,
+      "availability_capture_receipts": [
+        {
+          "external_path": "D:\\SKT727\\materials\\constellation_review_B08_20261016\\SEARCH_07.txt",
+          "bytes": 35739,
+          "sha256": "c12d2088256791ea63336980431618935baeaec1e7630865c048c90a76150e5b"
+        }
+      ],
+      "body_reading_completed_this_batch": false,
+      "new_unique_targeted_addition": false,
+      "version_identity": "no_new_body_copy_obtained",
+      "author_version_relation_proven": false,
+      "formal_version_parity_closed": false,
+      "local_pdf_path": null,
+      "physical_pdf_pages": null,
+      "PDF_bytes": null,
+      "PDF_sha256": null,
+      "PDF_text_extractable": null,
+      "actual_page_review_performed": false,
+      "formula_table_figure_review_pending": true,
+      "remaining_reading_material": "核欠约束MIP的逐步收紧、可行最优性、真实数据及实验资源竞争条件。",
+      "priority": "ordered_pending",
+      "human_verified": false,
+      "submission_ready": false
+    },
+    {
+      "sequence_position": 10,
+      "reference_number": 54,
+      "doi": "10.1109/JIOT.2024.3482290",
+      "doi_url": "https://doi.org/10.1109/JIOT.2024.3482290",
+      "english_title_frozen_index": "Deep Multiagent Reinforcement Learning for Task Offloading and Resource Allocation in Satellite Edge Computing",
+      "chinese_translation": "卫星边缘计算中面向任务卸载与资源分配的深度多智能体强化学习",
+      "metadata": {
+        "status": "inherited_B07_primary_Crossref_not_new_verification",
+        "metadata_url": "https://api.crossref.org/works/10.1109/JIOT.2024.3482290",
+        "snapshot": {
+          "external_path": "D:\\SKT727\\materials\\constellation_review_B07_20261016\\054_crossref.json",
+          "bytes": 7445,
+          "sha256": "138e7df9e7fdc26e757e165e1ee9580e39077156ef20da6814d16a10afcf0f20"
+        },
+        "authors": [
+          "Min Jia",
+          "Liang Zhang",
+          "Jian Wu",
+          "Qing Guo",
+          "Guowei Zhang",
+          "Xuemai Gu"
+        ],
+        "container_titles": [
+          "IEEE Internet of Things Journal"
+        ],
+        "volume": "12",
+        "issue": "4",
+        "page_or_article_number": "3832-3845",
+        "dates": {
+          "issued": {
+            "date-parts": [
+              [
+                2025,
+                2,
+                15
+              ]
+            ]
+          },
+          "published": {
+            "date-parts": [
+              [
+                2025,
+                2,
+                15
+              ]
+            ]
+          },
+          "published-print": {
+            "date-parts": [
+              [
+                2025,
+                2,
+                15
+              ]
+            ]
+          }
+        },
+        "title_observed": [
+          "Deep Multiagent Reinforcement Learning for Task Offloading and Resource Allocation in Satellite Edge Computing"
+        ],
+        "human_verified": false
+      },
+      "manuscript_role": "计算卸载与局部目标",
+      "current_access_observation": "IEEE摘要及引言入口；未取得方法、实验与图表正文。",
+      "current_discovery": {
+        "ref": 54,
+        "doi": "10.1109/JIOT.2024.3482290",
+        "url": "https://api.openalex.org/works/https://doi.org/10.1109/JIOT.2024.3482290",
+        "http_status": 200,
+        "obtained": true,
+        "sha256": "7aa978ea220ede8346df0ec5d35d761887194f03ab002a6351df7683fdfe9e33",
+        "title": "Deep Multiagent Reinforcement Learning for Task Offloading and Resource Allocation in Satellite Edge Computing",
+        "oa": {
+          "is_oa": false,
+          "oa_status": "closed",
+          "oa_url": null,
+          "any_repository_has_fulltext": false
+        },
+        "locations": [
+          {
+            "landing_page_url": "https://doi.org/10.1109/jiot.2024.3482290",
+            "pdf_url": null,
+            "version": "publishedVersion",
+            "is_oa": false,
+            "source": {
+              "id": "https://openalex.org/S2480266640",
+              "display_name": "IEEE Internet of Things Journal",
+              "issn_l": "2327-4662",
+              "issn": [
+                "2327-4662",
+                "2372-2541"
+              ],
+              "is_oa": false,
+              "is_in_doaj": false,
+              "is_core": true,
+              "listed_in": [
+                "ccf-c",
+                "cwts-core",
+                "dongbi-b",
+                "jufo-2",
+                "norway-2",
+                "poland-200",
+                "russia-white-list-1"
+              ],
+              "host_organization": "https://openalex.org/P4310319808",
+              "host_organization_name": "Institute of Electrical and Electronics Engineers",
+              "host_organization_lineage": [
+                "https://openalex.org/P4310319808"
+              ],
+              "host_organization_lineage_names": [
+                "Institute of Electrical and Electronics Engineers"
+              ],
+              "type": "journal"
+            }
+          }
+        ]
+      },
+      "candidate_URLs": [
+        "https://doi.org/10.1109/JIOT.2024.3482290",
+        "https://doi.org/10.1109/jiot.2024.3482290"
+      ],
+      "URL_list_is_not_proof_of_reading": true,
+      "availability_capture_receipts": [
+        {
+          "external_path": "D:\\SKT727\\materials\\constellation_review_B08_20261016\\SEARCH_04.txt",
+          "bytes": 29850,
+          "sha256": "5d94c40fabb9723e8946d76cea75d5e04015f494e421fde86d0b5b30a2dbb3fd"
+        }
+      ],
+      "body_reading_completed_this_batch": false,
+      "new_unique_targeted_addition": false,
+      "version_identity": "no_new_body_copy_obtained",
+      "author_version_relation_proven": false,
+      "formal_version_parity_closed": false,
+      "local_pdf_path": null,
+      "physical_pdf_pages": null,
+      "PDF_bytes": null,
+      "PDF_sha256": null,
+      "PDF_text_extractable": null,
+      "actual_page_review_performed": false,
+      "formula_table_figure_review_pending": true,
+      "remaining_reading_material": "核训练/执行信息、卸载动作、任务完成条件、时延/能耗指标及通信开销。",
+      "priority": "ordered_pending",
+      "human_verified": false,
+      "submission_ready": false
+    },
+    {
+      "sequence_position": 11,
+      "reference_number": 55,
+      "doi": "10.1016/j.comcom.2024.05.008",
+      "doi_url": "https://doi.org/10.1016/j.comcom.2024.05.008",
+      "english_title_frozen_index": "Multi-agent reinforcement learning based computation offloading and resource allocation for LEO Satellite edge computing networks",
+      "chinese_translation": "基于多智能体强化学习的LEO卫星边缘计算网络计算卸载与资源分配",
+      "metadata": {
+        "status": "secondary_OpenAlex_pending_primary_metadata",
+        "metadata_url": "https://api.openalex.org/works/https://doi.org/10.1016/j.comcom.2024.05.008",
+        "snapshot": {
+          "external_path": "D:\\SKT727\\materials\\constellation_review_B08_20261016\\055_openalex.json",
+          "bytes": 17694,
+          "sha256": "c7a236b6b2ffd2eeecea99f37e51d6d6a04b82e47ce2fe31a460ce1d562ba2eb"
+        },
+        "authors": [
+          "Li Hai",
+          "Jinyang Yu",
+          "Lili Cao",
+          "Qin Zhang",
+          "Zhengyu Song",
+          "Shujuan Hou"
+        ],
+        "container_titles": [
+          "Computer Communications"
+        ],
+        "volume": "222",
+        "issue": null,
+        "page_or_article_number": {
+          "volume": "222",
+          "issue": null,
+          "first_page": "268",
+          "last_page": "276"
+        },
+        "dates": {
+          "publication_date_secondary_index": "2024-05-11"
+        },
+        "title_observed": [
+          "Multi-agent reinforcement learning based computation offloading and resource allocation for LEO Satellite edge computing networks"
+        ],
+        "human_verified": false
+      },
+      "manuscript_role": "计算卸载与版本身份",
+      "current_access_observation": "发现SSRN公开下载按钮的索引，但打开落地页403；没有取得PDF；不能凭索引的acceptedVersion确认为接受稿。",
+      "current_discovery": {
+        "ref": 55,
+        "doi": "10.1016/j.comcom.2024.05.008",
+        "url": "https://api.openalex.org/works/https://doi.org/10.1016/j.comcom.2024.05.008",
+        "http_status": 200,
+        "obtained": true,
+        "sha256": "c7a236b6b2ffd2eeecea99f37e51d6d6a04b82e47ce2fe31a460ce1d562ba2eb",
+        "title": "Multi-agent reinforcement learning based computation offloading and resource allocation for LEO Satellite edge computing networks",
+        "oa": {
+          "is_oa": true,
+          "oa_status": "green",
+          "oa_url": "https://doi.org/10.2139/ssrn.4611047",
+          "any_repository_has_fulltext": true
+        },
+        "locations": [
+          {
+            "landing_page_url": "https://doi.org/10.1016/j.comcom.2024.05.008",
+            "pdf_url": null,
+            "version": "publishedVersion",
+            "is_oa": false,
+            "source": {
+              "id": "https://openalex.org/S115004586",
+              "display_name": "Computer Communications",
+              "issn_l": "0140-3664",
+              "issn": [
+                "0140-3664",
+                "1873-703X"
+              ],
+              "is_oa": false,
+              "is_in_doaj": false,
+              "is_core": true,
+              "listed_in": [
+                "anvur-scientific",
+                "ccf-c",
+                "cwts-core",
+                "dongbi-c",
+                "jufo-1",
+                "norway-1",
+                "poland-140",
+                "russia-white-list-1",
+                "vabb-shw"
+              ],
+              "host_organization": "https://openalex.org/P4310320990",
+              "host_organization_name": "Elsevier BV",
+              "host_organization_lineage": [
+                "https://openalex.org/P4310320990"
+              ],
+              "host_organization_lineage_names": [
+                "Elsevier BV"
+              ],
+              "type": "journal"
+            }
+          },
+          {
+            "landing_page_url": "https://doi.org/10.2139/ssrn.4611047",
+            "pdf_url": null,
+            "version": "acceptedVersion",
+            "is_oa": true,
+            "source": {
+              "id": "https://openalex.org/S4210172589",
+              "display_name": "SSRN Electronic Journal",
+              "issn_l": "1556-5068",
+              "issn": [
+                "1556-5068"
+              ],
+              "is_oa": true,
+              "is_in_doaj": false,
+              "is_core": false,
+              "listed_in": [],
+              "host_organization": "https://openalex.org/I1318003438",
+              "host_organization_name": "RELX Group (Netherlands)",
+              "host_organization_lineage": [
+                "https://openalex.org/I1318003438"
+              ],
+              "host_organization_lineage_names": [],
+              "type": "repository"
+            }
+          }
+        ]
+      },
+      "candidate_URLs": [
+        "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4611047",
+        "https://doi.org/10.1016/j.comcom.2024.05.008",
+        "https://doi.org/10.2139/ssrn.4611047"
+      ],
+      "URL_list_is_not_proof_of_reading": true,
+      "availability_capture_receipts": [
+        {
+          "external_path": "D:\\SKT727\\materials\\constellation_review_B08_20261016\\ACCESS_55_59_WEB.txt",
+          "bytes": 36775,
+          "sha256": "cb61c6b2ce162045bfca1d961155facc0ea29427ba9db1f0c45bfdffecfdf985"
+        }
+      ],
+      "body_reading_completed_this_batch": false,
+      "new_unique_targeted_addition": false,
+      "version_identity": "no_new_body_copy_obtained",
+      "author_version_relation_proven": false,
+      "formal_version_parity_closed": false,
+      "local_pdf_path": null,
+      "physical_pdf_pages": null,
+      "PDF_bytes": null,
+      "PDF_sha256": null,
+      "PDF_text_extractable": null,
+      "actual_page_review_performed": false,
+      "formula_table_figure_review_pending": true,
+      "remaining_reading_material": "核正式版和SSRN 4611047的作者顺序、模型、资源约束、奖励和对照实验。",
+      "priority": "ordered_pending",
+      "human_verified": false,
+      "submission_ready": false
+    },
+    {
+      "sequence_position": 12,
+      "reference_number": 56,
+      "doi": "10.1109/TMC.2025.3570799",
+      "doi_url": "https://doi.org/10.1109/TMC.2025.3570799",
+      "english_title_frozen_index": "Satellite Edge Intelligence: DRL-Based Resource Management for Task Inference in LEO-Based Satellite-Ground Collaborative Networks",
+      "chinese_translation": "卫星边缘智能：面向LEO星地协同网络任务推理的DRL资源管理",
+      "metadata": {
+        "status": "inherited_B07_primary_Crossref_not_new_verification",
+        "metadata_url": "https://api.crossref.org/works/10.1109/TMC.2025.3570799",
+        "snapshot": {
+          "external_path": "D:\\SKT727\\materials\\constellation_review_B07_20261016\\056_crossref.json",
+          "bytes": 8035,
+          "sha256": "e01b2984cf8b73e3ca2d99142fa70bae83fd2d26f7aca5dcae5693870540743e"
+        },
+        "authors": [
+          "Wenhao Fan",
+          "Qingcheng Meng",
+          "Guan Wang",
+          "Hengwei Bian",
+          "Yabin Liu",
+          "Yuan’an Liu"
+        ],
+        "container_titles": [
+          "IEEE Transactions on Mobile Computing"
+        ],
+        "volume": "24",
+        "issue": "10",
+        "page_or_article_number": "10710-10728",
+        "dates": {
+          "issued": {
+            "date-parts": [
+              [
+                2025,
+                10
+              ]
+            ]
+          },
+          "published": {
+            "date-parts": [
+              [
+                2025,
+                10
+              ]
+            ]
+          },
+          "published-print": {
+            "date-parts": [
+              [
+                2025,
+                10
+              ]
+            ]
+          }
+        },
+        "title_observed": [
+          "Satellite Edge Intelligence: DRL-Based Resource Management for Task Inference in LEO-Based Satellite-Ground Collaborative Networks"
+        ],
+        "human_verified": false
+      },
+      "manuscript_role": "协同推理与业务完成边界",
+      "current_access_observation": "IEEE摘要及书目信息，未取得方法与实验全文。",
+      "current_discovery": {
+        "ref": 56,
+        "doi": "10.1109/TMC.2025.3570799",
+        "url": "https://api.openalex.org/works/https://doi.org/10.1109/TMC.2025.3570799",
+        "http_status": 200,
+        "obtained": true,
+        "sha256": "b320cae6bb2e876d5a01dc053454014dc8a587522b7a93c74298a1de84b50389",
+        "title": "Satellite Edge Intelligence: DRL-Based Resource Management for Task Inference in LEO-Based Satellite-Ground Collaborative Networks",
+        "oa": {
+          "is_oa": false,
+          "oa_status": "closed",
+          "oa_url": null,
+          "any_repository_has_fulltext": false
+        },
+        "locations": [
+          {
+            "landing_page_url": "https://doi.org/10.1109/tmc.2025.3570799",
+            "pdf_url": null,
+            "version": "publishedVersion",
+            "is_oa": false,
+            "source": {
+              "id": "https://openalex.org/S69141925",
+              "display_name": "IEEE Transactions on Mobile Computing",
+              "issn_l": "1536-1233",
+              "issn": [
+                "1536-1233",
+                "1558-0660",
+                "2161-9875"
+              ],
+              "is_oa": false,
+              "is_in_doaj": false,
+              "is_core": true,
+              "listed_in": [
+                "ccf-a",
+                "cwts-core",
+                "dongbi-a",
+                "jufo-3",
+                "norway-2",
+                "poland-140",
+                "russia-white-list-1"
+              ],
+              "host_organization": "https://openalex.org/P4310320439",
+              "host_organization_name": "IEEE Computer Society",
+              "host_organization_lineage": [
+                "https://openalex.org/P4310320439",
+                "https://openalex.org/P4310319808"
+              ],
+              "host_organization_lineage_names": [
+                "IEEE Computer Society",
+                "Institute of Electrical and Electronics Engineers"
+              ],
+              "type": "journal"
+            }
+          }
+        ]
+      },
+      "candidate_URLs": [
+        "https://ieeexplore.ieee.org/document/11005988/",
+        "https://doi.org/10.1109/tmc.2025.3570799"
+      ],
+      "URL_list_is_not_proof_of_reading": true,
+      "availability_capture_receipts": [
+        {
+          "external_path": "D:\\SKT727\\materials\\constellation_review_B08_20261016\\SEARCH_04.txt",
+          "bytes": 29850,
+          "sha256": "5d94c40fabb9723e8946d76cea75d5e04015f494e421fde86d0b5b30a2dbb3fd"
+        }
+      ],
+      "body_reading_completed_this_batch": false,
+      "new_unique_targeted_addition": false,
+      "version_identity": "no_new_body_copy_obtained",
+      "author_version_relation_proven": false,
+      "formal_version_parity_closed": false,
+      "local_pdf_path": null,
+      "physical_pdf_pages": null,
+      "PDF_bytes": null,
+      "PDF_sha256": null,
+      "PDF_text_extractable": null,
+      "actual_page_review_performed": false,
+      "formula_table_figure_review_pending": true,
+      "remaining_reading_material": "核推理位置、精度/时延/资源代价与观测交付依赖是否入模。",
+      "priority": "ordered_pending",
+      "human_verified": false,
+      "submission_ready": false
+    },
+    {
+      "sequence_position": 13,
+      "reference_number": 59,
+      "doi": "10.1016/j.asr.2025.12.008",
+      "doi_url": "https://doi.org/10.1016/j.asr.2025.12.008",
+      "english_title_frozen_index": "Lagrangian hierarchical mixed-integer programming for ultra-large-scale satellite scheduling under dynamic task delivery",
+      "chinese_translation": "动态任务下发条件下超大规模卫星调度的拉格朗日分层混合整数规划",
+      "metadata": {
+        "status": "secondary_OpenAlex_pending_primary_metadata",
+        "metadata_url": "https://api.openalex.org/works/https://doi.org/10.1016/j.asr.2025.12.008",
+        "snapshot": {
+          "external_path": "D:\\SKT727\\materials\\constellation_review_B08_20261016\\059_openalex.json",
+          "bytes": 14472,
+          "sha256": "9d5655cb5bc601e48a4c99e81868fbb0c2ac653558e44a8ec1090101b9dc7ce4"
+        },
+        "authors": [
+          "Jiahao Qin",
+          "Hongxia Wang",
+          "Xudong Gao",
+          "Qian Wang",
+          "Xi Chen"
+        ],
+        "container_titles": [
+          "Advances in Space Research"
+        ],
+        "volume": "77",
+        "issue": "11",
+        "page_or_article_number": {
+          "volume": "77",
+          "issue": "11",
+          "first_page": "11252",
+          "last_page": "11270"
+        },
+        "dates": {
+          "publication_date_secondary_index": "2025-12-06"
+        },
+        "title_observed": [
+          "Lagrangian hierarchical mixed-integer programming for ultra-large-scale satellite scheduling under dynamic task delivery"
+        ],
+        "human_verified": false
+      },
+      "manuscript_role": "动态分配、回溯与序列修复",
+      "current_access_observation": "ResearchGate只有题名/作者/参考条目，明确No full-text available；没有将引用列表当目标论文正文。",
+      "current_discovery": {
+        "ref": 59,
+        "doi": "10.1016/j.asr.2025.12.008",
+        "url": "https://api.openalex.org/works/https://doi.org/10.1016/j.asr.2025.12.008",
+        "http_status": 200,
+        "obtained": true,
+        "sha256": "9d5655cb5bc601e48a4c99e81868fbb0c2ac653558e44a8ec1090101b9dc7ce4",
+        "title": "Lagrangian hierarchical mixed-integer programming for ultra-large-scale satellite scheduling under dynamic task delivery",
+        "oa": {
+          "is_oa": false,
+          "oa_status": "closed",
+          "oa_url": null,
+          "any_repository_has_fulltext": false
+        },
+        "locations": [
+          {
+            "landing_page_url": "https://doi.org/10.1016/j.asr.2025.12.008",
+            "pdf_url": null,
+            "version": "publishedVersion",
+            "is_oa": false,
+            "source": {
+              "id": "https://openalex.org/S113313948",
+              "display_name": "Advances in Space Research",
+              "issn_l": "0273-1177",
+              "issn": [
+                "0273-1177",
+                "1879-1948"
+              ],
+              "is_oa": false,
+              "is_in_doaj": false,
+              "is_core": true,
+              "listed_in": [
+                "cwts-core",
+                "dongbi-c",
+                "jufo-1",
+                "ki-jl-1",
+                "norway-1",
+                "poland-70",
+                "russia-white-list-1",
+                "vabb-shw"
+              ],
+              "host_organization": "https://openalex.org/P4310320990",
+              "host_organization_name": "Elsevier BV",
+              "host_organization_lineage": [
+                "https://openalex.org/P4310320990"
+              ],
+              "host_organization_lineage_names": [
+                "Elsevier BV"
+              ],
+              "type": "journal"
+            }
+          }
+        ]
+      },
+      "candidate_URLs": [
+        "https://www.researchgate.net/publication/398408947_Lagrangian_Hierarchical_Mixed-Integer_Programming_for_Ultra-Large-Scale_Satellite_Scheduling_under_Dynamic_Task_Delivery",
+        "https://doi.org/10.1016/j.asr.2025.12.008"
+      ],
+      "URL_list_is_not_proof_of_reading": true,
+      "availability_capture_receipts": [
+        {
+          "external_path": "D:\\SKT727\\materials\\constellation_review_B08_20261016\\ACCESS_55_59_WEB.txt",
+          "bytes": 36775,
+          "sha256": "cb61c6b2ce162045bfca1d961155facc0ea29427ba9db1f0c45bfdffecfdf985"
+        }
+      ],
+      "body_reading_completed_this_batch": false,
+      "new_unique_targeted_addition": false,
+      "version_identity": "no_new_body_copy_obtained",
+      "author_version_relation_proven": false,
+      "formal_version_parity_closed": false,
+      "local_pdf_path": null,
+      "physical_pdf_pages": null,
+      "PDF_bytes": null,
+      "PDF_sha256": null,
+      "PDF_text_extractable": null,
+      "actual_page_review_performed": false,
+      "formula_table_figure_review_pending": true,
+      "remaining_reading_material": "优先核1000星、50—6000任务等正文量化说法的表格、实际入模规模和总计时。",
+      "priority": "first_PDF_request",
+      "human_verified": false,
+      "submission_ready": false
+    },
+    {
+      "sequence_position": 14,
+      "reference_number": 60,
+      "doi": "10.1016/j.cor.2016.04.014",
+      "doi_url": "https://doi.org/10.1016/j.cor.2016.04.014",
+      "english_title_frozen_index": "A pure proactive scheduling algorithm for multiple earth observation satellites under uncertainties of clouds",
+      "chinese_translation": "云覆盖不确定性下多地球观测卫星的纯主动调度算法",
+      "metadata": {
+        "status": "inherited_B07_primary_Crossref_not_new_verification",
+        "metadata_url": "https://api.crossref.org/works/10.1016/j.cor.2016.04.014",
+        "snapshot": {
+          "external_path": "D:\\SKT727\\materials\\constellation_review_B07_20261016\\060_crossref.json",
+          "bytes": 21513,
+          "sha256": "7059d421b761139174b4b0a21e07e209adebf53457599fb94c0032cdd15c8250"
+        },
+        "authors": [
+          "Jianjiang Wang",
+          "Erik Demeulemeester",
+          "Dishan Qiu"
+        ],
+        "container_titles": [
+          "Computers &amp; Operations Research"
+        ],
+        "volume": "74",
+        "issue": null,
+        "page_or_article_number": "1-13",
+        "dates": {
+          "issued": {
+            "date-parts": [
+              [
+                2016,
+                10
+              ]
+            ]
+          },
+          "published": {
+            "date-parts": [
+              [
+                2016,
+                10
+              ]
+            ]
+          },
+          "published-print": {
+            "date-parts": [
+              [
+                2016,
+                10
+              ]
+            ]
+          }
+        },
+        "title_observed": [
+          "A pure proactive scheduling algorithm for multiple earth observation satellites under uncertainties of clouds"
+        ],
+        "human_verified": false
+      },
+      "manuscript_role": "机会约束、采样与事前风险安排",
+      "current_access_observation": "KUL旧PDF404；仓储落地页200后迁移到LIRIAS2379526检索，HTML仅JS壳；浏览器创建/读取均超时。SSRN索引仅摘要，不算PDF。",
+      "current_discovery": {
+        "ref": 60,
+        "doi": "10.1016/j.cor.2016.04.014",
+        "url": "https://api.openalex.org/works/https://doi.org/10.1016/j.cor.2016.04.014",
+        "http_status": 200,
+        "obtained": true,
+        "sha256": "15b0e319ea8e125aaf2cb68a4ff468006421610bcb104634446be22ccd2f5423",
+        "title": "A pure proactive scheduling algorithm for multiple earth observation satellites under uncertainties of clouds",
+        "oa": {
+          "is_oa": true,
+          "oa_status": "green",
+          "oa_url": "https://doi.org/10.2139/ssrn.2495339",
+          "any_repository_has_fulltext": true
+        },
+        "locations": [
+          {
+            "landing_page_url": "https://doi.org/10.1016/j.cor.2016.04.014",
+            "pdf_url": null,
+            "version": "publishedVersion",
+            "is_oa": false,
+            "source": {
+              "id": "https://openalex.org/S173256270",
+              "display_name": "Computers & Operations Research",
+              "issn_l": "0305-0548",
+              "issn": [
+                "0305-0548",
+                "1873-765X"
+              ],
+              "is_oa": false,
+              "is_in_doaj": false,
+              "is_core": true,
+              "listed_in": [
+                "abdc-a",
+                "anvur-class-a",
+                "anvur-scientific",
+                "cwts-core",
+                "dongbi-b",
+                "jufo-1",
+                "norway-2",
+                "poland-140",
+                "russia-white-list-1",
+                "vabb-shw"
+              ],
+              "host_organization": "https://openalex.org/P4310320990",
+              "host_organization_name": "Elsevier BV",
+              "host_organization_lineage": [
+                "https://openalex.org/P4310320990"
+              ],
+              "host_organization_lineage_names": [
+                "Elsevier BV"
+              ],
+              "type": "journal"
+            }
+          },
+          {
+            "landing_page_url": "https://doi.org/10.2139/ssrn.2495339",
+            "pdf_url": null,
+            "version": "acceptedVersion",
+            "is_oa": true,
+            "source": {
+              "id": "https://openalex.org/S4210172589",
+              "display_name": "SSRN Electronic Journal",
+              "issn_l": "1556-5068",
+              "issn": [
+                "1556-5068"
+              ],
+              "is_oa": true,
+              "is_in_doaj": false,
+              "is_core": false,
+              "listed_in": [],
+              "host_organization": "https://openalex.org/I1318003438",
+              "host_organization_name": "RELX Group (Netherlands)",
+              "host_organization_lineage": [
+                "https://openalex.org/I1318003438"
+              ],
+              "host_organization_lineage_names": [],
+              "type": "repository"
+            }
+          },
+          {
+            "landing_page_url": "https://lirias.kuleuven.be/handle/123456789/460886",
+            "pdf_url": null,
+            "version": "submittedVersion",
+            "is_oa": true,
+            "source": {
+              "id": "https://openalex.org/S7407055369",
+              "display_name": "Lirias",
+              "issn_l": null,
+              "issn": null,
+              "is_oa": false,
+              "is_in_doaj": false,
+              "is_core": false,
+              "listed_in": [],
+              "host_organization": null,
+              "host_organization_name": null,
+              "host_organization_lineage": [],
+              "host_organization_lineage_names": [],
+              "type": "repository"
+            }
+          },
+          {
+            "landing_page_url": "https://lirias.kuleuven.be/bitstream/123456789/538685/1/A%20pure%20proactive%20scheduling%20algorithm%20for%20multiple%20earth%20observation%20sat%20%20%20.pdf",
+            "pdf_url": null,
+            "version": "submittedVersion",
+            "is_oa": false,
+            "source": {
+              "id": "https://openalex.org/S7407055369",
+              "display_name": "Lirias",
+              "issn_l": null,
+              "issn": null,
+              "is_oa": false,
+              "is_in_doaj": false,
+              "is_core": false,
+              "listed_in": [],
+              "host_organization": null,
+              "host_organization_name": null,
+              "host_organization_lineage": [],
+              "host_organization_lineage_names": [],
+              "type": "repository"
+            }
+          }
+        ]
+      },
+      "candidate_URLs": [
+        "https://lirias.kuleuven.be/handle/123456789/460886",
+        "https://doi.org/10.1016/j.cor.2016.04.014",
+        "https://doi.org/10.2139/ssrn.2495339",
+        "https://lirias.kuleuven.be/bitstream/123456789/538685/1/A%20pure%20proactive%20scheduling%20algorithm%20for%20multiple%20earth%20observation%20sat%20%20%20.pdf"
+      ],
+      "URL_list_is_not_proof_of_reading": true,
+      "availability_capture_receipts": [
+        {
+          "external_path": "D:\\SKT727\\materials\\constellation_review_B08_20261016\\SEARCH_09.txt",
+          "bytes": 35031,
+          "sha256": "3831026a3a8f4290da1b2c05a3cb34488ec374e2b9fef6d1ee42357f1383bb73"
+        }
+      ],
+      "body_reading_completed_this_batch": false,
+      "new_unique_targeted_addition": false,
+      "version_identity": "no_new_body_copy_obtained",
+      "author_version_relation_proven": false,
+      "formal_version_parity_closed": false,
+      "local_pdf_path": null,
+      "physical_pdf_pages": null,
+      "PDF_bytes": null,
+      "PDF_sha256": null,
+      "PDF_text_extractable": null,
+      "actual_page_review_performed": false,
+      "formula_table_figure_review_pending": true,
+      "remaining_reading_material": "核云相关性、联合/单项概率约束、样本数、可行性保证和B&C计算代价。",
+      "priority": "ordered_pending",
+      "human_verified": false,
+      "submission_ready": false
+    },
+    {
+      "sequence_position": 15,
+      "reference_number": 63,
+      "doi": "10.1016/j.eswa.2025.128502",
+      "doi_url": "https://doi.org/10.1016/j.eswa.2025.128502",
+      "english_title_frozen_index": "Deep reinforcement learning-assisted large neighborhood search for online scheduling large-scale emergency tasks to Earth-observing satellites",
+      "chinese_translation": "面向地球观测卫星大规模应急任务在线调度的深度强化学习辅助大邻域搜索",
+      "metadata": {
+        "status": "inherited_B07_primary_Crossref_not_new_verification",
+        "metadata_url": "https://api.crossref.org/works/10.1016/j.eswa.2025.128502",
+        "snapshot": {
+          "external_path": "D:\\SKT727\\materials\\constellation_review_B07_20261016\\063_crossref.json",
+          "bytes": 21150,
+          "sha256": "18be92cbdb8aca9c4a60942f0018a4950601ab3a5b1437e2b96c845a79b8b795"
+        },
+        "authors": [
+          "Jing Qi",
+          "Min Hu",
+          "Lining Xing",
+          "Zhenhua Su"
+        ],
+        "container_titles": [
+          "Expert Systems with Applications"
+        ],
+        "volume": "291",
+        "issue": null,
+        "page_or_article_number": "128502",
+        "dates": {
+          "issued": {
+            "date-parts": [
+              [
+                2025,
+                10
+              ]
+            ]
+          },
+          "published": {
+            "date-parts": [
+              [
+                2025,
+                10
+              ]
+            ]
+          },
+          "published-print": {
+            "date-parts": [
+              [
+                2025,
+                10
+              ]
+            ]
+          }
+        },
+        "title_observed": [
+          "Deep reinforcement learning-assisted large neighborhood search for online scheduling large-scale emergency tasks to Earth-observing satellites"
+        ],
+        "human_verified": false
+      },
+      "manuscript_role": "学习初解与破坏—修复搜索",
+      "current_access_observation": "出版预览/片段；本批完整页面403，无可核方法与实验全文。",
+      "current_discovery": {
+        "ref": 63,
+        "doi": "10.1016/j.eswa.2025.128502",
+        "url": "https://api.openalex.org/works/https://doi.org/10.1016/j.eswa.2025.128502",
+        "http_status": 200,
+        "obtained": true,
+        "sha256": "b86094c4ae57d9386b0bfa7616634c7f9ce35405cfccae8d2d5cf5861de5a3ac",
+        "title": "Deep reinforcement learning-assisted large neighborhood search for online scheduling large-scale emergency tasks to Earth-observing satellites",
+        "oa": {
+          "is_oa": false,
+          "oa_status": "closed",
+          "oa_url": null,
+          "any_repository_has_fulltext": false
+        },
+        "locations": [
+          {
+            "landing_page_url": "https://doi.org/10.1016/j.eswa.2025.128502",
+            "pdf_url": null,
+            "version": "publishedVersion",
+            "is_oa": false,
+            "source": {
+              "id": "https://openalex.org/S13144211",
+              "display_name": "Expert Systems with Applications",
+              "issn_l": "0957-4174",
+              "issn": [
+                "0957-4174",
+                "1873-6793"
+              ],
+              "is_oa": false,
+              "is_in_doaj": false,
+              "is_core": true,
+              "listed_in": [
+                "anvur-class-a",
+                "anvur-scientific",
+                "ccf-c",
+                "cwts-core",
+                "dongbi-c",
+                "doyens",
+                "fnege-3",
+                "jufo-2",
+                "ki-jl-2",
+                "norway-2",
+                "poland-200",
+                "russia-white-list-1",
+                "vabb-shw"
+              ],
+              "host_organization": "https://openalex.org/P4310320990",
+              "host_organization_name": "Elsevier BV",
+              "host_organization_lineage": [
+                "https://openalex.org/P4310320990"
+              ],
+              "host_organization_lineage_names": [
+                "Elsevier BV"
+              ],
+              "type": "journal"
+            }
+          }
+        ]
+      },
+      "candidate_URLs": [
+        "https://www.sciencedirect.com/science/article/pii/S0957417425021219",
+        "https://doi.org/10.1016/j.eswa.2025.128502"
+      ],
+      "URL_list_is_not_proof_of_reading": true,
+      "availability_capture_receipts": [
+        {
+          "external_path": "D:\\SKT727\\materials\\constellation_review_B08_20261016\\SEARCH_05.txt",
+          "bytes": 39168,
+          "sha256": "701ef39a1d1c672e4953e50477765c4e6883414e0d9ccac3473c0c4ac32ac88d"
+        }
+      ],
+      "body_reading_completed_this_batch": false,
+      "new_unique_targeted_addition": false,
+      "version_identity": "no_new_body_copy_obtained",
+      "author_version_relation_proven": false,
+      "formal_version_parity_closed": false,
+      "local_pdf_path": null,
+      "physical_pdf_pages": null,
+      "PDF_bytes": null,
+      "PDF_sha256": null,
+      "PDF_text_extractable": null,
+      "actual_page_review_performed": false,
+      "formula_table_figure_review_pending": true,
+      "remaining_reading_material": "优先核两级动作解码、算子、可行性修补、滚动重算、消融与完整响应时间。",
+      "priority": "first_PDF_request",
+      "human_verified": false,
+      "submission_ready": false
+    },
+    {
+      "sequence_position": 16,
+      "reference_number": 64,
+      "doi": "10.1016/j.eswa.2025.128350",
+      "doi_url": "https://doi.org/10.1016/j.eswa.2025.128350",
+      "english_title_frozen_index": "Dynamic task scheduling optimization by rolling horizon deep reinforcement learning for distributed satellite system",
+      "chinese_translation": "面向分布式卫星系统的滚动时域深度强化学习动态任务调度优化",
+      "metadata": {
+        "status": "inherited_B07_primary_Crossref_not_new_verification",
+        "metadata_url": "https://api.crossref.org/works/10.1016/j.eswa.2025.128350",
+        "snapshot": {
+          "external_path": "D:\\SKT727\\materials\\constellation_review_B07_20261016\\064_crossref.json",
+          "bytes": 20624,
+          "sha256": "e3d4a47b386e694834ab16f0571f27c5858dac6d5402c865c3c6cfc466c36e19"
+        },
+        "authors": [
+          "Zhe Li",
+          "Xin Zhu",
+          "Changdi Liu",
+          "JunYao Song",
+          "Yubai Liu",
+          "Chengjun Yin",
+          "Wei Sun"
+        ],
+        "container_titles": [
+          "Expert Systems with Applications"
+        ],
+        "volume": "289",
+        "issue": null,
+        "page_or_article_number": "128350",
+        "dates": {
+          "issued": {
+            "date-parts": [
+              [
+                2025,
+                9
+              ]
+            ]
+          },
+          "published": {
+            "date-parts": [
+              [
+                2025,
+                9
+              ]
+            ]
+          },
+          "published-print": {
+            "date-parts": [
+              [
+                2025,
+                9
+              ]
+            ]
+          }
+        },
+        "title_observed": [
+          "Dynamic task scheduling optimization by rolling horizon deep reinforcement learning for distributed satellite system"
+        ],
+        "human_verified": false
+      },
+      "manuscript_role": "多智能体训练与分散执行",
+      "current_access_observation": "出版社摘要、引言和Section snippets；未取得方法及结果全文。",
+      "current_discovery": {
+        "ref": 64,
+        "doi": "10.1016/j.eswa.2025.128350",
+        "url": "https://api.openalex.org/works/https://doi.org/10.1016/j.eswa.2025.128350",
+        "http_status": 200,
+        "obtained": true,
+        "sha256": "05d3fcf97420794850b190bfb6dfdad728a2dc976db0998970ddf0e196ee204d",
+        "title": "Dynamic task scheduling optimization by rolling horizon deep reinforcement learning for distributed satellite system",
+        "oa": {
+          "is_oa": false,
+          "oa_status": "closed",
+          "oa_url": null,
+          "any_repository_has_fulltext": false
+        },
+        "locations": [
+          {
+            "landing_page_url": "https://doi.org/10.1016/j.eswa.2025.128350",
+            "pdf_url": null,
+            "version": "publishedVersion",
+            "is_oa": false,
+            "source": {
+              "id": "https://openalex.org/S13144211",
+              "display_name": "Expert Systems with Applications",
+              "issn_l": "0957-4174",
+              "issn": [
+                "0957-4174",
+                "1873-6793"
+              ],
+              "is_oa": false,
+              "is_in_doaj": false,
+              "is_core": true,
+              "listed_in": [
+                "anvur-class-a",
+                "anvur-scientific",
+                "ccf-c",
+                "cwts-core",
+                "dongbi-c",
+                "doyens",
+                "fnege-3",
+                "jufo-2",
+                "ki-jl-2",
+                "norway-2",
+                "poland-200",
+                "russia-white-list-1",
+                "vabb-shw"
+              ],
+              "host_organization": "https://openalex.org/P4310320990",
+              "host_organization_name": "Elsevier BV",
+              "host_organization_lineage": [
+                "https://openalex.org/P4310320990"
+              ],
+              "host_organization_lineage_names": [
+                "Elsevier BV"
+              ],
+              "type": "journal"
+            }
+          }
+        ]
+      },
+      "candidate_URLs": [
+        "https://www.sciencedirect.com/science/article/pii/S0957417425019694",
+        "https://doi.org/10.1016/j.eswa.2025.128350"
+      ],
+      "URL_list_is_not_proof_of_reading": true,
+      "availability_capture_receipts": [
+        {
+          "external_path": "D:\\SKT727\\materials\\constellation_review_B08_20261016\\SEARCH_16_0.txt",
+          "bytes": 38490,
+          "sha256": "309fc25a63315bb2da3dddcb7caeafb91248fe531414e5847f59a0c216909bbc"
+        }
+      ],
+      "body_reading_completed_this_batch": false,
+      "new_unique_targeted_addition": false,
+      "version_identity": "no_new_body_copy_obtained",
+      "author_version_relation_proven": false,
+      "formal_version_parity_closed": false,
+      "local_pdf_path": null,
+      "physical_pdf_pages": null,
+      "PDF_bytes": null,
+      "PDF_sha256": null,
+      "PDF_text_extractable": null,
+      "actual_page_review_performed": false,
+      "formula_table_figure_review_pending": true,
+      "remaining_reading_material": "核集中训练/分散执行的可见信息、滚动时域、双损失、可行性和400任务计时对照。",
+      "priority": "ordered_pending",
+      "human_verified": false,
+      "submission_ready": false
+    },
+    {
+      "sequence_position": 17,
+      "reference_number": 67,
+      "doi": "10.1016/j.cie.2022.108852",
+      "doi_url": "https://doi.org/10.1016/j.cie.2022.108852",
+      "english_title_frozen_index": "Multi-orbit routing and scheduling of refuellable on-orbit servicing space robots",
+      "chinese_translation": "可加注在轨服务空间机器人的多轨道路由与调度",
+      "metadata": {
+        "status": "inherited_B07_primary_Crossref_not_new_verification",
+        "metadata_url": "https://api.crossref.org/works/10.1016/j.cie.2022.108852",
+        "snapshot": {
+          "external_path": "D:\\SKT727\\materials\\constellation_review_B07_20261016\\067_crossref.json",
+          "bytes": 11641,
+          "sha256": "4868c3017e58c8783d3323178dfc79e1c72735a75123f5c1f4f18dedec6036f2"
+        },
+        "authors": [
+          "Susan E. Sorenson",
+          "Sarah G. Nurre Pinkley"
+        ],
+        "container_titles": [
+          "Computers &amp; Industrial Engineering"
+        ],
+        "volume": "176",
+        "issue": null,
+        "page_or_article_number": "108852",
+        "dates": {
+          "issued": {
+            "date-parts": [
+              [
+                2023,
+                2
+              ]
+            ]
+          },
+          "published": {
+            "date-parts": [
+              [
+                2023,
+                2
+              ]
+            ]
+          },
+          "published-print": {
+            "date-parts": [
+              [
+                2023,
+                2
+              ]
+            ]
+          }
+        },
+        "title_observed": [
+          "Multi-orbit routing and scheduling of refuellable on-orbit servicing space robots"
+        ],
+        "human_verified": false
+      },
+      "manuscript_role": "移动任务、仓库与轨道网络",
+      "current_access_observation": "出版预览，显示机构访问/购买；模型和结果仅Section snippets。",
+      "current_discovery": {
+        "ref": 67,
+        "doi": "10.1016/j.cie.2022.108852",
+        "url": "https://api.openalex.org/works/https://doi.org/10.1016/j.cie.2022.108852",
+        "http_status": 200,
+        "obtained": true,
+        "sha256": "f8c5e50433ce17b6a87d359f1f04b133ab049adb32007b7b6f33fdaa7ee000c1",
+        "title": "Multi-orbit routing and scheduling of refuellable on-orbit servicing space robots",
+        "oa": {
+          "is_oa": false,
+          "oa_status": "closed",
+          "oa_url": null,
+          "any_repository_has_fulltext": false
+        },
+        "locations": [
+          {
+            "landing_page_url": "https://doi.org/10.1016/j.cie.2022.108852",
+            "pdf_url": null,
+            "version": "publishedVersion",
+            "is_oa": false,
+            "source": {
+              "id": "https://openalex.org/S196821226",
+              "display_name": "Computers & Industrial Engineering",
+              "issn_l": "0360-8352",
+              "issn": [
+                "0360-8352",
+                "1879-0550"
+              ],
+              "is_oa": false,
+              "is_in_doaj": false,
+              "is_core": true,
+              "listed_in": [
+                "abdc-a",
+                "anvur-scientific",
+                "cwts-core",
+                "dongbi-b",
+                "fnege-3",
+                "jufo-1",
+                "ki-jl-1",
+                "norway-1",
+                "poland-140",
+                "russia-white-list-1",
+                "vabb-shw"
+              ],
+              "host_organization": "https://openalex.org/P4310320990",
+              "host_organization_name": "Elsevier BV",
+              "host_organization_lineage": [
+                "https://openalex.org/P4310320990"
+              ],
+              "host_organization_lineage_names": [
+                "Elsevier BV"
+              ],
+              "type": "journal"
+            }
+          }
+        ]
+      },
+      "candidate_URLs": [
+        "https://www.sciencedirect.com/science/article/pii/S0360835222008403",
+        "https://doi.org/10.1016/j.cie.2022.108852"
+      ],
+      "URL_list_is_not_proof_of_reading": true,
+      "availability_capture_receipts": [
+        {
+          "external_path": "D:\\SKT727\\materials\\constellation_review_B08_20261016\\SEARCH_18_1.txt",
+          "bytes": 34456,
+          "sha256": "11db61150fb92ae2e79daae794368ad49aeb0f02c739e26ae57d5e4e72ffb4fb"
+        }
+      ],
+      "body_reading_completed_this_batch": false,
+      "new_unique_targeted_addition": false,
+      "version_identity": "no_new_body_copy_obtained",
+      "author_version_relation_proven": false,
+      "formal_version_parity_closed": false,
+      "local_pdf_path": null,
+      "physical_pdf_pages": null,
+      "PDF_bytes": null,
+      "PDF_sha256": null,
+      "PDF_text_extractable": null,
+      "actual_page_review_performed": false,
+      "formula_table_figure_review_pending": true,
+      "remaining_reading_material": "核网络离散化、轨迹代价、加注资源、任务收益与三种轨道案例。",
+      "priority": "ordered_pending",
+      "human_verified": false,
+      "submission_ready": false
+    },
+    {
+      "sequence_position": 18,
+      "reference_number": 68,
+      "doi": "10.1016/j.cja.2025.103774",
+      "doi_url": "https://doi.org/10.1016/j.cja.2025.103774",
+      "english_title_frozen_index": "On-orbit refueling robust mission scheduling with uncertain duration for geosynchronous orbit spacecraft",
+      "chinese_translation": "不确定持续时间下地球同步轨道航天器在轨加注的鲁棒任务调度",
+      "metadata": {
+        "status": "inherited_B07_primary_Crossref_not_new_verification",
+        "metadata_url": "https://api.crossref.org/works/10.1016/j.cja.2025.103774",
+        "snapshot": {
+          "external_path": "D:\\SKT727\\materials\\constellation_review_B07_20261016\\068_crossref.json",
+          "bytes": 18777,
+          "sha256": "c399efe55b410e30d4d2cb47d4cdbb9e74566056264714912a3d1bd8ffc26a4d"
+        },
+        "authors": [
+          "Shuai YIN",
+          "Chuanjiang LI",
+          "Edoardo FADDA",
+          "Yanning GUO",
+          "Guangtao RAN",
+          "Paolo BRANDIMARTE"
+        ],
+        "container_titles": [
+          "Chinese Journal of Aeronautics"
+        ],
+        "volume": "39",
+        "issue": "1",
+        "page_or_article_number": "103774",
+        "dates": {
+          "issued": {
+            "date-parts": [
+              [
+                2026,
+                1
+              ]
+            ]
+          },
+          "published": {
+            "date-parts": [
+              [
+                2026,
+                1
+              ]
+            ]
+          },
+          "published-print": {
+            "date-parts": [
+              [
+                2026,
+                1
+              ]
+            ]
+          }
+        },
+        "title_observed": [
+          "On-orbit refueling robust mission scheduling with uncertain duration for geosynchronous orbit spacecraft"
+        ],
+        "human_verified": false
+      },
+      "manuscript_role": "服务持续时间鲁棒性",
+      "current_access_observation": "本批OpenAlex请求超时，仅沿用B07书目信息及其SciOpen/Polito访问受限记录；没有重试被拒端点。",
+      "current_discovery": {
+        "ref": 68,
+        "doi": "10.1016/j.cja.2025.103774",
+        "url": "https://api.openalex.org/works/https://doi.org/10.1016/j.cja.2025.103774",
+        "obtained": false,
+        "error": "The read operation timed out"
+      },
+      "candidate_URLs": [
+        "https://doi.org/10.1016/j.cja.2025.103774"
+      ],
+      "URL_list_is_not_proof_of_reading": true,
+      "availability_capture_receipts": [],
+      "body_reading_completed_this_batch": false,
+      "new_unique_targeted_addition": false,
+      "version_identity": "no_new_body_copy_obtained",
+      "author_version_relation_proven": false,
+      "formal_version_parity_closed": false,
+      "local_pdf_path": null,
+      "physical_pdf_pages": null,
+      "PDF_bytes": null,
+      "PDF_sha256": null,
+      "PDF_text_extractable": null,
+      "actual_page_review_performed": false,
+      "formula_table_figure_review_pending": true,
+      "remaining_reading_material": "取得原论文，核不确定集、鲁棒代价、可行性与求解近似。",
+      "priority": "ordered_pending",
+      "human_verified": false,
+      "submission_ready": false
+    },
+    {
+      "sequence_position": 19,
+      "reference_number": 69,
+      "doi": "10.1016/j.asr.2017.05.037",
+      "doi_url": "https://doi.org/10.1016/j.asr.2017.05.037",
+      "english_title_frozen_index": "Mission planning for on-orbit servicing through multiple servicing satellites: A new approach",
+      "chinese_translation": "通过多颗服务卫星开展在轨服务的任务规划：一种新方法",
+      "metadata": {
+        "status": "secondary_OpenAlex_pending_primary_metadata",
+        "metadata_url": "https://api.openalex.org/works/https://doi.org/10.1016/j.asr.2017.05.037",
+        "snapshot": {
+          "external_path": "D:\\SKT727\\materials\\constellation_review_B08_20261016\\069_openalex.json",
+          "bytes": 15659,
+          "sha256": "c55d546cd8ce2e91172255807c04d7a79056d825845c0f24776db511d9b1276a"
+        },
+        "authors": [
+          "Kamran DANESHJOU",
+          "A.A. Mohammadi-Dehabadi",
+          "Majid Bakhtiari"
+        ],
+        "container_titles": [
+          "Advances in Space Research"
+        ],
+        "volume": "60",
+        "issue": "6",
+        "page_or_article_number": {
+          "volume": "60",
+          "issue": "6",
+          "first_page": "1148",
+          "last_page": "1162"
+        },
+        "dates": {
+          "publication_date_secondary_index": "2017-06-16"
+        },
+        "title_observed": [
+          "Mission planning for on-orbit servicing through multiple servicing satellites: A new approach"
+        ],
+        "human_verified": false
+      },
+      "manuscript_role": "多服务星选择与转移耦合",
+      "current_access_observation": "出版预览/Section snippets；无完整优化定义和数值结果正文。",
+      "current_discovery": {
+        "ref": 69,
+        "doi": "10.1016/j.asr.2017.05.037",
+        "url": "https://api.openalex.org/works/https://doi.org/10.1016/j.asr.2017.05.037",
+        "http_status": 200,
+        "obtained": true,
+        "sha256": "c55d546cd8ce2e91172255807c04d7a79056d825845c0f24776db511d9b1276a",
+        "title": "Mission planning for on-orbit servicing through multiple servicing satellites: A new approach",
+        "oa": {
+          "is_oa": false,
+          "oa_status": "closed",
+          "oa_url": null,
+          "any_repository_has_fulltext": false
+        },
+        "locations": [
+          {
+            "landing_page_url": "https://doi.org/10.1016/j.asr.2017.05.037",
+            "pdf_url": null,
+            "version": "publishedVersion",
+            "is_oa": false,
+            "source": {
+              "id": "https://openalex.org/S113313948",
+              "display_name": "Advances in Space Research",
+              "issn_l": "0273-1177",
+              "issn": [
+                "0273-1177",
+                "1879-1948"
+              ],
+              "is_oa": false,
+              "is_in_doaj": false,
+              "is_core": true,
+              "listed_in": [
+                "cwts-core",
+                "dongbi-c",
+                "jufo-1",
+                "ki-jl-1",
+                "norway-1",
+                "poland-70",
+                "russia-white-list-1",
+                "vabb-shw"
+              ],
+              "host_organization": "https://openalex.org/P4310320990",
+              "host_organization_name": "Elsevier BV",
+              "host_organization_lineage": [
+                "https://openalex.org/P4310320990"
+              ],
+              "host_organization_lineage_names": [
+                "Elsevier BV"
+              ],
+              "type": "journal"
+            }
+          }
+        ]
+      },
+      "candidate_URLs": [
+        "https://www.sciencedirect.com/science/article/pii/S0273117717303824",
+        "https://doi.org/10.1016/j.asr.2017.05.037"
+      ],
+      "URL_list_is_not_proof_of_reading": true,
+      "availability_capture_receipts": [
+        {
+          "external_path": "D:\\SKT727\\materials\\constellation_review_B08_20261016\\SEARCH_17.txt",
+          "bytes": 37484,
+          "sha256": "bd1d2e302ab8c95822438681d044e20757350f4da89e5bef0195f08757453b60"
+        }
+      ],
+      "body_reading_completed_this_batch": false,
+      "new_unique_targeted_addition": false,
+      "version_identity": "no_new_body_copy_obtained",
+      "author_version_relation_proven": false,
+      "formal_version_parity_closed": false,
+      "local_pdf_path": null,
+      "physical_pdf_pages": null,
+      "PDF_bytes": null,
+      "PDF_sha256": null,
+      "PDF_text_extractable": null,
+      "actual_page_review_performed": false,
+      "formula_table_figure_review_pending": true,
+      "remaining_reading_material": "核初始轨道、相位、Lambert转移、服务顺序以及小规模示例的适用性。",
+      "priority": "ordered_pending",
+      "human_verified": false,
+      "submission_ready": false
+    },
+    {
+      "sequence_position": 20,
+      "reference_number": 70,
+      "doi": "10.1016/j.asr.2024.05.059",
+      "doi_url": "https://doi.org/10.1016/j.asr.2024.05.059",
+      "english_title_frozen_index": "GEO satellite on-orbit refueling and debris removal hybrid mission planning under uncertainty",
+      "chinese_translation": "不确定条件下GEO卫星在轨加注与碎片移除混合任务规划",
+      "metadata": {
+        "status": "inherited_B07_primary_Crossref_not_new_verification",
+        "metadata_url": "https://api.crossref.org/works/10.1016/j.asr.2024.05.059",
+        "snapshot": {
+          "external_path": "D:\\SKT727\\materials\\constellation_review_B07_20261016\\070_crossref.json",
+          "bytes": 15834,
+          "sha256": "ed6ec60a2c02ad82a5feb30c69a2f61ba8fcffb8a24a23c8c3b63fec1c427dc8"
+        },
+        "authors": [
+          "Weikui Liang",
+          "Hui Zhi",
+          "Peng Han",
+          "Guangtao Ran",
+          "Guangfu Ma",
+          "Yanning Guo"
+        ],
+        "container_titles": [
+          "Advances in Space Research"
+        ],
+        "volume": "74",
+        "issue": "5",
+        "page_or_article_number": "2376-2387",
+        "dates": {
+          "issued": {
+            "date-parts": [
+              [
+                2024,
+                9
+              ]
+            ]
+          },
+          "published": {
+            "date-parts": [
+              [
+                2024,
+                9
+              ]
+            ]
+          },
+          "published-print": {
+            "date-parts": [
+              [
+                2024,
+                9
+              ]
+            ]
+          }
+        },
+        "title_observed": [
+          "GEO satellite on-orbit refueling and debris removal hybrid mission planning under uncertainty"
+        ],
+        "human_verified": false
+      },
+      "manuscript_role": "随机期望与鲁棒表达",
+      "current_access_observation": "出版摘要、引言与片段；未取得模型及实验全文。",
+      "current_discovery": {
+        "ref": 70,
+        "doi": "10.1016/j.asr.2024.05.059",
+        "url": "https://api.openalex.org/works/https://doi.org/10.1016/j.asr.2024.05.059",
+        "http_status": 200,
+        "obtained": true,
+        "sha256": "a111b86759708ee36fc0e1b20bf6c9217b6ac67134f169c6ad1eb38844605d11",
+        "title": "GEO satellite on-orbit refueling and debris removal hybrid mission planning under uncertainty",
+        "oa": {
+          "is_oa": false,
+          "oa_status": "closed",
+          "oa_url": null,
+          "any_repository_has_fulltext": false
+        },
+        "locations": [
+          {
+            "landing_page_url": "https://doi.org/10.1016/j.asr.2024.05.059",
+            "pdf_url": null,
+            "version": "publishedVersion",
+            "is_oa": false,
+            "source": {
+              "id": "https://openalex.org/S113313948",
+              "display_name": "Advances in Space Research",
+              "issn_l": "0273-1177",
+              "issn": [
+                "0273-1177",
+                "1879-1948"
+              ],
+              "is_oa": false,
+              "is_in_doaj": false,
+              "is_core": true,
+              "listed_in": [
+                "cwts-core",
+                "dongbi-c",
+                "jufo-1",
+                "ki-jl-1",
+                "norway-1",
+                "poland-70",
+                "russia-white-list-1",
+                "vabb-shw"
+              ],
+              "host_organization": "https://openalex.org/P4310320990",
+              "host_organization_name": "Elsevier BV",
+              "host_organization_lineage": [
+                "https://openalex.org/P4310320990"
+              ],
+              "host_organization_lineage_names": [
+                "Elsevier BV"
+              ],
+              "type": "journal"
+            }
+          }
+        ]
+      },
+      "candidate_URLs": [
+        "https://www.sciencedirect.com/science/article/abs/pii/S0273117724005258",
+        "https://doi.org/10.1016/j.asr.2024.05.059"
+      ],
+      "URL_list_is_not_proof_of_reading": true,
+      "availability_capture_receipts": [
+        {
+          "external_path": "D:\\SKT727\\materials\\constellation_review_B08_20261016\\SEARCH_18_2.txt",
+          "bytes": 35198,
+          "sha256": "63849e8c47943a3347a70990d0dcd27060f207422398f9ef4e29aaba14709ee8"
+        }
+      ],
+      "body_reading_completed_this_batch": false,
+      "new_unique_targeted_addition": false,
+      "version_identity": "no_new_body_copy_obtained",
+      "author_version_relation_proven": false,
+      "formal_version_parity_closed": false,
+      "local_pdf_path": null,
+      "physical_pdf_pages": null,
+      "PDF_bytes": null,
+      "PDF_sha256": null,
+      "PDF_text_extractable": null,
+      "actual_page_review_performed": false,
+      "formula_table_figure_review_pending": true,
+      "remaining_reading_material": "核质量/燃料不确定量、两阶段转移、情景/集合、收益定义和算法。",
+      "priority": "ordered_pending",
+      "human_verified": false,
+      "submission_ready": false
+    },
+    {
+      "sequence_position": 21,
+      "reference_number": 83,
+      "doi": "10.1016/j.asr.2021.04.042",
+      "doi_url": "https://doi.org/10.1016/j.asr.2021.04.042",
+      "english_title_frozen_index": "Risk-aware sensor scheduling and tracking of large constellations",
+      "chinese_translation": "大型星座的风险感知传感器调度与跟踪",
+      "metadata": {
+        "status": "inherited_B07_primary_Crossref_not_new_verification",
+        "metadata_url": "https://api.crossref.org/works/10.1016/j.asr.2021.04.042",
+        "snapshot": {
+          "external_path": "D:\\SKT727\\materials\\constellation_review_B07_20261016\\083_crossref.json",
+          "bytes": 16471,
+          "sha256": "802492917c376c52a73ab02c6cd4b4ea5896b0606845c3dfd9b49857daf773f1"
+        },
+        "authors": [
+          "Nicholas Ravago",
+          "Brandon A. Jones"
+        ],
+        "container_titles": [
+          "Advances in Space Research"
+        ],
+        "volume": "68",
+        "issue": "6",
+        "page_or_article_number": "2530-2550",
+        "dates": {
+          "issued": {
+            "date-parts": [
+              [
+                2021,
+                9
+              ]
+            ]
+          },
+          "published": {
+            "date-parts": [
+              [
+                2021,
+                9
+              ]
+            ]
+          },
+          "published-print": {
+            "date-parts": [
+              [
+                2021,
+                9
+              ]
+            ]
+          }
+        },
+        "title_observed": [
+          "Risk-aware sensor scheduling and tracking of large constellations"
+        ],
+        "human_verified": false
+      },
+      "manuscript_role": "风险输入质量与传感器分配",
+      "current_access_observation": "出版索引有View Open Manuscript但非已读正文；B07完整页面403；ResearchGate无公开全文。",
+      "current_discovery": {
+        "ref": 83,
+        "doi": "10.1016/j.asr.2021.04.042",
+        "url": "https://api.openalex.org/works/https://doi.org/10.1016/j.asr.2021.04.042",
+        "http_status": 200,
+        "obtained": true,
+        "sha256": "a3e83fbc8e0e9cdfa84f50fd2b75e0b1747ba4da13c0743b8e0dedd334e32ab1",
+        "title": "Risk-aware sensor scheduling and tracking of large constellations",
+        "oa": {
+          "is_oa": true,
+          "oa_status": "bronze",
+          "oa_url": "https://doi.org/10.1016/j.asr.2021.04.042",
+          "any_repository_has_fulltext": false
+        },
+        "locations": [
+          {
+            "landing_page_url": "https://doi.org/10.1016/j.asr.2021.04.042",
+            "pdf_url": null,
+            "version": "acceptedVersion",
+            "is_oa": true,
+            "source": {
+              "id": "https://openalex.org/S113313948",
+              "display_name": "Advances in Space Research",
+              "issn_l": "0273-1177",
+              "issn": [
+                "0273-1177",
+                "1879-1948"
+              ],
+              "is_oa": false,
+              "is_in_doaj": false,
+              "is_core": true,
+              "listed_in": [
+                "cwts-core",
+                "jufo-1",
+                "ki-jl-1",
+                "norway-1"
+              ],
+              "host_organization": "https://openalex.org/P4310320990",
+              "host_organization_name": "Elsevier BV",
+              "host_organization_lineage": [
+                "https://openalex.org/P4310320990"
+              ],
+              "host_organization_lineage_names": [
+                "Elsevier BV"
+              ],
+              "type": "journal"
+            }
+          }
+        ]
+      },
+      "candidate_URLs": [
+        "https://www.sciencedirect.com/science/article/pii/S0273117721003410",
+        "https://doi.org/10.1016/j.asr.2021.04.042"
+      ],
+      "URL_list_is_not_proof_of_reading": true,
+      "availability_capture_receipts": [
+        {
+          "external_path": "D:\\SKT727\\materials\\constellation_review_B08_20261016\\SEARCH_12.txt",
+          "bytes": 33258,
+          "sha256": "2cb7368798803cf5ece66312f7828ca185bd3c414cfad2b2e43d3d1bbc79d7c0"
+        }
+      ],
+      "body_reading_completed_this_batch": false,
+      "new_unique_targeted_addition": false,
+      "version_identity": "no_new_body_copy_obtained",
+      "author_version_relation_proven": false,
+      "formal_version_parity_closed": false,
+      "local_pdf_path": null,
+      "physical_pdf_pages": null,
+      "PDF_bytes": null,
+      "PDF_sha256": null,
+      "PDF_text_extractable": null,
+      "actual_page_review_performed": false,
+      "formula_table_figure_review_pending": true,
+      "remaining_reading_material": "核信息增益/风险奖励、LMB滤波、目标数、筛查范围、13小时总时及漏检评价。",
+      "priority": "ordered_pending",
+      "human_verified": false,
+      "submission_ready": false
+    },
+    {
+      "sequence_position": 22,
+      "reference_number": 90,
+      "doi": "10.2514/1.29590",
+      "doi_url": "https://doi.org/10.2514/1.29590",
+      "english_title_frozen_index": "Safe Trajectories for Autonomous Rendezvous of Spacecraft",
+      "chinese_translation": "航天器自主交会的安全轨迹",
+      "metadata": {
+        "status": "inherited_B07_primary_Crossref_not_new_verification",
+        "metadata_url": "https://api.crossref.org/works/10.2514/1.29590",
+        "snapshot": {
+          "external_path": "D:\\SKT727\\materials\\constellation_review_B07_20261016\\090_crossref.json",
+          "bytes": 6280,
+          "sha256": "7d32c74edaccee530355dfe7c79276ed1bf933d3e603453a30344703b8a31019"
+        },
+        "authors": [
+          "Louis Breger",
+          "Jonathan P. How"
+        ],
+        "container_titles": [
+          "Journal of Guidance, Control, and Dynamics"
+        ],
+        "volume": "31",
+        "issue": "5",
+        "page_or_article_number": "1478-1489",
+        "dates": {
+          "issued": {
+            "date-parts": [
+              [
+                2008,
+                9
+              ]
+            ]
+          },
+          "published": {
+            "date-parts": [
+              [
+                2008,
+                9
+              ]
+            ]
+          },
+          "published-print": {
+            "date-parts": [
+              [
+                2008,
+                9
+              ]
+            ]
+          }
+        },
+        "title_observed": [
+          "Safe Trajectories for Autonomous Rendezvous of Spacecraft"
+        ],
+        "human_verified": false
+      },
+      "manuscript_role": "被动安全与轨迹约束",
+      "current_access_observation": "作者MIT目录列有2008期刊文但无PDF链接；明确另列2006会议文。沿用B07未配对排除项。",
+      "current_discovery": {
+        "ref": 90,
+        "doi": "10.2514/1.29590",
+        "url": "https://api.openalex.org/works/https://doi.org/10.2514/1.29590",
+        "http_status": 200,
+        "obtained": true,
+        "sha256": "95b33e0535abfff9d110c9fce571598366227454cdfa8e90860b573555c23a86",
+        "title": "Safe Trajectories for Autonomous Rendezvous of Spacecraft",
+        "oa": {
+          "is_oa": false,
+          "oa_status": "closed",
+          "oa_url": null,
+          "any_repository_has_fulltext": false
+        },
+        "locations": [
+          {
+            "landing_page_url": "https://doi.org/10.2514/1.29590",
+            "pdf_url": null,
+            "version": "publishedVersion",
+            "is_oa": false,
+            "source": {
+              "id": "https://openalex.org/S25157213",
+              "display_name": "Journal of Guidance Control and Dynamics",
+              "issn_l": "0731-5090",
+              "issn": [
+                "0731-5090",
+                "1533-3884"
+              ],
+              "is_oa": false,
+              "is_in_doaj": false,
+              "is_core": true,
+              "listed_in": [
+                "cwts-core",
+                "dongbi-b",
+                "jufo-2",
+                "norway-1",
+                "poland-140",
+                "russia-white-list-1"
+              ],
+              "host_organization": "https://openalex.org/P4310315709",
+              "host_organization_name": "American Institute of Aeronautics and Astronautics",
+              "host_organization_lineage": [
+                "https://openalex.org/P4310315709"
+              ],
+              "host_organization_lineage_names": [
+                "American Institute of Aeronautics and Astronautics"
+              ],
+              "type": "journal"
+            }
+          },
+          {
+            "landing_page_url": "http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.212.7225",
+            "pdf_url": null,
+            "version": "submittedVersion",
+            "is_oa": false,
+            "source": null
+          }
+        ]
+      },
+      "candidate_URLs": [
+        "https://acl.mit.edu/publications/",
+        "https://doi.org/10.2514/1.29590",
+        "http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.212.7225"
+      ],
+      "URL_list_is_not_proof_of_reading": true,
+      "availability_capture_receipts": [
+        {
+          "external_path": "D:\\SKT727\\materials\\constellation_review_B08_20261016\\SEARCH_11.txt",
+          "bytes": 26821,
+          "sha256": "ca65a4de280bb0d6c6a5348a0daf9e148fbe73b57e07762f9817db929c66025f"
+        }
+      ],
+      "body_reading_completed_this_batch": false,
+      "new_unique_targeted_addition": false,
+      "version_identity": "no_new_body_copy_obtained",
+      "author_version_relation_proven": false,
+      "formal_version_parity_closed": false,
+      "local_pdf_path": null,
+      "physical_pdf_pages": null,
+      "PDF_bytes": null,
+      "PDF_sha256": null,
+      "PDF_text_extractable": null,
+      "actual_page_review_performed": false,
+      "formula_table_figure_review_pending": true,
+      "remaining_reading_material": "取得1478—1489页目标期刊正文，证明其与17页会议式稿件的关系后再使用特定公式结果。",
+      "priority": "ordered_pending",
+      "human_verified": false,
+      "submission_ready": false
+    },
+    {
+      "sequence_position": 23,
+      "reference_number": 94,
+      "doi": "10.1016/j.ast.2025.111237",
+      "doi_url": "https://doi.org/10.1016/j.ast.2025.111237",
+      "english_title_frozen_index": "Chance-constrained visual servoing MPC for non-cooperative spacecraft rendezvous",
+      "chinese_translation": "非合作航天器交会的机会约束视觉伺服模型预测控制",
+      "metadata": {
+        "status": "inherited_B07_primary_Crossref_not_new_verification",
+        "metadata_url": "https://api.crossref.org/works/10.1016/j.ast.2025.111237",
+        "snapshot": {
+          "external_path": "D:\\SKT727\\materials\\constellation_review_B07_20261016\\094_crossref.json",
+          "bytes": 17426,
+          "sha256": "5ec87eadb8727dc76639cd4abe8bedb602e6c9f91bbdd21b3a1a3c1d558922af"
+        },
+        "authors": [
+          "Zhenbo Zhao",
+          "Fan Wu",
+          "Jian Chen"
+        ],
+        "container_titles": [
+          "Aerospace Science and Technology"
+        ],
+        "volume": "169",
+        "issue": null,
+        "page_or_article_number": "111237",
+        "dates": {
+          "issued": {
+            "date-parts": [
+              [
+                2026,
+                2
+              ]
+            ]
+          },
+          "published": {
+            "date-parts": [
+              [
+                2026,
+                2
+              ]
+            ]
+          },
+          "published-print": {
+            "date-parts": [
+              [
+                2026,
+                2
+              ]
+            ]
+          }
+        },
+        "title_observed": [
+          "Chance-constrained visual servoing MPC for non-cooperative spacecraft rendezvous"
+        ],
+        "human_verified": false
+      },
+      "manuscript_role": "视觉反馈与概率约束",
+      "current_access_observation": "发现SSRN 5561401公开入口及20页声明，实际公开Delivery普通GET403；无PDF。",
+      "current_discovery": {
+        "ref": 94,
+        "doi": "10.1016/j.ast.2025.111237",
+        "url": "https://api.openalex.org/works/https://doi.org/10.1016/j.ast.2025.111237",
+        "http_status": 200,
+        "obtained": true,
+        "sha256": "7d3e3511753e123591bb946a3d44f86861eab3e6040e18f3c6a1b10378da9b4c",
+        "title": "Chance-constrained visual servoing MPC for non-cooperative spacecraft rendezvous",
+        "oa": {
+          "is_oa": true,
+          "oa_status": "green",
+          "oa_url": "https://doi.org/10.2139/ssrn.5561401",
+          "any_repository_has_fulltext": true
+        },
+        "locations": [
+          {
+            "landing_page_url": "https://doi.org/10.1016/j.ast.2025.111237",
+            "pdf_url": null,
+            "version": "publishedVersion",
+            "is_oa": false,
+            "source": {
+              "id": "https://openalex.org/S61564791",
+              "display_name": "Aerospace Science and Technology",
+              "issn_l": "1270-9638",
+              "issn": [
+                "1270-9638",
+                "1626-3219"
+              ],
+              "is_oa": false,
+              "is_in_doaj": false,
+              "is_core": true,
+              "listed_in": [
+                "anvur-scientific",
+                "cwts-core",
+                "dongbi-b",
+                "jufo-1",
+                "ki-jl-1",
+                "norway-1",
+                "poland-200",
+                "russia-white-list-1"
+              ],
+              "host_organization": "https://openalex.org/P4310320990",
+              "host_organization_name": "Elsevier BV",
+              "host_organization_lineage": [
+                "https://openalex.org/P4310320990"
+              ],
+              "host_organization_lineage_names": [
+                "Elsevier BV"
+              ],
+              "type": "journal"
+            }
+          },
+          {
+            "landing_page_url": "https://doi.org/10.2139/ssrn.5561401",
+            "pdf_url": null,
+            "version": "acceptedVersion",
+            "is_oa": true,
+            "source": {
+              "id": "https://openalex.org/S4210172589",
+              "display_name": "SSRN Electronic Journal",
+              "issn_l": "1556-5068",
+              "issn": [
+                "1556-5068"
+              ],
+              "is_oa": true,
+              "is_in_doaj": false,
+              "is_core": false,
+              "listed_in": [],
+              "host_organization": "https://openalex.org/I1318003438",
+              "host_organization_name": "RELX Group (Netherlands)",
+              "host_organization_lineage": [
+                "https://openalex.org/I1318003438"
+              ],
+              "host_organization_lineage_names": [],
+              "type": "repository"
+            }
+          }
+        ]
+      },
+      "candidate_URLs": [
+        "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5561401",
+        "https://doi.org/10.1016/j.ast.2025.111237",
+        "https://doi.org/10.2139/ssrn.5561401"
+      ],
+      "URL_list_is_not_proof_of_reading": true,
+      "availability_capture_receipts": [
+        {
+          "external_path": "D:\\SKT727\\materials\\constellation_review_B08_20261016\\SEARCH_13.txt",
+          "bytes": 33928,
+          "sha256": "e8cf8eaf6878335117cfee8ea9c4a81580940345ce4894dec6d205ace44c2047"
+        }
+      ],
+      "body_reading_completed_this_batch": false,
+      "new_unique_targeted_addition": false,
+      "version_identity": "no_new_body_copy_obtained",
+      "author_version_relation_proven": false,
+      "formal_version_parity_closed": false,
+      "local_pdf_path": null,
+      "physical_pdf_pages": null,
+      "PDF_bytes": null,
+      "PDF_sha256": null,
+      "PDF_text_extractable": null,
+      "actual_page_review_performed": false,
+      "formula_table_figure_review_pending": true,
+      "remaining_reading_material": "核扰动估计、概率界前提、图像空间约束、Monte Carlo协议及正式版本关系。",
+      "priority": "ordered_pending",
+      "human_verified": false,
+      "submission_ready": false
+    },
+    {
+      "sequence_position": 24,
+      "reference_number": 99,
+      "doi": "10.1016/j.actaastro.2020.12.012",
+      "doi_url": "https://doi.org/10.1016/j.actaastro.2020.12.012",
+      "english_title_frozen_index": "Imbalanced satellite telemetry data anomaly detection model based on Bayesian LSTM",
+      "chinese_translation": "基于贝叶斯LSTM的不平衡卫星遥测数据异常检测模型",
+      "metadata": {
+        "status": "inherited_B07_primary_Crossref_not_new_verification",
+        "metadata_url": "https://api.crossref.org/works/10.1016/j.actaastro.2020.12.012",
+        "snapshot": {
+          "external_path": "D:\\SKT727\\materials\\constellation_review_B07_20261016\\099_crossref.json",
+          "bytes": 13027,
+          "sha256": "edbc52e7feeea61b6fd2a242a6f5c70dafc62e9e056632183940caa4fe6e0669"
+        },
+        "authors": [
+          "Junfu Chen",
+          "Dechang Pi",
+          "Zhiyuan Wu",
+          "Xiaodong Zhao",
+          "Yue Pan",
+          "Qiang Zhang"
+        ],
+        "container_titles": [
+          "Acta Astronautica"
+        ],
+        "volume": "180",
+        "issue": null,
+        "page_or_article_number": "232-242",
+        "dates": {
+          "issued": {
+            "date-parts": [
+              [
+                2021,
+                3
+              ]
+            ]
+          },
+          "published": {
+            "date-parts": [
+              [
+                2021,
+                3
+              ]
+            ]
+          },
+          "published-print": {
+            "date-parts": [
+              [
+                2021,
+                3
+              ]
+            ]
+          }
+        },
+        "title_observed": [
+          "Imbalanced satellite telemetry data anomaly detection model based on Bayesian LSTM"
+        ],
+        "human_verified": false
+      },
+      "manuscript_role": "预测不确定性与异常线索",
+      "current_access_observation": "出版摘要、引言与Section snippets；未取得完整方法/数据/结果。",
+      "current_discovery": {
+        "ref": 99,
+        "doi": "10.1016/j.actaastro.2020.12.012",
+        "url": "https://api.openalex.org/works/https://doi.org/10.1016/j.actaastro.2020.12.012",
+        "http_status": 200,
+        "obtained": true,
+        "sha256": "fc2b1bdb1b1d91057b625ee9386b66b2310418ac99ea08a0faf15dc59716560a",
+        "title": "Imbalanced satellite telemetry data anomaly detection model based on Bayesian LSTM",
+        "oa": {
+          "is_oa": false,
+          "oa_status": "closed",
+          "oa_url": null,
+          "any_repository_has_fulltext": false
+        },
+        "locations": [
+          {
+            "landing_page_url": "https://doi.org/10.1016/j.actaastro.2020.12.012",
+            "pdf_url": null,
+            "version": "publishedVersion",
+            "is_oa": false,
+            "source": {
+              "id": "https://openalex.org/S179591353",
+              "display_name": "Acta Astronautica",
+              "issn_l": "0094-5765",
+              "issn": [
+                "0094-5765",
+                "1879-2030"
+              ],
+              "is_oa": false,
+              "is_in_doaj": false,
+              "is_core": true,
+              "listed_in": [
+                "anvur-scientific",
+                "cwts-core",
+                "dongbi-a",
+                "jufo-1",
+                "norway-1",
+                "poland-140",
+                "russia-white-list-1",
+                "vabb-shw"
+              ],
+              "host_organization": "https://openalex.org/P4310320990",
+              "host_organization_name": "Elsevier BV",
+              "host_organization_lineage": [
+                "https://openalex.org/P4310320990"
+              ],
+              "host_organization_lineage_names": [
+                "Elsevier BV"
+              ],
+              "type": "journal"
+            }
+          }
+        ]
+      },
+      "candidate_URLs": [
+        "https://www.sciencedirect.com/science/article/pii/S0094576520307463",
+        "https://doi.org/10.1016/j.actaastro.2020.12.012"
+      ],
+      "URL_list_is_not_proof_of_reading": true,
+      "availability_capture_receipts": [
+        {
+          "external_path": "D:\\SKT727\\materials\\constellation_review_B08_20261016\\SEARCH_16_1.txt",
+          "bytes": 34879,
+          "sha256": "3191676f79e179afb739ce6a6ec6ced483480a741765fd6be14f10cebb50c748"
+        }
+      ],
+      "body_reading_completed_this_batch": false,
+      "new_unique_targeted_addition": false,
+      "version_identity": "no_new_body_copy_obtained",
+      "author_version_relation_proven": false,
+      "formal_version_parity_closed": false,
+      "local_pdf_path": null,
+      "physical_pdf_pages": null,
+      "PDF_bytes": null,
+      "PDF_sha256": null,
+      "PDF_text_extractable": null,
+      "actual_page_review_performed": false,
+      "formula_table_figure_review_pending": true,
+      "remaining_reading_material": "核MC-dropout、三种不确定性、VAE复评、数据不平衡和指标/划分协议。",
+      "priority": "ordered_pending",
+      "human_verified": false,
+      "submission_ready": false
+    },
+    {
+      "sequence_position": 25,
+      "reference_number": 100,
+      "doi": "10.1016/j.actaastro.2026.07.065",
+      "doi_url": "https://doi.org/10.1016/j.actaastro.2026.07.065",
+      "english_title_frozen_index": "Validation-gated continual learning for anomaly detection in satellite telemetry",
+      "chinese_translation": "面向卫星遥测异常检测的验证门控持续学习",
+      "metadata": {
+        "status": "inherited_B07_primary_Crossref_not_new_verification",
+        "metadata_url": "https://api.crossref.org/works/10.1016/j.actaastro.2026.07.065",
+        "snapshot": {
+          "external_path": "D:\\SKT727\\materials\\constellation_review_B07_20261016\\100_crossref.json",
+          "bytes": 17916,
+          "sha256": "bc300504de07771769538658e704c7eb8412381112c7406f9053b9285e168ae5"
+        },
+        "authors": [
+          "Nils Kuhn",
+          "Bruno Sánchez Gómez",
+          "Natalia Moreno Blasco",
+          "Polona Caserman",
+          "Federico Antonello"
+        ],
+        "container_titles": [
+          "Acta Astronautica"
+        ],
+        "volume": "249",
+        "issue": null,
+        "page_or_article_number": "971-985",
+        "dates": {
+          "issued": {
+            "date-parts": [
+              [
+                2026,
+                12
+              ]
+            ]
+          },
+          "published": {
+            "date-parts": [
+              [
+                2026,
+                12
+              ]
+            ]
+          },
+          "published-print": {
+            "date-parts": [
+              [
+                2026,
+                12
+              ]
+            ]
+          }
+        },
+        "title_observed": [
+          "Validation-gated continual learning for anomaly detection in satellite telemetry"
+        ],
+        "human_verified": false
+      },
+      "manuscript_role": "模型更新、验证与部署边界",
+      "current_access_observation": "出版预览未含完整方法；另实际取得作者仓库固定提交的10个文本文件，进行选定代码路径静态核查，单独留痕且不升级论文精读。",
+      "current_discovery": {
+        "ref": 100,
+        "doi": "10.1016/j.actaastro.2026.07.065",
+        "url": "https://api.openalex.org/works/https://doi.org/10.1016/j.actaastro.2026.07.065",
+        "http_status": 200,
+        "obtained": true,
+        "sha256": "82984d691dad1a1495056431ff2ad55854d4f8b5347a803917b5a2cec2ceba26",
+        "title": "Validation-gated continual learning for anomaly detection in satellite telemetry",
+        "oa": {
+          "is_oa": false,
+          "oa_status": "closed",
+          "oa_url": null,
+          "any_repository_has_fulltext": false
+        },
+        "locations": [
+          {
+            "landing_page_url": "https://doi.org/10.1016/j.actaastro.2026.07.065",
+            "pdf_url": null,
+            "version": "publishedVersion",
+            "is_oa": false,
+            "source": {
+              "id": "https://openalex.org/S179591353",
+              "display_name": "Acta Astronautica",
+              "issn_l": "0094-5765",
+              "issn": [
+                "0094-5765",
+                "1879-2030"
+              ],
+              "is_oa": false,
+              "is_in_doaj": false,
+              "is_core": true,
+              "listed_in": [
+                "cwts-core",
+                "jufo-1",
+                "norway-1"
+              ],
+              "host_organization": "https://openalex.org/P4310320990",
+              "host_organization_name": "Elsevier BV",
+              "host_organization_lineage": [
+                "https://openalex.org/P4310320990"
+              ],
+              "host_organization_lineage_names": [
+                "Elsevier BV"
+              ],
+              "type": "journal"
+            }
+          }
+        ]
+      },
+      "candidate_URLs": [
+        "https://www.sciencedirect.com/science/article/pii/S0094576526005187",
+        "https://doi.org/10.1016/j.actaastro.2026.07.065"
+      ],
+      "URL_list_is_not_proof_of_reading": true,
+      "availability_capture_receipts": [
+        {
+          "external_path": "D:\\SKT727\\materials\\constellation_review_B08_20261016\\SEARCH_18_0.txt",
+          "bytes": 34895,
+          "sha256": "c31a4892991d5e29f8d73f535f70b52e8789482ebf19107311cb01d09a2ece77"
+        }
+      ],
+      "body_reading_completed_this_batch": false,
+      "new_unique_targeted_addition": false,
+      "version_identity": "no_new_body_copy_obtained",
+      "author_version_relation_proven": false,
+      "formal_version_parity_closed": false,
+      "local_pdf_path": null,
+      "physical_pdf_pages": null,
+      "PDF_bytes": null,
+      "PDF_sha256": null,
+      "PDF_text_extractable": null,
+      "actual_page_review_performed": false,
+      "formula_table_figure_review_pending": true,
+      "remaining_reading_material": "仍需正式PDF/完整HTML，核论文门控定义与代码配置、数据标签可得性和评价协议。",
+      "priority": "ordered_pending",
+      "human_verified": false,
+      "submission_ready": false
+    },
+    {
+      "sequence_position": 26,
+      "reference_number": 103,
+      "doi": "10.2514/1.I011208",
+      "doi_url": "https://doi.org/10.2514/1.I011208",
+      "english_title_frozen_index": "Resilient Autonomous Mission Management for Decentralized Multispacecraft Missions",
+      "chinese_translation": "面向去中心化多航天器任务的韧性自主任务管理",
+      "metadata": {
+        "status": "inherited_B07_primary_Crossref_not_new_verification",
+        "metadata_url": "https://api.crossref.org/works/10.2514/1.I011208",
+        "snapshot": {
+          "external_path": "D:\\SKT727\\materials\\constellation_review_B07_20261016\\103_crossref.json",
+          "bytes": 5750,
+          "sha256": "f617f599cbbe2898de1580ae001d12ff58e7f56d309a87acbe70c9a1f5a407e2"
+        },
+        "authors": [
+          "Antony Gillette",
+          "Alan George"
+        ],
+        "container_titles": [
+          "Journal of Aerospace Information Systems"
+        ],
+        "volume": "20",
+        "issue": "7",
+        "page_or_article_number": "387-397",
+        "dates": {
+          "issued": {
+            "date-parts": [
+              [
+                2023,
+                7
+              ]
+            ]
+          },
+          "published": {
+            "date-parts": [
+              [
+                2023,
+                7
+              ]
+            ]
+          },
+          "published-print": {
+            "date-parts": [
+              [
+                2023,
+                7
+              ]
+            ]
+          }
+        },
+        "title_observed": [
+          "Resilient Autonomous Mission Management for Decentralized Multispacecraft Missions"
+        ],
+        "human_verified": false
+      },
+      "manuscript_role": "任务执行、应急计划和软件验证",
+      "current_access_observation": "出版及ResearchGate摘要，后者无全文；相关作者博士论文下载403，未用论文章节替代期刊。",
+      "current_discovery": {
+        "ref": 103,
+        "doi": "10.2514/1.I011208",
+        "url": "https://api.openalex.org/works/https://doi.org/10.2514/1.I011208",
+        "http_status": 200,
+        "obtained": true,
+        "sha256": "e20c7c56eecbd33c244526509f913def1f6f735642817df316ddc6213a00bba4",
+        "title": "Resilient Autonomous Mission Management for Decentralized Multispacecraft Missions",
+        "oa": {
+          "is_oa": false,
+          "oa_status": "closed",
+          "oa_url": null,
+          "any_repository_has_fulltext": false
+        },
+        "locations": [
+          {
+            "landing_page_url": "https://doi.org/10.2514/1.i011208",
+            "pdf_url": null,
+            "version": "publishedVersion",
+            "is_oa": false,
+            "source": {
+              "id": "https://openalex.org/S4210240151",
+              "display_name": "Journal of Aerospace Information Systems",
+              "issn_l": "2327-3097",
+              "issn": [
+                "2327-3097"
+              ],
+              "is_oa": false,
+              "is_in_doaj": false,
+              "is_core": true,
+              "listed_in": [
+                "cwts-core",
+                "norway-1"
+              ],
+              "host_organization": "https://openalex.org/P4310315709",
+              "host_organization_name": "American Institute of Aeronautics and Astronautics",
+              "host_organization_lineage": [
+                "https://openalex.org/P4310315709"
+              ],
+              "host_organization_lineage_names": [
+                "American Institute of Aeronautics and Astronautics"
+              ],
+              "type": "journal"
+            }
+          }
+        ]
+      },
+      "candidate_URLs": [
+        "https://doi.org/10.2514/1.I011208",
+        "https://doi.org/10.2514/1.i011208"
+      ],
+      "URL_list_is_not_proof_of_reading": true,
+      "availability_capture_receipts": [
+        {
+          "external_path": "D:\\SKT727\\materials\\constellation_review_B08_20261016\\SEARCH_15_0.txt",
+          "bytes": 32867,
+          "sha256": "6a88099d36c128a31f86d46bf1d2c6770a4383610c996b3e4e1ff35dbea3e1d2"
+        }
+      ],
+      "body_reading_completed_this_batch": false,
+      "new_unique_targeted_addition": false,
+      "version_identity": "no_new_body_copy_obtained",
+      "author_version_relation_proven": false,
+      "formal_version_parity_closed": false,
+      "local_pdf_path": null,
+      "physical_pdf_pages": null,
+      "PDF_bytes": null,
+      "PDF_sha256": null,
+      "PDF_text_extractable": null,
+      "actual_page_review_performed": false,
+      "formula_table_figure_review_pending": true,
+      "remaining_reading_material": "核Schedule Manager的冲突/资源语义、分布式权限、故障类型和开发板验证范围。",
+      "priority": "ordered_pending",
+      "human_verified": false,
+      "submission_ready": false
+    },
+    {
+      "sequence_position": 27,
+      "reference_number": 104,
+      "doi": "10.1016/j.actaastro.2020.05.011",
+      "doi_url": "https://doi.org/10.1016/j.actaastro.2020.05.011",
+      "english_title_frozen_index": "RPRS: a reactive plan repair strategy for rapid response to plan failures of deep space missions",
+      "chinese_translation": "RPRS：面向深空任务计划失败快速响应的反应式计划修复策略",
+      "metadata": {
+        "status": "inherited_B07_primary_Crossref_not_new_verification",
+        "metadata_url": "https://api.crossref.org/works/10.1016/j.actaastro.2020.05.011",
+        "snapshot": {
+          "external_path": "D:\\SKT727\\materials\\constellation_review_B07_20261016\\104_crossref.json",
+          "bytes": 15294,
+          "sha256": "a0d30e7f9d90176b86c62c3ef523f5aebd6568dde77c73e7311880bd0d9c3fa1"
+        },
+        "authors": [
+          "Chao Chen",
+          "Rui Xu",
+          "Shengying Zhu",
+          "Zhaoyu Li",
+          "Huiping Jiang"
+        ],
+        "container_titles": [
+          "Acta Astronautica"
+        ],
+        "volume": "175",
+        "issue": null,
+        "page_or_article_number": "155-162",
+        "dates": {
+          "issued": {
+            "date-parts": [
+              [
+                2020,
+                10
+              ]
+            ]
+          },
+          "published": {
+            "date-parts": [
+              [
+                2020,
+                10
+              ]
+            ]
+          },
+          "published-print": {
+            "date-parts": [
+              [
+                2020,
+                10
+              ]
+            ]
+          }
+        },
+        "title_observed": [
+          "RPRS: a reactive plan repair strategy for rapid response to plan failures of deep space missions"
+        ],
+        "human_verified": false
+      },
+      "manuscript_role": "数值资源、逻辑条件和计划修复",
+      "current_access_observation": "出版摘要、引言和各方法开头片段；不等于算法与实验全貌。",
+      "current_discovery": {
+        "ref": 104,
+        "doi": "10.1016/j.actaastro.2020.05.011",
+        "url": "https://api.openalex.org/works/https://doi.org/10.1016/j.actaastro.2020.05.011",
+        "http_status": 200,
+        "obtained": true,
+        "sha256": "b0fed6821b9d96d6e8a6c7cee9b8fcc0ebd8a8f8c58744dedb33cadc1ee9b076",
+        "title": "RPRS: a reactive plan repair strategy for rapid response to plan failures of deep space missions",
+        "oa": {
+          "is_oa": false,
+          "oa_status": "closed",
+          "oa_url": null,
+          "any_repository_has_fulltext": false
+        },
+        "locations": [
+          {
+            "landing_page_url": "https://doi.org/10.1016/j.actaastro.2020.05.011",
+            "pdf_url": null,
+            "version": "publishedVersion",
+            "is_oa": false,
+            "source": {
+              "id": "https://openalex.org/S179591353",
+              "display_name": "Acta Astronautica",
+              "issn_l": "0094-5765",
+              "issn": [
+                "0094-5765",
+                "1879-2030"
+              ],
+              "is_oa": false,
+              "is_in_doaj": false,
+              "is_core": true,
+              "listed_in": [
+                "anvur-scientific",
+                "cwts-core",
+                "dongbi-a",
+                "jufo-1",
+                "norway-1",
+                "poland-140",
+                "russia-white-list-1",
+                "vabb-shw"
+              ],
+              "host_organization": "https://openalex.org/P4310320990",
+              "host_organization_name": "Elsevier BV",
+              "host_organization_lineage": [
+                "https://openalex.org/P4310320990"
+              ],
+              "host_organization_lineage_names": [
+                "Elsevier BV"
+              ],
+              "type": "journal"
+            }
+          }
+        ]
+      },
+      "candidate_URLs": [
+        "https://www.sciencedirect.com/science/article/abs/pii/S0094576520302940",
+        "https://doi.org/10.1016/j.actaastro.2020.05.011"
+      ],
+      "URL_list_is_not_proof_of_reading": true,
+      "availability_capture_receipts": [
+        {
+          "external_path": "D:\\SKT727\\materials\\constellation_review_B08_20261016\\SEARCH_16_3.txt",
+          "bytes": 37875,
+          "sha256": "eedc59405ec74f1d8bd2d74e0ba5c1a7f2b7e8e671cc267b8db714a789c99301"
+        }
+      ],
+      "body_reading_completed_this_batch": false,
+      "new_unique_targeted_addition": false,
+      "version_identity": "no_new_body_copy_obtained",
+      "author_version_relation_proven": false,
+      "formal_version_parity_closed": false,
+      "local_pdf_path": null,
+      "physical_pdf_pages": null,
+      "PDF_bytes": null,
+      "PDF_sha256": null,
+      "PDF_text_extractable": null,
+      "actual_page_review_performed": false,
+      "formula_table_figure_review_pending": true,
+      "remaining_reading_material": "核forwarding dock state、GRDR/TDPR、任务承诺、重排、IPC/火星车实例与时延。",
+      "priority": "ordered_pending",
+      "human_verified": false,
+      "submission_ready": false
+    },
+    {
+      "sequence_position": 28,
+      "reference_number": 110,
+      "doi": "10.2514/1.I010386",
+      "doi_url": "https://doi.org/10.2514/1.I010386",
+      "english_title_frozen_index": "Onboard Autonomy on the Intelligent Payload Experiment CubeSat Mission",
+      "chinese_translation": "智能载荷实验CubeSat任务的星上自主运行",
+      "metadata": {
+        "status": "secondary_OpenAlex_pending_primary_metadata",
+        "metadata_url": "https://api.openalex.org/works/https://doi.org/10.2514/1.I010386",
+        "snapshot": {
+          "external_path": "D:\\SKT727\\materials\\constellation_review_B08_20261016\\110_openalex.json",
+          "bytes": 21371,
+          "sha256": "7fdc117754dc98ed826733d1615e901264ae4ae6f22b3d87d8f161a7bd1cd159"
+        },
+        "authors": [
+          "Steve Chien",
+          "Joshua R. Doubleday",
+          "David Ray Thompson",
+          "Kiri L. Wagstaff",
+          "John M. Bellardo",
+          "C. Richard Francis",
+          "Eric Baumgarten",
+          "Austin Williams",
+          "Edmund Yee",
+          "Eric J. Stanton",
+          "Jordi Piug-Suari"
+        ],
+        "container_titles": [
+          "Journal of Aerospace Information Systems"
+        ],
+        "volume": "14",
+        "issue": "6",
+        "page_or_article_number": {
+          "volume": "14",
+          "issue": "6",
+          "first_page": "307",
+          "last_page": "315"
+        },
+        "dates": {
+          "publication_date_secondary_index": "2016-04-18"
+        },
+        "title_observed": [
+          "Onboard Autonomy on the Intelligent Payload Experiment CubeSat Mission"
+        ],
+        "human_verified": false
+      },
+      "manuscript_role": "IPEX单星在轨工程经验",
+      "current_access_observation": "出版/ScienceOpen摘要与JPL书目；JPL列出的2012/2014公开会议稿题名、作者和时间不同，不自动替代本期刊文。",
+      "current_discovery": {
+        "ref": 110,
+        "doi": "10.2514/1.I010386",
+        "url": "https://api.openalex.org/works/https://doi.org/10.2514/1.I010386",
+        "http_status": 200,
+        "obtained": true,
+        "sha256": "7fdc117754dc98ed826733d1615e901264ae4ae6f22b3d87d8f161a7bd1cd159",
+        "title": "Onboard Autonomy on the Intelligent Payload Experiment CubeSat Mission",
+        "oa": {
+          "is_oa": false,
+          "oa_status": "closed",
+          "oa_url": null,
+          "any_repository_has_fulltext": false
+        },
+        "locations": [
+          {
+            "landing_page_url": "https://doi.org/10.2514/1.i010386",
+            "pdf_url": null,
+            "version": "publishedVersion",
+            "is_oa": false,
+            "source": {
+              "id": "https://openalex.org/S4210240151",
+              "display_name": "Journal of Aerospace Information Systems",
+              "issn_l": "2327-3097",
+              "issn": [
+                "2327-3097"
+              ],
+              "is_oa": false,
+              "is_in_doaj": false,
+              "is_core": true,
+              "listed_in": [
+                "cwts-core",
+                "dongbi-b",
+                "norway-1",
+                "poland-100",
+                "russia-white-list-2"
+              ],
+              "host_organization": "https://openalex.org/P4310315709",
+              "host_organization_name": "American Institute of Aeronautics and Astronautics",
+              "host_organization_lineage": [
+                "https://openalex.org/P4310315709"
+              ],
+              "host_organization_lineage_names": [
+                "American Institute of Aeronautics and Astronautics"
+              ],
+              "type": "journal"
+            }
+          }
+        ]
+      },
+      "candidate_URLs": [
+        "https://www.scienceopen.com/document?vid=65ac954c-45d9-41da-a07e-8ee29d6b939d",
+        "https://doi.org/10.2514/1.i010386"
+      ],
+      "URL_list_is_not_proof_of_reading": true,
+      "availability_capture_receipts": [
+        {
+          "external_path": "D:\\SKT727\\materials\\constellation_review_B08_20261016\\SEARCH_10_LATER_ORDER.txt",
+          "bytes": 33812,
+          "sha256": "9ca82d96d405b699557ba5318932ae308471fbf88f9d8569e2a276e6d1aad3b4"
+        }
+      ],
+      "body_reading_completed_this_batch": false,
+      "new_unique_targeted_addition": false,
+      "version_identity": "no_new_body_copy_obtained",
+      "author_version_relation_proven": false,
+      "formal_version_parity_closed": false,
+      "local_pdf_path": null,
+      "physical_pdf_pages": null,
+      "PDF_bytes": null,
+      "PDF_sha256": null,
+      "PDF_text_extractable": null,
+      "actual_page_review_performed": false,
+      "formula_table_figure_review_pending": true,
+      "remaining_reading_material": "取得目标期刊文，核在轨功能、飞行数据/时段、处理/规划职责与验证范围。",
+      "priority": "ordered_pending",
+      "human_verified": false,
+      "submission_ready": false
+    },
+    {
+      "sequence_position": 29,
+      "reference_number": 118,
+      "doi": "10.1109/SAM.2018.8448984",
+      "doi_url": "https://doi.org/10.1109/SAM.2018.8448984",
+      "english_title_frozen_index": "Performance of the Asynchronous Consensus Based Bundle Algorithm in Lossy Network Environments",
+      "chinese_translation": "有损网络环境下异步一致性任务包算法的性能",
+      "metadata": {
+        "status": "inherited_B07_primary_Crossref_not_new_verification",
+        "metadata_url": "https://api.crossref.org/works/10.1109/SAM.2018.8448984",
+        "snapshot": {
+          "external_path": "D:\\SKT727\\materials\\constellation_review_B07_20261016\\118_crossref.json",
+          "bytes": 3411,
+          "sha256": "f24985b25e53c9455bcf68874496c7eb8d4633bc26ae270032fec4e7821e9599"
+        },
+        "authors": [
+          "Matthew Rantanen",
+          "Jalil Modares",
+          "Nicholas Mastronarde",
+          "Farshad Ghanei",
+          "Karthik Dantu"
+        ],
+        "container_titles": [
+          "2018 IEEE 10th Sensor Array and Multichannel Signal Processing Workshop (SAM)"
+        ],
+        "volume": null,
+        "issue": null,
+        "page_or_article_number": "311-315",
+        "dates": {
+          "issued": {
+            "date-parts": [
+              [
+                2018,
+                7
+              ]
+            ]
+          },
+          "published": {
+            "date-parts": [
+              [
+                2018,
+                7
+              ]
+            ]
+          },
+          "published-print": {
+            "date-parts": [
+              [
+                2018,
+                7
+              ]
+            ]
+          }
+        },
+        "title_observed": [
+          "Performance of the Asynchronous Consensus Based Bundle Algorithm in Lossy Network Environments"
+        ],
+        "human_verified": false
+      },
+      "manuscript_role": "协调方法在真实通信中的失效条件",
+      "current_access_observation": "SUNY机构摘要；作者实验室标为PDF的链接实际仍指IEEE摘要页；另有同名演示幻灯片，不能当5页会议论文。",
+      "current_discovery": {
+        "ref": 118,
+        "doi": "10.1109/SAM.2018.8448984",
+        "url": "https://api.openalex.org/works/https://doi.org/10.1109/SAM.2018.8448984",
+        "http_status": 200,
+        "obtained": true,
+        "sha256": "1faf516a19a6deabc7fc84de073af98bc2eb580669eba84cb08c0c25fb85872a",
+        "title": "Performance of the Asynchronous Consensus Based Bundle Algorithm in Lossy Network Environments",
+        "oa": {
+          "is_oa": false,
+          "oa_status": "closed",
+          "oa_url": null,
+          "any_repository_has_fulltext": false
+        },
+        "locations": [
+          {
+            "landing_page_url": "https://doi.org/10.1109/sam.2018.8448984",
+            "pdf_url": null,
+            "version": "publishedVersion",
+            "is_oa": false,
+            "source": {
+              "id": "https://openalex.org/S4393917545",
+              "display_name": "Proceedings of the IEEE Sensor Array and Multichannel Signal Processing Workshop",
+              "issn_l": "1551-2282",
+              "issn": [
+                "1551-2282"
+              ],
+              "is_oa": false,
+              "is_in_doaj": false,
+              "is_core": false,
+              "listed_in": [
+                "jufo-1",
+                "norway-1"
+              ],
+              "host_organization": null,
+              "host_organization_name": null,
+              "host_organization_lineage": [],
+              "host_organization_lineage_names": [],
+              "type": "conference"
+            }
+          }
+        ]
+      },
+      "candidate_URLs": [
+        "https://researchconnect.buffalo.edu/en/publications/performance-of-the-asynchronous-consensus-based-bundle-algorithm-/",
+        "https://doi.org/10.1109/sam.2018.8448984"
+      ],
+      "URL_list_is_not_proof_of_reading": true,
+      "availability_capture_receipts": [
+        {
+          "external_path": "D:\\SKT727\\materials\\constellation_review_B08_20261016\\SEARCH_10_LATER_ORDER.txt",
+          "bytes": 33812,
+          "sha256": "9ca82d96d405b699557ba5318932ae308471fbf88f9d8569e2a276e6d1aad3b4"
+        }
+      ],
+      "body_reading_completed_this_batch": false,
+      "new_unique_targeted_addition": false,
+      "version_identity": "no_new_body_copy_obtained",
+      "author_version_relation_proven": false,
+      "formal_version_parity_closed": false,
+      "local_pdf_path": null,
+      "physical_pdf_pages": null,
+      "PDF_bytes": null,
+      "PDF_sha256": null,
+      "PDF_text_extractable": null,
+      "actual_page_review_performed": false,
+      "formula_table_figure_review_pending": true,
+      "remaining_reading_material": "优先核丢包模型、重复/未分配任务、规模、终止和重传条件；复查v1.9第299行正向并列。",
+      "priority": "first_PDF_request",
+      "human_verified": false,
+      "submission_ready": false
+    }
+  ],
+  "third_party_PDFs_committed": false
+}

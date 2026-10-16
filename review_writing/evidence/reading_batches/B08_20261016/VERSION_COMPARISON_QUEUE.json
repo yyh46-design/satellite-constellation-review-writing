@@ -1,0 +1,431 @@
+{
+  "batch": "B08_20261016",
+  "formal_pair_closed_count": 0,
+  "original_six_pairs_still_open": [
+    42,
+    44,
+    53,
+    74,
+    76,
+    121
+  ],
+  "prior_B07_queue_path": "review_writing/evidence/reading_batches/B07_20261016/VERSION_COMPARISON_QUEUE.json",
+  "prior_B07_queue_sha256": "25856ba5440f88b6730975b50e22085235abd7b77708b54e6ecc30d9e3994d70",
+  "queue": [
+    {
+      "reference_number": 29,
+      "doi": "10.1016/j.actaastro.2013.02.005",
+      "current_body_version": "not_obtained_this_batch",
+      "discovered_version_labels_unverified": [
+        "publishedVersion"
+      ],
+      "candidate_URLs": [
+        "https://www.sciencedirect.com/science/article/abs/pii/S0094576513000532",
+        "https://doi.org/10.1016/j.actaastro.2013.02.005"
+      ],
+      "formal_version_parity_closed": false,
+      "next_requirement": "区分随机/认知不确定性的参数、传播及评估口径，核清生命周期成本边界。"
+    },
+    {
+      "reference_number": 31,
+      "doi": "10.1109/TSMC.2020.3020732",
+      "current_body_version": "not_obtained_this_batch",
+      "discovered_version_labels_unverified": [
+        "publishedVersion"
+      ],
+      "candidate_URLs": [
+        "https://ieeexplore.ieee.org/document/9200466",
+        "https://doi.org/10.1109/tsmc.2020.3020732"
+      ],
+      "formal_version_parity_closed": false,
+      "next_requirement": "核状态、动作、奖励、转移与可行性处理；确认正文的‘学习排序’概括是否足够准确。"
+    },
+    {
+      "reference_number": 32,
+      "doi": "10.1016/j.swevo.2024.101792",
+      "current_body_version": "not_obtained_this_batch",
+      "discovered_version_labels_unverified": [
+        "publishedVersion"
+      ],
+      "candidate_URLs": [
+        "https://www.researchgate.net/publication/388602751_A_decompose-and-learn_multi-objective_algorithm_for_scheduling_large-scale_earth_observation_satellites",
+        "https://doi.org/10.1016/j.swevo.2024.101792"
+      ],
+      "formal_version_parity_closed": false,
+      "next_requirement": "核分解对象、学习作用位置、约束修补、规模及训练/搜索总成本。"
+    },
+    {
+      "reference_number": 33,
+      "doi": "10.1016/j.cor.2025.107259",
+      "current_body_version": "not_obtained_this_batch",
+      "discovered_version_labels_unverified": [
+        "publishedVersion",
+        "acceptedVersion"
+      ],
+      "candidate_URLs": [
+        "https://doi.org/10.2139/ssrn.5202348",
+        "https://doi.org/10.1016/j.cor.2025.107259"
+      ],
+      "formal_version_parity_closed": false,
+      "next_requirement": "核公共/专属任务、电池、Dantzig–Wolfe分解、定价、分支和界的适用模型。"
+    },
+    {
+      "reference_number": 38,
+      "doi": "10.1016/j.asr.2020.02.018",
+      "current_body_version": "not_obtained_this_batch",
+      "discovered_version_labels_unverified": [
+        "publishedVersion"
+      ],
+      "candidate_URLs": [
+        "https://www.researchgate.net/publication/339506906_Online_scheduling_of_distributed_Earth_observation_satellite_system_under_rigid_communication_constraints",
+        "https://doi.org/10.1016/j.asr.2020.02.018"
+      ],
+      "formal_version_parity_closed": false,
+      "next_requirement": "核通信预测、任务包、消息内容、冲突消解与执行承诺。"
+    },
+    {
+      "reference_number": 40,
+      "doi": "10.1016/j.asr.2021.09.003",
+      "current_body_version": "not_obtained_this_batch",
+      "discovered_version_labels_unverified": [
+        "publishedVersion"
+      ],
+      "candidate_URLs": [
+        "https://www.sciencedirect.com/science/article/pii/S0273117721006955",
+        "https://doi.org/10.1016/j.asr.2021.09.003"
+      ],
+      "formal_version_parity_closed": false,
+      "next_requirement": "核角色、黑板信息、滚动更新触发、执行权限和实验通信假设。"
+    },
+    {
+      "reference_number": 43,
+      "doi": "10.1016/j.actaastro.2025.02.008",
+      "current_body_version": "not_obtained_this_batch",
+      "discovered_version_labels_unverified": [
+        "publishedVersion"
+      ],
+      "candidate_URLs": [
+        "https://www.researchgate.net/publication/388751294_Joint_observation_and_transmission_scheduling_of_multiple_agile_satellites_with_energy_constraint_using_improved_ACO_algorithm",
+        "https://doi.org/10.1016/j.actaastro.2025.02.008"
+      ],
+      "formal_version_parity_closed": false,
+      "next_requirement": "核充电是显式活动还是资源演化，及能量约束、任务完成和基线定义。"
+    },
+    {
+      "reference_number": 45,
+      "doi": "10.1016/j.actaastro.2026.04.059",
+      "current_body_version": "not_obtained_this_batch",
+      "discovered_version_labels_unverified": [
+        "publishedVersion"
+      ],
+      "candidate_URLs": [
+        "https://pure.kaist.ac.kr/en/publications/tip-and-cue-mission-scheduling-in-heterogeneous-satellite-constel/",
+        "https://doi.org/10.1016/j.actaastro.2026.04.059"
+      ],
+      "formal_version_parity_closed": false,
+      "next_requirement": "核SAR—中继—EO—下传链、存储一致性、聚类近似与80星场景的计时边界。"
+    },
+    {
+      "reference_number": 46,
+      "doi": "10.1016/j.cor.2014.11.004",
+      "current_body_version": "not_obtained_this_batch",
+      "discovered_version_labels_unverified": [
+        "publishedVersion"
+      ],
+      "candidate_URLs": [
+        "https://www.researchgate.net/publication/270053736_Optimization-based_scheduling_for_the_single-satellite_multi-ground_station_communication_problem",
+        "https://doi.org/10.1016/j.cor.2014.11.004"
+      ],
+      "formal_version_parity_closed": false,
+      "next_requirement": "核欠约束MIP的逐步收紧、可行最优性、真实数据及实验资源竞争条件。"
+    },
+    {
+      "reference_number": 54,
+      "doi": "10.1109/JIOT.2024.3482290",
+      "current_body_version": "not_obtained_this_batch",
+      "discovered_version_labels_unverified": [
+        "publishedVersion"
+      ],
+      "candidate_URLs": [
+        "https://doi.org/10.1109/JIOT.2024.3482290",
+        "https://doi.org/10.1109/jiot.2024.3482290"
+      ],
+      "formal_version_parity_closed": false,
+      "next_requirement": "核训练/执行信息、卸载动作、任务完成条件、时延/能耗指标及通信开销。"
+    },
+    {
+      "reference_number": 55,
+      "doi": "10.1016/j.comcom.2024.05.008",
+      "current_body_version": "not_obtained_this_batch",
+      "discovered_version_labels_unverified": [
+        "publishedVersion",
+        "acceptedVersion"
+      ],
+      "candidate_URLs": [
+        "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4611047",
+        "https://doi.org/10.1016/j.comcom.2024.05.008",
+        "https://doi.org/10.2139/ssrn.4611047"
+      ],
+      "formal_version_parity_closed": false,
+      "next_requirement": "核正式版和SSRN 4611047的作者顺序、模型、资源约束、奖励和对照实验。"
+    },
+    {
+      "reference_number": 56,
+      "doi": "10.1109/TMC.2025.3570799",
+      "current_body_version": "not_obtained_this_batch",
+      "discovered_version_labels_unverified": [
+        "publishedVersion"
+      ],
+      "candidate_URLs": [
+        "https://ieeexplore.ieee.org/document/11005988/",
+        "https://doi.org/10.1109/tmc.2025.3570799"
+      ],
+      "formal_version_parity_closed": false,
+      "next_requirement": "核推理位置、精度/时延/资源代价与观测交付依赖是否入模。"
+    },
+    {
+      "reference_number": 59,
+      "doi": "10.1016/j.asr.2025.12.008",
+      "current_body_version": "not_obtained_this_batch",
+      "discovered_version_labels_unverified": [
+        "publishedVersion"
+      ],
+      "candidate_URLs": [
+        "https://www.researchgate.net/publication/398408947_Lagrangian_Hierarchical_Mixed-Integer_Programming_for_Ultra-Large-Scale_Satellite_Scheduling_under_Dynamic_Task_Delivery",
+        "https://doi.org/10.1016/j.asr.2025.12.008"
+      ],
+      "formal_version_parity_closed": false,
+      "next_requirement": "优先核1000星、50—6000任务等正文量化说法的表格、实际入模规模和总计时。"
+    },
+    {
+      "reference_number": 60,
+      "doi": "10.1016/j.cor.2016.04.014",
+      "current_body_version": "not_obtained_this_batch",
+      "discovered_version_labels_unverified": [
+        "publishedVersion",
+        "acceptedVersion",
+        "submittedVersion",
+        "submittedVersion"
+      ],
+      "candidate_URLs": [
+        "https://lirias.kuleuven.be/handle/123456789/460886",
+        "https://doi.org/10.1016/j.cor.2016.04.014",
+        "https://doi.org/10.2139/ssrn.2495339",
+        "https://lirias.kuleuven.be/bitstream/123456789/538685/1/A%20pure%20proactive%20scheduling%20algorithm%20for%20multiple%20earth%20observation%20sat%20%20%20.pdf"
+      ],
+      "formal_version_parity_closed": false,
+      "next_requirement": "核云相关性、联合/单项概率约束、样本数、可行性保证和B&C计算代价。"
+    },
+    {
+      "reference_number": 63,
+      "doi": "10.1016/j.eswa.2025.128502",
+      "current_body_version": "not_obtained_this_batch",
+      "discovered_version_labels_unverified": [
+        "publishedVersion"
+      ],
+      "candidate_URLs": [
+        "https://www.sciencedirect.com/science/article/pii/S0957417425021219",
+        "https://doi.org/10.1016/j.eswa.2025.128502"
+      ],
+      "formal_version_parity_closed": false,
+      "next_requirement": "优先核两级动作解码、算子、可行性修补、滚动重算、消融与完整响应时间。"
+    },
+    {
+      "reference_number": 64,
+      "doi": "10.1016/j.eswa.2025.128350",
+      "current_body_version": "not_obtained_this_batch",
+      "discovered_version_labels_unverified": [
+        "publishedVersion"
+      ],
+      "candidate_URLs": [
+        "https://www.sciencedirect.com/science/article/pii/S0957417425019694",
+        "https://doi.org/10.1016/j.eswa.2025.128350"
+      ],
+      "formal_version_parity_closed": false,
+      "next_requirement": "核集中训练/分散执行的可见信息、滚动时域、双损失、可行性和400任务计时对照。"
+    },
+    {
+      "reference_number": 67,
+      "doi": "10.1016/j.cie.2022.108852",
+      "current_body_version": "not_obtained_this_batch",
+      "discovered_version_labels_unverified": [
+        "publishedVersion"
+      ],
+      "candidate_URLs": [
+        "https://www.sciencedirect.com/science/article/pii/S0360835222008403",
+        "https://doi.org/10.1016/j.cie.2022.108852"
+      ],
+      "formal_version_parity_closed": false,
+      "next_requirement": "核网络离散化、轨迹代价、加注资源、任务收益与三种轨道案例。"
+    },
+    {
+      "reference_number": 68,
+      "doi": "10.1016/j.cja.2025.103774",
+      "current_body_version": "not_obtained_this_batch",
+      "discovered_version_labels_unverified": [],
+      "candidate_URLs": [
+        "https://doi.org/10.1016/j.cja.2025.103774"
+      ],
+      "formal_version_parity_closed": false,
+      "next_requirement": "取得原论文，核不确定集、鲁棒代价、可行性与求解近似。"
+    },
+    {
+      "reference_number": 69,
+      "doi": "10.1016/j.asr.2017.05.037",
+      "current_body_version": "not_obtained_this_batch",
+      "discovered_version_labels_unverified": [
+        "publishedVersion"
+      ],
+      "candidate_URLs": [
+        "https://www.sciencedirect.com/science/article/pii/S0273117717303824",
+        "https://doi.org/10.1016/j.asr.2017.05.037"
+      ],
+      "formal_version_parity_closed": false,
+      "next_requirement": "核初始轨道、相位、Lambert转移、服务顺序以及小规模示例的适用性。"
+    },
+    {
+      "reference_number": 70,
+      "doi": "10.1016/j.asr.2024.05.059",
+      "current_body_version": "not_obtained_this_batch",
+      "discovered_version_labels_unverified": [
+        "publishedVersion"
+      ],
+      "candidate_URLs": [
+        "https://www.sciencedirect.com/science/article/abs/pii/S0273117724005258",
+        "https://doi.org/10.1016/j.asr.2024.05.059"
+      ],
+      "formal_version_parity_closed": false,
+      "next_requirement": "核质量/燃料不确定量、两阶段转移、情景/集合、收益定义和算法。"
+    },
+    {
+      "reference_number": 83,
+      "doi": "10.1016/j.asr.2021.04.042",
+      "current_body_version": "not_obtained_this_batch",
+      "discovered_version_labels_unverified": [
+        "acceptedVersion"
+      ],
+      "candidate_URLs": [
+        "https://www.sciencedirect.com/science/article/pii/S0273117721003410",
+        "https://doi.org/10.1016/j.asr.2021.04.042"
+      ],
+      "formal_version_parity_closed": false,
+      "next_requirement": "核信息增益/风险奖励、LMB滤波、目标数、筛查范围、13小时总时及漏检评价。"
+    },
+    {
+      "reference_number": 90,
+      "doi": "10.2514/1.29590",
+      "current_body_version": "not_obtained_this_batch",
+      "discovered_version_labels_unverified": [
+        "publishedVersion",
+        "submittedVersion"
+      ],
+      "candidate_URLs": [
+        "https://acl.mit.edu/publications/",
+        "https://doi.org/10.2514/1.29590",
+        "http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.212.7225"
+      ],
+      "formal_version_parity_closed": false,
+      "next_requirement": "取得1478—1489页目标期刊正文，证明其与17页会议式稿件的关系后再使用特定公式结果。"
+    },
+    {
+      "reference_number": 94,
+      "doi": "10.1016/j.ast.2025.111237",
+      "current_body_version": "not_obtained_this_batch",
+      "discovered_version_labels_unverified": [
+        "publishedVersion",
+        "acceptedVersion"
+      ],
+      "candidate_URLs": [
+        "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5561401",
+        "https://doi.org/10.1016/j.ast.2025.111237",
+        "https://doi.org/10.2139/ssrn.5561401"
+      ],
+      "formal_version_parity_closed": false,
+      "next_requirement": "核扰动估计、概率界前提、图像空间约束、Monte Carlo协议及正式版本关系。"
+    },
+    {
+      "reference_number": 99,
+      "doi": "10.1016/j.actaastro.2020.12.012",
+      "current_body_version": "not_obtained_this_batch",
+      "discovered_version_labels_unverified": [
+        "publishedVersion"
+      ],
+      "candidate_URLs": [
+        "https://www.sciencedirect.com/science/article/pii/S0094576520307463",
+        "https://doi.org/10.1016/j.actaastro.2020.12.012"
+      ],
+      "formal_version_parity_closed": false,
+      "next_requirement": "核MC-dropout、三种不确定性、VAE复评、数据不平衡和指标/划分协议。"
+    },
+    {
+      "reference_number": 100,
+      "doi": "10.1016/j.actaastro.2026.07.065",
+      "current_body_version": "not_obtained_this_batch",
+      "discovered_version_labels_unverified": [
+        "publishedVersion"
+      ],
+      "candidate_URLs": [
+        "https://www.sciencedirect.com/science/article/pii/S0094576526005187",
+        "https://doi.org/10.1016/j.actaastro.2026.07.065"
+      ],
+      "formal_version_parity_closed": false,
+      "next_requirement": "仍需正式PDF/完整HTML，核论文门控定义与代码配置、数据标签可得性和评价协议。"
+    },
+    {
+      "reference_number": 103,
+      "doi": "10.2514/1.I011208",
+      "current_body_version": "not_obtained_this_batch",
+      "discovered_version_labels_unverified": [
+        "publishedVersion"
+      ],
+      "candidate_URLs": [
+        "https://doi.org/10.2514/1.I011208",
+        "https://doi.org/10.2514/1.i011208"
+      ],
+      "formal_version_parity_closed": false,
+      "next_requirement": "核Schedule Manager的冲突/资源语义、分布式权限、故障类型和开发板验证范围。"
+    },
+    {
+      "reference_number": 104,
+      "doi": "10.1016/j.actaastro.2020.05.011",
+      "current_body_version": "not_obtained_this_batch",
+      "discovered_version_labels_unverified": [
+        "publishedVersion"
+      ],
+      "candidate_URLs": [
+        "https://www.sciencedirect.com/science/article/abs/pii/S0094576520302940",
+        "https://doi.org/10.1016/j.actaastro.2020.05.011"
+      ],
+      "formal_version_parity_closed": false,
+      "next_requirement": "核forwarding dock state、GRDR/TDPR、任务承诺、重排、IPC/火星车实例与时延。"
+    },
+    {
+      "reference_number": 110,
+      "doi": "10.2514/1.I010386",
+      "current_body_version": "not_obtained_this_batch",
+      "discovered_version_labels_unverified": [
+        "publishedVersion"
+      ],
+      "candidate_URLs": [
+        "https://www.scienceopen.com/document?vid=65ac954c-45d9-41da-a07e-8ee29d6b939d",
+        "https://doi.org/10.2514/1.i010386"
+      ],
+      "formal_version_parity_closed": false,
+      "next_requirement": "取得目标期刊文，核在轨功能、飞行数据/时段、处理/规划职责与验证范围。"
+    },
+    {
+      "reference_number": 118,
+      "doi": "10.1109/SAM.2018.8448984",
+      "current_body_version": "not_obtained_this_batch",
+      "discovered_version_labels_unverified": [
+        "publishedVersion"
+      ],
+      "candidate_URLs": [
+        "https://researchconnect.buffalo.edu/en/publications/performance-of-the-asynchronous-consensus-based-bundle-algorithm-/",
+        "https://doi.org/10.1109/sam.2018.8448984"
+      ],
+      "formal_version_parity_closed": false,
+      "next_requirement": "优先核丢包模型、重复/未分配任务、规模、终止和重传条件；复查v1.9第299行正向并列。"
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "target_paper_DOI": "10.1016/j.actaastro.2026.07.065",
+  "associated_repository": "https://github.com/DerKuhno/validation-gated-continual-learning",
+  "pinned_commit": "636ac05995f52d3a12b6c7186646757a28c900eb",
+  "identity_basis": "repository README Citation explicitly lists exact paper title and DOI",
+  "identity_is_not_paper_code_equivalence_proof": true,
+  "downloaded_text_file_count": 10,
+  "source_files": [
+    {
+      "repo_path": "README.md",
+      "url": "https://raw.githubusercontent.com/DerKuhno/validation-gated-continual-learning/636ac05995f52d3a12b6c7186646757a28c900eb/README.md",
+      "http_status": 200,
+      "local_path": "D:\\SKT727\\materials\\constellation_review_B08_20261016\\100_code__README.md",
+      "bytes": 9220,
+      "sha256": "75c51c007c83a53900c02c760687c15744ff5c1280d1579cb1cbd346be333616"
+    },
+    {
+      "repo_path": "src/Main_loop.py",
+      "url": "https://raw.githubusercontent.com/DerKuhno/validation-gated-continual-learning/636ac05995f52d3a12b6c7186646757a28c900eb/src/Main_loop.py",
+      "http_status": 200,
+      "local_path": "D:\\SKT727\\materials\\constellation_review_B08_20261016\\100_code__src__Main_loop.py",
+      "bytes": 9234,
+      "sha256": "4487ccb5edfef2957605b66d2a46c553aaf19389ec7a1f2026edaa9dcbfb2b0d"
+    },
+    {
+      "repo_path": "src/CL_methods/continual_learning_manager.py",
+      "url": "https://raw.githubusercontent.com/DerKuhno/validation-gated-continual-learning/636ac05995f52d3a12b6c7186646757a28c900eb/src/CL_methods/continual_learning_manager.py",
+      "http_status": 200,
+      "local_path": "D:\\SKT727\\materials\\constellation_review_B08_20261016\\100_code__src__CL_methods__continual_learning_manager.py",
+      "bytes": 12632,
+      "sha256": "ee683687618da2ead0b22285594a30e8191c35fec9df7501a2f7340b455d8556"
+    },
+    {
+      "repo_path": "src/experiment_config.py",
+      "url": "https://raw.githubusercontent.com/DerKuhno/validation-gated-continual-learning/636ac05995f52d3a12b6c7186646757a28c900eb/src/experiment_config.py",
+      "http_status": 200,
+      "local_path": "D:\\SKT727\\materials\\constellation_review_B08_20261016\\100_code__src__experiment_config.py",
+      "bytes": 8211,
+      "sha256": "0b5fa9420d7ff62fc3d4fd687ed9f68dbd78499d5e6f45323e6c26259111dba2"
+    },
+    {
+      "repo_path": "src/telemanom_model.py",
+      "url": "https://raw.githubusercontent.com/DerKuhno/validation-gated-continual-learning/636ac05995f52d3a12b6c7186646757a28c900eb/src/telemanom_model.py",
+      "http_status": 200,
+      "local_path": "D:\\SKT727\\materials\\constellation_review_B08_20261016\\100_code__src__telemanom_model.py",
+      "bytes": 7408,
+      "sha256": "53d7da38c624de008ba0e18a9dbdc14d402476eb3d16ea92b4a75adaaee4a326"
+    },
+    {
+      "repo_path": "src/dataset_manager.py",
+      "url": "https://raw.githubusercontent.com/DerKuhno/validation-gated-continual-learning/636ac05995f52d3a12b6c7186646757a28c900eb/src/dataset_manager.py",
+      "http_status": 200,
+      "local_path": "D:\\SKT727\\materials\\constellation_review_B08_20261016\\100_code__src__dataset_manager.py",
+      "bytes": 15200,
+      "sha256": "7a4dad97f99f7de6f6a8796d504aeaa1e280c368687f398c99ba2da27b4fbdeb"
+    },
+    {
+      "repo_path": "src/general_utils.py",
+      "url": "https://raw.githubusercontent.com/DerKuhno/validation-gated-continual-learning/636ac05995f52d3a12b6c7186646757a28c900eb/src/general_utils.py",
+      "http_status": 200,
+      "local_path": "D:\\SKT727\\materials\\constellation_review_B08_20261016\\100_code__src__general_utils.py",
+      "bytes": 4308,
+      "sha256": "3b20fae2cb709dbaf57a572210af7cb0eed9364c946c8dd5f5d7548132e329c2"
+    },
+    {
+      "repo_path": "src/CL_methods/er.py",
+      "url": "https://raw.githubusercontent.com/DerKuhno/validation-gated-continual-learning/636ac05995f52d3a12b6c7186646757a28c900eb/src/CL_methods/er.py",
+      "http_status": 200,
+      "local_path": "D:\\SKT727\\materials\\constellation_review_B08_20261016\\100_code__src__CL_methods__er.py",
+      "bytes": 7898,
+      "sha256": "31d09b9c888022658377e46c5518a13288abe2c4da15334c0096d339bbbfa9fd"
+    },
+    {
+      "repo_path": "src/CL_methods/utils.py",
+      "url": "https://raw.githubusercontent.com/DerKuhno/validation-gated-continual-learning/636ac05995f52d3a12b6c7186646757a28c900eb/src/CL_methods/utils.py",
+      "http_status": 200,
+      "local_path": "D:\\SKT727\\materials\\constellation_review_B08_20261016\\100_code__src__CL_methods__utils.py",
+      "bytes": 1311,
+      "sha256": "0f5e234850213bbf7a4b8fbc06d3fd6de722870f7d7bad59903d41604cbf47db"
+    },
+    {
+      "repo_path": "src/base_model.py",
+      "url": "https://raw.githubusercontent.com/DerKuhno/validation-gated-continual-learning/636ac05995f52d3a12b6c7186646757a28c900eb/src/base_model.py",
+      "http_status": 200,
+      "local_path": "D:\\SKT727\\materials\\constellation_review_B08_20261016\\100_code__src__base_model.py",
+      "bytes": 2783,
+      "sha256": "9618bdca7093b31d27ddfa1acb8e9f2eb61736da5fb6f9af822f24ca4731907a"
+    }
+  ],
+  "no_code_dataset_or_experiment_execution": true,
+  "source_code_not_committed_to_review_repo": true
+}

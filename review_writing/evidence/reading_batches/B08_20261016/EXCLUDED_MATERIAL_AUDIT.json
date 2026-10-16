@@ -1,0 +1,48 @@
+{
+  "batch": "B08_20261016",
+  "items": [
+    {
+      "target_ref": 45,
+      "material": "APISAT2025 Rolling Horizon Strategy for Scheduling Tip and Cue Missions",
+      "reason": "相近任务、题名与作者不同；不是目标期刊正文",
+      "target_paper_body_count_increment": 0,
+      "target_version_relation_proven": false
+    },
+    {
+      "target_ref": 46,
+      "material": "Optimization of Single-Satellite Operational Schedules Towards Enhanced Communication Capacity, DOI10.2514/6.2012-4610",
+      "reason": "2012会议论文；不替代2015 COR文章",
+      "target_paper_body_count_increment": 0,
+      "target_version_relation_proven": false
+    },
+    {
+      "target_ref": 90,
+      "material": "17页AIAA会议式正文/2006同名会议稿",
+      "reason": "沿用B07版本关系未证，不自动视为2008期刊版",
+      "target_paper_body_count_increment": 0,
+      "target_version_relation_proven": false
+    },
+    {
+      "target_ref": 103,
+      "material": "In Pursuit of Autonomous Mission Management in Space, thesis2022",
+      "reason": "公开下载403，未取得、未核读，未证明章与期刊版关系",
+      "target_paper_body_count_increment": 0,
+      "target_version_relation_proven": false
+    },
+    {
+      "target_ref": 110,
+      "material": "JPL公开2012/2014 IPEX会议稿",
+      "reason": "时期、题名/作者与目标期刊稿不同，不自动替代",
+      "target_paper_body_count_increment": 0,
+      "target_version_relation_proven": false
+    },
+    {
+      "target_ref": 118,
+      "material": "同名SAM演示幻灯片",
+      "reason": "演示材料不是目标311—315页会议论文",
+      "target_paper_body_count_increment": 0,
+      "target_version_relation_proven": false
+    }
+  ],
+  "not_all_candidates_downloaded_or_read": true
+}
