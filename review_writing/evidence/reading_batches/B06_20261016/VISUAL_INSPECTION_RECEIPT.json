@@ -1,0 +1,362 @@
+{
+  "batch": "B06_20261016",
+  "pages": [
+    {
+      "ref": 93,
+      "physical_page": 6,
+      "local_image": "D:\\SKT727\\materials\\constellation_review_B06_20261016\\page_images\\093_p06.png",
+      "bytes": 405302,
+      "sha256": "051a286f2c18dd4669b737c3ae132cc6c099c7c49b1d9d04fe77700bf7fc14cc",
+      "rendered": true,
+      "actually_inspected": true,
+      "role": "paper_selected_region",
+      "scope": "actual relevant page regions; not all symbols/proofs independently checked"
+    },
+    {
+      "ref": 93,
+      "physical_page": 9,
+      "local_image": "D:\\SKT727\\materials\\constellation_review_B06_20261016\\page_images\\093_p09.png",
+      "bytes": 293820,
+      "sha256": "def3aa87394dd713fdd8f92a770ddee6bd48964c8a35cf4d9747ce8a0daee07f",
+      "rendered": true,
+      "actually_inspected": true,
+      "role": "paper_selected_region",
+      "scope": "actual relevant page regions; not all symbols/proofs independently checked"
+    },
+    {
+      "ref": 93,
+      "physical_page": 10,
+      "local_image": "D:\\SKT727\\materials\\constellation_review_B06_20261016\\page_images\\093_p10.png",
+      "bytes": 414410,
+      "sha256": "aef605edd30e323cf1c7ed76a151f8fc953b87823a57fd74ac50cfdbc9d02180",
+      "rendered": true,
+      "actually_inspected": true,
+      "role": "paper_selected_region",
+      "scope": "actual relevant page regions; not all symbols/proofs independently checked"
+    },
+    {
+      "ref": 23,
+      "physical_page": 19,
+      "local_image": "D:\\SKT727\\materials\\constellation_review_B06_20261016\\page_images\\023_p19.png",
+      "bytes": 225787,
+      "sha256": "80b5ef41cf6de6966ba328cc23fec42e8c5a9b4556ee5b62fa48c287e6660e36",
+      "rendered": true,
+      "actually_inspected": true,
+      "role": "paper_selected_region",
+      "scope": "actual relevant page regions; not all symbols/proofs independently checked"
+    },
+    {
+      "ref": 23,
+      "physical_page": 34,
+      "local_image": "D:\\SKT727\\materials\\constellation_review_B06_20261016\\page_images\\023_p34.png",
+      "bytes": 276894,
+      "sha256": "83c4c531494e5d315c68736d9b1df52ec6e205f1b223abac847b59f746154f41",
+      "rendered": true,
+      "actually_inspected": true,
+      "role": "paper_selected_region",
+      "scope": "actual relevant page regions; not all symbols/proofs independently checked"
+    },
+    {
+      "ref": 27,
+      "physical_page": 21,
+      "local_image": "D:\\SKT727\\materials\\constellation_review_B06_20261016\\page_images\\027_p21.png",
+      "bytes": 178739,
+      "sha256": "a7f2d03c89bf61914dd0ae0a1873aaa6c2e70b25c48177c329442995354185ba",
+      "rendered": true,
+      "actually_inspected": true,
+      "role": "paper_selected_region",
+      "scope": "actual relevant page regions; not all symbols/proofs independently checked"
+    },
+    {
+      "ref": 27,
+      "physical_page": 22,
+      "local_image": "D:\\SKT727\\materials\\constellation_review_B06_20261016\\page_images\\027_p22.png",
+      "bytes": 202491,
+      "sha256": "dab767277393c375458796f2bdd9db468240e4a81975bdb298d5c3e1ab72f8d0",
+      "rendered": true,
+      "actually_inspected": true,
+      "role": "paper_selected_region",
+      "scope": "actual relevant page regions; not all symbols/proofs independently checked"
+    },
+    {
+      "ref": 34,
+      "physical_page": 7,
+      "local_image": "D:\\SKT727\\materials\\constellation_review_B06_20261016\\page_images\\034_p07.png",
+      "bytes": 517006,
+      "sha256": "935e7f93aab826bc5c8399a2b69904881071cd325863d9d3ffd64020c97e1ea6",
+      "rendered": true,
+      "actually_inspected": true,
+      "role": "paper_selected_region",
+      "scope": "actual relevant page regions; not all symbols/proofs independently checked"
+    },
+    {
+      "ref": 34,
+      "physical_page": 10,
+      "local_image": "D:\\SKT727\\materials\\constellation_review_B06_20261016\\page_images\\034_p10.png",
+      "bytes": 468506,
+      "sha256": "425a6828e2d4941272febb2bf84ca772006db843ac38a5b98482991c2f8fc3d6",
+      "rendered": true,
+      "actually_inspected": true,
+      "role": "paper_selected_region",
+      "scope": "actual relevant page regions; not all symbols/proofs independently checked"
+    },
+    {
+      "ref": 36,
+      "physical_page": 9,
+      "local_image": "D:\\SKT727\\materials\\constellation_review_B06_20261016\\page_images\\036_p09.png",
+      "bytes": 507560,
+      "sha256": "ec0971bec98305b68854bd00e2857642bc84dc20d20345d441099a5518578b08",
+      "rendered": true,
+      "actually_inspected": true,
+      "role": "paper_selected_region",
+      "scope": "actual relevant page regions; not all symbols/proofs independently checked"
+    },
+    {
+      "ref": 36,
+      "physical_page": 12,
+      "local_image": "D:\\SKT727\\materials\\constellation_review_B06_20261016\\page_images\\036_p12.png",
+      "bytes": 319321,
+      "sha256": "f34417731ceb1e04b4419276d2b2f130824b020593608e256dd4897f186eae21",
+      "rendered": true,
+      "actually_inspected": true,
+      "role": "paper_selected_region",
+      "scope": "actual relevant page regions; not all symbols/proofs independently checked"
+    },
+    {
+      "ref": 65,
+      "physical_page": 7,
+      "local_image": "D:\\SKT727\\materials\\constellation_review_B06_20261016\\page_images\\065_p07.png",
+      "bytes": 460536,
+      "sha256": "148cead96ca5e1b68199000b1f7cf6ad723f326c1018e5c0ba38dff29aa98716",
+      "rendered": true,
+      "actually_inspected": true,
+      "role": "paper_selected_region",
+      "scope": "actual relevant page regions; not all symbols/proofs independently checked"
+    },
+    {
+      "ref": 65,
+      "physical_page": 11,
+      "local_image": "D:\\SKT727\\materials\\constellation_review_B06_20261016\\page_images\\065_p11.png",
+      "bytes": 487962,
+      "sha256": "6a0d42965517f951a2103187e537008b96f24abf042b6e0bb48a46d24261ede5",
+      "rendered": true,
+      "actually_inspected": true,
+      "role": "paper_selected_region",
+      "scope": "actual relevant page regions; not all symbols/proofs independently checked"
+    },
+    {
+      "ref": 65,
+      "physical_page": 17,
+      "local_image": "D:\\SKT727\\materials\\constellation_review_B06_20261016\\page_images\\065_p17.png",
+      "bytes": 537785,
+      "sha256": "e139caf95dbbb3a0abd92d6a4f808f0465248ae8e0e52c5bbe4ed6cbc59e6f3c",
+      "rendered": true,
+      "actually_inspected": true,
+      "role": "paper_selected_region",
+      "scope": "actual relevant page regions; not all symbols/proofs independently checked"
+    },
+    {
+      "ref": 95,
+      "physical_page": 8,
+      "local_image": "D:\\SKT727\\materials\\constellation_review_B06_20261016\\page_images\\095_p08.png",
+      "bytes": 281860,
+      "sha256": "fffc0c3d2f4aa938b7404a1555c72b17867767ff3b56c18ce24bbfe9c2956156",
+      "rendered": true,
+      "actually_inspected": true,
+      "role": "paper_selected_region",
+      "scope": "actual relevant page regions; not all symbols/proofs independently checked"
+    },
+    {
+      "ref": 95,
+      "physical_page": 14,
+      "local_image": "D:\\SKT727\\materials\\constellation_review_B06_20261016\\page_images\\095_p14.png",
+      "bytes": 273129,
+      "sha256": "71a8cd8ba1e920a9ba7af8156546a332c55832d10ab4682aeb6127dc4004b1f6",
+      "rendered": true,
+      "actually_inspected": true,
+      "role": "paper_selected_region",
+      "scope": "actual relevant page regions; not all symbols/proofs independently checked"
+    },
+    {
+      "ref": 98,
+      "physical_page": 4,
+      "local_image": "D:\\SKT727\\materials\\constellation_review_B06_20261016\\page_images\\098_p04.png",
+      "bytes": 505168,
+      "sha256": "5b00fbecd41aed756aafb3a30cc5c4c7ce246d476461edb76f7e5a59ccd7b240",
+      "rendered": true,
+      "actually_inspected": true,
+      "role": "paper_selected_region",
+      "scope": "actual relevant page regions; not all symbols/proofs independently checked"
+    },
+    {
+      "ref": 98,
+      "physical_page": 6,
+      "local_image": "D:\\SKT727\\materials\\constellation_review_B06_20261016\\page_images\\098_p06.png",
+      "bytes": 509959,
+      "sha256": "4607980bf8cb738f4d669e61357763cfef19a4974aa23c0b9e62c57143d9bd6b",
+      "rendered": true,
+      "actually_inspected": true,
+      "role": "paper_selected_region",
+      "scope": "actual relevant page regions; not all symbols/proofs independently checked"
+    },
+    {
+      "ref": 98,
+      "physical_page": 7,
+      "local_image": "D:\\SKT727\\materials\\constellation_review_B06_20261016\\page_images\\098_p07.png",
+      "bytes": 425045,
+      "sha256": "e4dfba340dd6579a833a40650f58390cb1ecf71bc1537eda03819ac8074e2776",
+      "rendered": true,
+      "actually_inspected": true,
+      "role": "paper_selected_region",
+      "scope": "actual relevant page regions; not all symbols/proofs independently checked"
+    },
+    {
+      "ref": 101,
+      "physical_page": 7,
+      "local_image": "D:\\SKT727\\materials\\constellation_review_B06_20261016\\page_images\\101_p07.png",
+      "bytes": 406390,
+      "sha256": "86dfcbde005f2c0059f47306951bb0dca6ab5fbe1885ce211ecc0f0bbf681654",
+      "rendered": true,
+      "actually_inspected": true,
+      "role": "paper_selected_region",
+      "scope": "actual relevant page regions; not all symbols/proofs independently checked"
+    },
+    {
+      "ref": 101,
+      "physical_page": 11,
+      "local_image": "D:\\SKT727\\materials\\constellation_review_B06_20261016\\page_images\\101_p11.png",
+      "bytes": 287711,
+      "sha256": "0a0521feda2af4ce14f35a6406c6729ddda8257462a92e23c4b99a9f26ea3c3d",
+      "rendered": true,
+      "actually_inspected": true,
+      "role": "paper_selected_region",
+      "scope": "actual relevant page regions; not all symbols/proofs independently checked"
+    },
+    {
+      "ref": 102,
+      "physical_page": 4,
+      "local_image": "D:\\SKT727\\materials\\constellation_review_B06_20261016\\page_images\\102_p04.png",
+      "bytes": 433391,
+      "sha256": "c84f8b20e6ba1ea0842caf802308a2b24412a98a352aa423b5d6828c178d88ef",
+      "rendered": true,
+      "actually_inspected": true,
+      "role": "paper_selected_region",
+      "scope": "actual relevant page regions; not all symbols/proofs independently checked"
+    },
+    {
+      "ref": 102,
+      "physical_page": 11,
+      "local_image": "D:\\SKT727\\materials\\constellation_review_B06_20261016\\page_images\\102_p11.png",
+      "bytes": 376649,
+      "sha256": "2b23f015a28883365feb102db28c49856022d2afff4d8e0087f708d069903239",
+      "rendered": true,
+      "actually_inspected": true,
+      "role": "paper_selected_region",
+      "scope": "actual relevant page regions; not all symbols/proofs independently checked"
+    },
+    {
+      "ref": 102,
+      "physical_page": 12,
+      "local_image": "D:\\SKT727\\materials\\constellation_review_B06_20261016\\page_images\\102_p12.png",
+      "bytes": 399829,
+      "sha256": "f7fc59fe927000f2f7e6249a6174462f691d8637cbb613f61ace826aea705027",
+      "rendered": true,
+      "actually_inspected": true,
+      "role": "paper_selected_region",
+      "scope": "actual relevant page regions; not all symbols/proofs independently checked"
+    },
+    {
+      "ref": 108,
+      "physical_page": 28,
+      "local_image": "D:\\SKT727\\materials\\constellation_review_B06_20261016\\page_images\\108_p28.png",
+      "bytes": 168892,
+      "sha256": "6b2b77717b39ac96516c7fb71395d9698ce4c63c55cc48c337176b50f4fa16c3",
+      "rendered": true,
+      "actually_inspected": true,
+      "role": "paper_selected_region",
+      "scope": "actual relevant page regions; not all symbols/proofs independently checked"
+    },
+    {
+      "ref": 108,
+      "physical_page": 38,
+      "local_image": "D:\\SKT727\\materials\\constellation_review_B06_20261016\\page_images\\108_p38.png",
+      "bytes": 177034,
+      "sha256": "c1fc4f131a9b3c337164e37e9f2d493cd50789dbea59e98345dbc1caddb9e579",
+      "rendered": true,
+      "actually_inspected": true,
+      "role": "paper_selected_region",
+      "scope": "actual relevant page regions; not all symbols/proofs independently checked"
+    },
+    {
+      "ref": 117,
+      "physical_page": 7,
+      "local_image": "D:\\SKT727\\materials\\constellation_review_B06_20261016\\page_images\\117_p07.png",
+      "bytes": 258980,
+      "sha256": "9e84c88551080136b2a82303ebbd1ee4736bc5f76ef66fb075c51bfb2999a7da",
+      "rendered": true,
+      "actually_inspected": true,
+      "role": "paper_selected_region",
+      "scope": "actual relevant page regions; not all symbols/proofs independently checked"
+    },
+    {
+      "ref": 117,
+      "physical_page": 8,
+      "local_image": "D:\\SKT727\\materials\\constellation_review_B06_20261016\\page_images\\117_p08.png",
+      "bytes": 287554,
+      "sha256": "89ab21aa80866853ca2d6ba646486cea437cea65d6f70da871ec6d9b5eb006a8",
+      "rendered": true,
+      "actually_inspected": true,
+      "role": "paper_selected_region",
+      "scope": "actual relevant page regions; not all symbols/proofs independently checked"
+    },
+    {
+      "ref": 120,
+      "physical_page": 14,
+      "local_image": "D:\\SKT727\\materials\\constellation_review_B06_20261016\\page_images\\120_p14.png",
+      "bytes": 382592,
+      "sha256": "8dcadbbf1fff9fc43704de0e91f63cb73ac5608d41cb8a4d1c844a0e0813b696",
+      "rendered": true,
+      "actually_inspected": true,
+      "role": "paper_selected_region",
+      "scope": "actual relevant page regions; not all symbols/proofs independently checked"
+    },
+    {
+      "ref": 120,
+      "physical_page": 16,
+      "local_image": "D:\\SKT727\\materials\\constellation_review_B06_20261016\\page_images\\120_p16.png",
+      "bytes": 423421,
+      "sha256": "7c1fe9556b9dcce8aa66300e2a7a5f4cb96c84f1414ccb4ce4ed80a8a3e3071f",
+      "rendered": true,
+      "actually_inspected": true,
+      "role": "paper_selected_region",
+      "scope": "actual relevant page regions; not all symbols/proofs independently checked"
+    }
+  ],
+  "actually_inspected_count": 30,
+  "auxiliary_excluded_material_pages": [
+    {
+      "ref": 118,
+      "physical_page": 1,
+      "local_image": "D:\\SKT727\\materials\\constellation_review_B06_20261016\\page_images\\118_p01.png",
+      "bytes": 209992,
+      "sha256": "73bb0f7647e0fedbe6107f8e223ec1b8556764f715ec80c2219ce226919519c8",
+      "rendered": true,
+      "actually_inspected": true,
+      "role": "excluded_slides_identity_audit_only",
+      "scope": "actual relevant page regions; not all symbols/proofs independently checked"
+    },
+    {
+      "ref": 118,
+      "physical_page": 2,
+      "local_image": "D:\\SKT727\\materials\\constellation_review_B06_20261016\\page_images\\118_p02.png",
+      "bytes": 121598,
+      "sha256": "f77e3d849d978e5049ec11227b6cb811ff0531e1283cfc6f50c7b9c85034da65",
+      "rendered": true,
+      "actually_inspected": true,
+      "role": "excluded_slides_identity_audit_only",
+      "scope": "actual relevant page regions; not all symbols/proofs independently checked"
+    }
+  ],
+  "auxiliary_pages_not_counted_as_paper_reading": true,
+  "third_party_images_committed": false
+}

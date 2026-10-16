@@ -1,0 +1,341 @@
+{
+  "batch": "B06_20261016",
+  "policy": "ordinary public metadata/body/PDF requests; denied endpoint stopped; no auth, captcha, TLS-disable, identity impersonation or paywall bypass",
+  "logs": [
+    {
+      "external_log": "D:\\SKT727\\materials\\constellation_review_B06_20261016\\ACQUISITION_ADDITIONAL.json",
+      "bytes": 3880,
+      "sha256": "19c0abbf86f20a7ddc091d295be16b4921cb5fab49edc507957304f15426335f",
+      "sanitized_observations": [
+        {
+          "ref": 35,
+          "url": "https://www.jair.org/index.php/jair/article/download/16997/27120/43309",
+          "method": "ordinary public PDF request; stop403/429; timeout20",
+          "error": "Remote end closed connection without response",
+          "valid_pdf": false
+        },
+        {
+          "ref": 101,
+          "url": "https://link.springer.com/content/pdf/10.1007/s12567-023-00529-5.pdf",
+          "method": "ordinary public PDF request; stop403/429; timeout20",
+          "http_status": 200,
+          "valid_pdf": true,
+          "bytes": 2039929,
+          "pages": 13,
+          "sha256": "e02d7fd2220a4919737c263620e1c259beff884c7d85ff15656b9fad5378fb7c"
+        },
+        {
+          "ref": 102,
+          "url": "https://link.springer.com/content/pdf/10.1007/s12567-025-00651-6.pdf",
+          "method": "ordinary public PDF request; stop403/429; timeout20",
+          "http_status": 200,
+          "valid_pdf": true,
+          "bytes": 1759252,
+          "pages": 14,
+          "sha256": "a5a6ab8a7c4edb752066de7fc35eec30c1fa3a5ecfb878afe7bdfa9dd71e7f03"
+        }
+      ]
+    },
+    {
+      "external_log": "D:\\SKT727\\materials\\constellation_review_B06_20261016\\ACQUISITION_AUTHOR_LINKS.json",
+      "bytes": 1044,
+      "sha256": "47ba2eb9f21cc41a396b32fda34e892fd1c28e2b69b3a3caed9b15292be63a2f",
+      "sanitized_observations": [
+        {
+          "ref": 1,
+          "url": "https://www.researchgate.net/profile/Mohamed-Ben-Larbi/publication/343791434_Towards_the_Automated_Operations_of_Large_Distributed_Satellite_Systems_Part_1_Review_and_Paradigm_Shifts/links/5fc66d7d299bf188d4e8a7cd/Towards-the-Automated-Operations-of-Large-Distributed-Satellite-Systems-Part-1-Review-and-Paradigm-Shifts.pdf",
+          "method": "ordinary corrected public link; original tool had malformed relative404; stop on403",
+          "error": "HTTP Error 403: Forbidden",
+          "valid_pdf": false
+        },
+        {
+          "ref": 10,
+          "url": "https://www.researchgate.net/publication/387365669_Dynamic_Management_Topology_Construction_Evolution_and_Maintenance_of_Low_Earth_Orbit_Mega-Constellation/links/67dd9e8035f7044c924f5a06/Dynamic-Management-Topology-Construction-Evolution-and-Maintenance-of-Low-Earth-Orbit-Mega-Constellation.pdf",
+          "method": "ordinary corrected public link; original tool had malformed relative404; stop on403",
+          "error": "HTTP Error 403: Forbidden",
+          "valid_pdf": false
+        }
+      ]
+    },
+    {
+      "external_log": "D:\\SKT727\\materials\\constellation_review_B06_20261016\\ACQUISITION_B06.json",
+      "bytes": 2495,
+      "sha256": "41dec39997e8338a40d2079fc49f89d19c76ce2e3cccdf94473261f6c2188517",
+      "sanitized_observations": [
+        {
+          "ref": 10,
+          "url": "https://re.public.polimi.it/retrieve/33667063-58a4-447b-9efa-df7e367bd7d9/MAOYW01-25.pdf",
+          "method": "ordinary public urllib request; no authentication; stop on403/429; timeout25",
+          "error": "HTTP Error 403: Forbidden",
+          "valid_pdf": false
+        },
+        {
+          "ref": 93,
+          "url": "https://aero.us.es/rvazquez/papers/CEP-2012.pdf",
+          "method": "ordinary public urllib request; no authentication; stop on403/429; timeout25",
+          "http_status": 200,
+          "valid_pdf": true,
+          "bytes": 1278169,
+          "pages": 13,
+          "sha256": "28fe0c42f83135e4d420b01f3bd3a4010459c39ede2937dfac7550f5406ccb2f"
+        },
+        {
+          "ref": 118,
+          "url": "https://pdfs.semanticscholar.org/1262/03bf709652ddfae86a0d07b480d5946dc47f.pdf",
+          "method": "ordinary public urllib request; no authentication; stop on403/429; timeout25",
+          "http_status": 200,
+          "valid_pdf": true,
+          "bytes": 1527091,
+          "pages": 17,
+          "sha256": "0dc7fda52df151dea29f55c08f72e20154cca2e5b92086e202ff3d2e40674dee"
+        }
+      ]
+    },
+    {
+      "external_log": "D:\\SKT727\\materials\\constellation_review_B06_20261016\\METADATA_B06.json",
+      "bytes": 737,
+      "sha256": "08308bf81b104d1910a0ff2113ff6ab219c891a347747fd735996439348e638d",
+      "sanitized_observations": [
+        {
+          "ref": 1,
+          "url": "https://api.crossref.org/works/10.1016/j.asr.2020.08.009",
+          "http_status": 200,
+          "obtained": true
+        },
+        {
+          "ref": 10,
+          "url": "https://api.crossref.org/works/10.34133/space.0248",
+          "http_status": 200,
+          "obtained": true
+        },
+        {
+          "ref": 93,
+          "url": "https://api.crossref.org/works/10.1016/j.conengprac.2011.09.006",
+          "http_status": 200,
+          "obtained": true
+        },
+        {
+          "ref": 101,
+          "url": "https://api.crossref.org/works/10.1007/s12567-023-00529-5",
+          "http_status": 200,
+          "obtained": true
+        },
+        {
+          "ref": 102,
+          "url": "https://api.crossref.org/works/10.1007/s12567-025-00651-6",
+          "http_status": 200,
+          "obtained": true
+        }
+      ]
+    }
+  ],
+  "HTML_capture_receipts": [
+    {
+      "ref": 1,
+      "local_capture_path": "D:\\SKT727\\materials\\constellation_review_B06_20261016\\WEB_001_cases.txt",
+      "bytes": 29612,
+      "sha256": "f444be7478e24adad275dddc3eb11e2bf9cd1e6020581843d4b453ad32bbae84",
+      "not_PDF_hash": true
+    },
+    {
+      "ref": 1,
+      "local_capture_path": "D:\\SKT727\\materials\\constellation_review_B06_20261016\\WEB_001_limits.txt",
+      "bytes": 30756,
+      "sha256": "69c0085a368d5a3aeddfc49903139072d72862f192d09366ff7cd7ea9bd9b468",
+      "not_PDF_hash": true
+    },
+    {
+      "ref": 1,
+      "local_capture_path": "D:\\SKT727\\materials\\constellation_review_B06_20261016\\WEB_001_operations.txt",
+      "bytes": 29088,
+      "sha256": "e8f90f9afadac551a0dbc83785ef0222039dba2fb9e73c840df7a143e7401201",
+      "not_PDF_hash": true
+    },
+    {
+      "ref": 1,
+      "local_capture_path": "D:\\SKT727\\materials\\constellation_review_B06_20261016\\WEB_PRIMARY_INITIAL.txt",
+      "bytes": 28926,
+      "sha256": "989027aaa664eceeecd397340a42cb70be1df7362593fa35038f2e3f84001b3f",
+      "not_PDF_hash": true
+    },
+    {
+      "ref": 10,
+      "local_capture_path": "D:\\SKT727\\materials\\constellation_review_B06_20261016\\WEB_010_end.txt",
+      "bytes": 20209,
+      "sha256": "b56a6e450b5be95666c7246470aafc2d270fceb31bee2eaf357deb3d7cecf4ae",
+      "not_PDF_hash": true
+    },
+    {
+      "ref": 10,
+      "local_capture_path": "D:\\SKT727\\materials\\constellation_review_B06_20261016\\WEB_010_experiments.txt",
+      "bytes": 18991,
+      "sha256": "83cf8132d67fde1390e31d12d481f5cbe7a634c32e1e1f1770c764c2467208bf",
+      "not_PDF_hash": true
+    },
+    {
+      "ref": 10,
+      "local_capture_path": "D:\\SKT727\\materials\\constellation_review_B06_20261016\\WEB_010_model.txt",
+      "bytes": 20025,
+      "sha256": "db5178b1784be65dd14eb79c098618a5c147533126b67ed0cc9304ec0e53c640",
+      "not_PDF_hash": true
+    },
+    {
+      "ref": 10,
+      "local_capture_path": "D:\\SKT727\\materials\\constellation_review_B06_20261016\\WEB_010_results.txt",
+      "bytes": 22189,
+      "sha256": "67183480406a6b495a3a16c2bfa8b6aff9e270701560c5f508eab754bb78a23b",
+      "not_PDF_hash": true
+    },
+    {
+      "ref": 10,
+      "local_capture_path": "D:\\SKT727\\materials\\constellation_review_B06_20261016\\WEB_010_setup.txt",
+      "bytes": 19501,
+      "sha256": "638fd5a237b1ca889c95fcb749e6e834a7b6b3b6f4d4e039a06aae1393e5549e",
+      "not_PDF_hash": true
+    },
+    {
+      "ref": 10,
+      "local_capture_path": "D:\\SKT727\\materials\\constellation_review_B06_20261016\\WEB_10_and_publications.txt",
+      "bytes": 26900,
+      "sha256": "54729ad8949f13fb2063f7a2dfc0f1bf95d520cafeda37c14a4d21684c514d23",
+      "not_PDF_hash": true
+    }
+  ],
+  "search_and_tool_capture_receipts": [
+    {
+      "external_file": "D:\\SKT727\\materials\\constellation_review_B06_20261016\\SEARCH_s6.txt",
+      "bytes": 31019,
+      "sha256": "88228679b55a53d7e7efc639eec49b7f7797100da05e081e7bf61fe18658ad3c"
+    },
+    {
+      "external_file": "D:\\SKT727\\materials\\constellation_review_B06_20261016\\SEARCH_s7.txt",
+      "bytes": 32259,
+      "sha256": "b8c927a9e6f947242453b6af7d15c444b663318cf49b7b163595ea08be37560e"
+    },
+    {
+      "external_file": "D:\\SKT727\\materials\\constellation_review_B06_20261016\\SEARCH_s8.txt",
+      "bytes": 33003,
+      "sha256": "6cbe2644750cf47eb5deefabf40f13e229f55b7ae37aae30093e479b7e568b6a"
+    },
+    {
+      "external_file": "D:\\SKT727\\materials\\constellation_review_B06_20261016\\SEARCH_s9.txt",
+      "bytes": 35001,
+      "sha256": "54ed58309f8a046c3861922185d876b2ca449499ebeb70fde0512f7dc0bb6d2a"
+    },
+    {
+      "external_file": "D:\\SKT727\\materials\\constellation_review_B06_20261016\\b06search1.txt",
+      "bytes": 38003,
+      "sha256": "4986c2965b6f78739fc1f891991e44285e6c5d021cde4e12e92b3103be82c9e3"
+    },
+    {
+      "external_file": "D:\\SKT727\\materials\\constellation_review_B06_20261016\\b06search2.txt",
+      "bytes": 35007,
+      "sha256": "af4a03a6fb5b8293bec18cdbe102f0b8eeca533a5f7b901b3642374e0f341740"
+    },
+    {
+      "external_file": "D:\\SKT727\\materials\\constellation_review_B06_20261016\\b06search3.txt",
+      "bytes": 39171,
+      "sha256": "4a39278747956c47078004debd93578c8248a5c269d4985e982a4450b3aeab88"
+    },
+    {
+      "external_file": "D:\\SKT727\\materials\\constellation_review_B06_20261016\\b06search4.txt",
+      "bytes": 32652,
+      "sha256": "2f58fa40b407db553ecc7300fd33eed8db41e3eb9f8615f350ebff377dddb484"
+    },
+    {
+      "external_file": "D:\\SKT727\\materials\\constellation_review_B06_20261016\\WEB_001_cases.txt",
+      "bytes": 29612,
+      "sha256": "f444be7478e24adad275dddc3eb11e2bf9cd1e6020581843d4b453ad32bbae84"
+    },
+    {
+      "external_file": "D:\\SKT727\\materials\\constellation_review_B06_20261016\\WEB_001_limits.txt",
+      "bytes": 30756,
+      "sha256": "69c0085a368d5a3aeddfc49903139072d72862f192d09366ff7cd7ea9bd9b468"
+    },
+    {
+      "external_file": "D:\\SKT727\\materials\\constellation_review_B06_20261016\\WEB_001_operations.txt",
+      "bytes": 29088,
+      "sha256": "e8f90f9afadac551a0dbc83785ef0222039dba2fb9e73c840df7a143e7401201"
+    },
+    {
+      "external_file": "D:\\SKT727\\materials\\constellation_review_B06_20261016\\WEB_010_end.txt",
+      "bytes": 20209,
+      "sha256": "b56a6e450b5be95666c7246470aafc2d270fceb31bee2eaf357deb3d7cecf4ae"
+    },
+    {
+      "external_file": "D:\\SKT727\\materials\\constellation_review_B06_20261016\\WEB_010_experiments.txt",
+      "bytes": 18991,
+      "sha256": "83cf8132d67fde1390e31d12d481f5cbe7a634c32e1e1f1770c764c2467208bf"
+    },
+    {
+      "external_file": "D:\\SKT727\\materials\\constellation_review_B06_20261016\\WEB_010_model.txt",
+      "bytes": 20025,
+      "sha256": "db5178b1784be65dd14eb79c098618a5c147533126b67ed0cc9304ec0e53c640"
+    },
+    {
+      "external_file": "D:\\SKT727\\materials\\constellation_review_B06_20261016\\WEB_010_results.txt",
+      "bytes": 22189,
+      "sha256": "67183480406a6b495a3a16c2bfa8b6aff9e270701560c5f508eab754bb78a23b"
+    },
+    {
+      "external_file": "D:\\SKT727\\materials\\constellation_review_B06_20261016\\WEB_010_setup.txt",
+      "bytes": 19501,
+      "sha256": "638fd5a237b1ca889c95fcb749e6e834a7b6b3b6f4d4e039a06aae1393e5549e"
+    },
+    {
+      "external_file": "D:\\SKT727\\materials\\constellation_review_B06_20261016\\WEB_103_initial.txt",
+      "bytes": 19082,
+      "sha256": "e91490b6e8fb6bdd4fa968de39e3807cc06108de673fe728a55e38d9e9bd4a36"
+    },
+    {
+      "external_file": "D:\\SKT727\\materials\\constellation_review_B06_20261016\\WEB_10_and_buffalo.txt",
+      "bytes": 4378,
+      "sha256": "1f176100b40c5558395623929d90a0a4121128da7b49fc818453dab4f7629a10"
+    },
+    {
+      "external_file": "D:\\SKT727\\materials\\constellation_review_B06_20261016\\WEB_10_and_publications.txt",
+      "bytes": 26900,
+      "sha256": "54729ad8949f13fb2063f7a2dfc0f1bf95d520cafeda37c14a4d21684c514d23"
+    },
+    {
+      "external_file": "D:\\SKT727\\materials\\constellation_review_B06_20261016\\WEB_FIND1.txt",
+      "bytes": 22202,
+      "sha256": "f94b4a6a19d64f82c414080cd3d16c8bb655d90f46a5a520ad8435bdcf5e182e"
+    },
+    {
+      "external_file": "D:\\SKT727\\materials\\constellation_review_B06_20261016\\WEB_FIND2.txt",
+      "bytes": 27414,
+      "sha256": "f27979479362497da2c39ac65bf398c4639eaaf2fa43285d22c99951b2000421"
+    },
+    {
+      "external_file": "D:\\SKT727\\materials\\constellation_review_B06_20261016\\WEB_PRIMARY_INITIAL.txt",
+      "bytes": 28926,
+      "sha256": "989027aaa664eceeecd397340a42cb70be1df7362593fa35038f2e3f84001b3f"
+    },
+    {
+      "external_file": "D:\\SKT727\\materials\\constellation_review_B06_20261016\\WEB_PUBLIC_DOWNLOAD_LINKS.txt",
+      "bytes": 1094,
+      "sha256": "8135b371f47c996d0828da637c290e57a3127a28ab2d0f8956a87cce083d6e82"
+    }
+  ],
+  "discovery_only_not_reading_refs": [
+    31,
+    32,
+    35,
+    38,
+    40,
+    54,
+    55,
+    56,
+    59,
+    63,
+    64,
+    99,
+    103,
+    104,
+    110,
+    118
+  ],
+  "excluded_slide_ref": 118,
+  "third_party_fulltext_or_images_committed": false
+}

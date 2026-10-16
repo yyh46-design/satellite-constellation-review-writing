@@ -1,0 +1,25 @@
+{
+  "batch": "B06_20261016",
+  "items": [
+    {
+      "reference_number": 118,
+      "doi": "10.1109/SAM.2018.8448984",
+      "title": "Performance of the Asynchronous Consensus Based Bundle Algorithm in Lossy Network Environments",
+      "candidate_url": "https://pdfs.semanticscholar.org/1262/03bf709652ddfae86a0d07b480d5946dc47f.pdf",
+      "local_pdf_path": "D:\\SKT727\\materials\\constellation_review_B06_20261016\\118_public.pdf",
+      "physical_pages": 17,
+      "bytes": 1527091,
+      "sha256": "0dc7fda52df151dea29f55c08f72e20154cca2e5b92086e202ff3d2e40674dee",
+      "actual_identity": "SAM2018 presentation slides, July9,2018,17pages; not target proceedings paper",
+      "actual_visual_identity_pages": [
+        1,
+        2
+      ],
+      "counted_in_15_reading_sources": false,
+      "counted_in_unique_reading_upgrade": false,
+      "paper_fulltext_obtained": false,
+      "remaining": "target proceedings body needed"
+    }
+  ],
+  "wrong_representation_is_not_reading_completion": true
+}

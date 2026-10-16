@@ -1,0 +1,1722 @@
+{
+  "batch": "B06_20261016",
+  "status": "PASS",
+  "meaning": "provenance/scope/file integrity checks; not independent science or human final verification",
+  "parent_commit": "70a0d54c329b8e39ce8f3e2b675506a94d0c93d6",
+  "frozen_commit": "51be6a1326e8c615ea24f80f1887f16a2e7b02fc",
+  "checks": {
+    "sources": 15,
+    "new_targeted": 3,
+    "partial_upgrade_refs": [
+      1
+    ],
+    "first_body_engagement_refs": [
+      10,
+      93
+    ],
+    "followups": 12,
+    "claims": 62,
+    "local_PDF_hashes_and_page_counts_checked": 13,
+    "new_downloaded_paper_PDF_refs": [
+      93,
+      101,
+      102
+    ],
+    "HTML_body_no_PDF_refs": [
+      1,
+      10
+    ],
+    "actual_paper_visual_pages": 30,
+    "auxiliary_excluded_slide_identity_pages": 2,
+    "excluded_representation_checked_ref": 118,
+    "explicit_v19_citation_rows": 34,
+    "CSV_row_counts": {
+      "CLAIM_DEPENDENCY_MAP.csv": 62,
+      "COMPARISON_MATRIX.csv": 15,
+      "SOURCE_ACCESS_REGISTER.csv": 15,
+      "V19_DEPENDENCY_CHECK_INDEX.csv": 34
+    },
+    "parsed_JSON_before_integrity_and_manifest": 10,
+    "MD_relative_links_checked": 47,
+    "cumulative_unique_counts_consistent": true,
+    "all_prior_open_groups_preserved": true,
+    "historical_paths_unchanged": 275,
+    "historical_raw_bytes_identical": 231,
+    "historical_EOL_only_changes_in_checkout": 44,
+    "frozen_manuscript_git_blob_sha256": "0b9f3f6f6b8d3c13af97f25d7baf3dac6dc18ecad8614e182633e12b6e3bbc69",
+    "all_formal_parity_and_human_final_flags_false": true
+  },
+  "historical_parent_paths": [
+    {
+      "path": "README.md",
+      "parent_blob": "642f79621d93715b96980eab84c61f102f47783a",
+      "raw_bytes_identical": false,
+      "verification": "EOL_only_and_clean_filter_blob_equal"
+    },
+    {
+      "path": "review_writing/.gitignore",
+      "parent_blob": "d86b897d344af211ec5c0b6c0f6f525fda1fbbe5",
+      "raw_bytes_identical": false,
+      "verification": "EOL_only_and_clean_filter_blob_equal"
+    },
+    {
+      "path": "review_writing/README.md",
+      "parent_blob": "6e15917a65954be4e7dc7c70744bab4d600e2508",
+      "raw_bytes_identical": false,
+      "verification": "EOL_only_and_clean_filter_blob_equal"
+    },
+    {
+      "path": "review_writing/discussion/GPT_WRITING_STANDARDS_BRIEF.md",
+      "parent_blob": "f5d3dbb30e92399c37a546fdbe1c8db9954ca97b",
+      "raw_bytes_identical": false,
+      "verification": "EOL_only_and_clean_filter_blob_equal"
+    },
+    {
+      "path": "review_writing/discussion/WRITING_RULES_DECISIONS.md",
+      "parent_blob": "0021f7847db36b3a0f10a57a9b981ffd37d2a6c8",
+      "raw_bytes_identical": false,
+      "verification": "EOL_only_and_clean_filter_blob_equal"
+    },
+    {
+      "path": "review_writing/evidence/CHAPTER_QUESTION_MAP.md",
+      "parent_blob": "9ef286b1e7820a63c25732042c77e40e78bade78",
+      "raw_bytes_identical": false,
+      "verification": "EOL_only_and_clean_filter_blob_equal"
+    },
+    {
+      "path": "review_writing/evidence/FIRST_READING_QUEUE_40.md",
+      "parent_blob": "014a5acffe0828bae0e5aa29e0d56a2832077206",
+      "raw_bytes_identical": false,
+      "verification": "EOL_only_and_clean_filter_blob_equal"
+    },
+    {
+      "path": "review_writing/evidence/MAPPING_BY_SECTION.md",
+      "parent_blob": "c982350362d095a1a62ec9f5eac4c9452bc1c526",
+      "raw_bytes_identical": false,
+      "verification": "EOL_only_and_clean_filter_blob_equal"
+    },
+    {
+      "path": "review_writing/evidence/literature_evidence_mapping_148.csv",
+      "parent_blob": "642177d4dcb6a0c27ba7b73ca1ad5013d969506a",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B00_20261014/.gitattributes",
+      "parent_blob": "fa1385d99a319b43c06f5309d1aae9fdd3adea46",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B00_20261014/ACCESS_ATTEMPTS.json",
+      "parent_blob": "98411b921833d500fb660c152e680549adfae386",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B00_20261014/B01_B02_READINESS.md",
+      "parent_blob": "2ebc5cc23744ae4a5e6ecf277017c6bfcad04555",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B00_20261014/CLAIM_DEPENDENCY_MAP.csv",
+      "parent_blob": "fbc77b4cefee8e18f4e5c47cc62149586a883646",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B00_20261014/DEPENDENCY_MAP_AUDIT.json",
+      "parent_blob": "634b5b0a782e13d815057340a01f7ac65f8b5d2d",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B00_20261014/FROZEN_INPUTS.json",
+      "parent_blob": "8836a2b792feba506e40bebb308bd880c857553b",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B00_20261014/LOCAL_PDF_INVENTORY.json",
+      "parent_blob": "641c1d67bc0e91032a6e9607483c0c77496782aa",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B00_20261014/README.md",
+      "parent_blob": "6d52287d4cbd6b32535a19f2350029b157a78e1c",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B00_20261014/SHA256_MANIFEST.json",
+      "parent_blob": "b0d3acddbd4dd52843f66d061b8542c8b34e4b63",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B00_20261014/SOURCE_ACCESS_DETAILS.json",
+      "parent_blob": "e19c466ddb45e79a6dd26c8b91ddb9f2e16a868a",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B00_20261014/SOURCE_ACCESS_REGISTER.csv",
+      "parent_blob": "c128d6b5a4b9a6e7ddfa2b41a451b4cdd4b22a54",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B00_20261014/UNAVAILABLE_AND_BLOCKERS.md",
+      "parent_blob": "8c265fd1d16771e7b2226094e0883c4663b15566",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B00_20261014/VERSION_COMPARISON_QUEUE.json",
+      "parent_blob": "20e56dff4dde75de44d81ca93f3f743eea4ca6e7",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B00_20261014/WEB_ACCESS_OBSERVATIONS.json",
+      "parent_blob": "a6fef9cca6d415a1ee14bbcab7702f8f87433f40",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B01_20261014/.gitattributes",
+      "parent_blob": "fa1385d99a319b43c06f5309d1aae9fdd3adea46",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B01_20261014/CLAIM_CHECKS_B01.json",
+      "parent_blob": "e9f49430a18008588627b59c9183fd2645d5915f",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B01_20261014/CROSS_STUDY_COMPARISON.md",
+      "parent_blob": "5921a2e77c7562c384e259fb2f175cb80a13a55e",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B01_20261014/OPEN_ITEMS_B01.md",
+      "parent_blob": "4f146293778934fa09b2e4b3f4a241cc53a698cb",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B01_20261014/OPEN_ITEM_STATUS_B01.json",
+      "parent_blob": "a6107c0f7c2f29c717382ee8a35d3e3460d02047",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B01_20261014/PAIR_121_AUTHOR_VERSIONS.json",
+      "parent_blob": "25fda9e0d8774d8284f36110d51bef9c58742b47",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B01_20261014/READING_NOTES_042.md",
+      "parent_blob": "25fd7a1d73cd9af6cc7be8ac6bafd065ad99674e",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B01_20261014/READING_NOTES_044.md",
+      "parent_blob": "3577f808b5abdc34c91d39eed23bd7e6d61d16f5",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B01_20261014/READING_NOTES_053.md",
+      "parent_blob": "71ef15a818ed12c1d63a14174fc65d2d4f85c253",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B01_20261014/READING_NOTES_074.md",
+      "parent_blob": "7c2fcff8cef305f94f21742ad30e142cfe9ddfd6",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B01_20261014/READING_NOTES_076.md",
+      "parent_blob": "aba12114413224a3df62efd3c59705738ad7139a",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B01_20261014/READING_NOTES_121.md",
+      "parent_blob": "f0ad1a4d52adf0b88caca4050c3742aaca6087af",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B01_20261014/READING_SCOPE_B01.json",
+      "parent_blob": "a1baa5f87ef3c5b33a8edcc30ca26382fc7ed370",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B01_20261014/README.md",
+      "parent_blob": "a8ee84328eb2d6bcb456db11955e3287058a37bb",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B01_20261014/SHA256_MANIFEST.json",
+      "parent_blob": "0ca501558351808bc8f3dbc90404a2b2e55019b7",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B01_20261014/SOURCE_MANIFEST_B01.json",
+      "parent_blob": "dd6754ac44fbc43e99b8955738edc6ed890d241e",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B01_20261014/V19_CHANGE_CANDIDATES.md",
+      "parent_blob": "7c726a42b8a689c4d33bb5699f76acf582f0b5a4",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B01_20261014/V19_DEPENDENCY_CHECK_INDEX.csv",
+      "parent_blob": "0588ec43773a82a4f066831b6050a79703f82ddb",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B02_20261015/.gitattributes",
+      "parent_blob": "fa1385d99a319b43c06f5309d1aae9fdd3adea46",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B02_20261015/ACCESS_OBSERVATIONS.json",
+      "parent_blob": "de6906865cca4bce8429ed9bf83c70fcb24114d5",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B02_20261015/CLAIM_CHECKS_B02.json",
+      "parent_blob": "8f68bed40278543cb1769bc02ba53598089970e0",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B02_20261015/CROSS_STUDY_SYNTHESIS.md",
+      "parent_blob": "15d8dc53d44675c50bd578777c7b5c42317f0b29",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B02_20261015/CUMULATIVE_READING_STATUS.json",
+      "parent_blob": "8f79a66e3bba18a9409b276254c71314b072966f",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B02_20261015/CUMULATIVE_READING_STATUS.md",
+      "parent_blob": "878329e640f3e3a4a628b4b36268cb00c2f1ac73",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B02_20261015/ENGINEERING_CASE_INTEGRATION.md",
+      "parent_blob": "08c4b13a6662cd7693945cad8f8c9cf67b82ed67",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B02_20261015/OPEN_ITEMS_B02.md",
+      "parent_blob": "015128e36f4924aad87bc9ab8af905ae180fb125",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B02_20261015/OPEN_ITEM_STATUS_B02.json",
+      "parent_blob": "207da009a4f7d87e70a376ed5bde7dad3bd82ccd",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B02_20261015/READING_NOTES_017.md",
+      "parent_blob": "0c8ea7092b092157ebba39d3c9f903a07dbd8249",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B02_20261015/READING_NOTES_023.md",
+      "parent_blob": "c8c74317d1c96db08740f4b88d61c9a8e135605c",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B02_20261015/READING_NOTES_027.md",
+      "parent_blob": "f8b94bc7af5644c6bc46d8508c64c5e9855ea6be",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B02_20261015/READING_NOTES_028.md",
+      "parent_blob": "c0fde42c13e15abea9fb67c2545980e50154fc0c",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B02_20261015/READING_NOTES_034.md",
+      "parent_blob": "2c09c2deeff24c2eeb966513d013e54a5f745ddd",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B02_20261015/READING_NOTES_065.md",
+      "parent_blob": "ba3d9bd7532fdf013a860f5852dd6118e8181a9a",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B02_20261015/READING_NOTES_084.md",
+      "parent_blob": "28bc36ce07054188f28e1e6420e2fe50b58ac324",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B02_20261015/READING_NOTES_085.md",
+      "parent_blob": "b31869a03be4aca1100d83504da68d0154f1406b",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B02_20261015/READING_NOTES_087.md",
+      "parent_blob": "867f7cac594af05640198a9f5bb47fb4e7027979",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B02_20261015/READING_NOTES_095.md",
+      "parent_blob": "e434d420048471e231c60744fb0175379bc88ed2",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B02_20261015/READING_NOTES_098.md",
+      "parent_blob": "074f8dac02109c248cee5baf96792fbdb80f3b42",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B02_20261015/READING_NOTES_108.md",
+      "parent_blob": "d280d55b67e562a0968744d99f8af86b725dd39d",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B02_20261015/READING_NOTES_109.md",
+      "parent_blob": "b1004d8b7f951e52246a9e408e0e5c4980bf79e4",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B02_20261015/READING_NOTES_117.md",
+      "parent_blob": "f64a182ec8af4e59a8c8385e759f3958ecf5e04d",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B02_20261015/READING_NOTES_120.md",
+      "parent_blob": "664cbcb2184814683265092ce5cca1c362657d63",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B02_20261015/READING_SCOPE_B02.json",
+      "parent_blob": "3d215206fc99a1d0c3b32135ed62718955f9ee59",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B02_20261015/README.md",
+      "parent_blob": "c214b14f3a7fb7ffbc82d3100531ac591606e628",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B02_20261015/SHA256_MANIFEST.json",
+      "parent_blob": "e7c5e312288663a0d7c28f644cf0906015ba5797",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B02_20261015/SOURCE_ACCESS_REGISTER.csv",
+      "parent_blob": "3c23e401444bdbd2d8bb373f80bb01840127bfa8",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B02_20261015/SOURCE_MANIFEST_B02.json",
+      "parent_blob": "5e8ad1d286f7a825318f5d899b68e96d5c925c7c",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B02_20261015/V19_CHANGE_CANDIDATES.md",
+      "parent_blob": "271d25ad6c86cb7b6483c56ab0d0609c164e66fd",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B02_20261015/V19_DEPENDENCY_CHECK_INDEX.csv",
+      "parent_blob": "4c8c4c55b115cd79ad8c7cf382f8c8d5fc41f99f",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B02_20261015/VERIFICATION_B02.json",
+      "parent_blob": "9ee34e6fc771bb53fada79e9a5740fa13e33fcc4",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B03_20261015/.gitattributes",
+      "parent_blob": "fa1385d99a319b43c06f5309d1aae9fdd3adea46",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B03_20261015/ACCESS_OBSERVATIONS.json",
+      "parent_blob": "fb8e7d224b8a19e4279013c6ee9669a2a93cdbfb",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B03_20261015/CLAIM_CHECKS_B03.json",
+      "parent_blob": "18813c543c9893adc1cea06249463951c86b2e60",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B03_20261015/COMPARISON_MATRIX.csv",
+      "parent_blob": "d115b92f1eb0a90bb3ed6f5f76491d58024b0294",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B03_20261015/CROSS_STUDY_SYNTHESIS.md",
+      "parent_blob": "1d9fa320379ec2a7a217b8820f32b4318c1a6c6c",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B03_20261015/CUMULATIVE_READING_STATUS.json",
+      "parent_blob": "a34e055c25163d567811c3055001e702b100c4ea",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B03_20261015/CUMULATIVE_READING_STATUS.md",
+      "parent_blob": "38cba925e46f2dd5b750b322ef1a8d962754b1f2",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B03_20261015/ENGINEERING_CASE_DSN.md",
+      "parent_blob": "6beb40a1653104cf8efcaf422c0bb312183b41ec",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B03_20261015/OPEN_ITEMS_B03.md",
+      "parent_blob": "2eb902e4026eb86cb5e284820d914f07f3da0dfe",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B03_20261015/OPEN_ITEM_STATUS_B03.json",
+      "parent_blob": "55c1c6827995c447ec6d59567085a6702aa0cc44",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B03_20261015/READING_NOTES_012.md",
+      "parent_blob": "6b52fafc9eb64c0f1f260ec94287641a4af558da",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B03_20261015/READING_NOTES_013.md",
+      "parent_blob": "a03e31490cd61e76ca5685207c7af17b673e32f7",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B03_20261015/READING_NOTES_014.md",
+      "parent_blob": "01e5e08c76cf0f3aa4ef0b55bb6a2654aa33f686",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B03_20261015/READING_NOTES_020.md",
+      "parent_blob": "5830de65d0a2c83f9cd9c409acb2609375b44b9f",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B03_20261015/READING_NOTES_021.md",
+      "parent_blob": "ffacc5d554f5fa3844dd78d6601dc1949f3ffc80",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B03_20261015/READING_NOTES_024.md",
+      "parent_blob": "d72306caea6819ebab0db46dbcf25586c2f9e6dd",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B03_20261015/READING_NOTES_025.md",
+      "parent_blob": "36125951f8b197187f9055bbb4bd6914060abb55",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B03_20261015/READING_NOTES_036.md",
+      "parent_blob": "7109b7e877ca577da8dfe93583f234daea4f6506",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B03_20261015/READING_NOTES_041.md",
+      "parent_blob": "ec26103b00615c4fde608b2919c9180c12ffbfa9",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B03_20261015/READING_NOTES_047.md",
+      "parent_blob": "4120f5b48f20abd1693e03127dc053864287f135",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B03_20261015/READING_NOTES_048.md",
+      "parent_blob": "167e09eac7a48776d74fa9e97445406a23c41668",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B03_20261015/READING_NOTES_049.md",
+      "parent_blob": "8076e8183cc14088f4ebf001e001bbaa231b4a94",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B03_20261015/READING_NOTES_050.md",
+      "parent_blob": "48931fa66bb9194fee49a74d8de7a73635ae18b4",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B03_20261015/READING_NOTES_058.md",
+      "parent_blob": "16ede2a96bef5b30717f4c2c5339fdacb96dad33",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B03_20261015/READING_NOTES_116.md",
+      "parent_blob": "6e251edf3c1f65d8921f65b6f8d81eaca0710feb",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B03_20261015/READING_SCOPE_B03.json",
+      "parent_blob": "c4acfcc73bf84aa2eb02bdb1a9dc7c89d046264b",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B03_20261015/README.md",
+      "parent_blob": "a7d96923ead1d1cd792236dbab18a7da2198abfe",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B03_20261015/SHA256_MANIFEST.json",
+      "parent_blob": "7bc6c17efbf1e1715d2aff05e9787d97ce647350",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B03_20261015/SOURCE_ACCESS_REGISTER.csv",
+      "parent_blob": "3ac1cf4f8def3acd7ff3a6f3425630d3b66b76c6",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B03_20261015/SOURCE_MANIFEST_B03.json",
+      "parent_blob": "2311eb836d4fdbf5e44483dfdc34448d013a0e61",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B03_20261015/V19_CHANGE_CANDIDATES.md",
+      "parent_blob": "324b4cb7a242ef6e73617cd43e751a1301611086",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B03_20261015/V19_DEPENDENCY_CHECK_INDEX.csv",
+      "parent_blob": "b82c2a7073e7f5ce9d3446c925642d51db8b3a7c",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B03_20261015/VERIFICATION_B03.json",
+      "parent_blob": "d54a8f57b796b734c28e569780aab661744208c1",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B04_20261015/.gitattributes",
+      "parent_blob": "fa1385d99a319b43c06f5309d1aae9fdd3adea46",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B04_20261015/ACCESS_OBSERVATIONS.json",
+      "parent_blob": "b51a0db9f2a5fa54df59d2bf7188b4dd9a3332c2",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B04_20261015/CLAIM_CHECKS_B04.json",
+      "parent_blob": "82a6c9d442c7d24a1ad3cceb47b9b4e69e5f8974",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B04_20261015/COMPARISON_MATRIX.csv",
+      "parent_blob": "c1df689c2fc5dc0131c66519a3a5575250d2b89c",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B04_20261015/CROSS_STUDY_SYNTHESIS.md",
+      "parent_blob": "6d6af57f7a2596ff30373a2b1feb91897bc8ba62",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B04_20261015/CUMULATIVE_DERIVED_LEDGER_121.json",
+      "parent_blob": "70cb24593ba99018aa6af634cca07902fda680dc",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B04_20261015/CUMULATIVE_READING_STATUS.json",
+      "parent_blob": "903f384b0b4dbe57496d512dd16bc5a2d1782c4d",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B04_20261015/CUMULATIVE_READING_STATUS.md",
+      "parent_blob": "58310c94377d3e8c03e347398c3b39cb5ebbe55c",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B04_20261015/OPEN_ITEMS_B04.md",
+      "parent_blob": "c84702297bce2814649a58a661a11a39bc8827bb",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B04_20261015/OPEN_ITEM_STATUS_B04.json",
+      "parent_blob": "41ccb10255fdcb6775482952ae89bb6a9e0e31cb",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B04_20261015/READING_NOTES_002.md",
+      "parent_blob": "53402b46cff74a29c568cfa51a809658281d0ecd",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B04_20261015/READING_NOTES_005.md",
+      "parent_blob": "865bcc99a0f10c1e9188bbfd626d9cc8500a40f1",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B04_20261015/READING_NOTES_007.md",
+      "parent_blob": "0a32b491466a2781fd7ca4537573ad4e7374861e",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B04_20261015/READING_NOTES_008.md",
+      "parent_blob": "d36cac7dde3bc0c64e7e8fe9ef4ecf5f90592e38",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B04_20261015/READING_NOTES_016.md",
+      "parent_blob": "f4da0092f1cf1a1a326daa14e48dd615f842d599",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B04_20261015/READING_NOTES_019.md",
+      "parent_blob": "07cd276d722fb957c460e8ca46e268c0cd210c09",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B04_20261015/READING_NOTES_026.md",
+      "parent_blob": "f0d23e921c51884e8557bb12fa89f0c5d2cfd715",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B04_20261015/READING_NOTES_030.md",
+      "parent_blob": "811adc79e04fb602450f5f30b758baa40aefa3a6",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B04_20261015/READING_NOTES_039.md",
+      "parent_blob": "745bd9415d27d33d94c6abe8e0a8b0feb0ff9a2b",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B04_20261015/READING_NOTES_057.md",
+      "parent_blob": "3b5f437c917b667ac5e4b61535410d98cc79891a",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B04_20261015/READING_NOTES_061.md",
+      "parent_blob": "d7d95deb6eea77e82adca404b380a2c1b633b6c3",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B04_20261015/READING_NOTES_062.md",
+      "parent_blob": "9e821fd1815b898e38510d821220dffa430ceeee",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B04_20261015/READING_NOTES_072.md",
+      "parent_blob": "4b1ff35361e8abb3c12a8f8d481c9c2eb0cbb260",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B04_20261015/READING_NOTES_086.md",
+      "parent_blob": "636d08bd55c231f37567d83459764c1c86217fe7",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B04_20261015/READING_NOTES_092.md",
+      "parent_blob": "f8f2fc4d139634ee6c7dc7cab76078c4b68e3567",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B04_20261015/READING_SCOPE_B04.json",
+      "parent_blob": "27392254b05d2d77cf9e06858b5f408a129b10dd",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B04_20261015/README.md",
+      "parent_blob": "a89550ca2eca1509f659816f3d631395ce7c4e3e",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B04_20261015/REVIEW_POSITIONING.md",
+      "parent_blob": "80e886e1c5b8d95625030250bc6f6c8ef2c14935",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B04_20261015/SHA256_MANIFEST.json",
+      "parent_blob": "9486c57534c5cccad5b02c6225d6939dee9fb1cf",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B04_20261015/SOURCE_ACCESS_REGISTER.csv",
+      "parent_blob": "06104cd617984ddfec11e32fb7f6e0fa8966e88c",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B04_20261015/SOURCE_MANIFEST_B04.json",
+      "parent_blob": "768c7377ba147f7e93ac10cf6c9e15afde81e238",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B04_20261015/V19_CHANGE_CANDIDATES.md",
+      "parent_blob": "d134eef7cc05bb240ade4d238cc3753c169b8c15",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B04_20261015/V19_DEPENDENCY_CHECK_INDEX.csv",
+      "parent_blob": "fa4441ea791cbcbc4ff73de88b53653deab12d2b",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B04_20261015/VERIFICATION_B04.json",
+      "parent_blob": "7b286e605718921f07a8faf9355883f75ae4d24d",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B04_20261015/VERSION_COMPARISON_QUEUE.json",
+      "parent_blob": "a87ae64c67e5445081b862844afb4cf2a10ff93c",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B05_20261016/.gitattributes",
+      "parent_blob": "fa1385d99a319b43c06f5309d1aae9fdd3adea46",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B05_20261016/ACCESS_OBSERVATIONS.json",
+      "parent_blob": "bf877afb432aef248bc3610a0af7a3581e9f1023",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B05_20261016/CLAIM_CHECKS_B05.json",
+      "parent_blob": "058e68c2bb3e1fcd74b137490a2965d8d0b9c48d",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B05_20261016/CLAIM_DEPENDENCY_MAP.csv",
+      "parent_blob": "7aaa3aa5626dfa553d9594a21aca8056a44e6725",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B05_20261016/COMPARISON_MATRIX.csv",
+      "parent_blob": "6cce8a2850c657621a4fc5118e0625594041ab38",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B05_20261016/CROSS_STUDY_SYNTHESIS.md",
+      "parent_blob": "e5146c7b799fbee011953e81d2ed060506c6f7df",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B05_20261016/CUMULATIVE_DERIVED_LEDGER_121.json",
+      "parent_blob": "c8fbc0070c32d085d61dea5ae6240df6e4489550",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B05_20261016/CUMULATIVE_READING_STATUS.json",
+      "parent_blob": "abc52bf50c009c823db6c9b445f6d1becd078053",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B05_20261016/CUMULATIVE_READING_STATUS.md",
+      "parent_blob": "2834b79880bcea5633c14dd78881d7f2eab385d1",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B05_20261016/INTEGRITY_CHECK.json",
+      "parent_blob": "fb0e06d5c0378cd36ee6833b679615836c850bce",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B05_20261016/NEXT_BATCH_READINESS.md",
+      "parent_blob": "eca9110bd55f220ea7f7dca63272ad65552371bc",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B05_20261016/OPEN_ITEMS_B05.md",
+      "parent_blob": "335ba5656c77a8eb31003cbc12dacc319a07e676",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B05_20261016/OPEN_ITEM_STATUS_B05.json",
+      "parent_blob": "1557474a2f11d3809dddb1576fde458fb0fce5fe",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B05_20261016/READING_NOTES_003.md",
+      "parent_blob": "737b56ee83e96310dec2a440481a3c9a10602ef1",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B05_20261016/READING_NOTES_004.md",
+      "parent_blob": "4fa7b9c4e7f676233a59e5a3712f07b20637c331",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B05_20261016/READING_NOTES_006.md",
+      "parent_blob": "0f45de5d6667b3f573de4d390e03d1714f38cfbc",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B05_20261016/READING_NOTES_011.md",
+      "parent_blob": "64e8510d08e486c553347e04e8a11cb87b5b1244",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B05_20261016/READING_NOTES_015.md",
+      "parent_blob": "4eda09b689ad2c37765e2342d7335035a6a4017b",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B05_20261016/READING_NOTES_016.md",
+      "parent_blob": "fb7269a2b06ee4edbfac320fc41dd7d5be8c8ee9",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B05_20261016/READING_NOTES_037.md",
+      "parent_blob": "f4522dcfa2f53ed8296d01a4581d5fe78805b9cb",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B05_20261016/READING_NOTES_041.md",
+      "parent_blob": "4cbd3c5aff8817abaa9ad9a0920b8e53d70f75ee",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B05_20261016/READING_NOTES_049.md",
+      "parent_blob": "de7701a84b08416698bff9894780a28f05d02c51",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B05_20261016/READING_NOTES_057.md",
+      "parent_blob": "89b8cf120354291c85b195427aad58b88e526ccd",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B05_20261016/READING_NOTES_061.md",
+      "parent_blob": "ae87770a33ac01c71cd578282d5f67bf67d5d187",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B05_20261016/READING_NOTES_062.md",
+      "parent_blob": "5feb72b4ae314edb06536a0924d50995d62d0689",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B05_20261016/READING_NOTES_091.md",
+      "parent_blob": "a1c031609e01e6a24064fa7a56eb62029b5b93e5",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B05_20261016/READING_NOTES_092.md",
+      "parent_blob": "7e769f9dbdc019e3e27dbb4dceffe454d5a65f20",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B05_20261016/READING_NOTES_105.md",
+      "parent_blob": "1343f2fbfb6d6fc7304884f67dcac7fd1ce9ef7b",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B05_20261016/READING_SCOPE_B05.json",
+      "parent_blob": "1698eff989c1f429996433c2dd23e26b9c8290af",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B05_20261016/README.md",
+      "parent_blob": "75416a64838cd7a9eb2d7ad0cc9780b637b67f36",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B05_20261016/SHA256_MANIFEST.json",
+      "parent_blob": "04451aab7a7857f46d74b74ac7956f8ad7eeccfd",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B05_20261016/SOURCE_ACCESS_REGISTER.csv",
+      "parent_blob": "b9fb2ae683fff72a5328cbe02f224e9fab6ee969",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B05_20261016/SOURCE_MANIFEST_B05.json",
+      "parent_blob": "4507627fb8612dc09d6df3fa255e62ea0a5cf2bc",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B05_20261016/UNAVAILABLE_AND_BLOCKERS.md",
+      "parent_blob": "a78a9893d96468131f14b90c2de1d5926833467e",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B05_20261016/V19_CHANGE_CANDIDATES.md",
+      "parent_blob": "a8ecab010821673d537e1bb4dccc037cae8874e7",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B05_20261016/V19_DEPENDENCY_CHECK_INDEX.csv",
+      "parent_blob": "d3fa58b6988563b52097eb2a57a195802728030e",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B05_20261016/VERSION_COMPARISON_QUEUE.json",
+      "parent_blob": "9a084f902bdca537c89413b83703afcfd2f44758",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B05_20261016/VISUAL_INSPECTION_RECEIPT.json",
+      "parent_blob": "e17fa44286f7d24f9b092574b17761cf97ae4c1f",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/evidence/reading_inventory_20261013/AUDIT_PROVENANCE_CN.md",
+      "parent_blob": "462047408f765eaaaf4c7f5d7b87030939b2eb1d",
+      "raw_bytes_identical": false,
+      "verification": "EOL_only_and_clean_filter_blob_equal"
+    },
+    {
+      "path": "review_writing/evidence/reading_inventory_20261013/NEXT_READING_QUEUE_CN.md",
+      "parent_blob": "e67f89ebf3b0fa644656d99fd2115fd149a49338",
+      "raw_bytes_identical": false,
+      "verification": "EOL_only_and_clean_filter_blob_equal"
+    },
+    {
+      "path": "review_writing/evidence/reading_inventory_20261013/READING_LEDGER_121.csv",
+      "parent_blob": "0f8fddab9af19e0478a8b1eea25624fe0a133787",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/evidence/reading_inventory_20261013/READING_LEDGER_121.json",
+      "parent_blob": "4043e6b476e252d2d6c6dd9e6c535ada4ee5ecba",
+      "raw_bytes_identical": false,
+      "verification": "EOL_only_and_clean_filter_blob_equal"
+    },
+    {
+      "path": "review_writing/evidence/reading_inventory_20261013/READING_STATUS_SUMMARY_CN.md",
+      "parent_blob": "b29c8f71e472c0443b2200b4c72aed7f5e7e9642",
+      "raw_bytes_identical": false,
+      "verification": "EOL_only_and_clean_filter_blob_equal"
+    },
+    {
+      "path": "review_writing/evidence/reading_inventory_20261013/README.md",
+      "parent_blob": "e268eea56875bafaa30caa01eb85e10376629ddf",
+      "raw_bytes_identical": false,
+      "verification": "EOL_only_and_clean_filter_blob_equal"
+    },
+    {
+      "path": "review_writing/framework/FIVE_CHAPTER_OUTLINE.md",
+      "parent_blob": "a7f2a7f2e49d125f78225ea4a1efc6b3c78fb0bd",
+      "raw_bytes_identical": false,
+      "verification": "EOL_only_and_clean_filter_blob_equal"
+    },
+    {
+      "path": "review_writing/literature/LITERATURE_INDEX_148.md",
+      "parent_blob": "badb2e9d596d6faa388f049576727ff6598fff09",
+      "raw_bytes_identical": false,
+      "verification": "EOL_only_and_clean_filter_blob_equal"
+    },
+    {
+      "path": "review_writing/literature/PENDING_CANDIDATES.md",
+      "parent_blob": "fb18922f9e9b5d5e800de22e18d91d11f866f4bf",
+      "raw_bytes_identical": false,
+      "verification": "EOL_only_and_clean_filter_blob_equal"
+    },
+    {
+      "path": "review_writing/literature/literature_index_148.csv",
+      "parent_blob": "59235d068205b47d4b6672a4a747af8c61ab5788",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/literature/references_148.bib",
+      "parent_blob": "c2a94cba628661d2843de182cdc76b8befecc2bf",
+      "raw_bytes_identical": false,
+      "verification": "EOL_only_and_clean_filter_blob_equal"
+    },
+    {
+      "path": "review_writing/manuscripts/.gitattributes",
+      "parent_blob": "9ce28c3eea80c3e978a27d6a22d0ac5dfd5ce5f1",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/manuscripts/v1.5/REVIEW_MAIN_DRAFT_v1.5.md",
+      "parent_blob": "903596feafc6c9abd7ff2c03462ec932ee87cde7",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/manuscripts/v1.6/CORE_CLAIM_CHECKS_ROUND1.csv",
+      "parent_blob": "74fcd7ec13353d02384db751a9974b99c190c044",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/manuscripts/v1.6/CORE_LITERATURE_AUDIT_ROUND1.json",
+      "parent_blob": "2743dec1b3cc494a6d2b18aa608b0cf528d72808",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/manuscripts/v1.6/CORE_LITERATURE_AUDIT_ROUND1.md",
+      "parent_blob": "671a4e28e7dfe317e137fdff46fda58cdaf3bed3",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/manuscripts/v1.6/GPT_NEXT_STEPS_v1.6.md",
+      "parent_blob": "a9501dc2ed88636096f9bd57d6178df5d265594d",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/manuscripts/v1.6/NARRATIVE_COMPARISON_v1.6.md",
+      "parent_blob": "73e1834c7844a94300e9f824b096b3cca995446e",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/manuscripts/v1.6/PACKAGE_MANIFEST_v1.6.json",
+      "parent_blob": "285665b28db7beaead3e9e5e11888a88260d9590",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/manuscripts/v1.6/README.md",
+      "parent_blob": "a72ed07a372f0c2a29b539092891134aeaa2b0c8",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/manuscripts/v1.6/REMAINING_SOURCE_VERIFICATION_QUEUE_v1.6.csv",
+      "parent_blob": "0b9ea61d392eaa7d6bd65eca4d5e6d46bdfc506b",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/manuscripts/v1.6/REVIEW_MAIN_DRAFT_v1.6.md",
+      "parent_blob": "99dcc75371385a31d3dd1d1f5a680ade8d0f71f1",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/manuscripts/v1.6/REVIEW_MAIN_DRAFT_v1.6_PREVIEW.html",
+      "parent_blob": "0ed883787601447e129a2eb166db039fa1bc71d6",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/manuscripts/v1.6/REVISION_NOTES_v1.6.md",
+      "parent_blob": "5226d42747f8c103a90b586ec4418d9a064cb663",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/manuscripts/v1.6/SOURCE_AND_CLAIM_RECORD_v1.6.json",
+      "parent_blob": "e9aeb1a93909a9ab4bb29cbbc87901d1467bab15",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/manuscripts/v1.8/REVIEW_CN_v1.8.md",
+      "parent_blob": "133f6c9293ab47b68e5d708a681c9f4c89dc9e02",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/manuscripts/v1.8/REVISION_CHARTER_v1.0.md",
+      "parent_blob": "de2a4acca6eed308607c090c85d254c2b50fcd58",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/manuscripts/v1.9/CHANGES_v1.8_TO_v1.9.md",
+      "parent_blob": "2acc7dddae68b2f55a4a5801250afa726c29548a",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/manuscripts/v1.9/CHAPTER_ARGUMENT_AUDIT_v1.8_to_v1.9.md",
+      "parent_blob": "323e7bfbacbcfc63b95ea282c07cce74821d461a",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/manuscripts/v1.9/CONTRIBUTION_EVIDENCE_MAP_v1.9.md",
+      "parent_blob": "5cd060b67e36c36b55a0ce37d7bbd33af331213d",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/manuscripts/v1.9/CORE_LITERATURE_AUDIT_ROUND4.json",
+      "parent_blob": "9b166747d2363fc6c677ed20c8415e958931c6e1",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/manuscripts/v1.9/CORE_LITERATURE_AUDIT_ROUND4.md",
+      "parent_blob": "4cb722c419a1032b1c80020aa4f68106ea9a5f96",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/manuscripts/v1.9/OPEN_ITEMS_v1.9.md",
+      "parent_blob": "a1e6d0abdfc490f102c8cd4a915b3dc80563c573",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/manuscripts/v1.9/README.md",
+      "parent_blob": "16e27e0fc01f4610bf7adbdfdeaded1e616d4140",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/manuscripts/v1.9/REVIEW_CN_v1.9.md",
+      "parent_blob": "4d908548705b947a541c1dd3db973c09631b70d2",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/manuscripts/v1.9/REVISION_GATE_STATUS_v1.9.json",
+      "parent_blob": "9ec1a6f1740e2619be27dc57ce7fbcc72305ec8b",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/manuscripts/v1.9/SOURCE_CITATION_INDEX_121_v1.9.json",
+      "parent_blob": "f19de0bd597d0a2ed1cb99c7967d24461744de3a",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/provenance/PACKAGE_MANIFEST.json",
+      "parent_blob": "405cedd8a0abd9bcf069c85b79eb7de0e85ddde1",
+      "raw_bytes_identical": false,
+      "verification": "EOL_only_and_clean_filter_blob_equal"
+    },
+    {
+      "path": "review_writing/provenance/PUBLICATION_SCOPE.md",
+      "parent_blob": "d996d751ee281f5e4de78f989a83a37f5ab96ac1",
+      "raw_bytes_identical": false,
+      "verification": "EOL_only_and_clean_filter_blob_equal"
+    },
+    {
+      "path": "review_writing/snapshots/literature_20261009/annotations.json",
+      "parent_blob": "34a48d3dc626caa79d96ff047fd8781d4ceda92c",
+      "raw_bytes_identical": false,
+      "verification": "EOL_only_and_clean_filter_blob_equal"
+    },
+    {
+      "path": "review_writing/snapshots/literature_20261009/build_literature.mjs",
+      "parent_blob": "48a769dbe668ae8deff5ad612604b2ca7d63b41a",
+      "raw_bytes_identical": false,
+      "verification": "EOL_only_and_clean_filter_blob_equal"
+    },
+    {
+      "path": "review_writing/snapshots/literature_20261009/crossref_discovery.json",
+      "parent_blob": "ab7510db7fbf9a9343f1d6f148794bba1f94f18b",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/snapshots/literature_20261009/crossref_metadata.json",
+      "parent_blob": "406c96e280d82f21666e6d65505b7f51db50b16f",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/snapshots/literature_20261009/delivery_audit.json",
+      "parent_blob": "3cd34e79d517f03476870f1cd44b9e7b84d47a44",
+      "raw_bytes_identical": false,
+      "verification": "EOL_only_and_clean_filter_blob_equal"
+    },
+    {
+      "path": "review_writing/snapshots/literature_20261009/formula_error_scan.json",
+      "parent_blob": "fc088f9aa5ccad2bf68814b5d86b3db5f51076b1",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/snapshots/literature_20261009/literature_records.json",
+      "parent_blob": "1ff4a56c2484e37ff3898944578836ac02c8f8b2",
+      "raw_bytes_identical": false,
+      "verification": "EOL_only_and_clean_filter_blob_equal"
+    },
+    {
+      "path": "review_writing/snapshots/literature_20261009/search_queries.json",
+      "parent_blob": "8f16aa0b80aeb7fdd89d63353fd8dfb0d25a0eee",
+      "raw_bytes_identical": false,
+      "verification": "EOL_only_and_clean_filter_blob_equal"
+    },
+    {
+      "path": "review_writing/snapshots/literature_20261009/workbook_inspection.json",
+      "parent_blob": "bc643506e39347d0af26b60b76865401896c02c2",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/snapshots/literature_20261009/星座运维综述文献矩阵_20261009.xlsx",
+      "parent_blob": "9290bd043f699c1f1ce9f5bdccba9d9a46c38506",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/snapshots/literature_round2_20261009/build_round2.mjs",
+      "parent_blob": "a1dfe3b8314eea99292d50df4b26ef347192906e",
+      "raw_bytes_identical": false,
+      "verification": "EOL_only_and_clean_filter_blob_equal"
+    },
+    {
+      "path": "review_writing/snapshots/literature_round2_20261009/crossref_discovery.json",
+      "parent_blob": "dedf79050b0b625b91c5117d8a12b946d14e2aab",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/snapshots/literature_round2_20261009/crossref_metadata.json",
+      "parent_blob": "cbda8d810a13cb375024df76239143dfe2e69a26",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/snapshots/literature_round2_20261009/delivery_audit.json",
+      "parent_blob": "9ffe8461309ea81c5b52851833ba30d8c31ba4aa",
+      "raw_bytes_identical": false,
+      "verification": "EOL_only_and_clean_filter_blob_equal"
+    },
+    {
+      "path": "review_writing/snapshots/literature_round2_20261009/export_check.json",
+      "parent_blob": "ff50659f1e87e1ec422e74ad60d30bae765e06b2",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/snapshots/literature_round2_20261009/formula_error_scan.json",
+      "parent_blob": "fc088f9aa5ccad2bf68814b5d86b3db5f51076b1",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/snapshots/literature_round2_20261009/literature_records.json",
+      "parent_blob": "e7c08e2caa2036532e4a9a3d343eaf1a894ff2b4",
+      "raw_bytes_identical": false,
+      "verification": "EOL_only_and_clean_filter_blob_equal"
+    },
+    {
+      "path": "review_writing/snapshots/literature_round2_20261009/round2_annotations.json",
+      "parent_blob": "6299195b9714e21bb86c4414d3dd928897145647",
+      "raw_bytes_identical": false,
+      "verification": "EOL_only_and_clean_filter_blob_equal"
+    },
+    {
+      "path": "review_writing/snapshots/literature_round2_20261009/search_queries.json",
+      "parent_blob": "96c3b02cb7987fe676503191dc62adb766181aeb",
+      "raw_bytes_identical": false,
+      "verification": "EOL_only_and_clean_filter_blob_equal"
+    },
+    {
+      "path": "review_writing/snapshots/literature_round2_20261009/source_access.json",
+      "parent_blob": "42542d8aa5fb14ff5ccba35fde3c8bc40f22750e",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/snapshots/literature_round2_20261009/workbook_inspection.json",
+      "parent_blob": "4804786bc5537cc9fe15eae1bb4417f176edf581",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/snapshots/literature_round2_20261009/星座运维方法研究_第二轮_20261009.xlsx",
+      "parent_blob": "7c8e957b01c99754e50a4dfb351cda8fb99c5d8a",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/snapshots/literature_round3_20261009/build_round3.mjs",
+      "parent_blob": "c1d5a5d3ae0cedb737eea98675def2832c1e3504",
+      "raw_bytes_identical": false,
+      "verification": "EOL_only_and_clean_filter_blob_equal"
+    },
+    {
+      "path": "review_writing/snapshots/literature_round3_20261009/candidates.json",
+      "parent_blob": "f91617fb31ca0073a62d93f75dbec643a7596163",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/snapshots/literature_round3_20261009/crossref_discovery.json",
+      "parent_blob": "9e26dfeeb6e641a33dae4961196235bdb965b21b",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/snapshots/literature_round3_20261009/crossref_metadata.json",
+      "parent_blob": "9c72a610ce567bfe958061488ba08f94211bd423",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/snapshots/literature_round3_20261009/delivery_audit.json",
+      "parent_blob": "8a84cdd71adc5e26a121982a3022d964a512afe6",
+      "raw_bytes_identical": false,
+      "verification": "EOL_only_and_clean_filter_blob_equal"
+    },
+    {
+      "path": "review_writing/snapshots/literature_round3_20261009/formula_error_scan.json",
+      "parent_blob": "fc088f9aa5ccad2bf68814b5d86b3db5f51076b1",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/snapshots/literature_round3_20261009/literature_records.json",
+      "parent_blob": "2f2b06aa824f0e2e36f5c79ef91001403dbd6fb4",
+      "raw_bytes_identical": false,
+      "verification": "EOL_only_and_clean_filter_blob_equal"
+    },
+    {
+      "path": "review_writing/snapshots/literature_round3_20261009/round3_annotations.json",
+      "parent_blob": "6e0c77f1ce442309d7dcb18f10011508ced2893b",
+      "raw_bytes_identical": false,
+      "verification": "EOL_only_and_clean_filter_blob_equal"
+    },
+    {
+      "path": "review_writing/snapshots/literature_round3_20261009/search_queries.json",
+      "parent_blob": "a984a27dbef1fa9f76f25f5f0383b75b10769349",
+      "raw_bytes_identical": false,
+      "verification": "EOL_only_and_clean_filter_blob_equal"
+    },
+    {
+      "path": "review_writing/snapshots/literature_round3_20261009/workbook_inspection.json",
+      "parent_blob": "d87d0f23032a996668bb33b0754fedc77e756d3c",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/snapshots/literature_round3_20261009/星座智能运维综述文献库_第三轮扩展_20261009.xlsx",
+      "parent_blob": "a563a0d7b5053629548bdbb7af25035fc8d2a5b9",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/snapshots/literature_round4_20261009/build_round4.mjs",
+      "parent_blob": "a8c76fa4ced8fa0afe7c1f38c3d0527056b81805",
+      "raw_bytes_identical": false,
+      "verification": "EOL_only_and_clean_filter_blob_equal"
+    },
+    {
+      "path": "review_writing/snapshots/literature_round4_20261009/candidates.json",
+      "parent_blob": "4b85a51fe50482aeb3ac5fb329f8547dd5b26791",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/snapshots/literature_round4_20261009/crossref_discovery.json",
+      "parent_blob": "9e26dfeeb6e641a33dae4961196235bdb965b21b",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/snapshots/literature_round4_20261009/crossref_metadata.json",
+      "parent_blob": "6a3b1c8dd31d8526bd5a6160355fa50b3e759561",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/snapshots/literature_round4_20261009/delivery_audit.json",
+      "parent_blob": "40b30f1e63c359af8fb2a466a3fcb2507b6d4057",
+      "raw_bytes_identical": false,
+      "verification": "EOL_only_and_clean_filter_blob_equal"
+    },
+    {
+      "path": "review_writing/snapshots/literature_round4_20261009/formula_error_scan.json",
+      "parent_blob": "fc088f9aa5ccad2bf68814b5d86b3db5f51076b1",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/snapshots/literature_round4_20261009/literature_records.json",
+      "parent_blob": "19ec6b81d5015c90f71dd7b92e7d1c549572660c",
+      "raw_bytes_identical": false,
+      "verification": "EOL_only_and_clean_filter_blob_equal"
+    },
+    {
+      "path": "review_writing/snapshots/literature_round4_20261009/round4_annotations.json",
+      "parent_blob": "c5d8b313149603630a3975416494dd5254eee68e",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/snapshots/literature_round4_20261009/search_queries.json",
+      "parent_blob": "a8effaa064e7a339f97e36732efbcf8a83d2a83c",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/snapshots/literature_round4_20261009/workbook_inspection.json",
+      "parent_blob": "237ba0d920119da615c11953e9389bc6d6b85de4",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/snapshots/literature_round4_20261009/星座智能运维综述文献库_第四轮补检_20261009.xlsx",
+      "parent_blob": "e8834b53f3c7b7ac5aef954fc739c28f75dbd755",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/snapshots/review_evidence_mapping_v2_20261009/build_mapping.mjs",
+      "parent_blob": "567a5158b7cfe59b13bd8b2656306b86fca1b282",
+      "raw_bytes_identical": false,
+      "verification": "EOL_only_and_clean_filter_blob_equal"
+    },
+    {
+      "path": "review_writing/snapshots/review_evidence_mapping_v2_20261009/delivery_audit.json",
+      "parent_blob": "4f132460b61144f5cd2f1c53ca7a90e6741bb143",
+      "raw_bytes_identical": false,
+      "verification": "EOL_only_and_clean_filter_blob_equal"
+    },
+    {
+      "path": "review_writing/snapshots/review_evidence_mapping_v2_20261009/formula_scan.ndjson",
+      "parent_blob": "fc088f9aa5ccad2bf68814b5d86b3db5f51076b1",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/snapshots/review_evidence_mapping_v2_20261009/inspection.ndjson",
+      "parent_blob": "28d97bd562575707c4f83ddb573e66d9e6369b41",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/snapshots/review_evidence_mapping_v2_20261009/mapping_records.json",
+      "parent_blob": "c31c2697532bee654c2fc6c702e6484dcac0f81d",
+      "raw_bytes_identical": false,
+      "verification": "EOL_only_and_clean_filter_blob_equal"
+    },
+    {
+      "path": "review_writing/snapshots/review_evidence_mapping_v2_20261009/五章综述_章节研究问题文献证据对应表_148篇_v2_20261009.xlsx",
+      "parent_blob": "b6d242c9d6634d95082581d9c998a6af0ab20cee",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/snapshots/review_framework_v1_20261009/build_framework.mjs",
+      "parent_blob": "3eb0e9fd7a6455c7f971ff75dc2c8eeca0e9de3b",
+      "raw_bytes_identical": false,
+      "verification": "EOL_only_and_clean_filter_blob_equal"
+    },
+    {
+      "path": "review_writing/snapshots/review_framework_v1_20261009/delivery_audit.json",
+      "parent_blob": "209a606821bcaa1d4f92f3fd761a162c80ce5381",
+      "raw_bytes_identical": false,
+      "verification": "EOL_only_and_clean_filter_blob_equal"
+    },
+    {
+      "path": "review_writing/snapshots/review_framework_v1_20261009/error_scan.ndjson",
+      "parent_blob": "fc088f9aa5ccad2bf68814b5d86b3db5f51076b1",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/snapshots/review_framework_v1_20261009/framework_plan.json",
+      "parent_blob": "1c327fbfb9fcda9d24d96e81915d1fdef31a8158",
+      "raw_bytes_identical": false,
+      "verification": "EOL_only_and_clean_filter_blob_equal"
+    },
+    {
+      "path": "review_writing/snapshots/review_framework_v1_20261009/inspection.ndjson",
+      "parent_blob": "92e3a50b05d40295a3ffe1b298a25605c1b85c53",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    },
+    {
+      "path": "review_writing/snapshots/review_framework_v1_20261009/screening_records.json",
+      "parent_blob": "fd404609f96f2221fff2cdb6257347a401f6c598",
+      "raw_bytes_identical": false,
+      "verification": "EOL_only_and_clean_filter_blob_equal"
+    },
+    {
+      "path": "review_writing/snapshots/review_framework_v1_20261009/星座综述框架与148篇文献初筛_v1_20261009.xlsx",
+      "parent_blob": "022f4a87db8983a92ce9c1b8b92d213bfda86121",
+      "raw_bytes_identical": true,
+      "verification": "raw_equal"
+    }
+  ],
+  "boundaries": {
+    "manuscript_modified": false,
+    "historical_records_modified": false,
+    "all_pages_all_proofs_completed": false,
+    "independent_experiments": false,
+    "human_verified": false,
+    "formal_pairs_closed": 0,
+    "B07_started": false,
+    "pushed": false,
+    "PR_created": false
+  },
+  "external_scripts_sha256": {
+    "acquire_b06.py": "c3869441ab7511326124b25b467659f4cbf061667de63f02c337b2a48bc51660",
+    "acquire_additional.py": "743591dd7d9cbe3de62349fed717f9219083727097d79d0080a99c91c0d00d04",
+    "prepare_reading.py": "4b58a49fdb7bc7cd3790fbafdbba4187e6213782c2772f44e1fb68a0226004df",
+    "curate_b06.py": "3c0e04ecd429a921242a2d00be5b8ba867b546f9c0125580a217c2918dac915d",
+    "render_and_metadata.py": "2c24546fc0afd17087e696807015dec0276d27f57ff2baa95e088a5e4a791420",
+    "build_b06.py": "54e7385b28233ae9489ad76042635b7deadc3bdfbf0cbf5d54ed2caab2a77c4e",
+    "complete_docs_b06.py": "3beeac5d414535a0414f4a7cbba47d78aa81ae8263f0461ee2f665760a81c878",
+    "verify_commit_b06.py": "229418f7c4bad6fcbd0dbeede84d64ce37fc6b7b641df10f09d6c38bbeca2dd2"
+  }
+}

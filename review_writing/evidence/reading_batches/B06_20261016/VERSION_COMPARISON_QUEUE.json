@@ -1,0 +1,174 @@
+{
+  "batch": "B06_20261016",
+  "formal_pair_closed_count": 0,
+  "queue": [
+    {
+      "reference_number": 1,
+      "doi": "10.1016/j.asr.2020.08.009",
+      "read_version": "author_preprint_public_HTML_2020-12-01",
+      "read_url": "https://www.researchgate.net/publication/343791434_Towards_the_Automated_Operations_of_Large_Distributed_Satellite_Systems_Part_1_Review_and_Paradigm_Shifts",
+      "formal_DOI_entry": "https://doi.org/10.1016/j.asr.2020.08.009",
+      "PDF_sha256": null,
+      "HTML_only": true,
+      "next_check": "作者公开HTML；PDF403，图表/公式像素与终刊版本配对未核。案例与星数为文中历史记录，不是2026状态。",
+      "formal_version_parity_closed": false
+    },
+    {
+      "reference_number": 10,
+      "doi": "10.34133/space.0248",
+      "read_version": "publisher_supplied_public_HTML_on_ResearchGate",
+      "read_url": "https://www.researchgate.net/publication/387365669_Dynamic_Management_Topology_Construction_Evolution_and_Maintenance_of_Low_Earth_Orbit_Mega-Constellation",
+      "formal_DOI_entry": "https://doi.org/10.34133/space.0248",
+      "PDF_sha256": null,
+      "HTML_only": true,
+      "next_check": "出版社供给ResearchGate的HTML正文可读，未得PDF；图公式像素、正式文件身份与实际星载通信未核。",
+      "formal_version_parity_closed": false
+    },
+    {
+      "reference_number": 23,
+      "doi": "10.2514/1.A36684",
+      "read_version": "author_preprint_arxiv_v2",
+      "read_url": "https://arxiv.org/pdf/2512.18985v2",
+      "formal_DOI_entry": "https://doi.org/10.2514/1.A36684",
+      "PDF_sha256": "43bb1bd4e39adbcc55d5692862881176039474b9bb77af36abb28f12c09d4353",
+      "HTML_only": false,
+      "next_check": "arXiv v2未与终刊逐项配对；服务可恢复比例和as-good-as-new假设需要实际任务证据；全部库存推导未复现。",
+      "formal_version_parity_closed": false
+    },
+    {
+      "reference_number": 27,
+      "doi": "10.2514/1.A34978",
+      "read_version": "author_manuscript_requested_arxiv_v1",
+      "read_url": "https://arxiv.org/pdf/2103.08962v1",
+      "formal_DOI_entry": "https://doi.org/10.2514/1.A34978",
+      "PDF_sha256": "2a8482625618b2cf4471a32505d346fb77f6d32951fc99a56f58990bf485f19a",
+      "HTML_only": false,
+      "next_check": "46页作者稿未配终刊；跨阶段在途承诺完整约束和全部轨迹/库存推导仍未审完，市场结论只到案例范围。",
+      "formal_version_parity_closed": false
+    },
+    {
+      "reference_number": 34,
+      "doi": "10.2514/1.I011215",
+      "read_version": "publisher_typeset_copy_hosted_at_JPL",
+      "read_url": "https://ai.jpl.nasa.gov/public/documents/papers/parjan-jais2023-mas.pdf",
+      "formal_DOI_entry": "https://doi.org/10.2514/1.I011215",
+      "PDF_sha256": "8b0af8efb6e3f61428dd1a59b24c6d914f6db52d8dd48e03c7120e7c0a7593f9",
+      "HTML_only": false,
+      "next_check": "正式副本已读新增段，原概率/能力/通信条件与全部代码/并行实现未复现；B02计数保持。",
+      "formal_version_parity_closed": false
+    },
+    {
+      "reference_number": 36,
+      "doi": "10.1007/s10951-024-00816-x",
+      "read_version": "publisher_version_Springer",
+      "read_url": "https://link.springer.com/content/pdf/10.1007/s10951-024-00816-x.pdf",
+      "formal_DOI_entry": "https://doi.org/10.1007/s10951-024-00816-x",
+      "PDF_sha256": "ee77d1c2433335c5d87b085489a4f466462a53627699088668237baedcbe9d38",
+      "HTML_only": false,
+      "next_check": "图页相关区域本轮复核，未复现实例与算法；全部隐私/通信证明和运行动态仍未核完。",
+      "formal_version_parity_closed": false
+    },
+    {
+      "reference_number": 65,
+      "doi": "10.2514/1.A35736",
+      "read_version": "publisher_typeset_copy_hosted_on_faculty_site",
+      "read_url": "https://hanspeterschaub.info/PapersPrivate/Herrmann2024.pdf",
+      "formal_DOI_entry": "https://doi.org/10.2514/1.A35736",
+      "PDF_sha256": "84ec30992797d7ce9d0661dc53534413631561226eccad20a85dfe3fee7ff510",
+      "HTML_only": false,
+      "next_check": "本轮定位训练/GA预算与MIP计时范围，但B02全部计时/超参数/正式配对问题不自动关闭；未复现屏蔽与动力学。",
+      "formal_version_parity_closed": false
+    },
+    {
+      "reference_number": 93,
+      "doi": "10.1016/j.conengprac.2011.09.006",
+      "read_version": "publisher_typeset_personal_copy_on_author_website",
+      "read_url": "https://aero.us.es/rvazquez/papers/CEP-2012.pdf",
+      "formal_DOI_entry": "https://doi.org/10.1016/j.conengprac.2011.09.006",
+      "PDF_sha256": "28fe0c42f83135e4d420b01f3bd3a4010459c39ede2937dfac7550f5406ccb2f",
+      "HTML_only": false,
+      "next_check": "13物理页含Elsevier封面+12正式刊页；全部推导和联合/全程风险、估计置信度、求解CPU和硬件未独立核验。",
+      "formal_version_parity_closed": false
+    },
+    {
+      "reference_number": 95,
+      "doi": "10.2514/6.2026-2446",
+      "read_version": "MERL_technical_report_author_conference_version",
+      "read_url": "https://www.merl.com/publications/docs/TR2026-016.pdf",
+      "formal_DOI_entry": "https://doi.org/10.2514/6.2026-2446",
+      "PDF_sha256": "f681f504b8c59f20d81988246e4c55cd97c5f12414600d4fe369b53ba9553625",
+      "HTML_only": false,
+      "next_check": "MERL报告非已配对AIAA终刊；全部附录、概率界、数值积分/独立轨迹验证未完成；underburn安全未获验证。",
+      "formal_version_parity_closed": false
+    },
+    {
+      "reference_number": 98,
+      "doi": "10.1145/3219819.3219845",
+      "read_version": "author_preprint_arxiv_v3",
+      "read_url": "https://arxiv.org/pdf/1802.04431v3",
+      "formal_DOI_entry": "https://doi.org/10.1145/3219819.3219845",
+      "PDF_sha256": "bd5e2eb0706d2278eec1874dd32700fbd0d929e9c7208ed33c28ae5ace305836",
+      "HTML_only": false,
+      "next_check": "arXiv v3正式配对、全部实现和分数公式未复现；旧表格统计疑点与实时部署完整账目仍保留。",
+      "formal_version_parity_closed": false
+    },
+    {
+      "reference_number": 101,
+      "doi": "10.1007/s12567-023-00529-5",
+      "read_version": "publisher_VOR_Springer_OA",
+      "read_url": "https://link.springer.com/content/pdf/10.1007/s12567-023-00529-5.pdf",
+      "formal_DOI_entry": "https://doi.org/10.1007/s12567-023-00529-5",
+      "PDF_sha256": "e02d7fd2220a4919737c263620e1c259beff884c7d85ff15656b9fad5378fb7c",
+      "HTML_only": false,
+      "next_check": "新取得正式PDF用于补历史精确定位，不增加去重；全部代码、标签和数据版本未独立复现。",
+      "formal_version_parity_closed": false
+    },
+    {
+      "reference_number": 102,
+      "doi": "10.1007/s12567-025-00651-6",
+      "read_version": "publisher_VOR_Springer_OA_modified_publication2026",
+      "read_url": "https://link.springer.com/content/pdf/10.1007/s12567-025-00651-6.pdf",
+      "formal_DOI_entry": "https://doi.org/10.1007/s12567-025-00651-6",
+      "PDF_sha256": "a5a6ab8a7c4edb752066de7fc35eec30c1fa3a5ecfb878afe7bdfa9dd71e7f03",
+      "HTML_only": false,
+      "next_check": "新取得14页正式副本首页modified publication2026，旧版内容差异未核。飞行硬件、完整FDIR规则、持续时间/最坏耗时与全部规则依赖未复现。",
+      "formal_version_parity_closed": false
+    },
+    {
+      "reference_number": 108,
+      "doi": "10.1016/S0004-3702(98)00068-X",
+      "read_version": "author_manuscript_hosted_at_MIT",
+      "read_url": "https://people.csail.mit.edu/williams/Web%20site/papers/aij98.pdf",
+      "formal_DOI_entry": "https://doi.org/10.1016/S0004-3702(98)00068-X",
+      "PDF_sha256": "f9f4b623e6735ac1346c4fd08cf4dd3202b5bf139bc4c0c73f667f7b38c68600",
+      "HTML_only": false,
+      "next_check": "46页作者版存在抽取字形问题，相关区域视觉核读；1998论文不是对后续1999全部在轨结果的完成证明；全部状态模型未复现。",
+      "formal_version_parity_closed": false
+    },
+    {
+      "reference_number": 117,
+      "doi": "10.1007/978-3-031-06773-0_1",
+      "read_version": "author_chapter_manuscript_hosted_at_JPL",
+      "read_url": "https://ai.jpl.nasa.gov/public/documents/papers/chien-nfm-2022.pdf",
+      "formal_DOI_entry": "https://doi.org/10.1007/978-3-031-06773-0_1",
+      "PDF_sha256": "be6bffef09410fa8c4be2225227bec0ee5a104825492cb7ad906ae9bc0c74914",
+      "HTML_only": false,
+      "next_check": "JPL作者章节稿未配正式章节；本轮不把其中二次任务/缺陷率数字核成当前工程事实，未复现任何证明。",
+      "formal_version_parity_closed": false
+    },
+    {
+      "reference_number": 120,
+      "doi": "10.1007/s10270-025-01281-6",
+      "read_version": "publisher_online_version_hosted_at_DLR",
+      "read_url": "https://elib.dlr.de/214190/1/s10270-025-01281-6.pdf",
+      "formal_DOI_entry": "https://doi.org/10.1007/s10270-025-01281-6",
+      "PDF_sha256": "957afcd0f6e95eb750d91f04d4d54666ce96122361f656a0cdc3fd6c1f05f5da",
+      "HTML_only": false,
+      "next_check": "正式在线副本未复现工具/模型；单设计外推、异步消息规模上限和未支持性质继续保留；形式化结果不代表在轨系统整体认证。",
+      "formal_version_parity_closed": false
+    }
+  ],
+  "excluded_target_article_still_needed": [
+    118
+  ]
+}

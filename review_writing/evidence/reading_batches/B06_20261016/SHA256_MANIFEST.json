@@ -1,0 +1,201 @@
+{
+  "batch": "B06_20261016",
+  "algorithm": "SHA256",
+  "path_base": "repository root",
+  "manifest_self_excluded": true,
+  "self_hash_commit_tree_record": "external B06_LOCAL_COMMIT_RECEIPT.json; no self-reference",
+  "parent_commit": "70a0d54c329b8e39ce8f3e2b675506a94d0c93d6",
+  "frozen_commit": "51be6a1326e8c615ea24f80f1887f16a2e7b02fc",
+  "files": [
+    {
+      "path": "review_writing/evidence/reading_batches/B06_20261016/.gitattributes",
+      "bytes": 8,
+      "sha256": "705fd4d6451a31d36b3df7de96f83f30ac976c9b4a6d1e51671d8e2f33e2d0da"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B06_20261016/ACCESS_OBSERVATIONS.json",
+      "bytes": 13675,
+      "sha256": "a28e8b4d7cd28b9b21ae1cc8355c467b573816b206c69fb69f3c14cda389b0e8"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B06_20261016/CLAIM_CHECKS_B06.json",
+      "bytes": 74357,
+      "sha256": "1c22b78c51e53b2bad4f38a04a9643a37da7975a1c170faa1283bb58808fd434"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B06_20261016/CLAIM_DEPENDENCY_MAP.csv",
+      "bytes": 20247,
+      "sha256": "e5c66e9828686de1496cda3084f6e9c6b0fa2a4e6f7cadc432d3b777f34e890f"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B06_20261016/COMPARISON_MATRIX.csv",
+      "bytes": 6932,
+      "sha256": "6961fb7b5bdd89e0793489eac38187e7686b94c43505972af6d06d353b0b8cd1"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B06_20261016/CROSS_STUDY_SYNTHESIS.md",
+      "bytes": 6233,
+      "sha256": "b6c3345cdb3eb21f4db005c9873182a3ffbbcb4b4d961280b7ff3dd49277ae7c"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B06_20261016/CUMULATIVE_DERIVED_LEDGER_121.json",
+      "bytes": 60179,
+      "sha256": "6f08a5dc2c7deabbafcb6727b9487e691d73f1e89779562c1b66589fe0c7a23b"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B06_20261016/CUMULATIVE_READING_STATUS.json",
+      "bytes": 3378,
+      "sha256": "d700d5991fca6af6593e290a20d0e0ff3fdb2e9f5fda2d9ae9bdc4e0d6ea9a74"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B06_20261016/CUMULATIVE_READING_STATUS.md",
+      "bytes": 2355,
+      "sha256": "e885f8c653128c5ce33945c24741dd5cb8939309da928f4512361de96f092a03"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B06_20261016/EXCLUDED_MATERIAL_AUDIT.json",
+      "bytes": 1008,
+      "sha256": "000aecec732dd345dcf3ef1ee24e96d6f6d95bc5618b6e13fb6dad27def88988"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B06_20261016/INTEGRITY_CHECK.json",
+      "bytes": 68948,
+      "sha256": "d5dabffc71d081065eb1a4bf80cbbb43bb477cfb5e31a231aa02964192417460"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B06_20261016/NEXT_BATCH_READINESS.md",
+      "bytes": 2150,
+      "sha256": "5ee538f2443b4837fc901af01e84923946a34af269213a1de300529e33eafac2"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B06_20261016/OPEN_ITEM_STATUS_B06.json",
+      "bytes": 16510,
+      "sha256": "fb3ad03a15f27f665432cfe5bf398cfa40c575161de5f4b7fecf136205aa697f"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B06_20261016/OPEN_ITEMS_B06.md",
+      "bytes": 2391,
+      "sha256": "990e5da9943c7bd6afa442a8691d47764dfd2b78f2a304bb28cc58c93133ad41"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B06_20261016/READING_NOTES_001.md",
+      "bytes": 2389,
+      "sha256": "2a3766b4c1cfae4964727e99db1ebab48d4f6bd21a4a7614f7bb2ca8ff5343fa"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B06_20261016/READING_NOTES_010.md",
+      "bytes": 2394,
+      "sha256": "64fda286431404396a3f97bd2fcf7ee9990f01f82d8042b973d236eb7ad067c2"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B06_20261016/READING_NOTES_023.md",
+      "bytes": 2224,
+      "sha256": "0c7ccfbb59317c95f09ae77624837c3fd6b16c3dc3046072206d890d3787edc2"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B06_20261016/READING_NOTES_027.md",
+      "bytes": 2349,
+      "sha256": "90f47934c7bd327cf6d4d7f703ce739b879e18931579642295ce2ed440f6ab25"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B06_20261016/READING_NOTES_034.md",
+      "bytes": 2252,
+      "sha256": "2f3be318d3991e1b1952323e4c7d0e5270bfb1c71a100549751b0d4f3d03013c"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B06_20261016/READING_NOTES_036.md",
+      "bytes": 2125,
+      "sha256": "6cb9e8346c44bf40af3d6c04bbd12904fc9950806791e478682c0d3081cbebf4"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B06_20261016/READING_NOTES_065.md",
+      "bytes": 2232,
+      "sha256": "d866f26bae5461266d8f3bf872d62ed932cfea0a8341d51cfef1dcdd53efe993"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B06_20261016/READING_NOTES_093.md",
+      "bytes": 2832,
+      "sha256": "eab38041bbab3a4fde5de05fb754729dcffed88b5640200946ea532d35f6793f"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B06_20261016/READING_NOTES_095.md",
+      "bytes": 2389,
+      "sha256": "1afa3a07493c8e406829dc62c60ad4a65648561067d4a6391e581fc1fc7a30ef"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B06_20261016/READING_NOTES_098.md",
+      "bytes": 2223,
+      "sha256": "db4bf6e27959aa88a54e4227144ec35258c85dc4bc3f876bd82add0db857b2bd"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B06_20261016/READING_NOTES_101.md",
+      "bytes": 2277,
+      "sha256": "041bd5ab2213747986612137fabdf7c28a77f8a96d4e23843dc9a332e732f893"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B06_20261016/READING_NOTES_102.md",
+      "bytes": 2415,
+      "sha256": "9b6a172bf08be4b3a0efbd24836e5f8df0d93ef37caa2b37179622ca2cbcb50d"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B06_20261016/READING_NOTES_108.md",
+      "bytes": 2312,
+      "sha256": "8347800fc97bd067c108d2d1d50c3401baa2e2f3a1cfaada4009995f08d53521"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B06_20261016/READING_NOTES_117.md",
+      "bytes": 2266,
+      "sha256": "0bfe0e15a8819448c6a0c5967224077bebbb1578b87a5fc6d565778203f7ff6a"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B06_20261016/READING_NOTES_120.md",
+      "bytes": 2410,
+      "sha256": "bd2bf63fdf15c4db67a69844402949e5e38a096b5ec5cf4af0f690aebf335878"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B06_20261016/READING_SCOPE_B06.json",
+      "bytes": 9844,
+      "sha256": "663ebea9967965a8a090b8395c67f94d4c5abf105853e5fc17b116519c6130b9"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B06_20261016/README.md",
+      "bytes": 9177,
+      "sha256": "641036ac1c0549a1b95a23f149ce3b0941504b9edfa98b9512c135da20880e05"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B06_20261016/SOURCE_ACCESS_REGISTER.csv",
+      "bytes": 9090,
+      "sha256": "803892f7c1b5931a188790d6b7b490d764cbe15a9481074baee0388927558d76"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B06_20261016/SOURCE_MANIFEST_B06.json",
+      "bytes": 46949,
+      "sha256": "c9c9f4f1d5ce1e58e653a6fc9a2a3caa292fe3c94bec239631232174181dbeb3"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B06_20261016/UNAVAILABLE_AND_BLOCKERS.md",
+      "bytes": 3327,
+      "sha256": "7dc1f42002f8c67952e27603aeec9347c0f613d2384fbd6ce195fc214da58d10"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B06_20261016/V19_CHANGE_CANDIDATES.md",
+      "bytes": 5436,
+      "sha256": "64cb4870b37b9b80e29cb40a7777922f4d3999a6ec5fd3d2237e8bfd53397528"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B06_20261016/V19_DEPENDENCY_CHECK_INDEX.csv",
+      "bytes": 23593,
+      "sha256": "737a5ba8139baa42b7444974e6401a1c0e70e3a1e4a2d7c3458997296cbf6f26"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B06_20261016/VERSION_COMPARISON_QUEUE.json",
+      "bytes": 9395,
+      "sha256": "5afedbfac8b274f82ab3e4d7a9ba647e752ae7622aaac42c7e788cae9e6f7f68"
+    },
+    {
+      "path": "review_writing/evidence/reading_batches/B06_20261016/VISUAL_INSPECTION_RECEIPT.json",
+      "bytes": 14969,
+      "sha256": "5c2b947ae310701e367fab4fb59a017608797f4c6ea980dbffaf43537fd3dd62"
+    }
+  ]
+}
