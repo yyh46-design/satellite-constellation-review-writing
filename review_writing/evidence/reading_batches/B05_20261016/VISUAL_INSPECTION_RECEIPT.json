@@ -1,0 +1,248 @@
+{
+  "batch": "B05_20261016",
+  "pages": [
+    {
+      "ref": 3,
+      "physical_page": 11,
+      "local_image": "D:\\SKT727\\materials\\constellation_review_B05_20261016\\page_images\\003_p11.png",
+      "bytes": 288712,
+      "sha256": "eb867e0ac66a691af3e72eb74ad603f85b4b9b249e6b462bb68dc8c75a312bd7",
+      "rendered": true,
+      "actually_inspected": true,
+      "scope": "actual page relevant regions inspected; not all mathematical symbols/proofs independently verified"
+    },
+    {
+      "ref": 3,
+      "physical_page": 12,
+      "local_image": "D:\\SKT727\\materials\\constellation_review_B05_20261016\\page_images\\003_p12.png",
+      "bytes": 169638,
+      "sha256": "c3c9383ca975be2f55b82e0a85e91d1381a9d64db577313c552cc6307a229312",
+      "rendered": true,
+      "actually_inspected": true,
+      "scope": "actual page relevant regions inspected; not all mathematical symbols/proofs independently verified"
+    },
+    {
+      "ref": 3,
+      "physical_page": 24,
+      "local_image": "D:\\SKT727\\materials\\constellation_review_B05_20261016\\page_images\\003_p24.png",
+      "bytes": 372492,
+      "sha256": "378a264c364d4fa02cdc19bbbb81be25e3c20b676aed88bd05a935b1db2186cd",
+      "rendered": true,
+      "actually_inspected": true,
+      "scope": "actual page relevant regions inspected; not all mathematical symbols/proofs independently verified"
+    },
+    {
+      "ref": 4,
+      "physical_page": 4,
+      "local_image": "D:\\SKT727\\materials\\constellation_review_B05_20261016\\page_images\\004_p04.png",
+      "bytes": 320365,
+      "sha256": "477d6a92c141388adc336a49f387d230e7cb7b4085649d2d394c6029d467c635",
+      "rendered": true,
+      "actually_inspected": true,
+      "scope": "actual page relevant regions inspected; not all mathematical symbols/proofs independently verified"
+    },
+    {
+      "ref": 4,
+      "physical_page": 23,
+      "local_image": "D:\\SKT727\\materials\\constellation_review_B05_20261016\\page_images\\004_p23.png",
+      "bytes": 415500,
+      "sha256": "32c60ac0b215a5d422d2b2bb7d88a73580b4ad1993bebfd21e001aac152f06a8",
+      "rendered": true,
+      "actually_inspected": true,
+      "scope": "actual page relevant regions inspected; not all mathematical symbols/proofs independently verified"
+    },
+    {
+      "ref": 4,
+      "physical_page": 28,
+      "local_image": "D:\\SKT727\\materials\\constellation_review_B05_20261016\\page_images\\004_p28.png",
+      "bytes": 404928,
+      "sha256": "dabaf9d851f2c1e5dba13e004b68f28db90efbd33ac6f39529fb3f6d91e1638b",
+      "rendered": true,
+      "actually_inspected": true,
+      "scope": "actual page relevant regions inspected; not all mathematical symbols/proofs independently verified"
+    },
+    {
+      "ref": 37,
+      "physical_page": 6,
+      "local_image": "D:\\SKT727\\materials\\constellation_review_B05_20261016\\page_images\\037_p06.png",
+      "bytes": 471363,
+      "sha256": "dbcc3cfe7801a60c0e0e6405c5d8ad8986fd005556bbfd4be295eb57a7e8f535",
+      "rendered": true,
+      "actually_inspected": true,
+      "scope": "actual page relevant regions inspected; not all mathematical symbols/proofs independently verified"
+    },
+    {
+      "ref": 37,
+      "physical_page": 9,
+      "local_image": "D:\\SKT727\\materials\\constellation_review_B05_20261016\\page_images\\037_p09.png",
+      "bytes": 515956,
+      "sha256": "cb84ae2847a09263da45431419a8955252c0e50fc911f285047866ed5ae15555",
+      "rendered": true,
+      "actually_inspected": true,
+      "scope": "actual page relevant regions inspected; not all mathematical symbols/proofs independently verified"
+    },
+    {
+      "ref": 37,
+      "physical_page": 11,
+      "local_image": "D:\\SKT727\\materials\\constellation_review_B05_20261016\\page_images\\037_p11.png",
+      "bytes": 552981,
+      "sha256": "7622864e019df7296f79f82bb37989688a64e7b4a553a2ad09869bddc7a1727f",
+      "rendered": true,
+      "actually_inspected": true,
+      "scope": "actual page relevant regions inspected; not all mathematical symbols/proofs independently verified"
+    },
+    {
+      "ref": 16,
+      "physical_page": 15,
+      "local_image": "D:\\SKT727\\materials\\constellation_review_B05_20261016\\page_images\\016_p15.png",
+      "bytes": 457990,
+      "sha256": "0655e2ff94a91522a21541fa46169872215064e1a488c0ae5abeeac2ebfabef3",
+      "rendered": true,
+      "actually_inspected": true,
+      "scope": "actual page relevant regions inspected; not all mathematical symbols/proofs independently verified"
+    },
+    {
+      "ref": 16,
+      "physical_page": 19,
+      "local_image": "D:\\SKT727\\materials\\constellation_review_B05_20261016\\page_images\\016_p19.png",
+      "bytes": 324404,
+      "sha256": "296a53a062b396a042619d7eaeb77474ed7d8cc497fbb31eeff30e0b2a3a021c",
+      "rendered": true,
+      "actually_inspected": true,
+      "scope": "actual page relevant regions inspected; not all mathematical symbols/proofs independently verified"
+    },
+    {
+      "ref": 41,
+      "physical_page": 6,
+      "local_image": "D:\\SKT727\\materials\\constellation_review_B05_20261016\\page_images\\041_p06.png",
+      "bytes": 551596,
+      "sha256": "116399ac42d517491d79cde283a7e832f5a383f41f3b01d29fb60cf73e576876",
+      "rendered": true,
+      "actually_inspected": true,
+      "scope": "actual page relevant regions inspected; not all mathematical symbols/proofs independently verified"
+    },
+    {
+      "ref": 41,
+      "physical_page": 7,
+      "local_image": "D:\\SKT727\\materials\\constellation_review_B05_20261016\\page_images\\041_p07.png",
+      "bytes": 414143,
+      "sha256": "aa8ff75725d3abcbc2397145c1a8a6fcc5a2a4e4459ff44d3405ab52af017b69",
+      "rendered": true,
+      "actually_inspected": true,
+      "scope": "actual page relevant regions inspected; not all mathematical symbols/proofs independently verified"
+    },
+    {
+      "ref": 49,
+      "physical_page": 4,
+      "local_image": "D:\\SKT727\\materials\\constellation_review_B05_20261016\\page_images\\049_p04.png",
+      "bytes": 456249,
+      "sha256": "5093276fb831fe1a851a86712b2212a20bde1fe7e3ff76906e3e912b0513a766",
+      "rendered": true,
+      "actually_inspected": true,
+      "scope": "actual page relevant regions inspected; not all mathematical symbols/proofs independently verified"
+    },
+    {
+      "ref": 49,
+      "physical_page": 5,
+      "local_image": "D:\\SKT727\\materials\\constellation_review_B05_20261016\\page_images\\049_p05.png",
+      "bytes": 446042,
+      "sha256": "6546f4ac3be8ae1729362c9ccc461d2a4913e4bd25465371e231c021f2f1fb6c",
+      "rendered": true,
+      "actually_inspected": true,
+      "scope": "actual page relevant regions inspected; not all mathematical symbols/proofs independently verified"
+    },
+    {
+      "ref": 57,
+      "physical_page": 9,
+      "local_image": "D:\\SKT727\\materials\\constellation_review_B05_20261016\\page_images\\057_p09.png",
+      "bytes": 318202,
+      "sha256": "b63df59d75d7569eb81977ca3a85b6bc811f42f3159a4373ac308e4503c2c0f6",
+      "rendered": true,
+      "actually_inspected": true,
+      "scope": "actual page relevant regions inspected; not all mathematical symbols/proofs independently verified"
+    },
+    {
+      "ref": 57,
+      "physical_page": 15,
+      "local_image": "D:\\SKT727\\materials\\constellation_review_B05_20261016\\page_images\\057_p15.png",
+      "bytes": 278722,
+      "sha256": "16421f7d6c696f05a1989458b7a3f26031ee6348ae2156d9f15f1d288c3c1309",
+      "rendered": true,
+      "actually_inspected": true,
+      "scope": "actual page relevant regions inspected; not all mathematical symbols/proofs independently verified"
+    },
+    {
+      "ref": 61,
+      "physical_page": 26,
+      "local_image": "D:\\SKT727\\materials\\constellation_review_B05_20261016\\page_images\\061_p26.png",
+      "bytes": 197483,
+      "sha256": "82f7bd48d8aa9969e85fb87ec707b9b1a0526aa390f8ea7395ba048946d3d54f",
+      "rendered": true,
+      "actually_inspected": true,
+      "scope": "actual page relevant regions inspected; not all mathematical symbols/proofs independently verified"
+    },
+    {
+      "ref": 61,
+      "physical_page": 28,
+      "local_image": "D:\\SKT727\\materials\\constellation_review_B05_20261016\\page_images\\061_p28.png",
+      "bytes": 197127,
+      "sha256": "8c7a49f01ffc1544b7ebb13efd60a86024b70dcebc3af4b1575961d6ac7fee66",
+      "rendered": true,
+      "actually_inspected": true,
+      "scope": "actual page relevant regions inspected; not all mathematical symbols/proofs independently verified"
+    },
+    {
+      "ref": 62,
+      "physical_page": 22,
+      "local_image": "D:\\SKT727\\materials\\constellation_review_B05_20261016\\page_images\\062_p22.png",
+      "bytes": 308481,
+      "sha256": "1b09d75d499e8880c69a1532ed18786c448b1959da6c70b921336090a373e3ea",
+      "rendered": true,
+      "actually_inspected": true,
+      "scope": "actual page relevant regions inspected; not all mathematical symbols/proofs independently verified"
+    },
+    {
+      "ref": 62,
+      "physical_page": 25,
+      "local_image": "D:\\SKT727\\materials\\constellation_review_B05_20261016\\page_images\\062_p25.png",
+      "bytes": 277387,
+      "sha256": "24d6a364646beab5df79be1a47325cd6e20cf6f030058a438b2cea27689036b4",
+      "rendered": true,
+      "actually_inspected": true,
+      "scope": "actual page relevant regions inspected; not all mathematical symbols/proofs independently verified"
+    },
+    {
+      "ref": 92,
+      "physical_page": 5,
+      "local_image": "D:\\SKT727\\materials\\constellation_review_B05_20261016\\page_images\\092_p05.png",
+      "bytes": 376504,
+      "sha256": "a0e96dda6e1ad07b32be11443ba52273c452c41efaefdde9a733ea4fa4b2f84c",
+      "rendered": true,
+      "actually_inspected": true,
+      "scope": "actual page relevant regions inspected; not all mathematical symbols/proofs independently verified"
+    },
+    {
+      "ref": 92,
+      "physical_page": 6,
+      "local_image": "D:\\SKT727\\materials\\constellation_review_B05_20261016\\page_images\\092_p06.png",
+      "bytes": 457936,
+      "sha256": "3035eb4fd428d284208917c6e6c4de48d9a6a1ac60d73244a0d6059019dd38b8",
+      "rendered": true,
+      "actually_inspected": true,
+      "scope": "actual page relevant regions inspected; not all mathematical symbols/proofs independently verified"
+    },
+    {
+      "ref": 92,
+      "physical_page": 12,
+      "local_image": "D:\\SKT727\\materials\\constellation_review_B05_20261016\\page_images\\092_p12.png",
+      "bytes": 509531,
+      "sha256": "ccea7d8c12ae3df5105478acc3622662e73338e2b253ed785a433d48b1ad70dd",
+      "rendered": true,
+      "actually_inspected": true,
+      "scope": "actual page relevant regions inspected; not all mathematical symbols/proofs independently verified"
+    }
+  ],
+  "actually_inspected_count": 24,
+  "third_party_images_committed": false,
+  "no_independent_proof_or_experiment_claim": true
+}

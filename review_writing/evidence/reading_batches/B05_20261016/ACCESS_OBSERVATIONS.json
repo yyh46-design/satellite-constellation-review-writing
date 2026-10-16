@@ -1,0 +1,424 @@
+{
+  "batch": "B05_20261016",
+  "logs": [
+    {
+      "external_log": "D:\\SKT727\\materials\\constellation_review_B05_20261016\\ACQUISITION_AUTHOR_UPLOADS.json",
+      "bytes": 2226,
+      "sha256": "97f1fc0851621b4c00875763c627066db7fefac1d86e4346f161f23e7fdc4df1",
+      "sanitized_observations": [
+        {
+          "ref": 11,
+          "url": "https://www.researchgate.net/profile/Mauricio-Guelman/publication/260801708_Optimization_of_satellite_constellation_reconfiguration_maneuvers/links/5fe1c9f9299bf14088337026/Optimization-of-satellite-constellation-reconfiguration-maneuvers.pdf",
+          "method": "ordinary author-public full-text link; correct malformed relative URL /publication/profile to root /profile after404; no access restriction workaround",
+          "error": "HTTP Error 403: Forbidden",
+          "valid_pdf": false
+        },
+        {
+          "ref": 91,
+          "url": "https://www.researchgate.net/profile/Ping-Lu-19/publication/268557803_Autonomous_Trajectory_Planning_for_Rendezvous_and_Proximity_Operations_by_Conic_Optimization/links/5571ca0d08aeacff1ff91667/Autonomous-Trajectory-Planning-for-Rendezvous-and-Proximity-Operations-by-Conic-Optimization.pdf",
+          "method": "ordinary author-public full-text link; correct malformed relative URL /publication/profile to root /profile after404; no access restriction workaround",
+          "error": "HTTP Error 403: Forbidden",
+          "valid_pdf": false
+        },
+        {
+          "ref": 105,
+          "url": "https://www.researchgate.net/profile/Kathiravan-Thangavel-2/publication/376833751_Artificial_Intelligence_for_Trusted_Autonomous_Satellite_Operations/links/65943c943c472d2e8eabb0e4/Artificial-Intelligence-for-Trusted-Autonomous-Satellite-Operations.pdf",
+          "method": "ordinary author-public full-text link; correct malformed relative URL /publication/profile to root /profile after404; no access restriction workaround",
+          "error": "HTTP Error 403: Forbidden",
+          "valid_pdf": false
+        },
+        {
+          "ref": 6,
+          "url": "https://www.researchgate.net/profile/Mohamed-Ben-Larbi/publication/344050681_Towards_the_Automated_Operations_of_Large_Distributed_Satellite_Systems_Part_2_Classifications_and_Tools/links/5fc667a792851c00f843622b/Towards-the-Automated-Operations-of-Large-Distributed-Satellite-Systems-Part-2-Classifications-and-Tools.pdf",
+          "method": "ordinary author-public full-text link; correct malformed relative URL /publication/profile to root /profile after404; no access restriction workaround",
+          "error": "HTTP Error 403: Forbidden",
+          "valid_pdf": false
+        }
+      ]
+    },
+    {
+      "external_log": "D:\\SKT727\\materials\\constellation_review_B05_20261016\\ACQUISITION_INITIAL.json",
+      "bytes": 4910,
+      "sha256": "dcf5a01228bbbe2f4a0f09e8653398a1d6315569fc214d7841145c885dc05ef0",
+      "sanitized_observations": [
+        {
+          "ref": 37,
+          "url": "https://dspace.mit.edu/bitstreams/9954d25d-991a-4c8d-be1d-3574ee986f43/download",
+          "method": "ordinary public urllib request; stop on access restriction; timeout20,total75sec",
+          "http_status": 200,
+          "valid_pdf": true,
+          "bytes": 601162,
+          "pages": 16,
+          "sha256": "0208479321ef78d648c655bd4102eef8cdc646786defb527ef36c5b70a54ef1e"
+        },
+        {
+          "ref": 3,
+          "url": "https://arxiv.org/pdf/2003.06169",
+          "method": "ordinary public urllib request; stop on access restriction; timeout20,total75sec",
+          "http_status": 200,
+          "valid_pdf": true,
+          "bytes": 561587,
+          "pages": 36,
+          "sha256": "82a1db328a5649feeb65471516b4fe75b3f131c964307b6bb10f472683a97d11"
+        },
+        {
+          "ref": 4,
+          "url": "https://chairelogistique.hec.ca/wp-content/uploads/2024/02/Survey_on_observation_scheduling.pdf",
+          "method": "ordinary public urllib request; stop on access restriction; timeout20,total75sec",
+          "http_status": 200,
+          "valid_pdf": true,
+          "bytes": 4972592,
+          "pages": 40,
+          "sha256": "b4c51cfb5b504b743da85cc548883e714b06ff59859234b4cc8e1dff0313afbe"
+        },
+        {
+          "ref": 33,
+          "url": "https://papers.ssrn.com/sol3/Delivery.cfm/c977889e-c679-456a-b1ad-0d9d7d1db8c7-MECA.pdf?abstractid=5202348&mirid=1&type=2",
+          "method": "ordinary public urllib request; stop on access restriction; timeout20,total75sec",
+          "error": "HTTP Error 403: Forbidden",
+          "valid_pdf": false
+        },
+        {
+          "ref": 103,
+          "url": "https://www.nsf-shrec.org/publications/resilient-autonomous-mission-management-decentralized-multispacecraft-missions",
+          "method": "ordinary public urllib request; stop on access restriction; timeout20,total75sec",
+          "http_status": 200,
+          "valid_pdf": false
+        },
+        {
+          "ref": 105,
+          "url": "https://khazna.ku.ac.ae/en/publications/artificial-intelligence-for-trusted-autonomous-satellite-operatio/",
+          "method": "ordinary public urllib request; stop on access restriction; timeout20,total75sec",
+          "error": "HTTP Error 403: Forbidden",
+          "valid_pdf": false
+        },
+        {
+          "ref": 100,
+          "url": "https://api.github.com/repos/DerKuhno/validation-gated-continual-learning/git/trees/main?recursive=1",
+          "method": "ordinary public urllib request; stop on access restriction; timeout20,total75sec",
+          "http_status": 200,
+          "valid_pdf": false
+        }
+      ]
+    },
+    {
+      "external_log": "D:\\SKT727\\materials\\constellation_review_B05_20261016\\ACQUISITION_MORE.json",
+      "bytes": 4385,
+      "sha256": "6a38b47482949174f50e33b191adea4f3dffe01fa58b427c0b158fa958998690",
+      "sanitized_observations": [
+        {
+          "ref": 15,
+          "url": "https://www.ideals.illinois.edu/items/107700/bitstreams/351421/data.pdf",
+          "method": "ordinary public publisher/repository request; no key or restriction workaround",
+          "error": "HTTP Error 403: Forbidden",
+          "valid_pdf": false
+        },
+        {
+          "ref": 93,
+          "url": "https://idus.us.es/handle//11441/93970",
+          "method": "ordinary public publisher/repository request; no key or restriction workaround",
+          "error": "<urlopen error _ssl.c:993: The handshake operation timed out>",
+          "valid_pdf": false
+        },
+        {
+          "ref": 33,
+          "url": "https://api.elsevier.com/content/article/pii/S0305054825002886?httpAccept=text/xml",
+          "method": "ordinary public publisher/repository request; no key or restriction workaround",
+          "http_status": 200,
+          "valid_pdf": false,
+          "bytes": 1854
+        },
+        {
+          "ref": 68,
+          "url": "https://api.elsevier.com/content/article/pii/S1000936125003802?httpAccept=text/xml",
+          "method": "ordinary public publisher/repository request; no key or restriction workaround",
+          "http_status": 200,
+          "valid_pdf": false,
+          "bytes": 1970
+        },
+        {
+          "ref": 83,
+          "url": "https://api.elsevier.com/content/article/pii/S0273117721003410?httpAccept=text/xml",
+          "method": "ordinary public publisher/repository request; no key or restriction workaround",
+          "http_status": 200,
+          "valid_pdf": false,
+          "bytes": 1818
+        },
+        {
+          "ref": 105,
+          "url": "https://api.elsevier.com/content/article/pii/S0376042123000763?httpAccept=text/xml",
+          "method": "ordinary public publisher/repository request; no key or restriction workaround",
+          "http_status": 200,
+          "valid_pdf": false,
+          "bytes": 2025
+        }
+      ]
+    },
+    {
+      "external_log": "D:\\SKT727\\materials\\constellation_review_B05_20261016\\DISCOVERY_PRIMARY_LANDINGS.json",
+      "bytes": 30430,
+      "sha256": "fad9de9820101e135c2d0cc3e3f7412cd85816ae4b534d4298246aef5f429467",
+      "sanitized_observations": [
+        {
+          "url": "https://ai.jpl.nasa.gov/public/publications/jpl_aig.bib"
+        },
+        {
+          "url": "https://www.wkiri.com/pubs.html"
+        },
+        {
+          "url": "https://nilskuhn.com/"
+        },
+        {
+          "url": "https://smartsatcrc.com/smartsat-publications/artificial-intelligence-for-trusted-autonomous-operations-of-distributed-satellite-systems/",
+          "error": "HTTP Error 403: Forbidden"
+        },
+        {
+          "url": "https://www.nsf-shrec.org/publications?title=Resilient"
+        },
+        {
+          "url": "https://dspace.mit.edu/entities/publication/b0bf0a05-be3b-433b-9f4b-ce314ed5178b"
+        },
+        {
+          "url": "https://www.sciencedirect.com/science/article/pii/S0273117721003410",
+          "error": "HTTP Error 403: Forbidden"
+        },
+        {
+          "url": "https://www.sciencedirect.com/science/article/pii/S0376042123000763",
+          "error": "HTTP Error 403: Forbidden"
+        }
+      ]
+    },
+    {
+      "external_log": "D:\\SKT727\\materials\\constellation_review_B05_20261016\\METADATA_B05.json",
+      "bytes": 1176,
+      "sha256": "74677f29879c9eebc7b2bb75d1c6dc028ff77f3012dfecf5e6c2a17a40febdfc",
+      "sanitized_observations": [
+        {
+          "ref": 3,
+          "url": "https://api.crossref.org/works/10.1109/JSYST.2020.2997050",
+          "http_status": 200,
+          "obtained": true
+        },
+        {
+          "ref": 4,
+          "url": "https://api.crossref.org/works/10.1016/j.cor.2024.106875",
+          "http_status": 200,
+          "obtained": true
+        },
+        {
+          "ref": 6,
+          "url": "https://api.crossref.org/works/10.1016/j.asr.2020.08.018",
+          "http_status": 200,
+          "obtained": true
+        },
+        {
+          "ref": 11,
+          "url": "https://api.crossref.org/works/10.1016/j.actaastro.2014.02.016",
+          "http_status": 200,
+          "obtained": true
+        },
+        {
+          "ref": 15,
+          "url": "https://api.crossref.org/works/10.1016/j.actaastro.2018.03.054",
+          "http_status": 200,
+          "obtained": true
+        },
+        {
+          "ref": 37,
+          "url": "https://api.crossref.org/works/10.1109/TRO.2009.2022423",
+          "http_status": 200,
+          "obtained": true
+        },
+        {
+          "ref": 91,
+          "url": "https://api.crossref.org/works/10.2514/1.58436",
+          "http_status": 200,
+          "obtained": true
+        },
+        {
+          "ref": 105,
+          "url": "https://api.crossref.org/works/10.1016/j.paerosci.2023.100960",
+          "http_status": 200,
+          "obtained": true
+        }
+      ]
+    }
+  ],
+  "HTML_capture_receipts": [
+    {
+      "ref": 6,
+      "local_capture_path": "D:\\SKT727\\materials\\constellation_review_B05_20261016\\WEB_6_1600_body.json",
+      "bytes": 28765,
+      "sha256": "2ba3177344763d82c9cfef8d17e98a6a44ccd9760ebf69b802891622ba8516c2",
+      "not_PDF_hash": true
+    },
+    {
+      "ref": 6,
+      "local_capture_path": "D:\\SKT727\\materials\\constellation_review_B05_20261016\\WEB_6_900.json",
+      "bytes": 28971,
+      "sha256": "4c6ad7d252620866f4555a2dcae14415bf581ed63deff67945df7d13e9da997e",
+      "not_PDF_hash": true
+    },
+    {
+      "ref": 6,
+      "local_capture_path": "D:\\SKT727\\materials\\constellation_review_B05_20261016\\WEB_6_900_body.json",
+      "bytes": 28983,
+      "sha256": "62520db40b91987044415a086644d7323c94f12142a959b79995639116c9f36a",
+      "not_PDF_hash": true
+    },
+    {
+      "ref": 6,
+      "local_capture_path": "D:\\SKT727\\materials\\constellation_review_B05_20261016\\WEB_6_FIND.json",
+      "bytes": 13940,
+      "sha256": "06d7402e68b990fe408271bf64626e00864dbdfce97d8db592b18542e7fbb993",
+      "not_PDF_hash": true
+    },
+    {
+      "ref": 6,
+      "local_capture_path": "D:\\SKT727\\materials\\constellation_review_B05_20261016\\WEB_6LOAT.json",
+      "bytes": 28199,
+      "sha256": "01f625554b24dca869de84a469f672029b871448db307f578c00283190de28db",
+      "not_PDF_hash": true
+    },
+    {
+      "ref": 11,
+      "local_capture_path": "D:\\SKT727\\materials\\constellation_review_B05_20261016\\WEB_11_1750_body.json",
+      "bytes": 20699,
+      "sha256": "54185b8d1d5b26a82ef3d05b204f1e279c92179136885616c6a74df5708dad95",
+      "not_PDF_hash": true
+    },
+    {
+      "ref": 11,
+      "local_capture_path": "D:\\SKT727\\materials\\constellation_review_B05_20261016\\WEB_11_2260_body.json",
+      "bytes": 27010,
+      "sha256": "3892c322f02269153106d638b43d13ba9225d0db607bc21dda19ec655541ac21",
+      "not_PDF_hash": true
+    },
+    {
+      "ref": 11,
+      "local_capture_path": "D:\\SKT727\\materials\\constellation_review_B05_20261016\\WEB_11_300.json",
+      "bytes": 23345,
+      "sha256": "20260a2a451822982308a2d2a0b132be39d4efe17dcba3dd3e9bb1a291123155",
+      "not_PDF_hash": true
+    },
+    {
+      "ref": 11,
+      "local_capture_path": "D:\\SKT727\\materials\\constellation_review_B05_20261016\\WEB_11_FIND.json",
+      "bytes": 19538,
+      "sha256": "5f1471df2f1e2fb64f8bb2088d1e5f3957f04452e4c515b771c6092a39db6ce2",
+      "not_PDF_hash": true
+    },
+    {
+      "ref": 15,
+      "local_capture_path": "D:\\SKT727\\materials\\constellation_review_B05_20261016\\WEB_15_1120_body.json",
+      "bytes": 19481,
+      "sha256": "e855453b022ccbb86f94a1866031778d931b3e93063aa8c7ace00c863d7af22b",
+      "not_PDF_hash": true
+    },
+    {
+      "ref": 15,
+      "local_capture_path": "D:\\SKT727\\materials\\constellation_review_B05_20261016\\WEB_15_2400_body.json",
+      "bytes": 18160,
+      "sha256": "cc6c0845376ce69fa2f4dd4cfca1d880da4a307b22e8a33c50264756b59c91bf",
+      "not_PDF_hash": true
+    },
+    {
+      "ref": 15,
+      "local_capture_path": "D:\\SKT727\\materials\\constellation_review_B05_20261016\\WEB_15_FIND.json",
+      "bytes": 16515,
+      "sha256": "ed7af12b7249a80f59eaf2ff2956c6ed5213f70385c32465211fd0fcc533c281",
+      "not_PDF_hash": true
+    },
+    {
+      "ref": 15,
+      "local_capture_path": "D:\\SKT727\\materials\\constellation_review_B05_20261016\\WEB_15model.json",
+      "bytes": 27663,
+      "sha256": "357e330cc7dd23a670052132ce474206240f9d4d8fb8a802532f2f5557558fe3",
+      "not_PDF_hash": true
+    },
+    {
+      "ref": 91,
+      "local_capture_path": "D:\\SKT727\\materials\\constellation_review_B05_20261016\\WEB_91_algorithm_find.json",
+      "bytes": 17548,
+      "sha256": "2cfa3a7fb4d4088787ecffcffac7fd2b9d20e3c944a1b1d5fad5f8ffa2238c61",
+      "not_PDF_hash": true
+    },
+    {
+      "ref": 91,
+      "local_capture_path": "D:\\SKT727\\materials\\constellation_review_B05_20261016\\WEB_91_Assumption_find.json",
+      "bytes": 9829,
+      "sha256": "8d0c6df0eef4a8a990bc40c48b90105913a10a4f7f99002de077086302d969bd",
+      "not_PDF_hash": true
+    },
+    {
+      "ref": 91,
+      "local_capture_path": "D:\\SKT727\\materials\\constellation_review_B05_20261016\\WEB_91_FIND.json",
+      "bytes": 15843,
+      "sha256": "9b9847f8e2bd83d18dcea51be26da2b06e59471c08c577de3a0f9a0dc3013270",
+      "not_PDF_hash": true
+    },
+    {
+      "ref": 91,
+      "local_capture_path": "D:\\SKT727\\materials\\constellation_review_B05_20261016\\WEB_91_iteration_setup.json",
+      "bytes": 19762,
+      "sha256": "9b7b2fe31c150b7b3cf4de7a58547b603500fc43d12cfd4a6c7487cfa6fb09d6",
+      "not_PDF_hash": true
+    },
+    {
+      "ref": 91,
+      "local_capture_path": "D:\\SKT727\\materials\\constellation_review_B05_20261016\\WEB_91_iteration_stop.json",
+      "bytes": 17357,
+      "sha256": "8645dc75125549efa1a1b63fc9348a131c63f02991f5b28d7f4fd6c0a49c6876",
+      "not_PDF_hash": true
+    },
+    {
+      "ref": 91,
+      "local_capture_path": "D:\\SKT727\\materials\\constellation_review_B05_20261016\\WEB_91method.json",
+      "bytes": 19185,
+      "sha256": "47fa724d3f720f9944e66a3c68e09b71eec75f1371e742af6fe6cff0a1744d2f",
+      "not_PDF_hash": true
+    },
+    {
+      "ref": 91,
+      "local_capture_path": "D:\\SKT727\\materials\\constellation_review_B05_20261016\\WEB_91results.json",
+      "bytes": 18539,
+      "sha256": "a97347f61cc558e3385f30b53dafb3745f42d98da75d3224e5f280facd4997ad",
+      "not_PDF_hash": true
+    },
+    {
+      "ref": 105,
+      "local_capture_path": "D:\\SKT727\\materials\\constellation_review_B05_20261016\\WEB_105_coevolution_find.json",
+      "bytes": 15500,
+      "sha256": "448f7ae3e0ace0e9e0a940b459787c96397a1cabccdc4fe2dcb63ac6527bf986",
+      "not_PDF_hash": true
+    },
+    {
+      "ref": 105,
+      "local_capture_path": "D:\\SKT727\\materials\\constellation_review_B05_20261016\\WEB_105_Conclusion_find.json",
+      "bytes": 14740,
+      "sha256": "69c00f43e31661f6b044410b971b385418d1ca752615f18c8fc33b0c0c29d2ae",
+      "not_PDF_hash": true
+    },
+    {
+      "ref": 105,
+      "local_capture_path": "D:\\SKT727\\materials\\constellation_review_B05_20261016\\WEB_105_FIND.json",
+      "bytes": 14448,
+      "sha256": "ac48039c9104b1c202d53ce40acf25e8a87bcfad13a26379a9598470d6a23966",
+      "not_PDF_hash": true
+    },
+    {
+      "ref": 105,
+      "local_capture_path": "D:\\SKT727\\materials\\constellation_review_B05_20261016\\WEB_105arch.json",
+      "bytes": 28591,
+      "sha256": "29a1be0044d8459065d75206c4ed049b97d8ec33fc308bf769eaf29dff695278",
+      "not_PDF_hash": true
+    }
+  ],
+  "discovery_metadata_only": [
+    "SemanticScholar candidate PDF URLs do not prove access",
+    "Elsevier API 200 tiny XML for33/68/83/105 is abstract/metadata only, not body",
+    "SHREC103 landing and GitHub100 README do not prove paper access"
+  ],
+  "public_HTML_policy": "public author-uploaded body read directly; ordinary denied PDF requests stopped; no auth/captcha/paywall bypass",
+  "third_party_fulltext_committed": false
+}

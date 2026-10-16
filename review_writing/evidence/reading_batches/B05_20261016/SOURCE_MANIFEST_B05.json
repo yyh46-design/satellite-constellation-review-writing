@@ -1,0 +1,1246 @@
+{
+  "batch": "B05_20261016",
+  "sources": [
+    {
+      "reference_number": 3,
+      "doi": "10.1109/JSYST.2020.2997050",
+      "doi_url": "https://doi.org/10.1109/JSYST.2020.2997050",
+      "english_title": "Agile Earth Observation Satellite Scheduling Over 20 Years: Formulations, Methods, and Future Directions",
+      "chinese_translation": "敏捷对地观测卫星调度二十年：建模、方法与未来方向",
+      "metadata": {
+        "status": "Crossref_primary_metadata_snapshot_not_fulltext_or_human_final",
+        "metadata_url": "https://api.crossref.org/works/10.1109/JSYST.2020.2997050",
+        "snapshot_sha256": "f2e5dfe0d82b7bda9beb5ea9a87e88cc6055c5692f59a2a09f09a5f721d71da7",
+        "authors": [
+          "Xinwei Wang",
+          "Guohua Wu",
+          "Lining Xing",
+          "Witold Pedrycz"
+        ],
+        "container_titles": [
+          "IEEE Systems Journal"
+        ],
+        "volume": "15",
+        "issue": "3",
+        "page_or_article_number": "3881-3892",
+        "dates": {
+          "issued": {
+            "date-parts": [
+              [
+                2021,
+                9
+              ]
+            ]
+          },
+          "published": {
+            "date-parts": [
+              [
+                2021,
+                9
+              ]
+            ]
+          },
+          "published-print": {
+            "date-parts": [
+              [
+                2021,
+                9
+              ]
+            ]
+          }
+        },
+        "crossref_title": [
+          "Agile Earth Observation Satellite Scheduling Over 20 Years: Formulations, Methods, and Future Directions"
+        ]
+      },
+      "metadata_provenance": "new_Crossref_snapshot; observed_copy_title_and_front_matter_separately_recorded",
+      "version_identity": "author_preprint_arXiv_2003.06169v1",
+      "identity_basis": "首页标arXiv v1 13Mar2020、Preprint submitted to TBD March16,2020；36页不是正式刊页。",
+      "read_source_url": "https://arxiv.org/pdf/2003.06169",
+      "local_pdf_path": "D:\\SKT727\\materials\\constellation_review_B05_20261016\\003_initial.pdf",
+      "physical_pdf_pages": 36,
+      "bytes": 561587,
+      "sha256": "82a1db328a5649feeb65471516b4fe75b3f131c964307b6bb10f472683a97d11",
+      "version_group": "author_copy",
+      "B05_reading_kind": "new_targeted_upgrade_from_partial",
+      "new_unique_targeted_addition": true,
+      "new_unique_body_engagement": false,
+      "HTML_tool_capture_receipts": [],
+      "text_status": "readable_selected_body_passages; some extracted_formula_and_ligature_artifacts_checked_on_selected_actual_pages",
+      "targeted_body_reading_recorded": true,
+      "all_page_all_proof_close_reading_complete": false,
+      "formal_version_parity_closed": false,
+      "human_verified": false,
+      "submission_ready": false,
+      "third_party_PDF_committed": false
+    },
+    {
+      "reference_number": 4,
+      "doi": "10.1016/j.cor.2024.106875",
+      "doi_url": "https://doi.org/10.1016/j.cor.2024.106875",
+      "english_title": "Satellite Scheduling Problems: A survey of applications in Earth and outer space observation",
+      "chinese_translation": "卫星调度问题：地球与外层空间观测应用综述",
+      "metadata": {
+        "status": "Crossref_primary_metadata_snapshot_not_fulltext_or_human_final",
+        "metadata_url": "https://api.crossref.org/works/10.1016/j.cor.2024.106875",
+        "snapshot_sha256": "755100ccbb6a0e517e146a62534efc22ef22fc7327be330fc65e42a7e463c058",
+        "authors": [
+          "Benedetta Ferrari",
+          "Jean-François Cordeau",
+          "Maxence Delorme",
+          "Manuel Iori",
+          "Roberto Orosei"
+        ],
+        "container_titles": [
+          "Computers &amp; Operations Research"
+        ],
+        "volume": "173",
+        "issue": null,
+        "page_or_article_number": "106875",
+        "dates": {
+          "issued": {
+            "date-parts": [
+              [
+                2025,
+                1
+              ]
+            ]
+          },
+          "published": {
+            "date-parts": [
+              [
+                2025,
+                1
+              ]
+            ]
+          },
+          "published-print": {
+            "date-parts": [
+              [
+                2025,
+                1
+              ]
+            ]
+          }
+        },
+        "crossref_title": [
+          "Satellite Scheduling Problems: A survey of applications in Earth and outer space observation"
+        ]
+      },
+      "metadata_provenance": "new_Crossref_snapshot; observed_copy_title_and_front_matter_separately_recorded",
+      "version_identity": "author_manuscript_HEC",
+      "identity_basis": "HEC作者公开40页稿，文件夹2024/02不证明稿件日期或与终刊等同。",
+      "read_source_url": "https://chairelogistique.hec.ca/wp-content/uploads/2024/02/Survey_on_observation_scheduling.pdf",
+      "local_pdf_path": "D:\\SKT727\\materials\\constellation_review_B05_20261016\\004_initial.pdf",
+      "physical_pdf_pages": 40,
+      "bytes": 4972592,
+      "sha256": "b4c51cfb5b504b743da85cc548883e714b06ff59859234b4cc8e1dff0313afbe",
+      "version_group": "author_copy",
+      "B05_reading_kind": "new_targeted_upgrade_from_partial",
+      "new_unique_targeted_addition": true,
+      "new_unique_body_engagement": false,
+      "HTML_tool_capture_receipts": [],
+      "text_status": "readable_selected_body_passages; some extracted_formula_and_ligature_artifacts_checked_on_selected_actual_pages",
+      "targeted_body_reading_recorded": true,
+      "all_page_all_proof_close_reading_complete": false,
+      "formal_version_parity_closed": false,
+      "human_verified": false,
+      "submission_ready": false,
+      "third_party_PDF_committed": false
+    },
+    {
+      "reference_number": 6,
+      "doi": "10.1016/j.asr.2020.08.018",
+      "doi_url": "https://doi.org/10.1016/j.asr.2020.08.018",
+      "english_title": "Towards the automated operations of large distributed satellite systems. Part 2: Classifications and tools",
+      "chinese_translation": "大型分布式卫星系统的自动化运行：第二部分，分类与工具",
+      "metadata": {
+        "status": "Crossref_primary_metadata_snapshot_not_fulltext_or_human_final",
+        "metadata_url": "https://api.crossref.org/works/10.1016/j.asr.2020.08.018",
+        "snapshot_sha256": "502ce9d8d92993a1a136d4c13467be8ab08d3f795deb8fbdd46a08fa57784874",
+        "authors": [
+          "Mohamed Khalil Ben-Larbi",
+          "Kattia Flores Pozo",
+          "Mirue Choi",
+          "Tom Haylok",
+          "Benjamin Grzesik",
+          "Andreas Haas",
+          "Dominik Krupke",
+          "Harald Konstanski",
+          "Volker Schaus",
+          "Sándor P. Fekete",
+          "Christian Schurig",
+          "Enrico Stoll"
+        ],
+        "container_titles": [
+          "Advances in Space Research"
+        ],
+        "volume": "67",
+        "issue": "11",
+        "page_or_article_number": "3620-3637",
+        "dates": {
+          "issued": {
+            "date-parts": [
+              [
+                2021,
+                6
+              ]
+            ]
+          },
+          "published": {
+            "date-parts": [
+              [
+                2021,
+                6
+              ]
+            ]
+          },
+          "published-print": {
+            "date-parts": [
+              [
+                2021,
+                6
+              ]
+            ]
+          }
+        },
+        "crossref_title": [
+          "Towards the automated operations of large distributed satellite systems. Part 2: Classifications and tools"
+        ]
+      },
+      "metadata_provenance": "new_Crossref_snapshot; observed_copy_title_and_front_matter_separately_recorded",
+      "version_identity": "author_preprint_public_HTML_2020-12-01",
+      "identity_basis": "公开作者稿HTML页脚Preprint submitted December1,2020；非正式PDF。",
+      "read_source_url": "https://www.researchgate.net/publication/344050681_Towards_the_Automated_Operations_of_Large_Distributed_Satellite_Systems_Part_2_Classifications_and_Tools",
+      "local_pdf_path": null,
+      "physical_pdf_pages": null,
+      "bytes": null,
+      "sha256": null,
+      "version_group": "author_public_HTML",
+      "B05_reading_kind": "new_targeted_HTML",
+      "new_unique_targeted_addition": true,
+      "new_unique_body_engagement": true,
+      "HTML_tool_capture_receipts": [
+        {
+          "local_capture_path": "D:\\SKT727\\materials\\constellation_review_B05_20261016\\WEB_6_1600_body.json",
+          "bytes": 28765,
+          "sha256": "2ba3177344763d82c9cfef8d17e98a6a44ccd9760ebf69b802891622ba8516c2",
+          "not_PDF_hash": true
+        },
+        {
+          "local_capture_path": "D:\\SKT727\\materials\\constellation_review_B05_20261016\\WEB_6_900.json",
+          "bytes": 28971,
+          "sha256": "4c6ad7d252620866f4555a2dcae14415bf581ed63deff67945df7d13e9da997e",
+          "not_PDF_hash": true
+        },
+        {
+          "local_capture_path": "D:\\SKT727\\materials\\constellation_review_B05_20261016\\WEB_6_900_body.json",
+          "bytes": 28983,
+          "sha256": "62520db40b91987044415a086644d7323c94f12142a959b79995639116c9f36a",
+          "not_PDF_hash": true
+        },
+        {
+          "local_capture_path": "D:\\SKT727\\materials\\constellation_review_B05_20261016\\WEB_6_FIND.json",
+          "bytes": 13940,
+          "sha256": "06d7402e68b990fe408271bf64626e00864dbdfce97d8db592b18542e7fbb993",
+          "not_PDF_hash": true
+        },
+        {
+          "local_capture_path": "D:\\SKT727\\materials\\constellation_review_B05_20261016\\WEB_6LOAT.json",
+          "bytes": 28199,
+          "sha256": "01f625554b24dca869de84a469f672029b871448db307f578c00283190de28db",
+          "not_PDF_hash": true
+        }
+      ],
+      "text_status": "public_author_uploaded_HTML_body_selected_passages; math/figures may be incomplete; no PDF pixels",
+      "targeted_body_reading_recorded": true,
+      "all_page_all_proof_close_reading_complete": false,
+      "formal_version_parity_closed": false,
+      "human_verified": false,
+      "submission_ready": false,
+      "third_party_PDF_committed": false
+    },
+    {
+      "reference_number": 11,
+      "doi": "10.1016/j.actaastro.2014.02.016",
+      "doi_url": "https://doi.org/10.1016/j.actaastro.2014.02.016",
+      "english_title": "Optimization of satellite constellation reconfiguration maneuvers",
+      "chinese_translation": "卫星星座重构机动优化",
+      "metadata": {
+        "status": "Crossref_primary_metadata_snapshot_not_fulltext_or_human_final",
+        "metadata_url": "https://api.crossref.org/works/10.1016/j.actaastro.2014.02.016",
+        "snapshot_sha256": "c11515e59a0c0b6a7bf79aab45e8728889eff5950dde991eb34f8a15ce106cd3",
+        "authors": [
+          "Leonid Appel",
+          "Moshe Guelman",
+          "David Mishne"
+        ],
+        "container_titles": [
+          "Acta Astronautica"
+        ],
+        "volume": "99",
+        "issue": null,
+        "page_or_article_number": "166-174",
+        "dates": {
+          "issued": {
+            "date-parts": [
+              [
+                2014,
+                6
+              ]
+            ]
+          },
+          "published": {
+            "date-parts": [
+              [
+                2014,
+                6
+              ]
+            ]
+          },
+          "published-print": {
+            "date-parts": [
+              [
+                2014,
+                6
+              ]
+            ]
+          }
+        },
+        "crossref_title": [
+          "Optimization of satellite constellation reconfiguration maneuvers"
+        ]
+      },
+      "metadata_provenance": "new_Crossref_snapshot; observed_copy_title_and_front_matter_separately_recorded",
+      "version_identity": "author_shared_public_HTML_typeset_style",
+      "identity_basis": "HTML含Acta99(2014):166–174排版痕迹；未取得对应文件，不能以此计正式PDF。",
+      "read_source_url": "https://www.researchgate.net/publication/260801708_Optimization_of_satellite_constellation_reconfiguration_maneuvers",
+      "local_pdf_path": null,
+      "physical_pdf_pages": null,
+      "bytes": null,
+      "sha256": null,
+      "version_group": "author_public_HTML",
+      "B05_reading_kind": "new_targeted_HTML",
+      "new_unique_targeted_addition": true,
+      "new_unique_body_engagement": true,
+      "HTML_tool_capture_receipts": [
+        {
+          "local_capture_path": "D:\\SKT727\\materials\\constellation_review_B05_20261016\\WEB_11_1750_body.json",
+          "bytes": 20699,
+          "sha256": "54185b8d1d5b26a82ef3d05b204f1e279c92179136885616c6a74df5708dad95",
+          "not_PDF_hash": true
+        },
+        {
+          "local_capture_path": "D:\\SKT727\\materials\\constellation_review_B05_20261016\\WEB_11_2260_body.json",
+          "bytes": 27010,
+          "sha256": "3892c322f02269153106d638b43d13ba9225d0db607bc21dda19ec655541ac21",
+          "not_PDF_hash": true
+        },
+        {
+          "local_capture_path": "D:\\SKT727\\materials\\constellation_review_B05_20261016\\WEB_11_300.json",
+          "bytes": 23345,
+          "sha256": "20260a2a451822982308a2d2a0b132be39d4efe17dcba3dd3e9bb1a291123155",
+          "not_PDF_hash": true
+        },
+        {
+          "local_capture_path": "D:\\SKT727\\materials\\constellation_review_B05_20261016\\WEB_11_FIND.json",
+          "bytes": 19538,
+          "sha256": "5f1471df2f1e2fb64f8bb2088d1e5f3957f04452e4c515b771c6092a39db6ce2",
+          "not_PDF_hash": true
+        }
+      ],
+      "text_status": "public_author_uploaded_HTML_body_selected_passages; math/figures may be incomplete; no PDF pixels",
+      "targeted_body_reading_recorded": true,
+      "all_page_all_proof_close_reading_complete": false,
+      "formal_version_parity_closed": false,
+      "human_verified": false,
+      "submission_ready": false,
+      "third_party_PDF_committed": false
+    },
+    {
+      "reference_number": 15,
+      "doi": "10.1016/j.actaastro.2018.03.054",
+      "doi_url": "https://doi.org/10.1016/j.actaastro.2018.03.054",
+      "english_title": "Optimization of satellite constellation deployment strategy considering uncertain areas of interest",
+      "chinese_translation": "考虑不确定关注区域的卫星星座部署策略优化",
+      "metadata": {
+        "status": "Crossref_primary_metadata_snapshot_not_fulltext_or_human_final",
+        "metadata_url": "https://api.crossref.org/works/10.1016/j.actaastro.2018.03.054",
+        "snapshot_sha256": "3348ca2aefb15099a03022a3cedb667ac9a3f8291b566e2053122b0a23a2d3cd",
+        "authors": [
+          "Hang Woon Lee",
+          "Pauline C. Jakob",
+          "Koki Ho",
+          "Seiichi Shimizu",
+          "Shoji Yoshikawa"
+        ],
+        "container_titles": [
+          "Acta Astronautica"
+        ],
+        "volume": "153",
+        "issue": null,
+        "page_or_article_number": "213-228",
+        "dates": {
+          "issued": {
+            "date-parts": [
+              [
+                2018,
+                12
+              ]
+            ]
+          },
+          "published": {
+            "date-parts": [
+              [
+                2018,
+                12
+              ]
+            ]
+          },
+          "published-print": {
+            "date-parts": [
+              [
+                2018,
+                12
+              ]
+            ]
+          }
+        },
+        "crossref_title": [
+          "Optimization of satellite constellation deployment strategy considering uncertain areas of interest"
+        ]
+      },
+      "metadata_provenance": "new_Crossref_snapshot; observed_copy_title_and_front_matter_separately_recorded",
+      "version_identity": "author_manuscript_public_HTML",
+      "identity_basis": "作者公开HTML为长作者稿布局，未取得PDF，未与正式刊页配对。",
+      "read_source_url": "https://www.researchgate.net/publication/324206186_Optimization_of_satellite_constellation_deployment_strategy_considering_uncertain_areas_of_interest",
+      "local_pdf_path": null,
+      "physical_pdf_pages": null,
+      "bytes": null,
+      "sha256": null,
+      "version_group": "author_public_HTML",
+      "B05_reading_kind": "new_targeted_HTML",
+      "new_unique_targeted_addition": true,
+      "new_unique_body_engagement": true,
+      "HTML_tool_capture_receipts": [
+        {
+          "local_capture_path": "D:\\SKT727\\materials\\constellation_review_B05_20261016\\WEB_15_1120_body.json",
+          "bytes": 19481,
+          "sha256": "e855453b022ccbb86f94a1866031778d931b3e93063aa8c7ace00c863d7af22b",
+          "not_PDF_hash": true
+        },
+        {
+          "local_capture_path": "D:\\SKT727\\materials\\constellation_review_B05_20261016\\WEB_15_2400_body.json",
+          "bytes": 18160,
+          "sha256": "cc6c0845376ce69fa2f4dd4cfca1d880da4a307b22e8a33c50264756b59c91bf",
+          "not_PDF_hash": true
+        },
+        {
+          "local_capture_path": "D:\\SKT727\\materials\\constellation_review_B05_20261016\\WEB_15_FIND.json",
+          "bytes": 16515,
+          "sha256": "ed7af12b7249a80f59eaf2ff2956c6ed5213f70385c32465211fd0fcc533c281",
+          "not_PDF_hash": true
+        },
+        {
+          "local_capture_path": "D:\\SKT727\\materials\\constellation_review_B05_20261016\\WEB_15model.json",
+          "bytes": 27663,
+          "sha256": "357e330cc7dd23a670052132ce474206240f9d4d8fb8a802532f2f5557558fe3",
+          "not_PDF_hash": true
+        }
+      ],
+      "text_status": "public_author_uploaded_HTML_body_selected_passages; math/figures may be incomplete; no PDF pixels",
+      "targeted_body_reading_recorded": true,
+      "all_page_all_proof_close_reading_complete": false,
+      "formal_version_parity_closed": false,
+      "human_verified": false,
+      "submission_ready": false,
+      "third_party_PDF_committed": false
+    },
+    {
+      "reference_number": 16,
+      "doi": "10.1007/s42405-026-01298-1",
+      "doi_url": "https://doi.org/10.1007/s42405-026-01298-1",
+      "original_language": "en",
+      "original_title": "Two-Stage Framework for Deployment-Aware Optimization of Satellite Constellation Pattern Design",
+      "english_title": "Two-Stage Framework for Deployment-Aware Optimization of Satellite Constellation Pattern Design",
+      "english_title_role": "formal_English_title",
+      "chinese_translation": "面向部署的卫星星座构型优化两阶段框架",
+      "metadata": {
+        "status": "publisher_VOR_online_first_metadata",
+        "metadata_url": "https://doi.org/10.1007/s42405-026-01298-1",
+        "snapshot_sha256": null,
+        "authors_observed_read_copy": [
+          "Beomjin Gwon",
+          "Jaemyung Ahn"
+        ],
+        "container_titles": [
+          "International Journal of Aeronautical and Space Sciences"
+        ],
+        "formal_publication_string_inherited": "International Journal of Aeronautical and Space Sciences, 2026",
+        "basis_and_limits": "Crossref429后停止；正式PDF及出版社页显示DOI题名作者，2026-10-07发表于线上，未填造未见的卷期页",
+        "Crossref_snapshot_obtained": false,
+        "warnings": null
+      },
+      "version_identity": "publisher_VOR_Springer_OA_online_first",
+      "version_group": "publisher_typeset_copy",
+      "identity_basis": "正式排版21物理页，官方页发表日期2026-10-07；DOI、题名与作者吻合。Crossref普通请求429未重试。",
+      "read_copy_title_difference": null,
+      "read_source_url": "https://link.springer.com/content/pdf/10.1007/s42405-026-01298-1.pdf",
+      "local_pdf_path": "D:\\SKT727\\materials\\constellation_review_B04_20261015\\016_next.pdf",
+      "physical_pdf_pages": 21,
+      "bytes": 1177555,
+      "sha256": "4e366f02c06f10964d8b6a528447fe35ca33ff6c3ee824013111d7c9a3dae8c9",
+      "HTML_tool_capture_receipts": [],
+      "text_status": "readable_selected_body_passages; some extracted_formula_and_ligature_artifacts_checked_on_selected_actual_pages",
+      "targeted_body_reading_recorded": true,
+      "all_page_all_proof_close_reading_complete": false,
+      "formal_version_parity_closed": false,
+      "human_verified": false,
+      "third_party_PDF_committed": false,
+      "metadata_provenance": "inherited_exact_B03_or_B04_record; no new formal metadata claim",
+      "B05_reading_kind": "followup_no_unique_increment",
+      "new_unique_targeted_addition": false,
+      "new_unique_body_engagement": false,
+      "submission_ready": false
+    },
+    {
+      "reference_number": 37,
+      "doi": "10.1109/TRO.2009.2022423",
+      "doi_url": "https://doi.org/10.1109/TRO.2009.2022423",
+      "english_title": "Consensus-Based Decentralized Auctions for Robust Task Allocation",
+      "chinese_translation": "用于鲁棒任务分配的基于共识的分散拍卖",
+      "metadata": {
+        "status": "Crossref_primary_metadata_snapshot_not_fulltext_or_human_final",
+        "metadata_url": "https://api.crossref.org/works/10.1109/TRO.2009.2022423",
+        "snapshot_sha256": "cbbf3b16c66223844051abdca9dbef6e891603be6f9c80d3e92864215612c24f",
+        "authors": [
+          "Han-Lim Choi",
+          "L. Brunet",
+          "J.P. How"
+        ],
+        "container_titles": [
+          "IEEE Transactions on Robotics"
+        ],
+        "volume": "25",
+        "issue": "4",
+        "page_or_article_number": "912-926",
+        "dates": {
+          "issued": {
+            "date-parts": [
+              [
+                2009,
+                8
+              ]
+            ]
+          },
+          "published": {
+            "date-parts": [
+              [
+                2009,
+                8
+              ]
+            ]
+          },
+          "published-print": {
+            "date-parts": [
+              [
+                2009,
+                8
+              ]
+            ]
+          }
+        },
+        "crossref_title": [
+          "Consensus-Based Decentralized Auctions for Robust Task Allocation"
+        ]
+      },
+      "metadata_provenance": "new_Crossref_snapshot; observed_copy_title_and_front_matter_separately_recorded",
+      "version_identity": "publisher_typeset_VOR_copy_MIT_repository",
+      "identity_basis": "MIT封面明确Final published version；16物理页含封面+IEEE25(4):912–926。",
+      "read_source_url": "https://dspace.mit.edu/bitstreams/9954d25d-991a-4c8d-be1d-3574ee986f43/download",
+      "local_pdf_path": "D:\\SKT727\\materials\\constellation_review_B05_20261016\\037_initial.pdf",
+      "physical_pdf_pages": 16,
+      "bytes": 601162,
+      "sha256": "0208479321ef78d648c655bd4102eef8cdc646786defb527ef36c5b70a54ef1e",
+      "version_group": "publisher_typeset_copy",
+      "B05_reading_kind": "new_targeted_from_inherited",
+      "new_unique_targeted_addition": true,
+      "new_unique_body_engagement": true,
+      "HTML_tool_capture_receipts": [],
+      "text_status": "readable_selected_body_passages; some extracted_formula_and_ligature_artifacts_checked_on_selected_actual_pages",
+      "targeted_body_reading_recorded": true,
+      "all_page_all_proof_close_reading_complete": false,
+      "formal_version_parity_closed": false,
+      "human_verified": false,
+      "submission_ready": false,
+      "third_party_PDF_committed": false
+    },
+    {
+      "reference_number": 41,
+      "doi": "10.24963/ijcai.2023/30",
+      "doi_url": "https://doi.org/10.24963/ijcai.2023/30",
+      "english_title": "Asynchronous Communication Aware Multi-Agent Task Allocation",
+      "chinese_translation": "考虑异步通信的多智能体任务分配",
+      "metadata": {
+        "status": "crossref_snapshot_obtained_not_human_final",
+        "metadata_url": "https://api.crossref.org/works/10.24963/ijcai.2023/30",
+        "snapshot_sha256": "dce345b0001c4c0656755271cb88469f7793fa78dcbbe061763aa58f90e60563",
+        "authors": [
+          "Ben Rachmut",
+          "Sofia Amador Nelke",
+          "Roie Zivan"
+        ],
+        "container_titles": [
+          "Proceedings of the Thirty-Second International Joint Conference on Artificial Intelligence"
+        ],
+        "volume": null,
+        "issue": null,
+        "page_or_article_number": "262-270",
+        "dates": {
+          "issued": {
+            "date-parts": [
+              [
+                2023,
+                8
+              ]
+            ]
+          },
+          "published": {
+            "date-parts": [
+              [
+                2023,
+                8
+              ]
+            ]
+          },
+          "published-print": {
+            "date-parts": [
+              [
+                2023,
+                8
+              ]
+            ]
+          }
+        }
+      },
+      "version_identity": "publisher_proceedings_IJCAI_2023",
+      "identity_basis": "IJCAI官方9页262–270正式会议PDF，题名作者和DOI匹配。",
+      "read_source_url": "https://www.ijcai.org/proceedings/2023/0030.pdf",
+      "local_pdf_path": "D:\\SKT727\\materials\\constellation_review_B03_20261015\\041_publisher.pdf",
+      "physical_pdf_pages": 9,
+      "bytes": 2235554,
+      "sha256": "ab22251d02cb03f9e5731f6d8db751c001bf4a3245e00011e421f1b859674e50",
+      "text_status": "readable_selected_body_passages; some extracted_formula_and_ligature_artifacts_checked_on_selected_actual_pages",
+      "special_page_note": "physical PDF pages are not formal publication folios",
+      "targeted_body_reading_recorded": true,
+      "all_page_all_proof_close_reading_complete": false,
+      "formal_version_parity_closed": false,
+      "human_verified": false,
+      "third_party_PDF_committed": false,
+      "metadata_provenance": "inherited_exact_B03_or_B04_record; no new formal metadata claim",
+      "version_group": "publisher_typeset_copy",
+      "B05_reading_kind": "followup_no_unique_increment",
+      "new_unique_targeted_addition": false,
+      "new_unique_body_engagement": false,
+      "HTML_tool_capture_receipts": [],
+      "submission_ready": false
+    },
+    {
+      "reference_number": 49,
+      "doi": "10.1109/ACCESS.2021.3064928",
+      "doi_url": "https://doi.org/10.1109/ACCESS.2021.3064928",
+      "english_title": "Deep Space Network Scheduling via Mixed-Integer Linear Programming",
+      "chinese_translation": "基于混合整数线性规划的深空网络调度",
+      "metadata": {
+        "status": "crossref_snapshot_obtained_not_human_final",
+        "metadata_url": "https://api.crossref.org/works/10.1109/ACCESS.2021.3064928",
+        "snapshot_sha256": "9f0ead07d9abde51a49b119e9f5c8585d86fc364eacc06ea1cb85c5dc1efa62a",
+        "authors": [
+          "Alex Sabol",
+          "Ryan Alimo",
+          "Farhad Kamangar",
+          "Ramtin Madani"
+        ],
+        "container_titles": [
+          "IEEE Access"
+        ],
+        "volume": "9",
+        "issue": null,
+        "page_or_article_number": "39985-39994",
+        "dates": {
+          "issued": {
+            "date-parts": [
+              [
+                2021
+              ]
+            ]
+          },
+          "published": {
+            "date-parts": [
+              [
+                2021
+              ]
+            ]
+          },
+          "published-print": {
+            "date-parts": [
+              [
+                2021
+              ]
+            ]
+          }
+        }
+      },
+      "version_identity": "author_draft_with_template_metadata",
+      "identity_basis": "作者Columbia公开11页稿，仍有xxxx日期、占位DOI、VOLUME 4,2016和Table ??等模板内容；真实题名作者匹配目标DOI，但不能把模板字段当正式元数据。Δ-MILP是后续不同论文，不用于冒充此篇。",
+      "read_source_url": "https://www.columbia.edu/~rm3122/paper/deep_space.pdf",
+      "local_pdf_path": "D:\\SKT727\\materials\\constellation_review_B03_20261015\\049_faculty.pdf",
+      "physical_pdf_pages": 11,
+      "bytes": 780892,
+      "sha256": "82227db029fb21d38852e96ffa6354d4586a2a9a2fa2ed33fc43faafc2b9242a",
+      "text_status": "readable_selected_body_passages; some extracted_formula_and_ligature_artifacts_checked_on_selected_actual_pages",
+      "special_page_note": "physical PDF pages are not formal publication folios",
+      "targeted_body_reading_recorded": true,
+      "all_page_all_proof_close_reading_complete": false,
+      "formal_version_parity_closed": false,
+      "human_verified": false,
+      "third_party_PDF_committed": false,
+      "metadata_provenance": "inherited_exact_B03_or_B04_record; no new formal metadata claim",
+      "version_group": "author_copy",
+      "B05_reading_kind": "followup_no_unique_increment",
+      "new_unique_targeted_addition": false,
+      "new_unique_body_engagement": false,
+      "HTML_tool_capture_receipts": [],
+      "submission_ready": false
+    },
+    {
+      "reference_number": 57,
+      "doi": "10.1007/s10586-025-05663-9",
+      "doi_url": "https://doi.org/10.1007/s10586-025-05663-9",
+      "original_language": "en",
+      "original_title": "Orbit-aware task scheduling in satellite edge computing",
+      "english_title": "Orbit-aware task scheduling in satellite edge computing",
+      "english_title_role": "formal_English_title",
+      "chinese_translation": "卫星边缘计算中的轨道感知任务调度",
+      "metadata": {
+        "status": "crossref_snapshot_obtained_not_human_final",
+        "metadata_url": "https://api.crossref.org/works/10.1007/s10586-025-05663-9",
+        "snapshot_sha256": "747dc05053a81934e912c3fe676b9d23d7238375b9876d206aceb8b4f3dbb607",
+        "authors": [
+          "Danilo Magliarisi",
+          "Emiliano Casalicchio",
+          "Vincenzo Salvatore"
+        ],
+        "container_titles": [
+          "Cluster Computing"
+        ],
+        "volume": "28",
+        "issue": "16",
+        "page_or_article_number": "1013",
+        "dates": {
+          "issued": {
+            "date-parts": [
+              [
+                2025,
+                10,
+                17
+              ]
+            ]
+          },
+          "published": {
+            "date-parts": [
+              [
+                2025,
+                10,
+                17
+              ]
+            ]
+          },
+          "published-online": {
+            "date-parts": [
+              [
+                2025,
+                10,
+                17
+              ]
+            ]
+          },
+          "published-print": {
+            "date-parts": [
+              [
+                2025,
+                12
+              ]
+            ]
+          }
+        },
+        "warnings": null
+      },
+      "version_identity": "publisher_VOR_Springer_OA",
+      "version_group": "publisher_typeset_copy",
+      "identity_basis": "Springer公开正式排版18页，Cluster Computing28:1013(2025)，DOI及作者可核。",
+      "read_copy_title_difference": null,
+      "read_source_url": "https://link.springer.com/content/pdf/10.1007/s10586-025-05663-9.pdf",
+      "local_pdf_path": "D:\\SKT727\\materials\\constellation_review_B04_20261015\\057_public.pdf",
+      "physical_pdf_pages": 18,
+      "bytes": 4515261,
+      "sha256": "f1c1bd362d23b0f70c444fc892e6527cec5afa1dbbc69504538e86c7a2aab37b",
+      "HTML_tool_capture_receipts": [],
+      "text_status": "readable_selected_body_passages; some extracted_formula_and_ligature_artifacts_checked_on_selected_actual_pages",
+      "targeted_body_reading_recorded": true,
+      "all_page_all_proof_close_reading_complete": false,
+      "formal_version_parity_closed": false,
+      "human_verified": false,
+      "third_party_PDF_committed": false,
+      "metadata_provenance": "inherited_exact_B03_or_B04_record; no new formal metadata claim",
+      "B05_reading_kind": "followup_no_unique_increment",
+      "new_unique_targeted_addition": false,
+      "new_unique_body_engagement": false,
+      "submission_ready": false
+    },
+    {
+      "reference_number": 61,
+      "doi": "10.1109/TAES.2019.2947978",
+      "doi_url": "https://doi.org/10.1109/TAES.2019.2947978",
+      "original_language": "en",
+      "original_title": "Robust Earth Observation Satellite Scheduling With Uncertainty of Cloud Coverage",
+      "english_title": "Robust Earth Observation Satellite Scheduling With Uncertainty of Cloud Coverage",
+      "english_title_role": "formal_English_title",
+      "chinese_translation": "考虑云覆盖不确定性的鲁棒对地观测卫星调度",
+      "metadata": {
+        "status": "crossref_snapshot_obtained_not_human_final",
+        "metadata_url": "https://api.crossref.org/works/10.1109/TAES.2019.2947978",
+        "snapshot_sha256": "7219ed1153241bd29884285eb99d90cd8695e262cf593eac90a909b791383083",
+        "authors": [
+          "Xinwei Wang",
+          "Guopeng Song",
+          "Roel Leus",
+          "Chao Han"
+        ],
+        "container_titles": [
+          "IEEE Transactions on Aerospace and Electronic Systems"
+        ],
+        "volume": "56",
+        "issue": "3",
+        "page_or_article_number": "2450-2461",
+        "dates": {
+          "issued": {
+            "date-parts": [
+              [
+                2020,
+                6
+              ]
+            ]
+          },
+          "published": {
+            "date-parts": [
+              [
+                2020,
+                6
+              ]
+            ]
+          },
+          "published-print": {
+            "date-parts": [
+              [
+                2020,
+                6
+              ]
+            ]
+          }
+        },
+        "warnings": null
+      },
+      "version_identity": "author_manuscript_dated_2020-03-18",
+      "version_group": "author_copy",
+      "identity_basis": "作者公开GoogleDrive副本由Leus公开出版物页直接链接，41页，首页Preprint submitted to IEEE TAES March18,2020；未与正式12页配对。",
+      "read_copy_title_difference": null,
+      "read_source_url": "https://drive.google.com/uc?export=download&id=1ZWAE-hwLsw2lb1-6BrzXHcVYRNGIDMJe",
+      "local_pdf_path": "D:\\SKT727\\materials\\constellation_review_B04_20261015\\061_additional.pdf",
+      "physical_pdf_pages": 41,
+      "bytes": 452187,
+      "sha256": "900e6c9125732d92f2d17ca3072dd2a23130515d2bc01f399e942b989d94bacb",
+      "HTML_tool_capture_receipts": [],
+      "text_status": "readable_selected_body_passages; some extracted_formula_and_ligature_artifacts_checked_on_selected_actual_pages",
+      "targeted_body_reading_recorded": true,
+      "all_page_all_proof_close_reading_complete": false,
+      "formal_version_parity_closed": false,
+      "human_verified": false,
+      "third_party_PDF_committed": false,
+      "metadata_provenance": "inherited_exact_B03_or_B04_record; no new formal metadata claim",
+      "B05_reading_kind": "followup_no_unique_increment",
+      "new_unique_targeted_addition": false,
+      "new_unique_body_engagement": false,
+      "submission_ready": false
+    },
+    {
+      "reference_number": 62,
+      "doi": "10.1016/j.ejor.2018.11.043",
+      "doi_url": "https://doi.org/10.1016/j.ejor.2018.11.043",
+      "original_language": "en",
+      "original_title": "Mixed-integer programming models for optimal constellation scheduling given cloud cover uncertainty",
+      "english_title": "Mixed-integer programming models for optimal constellation scheduling given cloud cover uncertainty",
+      "english_title_role": "formal_English_title",
+      "chinese_translation": "考虑云覆盖不确定性的最优星座调度混合整数规划模型",
+      "metadata": {
+        "status": "crossref_snapshot_obtained_not_human_final",
+        "metadata_url": "https://api.crossref.org/works/10.1016/j.ejor.2018.11.043",
+        "snapshot_sha256": "70e0de5e752b9232984cf7b1b51529e114193557c1892264348180b265cf1c12",
+        "authors": [
+          "Christopher G. Valicka",
+          "Deanna Garcia",
+          "Andrea Staid",
+          "Jean-Paul Watson",
+          "Gabriel Hackebeil",
+          "Sivakumar Rathinam",
+          "Lewis Ntaimo"
+        ],
+        "container_titles": [
+          "European Journal of Operational Research"
+        ],
+        "volume": "275",
+        "issue": "2",
+        "page_or_article_number": "431-445",
+        "dates": {
+          "issued": {
+            "date-parts": [
+              [
+                2019,
+                6
+              ]
+            ]
+          },
+          "published": {
+            "date-parts": [
+              [
+                2019,
+                6
+              ]
+            ]
+          },
+          "published-print": {
+            "date-parts": [
+              [
+                2019,
+                6
+              ]
+            ]
+          }
+        },
+        "warnings": null
+      },
+      "version_identity": "author_accepted_manuscript_OSTI",
+      "version_group": "author_copy",
+      "identity_basis": "OSTI公开39页作者/接受稿，非正式排版；DOI和作者题名吻合，正式版配对未关闭。",
+      "read_copy_title_difference": null,
+      "read_source_url": "https://www.osti.gov/servlets/purl/1524209",
+      "local_pdf_path": "D:\\SKT727\\materials\\constellation_review_B04_20261015\\062_long.pdf",
+      "physical_pdf_pages": 39,
+      "bytes": 3744687,
+      "sha256": "136c28f5121ece9e892961ccaf2487e886713e4f495140dfe45c5eff76bd085c",
+      "HTML_tool_capture_receipts": [],
+      "text_status": "readable_selected_body_passages; some extracted_formula_and_ligature_artifacts_checked_on_selected_actual_pages",
+      "targeted_body_reading_recorded": true,
+      "all_page_all_proof_close_reading_complete": false,
+      "formal_version_parity_closed": false,
+      "human_verified": false,
+      "third_party_PDF_committed": false,
+      "metadata_provenance": "inherited_exact_B03_or_B04_record; no new formal metadata claim",
+      "B05_reading_kind": "followup_no_unique_increment",
+      "new_unique_targeted_addition": false,
+      "new_unique_body_engagement": false,
+      "submission_ready": false
+    },
+    {
+      "reference_number": 91,
+      "doi": "10.2514/1.58436",
+      "doi_url": "https://doi.org/10.2514/1.58436",
+      "english_title": "Autonomous Trajectory Planning for Rendezvous and Proximity Operations by Conic Optimization",
+      "chinese_translation": "采用锥优化的交会与近距离操作自主轨迹规划",
+      "metadata": {
+        "status": "Crossref_primary_metadata_snapshot_not_fulltext_or_human_final",
+        "metadata_url": "https://api.crossref.org/works/10.2514/1.58436",
+        "snapshot_sha256": "849a35262e1b0bf2a6824854611d427aa3f8854538d88c6ba6a1cba18f956821",
+        "authors": [
+          "Ping Lu",
+          "Xinfu Liu"
+        ],
+        "container_titles": [
+          "Journal of Guidance, Control, and Dynamics"
+        ],
+        "volume": "36",
+        "issue": "2",
+        "page_or_article_number": "375-389",
+        "dates": {
+          "issued": {
+            "date-parts": [
+              [
+                2013,
+                3
+              ]
+            ]
+          },
+          "published": {
+            "date-parts": [
+              [
+                2013,
+                3
+              ]
+            ]
+          },
+          "published-print": {
+            "date-parts": [
+              [
+                2013,
+                3
+              ]
+            ]
+          }
+        },
+        "crossref_title": [
+          "Autonomous Trajectory Planning for Rendezvous and Proximity Operations by Conic Optimization"
+        ]
+      },
+      "metadata_provenance": "new_Crossref_snapshot; observed_copy_title_and_front_matter_separately_recorded",
+      "version_identity": "author_manuscript_public_HTML_26page_layout",
+      "identity_basis": "HTML作者稿26页布局，正式刊页375–389；不可混用两个页码系统。",
+      "read_source_url": "https://www.researchgate.net/publication/268557803_Autonomous_Trajectory_Planning_for_Rendezvous_and_Proximity_Operations_by_Conic_Optimization",
+      "local_pdf_path": null,
+      "physical_pdf_pages": null,
+      "bytes": null,
+      "sha256": null,
+      "version_group": "author_public_HTML",
+      "B05_reading_kind": "new_targeted_HTML",
+      "new_unique_targeted_addition": true,
+      "new_unique_body_engagement": true,
+      "HTML_tool_capture_receipts": [
+        {
+          "local_capture_path": "D:\\SKT727\\materials\\constellation_review_B05_20261016\\WEB_91_algorithm_find.json",
+          "bytes": 17548,
+          "sha256": "2cfa3a7fb4d4088787ecffcffac7fd2b9d20e3c944a1b1d5fad5f8ffa2238c61",
+          "not_PDF_hash": true
+        },
+        {
+          "local_capture_path": "D:\\SKT727\\materials\\constellation_review_B05_20261016\\WEB_91_Assumption_find.json",
+          "bytes": 9829,
+          "sha256": "8d0c6df0eef4a8a990bc40c48b90105913a10a4f7f99002de077086302d969bd",
+          "not_PDF_hash": true
+        },
+        {
+          "local_capture_path": "D:\\SKT727\\materials\\constellation_review_B05_20261016\\WEB_91_FIND.json",
+          "bytes": 15843,
+          "sha256": "9b9847f8e2bd83d18dcea51be26da2b06e59471c08c577de3a0f9a0dc3013270",
+          "not_PDF_hash": true
+        },
+        {
+          "local_capture_path": "D:\\SKT727\\materials\\constellation_review_B05_20261016\\WEB_91_iteration_setup.json",
+          "bytes": 19762,
+          "sha256": "9b7b2fe31c150b7b3cf4de7a58547b603500fc43d12cfd4a6c7487cfa6fb09d6",
+          "not_PDF_hash": true
+        },
+        {
+          "local_capture_path": "D:\\SKT727\\materials\\constellation_review_B05_20261016\\WEB_91_iteration_stop.json",
+          "bytes": 17357,
+          "sha256": "8645dc75125549efa1a1b63fc9348a131c63f02991f5b28d7f4fd6c0a49c6876",
+          "not_PDF_hash": true
+        },
+        {
+          "local_capture_path": "D:\\SKT727\\materials\\constellation_review_B05_20261016\\WEB_91method.json",
+          "bytes": 19185,
+          "sha256": "47fa724d3f720f9944e66a3c68e09b71eec75f1371e742af6fe6cff0a1744d2f",
+          "not_PDF_hash": true
+        },
+        {
+          "local_capture_path": "D:\\SKT727\\materials\\constellation_review_B05_20261016\\WEB_91results.json",
+          "bytes": 18539,
+          "sha256": "a97347f61cc558e3385f30b53dafb3745f42d98da75d3224e5f280facd4997ad",
+          "not_PDF_hash": true
+        }
+      ],
+      "text_status": "public_author_uploaded_HTML_body_selected_passages; math/figures may be incomplete; no PDF pixels",
+      "targeted_body_reading_recorded": true,
+      "all_page_all_proof_close_reading_complete": false,
+      "formal_version_parity_closed": false,
+      "human_verified": false,
+      "submission_ready": false,
+      "third_party_PDF_committed": false
+    },
+    {
+      "reference_number": 92,
+      "doi": "10.2514/1.G000218",
+      "doi_url": "https://doi.org/10.2514/1.G000218",
+      "original_language": "en",
+      "original_title": "Model Predictive Control of Swarms of Spacecraft Using Sequential Convex Programming",
+      "english_title": "Model Predictive Control of Swarms of Spacecraft Using Sequential Convex Programming",
+      "english_title_role": "formal_English_title",
+      "chinese_translation": "采用序列凸规划的航天器集群模型预测控制",
+      "metadata": {
+        "status": "crossref_snapshot_obtained_not_human_final",
+        "metadata_url": "https://api.crossref.org/works/10.2514/1.G000218",
+        "snapshot_sha256": "a10417225bb382e497d6f805cba6b2c0d823898bbea8f3bedfcfb5e55e283527",
+        "authors": [
+          "Daniel Morgan",
+          "Soon-Jo Chung",
+          "Fred Y. Hadaegh"
+        ],
+        "container_titles": [
+          "Journal of Guidance, Control, and Dynamics"
+        ],
+        "volume": "37",
+        "issue": "6",
+        "page_or_article_number": "1725-1740",
+        "dates": {
+          "issued": {
+            "date-parts": [
+              [
+                2014,
+                11
+              ]
+            ]
+          },
+          "published": {
+            "date-parts": [
+              [
+                2014,
+                11
+              ]
+            ]
+          },
+          "published-print": {
+            "date-parts": [
+              [
+                2014,
+                11
+              ]
+            ]
+          }
+        },
+        "warnings": null
+      },
+      "version_identity": "publisher_typeset_VOR_copy_author_public_repository",
+      "version_group": "publisher_typeset_copy",
+      "identity_basis": "作者Caltech研究页直接链接公开Box副本，16页正式JGCD37(6)(2014):1725–1740排版，题名/DOI吻合；不保存临时签名下载跳转。",
+      "read_copy_title_difference": null,
+      "read_source_url": "https://caltech.app.box.com/shared/static/xb19dc8ih9su97894omrmh8k44tfko1u.pdf",
+      "local_pdf_path": "D:\\SKT727\\materials\\constellation_review_B04_20261015\\092_author.pdf",
+      "physical_pdf_pages": 16,
+      "bytes": 1418077,
+      "sha256": "e977867ad600a2be7ab982703c34e07d80f90000363d95daa9bfa266c06e6bb0",
+      "HTML_tool_capture_receipts": [],
+      "text_status": "readable_selected_body_passages; some extracted_formula_and_ligature_artifacts_checked_on_selected_actual_pages",
+      "targeted_body_reading_recorded": true,
+      "all_page_all_proof_close_reading_complete": false,
+      "formal_version_parity_closed": false,
+      "human_verified": false,
+      "third_party_PDF_committed": false,
+      "metadata_provenance": "inherited_exact_B03_or_B04_record; no new formal metadata claim",
+      "B05_reading_kind": "followup_no_unique_increment",
+      "new_unique_targeted_addition": false,
+      "new_unique_body_engagement": false,
+      "submission_ready": false
+    },
+    {
+      "reference_number": 105,
+      "doi": "10.1016/j.paerosci.2023.100960",
+      "doi_url": "https://doi.org/10.1016/j.paerosci.2023.100960",
+      "english_title": "Artificial Intelligence for Trusted Autonomous Satellite Operations",
+      "chinese_translation": "可信自主卫星运行的人工智能",
+      "metadata": {
+        "status": "Crossref_primary_metadata_snapshot_not_fulltext_or_human_final",
+        "metadata_url": "https://api.crossref.org/works/10.1016/j.paerosci.2023.100960",
+        "snapshot_sha256": "b02345ad974911eca495c9f9fe8be58be4be423d79f3b2ce54eec9f93b3ec071",
+        "authors": [
+          "Kathiravan Thangavel",
+          "Roberto Sabatini",
+          "Alessandro Gardi",
+          "Kavindu Ranasinghe",
+          "Samuel Hilton",
+          "Pablo Servidia",
+          "Dario Spiller"
+        ],
+        "container_titles": [
+          "Progress in Aerospace Sciences"
+        ],
+        "volume": "144",
+        "issue": null,
+        "page_or_article_number": "100960",
+        "dates": {
+          "issued": {
+            "date-parts": [
+              [
+                2024,
+                1
+              ]
+            ]
+          },
+          "published": {
+            "date-parts": [
+              [
+                2024,
+                1
+              ]
+            ]
+          },
+          "published-print": {
+            "date-parts": [
+              [
+                2024,
+                1
+              ]
+            ]
+          }
+        },
+        "crossref_title": [
+          "Artificial Intelligence for Trusted Autonomous Satellite Operations"
+        ]
+      },
+      "metadata_provenance": "new_Crossref_snapshot; observed_copy_title_and_front_matter_separately_recorded",
+      "version_identity": "author_shared_public_HTML_typeset_style",
+      "identity_basis": "HTML呈PAS144(2024)100960排版痕迹；未得PDF，未证版本逐项等同。",
+      "read_source_url": "https://www.researchgate.net/publication/376833751_Artificial_Intelligence_for_Trusted_Autonomous_Satellite_Operations",
+      "local_pdf_path": null,
+      "physical_pdf_pages": null,
+      "bytes": null,
+      "sha256": null,
+      "version_group": "author_public_HTML",
+      "B05_reading_kind": "new_targeted_HTML",
+      "new_unique_targeted_addition": true,
+      "new_unique_body_engagement": true,
+      "HTML_tool_capture_receipts": [
+        {
+          "local_capture_path": "D:\\SKT727\\materials\\constellation_review_B05_20261016\\WEB_105_coevolution_find.json",
+          "bytes": 15500,
+          "sha256": "448f7ae3e0ace0e9e0a940b459787c96397a1cabccdc4fe2dcb63ac6527bf986",
+          "not_PDF_hash": true
+        },
+        {
+          "local_capture_path": "D:\\SKT727\\materials\\constellation_review_B05_20261016\\WEB_105_Conclusion_find.json",
+          "bytes": 14740,
+          "sha256": "69c00f43e31661f6b044410b971b385418d1ca752615f18c8fc33b0c0c29d2ae",
+          "not_PDF_hash": true
+        },
+        {
+          "local_capture_path": "D:\\SKT727\\materials\\constellation_review_B05_20261016\\WEB_105_FIND.json",
+          "bytes": 14448,
+          "sha256": "ac48039c9104b1c202d53ce40acf25e8a87bcfad13a26379a9598470d6a23966",
+          "not_PDF_hash": true
+        },
+        {
+          "local_capture_path": "D:\\SKT727\\materials\\constellation_review_B05_20261016\\WEB_105arch.json",
+          "bytes": 28591,
+          "sha256": "29a1be0044d8459065d75206c4ed049b97d8ec33fc308bf769eaf29dff695278",
+          "not_PDF_hash": true
+        }
+      ],
+      "text_status": "public_author_uploaded_HTML_body_selected_passages; math/figures may be incomplete; no PDF pixels",
+      "targeted_body_reading_recorded": true,
+      "all_page_all_proof_close_reading_complete": false,
+      "formal_version_parity_closed": false,
+      "human_verified": false,
+      "submission_ready": false,
+      "third_party_PDF_committed": false
+    }
+  ],
+  "fulltext_and_images_stored_externally": true,
+  "no_download_equals_reading": true
+}

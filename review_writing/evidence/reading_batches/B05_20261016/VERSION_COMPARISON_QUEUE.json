@@ -1,0 +1,171 @@
+{
+  "batch": "B05_20261016",
+  "formal_pair_closed_count": 0,
+  "queue": [
+    {
+      "reference_number": 3,
+      "doi": "10.1109/JSYST.2020.2997050",
+      "read_version": "author_preprint_arXiv_2003.06169v1",
+      "read_url": "https://arxiv.org/pdf/2003.06169",
+      "formal_DOI_entry": "https://doi.org/10.1109/JSYST.2020.2997050",
+      "PDF_sha256": "82a1db328a5649feeb65471516b4fe75b3f131c964307b6bb10f472683a97d11",
+      "has_HTML_only_body": false,
+      "next_material_or_check": "作者预印本正式版配对、全部背景引文未核；不能以2020空白判断代表2026现状。页24对不确定方法的概括须与[62]一次文献分开。",
+      "formal_version_parity_closed": false
+    },
+    {
+      "reference_number": 4,
+      "doi": "10.1016/j.cor.2024.106875",
+      "read_version": "author_manuscript_HEC",
+      "read_url": "https://chairelogistique.hec.ca/wp-content/uploads/2024/02/Survey_on_observation_scheduling.pdf",
+      "formal_DOI_entry": "https://doi.org/10.1016/j.cor.2024.106875",
+      "PDF_sha256": "b4c51cfb5b504b743da85cc548883e714b06ff59859234b4cc8e1dff0313afbe",
+      "has_HTML_only_body": false,
+      "next_material_or_check": "HEC作者稿与正式版未配对；二次转述的算法百分比/在轨工程状态未逐项追溯；原稿“重排保证最好”等泛称不能作为一般数学保证。",
+      "formal_version_parity_closed": false
+    },
+    {
+      "reference_number": 6,
+      "doi": "10.1016/j.asr.2020.08.018",
+      "read_version": "author_preprint_public_HTML_2020-12-01",
+      "read_url": "https://www.researchgate.net/publication/344050681_Towards_the_Automated_Operations_of_Large_Distributed_Satellite_Systems_Part_2_Classifications_and_Tools",
+      "formal_DOI_entry": "https://doi.org/10.1016/j.asr.2020.08.018",
+      "PDF_sha256": null,
+      "has_HTML_only_body": true,
+      "next_material_or_check": "仅作者公开HTML；公式、表7颜色/符号与正式PDF尚未核。工具能力为文中历史比较，不是2026现状。",
+      "formal_version_parity_closed": false
+    },
+    {
+      "reference_number": 11,
+      "doi": "10.1016/j.actaastro.2014.02.016",
+      "read_version": "author_shared_public_HTML_typeset_style",
+      "read_url": "https://www.researchgate.net/publication/260801708_Optimization_of_satellite_constellation_reconfiguration_maneuvers",
+      "formal_DOI_entry": "https://doi.org/10.1016/j.actaastro.2014.02.016",
+      "PDF_sha256": null,
+      "has_HTML_only_body": true,
+      "next_material_or_check": "仅作者公开HTML，关键公式和表格缺PDF像素；正式版本差异、初始化公平性未关闭。",
+      "formal_version_parity_closed": false
+    },
+    {
+      "reference_number": 15,
+      "doi": "10.1016/j.actaastro.2018.03.054",
+      "read_version": "author_manuscript_public_HTML",
+      "read_url": "https://www.researchgate.net/publication/324206186_Optimization_of_satellite_constellation_deployment_strategy_considering_uncertain_areas_of_interest",
+      "formal_DOI_entry": "https://doi.org/10.1016/j.actaastro.2018.03.054",
+      "PDF_sha256": null,
+      "has_HTML_only_body": true,
+      "next_material_or_check": "作者稿HTML，PDF403；公式、图表与正式版配对未核。成本为案例历史参数，不能当当前报价。",
+      "formal_version_parity_closed": false
+    },
+    {
+      "reference_number": 16,
+      "doi": "10.1007/s42405-026-01298-1",
+      "read_version": "publisher_VOR_Springer_OA_online_first",
+      "read_url": "https://link.springer.com/content/pdf/10.1007/s42405-026-01298-1.pdf",
+      "formal_DOI_entry": "https://doi.org/10.1007/s42405-026-01298-1",
+      "PDF_sha256": "4e366f02c06f10964d8b6a528447fe35ca33ff6c3ee824013111d7c9a3dae8c9",
+      "has_HTML_only_body": false,
+      "next_material_or_check": "B04表7/8时间与间隙疑点保持open；不以其他表格解读替代原问题。全部证明、跨版本/人工终核未完成。",
+      "formal_version_parity_closed": false
+    },
+    {
+      "reference_number": 37,
+      "doi": "10.1109/TRO.2009.2022423",
+      "read_version": "publisher_typeset_VOR_copy_MIT_repository",
+      "read_url": "https://dspace.mit.edu/bitstreams/9954d25d-991a-4c8d-be1d-3574ee986f43/download",
+      "formal_DOI_entry": "https://doi.org/10.1109/TRO.2009.2022423",
+      "PDF_sha256": "0208479321ef78d648c655bd4102eef8cdc646786defb527ef36c5b70a54ef1e",
+      "has_HTML_only_body": false,
+      "next_material_or_check": "正式排版副本身份可核；全部附录证明、修改非DMG评分的价值保证和在轨实验未独立核验。页9已见非DMG改分可收敛的引理，不能说非DMG均无法冲突消解。",
+      "formal_version_parity_closed": false
+    },
+    {
+      "reference_number": 41,
+      "doi": "10.24963/ijcai.2023/30",
+      "read_version": "publisher_proceedings_IJCAI_2023",
+      "read_url": "https://www.ijcai.org/proceedings/2023/0030.pdf",
+      "formal_DOI_entry": "https://doi.org/10.24963/ijcai.2023/30",
+      "PDF_sha256": "ab22251d02cb03f9e5731f6d8db751c001bf4a3245e00011e421f1b859674e50",
+      "has_HTML_only_body": false,
+      "next_material_or_check": "B03概率符号/90%丢失歧义仍open；p6文字明确10%到达，p7符号称loss概率。没有检查代码，不能替作者统一符号。",
+      "formal_version_parity_closed": false
+    },
+    {
+      "reference_number": 49,
+      "doi": "10.1109/ACCESS.2021.3064928",
+      "read_version": "author_draft_with_template_metadata",
+      "read_url": "https://www.columbia.edu/~rm3122/paper/deep_space.pdf",
+      "formal_DOI_entry": "https://doi.org/10.1109/ACCESS.2021.3064928",
+      "PDF_sha256": "82227db029fb21d38852e96ffa6354d4586a2a9a2fa2ed33fc43faafc2b9242a",
+      "has_HTML_only_body": false,
+      "next_material_or_check": "作者模板稿的正式版配对与实现约束映射仍open；模型中活动跨资源唯一性不能仅按自然语言假设宣告完成独立验证。",
+      "formal_version_parity_closed": false
+    },
+    {
+      "reference_number": 57,
+      "doi": "10.1007/s10586-025-05663-9",
+      "read_version": "publisher_VOR_Springer_OA",
+      "read_url": "https://link.springer.com/content/pdf/10.1007/s10586-025-05663-9.pdf",
+      "formal_DOI_entry": "https://doi.org/10.1007/s10586-025-05663-9",
+      "PDF_sha256": "f1c1bd362d23b0f70c444fc892e6527cec5afa1dbbc69504538e86c7a2aab37b",
+      "has_HTML_only_body": false,
+      "next_material_or_check": "未检查模拟代码和所有等待/超时路径；论文段落的可行性预测不是独立实测截止保证。B04成功率与标签问题保留。",
+      "formal_version_parity_closed": false
+    },
+    {
+      "reference_number": 61,
+      "doi": "10.1109/TAES.2019.2947978",
+      "read_version": "author_manuscript_dated_2020-03-18",
+      "read_url": "https://drive.google.com/uc?export=download&id=1ZWAE-hwLsw2lb1-6BrzXHcVYRNGIDMJe",
+      "formal_DOI_entry": "https://doi.org/10.1109/TAES.2019.2947978",
+      "PDF_sha256": "900e6c9125732d92f2d17ca3072dd2a23130515d2bc01f399e942b989d94bacb",
+      "has_HTML_only_body": false,
+      "next_material_or_check": "41页作者稿未配正式版；全部列生成/定价证明与实验未复现。完成/opt列不代表原整数问题全局最优。",
+      "formal_version_parity_closed": false
+    },
+    {
+      "reference_number": 62,
+      "doi": "10.1016/j.ejor.2018.11.043",
+      "read_version": "author_accepted_manuscript_OSTI",
+      "read_url": "https://www.osti.gov/servlets/purl/1524209",
+      "formal_DOI_entry": "https://doi.org/10.1016/j.ejor.2018.11.043",
+      "PDF_sha256": "136c28f5121ece9e892961ccaf2487e886713e4f495140dfe45c5eff76bd085c",
+      "has_HTML_only_body": false,
+      "next_material_or_check": "B04三阶段/样本外反例记录保留；正式版配对、天气分布校准与全部数学/实验复现未完成。",
+      "formal_version_parity_closed": false
+    },
+    {
+      "reference_number": 91,
+      "doi": "10.2514/1.58436",
+      "read_version": "author_manuscript_public_HTML_26page_layout",
+      "read_url": "https://www.researchgate.net/publication/268557803_Autonomous_Trajectory_Planning_for_Rendezvous_and_Proximity_Operations_by_Conic_Optimization",
+      "formal_DOI_entry": "https://doi.org/10.2514/1.58436",
+      "PDF_sha256": null,
+      "has_HTML_only_body": true,
+      "next_material_or_check": "公开HTML作者版26页布局，正式刊页375–389不能用于此副本定位。无PDF，公式像素和全部证明未核。",
+      "formal_version_parity_closed": false
+    },
+    {
+      "reference_number": 92,
+      "doi": "10.2514/1.G000218",
+      "read_version": "publisher_typeset_VOR_copy_author_public_repository",
+      "read_url": "https://caltech.app.box.com/shared/static/xb19dc8ih9su97894omrmh8k44tfko1u.pdf",
+      "formal_DOI_entry": "https://doi.org/10.2514/1.G000218",
+      "PDF_sha256": "e977867ad600a2be7ab982703c34e07d80f90000363d95daa9bfa266c06e6bb0",
+      "has_HTML_only_body": false,
+      "next_material_or_check": "全部定理条件、非线性闭环稳定性、全时域安全与独立求解复现未完成；B04通信/误差/期限条件保持。",
+      "formal_version_parity_closed": false
+    },
+    {
+      "reference_number": 105,
+      "doi": "10.1016/j.paerosci.2023.100960",
+      "read_version": "author_shared_public_HTML_typeset_style",
+      "read_url": "https://www.researchgate.net/publication/376833751_Artificial_Intelligence_for_Trusted_Autonomous_Satellite_Operations",
+      "formal_DOI_entry": "https://doi.org/10.1016/j.paerosci.2023.100960",
+      "PDF_sha256": null,
+      "has_HTML_only_body": true,
+      "next_material_or_check": "作者公开HTML，未得PDF；图27结构像素、正式版配对、二次引用与全部案例未核。",
+      "formal_version_parity_closed": false
+    }
+  ]
+}
