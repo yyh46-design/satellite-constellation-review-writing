@@ -1,0 +1,43 @@
+{
+  "scope": "local syntax and draft-language checks only; no network resolution or scientific/human verification",
+  "checks": [
+    {
+      "tool": "lint_manuscript.py",
+      "exit_code": 0,
+      "report": {
+        "issues": [
+          {
+            "code": "CONFIDENTIALITY_GATE_NOT_CHECKED",
+            "location": "manifest",
+            "severity": "warning"
+          }
+        ],
+        "status": "pass",
+        "summary": {
+          "errors": 0,
+          "lines_checked": 521,
+          "raw_text_echoed": false,
+          "warnings": 1
+        },
+        "tool": "lint_manuscript"
+      }
+    },
+    {
+      "tool": "check_references.py",
+      "exit_code": 0,
+      "report": {
+        "issues": [],
+        "status": "pass",
+        "summary": {
+          "errors": 0,
+          "network_used": false,
+          "sources_checked": 94,
+          "warnings": 0
+        },
+        "tool": "check_references"
+      }
+    }
+  ],
+  "human_verified": false,
+  "submission_ready": false
+}

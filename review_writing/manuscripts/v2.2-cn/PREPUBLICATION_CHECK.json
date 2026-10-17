@@ -1,0 +1,5010 @@
+{
+  "status": "PASS",
+  "scope": "structural, citation-identity, historical Git content and local-artifact checks; not scientific/human acceptance",
+  "date_client": "2026-10-17",
+  "parent_commit": "78f0e1b2eca09ed7c8df54c9021b3d75d45e58a3",
+  "historical_paths_checked": 449,
+  "historical_content_aggregate_sha256": "a534d1cb3f1913ed204e6314d1e23173775edd5e8fd53bc7b97f71ae883306ce",
+  "historical_comparison": "exact blob bytes or CRLF checkout converted to LF; no old files rewritten",
+  "checkout_crlf_only_paths": [
+    "README.md",
+    "review_writing/.gitignore",
+    "review_writing/README.md",
+    "review_writing/discussion/GPT_WRITING_STANDARDS_BRIEF.md",
+    "review_writing/discussion/WRITING_RULES_DECISIONS.md",
+    "review_writing/evidence/CHAPTER_QUESTION_MAP.md",
+    "review_writing/evidence/FIRST_READING_QUEUE_40.md",
+    "review_writing/evidence/MAPPING_BY_SECTION.md",
+    "review_writing/evidence/reading_inventory_20261013/AUDIT_PROVENANCE_CN.md",
+    "review_writing/evidence/reading_inventory_20261013/NEXT_READING_QUEUE_CN.md",
+    "review_writing/evidence/reading_inventory_20261013/READING_LEDGER_121.json",
+    "review_writing/evidence/reading_inventory_20261013/READING_STATUS_SUMMARY_CN.md",
+    "review_writing/evidence/reading_inventory_20261013/README.md",
+    "review_writing/framework/FIVE_CHAPTER_OUTLINE.md",
+    "review_writing/literature/LITERATURE_INDEX_148.md",
+    "review_writing/literature/PENDING_CANDIDATES.md",
+    "review_writing/literature/references_148.bib",
+    "review_writing/provenance/PACKAGE_MANIFEST.json",
+    "review_writing/provenance/PUBLICATION_SCOPE.md",
+    "review_writing/snapshots/literature_20261009/annotations.json",
+    "review_writing/snapshots/literature_20261009/build_literature.mjs",
+    "review_writing/snapshots/literature_20261009/delivery_audit.json",
+    "review_writing/snapshots/literature_20261009/literature_records.json",
+    "review_writing/snapshots/literature_20261009/search_queries.json",
+    "review_writing/snapshots/literature_round2_20261009/build_round2.mjs",
+    "review_writing/snapshots/literature_round2_20261009/delivery_audit.json",
+    "review_writing/snapshots/literature_round2_20261009/literature_records.json",
+    "review_writing/snapshots/literature_round2_20261009/round2_annotations.json",
+    "review_writing/snapshots/literature_round2_20261009/search_queries.json",
+    "review_writing/snapshots/literature_round3_20261009/build_round3.mjs",
+    "review_writing/snapshots/literature_round3_20261009/delivery_audit.json",
+    "review_writing/snapshots/literature_round3_20261009/literature_records.json",
+    "review_writing/snapshots/literature_round3_20261009/round3_annotations.json",
+    "review_writing/snapshots/literature_round3_20261009/search_queries.json",
+    "review_writing/snapshots/literature_round4_20261009/build_round4.mjs",
+    "review_writing/snapshots/literature_round4_20261009/delivery_audit.json",
+    "review_writing/snapshots/literature_round4_20261009/literature_records.json",
+    "review_writing/snapshots/review_evidence_mapping_v2_20261009/build_mapping.mjs",
+    "review_writing/snapshots/review_evidence_mapping_v2_20261009/delivery_audit.json",
+    "review_writing/snapshots/review_evidence_mapping_v2_20261009/mapping_records.json",
+    "review_writing/snapshots/review_framework_v1_20261009/build_framework.mjs",
+    "review_writing/snapshots/review_framework_v1_20261009/delivery_audit.json",
+    "review_writing/snapshots/review_framework_v1_20261009/framework_plan.json",
+    "review_writing/snapshots/review_framework_v1_20261009/screening_records.json"
+  ],
+  "frozen_v19_blob_sha256": "0b9f3f6f6b8d3c13af97f25d7baf3dac6dc18ecad8614e182633e12b6e3bbc69",
+  "frozen_v19_checkout_sha256": "0b9f3f6f6b8d3c13af97f25d7baf3dac6dc18ecad8614e182633e12b6e3bbc69",
+  "checks_passed": 1233,
+  "checks": [
+    {
+      "check": "source_count",
+      "pass": true
+    },
+    {
+      "check": "academic_and_engineering_counts",
+      "pass": true
+    },
+    {
+      "check": "reading_basis_counts",
+      "pass": true
+    },
+    {
+      "check": "no_abstract_only_academic_basis",
+      "pass": true
+    },
+    {
+      "check": "explicit_128_identity_map",
+      "pass": true
+    },
+    {
+      "check": "exact_34_removed",
+      "pass": true
+    },
+    {
+      "check": "retained_stable_ids",
+      "pass": true
+    },
+    {
+      "check": "source_identity_to_number",
+      "pass": true
+    },
+    {
+      "check": "first_appearance_order",
+      "pass": true
+    },
+    {
+      "check": "complete_bibliography",
+      "pass": true
+    },
+    {
+      "check": "no_orphan_references",
+      "pass": true
+    },
+    {
+      "check": "bibliography_identity",
+      "pass": true
+    },
+    {
+      "check": "doi_in_entry_E001",
+      "pass": true
+    },
+    {
+      "check": "doi_in_entry_E002",
+      "pass": true
+    },
+    {
+      "check": "doi_in_entry_E003",
+      "pass": true
+    },
+    {
+      "check": "doi_in_entry_E004",
+      "pass": true
+    },
+    {
+      "check": "doi_in_entry_E005",
+      "pass": true
+    },
+    {
+      "check": "doi_in_entry_E006",
+      "pass": true
+    },
+    {
+      "check": "doi_in_entry_E007",
+      "pass": true
+    },
+    {
+      "check": "doi_in_entry_E008",
+      "pass": true
+    },
+    {
+      "check": "doi_in_entry_E009",
+      "pass": true
+    },
+    {
+      "check": "doi_in_entry_E106",
+      "pass": true
+    },
+    {
+      "check": "doi_in_entry_E121",
+      "pass": true
+    },
+    {
+      "check": "doi_in_entry_E010",
+      "pass": true
+    },
+    {
+      "check": "doi_in_entry_E034",
+      "pass": true
+    },
+    {
+      "check": "doi_in_entry_E035",
+      "pass": true
+    },
+    {
+      "check": "doi_in_entry_E042",
+      "pass": true
+    },
+    {
+      "check": "doi_in_entry_E044",
+      "pass": true
+    },
+    {
+      "check": "doi_in_entry_E011",
+      "pass": true
+    },
+    {
+      "check": "doi_in_entry_E012",
+      "pass": true
+    },
+    {
+      "check": "doi_in_entry_E013",
+      "pass": true
+    },
+    {
+      "check": "doi_in_entry_E014",
+      "pass": true
+    },
+    {
+      "check": "doi_in_entry_E015",
+      "pass": true
+    },
+    {
+      "check": "doi_in_entry_E016",
+      "pass": true
+    },
+    {
+      "check": "doi_in_entry_E017",
+      "pass": true
+    },
+    {
+      "check": "doi_in_entry_E018",
+      "pass": true
+    },
+    {
+      "check": "doi_in_entry_E019",
+      "pass": true
+    },
+    {
+      "check": "doi_in_entry_E020",
+      "pass": true
+    },
+    {
+      "check": "doi_in_entry_E021",
+      "pass": true
+    },
+    {
+      "check": "doi_in_entry_E023",
+      "pass": true
+    },
+    {
+      "check": "doi_in_entry_E024",
+      "pass": true
+    },
+    {
+      "check": "doi_in_entry_E025",
+      "pass": true
+    },
+    {
+      "check": "doi_in_entry_E026",
+      "pass": true
+    },
+    {
+      "check": "doi_in_entry_E027",
+      "pass": true
+    },
+    {
+      "check": "doi_in_entry_E028",
+      "pass": true
+    },
+    {
+      "check": "doi_in_entry_E030",
+      "pass": true
+    },
+    {
+      "check": "doi_in_entry_E122",
+      "pass": true
+    },
+    {
+      "check": "doi_in_entry_E036",
+      "pass": true
+    },
+    {
+      "check": "doi_in_entry_E037",
+      "pass": true
+    },
+    {
+      "check": "doi_in_entry_E039",
+      "pass": true
+    },
+    {
+      "check": "doi_in_entry_E041",
+      "pass": true
+    },
+    {
+      "check": "doi_in_entry_E047",
+      "pass": true
+    },
+    {
+      "check": "doi_in_entry_E048",
+      "pass": true
+    },
+    {
+      "check": "doi_in_entry_E049",
+      "pass": true
+    },
+    {
+      "check": "doi_in_entry_E050",
+      "pass": true
+    },
+    {
+      "check": "doi_in_entry_E053",
+      "pass": true
+    },
+    {
+      "check": "doi_in_entry_E057",
+      "pass": true
+    },
+    {
+      "check": "doi_in_entry_E058",
+      "pass": true
+    },
+    {
+      "check": "doi_in_entry_E127",
+      "pass": true
+    },
+    {
+      "check": "doi_in_entry_E061",
+      "pass": true
+    },
+    {
+      "check": "doi_in_entry_E062",
+      "pass": true
+    },
+    {
+      "check": "doi_in_entry_E123",
+      "pass": true
+    },
+    {
+      "check": "doi_in_entry_E065",
+      "pass": true
+    },
+    {
+      "check": "doi_in_entry_E066",
+      "pass": true
+    },
+    {
+      "check": "doi_in_entry_E071",
+      "pass": true
+    },
+    {
+      "check": "doi_in_entry_E072",
+      "pass": true
+    },
+    {
+      "check": "doi_in_entry_E073",
+      "pass": true
+    },
+    {
+      "check": "doi_in_entry_E074",
+      "pass": true
+    },
+    {
+      "check": "doi_in_entry_E076",
+      "pass": true
+    },
+    {
+      "check": "doi_in_entry_E128",
+      "pass": true
+    },
+    {
+      "check": "doi_in_entry_E124",
+      "pass": true
+    },
+    {
+      "check": "doi_in_entry_E078",
+      "pass": true
+    },
+    {
+      "check": "doi_in_entry_E125",
+      "pass": true
+    },
+    {
+      "check": "doi_in_entry_E126",
+      "pass": true
+    },
+    {
+      "check": "doi_in_entry_E081",
+      "pass": true
+    },
+    {
+      "check": "doi_in_entry_E082",
+      "pass": true
+    },
+    {
+      "check": "doi_in_entry_E084",
+      "pass": true
+    },
+    {
+      "check": "doi_in_entry_E087",
+      "pass": true
+    },
+    {
+      "check": "doi_in_entry_E086",
+      "pass": true
+    },
+    {
+      "check": "doi_in_entry_E085",
+      "pass": true
+    },
+    {
+      "check": "doi_in_entry_E091",
+      "pass": true
+    },
+    {
+      "check": "doi_in_entry_E092",
+      "pass": true
+    },
+    {
+      "check": "doi_in_entry_E093",
+      "pass": true
+    },
+    {
+      "check": "doi_in_entry_E095",
+      "pass": true
+    },
+    {
+      "check": "doi_in_entry_E096",
+      "pass": true
+    },
+    {
+      "check": "doi_in_entry_E098",
+      "pass": true
+    },
+    {
+      "check": "doi_in_entry_E101",
+      "pass": true
+    },
+    {
+      "check": "doi_in_entry_E102",
+      "pass": true
+    },
+    {
+      "check": "doi_in_entry_E108",
+      "pass": true
+    },
+    {
+      "check": "doi_in_entry_E105",
+      "pass": true
+    },
+    {
+      "check": "doi_in_entry_E107",
+      "pass": true
+    },
+    {
+      "check": "doi_in_entry_E109",
+      "pass": true
+    },
+    {
+      "check": "doi_in_entry_E119",
+      "pass": true
+    },
+    {
+      "check": "doi_in_entry_E116",
+      "pass": true
+    },
+    {
+      "check": "doi_in_entry_E117",
+      "pass": true
+    },
+    {
+      "check": "doi_in_entry_E120",
+      "pass": true
+    },
+    {
+      "check": "full_body_claims_are_mapped",
+      "pass": true
+    },
+    {
+      "check": "claim_hash_CN22C001",
+      "pass": true
+    },
+    {
+      "check": "claim_refs_CN22C001",
+      "pass": true
+    },
+    {
+      "check": "claim_sources_CN22C001",
+      "pass": true
+    },
+    {
+      "check": "claim_reference_identity_CN22C001",
+      "pass": true
+    },
+    {
+      "check": "not_human_verified_CN22C001",
+      "pass": true
+    },
+    {
+      "check": "claim_hash_CN22C002",
+      "pass": true
+    },
+    {
+      "check": "claim_refs_CN22C002",
+      "pass": true
+    },
+    {
+      "check": "claim_sources_CN22C002",
+      "pass": true
+    },
+    {
+      "check": "claim_reference_identity_CN22C002",
+      "pass": true
+    },
+    {
+      "check": "not_human_verified_CN22C002",
+      "pass": true
+    },
+    {
+      "check": "claim_hash_CN22C003",
+      "pass": true
+    },
+    {
+      "check": "claim_refs_CN22C003",
+      "pass": true
+    },
+    {
+      "check": "claim_sources_CN22C003",
+      "pass": true
+    },
+    {
+      "check": "claim_reference_identity_CN22C003",
+      "pass": true
+    },
+    {
+      "check": "not_human_verified_CN22C003",
+      "pass": true
+    },
+    {
+      "check": "claim_hash_CN22C004",
+      "pass": true
+    },
+    {
+      "check": "claim_refs_CN22C004",
+      "pass": true
+    },
+    {
+      "check": "claim_sources_CN22C004",
+      "pass": true
+    },
+    {
+      "check": "claim_reference_identity_CN22C004",
+      "pass": true
+    },
+    {
+      "check": "not_human_verified_CN22C004",
+      "pass": true
+    },
+    {
+      "check": "claim_hash_CN22C005",
+      "pass": true
+    },
+    {
+      "check": "claim_refs_CN22C005",
+      "pass": true
+    },
+    {
+      "check": "claim_sources_CN22C005",
+      "pass": true
+    },
+    {
+      "check": "claim_reference_identity_CN22C005",
+      "pass": true
+    },
+    {
+      "check": "not_human_verified_CN22C005",
+      "pass": true
+    },
+    {
+      "check": "claim_hash_CN22C006",
+      "pass": true
+    },
+    {
+      "check": "claim_refs_CN22C006",
+      "pass": true
+    },
+    {
+      "check": "claim_sources_CN22C006",
+      "pass": true
+    },
+    {
+      "check": "claim_reference_identity_CN22C006",
+      "pass": true
+    },
+    {
+      "check": "not_human_verified_CN22C006",
+      "pass": true
+    },
+    {
+      "check": "claim_hash_CN22C007",
+      "pass": true
+    },
+    {
+      "check": "claim_refs_CN22C007",
+      "pass": true
+    },
+    {
+      "check": "claim_sources_CN22C007",
+      "pass": true
+    },
+    {
+      "check": "claim_reference_identity_CN22C007",
+      "pass": true
+    },
+    {
+      "check": "not_human_verified_CN22C007",
+      "pass": true
+    },
+    {
+      "check": "claim_hash_CN22C008",
+      "pass": true
+    },
+    {
+      "check": "claim_refs_CN22C008",
+      "pass": true
+    },
+    {
+      "check": "claim_sources_CN22C008",
+      "pass": true
+    },
+    {
+      "check": "claim_reference_identity_CN22C008",
+      "pass": true
+    },
+    {
+      "check": "not_human_verified_CN22C008",
+      "pass": true
+    },
+    {
+      "check": "claim_hash_CN22C009",
+      "pass": true
+    },
+    {
+      "check": "claim_refs_CN22C009",
+      "pass": true
+    },
+    {
+      "check": "claim_sources_CN22C009",
+      "pass": true
+    },
+    {
+      "check": "claim_reference_identity_CN22C009",
+      "pass": true
+    },
+    {
+      "check": "not_human_verified_CN22C009",
+      "pass": true
+    },
+    {
+      "check": "claim_hash_CN22C010",
+      "pass": true
+    },
+    {
+      "check": "claim_refs_CN22C010",
+      "pass": true
+    },
+    {
+      "check": "claim_sources_CN22C010",
+      "pass": true
+    },
+    {
+      "check": "claim_reference_identity_CN22C010",
+      "pass": true
+    },
+    {
+      "check": "not_human_verified_CN22C010",
+      "pass": true
+    },
+    {
+      "check": "claim_hash_CN22C011",
+      "pass": true
+    },
+    {
+      "check": "claim_refs_CN22C011",
+      "pass": true
+    },
+    {
+      "check": "claim_sources_CN22C011",
+      "pass": true
+    },
+    {
+      "check": "claim_reference_identity_CN22C011",
+      "pass": true
+    },
+    {
+      "check": "not_human_verified_CN22C011",
+      "pass": true
+    },
+    {
+      "check": "claim_hash_CN22C012",
+      "pass": true
+    },
+    {
+      "check": "claim_refs_CN22C012",
+      "pass": true
+    },
+    {
+      "check": "claim_sources_CN22C012",
+      "pass": true
+    },
+    {
+      "check": "claim_reference_identity_CN22C012",
+      "pass": true
+    },
+    {
+      "check": "not_human_verified_CN22C012",
+      "pass": true
+    },
+    {
+      "check": "claim_hash_CN22C013",
+      "pass": true
+    },
+    {
+      "check": "claim_refs_CN22C013",
+      "pass": true
+    },
+    {
+      "check": "claim_sources_CN22C013",
+      "pass": true
+    },
+    {
+      "check": "claim_reference_identity_CN22C013",
+      "pass": true
+    },
+    {
+      "check": "not_human_verified_CN22C013",
+      "pass": true
+    },
+    {
+      "check": "claim_hash_CN22C014",
+      "pass": true
+    },
+    {
+      "check": "claim_refs_CN22C014",
+      "pass": true
+    },
+    {
+      "check": "claim_sources_CN22C014",
+      "pass": true
+    },
+    {
+      "check": "claim_reference_identity_CN22C014",
+      "pass": true
+    },
+    {
+      "check": "not_human_verified_CN22C014",
+      "pass": true
+    },
+    {
+      "check": "claim_hash_CN22C015",
+      "pass": true
+    },
+    {
+      "check": "claim_refs_CN22C015",
+      "pass": true
+    },
+    {
+      "check": "claim_sources_CN22C015",
+      "pass": true
+    },
+    {
+      "check": "claim_reference_identity_CN22C015",
+      "pass": true
+    },
+    {
+      "check": "not_human_verified_CN22C015",
+      "pass": true
+    },
+    {
+      "check": "claim_hash_CN22C016",
+      "pass": true
+    },
+    {
+      "check": "claim_refs_CN22C016",
+      "pass": true
+    },
+    {
+      "check": "claim_sources_CN22C016",
+      "pass": true
+    },
+    {
+      "check": "claim_reference_identity_CN22C016",
+      "pass": true
+    },
+    {
+      "check": "not_human_verified_CN22C016",
+      "pass": true
+    },
+    {
+      "check": "claim_hash_CN22C017",
+      "pass": true
+    },
+    {
+      "check": "claim_refs_CN22C017",
+      "pass": true
+    },
+    {
+      "check": "claim_sources_CN22C017",
+      "pass": true
+    },
+    {
+      "check": "claim_reference_identity_CN22C017",
+      "pass": true
+    },
+    {
+      "check": "not_human_verified_CN22C017",
+      "pass": true
+    },
+    {
+      "check": "claim_hash_CN22C018",
+      "pass": true
+    },
+    {
+      "check": "claim_refs_CN22C018",
+      "pass": true
+    },
+    {
+      "check": "claim_sources_CN22C018",
+      "pass": true
+    },
+    {
+      "check": "claim_reference_identity_CN22C018",
+      "pass": true
+    },
+    {
+      "check": "not_human_verified_CN22C018",
+      "pass": true
+    },
+    {
+      "check": "claim_hash_CN22C019",
+      "pass": true
+    },
+    {
+      "check": "claim_refs_CN22C019",
+      "pass": true
+    },
+    {
+      "check": "claim_sources_CN22C019",
+      "pass": true
+    },
+    {
+      "check": "claim_reference_identity_CN22C019",
+      "pass": true
+    },
+    {
+      "check": "not_human_verified_CN22C019",
+      "pass": true
+    },
+    {
+      "check": "claim_hash_CN22C020",
+      "pass": true
+    },
+    {
+      "check": "claim_refs_CN22C020",
+      "pass": true
+    },
+    {
+      "check": "claim_sources_CN22C020",
+      "pass": true
+    },
+    {
+      "check": "claim_reference_identity_CN22C020",
+      "pass": true
+    },
+    {
+      "check": "not_human_verified_CN22C020",
+      "pass": true
+    },
+    {
+      "check": "claim_hash_CN22C021",
+      "pass": true
+    },
+    {
+      "check": "claim_refs_CN22C021",
+      "pass": true
+    },
+    {
+      "check": "claim_sources_CN22C021",
+      "pass": true
+    },
+    {
+      "check": "claim_reference_identity_CN22C021",
+      "pass": true
+    },
+    {
+      "check": "not_human_verified_CN22C021",
+      "pass": true
+    },
+    {
+      "check": "claim_hash_CN22C022",
+      "pass": true
+    },
+    {
+      "check": "claim_refs_CN22C022",
+      "pass": true
+    },
+    {
+      "check": "claim_sources_CN22C022",
+      "pass": true
+    },
+    {
+      "check": "claim_reference_identity_CN22C022",
+      "pass": true
+    },
+    {
+      "check": "not_human_verified_CN22C022",
+      "pass": true
+    },
+    {
+      "check": "claim_hash_CN22C023",
+      "pass": true
+    },
+    {
+      "check": "claim_refs_CN22C023",
+      "pass": true
+    },
+    {
+      "check": "claim_sources_CN22C023",
+      "pass": true
+    },
+    {
+      "check": "claim_reference_identity_CN22C023",
+      "pass": true
+    },
+    {
+      "check": "not_human_verified_CN22C023",
+      "pass": true
+    },
+    {
+      "check": "claim_hash_CN22C024",
+      "pass": true
+    },
+    {
+      "check": "claim_refs_CN22C024",
+      "pass": true
+    },
+    {
+      "check": "claim_sources_CN22C024",
+      "pass": true
+    },
+    {
+      "check": "claim_reference_identity_CN22C024",
+      "pass": true
+    },
+    {
+      "check": "not_human_verified_CN22C024",
+      "pass": true
+    },
+    {
+      "check": "claim_hash_CN22C025",
+      "pass": true
+    },
+    {
+      "check": "claim_refs_CN22C025",
+      "pass": true
+    },
+    {
+      "check": "claim_sources_CN22C025",
+      "pass": true
+    },
+    {
+      "check": "claim_reference_identity_CN22C025",
+      "pass": true
+    },
+    {
+      "check": "not_human_verified_CN22C025",
+      "pass": true
+    },
+    {
+      "check": "claim_hash_CN22C026",
+      "pass": true
+    },
+    {
+      "check": "claim_refs_CN22C026",
+      "pass": true
+    },
+    {
+      "check": "claim_sources_CN22C026",
+      "pass": true
+    },
+    {
+      "check": "claim_reference_identity_CN22C026",
+      "pass": true
+    },
+    {
+      "check": "not_human_verified_CN22C026",
+      "pass": true
+    },
+    {
+      "check": "claim_hash_CN22C027",
+      "pass": true
+    },
+    {
+      "check": "claim_refs_CN22C027",
+      "pass": true
+    },
+    {
+      "check": "claim_sources_CN22C027",
+      "pass": true
+    },
+    {
+      "check": "claim_reference_identity_CN22C027",
+      "pass": true
+    },
+    {
+      "check": "not_human_verified_CN22C027",
+      "pass": true
+    },
+    {
+      "check": "claim_hash_CN22C028",
+      "pass": true
+    },
+    {
+      "check": "claim_refs_CN22C028",
+      "pass": true
+    },
+    {
+      "check": "claim_sources_CN22C028",
+      "pass": true
+    },
+    {
+      "check": "claim_reference_identity_CN22C028",
+      "pass": true
+    },
+    {
+      "check": "not_human_verified_CN22C028",
+      "pass": true
+    },
+    {
+      "check": "claim_hash_CN22C029",
+      "pass": true
+    },
+    {
+      "check": "claim_refs_CN22C029",
+      "pass": true
+    },
+    {
+      "check": "claim_sources_CN22C029",
+      "pass": true
+    },
+    {
+      "check": "claim_reference_identity_CN22C029",
+      "pass": true
+    },
+    {
+      "check": "not_human_verified_CN22C029",
+      "pass": true
+    },
+    {
+      "check": "claim_hash_CN22C030",
+      "pass": true
+    },
+    {
+      "check": "claim_refs_CN22C030",
+      "pass": true
+    },
+    {
+      "check": "claim_sources_CN22C030",
+      "pass": true
+    },
+    {
+      "check": "claim_reference_identity_CN22C030",
+      "pass": true
+    },
+    {
+      "check": "not_human_verified_CN22C030",
+      "pass": true
+    },
+    {
+      "check": "claim_hash_CN22C031",
+      "pass": true
+    },
+    {
+      "check": "claim_refs_CN22C031",
+      "pass": true
+    },
+    {
+      "check": "claim_sources_CN22C031",
+      "pass": true
+    },
+    {
+      "check": "claim_reference_identity_CN22C031",
+      "pass": true
+    },
+    {
+      "check": "not_human_verified_CN22C031",
+      "pass": true
+    },
+    {
+      "check": "claim_hash_CN22C032",
+      "pass": true
+    },
+    {
+      "check": "claim_refs_CN22C032",
+      "pass": true
+    },
+    {
+      "check": "claim_sources_CN22C032",
+      "pass": true
+    },
+    {
+      "check": "claim_reference_identity_CN22C032",
+      "pass": true
+    },
+    {
+      "check": "not_human_verified_CN22C032",
+      "pass": true
+    },
+    {
+      "check": "claim_hash_CN22C033",
+      "pass": true
+    },
+    {
+      "check": "claim_refs_CN22C033",
+      "pass": true
+    },
+    {
+      "check": "claim_sources_CN22C033",
+      "pass": true
+    },
+    {
+      "check": "claim_reference_identity_CN22C033",
+      "pass": true
+    },
+    {
+      "check": "not_human_verified_CN22C033",
+      "pass": true
+    },
+    {
+      "check": "claim_hash_CN22C034",
+      "pass": true
+    },
+    {
+      "check": "claim_refs_CN22C034",
+      "pass": true
+    },
+    {
+      "check": "claim_sources_CN22C034",
+      "pass": true
+    },
+    {
+      "check": "claim_reference_identity_CN22C034",
+      "pass": true
+    },
+    {
+      "check": "not_human_verified_CN22C034",
+      "pass": true
+    },
+    {
+      "check": "claim_hash_CN22C035",
+      "pass": true
+    },
+    {
+      "check": "claim_refs_CN22C035",
+      "pass": true
+    },
+    {
+      "check": "claim_sources_CN22C035",
+      "pass": true
+    },
+    {
+      "check": "claim_reference_identity_CN22C035",
+      "pass": true
+    },
+    {
+      "check": "not_human_verified_CN22C035",
+      "pass": true
+    },
+    {
+      "check": "claim_hash_CN22C036",
+      "pass": true
+    },
+    {
+      "check": "claim_refs_CN22C036",
+      "pass": true
+    },
+    {
+      "check": "claim_sources_CN22C036",
+      "pass": true
+    },
+    {
+      "check": "claim_reference_identity_CN22C036",
+      "pass": true
+    },
+    {
+      "check": "not_human_verified_CN22C036",
+      "pass": true
+    },
+    {
+      "check": "claim_hash_CN22C037",
+      "pass": true
+    },
+    {
+      "check": "claim_refs_CN22C037",
+      "pass": true
+    },
+    {
+      "check": "claim_sources_CN22C037",
+      "pass": true
+    },
+    {
+      "check": "claim_reference_identity_CN22C037",
+      "pass": true
+    },
+    {
+      "check": "not_human_verified_CN22C037",
+      "pass": true
+    },
+    {
+      "check": "claim_hash_CN22C038",
+      "pass": true
+    },
+    {
+      "check": "claim_refs_CN22C038",
+      "pass": true
+    },
+    {
+      "check": "claim_sources_CN22C038",
+      "pass": true
+    },
+    {
+      "check": "claim_reference_identity_CN22C038",
+      "pass": true
+    },
+    {
+      "check": "not_human_verified_CN22C038",
+      "pass": true
+    },
+    {
+      "check": "claim_hash_CN22C039",
+      "pass": true
+    },
+    {
+      "check": "claim_refs_CN22C039",
+      "pass": true
+    },
+    {
+      "check": "claim_sources_CN22C039",
+      "pass": true
+    },
+    {
+      "check": "claim_reference_identity_CN22C039",
+      "pass": true
+    },
+    {
+      "check": "not_human_verified_CN22C039",
+      "pass": true
+    },
+    {
+      "check": "claim_hash_CN22C040",
+      "pass": true
+    },
+    {
+      "check": "claim_refs_CN22C040",
+      "pass": true
+    },
+    {
+      "check": "claim_sources_CN22C040",
+      "pass": true
+    },
+    {
+      "check": "claim_reference_identity_CN22C040",
+      "pass": true
+    },
+    {
+      "check": "not_human_verified_CN22C040",
+      "pass": true
+    },
+    {
+      "check": "claim_hash_CN22C041",
+      "pass": true
+    },
+    {
+      "check": "claim_refs_CN22C041",
+      "pass": true
+    },
+    {
+      "check": "claim_sources_CN22C041",
+      "pass": true
+    },
+    {
+      "check": "claim_reference_identity_CN22C041",
+      "pass": true
+    },
+    {
+      "check": "not_human_verified_CN22C041",
+      "pass": true
+    },
+    {
+      "check": "claim_hash_CN22C042",
+      "pass": true
+    },
+    {
+      "check": "claim_refs_CN22C042",
+      "pass": true
+    },
+    {
+      "check": "claim_sources_CN22C042",
+      "pass": true
+    },
+    {
+      "check": "claim_reference_identity_CN22C042",
+      "pass": true
+    },
+    {
+      "check": "not_human_verified_CN22C042",
+      "pass": true
+    },
+    {
+      "check": "claim_hash_CN22C043",
+      "pass": true
+    },
+    {
+      "check": "claim_refs_CN22C043",
+      "pass": true
+    },
+    {
+      "check": "claim_sources_CN22C043",
+      "pass": true
+    },
+    {
+      "check": "claim_reference_identity_CN22C043",
+      "pass": true
+    },
+    {
+      "check": "not_human_verified_CN22C043",
+      "pass": true
+    },
+    {
+      "check": "claim_hash_CN22C044",
+      "pass": true
+    },
+    {
+      "check": "claim_refs_CN22C044",
+      "pass": true
+    },
+    {
+      "check": "claim_sources_CN22C044",
+      "pass": true
+    },
+    {
+      "check": "claim_reference_identity_CN22C044",
+      "pass": true
+    },
+    {
+      "check": "not_human_verified_CN22C044",
+      "pass": true
+    },
+    {
+      "check": "claim_hash_CN22C045",
+      "pass": true
+    },
+    {
+      "check": "claim_refs_CN22C045",
+      "pass": true
+    },
+    {
+      "check": "claim_sources_CN22C045",
+      "pass": true
+    },
+    {
+      "check": "claim_reference_identity_CN22C045",
+      "pass": true
+    },
+    {
+      "check": "not_human_verified_CN22C045",
+      "pass": true
+    },
+    {
+      "check": "claim_hash_CN22C046",
+      "pass": true
+    },
+    {
+      "check": "claim_refs_CN22C046",
+      "pass": true
+    },
+    {
+      "check": "claim_sources_CN22C046",
+      "pass": true
+    },
+    {
+      "check": "claim_reference_identity_CN22C046",
+      "pass": true
+    },
+    {
+      "check": "not_human_verified_CN22C046",
+      "pass": true
+    },
+    {
+      "check": "claim_hash_CN22C047",
+      "pass": true
+    },
+    {
+      "check": "claim_refs_CN22C047",
+      "pass": true
+    },
+    {
+      "check": "claim_sources_CN22C047",
+      "pass": true
+    },
+    {
+      "check": "claim_reference_identity_CN22C047",
+      "pass": true
+    },
+    {
+      "check": "not_human_verified_CN22C047",
+      "pass": true
+    },
+    {
+      "check": "claim_hash_CN22C048",
+      "pass": true
+    },
+    {
+      "check": "claim_refs_CN22C048",
+      "pass": true
+    },
+    {
+      "check": "claim_sources_CN22C048",
+      "pass": true
+    },
+    {
+      "check": "claim_reference_identity_CN22C048",
+      "pass": true
+    },
+    {
+      "check": "not_human_verified_CN22C048",
+      "pass": true
+    },
+    {
+      "check": "claim_hash_CN22C049",
+      "pass": true
+    },
+    {
+      "check": "claim_refs_CN22C049",
+      "pass": true
+    },
+    {
+      "check": "claim_sources_CN22C049",
+      "pass": true
+    },
+    {
+      "check": "claim_reference_identity_CN22C049",
+      "pass": true
+    },
+    {
+      "check": "not_human_verified_CN22C049",
+      "pass": true
+    },
+    {
+      "check": "claim_hash_CN22C050",
+      "pass": true
+    },
+    {
+      "check": "claim_refs_CN22C050",
+      "pass": true
+    },
+    {
+      "check": "claim_sources_CN22C050",
+      "pass": true
+    },
+    {
+      "check": "claim_reference_identity_CN22C050",
+      "pass": true
+    },
+    {
+      "check": "not_human_verified_CN22C050",
+      "pass": true
+    },
+    {
+      "check": "claim_hash_CN22C051",
+      "pass": true
+    },
+    {
+      "check": "claim_refs_CN22C051",
+      "pass": true
+    },
+    {
+      "check": "claim_sources_CN22C051",
+      "pass": true
+    },
+    {
+      "check": "claim_reference_identity_CN22C051",
+      "pass": true
+    },
+    {
+      "check": "not_human_verified_CN22C051",
+      "pass": true
+    },
+    {
+      "check": "claim_hash_CN22C052",
+      "pass": true
+    },
+    {
+      "check": "claim_refs_CN22C052",
+      "pass": true
+    },
+    {
+      "check": "claim_sources_CN22C052",
+      "pass": true
+    },
+    {
+      "check": "claim_reference_identity_CN22C052",
+      "pass": true
+    },
+    {
+      "check": "not_human_verified_CN22C052",
+      "pass": true
+    },
+    {
+      "check": "claim_hash_CN22C053",
+      "pass": true
+    },
+    {
+      "check": "claim_refs_CN22C053",
+      "pass": true
+    },
+    {
+      "check": "claim_sources_CN22C053",
+      "pass": true
+    },
+    {
+      "check": "claim_reference_identity_CN22C053",
+      "pass": true
+    },
+    {
+      "check": "not_human_verified_CN22C053",
+      "pass": true
+    },
+    {
+      "check": "claim_hash_CN22C054",
+      "pass": true
+    },
+    {
+      "check": "claim_refs_CN22C054",
+      "pass": true
+    },
+    {
+      "check": "claim_sources_CN22C054",
+      "pass": true
+    },
+    {
+      "check": "claim_reference_identity_CN22C054",
+      "pass": true
+    },
+    {
+      "check": "not_human_verified_CN22C054",
+      "pass": true
+    },
+    {
+      "check": "claim_hash_CN22C127",
+      "pass": true
+    },
+    {
+      "check": "claim_refs_CN22C127",
+      "pass": true
+    },
+    {
+      "check": "claim_sources_CN22C127",
+      "pass": true
+    },
+    {
+      "check": "claim_reference_identity_CN22C127",
+      "pass": true
+    },
+    {
+      "check": "not_human_verified_CN22C127",
+      "pass": true
+    },
+    {
+      "check": "claim_hash_CN22C055",
+      "pass": true
+    },
+    {
+      "check": "claim_refs_CN22C055",
+      "pass": true
+    },
+    {
+      "check": "claim_sources_CN22C055",
+      "pass": true
+    },
+    {
+      "check": "claim_reference_identity_CN22C055",
+      "pass": true
+    },
+    {
+      "check": "not_human_verified_CN22C055",
+      "pass": true
+    },
+    {
+      "check": "claim_hash_CN22C056",
+      "pass": true
+    },
+    {
+      "check": "claim_refs_CN22C056",
+      "pass": true
+    },
+    {
+      "check": "claim_sources_CN22C056",
+      "pass": true
+    },
+    {
+      "check": "claim_reference_identity_CN22C056",
+      "pass": true
+    },
+    {
+      "check": "not_human_verified_CN22C056",
+      "pass": true
+    },
+    {
+      "check": "claim_hash_CN22C057",
+      "pass": true
+    },
+    {
+      "check": "claim_refs_CN22C057",
+      "pass": true
+    },
+    {
+      "check": "claim_sources_CN22C057",
+      "pass": true
+    },
+    {
+      "check": "claim_reference_identity_CN22C057",
+      "pass": true
+    },
+    {
+      "check": "not_human_verified_CN22C057",
+      "pass": true
+    },
+    {
+      "check": "claim_hash_CN22C058",
+      "pass": true
+    },
+    {
+      "check": "claim_refs_CN22C058",
+      "pass": true
+    },
+    {
+      "check": "claim_sources_CN22C058",
+      "pass": true
+    },
+    {
+      "check": "claim_reference_identity_CN22C058",
+      "pass": true
+    },
+    {
+      "check": "not_human_verified_CN22C058",
+      "pass": true
+    },
+    {
+      "check": "claim_hash_CN22C124",
+      "pass": true
+    },
+    {
+      "check": "claim_refs_CN22C124",
+      "pass": true
+    },
+    {
+      "check": "claim_sources_CN22C124",
+      "pass": true
+    },
+    {
+      "check": "claim_reference_identity_CN22C124",
+      "pass": true
+    },
+    {
+      "check": "not_human_verified_CN22C124",
+      "pass": true
+    },
+    {
+      "check": "claim_hash_CN22C059",
+      "pass": true
+    },
+    {
+      "check": "claim_refs_CN22C059",
+      "pass": true
+    },
+    {
+      "check": "claim_sources_CN22C059",
+      "pass": true
+    },
+    {
+      "check": "claim_reference_identity_CN22C059",
+      "pass": true
+    },
+    {
+      "check": "not_human_verified_CN22C059",
+      "pass": true
+    },
+    {
+      "check": "claim_hash_CN22C060",
+      "pass": true
+    },
+    {
+      "check": "claim_refs_CN22C060",
+      "pass": true
+    },
+    {
+      "check": "claim_sources_CN22C060",
+      "pass": true
+    },
+    {
+      "check": "claim_reference_identity_CN22C060",
+      "pass": true
+    },
+    {
+      "check": "not_human_verified_CN22C060",
+      "pass": true
+    },
+    {
+      "check": "claim_hash_CN22C061",
+      "pass": true
+    },
+    {
+      "check": "claim_refs_CN22C061",
+      "pass": true
+    },
+    {
+      "check": "claim_sources_CN22C061",
+      "pass": true
+    },
+    {
+      "check": "claim_reference_identity_CN22C061",
+      "pass": true
+    },
+    {
+      "check": "not_human_verified_CN22C061",
+      "pass": true
+    },
+    {
+      "check": "claim_hash_CN22C062",
+      "pass": true
+    },
+    {
+      "check": "claim_refs_CN22C062",
+      "pass": true
+    },
+    {
+      "check": "claim_sources_CN22C062",
+      "pass": true
+    },
+    {
+      "check": "claim_reference_identity_CN22C062",
+      "pass": true
+    },
+    {
+      "check": "not_human_verified_CN22C062",
+      "pass": true
+    },
+    {
+      "check": "claim_hash_CN22C125",
+      "pass": true
+    },
+    {
+      "check": "claim_refs_CN22C125",
+      "pass": true
+    },
+    {
+      "check": "claim_sources_CN22C125",
+      "pass": true
+    },
+    {
+      "check": "claim_reference_identity_CN22C125",
+      "pass": true
+    },
+    {
+      "check": "not_human_verified_CN22C125",
+      "pass": true
+    },
+    {
+      "check": "claim_hash_CN22C063",
+      "pass": true
+    },
+    {
+      "check": "claim_refs_CN22C063",
+      "pass": true
+    },
+    {
+      "check": "claim_sources_CN22C063",
+      "pass": true
+    },
+    {
+      "check": "claim_reference_identity_CN22C063",
+      "pass": true
+    },
+    {
+      "check": "not_human_verified_CN22C063",
+      "pass": true
+    },
+    {
+      "check": "claim_hash_CN22C064",
+      "pass": true
+    },
+    {
+      "check": "claim_refs_CN22C064",
+      "pass": true
+    },
+    {
+      "check": "claim_sources_CN22C064",
+      "pass": true
+    },
+    {
+      "check": "claim_reference_identity_CN22C064",
+      "pass": true
+    },
+    {
+      "check": "not_human_verified_CN22C064",
+      "pass": true
+    },
+    {
+      "check": "claim_hash_CN22C065",
+      "pass": true
+    },
+    {
+      "check": "claim_refs_CN22C065",
+      "pass": true
+    },
+    {
+      "check": "claim_sources_CN22C065",
+      "pass": true
+    },
+    {
+      "check": "claim_reference_identity_CN22C065",
+      "pass": true
+    },
+    {
+      "check": "not_human_verified_CN22C065",
+      "pass": true
+    },
+    {
+      "check": "claim_hash_CN22C066",
+      "pass": true
+    },
+    {
+      "check": "claim_refs_CN22C066",
+      "pass": true
+    },
+    {
+      "check": "claim_sources_CN22C066",
+      "pass": true
+    },
+    {
+      "check": "claim_reference_identity_CN22C066",
+      "pass": true
+    },
+    {
+      "check": "not_human_verified_CN22C066",
+      "pass": true
+    },
+    {
+      "check": "claim_hash_CN22C067",
+      "pass": true
+    },
+    {
+      "check": "claim_refs_CN22C067",
+      "pass": true
+    },
+    {
+      "check": "claim_sources_CN22C067",
+      "pass": true
+    },
+    {
+      "check": "claim_reference_identity_CN22C067",
+      "pass": true
+    },
+    {
+      "check": "not_human_verified_CN22C067",
+      "pass": true
+    },
+    {
+      "check": "claim_hash_CN22C128",
+      "pass": true
+    },
+    {
+      "check": "claim_refs_CN22C128",
+      "pass": true
+    },
+    {
+      "check": "claim_sources_CN22C128",
+      "pass": true
+    },
+    {
+      "check": "claim_reference_identity_CN22C128",
+      "pass": true
+    },
+    {
+      "check": "not_human_verified_CN22C128",
+      "pass": true
+    },
+    {
+      "check": "claim_hash_CN22C129",
+      "pass": true
+    },
+    {
+      "check": "claim_refs_CN22C129",
+      "pass": true
+    },
+    {
+      "check": "claim_sources_CN22C129",
+      "pass": true
+    },
+    {
+      "check": "claim_reference_identity_CN22C129",
+      "pass": true
+    },
+    {
+      "check": "not_human_verified_CN22C129",
+      "pass": true
+    },
+    {
+      "check": "claim_hash_CN22C130",
+      "pass": true
+    },
+    {
+      "check": "claim_refs_CN22C130",
+      "pass": true
+    },
+    {
+      "check": "claim_sources_CN22C130",
+      "pass": true
+    },
+    {
+      "check": "claim_reference_identity_CN22C130",
+      "pass": true
+    },
+    {
+      "check": "not_human_verified_CN22C130",
+      "pass": true
+    },
+    {
+      "check": "claim_hash_CN22C131",
+      "pass": true
+    },
+    {
+      "check": "claim_refs_CN22C131",
+      "pass": true
+    },
+    {
+      "check": "claim_sources_CN22C131",
+      "pass": true
+    },
+    {
+      "check": "claim_reference_identity_CN22C131",
+      "pass": true
+    },
+    {
+      "check": "not_human_verified_CN22C131",
+      "pass": true
+    },
+    {
+      "check": "claim_hash_CN22C068",
+      "pass": true
+    },
+    {
+      "check": "claim_refs_CN22C068",
+      "pass": true
+    },
+    {
+      "check": "claim_sources_CN22C068",
+      "pass": true
+    },
+    {
+      "check": "claim_reference_identity_CN22C068",
+      "pass": true
+    },
+    {
+      "check": "not_human_verified_CN22C068",
+      "pass": true
+    },
+    {
+      "check": "claim_hash_CN22C069",
+      "pass": true
+    },
+    {
+      "check": "claim_refs_CN22C069",
+      "pass": true
+    },
+    {
+      "check": "claim_sources_CN22C069",
+      "pass": true
+    },
+    {
+      "check": "claim_reference_identity_CN22C069",
+      "pass": true
+    },
+    {
+      "check": "not_human_verified_CN22C069",
+      "pass": true
+    },
+    {
+      "check": "claim_hash_CN22C070",
+      "pass": true
+    },
+    {
+      "check": "claim_refs_CN22C070",
+      "pass": true
+    },
+    {
+      "check": "claim_sources_CN22C070",
+      "pass": true
+    },
+    {
+      "check": "claim_reference_identity_CN22C070",
+      "pass": true
+    },
+    {
+      "check": "not_human_verified_CN22C070",
+      "pass": true
+    },
+    {
+      "check": "claim_hash_CN22C071",
+      "pass": true
+    },
+    {
+      "check": "claim_refs_CN22C071",
+      "pass": true
+    },
+    {
+      "check": "claim_sources_CN22C071",
+      "pass": true
+    },
+    {
+      "check": "claim_reference_identity_CN22C071",
+      "pass": true
+    },
+    {
+      "check": "not_human_verified_CN22C071",
+      "pass": true
+    },
+    {
+      "check": "claim_hash_CN22C072",
+      "pass": true
+    },
+    {
+      "check": "claim_refs_CN22C072",
+      "pass": true
+    },
+    {
+      "check": "claim_sources_CN22C072",
+      "pass": true
+    },
+    {
+      "check": "claim_reference_identity_CN22C072",
+      "pass": true
+    },
+    {
+      "check": "not_human_verified_CN22C072",
+      "pass": true
+    },
+    {
+      "check": "claim_hash_CN22C073",
+      "pass": true
+    },
+    {
+      "check": "claim_refs_CN22C073",
+      "pass": true
+    },
+    {
+      "check": "claim_sources_CN22C073",
+      "pass": true
+    },
+    {
+      "check": "claim_reference_identity_CN22C073",
+      "pass": true
+    },
+    {
+      "check": "not_human_verified_CN22C073",
+      "pass": true
+    },
+    {
+      "check": "claim_hash_CN22C074",
+      "pass": true
+    },
+    {
+      "check": "claim_refs_CN22C074",
+      "pass": true
+    },
+    {
+      "check": "claim_sources_CN22C074",
+      "pass": true
+    },
+    {
+      "check": "claim_reference_identity_CN22C074",
+      "pass": true
+    },
+    {
+      "check": "not_human_verified_CN22C074",
+      "pass": true
+    },
+    {
+      "check": "claim_hash_CN22C075",
+      "pass": true
+    },
+    {
+      "check": "claim_refs_CN22C075",
+      "pass": true
+    },
+    {
+      "check": "claim_sources_CN22C075",
+      "pass": true
+    },
+    {
+      "check": "claim_reference_identity_CN22C075",
+      "pass": true
+    },
+    {
+      "check": "not_human_verified_CN22C075",
+      "pass": true
+    },
+    {
+      "check": "claim_hash_CN22C076",
+      "pass": true
+    },
+    {
+      "check": "claim_refs_CN22C076",
+      "pass": true
+    },
+    {
+      "check": "claim_sources_CN22C076",
+      "pass": true
+    },
+    {
+      "check": "claim_reference_identity_CN22C076",
+      "pass": true
+    },
+    {
+      "check": "not_human_verified_CN22C076",
+      "pass": true
+    },
+    {
+      "check": "claim_hash_CN22C077",
+      "pass": true
+    },
+    {
+      "check": "claim_refs_CN22C077",
+      "pass": true
+    },
+    {
+      "check": "claim_sources_CN22C077",
+      "pass": true
+    },
+    {
+      "check": "claim_reference_identity_CN22C077",
+      "pass": true
+    },
+    {
+      "check": "not_human_verified_CN22C077",
+      "pass": true
+    },
+    {
+      "check": "claim_hash_CN22C078",
+      "pass": true
+    },
+    {
+      "check": "claim_refs_CN22C078",
+      "pass": true
+    },
+    {
+      "check": "claim_sources_CN22C078",
+      "pass": true
+    },
+    {
+      "check": "claim_reference_identity_CN22C078",
+      "pass": true
+    },
+    {
+      "check": "not_human_verified_CN22C078",
+      "pass": true
+    },
+    {
+      "check": "claim_hash_CN22C079",
+      "pass": true
+    },
+    {
+      "check": "claim_refs_CN22C079",
+      "pass": true
+    },
+    {
+      "check": "claim_sources_CN22C079",
+      "pass": true
+    },
+    {
+      "check": "claim_reference_identity_CN22C079",
+      "pass": true
+    },
+    {
+      "check": "not_human_verified_CN22C079",
+      "pass": true
+    },
+    {
+      "check": "claim_hash_CN22C080",
+      "pass": true
+    },
+    {
+      "check": "claim_refs_CN22C080",
+      "pass": true
+    },
+    {
+      "check": "claim_sources_CN22C080",
+      "pass": true
+    },
+    {
+      "check": "claim_reference_identity_CN22C080",
+      "pass": true
+    },
+    {
+      "check": "not_human_verified_CN22C080",
+      "pass": true
+    },
+    {
+      "check": "claim_hash_CN22C081",
+      "pass": true
+    },
+    {
+      "check": "claim_refs_CN22C081",
+      "pass": true
+    },
+    {
+      "check": "claim_sources_CN22C081",
+      "pass": true
+    },
+    {
+      "check": "claim_reference_identity_CN22C081",
+      "pass": true
+    },
+    {
+      "check": "not_human_verified_CN22C081",
+      "pass": true
+    },
+    {
+      "check": "claim_hash_CN22C082",
+      "pass": true
+    },
+    {
+      "check": "claim_refs_CN22C082",
+      "pass": true
+    },
+    {
+      "check": "claim_sources_CN22C082",
+      "pass": true
+    },
+    {
+      "check": "claim_reference_identity_CN22C082",
+      "pass": true
+    },
+    {
+      "check": "not_human_verified_CN22C082",
+      "pass": true
+    },
+    {
+      "check": "claim_hash_CN22C083",
+      "pass": true
+    },
+    {
+      "check": "claim_refs_CN22C083",
+      "pass": true
+    },
+    {
+      "check": "claim_sources_CN22C083",
+      "pass": true
+    },
+    {
+      "check": "claim_reference_identity_CN22C083",
+      "pass": true
+    },
+    {
+      "check": "not_human_verified_CN22C083",
+      "pass": true
+    },
+    {
+      "check": "claim_hash_CN22C084",
+      "pass": true
+    },
+    {
+      "check": "claim_refs_CN22C084",
+      "pass": true
+    },
+    {
+      "check": "claim_sources_CN22C084",
+      "pass": true
+    },
+    {
+      "check": "claim_reference_identity_CN22C084",
+      "pass": true
+    },
+    {
+      "check": "not_human_verified_CN22C084",
+      "pass": true
+    },
+    {
+      "check": "claim_hash_CN22C085",
+      "pass": true
+    },
+    {
+      "check": "claim_refs_CN22C085",
+      "pass": true
+    },
+    {
+      "check": "claim_sources_CN22C085",
+      "pass": true
+    },
+    {
+      "check": "claim_reference_identity_CN22C085",
+      "pass": true
+    },
+    {
+      "check": "not_human_verified_CN22C085",
+      "pass": true
+    },
+    {
+      "check": "claim_hash_CN22C086",
+      "pass": true
+    },
+    {
+      "check": "claim_refs_CN22C086",
+      "pass": true
+    },
+    {
+      "check": "claim_sources_CN22C086",
+      "pass": true
+    },
+    {
+      "check": "claim_reference_identity_CN22C086",
+      "pass": true
+    },
+    {
+      "check": "not_human_verified_CN22C086",
+      "pass": true
+    },
+    {
+      "check": "claim_hash_CN22C087",
+      "pass": true
+    },
+    {
+      "check": "claim_refs_CN22C087",
+      "pass": true
+    },
+    {
+      "check": "claim_sources_CN22C087",
+      "pass": true
+    },
+    {
+      "check": "claim_reference_identity_CN22C087",
+      "pass": true
+    },
+    {
+      "check": "not_human_verified_CN22C087",
+      "pass": true
+    },
+    {
+      "check": "claim_hash_CN22C088",
+      "pass": true
+    },
+    {
+      "check": "claim_refs_CN22C088",
+      "pass": true
+    },
+    {
+      "check": "claim_sources_CN22C088",
+      "pass": true
+    },
+    {
+      "check": "claim_reference_identity_CN22C088",
+      "pass": true
+    },
+    {
+      "check": "not_human_verified_CN22C088",
+      "pass": true
+    },
+    {
+      "check": "claim_hash_CN22C089",
+      "pass": true
+    },
+    {
+      "check": "claim_refs_CN22C089",
+      "pass": true
+    },
+    {
+      "check": "claim_sources_CN22C089",
+      "pass": true
+    },
+    {
+      "check": "claim_reference_identity_CN22C089",
+      "pass": true
+    },
+    {
+      "check": "not_human_verified_CN22C089",
+      "pass": true
+    },
+    {
+      "check": "claim_hash_CN22C090",
+      "pass": true
+    },
+    {
+      "check": "claim_refs_CN22C090",
+      "pass": true
+    },
+    {
+      "check": "claim_sources_CN22C090",
+      "pass": true
+    },
+    {
+      "check": "claim_reference_identity_CN22C090",
+      "pass": true
+    },
+    {
+      "check": "not_human_verified_CN22C090",
+      "pass": true
+    },
+    {
+      "check": "claim_hash_CN22C091",
+      "pass": true
+    },
+    {
+      "check": "claim_refs_CN22C091",
+      "pass": true
+    },
+    {
+      "check": "claim_sources_CN22C091",
+      "pass": true
+    },
+    {
+      "check": "claim_reference_identity_CN22C091",
+      "pass": true
+    },
+    {
+      "check": "not_human_verified_CN22C091",
+      "pass": true
+    },
+    {
+      "check": "claim_hash_CN22C092",
+      "pass": true
+    },
+    {
+      "check": "claim_refs_CN22C092",
+      "pass": true
+    },
+    {
+      "check": "claim_sources_CN22C092",
+      "pass": true
+    },
+    {
+      "check": "claim_reference_identity_CN22C092",
+      "pass": true
+    },
+    {
+      "check": "not_human_verified_CN22C092",
+      "pass": true
+    },
+    {
+      "check": "claim_hash_CN22C126",
+      "pass": true
+    },
+    {
+      "check": "claim_refs_CN22C126",
+      "pass": true
+    },
+    {
+      "check": "claim_sources_CN22C126",
+      "pass": true
+    },
+    {
+      "check": "claim_reference_identity_CN22C126",
+      "pass": true
+    },
+    {
+      "check": "not_human_verified_CN22C126",
+      "pass": true
+    },
+    {
+      "check": "claim_hash_CN22C093",
+      "pass": true
+    },
+    {
+      "check": "claim_refs_CN22C093",
+      "pass": true
+    },
+    {
+      "check": "claim_sources_CN22C093",
+      "pass": true
+    },
+    {
+      "check": "claim_reference_identity_CN22C093",
+      "pass": true
+    },
+    {
+      "check": "not_human_verified_CN22C093",
+      "pass": true
+    },
+    {
+      "check": "claim_hash_CN22C094",
+      "pass": true
+    },
+    {
+      "check": "claim_refs_CN22C094",
+      "pass": true
+    },
+    {
+      "check": "claim_sources_CN22C094",
+      "pass": true
+    },
+    {
+      "check": "claim_reference_identity_CN22C094",
+      "pass": true
+    },
+    {
+      "check": "not_human_verified_CN22C094",
+      "pass": true
+    },
+    {
+      "check": "claim_hash_CN22C095",
+      "pass": true
+    },
+    {
+      "check": "claim_refs_CN22C095",
+      "pass": true
+    },
+    {
+      "check": "claim_sources_CN22C095",
+      "pass": true
+    },
+    {
+      "check": "claim_reference_identity_CN22C095",
+      "pass": true
+    },
+    {
+      "check": "not_human_verified_CN22C095",
+      "pass": true
+    },
+    {
+      "check": "claim_hash_CN22C096",
+      "pass": true
+    },
+    {
+      "check": "claim_refs_CN22C096",
+      "pass": true
+    },
+    {
+      "check": "claim_sources_CN22C096",
+      "pass": true
+    },
+    {
+      "check": "claim_reference_identity_CN22C096",
+      "pass": true
+    },
+    {
+      "check": "not_human_verified_CN22C096",
+      "pass": true
+    },
+    {
+      "check": "claim_hash_CN22C097",
+      "pass": true
+    },
+    {
+      "check": "claim_refs_CN22C097",
+      "pass": true
+    },
+    {
+      "check": "claim_sources_CN22C097",
+      "pass": true
+    },
+    {
+      "check": "claim_reference_identity_CN22C097",
+      "pass": true
+    },
+    {
+      "check": "not_human_verified_CN22C097",
+      "pass": true
+    },
+    {
+      "check": "claim_hash_CN22C098",
+      "pass": true
+    },
+    {
+      "check": "claim_refs_CN22C098",
+      "pass": true
+    },
+    {
+      "check": "claim_sources_CN22C098",
+      "pass": true
+    },
+    {
+      "check": "claim_reference_identity_CN22C098",
+      "pass": true
+    },
+    {
+      "check": "not_human_verified_CN22C098",
+      "pass": true
+    },
+    {
+      "check": "claim_hash_CN22C099",
+      "pass": true
+    },
+    {
+      "check": "claim_refs_CN22C099",
+      "pass": true
+    },
+    {
+      "check": "claim_sources_CN22C099",
+      "pass": true
+    },
+    {
+      "check": "claim_reference_identity_CN22C099",
+      "pass": true
+    },
+    {
+      "check": "not_human_verified_CN22C099",
+      "pass": true
+    },
+    {
+      "check": "claim_hash_CN22C100",
+      "pass": true
+    },
+    {
+      "check": "claim_refs_CN22C100",
+      "pass": true
+    },
+    {
+      "check": "claim_sources_CN22C100",
+      "pass": true
+    },
+    {
+      "check": "claim_reference_identity_CN22C100",
+      "pass": true
+    },
+    {
+      "check": "not_human_verified_CN22C100",
+      "pass": true
+    },
+    {
+      "check": "claim_hash_CN22C101",
+      "pass": true
+    },
+    {
+      "check": "claim_refs_CN22C101",
+      "pass": true
+    },
+    {
+      "check": "claim_sources_CN22C101",
+      "pass": true
+    },
+    {
+      "check": "claim_reference_identity_CN22C101",
+      "pass": true
+    },
+    {
+      "check": "not_human_verified_CN22C101",
+      "pass": true
+    },
+    {
+      "check": "claim_hash_CN22C102",
+      "pass": true
+    },
+    {
+      "check": "claim_refs_CN22C102",
+      "pass": true
+    },
+    {
+      "check": "claim_sources_CN22C102",
+      "pass": true
+    },
+    {
+      "check": "claim_reference_identity_CN22C102",
+      "pass": true
+    },
+    {
+      "check": "not_human_verified_CN22C102",
+      "pass": true
+    },
+    {
+      "check": "claim_hash_CN22C103",
+      "pass": true
+    },
+    {
+      "check": "claim_refs_CN22C103",
+      "pass": true
+    },
+    {
+      "check": "claim_sources_CN22C103",
+      "pass": true
+    },
+    {
+      "check": "claim_reference_identity_CN22C103",
+      "pass": true
+    },
+    {
+      "check": "not_human_verified_CN22C103",
+      "pass": true
+    },
+    {
+      "check": "claim_hash_CN22C104",
+      "pass": true
+    },
+    {
+      "check": "claim_refs_CN22C104",
+      "pass": true
+    },
+    {
+      "check": "claim_sources_CN22C104",
+      "pass": true
+    },
+    {
+      "check": "claim_reference_identity_CN22C104",
+      "pass": true
+    },
+    {
+      "check": "not_human_verified_CN22C104",
+      "pass": true
+    },
+    {
+      "check": "claim_hash_CN22C105",
+      "pass": true
+    },
+    {
+      "check": "claim_refs_CN22C105",
+      "pass": true
+    },
+    {
+      "check": "claim_sources_CN22C105",
+      "pass": true
+    },
+    {
+      "check": "claim_reference_identity_CN22C105",
+      "pass": true
+    },
+    {
+      "check": "not_human_verified_CN22C105",
+      "pass": true
+    },
+    {
+      "check": "claim_hash_CN22C106",
+      "pass": true
+    },
+    {
+      "check": "claim_refs_CN22C106",
+      "pass": true
+    },
+    {
+      "check": "claim_sources_CN22C106",
+      "pass": true
+    },
+    {
+      "check": "claim_reference_identity_CN22C106",
+      "pass": true
+    },
+    {
+      "check": "not_human_verified_CN22C106",
+      "pass": true
+    },
+    {
+      "check": "claim_hash_CN22C107",
+      "pass": true
+    },
+    {
+      "check": "claim_refs_CN22C107",
+      "pass": true
+    },
+    {
+      "check": "claim_sources_CN22C107",
+      "pass": true
+    },
+    {
+      "check": "claim_reference_identity_CN22C107",
+      "pass": true
+    },
+    {
+      "check": "not_human_verified_CN22C107",
+      "pass": true
+    },
+    {
+      "check": "claim_hash_CN22C108",
+      "pass": true
+    },
+    {
+      "check": "claim_refs_CN22C108",
+      "pass": true
+    },
+    {
+      "check": "claim_sources_CN22C108",
+      "pass": true
+    },
+    {
+      "check": "claim_reference_identity_CN22C108",
+      "pass": true
+    },
+    {
+      "check": "not_human_verified_CN22C108",
+      "pass": true
+    },
+    {
+      "check": "claim_hash_CN22C109",
+      "pass": true
+    },
+    {
+      "check": "claim_refs_CN22C109",
+      "pass": true
+    },
+    {
+      "check": "claim_sources_CN22C109",
+      "pass": true
+    },
+    {
+      "check": "claim_reference_identity_CN22C109",
+      "pass": true
+    },
+    {
+      "check": "not_human_verified_CN22C109",
+      "pass": true
+    },
+    {
+      "check": "claim_hash_CN22C110",
+      "pass": true
+    },
+    {
+      "check": "claim_refs_CN22C110",
+      "pass": true
+    },
+    {
+      "check": "claim_sources_CN22C110",
+      "pass": true
+    },
+    {
+      "check": "claim_reference_identity_CN22C110",
+      "pass": true
+    },
+    {
+      "check": "not_human_verified_CN22C110",
+      "pass": true
+    },
+    {
+      "check": "claim_hash_CN22C111",
+      "pass": true
+    },
+    {
+      "check": "claim_refs_CN22C111",
+      "pass": true
+    },
+    {
+      "check": "claim_sources_CN22C111",
+      "pass": true
+    },
+    {
+      "check": "claim_reference_identity_CN22C111",
+      "pass": true
+    },
+    {
+      "check": "not_human_verified_CN22C111",
+      "pass": true
+    },
+    {
+      "check": "claim_hash_CN22C112",
+      "pass": true
+    },
+    {
+      "check": "claim_refs_CN22C112",
+      "pass": true
+    },
+    {
+      "check": "claim_sources_CN22C112",
+      "pass": true
+    },
+    {
+      "check": "claim_reference_identity_CN22C112",
+      "pass": true
+    },
+    {
+      "check": "not_human_verified_CN22C112",
+      "pass": true
+    },
+    {
+      "check": "claim_hash_CN22C113",
+      "pass": true
+    },
+    {
+      "check": "claim_refs_CN22C113",
+      "pass": true
+    },
+    {
+      "check": "claim_sources_CN22C113",
+      "pass": true
+    },
+    {
+      "check": "claim_reference_identity_CN22C113",
+      "pass": true
+    },
+    {
+      "check": "not_human_verified_CN22C113",
+      "pass": true
+    },
+    {
+      "check": "claim_hash_CN22C114",
+      "pass": true
+    },
+    {
+      "check": "claim_refs_CN22C114",
+      "pass": true
+    },
+    {
+      "check": "claim_sources_CN22C114",
+      "pass": true
+    },
+    {
+      "check": "claim_reference_identity_CN22C114",
+      "pass": true
+    },
+    {
+      "check": "not_human_verified_CN22C114",
+      "pass": true
+    },
+    {
+      "check": "claim_hash_CN22C115",
+      "pass": true
+    },
+    {
+      "check": "claim_refs_CN22C115",
+      "pass": true
+    },
+    {
+      "check": "claim_sources_CN22C115",
+      "pass": true
+    },
+    {
+      "check": "claim_reference_identity_CN22C115",
+      "pass": true
+    },
+    {
+      "check": "not_human_verified_CN22C115",
+      "pass": true
+    },
+    {
+      "check": "claim_hash_CN22C132",
+      "pass": true
+    },
+    {
+      "check": "claim_refs_CN22C132",
+      "pass": true
+    },
+    {
+      "check": "claim_sources_CN22C132",
+      "pass": true
+    },
+    {
+      "check": "claim_reference_identity_CN22C132",
+      "pass": true
+    },
+    {
+      "check": "not_human_verified_CN22C132",
+      "pass": true
+    },
+    {
+      "check": "claim_hash_CN22C116",
+      "pass": true
+    },
+    {
+      "check": "claim_refs_CN22C116",
+      "pass": true
+    },
+    {
+      "check": "claim_sources_CN22C116",
+      "pass": true
+    },
+    {
+      "check": "claim_reference_identity_CN22C116",
+      "pass": true
+    },
+    {
+      "check": "not_human_verified_CN22C116",
+      "pass": true
+    },
+    {
+      "check": "claim_hash_CN22C117",
+      "pass": true
+    },
+    {
+      "check": "claim_refs_CN22C117",
+      "pass": true
+    },
+    {
+      "check": "claim_sources_CN22C117",
+      "pass": true
+    },
+    {
+      "check": "claim_reference_identity_CN22C117",
+      "pass": true
+    },
+    {
+      "check": "not_human_verified_CN22C117",
+      "pass": true
+    },
+    {
+      "check": "claim_hash_CN22C118",
+      "pass": true
+    },
+    {
+      "check": "claim_refs_CN22C118",
+      "pass": true
+    },
+    {
+      "check": "claim_sources_CN22C118",
+      "pass": true
+    },
+    {
+      "check": "claim_reference_identity_CN22C118",
+      "pass": true
+    },
+    {
+      "check": "not_human_verified_CN22C118",
+      "pass": true
+    },
+    {
+      "check": "claim_hash_CN22C119",
+      "pass": true
+    },
+    {
+      "check": "claim_refs_CN22C119",
+      "pass": true
+    },
+    {
+      "check": "claim_sources_CN22C119",
+      "pass": true
+    },
+    {
+      "check": "claim_reference_identity_CN22C119",
+      "pass": true
+    },
+    {
+      "check": "not_human_verified_CN22C119",
+      "pass": true
+    },
+    {
+      "check": "claim_hash_CN22C120",
+      "pass": true
+    },
+    {
+      "check": "claim_refs_CN22C120",
+      "pass": true
+    },
+    {
+      "check": "claim_sources_CN22C120",
+      "pass": true
+    },
+    {
+      "check": "claim_reference_identity_CN22C120",
+      "pass": true
+    },
+    {
+      "check": "not_human_verified_CN22C120",
+      "pass": true
+    },
+    {
+      "check": "claim_hash_CN22C121",
+      "pass": true
+    },
+    {
+      "check": "claim_refs_CN22C121",
+      "pass": true
+    },
+    {
+      "check": "claim_sources_CN22C121",
+      "pass": true
+    },
+    {
+      "check": "claim_reference_identity_CN22C121",
+      "pass": true
+    },
+    {
+      "check": "not_human_verified_CN22C121",
+      "pass": true
+    },
+    {
+      "check": "claim_hash_CN22C122",
+      "pass": true
+    },
+    {
+      "check": "claim_refs_CN22C122",
+      "pass": true
+    },
+    {
+      "check": "claim_sources_CN22C122",
+      "pass": true
+    },
+    {
+      "check": "claim_reference_identity_CN22C122",
+      "pass": true
+    },
+    {
+      "check": "not_human_verified_CN22C122",
+      "pass": true
+    },
+    {
+      "check": "claim_hash_CN22C123",
+      "pass": true
+    },
+    {
+      "check": "claim_refs_CN22C123",
+      "pass": true
+    },
+    {
+      "check": "claim_sources_CN22C123",
+      "pass": true
+    },
+    {
+      "check": "claim_reference_identity_CN22C123",
+      "pass": true
+    },
+    {
+      "check": "not_human_verified_CN22C123",
+      "pass": true
+    },
+    {
+      "check": "no_unmapped_claim_tags",
+      "pass": true
+    },
+    {
+      "check": "rewrite_and_add_counts",
+      "pass": true
+    },
+    {
+      "check": "chapter_table_figure_counts",
+      "pass": true
+    },
+    {
+      "check": "svg_citations_fig1_cn.svg",
+      "pass": true
+    },
+    {
+      "check": "svg_citations_fig2_cn.svg",
+      "pass": true
+    },
+    {
+      "check": "no_unread_algorithm_labels",
+      "pass": true
+    },
+    {
+      "check": "scope_stats_match",
+      "pass": true
+    },
+    {
+      "check": "reading_counts_not_inflated",
+      "pass": true
+    },
+    {
+      "check": "no_gap_or_version_pair_closure",
+      "pass": true
+    },
+    {
+      "check": "draft_status",
+      "pass": true
+    },
+    {
+      "check": "english_sync_boundary",
+      "pass": true
+    },
+    {
+      "check": "core_recheck_scope",
+      "pass": true
+    },
+    {
+      "check": "seven_new_external_sources",
+      "pass": true
+    },
+    {
+      "check": "existing_119_not_duplicated",
+      "pass": true
+    },
+    {
+      "check": "b10_excluded_candidates",
+      "pass": true
+    },
+    {
+      "check": "baseline_path_count",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_README.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/.gitignore",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/README.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/discussion/GPT_WRITING_STANDARDS_BRIEF.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/discussion/WRITING_RULES_DECISIONS.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/CHAPTER_QUESTION_MAP.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/FIRST_READING_QUEUE_40.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/MAPPING_BY_SECTION.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/literature_evidence_mapping_148.csv",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B00_20261014/.gitattributes",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B00_20261014/ACCESS_ATTEMPTS.json",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B00_20261014/B01_B02_READINESS.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B00_20261014/CLAIM_DEPENDENCY_MAP.csv",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B00_20261014/DEPENDENCY_MAP_AUDIT.json",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B00_20261014/FROZEN_INPUTS.json",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B00_20261014/LOCAL_PDF_INVENTORY.json",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B00_20261014/README.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B00_20261014/SHA256_MANIFEST.json",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B00_20261014/SOURCE_ACCESS_DETAILS.json",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B00_20261014/SOURCE_ACCESS_REGISTER.csv",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B00_20261014/UNAVAILABLE_AND_BLOCKERS.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B00_20261014/VERSION_COMPARISON_QUEUE.json",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B00_20261014/WEB_ACCESS_OBSERVATIONS.json",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B01_20261014/.gitattributes",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B01_20261014/CLAIM_CHECKS_B01.json",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B01_20261014/CROSS_STUDY_COMPARISON.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B01_20261014/OPEN_ITEMS_B01.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B01_20261014/OPEN_ITEM_STATUS_B01.json",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B01_20261014/PAIR_121_AUTHOR_VERSIONS.json",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B01_20261014/READING_NOTES_042.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B01_20261014/READING_NOTES_044.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B01_20261014/READING_NOTES_053.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B01_20261014/READING_NOTES_074.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B01_20261014/READING_NOTES_076.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B01_20261014/READING_NOTES_121.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B01_20261014/READING_SCOPE_B01.json",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B01_20261014/README.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B01_20261014/SHA256_MANIFEST.json",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B01_20261014/SOURCE_MANIFEST_B01.json",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B01_20261014/V19_CHANGE_CANDIDATES.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B01_20261014/V19_DEPENDENCY_CHECK_INDEX.csv",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B02_20261015/.gitattributes",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B02_20261015/ACCESS_OBSERVATIONS.json",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B02_20261015/CLAIM_CHECKS_B02.json",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B02_20261015/CROSS_STUDY_SYNTHESIS.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B02_20261015/CUMULATIVE_READING_STATUS.json",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B02_20261015/CUMULATIVE_READING_STATUS.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B02_20261015/ENGINEERING_CASE_INTEGRATION.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B02_20261015/OPEN_ITEMS_B02.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B02_20261015/OPEN_ITEM_STATUS_B02.json",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B02_20261015/READING_NOTES_017.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B02_20261015/READING_NOTES_023.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B02_20261015/READING_NOTES_027.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B02_20261015/READING_NOTES_028.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B02_20261015/READING_NOTES_034.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B02_20261015/READING_NOTES_065.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B02_20261015/READING_NOTES_084.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B02_20261015/READING_NOTES_085.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B02_20261015/READING_NOTES_087.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B02_20261015/READING_NOTES_095.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B02_20261015/READING_NOTES_098.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B02_20261015/READING_NOTES_108.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B02_20261015/READING_NOTES_109.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B02_20261015/READING_NOTES_117.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B02_20261015/READING_NOTES_120.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B02_20261015/READING_SCOPE_B02.json",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B02_20261015/README.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B02_20261015/SHA256_MANIFEST.json",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B02_20261015/SOURCE_ACCESS_REGISTER.csv",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B02_20261015/SOURCE_MANIFEST_B02.json",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B02_20261015/V19_CHANGE_CANDIDATES.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B02_20261015/V19_DEPENDENCY_CHECK_INDEX.csv",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B02_20261015/VERIFICATION_B02.json",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B03_20261015/.gitattributes",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B03_20261015/ACCESS_OBSERVATIONS.json",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B03_20261015/CLAIM_CHECKS_B03.json",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B03_20261015/COMPARISON_MATRIX.csv",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B03_20261015/CROSS_STUDY_SYNTHESIS.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B03_20261015/CUMULATIVE_READING_STATUS.json",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B03_20261015/CUMULATIVE_READING_STATUS.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B03_20261015/ENGINEERING_CASE_DSN.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B03_20261015/OPEN_ITEMS_B03.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B03_20261015/OPEN_ITEM_STATUS_B03.json",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B03_20261015/READING_NOTES_012.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B03_20261015/READING_NOTES_013.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B03_20261015/READING_NOTES_014.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B03_20261015/READING_NOTES_020.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B03_20261015/READING_NOTES_021.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B03_20261015/READING_NOTES_024.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B03_20261015/READING_NOTES_025.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B03_20261015/READING_NOTES_036.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B03_20261015/READING_NOTES_041.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B03_20261015/READING_NOTES_047.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B03_20261015/READING_NOTES_048.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B03_20261015/READING_NOTES_049.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B03_20261015/READING_NOTES_050.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B03_20261015/READING_NOTES_058.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B03_20261015/READING_NOTES_116.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B03_20261015/READING_SCOPE_B03.json",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B03_20261015/README.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B03_20261015/SHA256_MANIFEST.json",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B03_20261015/SOURCE_ACCESS_REGISTER.csv",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B03_20261015/SOURCE_MANIFEST_B03.json",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B03_20261015/V19_CHANGE_CANDIDATES.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B03_20261015/V19_DEPENDENCY_CHECK_INDEX.csv",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B03_20261015/VERIFICATION_B03.json",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B04_20261015/.gitattributes",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B04_20261015/ACCESS_OBSERVATIONS.json",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B04_20261015/CLAIM_CHECKS_B04.json",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B04_20261015/COMPARISON_MATRIX.csv",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B04_20261015/CROSS_STUDY_SYNTHESIS.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B04_20261015/CUMULATIVE_DERIVED_LEDGER_121.json",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B04_20261015/CUMULATIVE_READING_STATUS.json",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B04_20261015/CUMULATIVE_READING_STATUS.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B04_20261015/OPEN_ITEMS_B04.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B04_20261015/OPEN_ITEM_STATUS_B04.json",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B04_20261015/READING_NOTES_002.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B04_20261015/READING_NOTES_005.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B04_20261015/READING_NOTES_007.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B04_20261015/READING_NOTES_008.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B04_20261015/READING_NOTES_016.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B04_20261015/READING_NOTES_019.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B04_20261015/READING_NOTES_026.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B04_20261015/READING_NOTES_030.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B04_20261015/READING_NOTES_039.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B04_20261015/READING_NOTES_057.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B04_20261015/READING_NOTES_061.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B04_20261015/READING_NOTES_062.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B04_20261015/READING_NOTES_072.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B04_20261015/READING_NOTES_086.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B04_20261015/READING_NOTES_092.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B04_20261015/READING_SCOPE_B04.json",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B04_20261015/README.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B04_20261015/REVIEW_POSITIONING.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B04_20261015/SHA256_MANIFEST.json",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B04_20261015/SOURCE_ACCESS_REGISTER.csv",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B04_20261015/SOURCE_MANIFEST_B04.json",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B04_20261015/V19_CHANGE_CANDIDATES.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B04_20261015/V19_DEPENDENCY_CHECK_INDEX.csv",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B04_20261015/VERIFICATION_B04.json",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B04_20261015/VERSION_COMPARISON_QUEUE.json",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B05_20261016/.gitattributes",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B05_20261016/ACCESS_OBSERVATIONS.json",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B05_20261016/CLAIM_CHECKS_B05.json",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B05_20261016/CLAIM_DEPENDENCY_MAP.csv",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B05_20261016/COMPARISON_MATRIX.csv",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B05_20261016/CROSS_STUDY_SYNTHESIS.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B05_20261016/CUMULATIVE_DERIVED_LEDGER_121.json",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B05_20261016/CUMULATIVE_READING_STATUS.json",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B05_20261016/CUMULATIVE_READING_STATUS.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B05_20261016/INTEGRITY_CHECK.json",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B05_20261016/NEXT_BATCH_READINESS.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B05_20261016/OPEN_ITEMS_B05.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B05_20261016/OPEN_ITEM_STATUS_B05.json",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B05_20261016/READING_NOTES_003.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B05_20261016/READING_NOTES_004.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B05_20261016/READING_NOTES_006.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B05_20261016/READING_NOTES_011.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B05_20261016/READING_NOTES_015.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B05_20261016/READING_NOTES_016.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B05_20261016/READING_NOTES_037.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B05_20261016/READING_NOTES_041.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B05_20261016/READING_NOTES_049.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B05_20261016/READING_NOTES_057.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B05_20261016/READING_NOTES_061.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B05_20261016/READING_NOTES_062.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B05_20261016/READING_NOTES_091.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B05_20261016/READING_NOTES_092.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B05_20261016/READING_NOTES_105.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B05_20261016/READING_SCOPE_B05.json",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B05_20261016/README.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B05_20261016/SHA256_MANIFEST.json",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B05_20261016/SOURCE_ACCESS_REGISTER.csv",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B05_20261016/SOURCE_MANIFEST_B05.json",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B05_20261016/UNAVAILABLE_AND_BLOCKERS.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B05_20261016/V19_CHANGE_CANDIDATES.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B05_20261016/V19_DEPENDENCY_CHECK_INDEX.csv",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B05_20261016/VERSION_COMPARISON_QUEUE.json",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B05_20261016/VISUAL_INSPECTION_RECEIPT.json",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B06_20261016/.gitattributes",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B06_20261016/ACCESS_OBSERVATIONS.json",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B06_20261016/CLAIM_CHECKS_B06.json",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B06_20261016/CLAIM_DEPENDENCY_MAP.csv",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B06_20261016/COMPARISON_MATRIX.csv",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B06_20261016/CROSS_STUDY_SYNTHESIS.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B06_20261016/CUMULATIVE_DERIVED_LEDGER_121.json",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B06_20261016/CUMULATIVE_READING_STATUS.json",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B06_20261016/CUMULATIVE_READING_STATUS.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B06_20261016/EXCLUDED_MATERIAL_AUDIT.json",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B06_20261016/INTEGRITY_CHECK.json",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B06_20261016/NEXT_BATCH_READINESS.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B06_20261016/OPEN_ITEMS_B06.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B06_20261016/OPEN_ITEM_STATUS_B06.json",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B06_20261016/READING_NOTES_001.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B06_20261016/READING_NOTES_010.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B06_20261016/READING_NOTES_023.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B06_20261016/READING_NOTES_027.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B06_20261016/READING_NOTES_034.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B06_20261016/READING_NOTES_036.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B06_20261016/READING_NOTES_065.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B06_20261016/READING_NOTES_093.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B06_20261016/READING_NOTES_095.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B06_20261016/READING_NOTES_098.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B06_20261016/READING_NOTES_101.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B06_20261016/READING_NOTES_102.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B06_20261016/READING_NOTES_108.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B06_20261016/READING_NOTES_117.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B06_20261016/READING_NOTES_120.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B06_20261016/READING_SCOPE_B06.json",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B06_20261016/README.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B06_20261016/SHA256_MANIFEST.json",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B06_20261016/SOURCE_ACCESS_REGISTER.csv",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B06_20261016/SOURCE_MANIFEST_B06.json",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B06_20261016/UNAVAILABLE_AND_BLOCKERS.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B06_20261016/V19_CHANGE_CANDIDATES.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B06_20261016/V19_DEPENDENCY_CHECK_INDEX.csv",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B06_20261016/VERSION_COMPARISON_QUEUE.json",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B06_20261016/VISUAL_INSPECTION_RECEIPT.json",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B07_20261016/.gitattributes",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B07_20261016/ACCESS_OBSERVATIONS.json",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B07_20261016/CLAIM_CHECKS_B07.json",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B07_20261016/CLAIM_DEPENDENCY_MAP.csv",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B07_20261016/COMPARISON_MATRIX.csv",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B07_20261016/CROSS_STUDY_SYNTHESIS.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B07_20261016/CUMULATIVE_DERIVED_LEDGER_121.json",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B07_20261016/CUMULATIVE_READING_STATUS.json",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B07_20261016/CUMULATIVE_READING_STATUS.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B07_20261016/DISCOVERY_METADATA_REGISTER.json",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B07_20261016/EXCLUDED_MATERIAL_AUDIT.json",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B07_20261016/INTEGRITY_CHECK.json",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B07_20261016/NEXT_BATCH_READINESS.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B07_20261016/OPEN_ITEMS_B07.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B07_20261016/OPEN_ITEM_STATUS_B07.json",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B07_20261016/READING_NOTES_017.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B07_20261016/READING_NOTES_020.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B07_20261016/READING_NOTES_021.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B07_20261016/READING_NOTES_024.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B07_20261016/READING_NOTES_025.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B07_20261016/READING_NOTES_028.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B07_20261016/READING_NOTES_047.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B07_20261016/READING_NOTES_048.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B07_20261016/READING_NOTES_058.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B07_20261016/READING_NOTES_072.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B07_20261016/READING_NOTES_082.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B07_20261016/READING_NOTES_084.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B07_20261016/READING_NOTES_086.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B07_20261016/READING_NOTES_087.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B07_20261016/READING_NOTES_116.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B07_20261016/READING_SCOPE_B07.json",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B07_20261016/README.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B07_20261016/SHA256_MANIFEST.json",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B07_20261016/SOURCE_ACCESS_REGISTER.csv",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B07_20261016/SOURCE_MANIFEST_B07.json",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B07_20261016/UNAVAILABLE_AND_BLOCKERS.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B07_20261016/V19_CHANGE_CANDIDATES.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B07_20261016/V19_DEPENDENCY_CHECK_INDEX.csv",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B07_20261016/VERSION_COMPARISON_QUEUE.json",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B07_20261016/VISUAL_INSPECTION_RECEIPT.json",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B08_20261016/.gitattributes",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B08_20261016/ACCESS_OBSERVATIONS.json",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B08_20261016/CLAIM_CHECKS_B08.json",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B08_20261016/CLAIM_DEPENDENCY_MAP.csv",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B08_20261016/CODE_AUDIT_100.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B08_20261016/CODE_SOURCE_REGISTER_100.json",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B08_20261016/CROSS_STUDY_SYNTHESIS.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B08_20261016/CUMULATIVE_DERIVED_LEDGER_121.json",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B08_20261016/CUMULATIVE_READING_STATUS.json",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B08_20261016/CUMULATIVE_READING_STATUS.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B08_20261016/DISCOVERY_METADATA_REGISTER.json",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B08_20261016/EXCLUDED_MATERIAL_AUDIT.json",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B08_20261016/INTEGRITY_CHECK.json",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B08_20261016/NEXT_BATCH_READINESS.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B08_20261016/OPEN_ITEMS_B08.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B08_20261016/OPEN_ITEM_STATUS_B08.json",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B08_20261016/READING_SCOPE_B08.json",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B08_20261016/README.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B08_20261016/SHA256_MANIFEST.json",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B08_20261016/SOURCE_ACCESS_REGISTER.csv",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B08_20261016/SOURCE_MANIFEST_B08.json",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B08_20261016/UNAVAILABLE_AND_BLOCKERS.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B08_20261016/V19_CHANGE_CANDIDATES.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B08_20261016/VERSION_COMPARISON_QUEUE.json",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B09_20261016/.gitattributes",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B09_20261016/ACCESS_OBSERVATIONS.json",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B09_20261016/CLAIM_DEPENDENCY_MAP.csv",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B09_20261016/CUMULATIVE_READING_STATUS.json",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B09_20261016/NEXT_READING_READINESS.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B09_20261016/README.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B09_20261016/SHA256_MANIFEST.json",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B09_20261016/SOURCE_ACCESS_DETAILS.json",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B09_20261016/SOURCE_ACCESS_REGISTER.csv",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B09_20261016/SUPPLEMENTARY_MATERIALS_REGISTER.json",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B09_20261016/TARGETED_CHECK_NOTES.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B09_20261016/UNAVAILABLE_AND_BLOCKERS.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B09_20261016/VERSION_COMPARISON_QUEUE.json",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B09_20261016/verify_b09.py",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B10_20261016/.gitattributes",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B10_20261016/ACCESS_OBSERVATIONS.json",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B10_20261016/CLAIM_CHECKS_B10.json",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B10_20261016/CLAIM_DEPENDENCY_MAP.csv",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B10_20261016/CROSS_STUDY_SYNTHESIS.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B10_20261016/CUMULATIVE_READING_STATUS.json",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B10_20261016/OPEN_ITEMS_B10.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B10_20261016/READING_NOTES_B10.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B10_20261016/README.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B10_20261016/REPLACEMENT_DECISION_MATRIX.csv",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B10_20261016/SHA256_MANIFEST.json",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B10_20261016/SOURCE_ACCESS_REGISTER.csv",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B10_20261016/SOURCE_MANIFEST_B10.json",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B10_20261016/V21_REPLACEMENT_CANDIDATES.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_batches/B10_20261016/verify_b10.py",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_inventory_20261013/AUDIT_PROVENANCE_CN.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_inventory_20261013/NEXT_READING_QUEUE_CN.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_inventory_20261013/READING_LEDGER_121.csv",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_inventory_20261013/READING_LEDGER_121.json",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_inventory_20261013/READING_STATUS_SUMMARY_CN.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/evidence/reading_inventory_20261013/README.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/framework/FIVE_CHAPTER_OUTLINE.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/literature/LITERATURE_INDEX_148.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/literature/PENDING_CANDIDATES.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/literature/literature_index_148.csv",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/literature/references_148.bib",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/manuscripts/.gitattributes",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/manuscripts/v1.5/REVIEW_MAIN_DRAFT_v1.5.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/manuscripts/v1.6/CORE_CLAIM_CHECKS_ROUND1.csv",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/manuscripts/v1.6/CORE_LITERATURE_AUDIT_ROUND1.json",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/manuscripts/v1.6/CORE_LITERATURE_AUDIT_ROUND1.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/manuscripts/v1.6/GPT_NEXT_STEPS_v1.6.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/manuscripts/v1.6/NARRATIVE_COMPARISON_v1.6.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/manuscripts/v1.6/PACKAGE_MANIFEST_v1.6.json",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/manuscripts/v1.6/README.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/manuscripts/v1.6/REMAINING_SOURCE_VERIFICATION_QUEUE_v1.6.csv",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/manuscripts/v1.6/REVIEW_MAIN_DRAFT_v1.6.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/manuscripts/v1.6/REVIEW_MAIN_DRAFT_v1.6_PREVIEW.html",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/manuscripts/v1.6/REVISION_NOTES_v1.6.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/manuscripts/v1.6/SOURCE_AND_CLAIM_RECORD_v1.6.json",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/manuscripts/v1.8/REVIEW_CN_v1.8.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/manuscripts/v1.8/REVISION_CHARTER_v1.0.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/manuscripts/v1.9/CHANGES_v1.8_TO_v1.9.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/manuscripts/v1.9/CHAPTER_ARGUMENT_AUDIT_v1.8_to_v1.9.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/manuscripts/v1.9/CONTRIBUTION_EVIDENCE_MAP_v1.9.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/manuscripts/v1.9/CORE_LITERATURE_AUDIT_ROUND4.json",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/manuscripts/v1.9/CORE_LITERATURE_AUDIT_ROUND4.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/manuscripts/v1.9/OPEN_ITEMS_v1.9.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/manuscripts/v1.9/README.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/manuscripts/v1.9/REVIEW_CN_v1.9.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/manuscripts/v1.9/REVISION_GATE_STATUS_v1.9.json",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/manuscripts/v1.9/SOURCE_CITATION_INDEX_121_v1.9.json",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/manuscripts/v2.0/.gitattributes",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/manuscripts/v2.0/ABSTRACT_ONLY_USE_REGISTER.csv",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/manuscripts/v2.0/AUTHOR_MATERIALS_PENDING.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/manuscripts/v2.0/BIBLIOGRAPHIC_UPDATE_REGISTER.json",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/manuscripts/v2.0/BILINGUAL_ALIGNMENT.json",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/manuscripts/v2.0/CHANGES_v1.9_TO_v2.0.diff",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/manuscripts/v2.0/CLAIM_EVIDENCE_REGISTER.csv",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/manuscripts/v2.0/FIGURE_PROVENANCE.json",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/manuscripts/v2.0/FIRST_CITATION_ORDER_PROPOSAL.csv",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/manuscripts/v2.0/INTEGRITY_CHECK.json",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/manuscripts/v2.0/JOURNAL_POLICY_CHECK.json",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/manuscripts/v2.0/PDF_DELIVERY_MANIFEST.json",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/manuscripts/v2.0/README.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/manuscripts/v2.0/REVIEW_CN_v2.0.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/manuscripts/v2.0/REVIEW_EN_v2.0.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/manuscripts/v2.0/REVIEW_METHODS_AND_LIMITS.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/manuscripts/v2.0/REVISION_GATE_STATUS_v2.0.json",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/manuscripts/v2.0/REVISION_METRICS.json",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/manuscripts/v2.0/REVISION_REGISTER.csv",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/manuscripts/v2.0/REVISION_REPORT_CN.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/manuscripts/v2.0/SEARCH_PROVENANCE.json",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/manuscripts/v2.0/SHA256_MANIFEST.json",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/manuscripts/v2.0/SOURCE_MANIFEST_v2.0.json",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/manuscripts/v2.0/SOURCE_USE_MAP.csv",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/manuscripts/v2.0/SUBMISSION_COMPONENTS_DRAFT.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/manuscripts/v2.0/SUBMISSION_READINESS.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/manuscripts/v2.0/WRITING_CHECK_REPORT.json",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/manuscripts/v2.0/assets/fig1_cn.svg",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/manuscripts/v2.0/assets/fig1_en.svg",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/manuscripts/v2.0/assets/fig2_cn.svg",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/manuscripts/v2.0/assets/fig2_en.svg",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/manuscripts/v2.1-cn/.gitattributes",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/manuscripts/v2.1-cn/CHANGES_FROM_v2.0.diff",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/manuscripts/v2.1-cn/CLAIM_MAP_CN.csv",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/manuscripts/v2.1-cn/INTEGRITY_CHECK.json",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/manuscripts/v2.1-cn/README.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/manuscripts/v2.1-cn/REVIEW_CN_v2.1.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/manuscripts/v2.1-cn/REVISION_REGISTER_CN.json",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/manuscripts/v2.1-cn/SHA256_MANIFEST.json",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/manuscripts/v2.1-cn/SUBMISSION_GAP_ASSESSMENT_CN.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/manuscripts/v2.1-cn/assets/fig1_cn.svg",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/manuscripts/v2.1-cn/assets/fig2_cn.svg",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/provenance/PACKAGE_MANIFEST.json",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/provenance/PUBLICATION_SCOPE.md",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/snapshots/literature_20261009/annotations.json",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/snapshots/literature_20261009/build_literature.mjs",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/snapshots/literature_20261009/crossref_discovery.json",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/snapshots/literature_20261009/crossref_metadata.json",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/snapshots/literature_20261009/delivery_audit.json",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/snapshots/literature_20261009/formula_error_scan.json",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/snapshots/literature_20261009/literature_records.json",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/snapshots/literature_20261009/search_queries.json",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/snapshots/literature_20261009/workbook_inspection.json",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/snapshots/literature_20261009/星座运维综述文献矩阵_20261009.xlsx",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/snapshots/literature_round2_20261009/build_round2.mjs",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/snapshots/literature_round2_20261009/crossref_discovery.json",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/snapshots/literature_round2_20261009/crossref_metadata.json",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/snapshots/literature_round2_20261009/delivery_audit.json",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/snapshots/literature_round2_20261009/export_check.json",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/snapshots/literature_round2_20261009/formula_error_scan.json",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/snapshots/literature_round2_20261009/literature_records.json",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/snapshots/literature_round2_20261009/round2_annotations.json",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/snapshots/literature_round2_20261009/search_queries.json",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/snapshots/literature_round2_20261009/source_access.json",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/snapshots/literature_round2_20261009/workbook_inspection.json",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/snapshots/literature_round2_20261009/星座运维方法研究_第二轮_20261009.xlsx",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/snapshots/literature_round3_20261009/build_round3.mjs",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/snapshots/literature_round3_20261009/candidates.json",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/snapshots/literature_round3_20261009/crossref_discovery.json",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/snapshots/literature_round3_20261009/crossref_metadata.json",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/snapshots/literature_round3_20261009/delivery_audit.json",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/snapshots/literature_round3_20261009/formula_error_scan.json",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/snapshots/literature_round3_20261009/literature_records.json",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/snapshots/literature_round3_20261009/round3_annotations.json",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/snapshots/literature_round3_20261009/search_queries.json",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/snapshots/literature_round3_20261009/workbook_inspection.json",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/snapshots/literature_round3_20261009/星座智能运维综述文献库_第三轮扩展_20261009.xlsx",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/snapshots/literature_round4_20261009/build_round4.mjs",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/snapshots/literature_round4_20261009/candidates.json",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/snapshots/literature_round4_20261009/crossref_discovery.json",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/snapshots/literature_round4_20261009/crossref_metadata.json",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/snapshots/literature_round4_20261009/delivery_audit.json",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/snapshots/literature_round4_20261009/formula_error_scan.json",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/snapshots/literature_round4_20261009/literature_records.json",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/snapshots/literature_round4_20261009/round4_annotations.json",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/snapshots/literature_round4_20261009/search_queries.json",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/snapshots/literature_round4_20261009/workbook_inspection.json",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/snapshots/literature_round4_20261009/星座智能运维综述文献库_第四轮补检_20261009.xlsx",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/snapshots/review_evidence_mapping_v2_20261009/build_mapping.mjs",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/snapshots/review_evidence_mapping_v2_20261009/delivery_audit.json",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/snapshots/review_evidence_mapping_v2_20261009/formula_scan.ndjson",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/snapshots/review_evidence_mapping_v2_20261009/inspection.ndjson",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/snapshots/review_evidence_mapping_v2_20261009/mapping_records.json",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/snapshots/review_evidence_mapping_v2_20261009/五章综述_章节研究问题文献证据对应表_148篇_v2_20261009.xlsx",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/snapshots/review_framework_v1_20261009/build_framework.mjs",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/snapshots/review_framework_v1_20261009/delivery_audit.json",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/snapshots/review_framework_v1_20261009/error_scan.ndjson",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/snapshots/review_framework_v1_20261009/framework_plan.json",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/snapshots/review_framework_v1_20261009/inspection.ndjson",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/snapshots/review_framework_v1_20261009/screening_records.json",
+      "pass": true
+    },
+    {
+      "check": "immutable_history_content_review_writing/snapshots/review_framework_v1_20261009/星座综述框架与148篇文献初筛_v1_20261009.xlsx",
+      "pass": true
+    },
+    {
+      "check": "batch_consumed_exactly",
+      "pass": true
+    },
+    {
+      "check": "frozen_v19_git_content",
+      "pass": true
+    },
+    {
+      "check": "saved_unified_diff_is_exact",
+      "pass": true
+    },
+    {
+      "check": "word_complete_text_and_tables_equal_markdown",
+      "pass": true,
+      "detail": {
+        "expected_blocks": 232,
+        "actual_blocks": 232
+      }
+    },
+    {
+      "check": "word_figures_and_alt_text",
+      "pass": true
+    },
+    {
+      "check": "word_tables_and_repeat_headers",
+      "pass": true
+    },
+    {
+      "check": "word_continuous_reference_bookmarks",
+      "pass": true
+    },
+    {
+      "check": "word_no_tracked_edits_or_comments",
+      "pass": true
+    },
+    {
+      "check": "word_receipt_hash",
+      "pass": true
+    },
+    {
+      "check": "word_receipt_all_pages_visually_viewed",
+      "pass": true
+    },
+    {
+      "check": "no_third_party_pdf_or_word_binaries_in_repo",
+      "pass": true,
+      "detail": []
+    }
+  ],
+  "word": {
+    "path": "D:\\SKT727\\outputs\\constellation_review_v2_2_20261017\\REVIEW_CN_v2.2_中文修订稿.docx",
+    "sha256": "48711d9ce1c93cfa1b48842d967db4b142e58319648e872ea04f7f6306fe5445",
+    "bytes": 614684,
+    "text_and_tables_equal": true,
+    "text_blocks": 232,
+    "figures": 2,
+    "tables": 7,
+    "references": 94
+  },
+  "human_verified": false,
+  "submission_ready": false,
+  "push_performed": false
+}

@@ -1,0 +1,244 @@
+{
+  "source": "D:\\SKT727\\outputs\\constellation_review_b00_20261014_repo\\review_writing\\manuscripts\\v2.2-cn\\REVIEW_CN_v2.2.md",
+  "source_sha256": "6e0da40ef178340b5e60c9aa9cd703531ef0a131572b7164155aa1c7c93ab50e",
+  "version": "v2.2-CN",
+  "parent_commit": "78f0e1b2eca09ed7c8df54c9021b3d75d45e58a3",
+  "file": {
+    "path": "D:\\SKT727\\outputs\\constellation_review_v2_2_20261017\\REVIEW_CN_v2.2_中文修订稿.docx",
+    "bytes": 614684,
+    "sha256": "48711d9ce1c93cfa1b48842d967db4b142e58319648e872ea04f7f6306fe5445"
+  },
+  "tables": [
+    {
+      "number": 1,
+      "rows": 6,
+      "columns": 3,
+      "source_line": 33
+    },
+    {
+      "number": 2,
+      "rows": 6,
+      "columns": 3,
+      "source_line": 71
+    },
+    {
+      "number": 3,
+      "rows": 10,
+      "columns": 4,
+      "source_line": 141
+    },
+    {
+      "number": 4,
+      "rows": 11,
+      "columns": 4,
+      "source_line": 187
+    },
+    {
+      "number": 5,
+      "rows": 7,
+      "columns": 3,
+      "source_line": 228
+    },
+    {
+      "number": 6,
+      "rows": 5,
+      "columns": 4,
+      "source_line": 281
+    },
+    {
+      "number": 7,
+      "rows": 9,
+      "columns": 3,
+      "source_line": 304
+    }
+  ],
+  "figures": [
+    {
+      "source": "D:\\SKT727\\materials\\constellation_review_v2_2_20261017\\fig1_cn.png",
+      "alt": "图1 业务过程与共同管理职责"
+    },
+    {
+      "source": "D:\\SKT727\\materials\\constellation_review_v2_2_20261017\\fig2_cn.png",
+      "alt": "图2 决策连接的三种方式"
+    }
+  ],
+  "references": 94,
+  "new_paper_readings": 0,
+  "human_verified": false,
+  "submission_ready": false,
+  "English_full_body_synchronized": false,
+  "page_count": 23,
+  "visual_review_done": true,
+  "reviewer": "Codex AI",
+  "actual_visual_review_pages": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23
+  ],
+  "visual_scope": "all final page PNGs inspected; no clipped text, missing glyphs, overlapping tables or detached captions observed",
+  "layout_fixes": [
+    "resized figure 1 and enlarged its internal labels to fill page 3 without a large blank area",
+    "kept each reference entry together across page boundaries"
+  ],
+  "renderer": "packaged render_docx.py with local native Word converter and PDFium raster adapter",
+  "renderer_package_sha256": "8b48b8f05f30cc6c7b5a7bd8e18e7ea93a61aec1ea601026a3358b2105f0903a",
+  "native_renderer_version": "16.0",
+  "native_source_saved": false,
+  "default_packaged_renderer_limitation": "soffice.exe was not found; task-local native Word/PDFium adapter used without editing managed package files",
+  "source_md_sha256": "6e0da40ef178340b5e60c9aa9cd703531ef0a131572b7164155aa1c7c93ab50e",
+  "figures_embedded": [
+    {
+      "svg": "assets/fig1_cn.svg",
+      "svg_sha256": "cd414ed49e76f98a3d757683c953dec1170d88b965126e62a49df6197ae0610f",
+      "embedded_png_sha256": "4cad3dbea6bd5be96b1f4efb8563717e536d10f9d31f96e360d3bd429a5b7b1d",
+      "embedded_byte_match": true
+    },
+    {
+      "svg": "assets/fig2_cn.svg",
+      "svg_sha256": "1501785ccf40476feca4f071b2517a080ffc525c1d668201d7003d807612e7b2",
+      "embedded_png_sha256": "64001e35da0fe3ad523a78aea0df79cc781a2c3bb44d3ceb2a70642abe125e4f",
+      "embedded_byte_match": true
+    }
+  ],
+  "rendered_pages": [
+    {
+      "page": 1,
+      "sha256": "870436edef5303309e5e005bbc204acf65fc0400735dd89dae09c92aae206b33",
+      "bytes": 392857
+    },
+    {
+      "page": 2,
+      "sha256": "9a62831e060630dc4a9ef88eaa889b6cce13cf3d7b4206c9db988db2e4a92627",
+      "bytes": 421028
+    },
+    {
+      "page": 3,
+      "sha256": "fe131db6e3c6512ccebd4f9b1f76960b709a5d2c26fd605148151fb83b84d666",
+      "bytes": 379624
+    },
+    {
+      "page": 4,
+      "sha256": "f0e03f7b92e1f68e038fd770a812acfe4837733d03a5703e2e15de59c7955415",
+      "bytes": 343655
+    },
+    {
+      "page": 5,
+      "sha256": "ced2aa583a59a94dd19e79b2d38f3c67d1c3c9f0ab8f1e20be6f5a10be899286",
+      "bytes": 476575
+    },
+    {
+      "page": 6,
+      "sha256": "84e8d0f018131be667aca36d32b1f5e9f0f66f2fd440a6b61f7848c15d62e689",
+      "bytes": 486761
+    },
+    {
+      "page": 7,
+      "sha256": "4c3834c3d09379475e7200cbec11a86378c1e5eeda743adb01601edc278a84d7",
+      "bytes": 485792
+    },
+    {
+      "page": 8,
+      "sha256": "6055dac01cc9274f519e6b3898f72dffe2df3feaefbf4c8060501acdf00ad841",
+      "bytes": 398138
+    },
+    {
+      "page": 9,
+      "sha256": "205a0e94024157f5b2ef0172fbb779ff1f223b5d5bf8c8e950f77390dc0e6c2c",
+      "bytes": 486361
+    },
+    {
+      "page": 10,
+      "sha256": "502383567bd45dd7903ab27cba742d038d831624674e0863825260a051738092",
+      "bytes": 373851
+    },
+    {
+      "page": 11,
+      "sha256": "0a5e71de174727e83d3393728ba349c26bab6d98784d81117da713ee5d49f88e",
+      "bytes": 456378
+    },
+    {
+      "page": 12,
+      "sha256": "645b6a56fa301b2c5e73852c48c2b8c958a008f4793bc6bb3319d19e3ec5dd2e",
+      "bytes": 328565
+    },
+    {
+      "page": 13,
+      "sha256": "acb94b154383dd1b9c1a153f90b944088a7b78639a475457f2f562562dee801f",
+      "bytes": 483667
+    },
+    {
+      "page": 14,
+      "sha256": "3abb4a6b6f22784678fc15a348afd67458898f34182bad718c131bf8594a4995",
+      "bytes": 447333
+    },
+    {
+      "page": 15,
+      "sha256": "97b75b5f7dc658fb10405c3e16a4d2d8dbe0956a6c566143025b414cec71b8b8",
+      "bytes": 391906
+    },
+    {
+      "page": 16,
+      "sha256": "1c68758287f8e90282017f263b1a31282b1bc3324f995422b68fc56c324edf10",
+      "bytes": 461187
+    },
+    {
+      "page": 17,
+      "sha256": "eb6df851e8a20051d73111fb27b6bc55a995d02c5b2e121f5fa9bf8a3d94d629",
+      "bytes": 425422
+    },
+    {
+      "page": 18,
+      "sha256": "7db0328ad3121f70fdd5a5888ef5ea807c69dca36cf45f87f66cb0504c4ace96",
+      "bytes": 433307
+    },
+    {
+      "page": 19,
+      "sha256": "c8a2bc516241d358671c25aa2686b7402bb83fd210fc0a096bf9a34f8bab3f45",
+      "bytes": 394970
+    },
+    {
+      "page": 20,
+      "sha256": "b7cb3f5c80bc048b4c6195483968efa9a05d6b6a71b28c751894ebf4b47122ae",
+      "bytes": 440559
+    },
+    {
+      "page": 21,
+      "sha256": "1dadc337066a28782012d5c77c1807629b6e450d55c9d44218ea312eef635c33",
+      "bytes": 413338
+    },
+    {
+      "page": 22,
+      "sha256": "24bd315fd59212d399dab01ee75111f9caca89726a240397858af52ed4077011",
+      "bytes": 392478
+    },
+    {
+      "page": 23,
+      "sha256": "2cf4273c059e6a437a5eeaf5c8c46d2f38c89e71873905e0c35af764fbf4e305",
+      "bytes": 61840
+    }
+  ],
+  "third_party_pdf_uploaded": false,
+  "word_uploaded_to_git": false,
+  "text_and_table_content_equal_markdown": true,
+  "text_blocks_checked": 232
+}

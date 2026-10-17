@@ -1,0 +1,182 @@
+{
+  "scope": "补齐三篇既有核心来源的实际版本与段落定位，不增加原目录已读论文数，不声称全篇精读或版本配对完成",
+  "records": [
+    {
+      "original_reference": 18,
+      "doi": "10.2514/1.A34387",
+      "file": "core_018.pdf",
+      "version": "arXiv:1807.02685v4作者稿",
+      "read_pages": [
+        9,
+        10,
+        12,
+        13,
+        14
+      ],
+      "visual_pages": [
+        12,
+        13
+      ],
+      "locator": "§III-B库存；§IV-A/B多级结构及假设；§IV-C补给提前期",
+      "finding": "地面—停泊轨道—面内库存及随机补给提前期；面内替换视为即时，不计最多两天的换位延迟。",
+      "manuscript_use": "保留库存与资源到位/业务恢复的区别；不增加成本或性能数字。",
+      "human_verified": false,
+      "path": "D:\\SKT727\\materials\\constellation_review_v2_2_20261017\\core_018.pdf",
+      "sha256": "dc23b3e22acaf41c92efbd407a98264d8ff364f1cd6dca51902bcfe61440df25",
+      "bytes": 1932548,
+      "access": {
+        "original_reference": 18,
+        "url": "https://arxiv.org/pdf/1807.02685v4",
+        "date_client": "2026-10-17",
+        "bypass": false,
+        "status": 200,
+        "final_url": "https://arxiv.org/pdf/1807.02685v4",
+        "bytes": 1932548,
+        "sha256": "dc23b3e22acaf41c92efbd407a98264d8ff364f1cd6dca51902bcfe61440df25",
+        "pdf": true,
+        "pages": 32,
+        "path": "D:\\SKT727\\materials\\constellation_review_v2_2_20261017\\core_018.pdf",
+        "text": "D:\\SKT727\\materials\\constellation_review_v2_2_20261017\\core_018.txt"
+      },
+      "actual_visual_inspection": true
+    },
+    {
+      "original_reference": 71,
+      "doi": "10.1007/s40295-026-00580-4",
+      "file": "core_071.pdf",
+      "version": "Springer正式开放PDF，34页",
+      "read_pages": [
+        7,
+        8,
+        9,
+        17,
+        18
+      ],
+      "visual_pages": [
+        8,
+        18
+      ],
+      "locator": "§2一般问题；§3假设1—3与三段转移；§5.1/5.2访问及加注",
+      "finding": "转移代价和时间与状态及质量相联系；近圆轨道、忽略相位机动成本是具体简化；加注模型含服务历时与燃料转移。",
+      "manuscript_use": "保留转移—访问—补给的物理交接及相位边界，不将到达目标轨道自动等同完成实际交会。",
+      "human_verified": false,
+      "path": "D:\\SKT727\\materials\\constellation_review_v2_2_20261017\\core_071.pdf",
+      "sha256": "ac0a187cba50f4a3cceccae53697580ba82cf303e28825e593199d34570a61af",
+      "bytes": 5662738,
+      "access": {
+        "original_reference": 71,
+        "url": "https://link.springer.com/content/pdf/10.1007/s40295-026-00580-4.pdf",
+        "date_client": "2026-10-17",
+        "bypass": false,
+        "status": 200,
+        "final_url": "https://link.springer.com/content/pdf/10.1007/s40295-026-00580-4.pdf?error=cookies_not_supported&code=1cbbf493-079b-4376-bd0f-f38c89afcad2",
+        "bytes": 5662738,
+        "sha256": "ac0a187cba50f4a3cceccae53697580ba82cf303e28825e593199d34570a61af",
+        "pdf": true,
+        "pages": 34,
+        "path": "D:\\SKT727\\materials\\constellation_review_v2_2_20261017\\core_071.pdf",
+        "text": "D:\\SKT727\\materials\\constellation_review_v2_2_20261017\\core_071.txt"
+      },
+      "actual_visual_inspection": true
+    },
+    {
+      "original_reference": 96,
+      "doi": "10.1007/s40295-026-00631-w",
+      "file": "core_096_formal.pdf",
+      "version": "Springer正式开放PDF，29页",
+      "read_pages": [
+        19,
+        20,
+        21,
+        23
+      ],
+      "visual_pages": [
+        20,
+        23
+      ],
+      "locator": "§5末段的实际状态校正；§6.2屏蔽开关；§6.3和图10/11的PRM与未屏蔽RL对照",
+      "finding": "同策略1000种子屏蔽对照，与20种子PRM/1000种子未屏蔽RL的燃料—时间对照不同；PRM执行逐次按真实状态修正。",
+      "manuscript_use": "保留对照设置、安全要求与执行更新分别解释的原段，不新增近似推理速度或在轨实时性结论。",
+      "human_verified": false,
+      "path": "D:\\SKT727\\materials\\constellation_review_v2_2_20261017\\core_096_formal.pdf",
+      "sha256": "5ab911f4c7fb7d6d49b4d4e0e6a41023943c3162fab8073ff93945d565a6cb7b",
+      "bytes": 2034289,
+      "access": {
+        "original_reference": 96,
+        "url": "https://link.springer.com/content/pdf/10.1007/s40295-026-00631-w.pdf",
+        "date_client": "2026-10-17",
+        "bypass": false,
+        "status": 200,
+        "final_url": "https://link.springer.com/content/pdf/10.1007/s40295-026-00631-w.pdf?error=cookies_not_supported&code=2b11f1b3-1296-4649-80f4-290fb7352d0f",
+        "bytes": 2034289,
+        "sha256": "5ab911f4c7fb7d6d49b4d4e0e6a41023943c3162fab8073ff93945d565a6cb7b",
+        "pdf": true,
+        "pages": 29,
+        "path": "D:\\SKT727\\materials\\constellation_review_v2_2_20261017\\core_096_formal.pdf",
+        "text": "D:\\SKT727\\materials\\constellation_review_v2_2_20261017\\core_096_formal.txt"
+      },
+      "actual_visual_inspection": true
+    }
+  ],
+  "excluded_version_observation": "作者页面Stephenson2026a.pdf是16页较早会议稿，与29页正式期刊正文不同；本轮以出版社正式PDF定位屏蔽开关实验，不将前者自动视作正式版。",
+  "actual_visual_pages": [
+    {
+      "pdf": "core_018.pdf",
+      "page": 12,
+      "png": "D:\\SKT727\\materials\\constellation_review_v2_2_20261017\\core_pages\\core_018_12.png",
+      "sha256": "aed9ae3eb387217527331923d0774d4aadf8d5f764b8e32fab93fbbc2f518527",
+      "rendered": true,
+      "actual_visual_review": true,
+      "human_verified": false
+    },
+    {
+      "pdf": "core_018.pdf",
+      "page": 13,
+      "png": "D:\\SKT727\\materials\\constellation_review_v2_2_20261017\\core_pages\\core_018_13.png",
+      "sha256": "f0166c970309004782de417b85847295df854f1910537ff3aaf6f909ae2790dd",
+      "rendered": true,
+      "actual_visual_review": true,
+      "human_verified": false
+    },
+    {
+      "pdf": "core_071.pdf",
+      "page": 8,
+      "png": "D:\\SKT727\\materials\\constellation_review_v2_2_20261017\\core_pages\\core_071_8.png",
+      "sha256": "ab6c4bfac98f7391ba2d9b7a7fd613bf3317b6f2ce6a06bf42bcf463881c492f",
+      "rendered": true,
+      "actual_visual_review": true,
+      "human_verified": false
+    },
+    {
+      "pdf": "core_071.pdf",
+      "page": 18,
+      "png": "D:\\SKT727\\materials\\constellation_review_v2_2_20261017\\core_pages\\core_071_18.png",
+      "sha256": "d2ebc85c0b0b8f7a2f8774c1ed642fa64489f3faec722dc3ae1784bc5fc485d0",
+      "rendered": true,
+      "actual_visual_review": true,
+      "human_verified": false
+    },
+    {
+      "pdf": "core_096_formal.pdf",
+      "page": 20,
+      "png": "D:\\SKT727\\materials\\constellation_review_v2_2_20261017\\core_pages\\core_096_formal_20.png",
+      "sha256": "8cb42d20e4f6ef39bf6b0884752850ad5a6860346f7d61e115681ceda7bde7a1",
+      "rendered": true,
+      "actual_visual_review": true,
+      "human_verified": false
+    },
+    {
+      "pdf": "core_096_formal.pdf",
+      "page": 23,
+      "png": "D:\\SKT727\\materials\\constellation_review_v2_2_20261017\\core_pages\\core_096_formal_23.png",
+      "sha256": "975a649332cb82b1dbe6dc3feff2362b74aa2ad2d6b53d04a1ba7f6a2784690e",
+      "rendered": true,
+      "actual_visual_review": true,
+      "human_verified": false
+    }
+  ],
+  "date_client": "2026-10-17",
+  "newly_read_original_papers": 0,
+  "all_page_reading_claimed": false,
+  "formal_version_pairs_closed": 0
+}

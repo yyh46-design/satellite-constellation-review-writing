@@ -1,0 +1,83 @@
+{
+  "selected": [
+    {
+      "candidate_id": "ALT01",
+      "stable_key": 122,
+      "new_reference_number": 37,
+      "decision": "adopt_after_rewriting",
+      "limits": "§5明确把branch-and-price列为未来工作。不能保留原[33]已实现分支定价的描述；1—5星不是巨型星座验证；求解停止间隙不等于严格全局最优。",
+      "open": "若综述要讨论分支定价定价子问题、列生成和大星座耗时，仍需原[33]正文或另找同类已核读来源。"
+    },
+    {
+      "candidate_id": "ALT02",
+      "stable_key": 123,
+      "new_reference_number": 53,
+      "decision": "adopt_after_rewriting",
+      "limits": "不是深度强化学习、不是大邻域搜索，也未据所核读内容验证在线应急任务到达。任务数不能换成卫星数；案例流程不能当作独立确认的在轨实测。",
+      "open": "原[63]的DRL-LNS在线重调度机理、训练成本和请求到达实验仍待原文；若采用ALT02，应把代表性论点改为学习辅助搜索。"
+    },
+    {
+      "candidate_id": "ALT03",
+      "stable_key": 124,
+      "new_reference_number": 62,
+      "decision": "adopt_after_rewriting",
+      "limits": "接入协议时延不是端到端路由时延；3星场景不能表述为多层巨型星座实测。训练用户规模增加带来额外成本。",
+      "open": "原[77]路由代价与切换联合决策仍未被替代；若要保留该专门结论，仍需原文。ALT03与其arXiv副本未逐式对照。"
+    },
+    {
+      "candidate_id": "ALT06",
+      "stable_key": 125,
+      "new_reference_number": 64,
+      "decision": "adopt_after_rewriting",
+      "limits": "历史部署假设不是当前Starlink运行事实；最短路径传播时延和路由计算耗时是不同指标。不是原[79]/[80]具体算法、DBTS+/LFA+恢复实验的复现。",
+      "open": "接受稿与正式版差异未核；不把2019理想光纤或当时Internet对照移植为2026现网结论。"
+    },
+    {
+      "candidate_id": "ALT08",
+      "stable_key": 119,
+      "new_reference_number": 89,
+      "decision": "reuse_existing_119",
+      "limits": "CPU/星上软件调度层，与星座任务调度不同；<1 ms是各工具链步骤，不是优化器或整星座重规划时延。不是在轨部署证明；作者明确本篇不重新验证优化核心。",
+      "open": "若要保留原[112]参考架构职责或NIMBUS例子，仍需原文；本篇只能改写为独立的模型驱动受监督配置实例。未核读全部31页与前作优化器。"
+    },
+    {
+      "candidate_id": "ALT09",
+      "stable_key": 126,
+      "new_reference_number": 65,
+      "decision": "adopt_after_rewriting",
+      "limits": "不是无ISL地面转发，也不是原[80]同算法。66星仿真非千星实测；BF误报有额外转发成本；§VII-B说明MATLAB和OMNeT++对环路处理不同。",
+      "open": "正式论文17页与本轮预印本16页的文字/公式/图表差异未核；无正式版同一性结论。不能把数值模型吻合扩大为所有网络条件定理已验证。"
+    },
+    {
+      "candidate_id": "ALT10",
+      "stable_key": 127,
+      "new_reference_number": 50,
+      "decision": "adopt_after_rewriting",
+      "limits": "HTML有公式缺项及WIS/CIS命名不一致；不采公式和百分比增益；没有PDF文件及其页数/哈希。",
+      "open": "欲核对公式、图3/4和算法命名仍需PDF；仅依据HTML已核读的定性流程。"
+    },
+    {
+      "candidate_id": "ALT11",
+      "stable_key": 128,
+      "new_reference_number": 61,
+      "decision": "adopt_after_rewriting",
+      "limits": "物理第5页50—200 kbps，第6页图4/6为Mbps，页面确认；不采用绝对流量及提升百分比。软惩罚不等于每动作满足硬限制；17智能体不是17颗星。",
+      "open": "流量单位、正式版对应和时延极差目标与平均时延结果的口径待核；不声称取得原[75]正文。"
+    }
+  ],
+  "not_adopted": [
+    {
+      "candidate_id": "ALT04",
+      "reason": "是卫星—地面基站共存，不是GEO—LEO共存。页面复核确认式(14)显示两二元量之和等于0，不能自行改成≤1；正式发表作者顺序与v1不同，全文同一性未核。"
+    },
+    {
+      "candidate_id": "ALT05",
+      "reason": "第9页正文带宽500 MHz，表II为100 MHz，已实际看页确认；不采信其绝对性能数字。软惩罚不是逐动作硬可行性证明；不是各星独立智能体。"
+    },
+    {
+      "candidate_id": "ALT07",
+      "reason": "正文把Dijkstra耗时增长解释为指数级，与其一般算法复杂度不能等同。第12页108 s为一百零八秒，非10^8秒；图11坐标已看页。不采用其普遍性能优势结论。"
+    }
+  ],
+  "original_gaps_closed": false
+}

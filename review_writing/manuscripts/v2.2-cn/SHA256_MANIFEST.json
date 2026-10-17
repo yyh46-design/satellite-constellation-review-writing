@@ -1,0 +1,121 @@
+{
+  "schema_version": "1.0",
+  "date_client": "2026-10-17",
+  "scope": "all files in v2.2-cn except this self-referential manifest; DOCX identified by separate external-artifact receipt",
+  "parent_commit": "78f0e1b2eca09ed7c8df54c9021b3d75d45e58a3",
+  "file_count": 22,
+  "files": [
+    {
+      "path": ".gitattributes",
+      "bytes": 14,
+      "sha256": "a79691a93b46e49ce460c26ef22afcc03d6eca1e63bf2edbc20e96159510f6c9"
+    },
+    {
+      "path": "ABSTRACT_USE_POLICY_CN.md",
+      "bytes": 3387,
+      "sha256": "5e75ea315d4616cb789829bf8b5362225f4c5a0060e2d4395c2efa1502214181"
+    },
+    {
+      "path": "ASSESSMENT_AND_NEXT_STEPS_CN.md",
+      "bytes": 4539,
+      "sha256": "e9db88d2d79567787639f1a85f157753cf32725e885badadcb1a80660017bf54"
+    },
+    {
+      "path": "assets/fig1_cn.svg",
+      "bytes": 5937,
+      "sha256": "cd414ed49e76f98a3d757683c953dec1170d88b965126e62a49df6197ae0610f"
+    },
+    {
+      "path": "assets/fig2_cn.svg",
+      "bytes": 4863,
+      "sha256": "1501785ccf40476feca4f071b2517a080ffc525c1d668201d7003d807612e7b2"
+    },
+    {
+      "path": "B10_ADOPTION_REGISTER.json",
+      "bytes": 4800,
+      "sha256": "401d921751917eaaed3b9dda7b8908a5946120b20958a0793a0c013a89eef224"
+    },
+    {
+      "path": "CHANGES_FROM_v2.1.diff",
+      "bytes": 173935,
+      "sha256": "12cdc47f6dd965e5fdd78520671e3de046f7fb16674c5828c7380059b3f23bcf"
+    },
+    {
+      "path": "CLAIM_EVIDENCE_MAP.csv",
+      "bytes": 32680,
+      "sha256": "6aeb06bf9b2b110a87673920e30cbd77c2ae7f059f2e2ce608262dabba46621b"
+    },
+    {
+      "path": "CORE_PASSAGE_RECHECK_20261017.json",
+      "bytes": 7617,
+      "sha256": "8c89437dc1576c2000e485650f57704f10d753caa1583c5dcf869995c54b8df3"
+    },
+    {
+      "path": "PREPUBLICATION_CHECK.json",
+      "bytes": 129194,
+      "sha256": "ad40821141c38c46d439cc700b60d562951e4f58aaf8bec0fe2d26fa4dbe7955"
+    },
+    {
+      "path": "README.md",
+      "bytes": 3966,
+      "sha256": "be5adff1daed6475f14ceb522566653007da9b1995197e9061cc6dff7a602d91"
+    },
+    {
+      "path": "REFERENCE_NUMBER_MAP.csv",
+      "bytes": 25227,
+      "sha256": "dbeac03459e9508954fbfe2310e89d9aeaa396956275d15a9c7e3d1e1f325afd"
+    },
+    {
+      "path": "REVIEW_CN_v2.2.md",
+      "bytes": 89514,
+      "sha256": "6e0da40ef178340b5e60c9aa9cd703531ef0a131572b7164155aa1c7c93ab50e"
+    },
+    {
+      "path": "REVISION_REGISTER_CN.json",
+      "bytes": 105678,
+      "sha256": "bad19fa9f9570a46d947334c831e7b52e68c9d65cd7deef9b8fc5a91eae2e8ba"
+    },
+    {
+      "path": "REVISION_SCOPE_AND_COUNTS.json",
+      "bytes": 1625,
+      "sha256": "f72d83cfe9890a837defea047058e94c32207048ce701cdb3c5707f87c5ffeea"
+    },
+    {
+      "path": "SOURCE_IDENTIFIERS_FOR_CHECK.json",
+      "bytes": 60349,
+      "sha256": "a5a2685b1746780611dcd0bfeba17826f96cc0540d68d3890b22ea938e6eb89b"
+    },
+    {
+      "path": "SOURCE_MANIFEST_v2.2.json",
+      "bytes": 1047296,
+      "sha256": "36932cc8f1e36f16c450b01257f758874c7784457219c2a2124067044c4accc7"
+    },
+    {
+      "path": "SUBMISSION_OPEN_ITEMS_CN.md",
+      "bytes": 4796,
+      "sha256": "5c405ca40a94e2d5db9a0a8a35afa55257c62e3d55e6cb6b79ba732047d465dc"
+    },
+    {
+      "path": "tools/verify_v22.py",
+      "bytes": 12285,
+      "sha256": "07339b6345ddfc556010e65562edbcb937a7d5dd05cc2d9854268805c79cc98d"
+    },
+    {
+      "path": "WORD_OUTPUT_RECEIPT.json",
+      "bytes": 6683,
+      "sha256": "a5a14c67e88c9f7fd10b0e599de3f6aee324e31b233da6430549f82e5cfc0253"
+    },
+    {
+      "path": "WRITING_CHECK_REPORT.json",
+      "bytes": 1002,
+      "sha256": "0e3e37263acb3160f970b402e63dc73cd80fd5c2ef7f95af8582ca27eb9519b5"
+    },
+    {
+      "path": "WRITING_QUALITY_REVIEW_CN.md",
+      "bytes": 15683,
+      "sha256": "a1a88395b506c56ffc9d8c158fffeee1cc6e4a510319ab9ee6369e4f61e76432"
+    }
+  ],
+  "external_docx_sha256": "48711d9ce1c93cfa1b48842d967db4b142e58319648e872ea04f7f6306fe5445",
+  "push_performed": false
+}
