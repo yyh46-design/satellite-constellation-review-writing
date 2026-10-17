@@ -1,0 +1,126 @@
+{
+  "schema_version": "1.0",
+  "date_client": "2026-10-17",
+  "scope": "all files in v2.3-cn except this manifest; external DOCX bound by WORD_OUTPUT_RECEIPT.json; no third-party PDF content",
+  "parent_commit": "b8b5d3a93e1f981535d27e318f4432826b9d2950",
+  "file_count": 23,
+  "files": [
+    {
+      "path": ".gitattributes",
+      "bytes": 14,
+      "sha256": "a79691a93b46e49ce460c26ef22afcc03d6eca1e63bf2edbc20e96159510f6c9"
+    },
+    {
+      "path": "ASSESSMENT_AND_NEXT_STEPS_CN.md",
+      "bytes": 2475,
+      "sha256": "7dcdb81bcd7e534abb19aba3f515016f1cce985ceb0833b21ffbb6d4bb6b1ecd"
+    },
+    {
+      "path": "assets/fig1_cn.svg",
+      "bytes": 5937,
+      "sha256": "cd414ed49e76f98a3d757683c953dec1170d88b965126e62a49df6197ae0610f"
+    },
+    {
+      "path": "assets/fig2_cn.svg",
+      "bytes": 3906,
+      "sha256": "856b375b4f65bfa6fbc73b24258cda48978652b32179a0335e5f22aee86a1770"
+    },
+    {
+      "path": "CHANGES_FROM_v2.2.diff",
+      "bytes": 114996,
+      "sha256": "3fd9dc19f2c3443b5140a2c03e19c809157b18dd7b8998112b408ccca6dfaf04"
+    },
+    {
+      "path": "CJA_STYLE_STATUS.md",
+      "bytes": 1499,
+      "sha256": "aa6e355ff3921eef0cd9bee3f9044fd6a89e2ac45a71bba25ea7105311080450"
+    },
+    {
+      "path": "CLAIM_EVIDENCE_MAP.csv",
+      "bytes": 32504,
+      "sha256": "ff818b20ac5611cdba70142489380cbc1f6fb082cc93f6edb707b7c6c80d56ee"
+    },
+    {
+      "path": "NUMERIC_FACT_REGISTER.csv",
+      "bytes": 831,
+      "sha256": "78ac799147f3f8b72d2a620c51c32b10e161f3bff128ca4e1bd675cc84ae235b"
+    },
+    {
+      "path": "PREPUBLICATION_CHECK.json",
+      "bytes": 132474,
+      "sha256": "6a71b788c7dfc76200809a54706bce8477427ab7d8699e66aa4087020e4e9f53"
+    },
+    {
+      "path": "README.md",
+      "bytes": 2902,
+      "sha256": "da035492cabddd0aeb0bcc33d8866f2ad32ce33580eaebd01c3b5539555616a2"
+    },
+    {
+      "path": "REFERENCE_NUMBER_MAP.csv",
+      "bytes": 25227,
+      "sha256": "b55b5f835a9e62807e863d1bbe0fdd6c149bb773a199a4d3105593a2119888f2"
+    },
+    {
+      "path": "REVIEW_CN_v2.3.md",
+      "bytes": 92913,
+      "sha256": "5c48f9ec610885b49a7037c535412167e057e455d6d80442864bff6a8176c177"
+    },
+    {
+      "path": "REVISION_REGISTER_CN.json",
+      "bytes": 41770,
+      "sha256": "79ab9a72d0e3e659f9905cf96e094a4a879baadf199dbdb378de770b22af1466"
+    },
+    {
+      "path": "REVISION_SCOPE_AND_COUNTS.json",
+      "bytes": 908,
+      "sha256": "14ef751918c24cfffda4410d0da857c05dd515a01d89c66a00a1caaa2f233731"
+    },
+    {
+      "path": "SOURCE_IDENTIFIERS_FOR_CHECK.json",
+      "bytes": 60349,
+      "sha256": "a5a2685b1746780611dcd0bfeba17826f96cc0540d68d3890b22ea938e6eb89b"
+    },
+    {
+      "path": "SOURCE_MANIFEST_v2.3.json",
+      "bytes": 1050147,
+      "sha256": "558d0f5a8eb0c51ee8b44bb5ca7d2ec3e139ee4977205af0f73d7ff059d62831"
+    },
+    {
+      "path": "SUBMISSION_OPEN_ITEMS_CN.md",
+      "bytes": 5055,
+      "sha256": "6831693079a3c97d87bdaaa90750a435cfce090567be563b1cde3fbdff8e947a"
+    },
+    {
+      "path": "SYNTHESIS_EVIDENCE_MATRIX.csv",
+      "bytes": 1202,
+      "sha256": "d4233b0aaccda4919db694fdd8dd94ce91227a5ff79f915fe30c860dfed7b3c7"
+    },
+    {
+      "path": "TARGETED_RECHECK_20261017.json",
+      "bytes": 17682,
+      "sha256": "9578d4cd3161ebde1de62503b5c2910d4cf0738f19d8a6da8608b6335c6e9ff0"
+    },
+    {
+      "path": "tools/verify_v23.py",
+      "bytes": 12419,
+      "sha256": "4292d7e35758537a0614a316015d3374b56981dabfc4e150a7161961268cc3eb"
+    },
+    {
+      "path": "WORD_OUTPUT_RECEIPT.json",
+      "bytes": 2633,
+      "sha256": "7c3d8dc2e74d7796e8d5971d19daaee2626c42a149059cc156fe8b02e2a8f168"
+    },
+    {
+      "path": "WRITING_CHECK_REPORT.json",
+      "bytes": 1546,
+      "sha256": "49a14c6f1b6703dcc1a88a683083bfb0812873b689c4d7741ad99298214333b3"
+    },
+    {
+      "path": "WRITING_QUALITY_REVIEW_CN.md",
+      "bytes": 1417,
+      "sha256": "98395bc8fe5129dcd12af73c714565f64b36b4bf45c357520b130f0a59117938"
+    }
+  ],
+  "human_verified": false,
+  "submission_ready": false
+}

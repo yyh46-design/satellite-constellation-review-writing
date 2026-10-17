@@ -1,0 +1,328 @@
+{
+  "date_client": "2026-10-17",
+  "scope": "九篇已有正文阅读来源的定向段落复核；11个实际页面视觉复核；不是新一轮完整精读，也不关闭正式版差异。",
+  "records": [
+    {
+      "stable_source_key": 9,
+      "path": "D:\\SKT727\\materials\\constellation_review_v2_3_20261017\\source_009.pdf",
+      "pdf_pages": 41,
+      "bytes": 1751177,
+      "sha256": "139b093fd3e1924aead1b2bcebca92fc6615f9ff1d3b268df27f63df419950a4",
+      "text_file": "D:\\SKT727\\materials\\constellation_review_v2_3_20261017\\source_009_pages.json",
+      "identity_head": "Academic Editor: Sotirios K. Goudos Received: 29 May 2025 Revised: 10 July 2025 Accepted: 17 July 2025 Published: 22 July 2025 Citation: Singla, A.; Criscola, F.; Canales, D.; Fraire, J.A.; Calveras, A.; Ruiz-de-Azua, J.A. Toward ",
+      "evidence_id": "E009",
+      "current_reference": 9,
+      "title": "Toward Integrated Satellite Operations and Network Management: A Review and Novel Framework",
+      "doi": "10.3390/technologies13080312",
+      "version_identity": "UPC机构仓储提供的MDPI出版社排版PDF（41页）；本轮不以获取或版式代替人工终核",
+      "text_passages_actually_reviewed": "physical pp.20–22, §4 and architecture cases",
+      "reviewed_conclusion_and_boundary": "架构已讨论运行交互；本文细化决策解释，不宣称首次。",
+      "visual_pages": [
+        {
+          "stable_source_key": 9,
+          "physical_page": 20,
+          "png": "D:\\SKT727\\materials\\constellation_review_v2_3_20261017\\source_pages\\E009_p20.png",
+          "png_sha256": "e36421049f25d95be55f3648e529870bc94a1743623f168bce1938c61b3859a9",
+          "rendered": true,
+          "actual_visual_review": true,
+          "human_verified": false,
+          "reviewer": "AI"
+        }
+      ],
+      "whole_paper_new_reading": false,
+      "human_verified": false,
+      "formal_version_pair_closed": false
+    },
+    {
+      "stable_source_key": 34,
+      "path": "D:\\SKT727\\materials\\constellation_review_B02_20261015\\034_jpl_author.pdf",
+      "pdf_pages": 15,
+      "bytes": 2236393,
+      "sha256": "8b0af8efb6e3f61428dd1a59b24c6d914f6db52d8dd48e03c7120e7c0a7593f9",
+      "text_file": "D:\\SKT727\\materials\\constellation_review_v2_3_20261017\\source_034_pages.json",
+      "identity_head": "Decentralized Observation Allocation for a Large-Scale Constellation Shreya Parjan∗ and Steve A. Chien † Jet Propulsion Laboratory, California Institute of Technology, Pasadena, California 91109-8099 https://doi.org/10.2514/1.I011",
+      "evidence_id": "E034",
+      "current_reference": 14,
+      "title": "Decentralized Observation Allocation for a Large-Scale Constellation",
+      "doi": "10.2514/1.I011215",
+      "version_identity": "JPL作者机构公开PDF（15页，期刊版式）；本轮未作正式全文逐段配对",
+      "text_passages_actually_reviewed": "physical pp.7 and 10, Algorithm 6, §V",
+      "reviewed_conclusion_and_boundary": "移除撤回请求、安排新激活请求；单线程与并行估算不同。",
+      "visual_pages": [
+        {
+          "stable_source_key": 34,
+          "physical_page": 10,
+          "png": "D:\\SKT727\\materials\\constellation_review_v2_3_20261017\\source_pages\\E034_p10.png",
+          "png_sha256": "6af03c7891ddd29f85a3fee91e1f402ab21380e1ffcf11d09aeee59f1ec23df5",
+          "rendered": true,
+          "actual_visual_review": true,
+          "human_verified": false,
+          "reviewer": "AI"
+        }
+      ],
+      "whole_paper_new_reading": false,
+      "human_verified": false,
+      "formal_version_pair_closed": false
+    },
+    {
+      "stable_source_key": 42,
+      "path": "D:\\SKT727\\materials\\constellation_review_B00_20261014\\042_utoronto_author.pdf",
+      "pdf_pages": 15,
+      "bytes": 1475988,
+      "sha256": "e1db3270d5e8487b7ce6c88ae1baec1463508f7e7ec3532806a06c271dee9ab1",
+      "text_file": "D:\\SKT727\\materials\\constellation_review_v2_3_20261017\\source_042_pages.json",
+      "identity_head": "1 Joint Observation and Transmission Scheduling in Agile Satellite Networks Lijun He, Ben Liang, Fellow, IEEE, Jiandong Li, Fellow, IEEE, and Min Sheng, Senior Member, IEEE Abstract—Compared with traditional observation satellites",
+      "evidence_id": "E042",
+      "current_reference": 16,
+      "title": "Joint Observation and Transmission Scheduling in Agile Satellite Networks",
+      "doi": "10.1109/TMC.2021.3076088",
+      "version_identity": "University of Toronto作者公开稿（15页）；正式出版版差异未关闭",
+      "text_passages_actually_reviewed": "physical pp.6–8, 10–11, §4.2 and Algorithm 3",
+      "reviewed_conclusion_and_boundary": "GA窗口关联、下层松弛和可行性恢复；正式版差异未关闭。",
+      "visual_pages": [
+        {
+          "stable_source_key": 42,
+          "physical_page": 11,
+          "png": "D:\\SKT727\\materials\\constellation_review_v2_3_20261017\\source_pages\\E042_p11.png",
+          "png_sha256": "ead8a5a566d9f2fd11e551bff811f7747c9a189637849c28ea5f0f7a1c691458",
+          "rendered": true,
+          "actual_visual_review": true,
+          "human_verified": false,
+          "reviewer": "AI"
+        }
+      ],
+      "whole_paper_new_reading": false,
+      "human_verified": false,
+      "formal_version_pair_closed": false
+    },
+    {
+      "stable_source_key": 44,
+      "path": "D:\\SKT727\\materials\\constellation_review_B00_20261014\\044_cirrelt_working_paper.pdf",
+      "pdf_pages": 31,
+      "bytes": 1310061,
+      "sha256": "eca7b13c016546f428dccec10b6db85da51f7b9fd5d288d48e604c7a872ae855",
+      "text_file": "D:\\SKT727\\materials\\constellation_review_v2_3_20261017\\source_044_pages.json",
+      "identity_head": "CIRRELT-2024-28 Th e Integrated Agile Earth Observation Satellite Scheduling Problem Yure Rocha Gu lherme O. Chagas L eandro C. Coelho Anand Subramanian A ugust 2024 Document de travail également publié par la Faculté des sciences",
+      "evidence_id": "E044",
+      "current_reference": 17,
+      "title": "The integrated agile Earth observation satellite scheduling problem",
+      "doi": "10.1016/j.cor.2025.107212",
+      "version_identity": "CIRRELT机构工作论文（31页）；不是正式出版版核对完成",
+      "text_passages_actually_reviewed": "physical pp.11, 16–18, objective and graph/MIP methods",
+      "reviewed_conclusion_and_boundary": "图缩减有分组和切换前提；保守简化可丢失可行序列。",
+      "visual_pages": [
+        {
+          "stable_source_key": 44,
+          "physical_page": 16,
+          "png": "D:\\SKT727\\materials\\constellation_review_v2_3_20261017\\source_pages\\E044_p16.png",
+          "png_sha256": "f962c8f3d845bfb56390c06fd00850c36358253a727f37fa3e79577ef709dbdd",
+          "rendered": true,
+          "actual_visual_review": true,
+          "human_verified": false,
+          "reviewer": "AI"
+        }
+      ],
+      "whole_paper_new_reading": false,
+      "human_verified": false,
+      "formal_version_pair_closed": false
+    },
+    {
+      "stable_source_key": 53,
+      "path": "D:\\SKT727\\materials\\constellation_review_B00_20261014\\053_arxiv_v1_complete.pdf",
+      "pdf_pages": 25,
+      "bytes": 2061414,
+      "sha256": "b18022c2b14b5c9931fea8192e76751c0899e9f472d90e7d899f46732aba4749",
+      "text_file": "D:\\SKT727\\materials\\constellation_review_v2_3_20261017\\source_053_pages.json",
+      "identity_head": "Draft Edge Intelligence for Satellite-based Earth Observation: Scheduling Image Acquisition and Processing Beatriz Soret, Antonio M. Mercado-Mart´ ınez, Antonio Jurado-Navas, Nicolai D. Lyholm, Marco Moretti, Petar Popovski, and I",
+      "evidence_id": "E053",
+      "current_reference": 47,
+      "title": "Edge Intelligence for Satellite-Based Earth Observation: Scheduling Image Acquisition and Processing",
+      "doi": "10.1002/sat.70082",
+      "version_identity": "arXiv v1作者预印本（25页）；正式出版版差异未关闭",
+      "text_passages_actually_reviewed": "physical pp.12–16, §4.1–4.2 and §5",
+      "reviewed_conclusion_and_boundary": "固定采集后，给定负载求频率并凸化；平均约束及稳定链路。",
+      "visual_pages": [
+        {
+          "stable_source_key": 53,
+          "physical_page": 14,
+          "png": "D:\\SKT727\\materials\\constellation_review_v2_3_20261017\\source_pages\\E053_p14.png",
+          "png_sha256": "a47545a3a20958e59f752269950c63d08bcc4617eab06124a61ca47cf7cfd24d",
+          "rendered": true,
+          "actual_visual_review": true,
+          "human_verified": false,
+          "reviewer": "AI"
+        },
+        {
+          "stable_source_key": 53,
+          "physical_page": 15,
+          "png": "D:\\SKT727\\materials\\constellation_review_v2_3_20261017\\source_pages\\E053_p15.png",
+          "png_sha256": "fe7fc0ea87ac4a588c147f2ed072d70c416cbbdb5dee3f6e98037545500281db",
+          "rendered": true,
+          "actual_visual_review": true,
+          "human_verified": false,
+          "reviewer": "AI"
+        }
+      ],
+      "whole_paper_new_reading": false,
+      "human_verified": false,
+      "formal_version_pair_closed": false
+    },
+    {
+      "stable_source_key": 65,
+      "path": "D:\\SKT727\\materials\\constellation_review_B02_20261015\\065_faculty_author.pdf",
+      "pdf_pages": 19,
+      "bytes": 1556999,
+      "sha256": "84ec30992797d7ce9d0661dc53534413631561226eccad20a85dfe3fee7ff510",
+      "text_file": "D:\\SKT727\\materials\\constellation_review_v2_3_20261017\\source_065_pages.json",
+      "identity_head": "Single-Agent Reinforcement Learning for Scalable Earth-Observing Satellite Constellation Operations Adam Herrmann,∗ Mark A. Stephenson, † and Hanspeter Schaub ‡ University of Colorado, Boulder, Colorado 80303 https://doi.org/10.25",
+      "evidence_id": "E065",
+      "current_reference": 54,
+      "title": "Single-Agent Reinforcement Learning for Scalable Earth-Observing Satellite Constellation Operations",
+      "doi": "10.2514/1.A35736",
+      "version_identity": "作者机构网站公开PDF（19页，期刊版式）；本轮未核定与正式版完全相同",
+      "text_passages_actually_reviewed": "physical pp.7 and 11, communication definition and §IV.B",
+      "reviewed_conclusion_and_boundary": "传播完成状态；计时以目标可见区间已预计算为前提；两端点双因素变化。",
+      "visual_pages": [
+        {
+          "stable_source_key": 65,
+          "physical_page": 11,
+          "png": "D:\\SKT727\\materials\\constellation_review_v2_3_20261017\\source_pages\\E065_p11.png",
+          "png_sha256": "c1ae278239e045c737292a5e8b4117446a1fe20eb77a61b9962d3c6ec1ba3727",
+          "rendered": true,
+          "actual_visual_review": true,
+          "human_verified": false,
+          "reviewer": "AI"
+        }
+      ],
+      "whole_paper_new_reading": false,
+      "human_verified": false,
+      "formal_version_pair_closed": false
+    },
+    {
+      "stable_source_key": 106,
+      "path": "D:\\SKT727\\materials\\constellation_review_v2_3_20261017\\source_106.pdf",
+      "pdf_pages": 13,
+      "bytes": 1469951,
+      "sha256": "121eb23d16d69eaeaafbca36ce20fa6504600a118db8234e2dbcdceb9f96140d",
+      "text_file": "D:\\SKT727\\materials\\constellation_review_v2_3_20261017\\source_106_pages.json",
+      "identity_head": "Ad Hoc Networks 151 (2023) 103289 Available online 6 September 2023 1570-8705/© 2023 The Authors. Published by Elsevier B.V. This is an open access article under the CC BY license ( http://creativecommons.org/licenses/by/4.0/). A ",
+      "evidence_id": "E106",
+      "current_reference": 11,
+      "title": "A delay-tolerant network approach to satellite pickup and delivery scheduling",
+      "doi": "10.1016/j.adhoc.2023.103289",
+      "version_identity": "Strathprints机构仓储的出版社排版PDF（13页，Ad Hoc Networks 151, 103289）；本轮以该文件核对",
+      "text_passages_actually_reviewed": "physical pp.7–8, §4 and §5.1–5.2",
+      "reviewed_conclusion_and_boundary": "检验交付容量后选节点；MSR/CGR局部路由保留分配；能源与存储无限。",
+      "visual_pages": [
+        {
+          "stable_source_key": 106,
+          "physical_page": 7,
+          "png": "D:\\SKT727\\materials\\constellation_review_v2_3_20261017\\source_pages\\E106_p07.png",
+          "png_sha256": "e96fcf37994209b9b9646406e1f832de28cb786dd7ab88ca07ed0465e850d518",
+          "rendered": true,
+          "actual_visual_review": true,
+          "human_verified": false,
+          "reviewer": "AI"
+        }
+      ],
+      "whole_paper_new_reading": false,
+      "human_verified": false,
+      "formal_version_pair_closed": false
+    },
+    {
+      "stable_source_key": 121,
+      "path": "D:\\SKT727\\materials\\constellation_review_B00_20261014\\121_arxiv_v1_complete.pdf",
+      "pdf_pages": 17,
+      "bytes": 7552596,
+      "sha256": "9c64779192379dc60f8ff79b896ca429b0b63f4f78e2792576729f0226ce032e",
+      "text_file": "D:\\SKT727\\materials\\constellation_review_v2_3_20261017\\source_121_pages.json",
+      "identity_head": "On-Demand Routing in LEO Mega-Constellations with Dynamic Laser Inter-Satellite Links DHIRAJ BHATTACHARJEE, Member, IEEE PABLO G. MADOERY , Senior Member, IEEE AIZAZ U. CHAUDHRY, Senior Member, IEEE HALIM YANIKOMEROGLU, Fellow, IE",
+      "evidence_id": "E121",
+      "current_reference": 12,
+      "title": "On-Demand Routing in LEO Mega-Constellations With Dynamic Laser Inter-Satellite Links",
+      "doi": "10.1109/TAES.2024.3415571",
+      "version_identity": "arXiv v1完整作者预印本（17页）；正式出版版差异未关闭",
+      "text_passages_actually_reviewed": "physical pp.6–7, 10, 12–13, §III–V",
+      "reviewed_conclusion_and_boundary": "建链代价与路径稳定权衡；性能和裁边计时阈值不同；v1非正式版对照。",
+      "visual_pages": [
+        {
+          "stable_source_key": 121,
+          "physical_page": 10,
+          "png": "D:\\SKT727\\materials\\constellation_review_v2_3_20261017\\source_pages\\E121_p10.png",
+          "png_sha256": "84b4330c37c539fe46269a38493204a16c52bfd9176b2642df94671130638a7c",
+          "rendered": true,
+          "actual_visual_review": true,
+          "human_verified": false,
+          "reviewer": "AI"
+        },
+        {
+          "stable_source_key": 121,
+          "physical_page": 13,
+          "png": "D:\\SKT727\\materials\\constellation_review_v2_3_20261017\\source_pages\\E121_p13.png",
+          "png_sha256": "812e03fda3761295e189f5ce84eb2fd79d0ff1d18634c1d661a7b13ebf268cf2",
+          "rendered": true,
+          "actual_visual_review": true,
+          "human_verified": false,
+          "reviewer": "AI"
+        }
+      ],
+      "whole_paper_new_reading": false,
+      "human_verified": false,
+      "formal_version_pair_closed": false
+    },
+    {
+      "stable_source_key": 125,
+      "path": "D:\\SKT727\\materials\\constellation_review_B10_20261016\\ALT06_paper.pdf",
+      "pdf_pages": 8,
+      "bytes": 9472424,
+      "sha256": "a29906de72db5fab66bb7570b2a1d15411cd69156522b7ff6a5b57ca7d20f8c1",
+      "text_file": "D:\\SKT727\\materials\\constellation_review_v2_3_20261017\\source_125_pages.json",
+      "identity_head": "Using ground relays for low-latency wide-area routing in megaconstellations Mark Handley , University College London ABSTRACT Large low earth orbit satellite constellations have the po- tential to provide global high-capacity low-",
+      "evidence_id": "E125",
+      "current_reference": 64,
+      "title": "Using ground relays for low-latency wide-area routing in megaconstellations",
+      "doi": "10.1145/3365609.3365859",
+      "version_identity": "UCL机构接受稿（8页）；未与正式版逐段配对",
+      "text_passages_actually_reviewed": "physical p.5, §3 and §3.1",
+      "reviewed_conclusion_and_boundary": "分块、保留图及边权更新降低重复构图负担；特定历史CPU算例。",
+      "visual_pages": [
+        {
+          "stable_source_key": 125,
+          "physical_page": 5,
+          "png": "D:\\SKT727\\materials\\constellation_review_v2_3_20261017\\source_pages\\E125_p05.png",
+          "png_sha256": "6c2a2c25d1c3e10cd5b507421a3c5bb39438d43b1c071798e0c21b1bae41ffb1",
+          "rendered": true,
+          "actual_visual_review": true,
+          "human_verified": false,
+          "reviewer": "AI"
+        }
+      ],
+      "whole_paper_new_reading": false,
+      "human_verified": false,
+      "formal_version_pair_closed": false
+    }
+  ],
+  "access": [
+    {
+      "stable_source_key": 9,
+      "url": "https://upcommons.upc.edu/server/api/core/bitstreams/58ce59c0-e22b-4971-a786-e57c8773f919/content",
+      "date_client": "2026-10-17",
+      "access_bypass": false,
+      "status": 200,
+      "final_url": "https://upcommons.upc.edu/server/api/core/bitstreams/58ce59c0-e22b-4971-a786-e57c8773f919/content",
+      "path": "D:\\SKT727\\materials\\constellation_review_v2_3_20261017\\source_009.pdf"
+    },
+    {
+      "stable_source_key": 106,
+      "url": "https://strathprints.strath.ac.uk/86667/7/Lowe_etal_AHN_2023_A_delay_tolerant_network_approach_to_satellite_pickup_and_delivery_scheduling.pdf",
+      "date_client": "2026-10-17",
+      "access_bypass": false,
+      "status": 200,
+      "final_url": "https://strathprints.strath.ac.uk/86667/7/Lowe_etal_AHN_2023_A_delay_tolerant_network_approach_to_satellite_pickup_and_delivery_scheduling.pdf",
+      "path": "D:\\SKT727\\materials\\constellation_review_v2_3_20261017\\source_106.pdf"
+    }
+  ],
+  "new_paper_readings": 0,
+  "formal_version_pairs_closed": 0,
+  "human_verified": false
+}

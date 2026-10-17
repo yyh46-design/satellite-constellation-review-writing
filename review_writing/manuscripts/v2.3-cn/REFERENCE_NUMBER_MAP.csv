@@ -1,0 +1,129 @@
+﻿稳定来源键,原v2.1编号,B10候选ID,新v2.3编号,处置,题名,DOI,理由,原全文缺口关闭,人工终核
+1,1,,1,纳入,Towards the automated operations of large distributed satellite systems. Part 1: Review and paradigm shifts,10.1016/j.asr.2020.08.009,已核读正文/官方工程资料，按实际范围使用,False,False
+2,2,,2,纳入,Space Logistics Modeling and Optimization: Review of the State of the Art,10.2514/1.A35982,已核读正文/官方工程资料，按实际范围使用,False,False
+3,3,,3,纳入,"Agile Earth Observation Satellite Scheduling Over 20 Years: Formulations, Methods, and Future Directions",10.1109/JSYST.2020.2997050,已核读正文/官方工程资料，按实际范围使用,False,False
+4,4,,4,纳入,Satellite Scheduling Problems: A survey of applications in Earth and outer space observation,10.1016/j.cor.2024.106875,已核读正文/官方工程资料，按实际范围使用,False,False
+5,5,,5,纳入,"Agent-based approaches for distributed space systems and mission management: Methodologies, current practices and challenges",10.1016/j.actaastro.2025.10.018,已核读正文/官方工程资料，按实际范围使用,False,False
+6,6,,6,纳入,Towards the automated operations of large distributed satellite systems. Part 2: Classifications and tools,10.1016/j.asr.2020.08.018,已核读正文/官方工程资料，按实际范围使用,False,False
+7,7,,7,纳入,低轨巨型星座智能组网技术综述,10.7527/S1000-6893.2026.32935,已核读正文/官方工程资料，按实际范围使用,False,False
+8,8,,8,纳入,低轨通信卫星星座网络资源管控与优化技术综述,10.3873/j.issn.1000-1328.2026.02.002,已核读正文/官方工程资料，按实际范围使用,False,False
+9,9,,9,纳入,Toward Integrated Satellite Operations and Network Management: A Review and Novel Framework,10.3390/technologies13080312,已核读正文/官方工程资料，按实际范围使用,False,False
+10,10,,13,纳入,"Dynamic Management Topology Construction, Evolution, and Maintenance of Low Earth Orbit Mega-Constellation",10.34133/space.0248,已核读正文/官方工程资料，按实际范围使用,False,False
+11,11,,18,纳入,Optimization of satellite constellation reconfiguration maneuvers,10.1016/j.actaastro.2014.02.016,已核读正文/官方工程资料，按实际范围使用,False,False
+12,12,,19,纳入,Regional Constellation Reconfiguration Problem: Integer Linear Programming Formulation and Lagrangian Heuristic Method,10.2514/1.A35685,已核读正文/官方工程资料，按实际范围使用,False,False
+13,13,,20,纳入,Deterministic Multistage Constellation Reconfiguration Using Integer Programming and Sequential Decision-Making Methods,10.2514/1.A35990,已核读正文/官方工程资料，按实际范围使用,False,False
+14,14,,21,纳入,Satellite Constellation Pattern Optimization for Complex Regional Coverage,10.2514/1.A34657,已核读正文/官方工程资料，按实际范围使用,False,False
+15,15,,22,纳入,Optimization of satellite constellation deployment strategy considering uncertain areas of interest,10.1016/j.actaastro.2018.03.054,已核读正文/官方工程资料，按实际范围使用,False,False
+16,16,,23,纳入,Two-Stage Framework for Deployment-Aware Optimization of Satellite Constellation Pattern Design,10.1007/s42405-026-01298-1,已核读正文/官方工程资料，按实际范围使用,False,False
+17,17,,24,纳入,Joint satellite platform and constellation sizing for instantaneous beam-hopping in 5G/6G Non-Terrestrial Networks,10.1016/j.comnet.2024.110942,已核读正文/官方工程资料，按实际范围使用,False,False
+18,18,,25,纳入,Optimal Satellite Constellation Spare Strategy Using Multi-Echelon Inventory Control,10.2514/1.A34387,已核读正文/官方工程资料，按实际范围使用,False,False
+19,19,,26,纳入,Replenishment Strategy for Satellite Constellation with Dual Supply Modes,10.2514/1.A36281,已核读正文/官方工程资料，按实际范围使用,False,False
+20,20,,27,纳入,Spare Strategy Analysis and Design for Mega Satellite Constellations Using Markov Chain,10.2514/1.A36599,已核读正文/官方工程资料，按实际范围使用,False,False
+21,21,,28,纳入,Spare strategy for large-scale satellite constellations under dual resupply channels using Markov chain,10.1016/j.actaastro.2026.06.020,已核读正文/官方工程资料，按实际范围使用,False,False
+22,22,,30,纳入,Iridium Adds to Constellation Resilience with Launch of Spare Satellites,,已核读正文/官方工程资料，按实际范围使用,False,False
+23,23,,29,纳入,On-Orbit Servicing-Integrated Maintenance Strategy for a Satellite Constellation,10.2514/1.A36684,已核读正文/官方工程资料，按实际范围使用,False,False
+24,24,,31,纳入,Orbital Facility Location Problem for Satellite Constellation Servicing Depots,10.2514/1.A35691,已核读正文/官方工程资料，按实际范围使用,False,False
+25,25,,32,纳入,Orbital Depot Location Optimization for Satellite Constellation Servicing with Low-Thrust Transfers,10.2514/1.A36386,已核读正文/官方工程资料，按实际范围使用,False,False
+26,26,,33,纳入,Deployment of On-Orbit Service Vehicles Using a Fuzzy Adaptive Particle Swarm Optimization Algorithm,10.1155/2021/6644339,已核读正文/官方工程资料，按实际范围使用,False,False
+27,27,,34,纳入,Framework for Modeling and Optimization of On-Orbit Servicing Operations Under Demand Uncertainties,10.2514/1.A34978,已核读正文/官方工程资料，按实际范围使用,False,False
+28,28,,35,纳入,On-Orbit Servicing Optimization Framework with High- and Low-Thrust Propulsion Tradeoff,10.2514/1.A35094,已核读正文/官方工程资料，按实际范围使用,False,False
+29,29,,,撤下,On-orbit servicing system assessment and optimization methods based on lifecycle simulation under mixed aleatory and epistemic uncertainties,10.1016/j.actaastro.2013.02.005,无定向正文核读记录，本版不承担论述,False,False
+30,30,,36,纳入,Selecting and scheduling observations of agile satellites,10.1016/S1270-9638(02)01173-2,已核读正文/官方工程资料，按实际范围使用,False,False
+31,31,,,撤下,A Generic Markov Decision Process Model and Reinforcement Learning Method for Scheduling Agile Earth Observation Satellites,10.1109/TSMC.2020.3020732,无定向正文核读记录，本版不承担论述,False,False
+32,32,,,撤下,A decompose-and-learn multi-objective algorithm for scheduling large-scale earth observation satellites,10.1016/j.swevo.2024.101792,无定向正文核读记录，本版不承担论述,False,False
+33,33,,,撤下,A branch-and-price algorithm for energy aware task scheduling of constellations of nanosatellites,10.1016/j.cor.2025.107259,无定向正文核读记录，本版不承担论述,False,False
+34,34,,14,纳入,Decentralized Observation Allocation for a Large-Scale Constellation,10.2514/1.I011215,已核读正文/官方工程资料，按实际范围使用,False,False
+35,35,,15,纳入,"Decentralized, Decomposition-Based Observation Scheduling for a Large-Scale Satellite Constellation",10.1613/jair.1.16997,已核读正文/官方工程资料，按实际范围使用,False,False
+36,36,,38,纳入,Scheduling of Earth observing satellites using distributed constraint optimization,10.1007/s10951-024-00816-x,已核读正文/官方工程资料，按实际范围使用,False,False
+37,37,,39,纳入,Consensus-Based Decentralized Auctions for Robust Task Allocation,10.1109/TRO.2009.2022423,已核读正文/官方工程资料，按实际范围使用,False,False
+38,38,,,撤下,Online scheduling of distributed Earth observation satellite system under rigid communication constraints,10.1016/j.asr.2020.02.018,无定向正文核读记录，本版不承担论述,False,False
+39,39,,40,纳入,Distributed cooperative task planning algorithm for multiple satellites in delayed communication environment,10.1109/JSEE.2016.00066,已核读正文/官方工程资料，按实际范围使用,False,False
+40,40,,,撤下,Onboard coordination and scheduling of multiple autonomous satellites in an uncertain environment,10.1016/j.asr.2021.09.003,无定向正文核读记录，本版不承担论述,False,False
+41,41,,41,纳入,Asynchronous Communication Aware Multi-Agent Task Allocation,10.24963/ijcai.2023/30,已核读正文/官方工程资料，按实际范围使用,False,False
+42,42,,16,纳入,Joint Observation and Transmission Scheduling in Agile Satellite Networks,10.1109/TMC.2021.3076088,已核读正文/官方工程资料，按实际范围使用,False,False
+43,43,,,撤下,Joint observation and transmission scheduling of multiple agile satellites with energy constraint using improved ACO algorithm,10.1016/j.actaastro.2025.02.008,无定向正文核读记录，本版不承担论述,False,False
+44,44,,17,纳入,The integrated agile Earth observation satellite scheduling problem,10.1016/j.cor.2025.107212,已核读正文/官方工程资料，按实际范围使用,False,False
+45,45,,,撤下,Tip-and-cue mission scheduling in heterogeneous satellite constellations using mixed-integer linear programming,10.1016/j.actaastro.2026.04.059,无定向正文核读记录，本版不承担论述,False,False
+46,46,,,撤下,"Optimization-based scheduling for the single-satellite, multi-ground station communication problem",10.1016/j.cor.2014.11.004,无定向正文核读记录，本版不承担论述,False,False
+47,47,,42,纳入,Scheduling Space–Ground Communications for the Air Force Satellite Control Network,10.1023/B:JOSH.0000013053.32600.3c,已核读正文/官方工程资料，按实际范围使用,False,False
+48,48,,43,纳入,Satellite downlink scheduling problem: A case study,10.1016/j.omega.2015.01.001,已核读正文/官方工程资料，按实际范围使用,False,False
+49,49,,44,纳入,Deep Space Network Scheduling via Mixed-Integer Linear Programming,10.1109/ACCESS.2021.3064928,已核读正文/官方工程资料，按实际范围使用,False,False
+50,50,,45,纳入,Automated Scheduling for NASA's Deep Space Network,10.1609/aimag.v35i4.2552,已核读正文/官方工程资料，按实际范围使用,False,False
+51,51,,46,纳入,Tasking API,,已核读正文/官方工程资料，按实际范围使用,False,False
+52,52,,10,纳入,Work with contacts,,已核读正文/官方工程资料，按实际范围使用,False,False
+53,53,,47,纳入,Edge Intelligence for Satellite-Based Earth Observation: Scheduling Image Acquisition and Processing,10.1002/sat.70082,已核读正文/官方工程资料，按实际范围使用,False,False
+54,54,,,撤下,Deep Multiagent Reinforcement Learning for Task Offloading and Resource Allocation in Satellite Edge Computing,10.1109/JIOT.2024.3482290,无定向正文核读记录，本版不承担论述,False,False
+55,55,,,撤下,Multi-agent reinforcement learning based computation offloading and resource allocation for LEO Satellite edge computing networks,10.1016/j.comcom.2024.05.008,无定向正文核读记录，本版不承担论述,False,False
+56,56,,,撤下,Satellite Edge Intelligence: DRL-Based Resource Management for Task Inference in LEO-Based Satellite-Ground Collaborative Networks,10.1109/TMC.2025.3570799,无定向正文核读记录，本版不承担论述,False,False
+57,57,,48,纳入,Orbit-aware task scheduling in satellite edge computing,10.1007/s10586-025-05663-9,已核读正文/官方工程资料，按实际范围使用,False,False
+58,58,,49,纳入,Kodan: Addressing the Computational Bottleneck in Space,10.1145/3582016.3582043,已核读正文/官方工程资料，按实际范围使用,False,False
+59,59,,,撤下,Lagrangian hierarchical mixed-integer programming for ultra-large-scale satellite scheduling under dynamic task delivery,10.1016/j.asr.2025.12.008,无定向正文核读记录，本版不承担论述,False,False
+60,60,,,撤下,A pure proactive scheduling algorithm for multiple earth observation satellites under uncertainties of clouds,10.1016/j.cor.2016.04.014,无定向正文核读记录，本版不承担论述,False,False
+61,61,,51,纳入,Robust Earth Observation Satellite Scheduling With Uncertainty of Cloud Coverage,10.1109/TAES.2019.2947978,已核读正文/官方工程资料，按实际范围使用,False,False
+62,62,,52,纳入,Mixed-integer programming models for optimal constellation scheduling given cloud cover uncertainty,10.1016/j.ejor.2018.11.043,已核读正文/官方工程资料，按实际范围使用,False,False
+63,63,,,撤下,Deep reinforcement learning-assisted large neighborhood search for online scheduling large-scale emergency tasks to Earth-observing satellites,10.1016/j.eswa.2025.128502,无定向正文核读记录，本版不承担论述,False,False
+64,64,,,撤下,Dynamic task scheduling optimization by rolling horizon deep reinforcement learning for distributed satellite system,10.1016/j.eswa.2025.128350,无定向正文核读记录，本版不承担论述,False,False
+65,65,,54,纳入,Single-Agent Reinforcement Learning for Scalable Earth-Observing Satellite Constellation Operations,10.2514/1.A35736,已核读正文/官方工程资料，按实际范围使用,False,False
+66,66,,55,纳入,A comparative analysis of reinforcement learning algorithms for earth-observing satellite scheduling,10.3389/frspt.2023.1263489,已核读正文/官方工程资料，按实际范围使用,False,False
+67,67,,,撤下,Multi-orbit routing and scheduling of refuellable on-orbit servicing space robots,10.1016/j.cie.2022.108852,无定向正文核读记录，本版不承担论述,False,False
+68,68,,,撤下,On-orbit refueling robust mission scheduling with uncertain duration for geosynchronous orbit spacecraft,10.1016/j.cja.2025.103774,无定向正文核读记录，本版不承担论述,False,False
+69,69,,,撤下,Mission planning for on-orbit servicing through multiple servicing satellites: A new approach,10.1016/j.asr.2017.05.037,无定向正文核读记录，本版不承担论述,False,False
+70,70,,,撤下,GEO satellite on-orbit refueling and debris removal hybrid mission planning under uncertainty,10.1016/j.asr.2024.05.059,无定向正文核读记录，本版不承担论述,False,False
+71,71,,56,纳入,Low-Thrust Propulsion and Drift Orbit Optimization for Multi-Client Servicing Missions in Low Earth Orbit,10.1007/s40295-026-00580-4,已核读正文/官方工程资料，按实际范围使用,False,False
+72,72,,57,纳入,Optimal Multi-Client Trajectory Planning for A Low-Thrust Servicing Satellite in the Presence of Perturbations,10.1007/s40295-025-00487-6,已核读正文/官方工程资料，按实际范围使用,False,False
+73,73,,58,纳入,A Hybrid Forecasting Model for Self-Similar Traffic in LEO Mega-Constellation Networks,10.3390/aerospace11030191,已核读正文/官方工程资料，按实际范围使用,False,False
+74,74,,59,纳入,Joint Beam Scheduling and Power Optimization for Beam Hopping LEO Satellite Systems,10.23919/JCC.ja.2022-0864,已核读正文/官方工程资料，按实际范围使用,False,False
+75,75,,,撤下,NGSO Satellites Beam Hopping Strategy Based on Load Balancing and Interference Avoidance for Coexistence With GSO Systems,10.1109/LCOMM.2022.3213912,无定向正文核读记录，本版不承担论述,False,False
+76,76,,60,纳入,Demand-Aware Beam Hopping and Power Allocation for Load Balancing in Digital Twin Empowered LEO Satellite Networks,10.1109/TWC.2025.3545745,已核读正文/官方工程资料，按实际范围使用,False,False
+77,77,,,撤下,Routing cost-integrated intelligent handover strategy for multi-layer LEO mega-constellation networks,10.1016/j.cja.2024.09.039,无定向正文核读记录，本版不承担论述,False,False
+78,78,,63,纳入,A Multifaceted Look at Starlink Performance,10.1145/3589334.3645328,已核读正文/官方工程资料，按实际范围使用,False,False
+79,79,,,撤下,Scalable routing in low-Earth orbit satellite constellations: Architecture and algorithms,10.1016/j.comcom.2022.02.015,无定向正文核读记录，本版不承担论述,False,False
+80,80,,,撤下,Segment routing for traffic engineering and effective recovery in low-earth orbit satellite constellations,10.1016/j.dcan.2022.09.022,无定向正文核读记录，本版不承担论述,False,False
+81,81,,66,纳入,Hierarchical Resource Management for Mega-LEO Satellite Constellation,10.3390/s25030902,已核读正文/官方工程资料，按实际范围使用,False,False
+82,82,,67,纳入,Satellite closest approach calculation through Chebyshev Proxy Polynomials,10.1016/j.actaastro.2020.01.020,已核读正文/官方工程资料，按实际范围使用,False,False
+83,83,,,撤下,Risk-aware sensor scheduling and tracking of large constellations,10.1016/j.asr.2021.04.042,无定向正文核读记录，本版不承担论述,False,False
+84,84,,68,纳入,Performance Investigation of the Conjunction Filter Methods and Enhancement of Computation Speed on Conjunction Assessment Analysis with CUDA Techniques,10.3390/aerospace10060543,已核读正文/官方工程资料，按实际范围使用,False,False
+85,85,,71,纳入,Simulation of satellites and constellations for the assessment of collision avoidance operations,10.1007/s12567-022-00471-y,已核读正文/官方工程资料，按实际范围使用,False,False
+86,86,,70,纳入,CAMmary: A review of spacecraft collision avoidance manoeuvre design methods,10.1016/j.actaastro.2025.07.027,已核读正文/官方工程资料，按实际范围使用,False,False
+87,87,,69,纳入,Spacecraft collision avoidance challenge: Design and results of a machine learning competition,10.1007/s42064-021-0101-5,已核读正文/官方工程资料，按实际范围使用,False,False
+88,88,,72,纳入,Conjunction Data Message,,已核读正文/官方工程资料，按实际范围使用,False,False
+89,89,,73,纳入,Starlink Collision Avoidance CONOPS,,已核读正文/官方工程资料，按实际范围使用,False,False
+90,90,,,撤下,Safe Trajectories for Autonomous Rendezvous of Spacecraft,10.2514/1.29590,无定向正文核读记录，本版不承担论述,False,False
+91,91,,74,纳入,Autonomous Trajectory Planning for Rendezvous and Proximity Operations by Conic Optimization,10.2514/1.58436,已核读正文/官方工程资料，按实际范围使用,False,False
+92,92,,75,纳入,Model Predictive Control of Swarms of Spacecraft Using Sequential Convex Programming,10.2514/1.G000218,已核读正文/官方工程资料，按实际范围使用,False,False
+93,93,,76,纳入,Chance-constrained model predictive control for spacecraft rendezvous with disturbance estimation,10.1016/j.conengprac.2011.09.006,已核读正文/官方工程资料，按实际范围使用,False,False
+94,94,,,撤下,Chance-constrained visual servoing MPC for non-cooperative spacecraft rendezvous,10.1016/j.ast.2025.111237,无定向正文核读记录，本版不承担论述,False,False
+95,95,,77,纳入,Continuous-Time Successive Convexification for Passively-Safe Spacecraft Rendezvous on a Near Rectilinear Halo Orbit,10.2514/6.2026-2446,已核读正文/官方工程资料，按实际范围使用,False,False
+96,96,,78,纳入,Two Approaches to Autonomous Spacecraft Inspection: Shielded Reinforcement Learning versus Probabilistic Roadmaps,10.1007/s40295-026-00631-w,已核读正文/官方工程资料，按实际范围使用,False,False
+97,97,,79,纳入,Astroscale’s ADRAS-J Achieves Historic 15-Meter Approach to Space Debris,,已核读正文/官方工程资料，按实际范围使用,False,False
+98,98,,80,纳入,Detecting Spacecraft Anomalies Using LSTMs and Nonparametric Dynamic Thresholding,10.1145/3219819.3219845,已核读正文/官方工程资料，按实际范围使用,False,False
+99,99,,,撤下,Imbalanced satellite telemetry data anomaly detection model based on Bayesian LSTM,10.1016/j.actaastro.2020.12.012,无定向正文核读记录，本版不承担论述,False,False
+100,100,,,撤下,Validation-gated continual learning for anomaly detection in satellite telemetry,10.1016/j.actaastro.2026.07.065,无定向正文核读记录，本版不承担论述,False,False
+101,101,,81,纳入,Unmasking overestimation: a re-evaluation of deep anomaly detection in spacecraft telemetry,10.1007/s12567-023-00529-5,已核读正文/官方工程资料，按实际范围使用,False,False
+102,102,,82,纳入,"Knowledge-based satellite failure detection, isolation and recovery (FDIR)",10.1007/s12567-025-00651-6,已核读正文/官方工程资料，按实际范围使用,False,False
+103,103,,,撤下,Resilient Autonomous Mission Management for Decentralized Multispacecraft Missions,10.2514/1.I011208,无定向正文核读记录，本版不承担论述,False,False
+104,104,,,撤下,RPRS: a reactive plan repair strategy for rapid response to plan failures of deep space missions,10.1016/j.actaastro.2020.05.011,无定向正文核读记录，本版不承担论述,False,False
+105,105,,84,纳入,Artificial Intelligence for Trusted Autonomous Satellite Operations,10.1016/j.paerosci.2023.100960,已核读正文/官方工程资料，按实际范围使用,False,False
+106,106,,11,纳入,A delay-tolerant network approach to satellite pickup and delivery scheduling,10.1016/j.adhoc.2023.103289,已核读正文/官方工程资料，按实际范围使用,False,False
+107,107,,85,纳入,Reasoning-Based Scheduling Method for Agile Earth Observation Satellite with Multi-Subsystem Coupling,10.3390/rs15061577,已核读正文/官方工程资料，按实际范围使用,False,False
+108,108,,83,纳入,Remote Agent: to boldly go where no AI system has gone before,10.1016/S0004-3702(98)00068-X,已核读正文/官方工程资料，按实际范围使用,False,False
+109,109,,87,纳入,Mission Operations of Earth Observing-1 with Onboard Autonomy,10.1109/SMC-IT.2006.48,已核读正文/官方工程资料，按实际范围使用,False,False
+110,110,,,撤下,Onboard Autonomy on the Intelligent Payload Experiment CubeSat Mission,10.2514/1.I010386,无定向正文核读记录，本版不承担论述,False,False
+111,111,,86,纳入,IPEX,,已核读正文/官方工程资料，按实际范围使用,False,False
+112,112,,,撤下,Reference architecture for autonomy and adaptivity in satellites,10.1016/j.jss.2026.112802,无定向正文核读记录，本版不承担论述,False,False
+113,113,,88,纳入,Core Flight System – Demo Bundle,,已核读正文/官方工程资料，按实际范围使用,False,False
+114,114,,90,纳入,What is Starling?,,已核读正文/官方工程资料，按实际范围使用,False,False
+115,115,,91,纳入,NASA Starling and SpaceX Starlink Improve Space Traffic Coordination,,已核读正文/官方工程资料，按实际范围使用,False,False
+116,116,,92,纳入,"Basilisk: A Flexible, Scalable and Modular Astrodynamics Simulation Framework",10.2514/1.I010762,已核读正文/官方工程资料，按实际范围使用,False,False
+117,117,,93,纳入,Formal Methods for Trusted Space Autonomy: Boon or Bane?,10.1007/978-3-031-06773-0_1,已核读正文/官方工程资料，按实际范围使用,False,False
+118,118,,,撤下,Performance of the Asynchronous Consensus Based Bundle Algorithm in Lossy Network Environments,10.1109/SAM.2018.8448984,无定向正文核读记录，本版不承担论述,False,False
+119,119,,89,纳入,A model-driven framework for supervised reconfiguration of satellite schedulers,10.1007/s10270-026-01426-1,已核读正文/官方工程资料，按实际范围使用,False,False
+120,120,,94,纳入,Model checking of spacecraft operational designs: a scalability analysis,10.1007/s10270-025-01281-6,已核读正文/官方工程资料，按实际范围使用,False,False
+121,121,,12,纳入,On-Demand Routing in LEO Mega-Constellations With Dynamic Laser Inter-Satellite Links,10.1109/TAES.2024.3415571,已核读正文/官方工程资料，按实际范围使用,False,False
+122,,ALT01,37,纳入,An Energy-Aware Task Scheduling for Quality-of-Service Assurance in Constellations of Nanosatellites,10.3390/s22103715,已核读正文/官方工程资料，按实际范围使用,False,False
+123,,ALT02,53,纳入,RL-GA: A Reinforcement Learning-based Genetic Algorithm for Electromagnetic Detection Satellite Scheduling Problem,10.1016/j.swevo.2023.101236,已核读正文/官方工程资料，按实际范围使用,False,False
+124,,ALT03,62,纳入,Handover Protocol Learning for LEO Satellite Networks: Access Delay and Collision Minimization,10.1109/TWC.2023.3342975,已核读正文/官方工程资料，按实际范围使用,False,False
+125,,ALT06,64,纳入,Using ground relays for low-latency wide-area routing in megaconstellations,10.1145/3365609.3365859,已核读正文/官方工程资料，按实际范围使用,False,False
+126,,ALT09,65,纳入,Link-identified Routing Architecture in Space,10.1109/TNSE.2024.3498042,已核读正文/官方工程资料，按实际范围使用,False,False
+127,,ALT10,50,纳入,A Dynamic Scheduling Method of Earth-Observing Satellites by Employing Rolling Horizon Strategy,10.1155/2013/304047,已核读正文/官方工程资料，按实际范围使用,False,False
+128,,ALT11,61,纳入,Multi-Agent DDPG-Based Joint Beam Hopping and Resource Allocation for Cognitive GEO-LEO Satellite Networks,10.1109/LNET.2025.3605531,已核读正文/官方工程资料，按实际范围使用,False,False

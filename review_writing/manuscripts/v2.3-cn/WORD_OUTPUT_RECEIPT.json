@@ -1,0 +1,104 @@
+{
+  "source": "D:\\SKT727\\outputs\\constellation_review_b00_20261014_repo\\review_writing\\manuscripts\\v2.3-cn\\REVIEW_CN_v2.3.md",
+  "source_sha256": "5c48f9ec610885b49a7037c535412167e057e455d6d80442864bff6a8176c177",
+  "version": "v2.3-CN",
+  "parent_commit": "b8b5d3a93e1f981535d27e318f4432826b9d2950",
+  "file": {
+    "path": "D:\\SKT727\\outputs\\constellation_review_v2_3_20261017\\REVIEW_CN_v2.3_中文精修稿.docx",
+    "bytes": 809077,
+    "sha256": "70ee046c5233368bd6472815d205e956693347efa344432e187c410a93d3e875"
+  },
+  "tables": [
+    {
+      "number": 1,
+      "rows": 6,
+      "columns": 3,
+      "source_line": 33
+    },
+    {
+      "number": 2,
+      "rows": 6,
+      "columns": 3,
+      "source_line": 71
+    },
+    {
+      "number": 3,
+      "rows": 10,
+      "columns": 4,
+      "source_line": 141
+    },
+    {
+      "number": 4,
+      "rows": 11,
+      "columns": 4,
+      "source_line": 187
+    },
+    {
+      "number": 5,
+      "rows": 7,
+      "columns": 3,
+      "source_line": 228
+    },
+    {
+      "number": 6,
+      "rows": 5,
+      "columns": 4,
+      "source_line": 281
+    },
+    {
+      "number": 7,
+      "rows": 9,
+      "columns": 3,
+      "source_line": 304
+    }
+  ],
+  "figures": [
+    {
+      "source": "D:\\SKT727\\materials\\constellation_review_v2_3_20261017\\fig1_cn.png",
+      "alt": "图1 业务过程与共同管理职责"
+    },
+    {
+      "source": "D:\\SKT727\\materials\\constellation_review_v2_3_20261017\\fig2_cn.png",
+      "alt": "图2 决策连接的三种方式"
+    }
+  ],
+  "references": 94,
+  "new_paper_readings": 0,
+  "human_verified": false,
+  "submission_ready": false,
+  "English_full_body_synchronized": false,
+  "page_count": 23,
+  "actual_visual_review_pages": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23
+  ],
+  "visual_review_done": true,
+  "visual_reviewer": "AI",
+  "render_method": "packaged render_docx.py with task-local Microsoft Word 16.0 converter and PDFium raster adapter; no managed code modified",
+  "renderer_package_sha256": "8b48b8f05f30cc6c7b5a7bd8e18e7ea93a61aec1ea601026a3358b2105f0903a",
+  "render_receipt_sha256": "8afb252c31939d03e4add9e7b8a8a2e160424f6dfe32ed658278c51387125dbc",
+  "actual_source_pdf_pages_reviewed": 11,
+  "visual_review_scope": "all 23 final pages viewed; no clipped figures/tables, overlapping content, blank pages or broken table rows observed; continued table 4 repeats its header",
+  "format_status": "Chinese author-review layout; current detailed CJA rules still unavailable"
+}

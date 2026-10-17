@@ -1,0 +1,5 @@
+﻿synthesis_id,synthesis,manuscript,support,contrast,status,limit
+S23-01,完成对象与时刻决定收益含义,2.3; 3.2.2; 3.5; 5,E042;E044;E053;E106,按期请求、观测及体积、平均处理约束、交付请求,review-author synthesis from heterogeneous studies,不作跨论文性能排名
+S23-02,可扩展性来自结构利用和成本转移,3.2.1; 3.3.2; 4.1,E034;E035;E042;E044;E065;E072;E125,计划复用、邻域、分解、保守压缩、策略与分配、预计算、重复构图,review-author synthesis plus two bounded reported timing examples,保留候选损失、冗余、预计算、硬件及双因素变化
+S23-03,联合决策范围与求解分解是不同维度,2.2; 3.2.2; 4.2; table6; fig2,E042;E044;E053;E106,分层求解仍共同选择；固定采集后内部再联合配置,conditional synthesis; marginal coupling benefit is a future hypothesis,不宣称联合必胜；共同场景仍待检验
+S23-04,反馈受状态确认、承诺与生效窗口限制,3.5; 4.3; 4.5; fig2,E052;E065;E081;E106;E121,完成事实、未来意图与资源承诺；局部路由保留采集分配,review-author operational interpretation,时间轴为评价框架；非同一系统或飞行试验

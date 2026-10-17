@@ -1,0 +1,1836 @@
+{
+  "schema_version": "1.0",
+  "sources": [
+    {
+      "authors": [],
+      "confidentiality": "public",
+      "evidence_id": "E001",
+      "identifiers": {
+        "doi": "10.1016/j.asr.2020.08.009",
+        "url": "https://doi.org/10.1016/j.asr.2020.08.009"
+      },
+      "locator": "本轮出版页面Abstract与Introduction；前轮记录保持",
+      "source_type": "journal_article",
+      "title": "Towards the automated operations of large distributed satellite systems. Part 1: Review and paradigm shifts",
+      "verification": {
+        "source_opened": false,
+        "status": "unverified",
+        "verified_by": "",
+        "verified_on": ""
+      },
+      "year": null
+    },
+    {
+      "authors": [],
+      "confidentiality": "public",
+      "evidence_id": "E002",
+      "identifiers": {
+        "doi": "10.2514/1.A35982",
+        "url": "https://doi.org/10.2514/1.A35982"
+      },
+      "locator": "既有来源记录及核读段落；未新增全文完成声明",
+      "source_type": "journal_article",
+      "title": "Space Logistics Modeling and Optimization: Review of the State of the Art",
+      "verification": {
+        "source_opened": false,
+        "status": "unverified",
+        "verified_by": "",
+        "verified_on": ""
+      },
+      "year": null
+    },
+    {
+      "authors": [],
+      "confidentiality": "public",
+      "evidence_id": "E003",
+      "identifiers": {
+        "doi": "10.1109/JSYST.2020.2997050",
+        "url": "https://doi.org/10.1109/JSYST.2020.2997050"
+      },
+      "locator": "作者稿Abstract、§2、§3及§4",
+      "source_type": "journal_article",
+      "title": "Agile Earth Observation Satellite Scheduling Over 20 Years: Formulations, Methods, and Future Directions",
+      "verification": {
+        "source_opened": false,
+        "status": "unverified",
+        "verified_by": "",
+        "verified_on": ""
+      },
+      "year": null
+    },
+    {
+      "authors": [],
+      "confidentiality": "public",
+      "evidence_id": "E004",
+      "identifiers": {
+        "doi": "10.1016/j.cor.2024.106875",
+        "url": "https://doi.org/10.1016/j.cor.2024.106875"
+      },
+      "locator": "作者机构稿Abstract与§1–2问题分类；正式出版元数据对照Tilburg作者机构记录",
+      "source_type": "journal_article",
+      "title": "Satellite Scheduling Problems: A survey of applications in Earth and outer space observation",
+      "verification": {
+        "source_opened": false,
+        "status": "unverified",
+        "verified_by": "",
+        "verified_on": ""
+      },
+      "year": null
+    },
+    {
+      "authors": [],
+      "confidentiality": "public",
+      "evidence_id": "E005",
+      "identifiers": {
+        "doi": "10.1016/j.actaastro.2025.10.018",
+        "url": "https://doi.org/10.1016/j.actaastro.2025.10.018"
+      },
+      "locator": "正式PDF页1、4–5（§3）、18–19（§7–8）",
+      "source_type": "journal_article",
+      "title": "Agent-based approaches for distributed space systems and mission management: Methodologies, current practices and challenges",
+      "verification": {
+        "source_opened": false,
+        "status": "unverified",
+        "verified_by": "",
+        "verified_on": ""
+      },
+      "year": null
+    },
+    {
+      "authors": [],
+      "confidentiality": "public",
+      "evidence_id": "E006",
+      "identifiers": {
+        "doi": "10.1016/j.asr.2020.08.018",
+        "url": "https://doi.org/10.1016/j.asr.2020.08.018"
+      },
+      "locator": "既有来源记录及核读段落；未新增全文完成声明",
+      "source_type": "journal_article",
+      "title": "Towards the automated operations of large distributed satellite systems. Part 2: Classifications and tools",
+      "verification": {
+        "source_opened": false,
+        "status": "unverified",
+        "verified_by": "",
+        "verified_on": ""
+      },
+      "year": null
+    },
+    {
+      "authors": [],
+      "confidentiality": "public",
+      "evidence_id": "E007",
+      "identifiers": {
+        "doi": "10.7527/S1000-6893.2026.32935",
+        "url": "https://doi.org/10.7527/S1000-6893.2026.32935"
+      },
+      "locator": "既有来源记录及核读段落；未新增全文完成声明",
+      "source_type": "journal_article",
+      "title": "低轨巨型星座智能组网技术综述",
+      "verification": {
+        "source_opened": false,
+        "status": "unverified",
+        "verified_by": "",
+        "verified_on": ""
+      },
+      "year": null
+    },
+    {
+      "authors": [],
+      "confidentiality": "public",
+      "evidence_id": "E008",
+      "identifiers": {
+        "doi": "10.3873/j.issn.1000-1328.2026.02.002",
+        "url": "https://doi.org/10.3873/j.issn.1000-1328.2026.02.002"
+      },
+      "locator": "既有来源记录及核读段落；未新增全文完成声明",
+      "source_type": "journal_article",
+      "title": "低轨通信卫星星座网络资源管控与优化技术综述",
+      "verification": {
+        "source_opened": false,
+        "status": "unverified",
+        "verified_by": "",
+        "verified_on": ""
+      },
+      "year": null
+    },
+    {
+      "authors": [],
+      "confidentiality": "public",
+      "evidence_id": "E009",
+      "identifiers": {
+        "doi": "10.3390/technologies13080312",
+        "url": "https://doi.org/10.3390/technologies13080312"
+      },
+      "locator": "PDF pp.16-19, Sections 3-3.2.3 and Algorithm 1; PDF pp.20-25, Section 4, Figure 3 and Table 6; PDF pp.32-33, Sections 5.13-5.14",
+      "source_type": "journal_article",
+      "title": "Toward Integrated Satellite Operations and Network Management: A Review and Novel Framework",
+      "verification": {
+        "source_opened": false,
+        "status": "unverified",
+        "verified_by": "",
+        "verified_on": ""
+      },
+      "year": null
+    },
+    {
+      "authors": [],
+      "confidentiality": "public",
+      "evidence_id": "E052",
+      "identifiers": {
+        "doi": "",
+        "url": "https://docs.aws.amazon.com/ground-station/latest/ug/contacts.html"
+      },
+      "locator": "既有来源记录及核读段落；未新增全文完成声明",
+      "source_type": "webpage",
+      "title": "Work with contacts",
+      "verification": {
+        "source_opened": false,
+        "status": "unverified",
+        "verified_by": "",
+        "verified_on": ""
+      },
+      "year": null
+    },
+    {
+      "authors": [],
+      "confidentiality": "public",
+      "evidence_id": "E106",
+      "identifiers": {
+        "doi": "10.1016/j.adhoc.2023.103289",
+        "url": "https://doi.org/10.1016/j.adhoc.2023.103289"
+      },
+      "locator": "PDF pp.4-7, Sections 3-4.2, Algorithm 1; PDF p.8, Section 4.3; PDF pp.9-12, Section 5.4 and Figures 6-8",
+      "source_type": "journal_article",
+      "title": "A delay-tolerant network approach to satellite pickup and delivery scheduling",
+      "verification": {
+        "source_opened": false,
+        "status": "unverified",
+        "verified_by": "",
+        "verified_on": ""
+      },
+      "year": null
+    },
+    {
+      "authors": [],
+      "confidentiality": "public",
+      "evidence_id": "E121",
+      "identifiers": {
+        "doi": "10.1109/TAES.2024.3415571",
+        "url": "https://doi.org/10.1109/TAES.2024.3415571"
+      },
+      "locator": "Section II, network/controller assumptions; Section III, equations (6)-(10); Section IV, ILPR/ALPR/ISASR; Section V-A Table III; Section V-B Figure 3 and Section V-D Figure 6",
+      "source_type": "journal_article",
+      "title": "On-Demand Routing in LEO Mega-Constellations With Dynamic Laser Inter-Satellite Links",
+      "verification": {
+        "source_opened": false,
+        "status": "unverified",
+        "verified_by": "",
+        "verified_on": ""
+      },
+      "year": null
+    },
+    {
+      "authors": [],
+      "confidentiality": "public",
+      "evidence_id": "E010",
+      "identifiers": {
+        "doi": "10.34133/space.0248",
+        "url": "https://doi.org/10.34133/space.0248"
+      },
+      "locator": "既有来源记录及核读段落；未新增全文完成声明",
+      "source_type": "journal_article",
+      "title": "Dynamic Management Topology Construction, Evolution, and Maintenance of Low Earth Orbit Mega-Constellation",
+      "verification": {
+        "source_opened": false,
+        "status": "unverified",
+        "verified_by": "",
+        "verified_on": ""
+      },
+      "year": null
+    },
+    {
+      "authors": [],
+      "confidentiality": "public",
+      "evidence_id": "E034",
+      "identifiers": {
+        "doi": "10.2514/1.I011215",
+        "url": "https://doi.org/10.2514/1.I011215"
+      },
+      "locator": "§II–III；§IV连续规划；§V.A–D，Figs 9–12",
+      "source_type": "journal_article",
+      "title": "Decentralized Observation Allocation for a Large-Scale Constellation",
+      "verification": {
+        "source_opened": false,
+        "status": "unverified",
+        "verified_by": "",
+        "verified_on": ""
+      },
+      "year": null
+    },
+    {
+      "authors": [],
+      "confidentiality": "public",
+      "evidence_id": "E035",
+      "identifiers": {
+        "doi": "10.1613/jair.1.16997",
+        "url": "https://doi.org/10.1613/jair.1.16997"
+      },
+      "locator": "§1、§3信息与资源假设；§5.4与Table 3；§6.1、§6.2.2–6.2.3、Tables 4–5及Figs 11–13",
+      "source_type": "journal_article",
+      "title": "Decentralized, Decomposition-Based Observation Scheduling for a Large-Scale Satellite Constellation",
+      "verification": {
+        "source_opened": false,
+        "status": "unverified",
+        "verified_by": "",
+        "verified_on": ""
+      },
+      "year": null
+    },
+    {
+      "authors": [],
+      "confidentiality": "public",
+      "evidence_id": "E042",
+      "identifiers": {
+        "doi": "10.1109/TMC.2021.3076088",
+        "url": "https://doi.org/10.1109/TMC.2021.3076088"
+      },
+      "locator": "既有来源记录及核读段落；未新增全文完成声明",
+      "source_type": "journal_article",
+      "title": "Joint Observation and Transmission Scheduling in Agile Satellite Networks",
+      "verification": {
+        "source_opened": false,
+        "status": "unverified",
+        "verified_by": "",
+        "verified_on": ""
+      },
+      "year": null
+    },
+    {
+      "authors": [],
+      "confidentiality": "public",
+      "evidence_id": "E044",
+      "identifiers": {
+        "doi": "10.1016/j.cor.2025.107212",
+        "url": "https://doi.org/10.1016/j.cor.2025.107212"
+      },
+      "locator": "既有来源记录及核读段落；未新增全文完成声明",
+      "source_type": "journal_article",
+      "title": "The integrated agile Earth observation satellite scheduling problem",
+      "verification": {
+        "source_opened": false,
+        "status": "unverified",
+        "verified_by": "",
+        "verified_on": ""
+      },
+      "year": null
+    },
+    {
+      "authors": [],
+      "confidentiality": "public",
+      "evidence_id": "E011",
+      "identifiers": {
+        "doi": "10.1016/j.actaastro.2014.02.016",
+        "url": "https://doi.org/10.1016/j.actaastro.2014.02.016"
+      },
+      "locator": "既有来源记录及核读段落；未新增全文完成声明",
+      "source_type": "journal_article",
+      "title": "Optimization of satellite constellation reconfiguration maneuvers",
+      "verification": {
+        "source_opened": false,
+        "status": "unverified",
+        "verified_by": "",
+        "verified_on": ""
+      },
+      "year": null
+    },
+    {
+      "authors": [],
+      "confidentiality": "public",
+      "evidence_id": "E012",
+      "identifiers": {
+        "doi": "10.2514/1.A35685",
+        "url": "https://doi.org/10.2514/1.A35685"
+      },
+      "locator": "既有来源记录及核读段落；未新增全文完成声明",
+      "source_type": "journal_article",
+      "title": "Regional Constellation Reconfiguration Problem: Integer Linear Programming Formulation and Lagrangian Heuristic Method",
+      "verification": {
+        "source_opened": false,
+        "status": "unverified",
+        "verified_by": "",
+        "verified_on": ""
+      },
+      "year": null
+    },
+    {
+      "authors": [],
+      "confidentiality": "public",
+      "evidence_id": "E013",
+      "identifiers": {
+        "doi": "10.2514/1.A35990",
+        "url": "https://doi.org/10.2514/1.A35990"
+      },
+      "locator": "既有来源记录及核读段落；未新增全文完成声明",
+      "source_type": "journal_article",
+      "title": "Deterministic Multistage Constellation Reconfiguration Using Integer Programming and Sequential Decision-Making Methods",
+      "verification": {
+        "source_opened": false,
+        "status": "unverified",
+        "verified_by": "",
+        "verified_on": ""
+      },
+      "year": null
+    },
+    {
+      "authors": [],
+      "confidentiality": "public",
+      "evidence_id": "E014",
+      "identifiers": {
+        "doi": "10.2514/1.A34657",
+        "url": "https://doi.org/10.2514/1.A34657"
+      },
+      "locator": "既有来源记录及核读段落；未新增全文完成声明",
+      "source_type": "journal_article",
+      "title": "Satellite Constellation Pattern Optimization for Complex Regional Coverage",
+      "verification": {
+        "source_opened": false,
+        "status": "unverified",
+        "verified_by": "",
+        "verified_on": ""
+      },
+      "year": null
+    },
+    {
+      "authors": [],
+      "confidentiality": "public",
+      "evidence_id": "E015",
+      "identifiers": {
+        "doi": "10.1016/j.actaastro.2018.03.054",
+        "url": "https://doi.org/10.1016/j.actaastro.2018.03.054"
+      },
+      "locator": "既有来源记录及核读段落；未新增全文完成声明",
+      "source_type": "journal_article",
+      "title": "Optimization of satellite constellation deployment strategy considering uncertain areas of interest",
+      "verification": {
+        "source_opened": false,
+        "status": "unverified",
+        "verified_by": "",
+        "verified_on": ""
+      },
+      "year": null
+    },
+    {
+      "authors": [],
+      "confidentiality": "public",
+      "evidence_id": "E016",
+      "identifiers": {
+        "doi": "10.1007/s42405-026-01298-1",
+        "url": "https://doi.org/10.1007/s42405-026-01298-1"
+      },
+      "locator": "既有来源记录及核读段落；未新增全文完成声明",
+      "source_type": "journal_article",
+      "title": "Two-Stage Framework for Deployment-Aware Optimization of Satellite Constellation Pattern Design",
+      "verification": {
+        "source_opened": false,
+        "status": "unverified",
+        "verified_by": "",
+        "verified_on": ""
+      },
+      "year": null
+    },
+    {
+      "authors": [],
+      "confidentiality": "public",
+      "evidence_id": "E017",
+      "identifiers": {
+        "doi": "10.1016/j.comnet.2024.110942",
+        "url": "https://doi.org/10.1016/j.comnet.2024.110942"
+      },
+      "locator": "既有来源记录及核读段落；未新增全文完成声明",
+      "source_type": "journal_article",
+      "title": "Joint satellite platform and constellation sizing for instantaneous beam-hopping in 5G/6G Non-Terrestrial Networks",
+      "verification": {
+        "source_opened": false,
+        "status": "unverified",
+        "verified_by": "",
+        "verified_on": ""
+      },
+      "year": null
+    },
+    {
+      "authors": [],
+      "confidentiality": "public",
+      "evidence_id": "E018",
+      "identifiers": {
+        "doi": "10.2514/1.A34387",
+        "url": "https://doi.org/10.2514/1.A34387"
+      },
+      "locator": "§III-B库存；§IV-A/B多级结构及假设；§IV-C补给提前期",
+      "source_type": "journal_article",
+      "title": "Optimal Satellite Constellation Spare Strategy Using Multi-Echelon Inventory Control",
+      "verification": {
+        "source_opened": false,
+        "status": "unverified",
+        "verified_by": "",
+        "verified_on": ""
+      },
+      "year": null
+    },
+    {
+      "authors": [],
+      "confidentiality": "public",
+      "evidence_id": "E019",
+      "identifiers": {
+        "doi": "10.2514/1.A36281",
+        "url": "https://doi.org/10.2514/1.A36281"
+      },
+      "locator": "既有来源记录及核读段落；未新增全文完成声明",
+      "source_type": "journal_article",
+      "title": "Replenishment Strategy for Satellite Constellation with Dual Supply Modes",
+      "verification": {
+        "source_opened": false,
+        "status": "unverified",
+        "verified_by": "",
+        "verified_on": ""
+      },
+      "year": null
+    },
+    {
+      "authors": [],
+      "confidentiality": "public",
+      "evidence_id": "E020",
+      "identifiers": {
+        "doi": "10.2514/1.A36599",
+        "url": "https://doi.org/10.2514/1.A36599"
+      },
+      "locator": "既有来源记录及核读段落；未新增全文完成声明",
+      "source_type": "journal_article",
+      "title": "Spare Strategy Analysis and Design for Mega Satellite Constellations Using Markov Chain",
+      "verification": {
+        "source_opened": false,
+        "status": "unverified",
+        "verified_by": "",
+        "verified_on": ""
+      },
+      "year": null
+    },
+    {
+      "authors": [],
+      "confidentiality": "public",
+      "evidence_id": "E021",
+      "identifiers": {
+        "doi": "10.1016/j.actaastro.2026.06.020",
+        "url": "https://doi.org/10.1016/j.actaastro.2026.06.020"
+      },
+      "locator": "既有来源记录及核读段落；未新增全文完成声明",
+      "source_type": "journal_article",
+      "title": "Spare strategy for large-scale satellite constellations under dual resupply channels using Markov chain",
+      "verification": {
+        "source_opened": false,
+        "status": "unverified",
+        "verified_by": "",
+        "verified_on": ""
+      },
+      "year": null
+    },
+    {
+      "authors": [],
+      "confidentiality": "public",
+      "evidence_id": "E023",
+      "identifiers": {
+        "doi": "10.2514/1.A36684",
+        "url": "https://doi.org/10.2514/1.A36684"
+      },
+      "locator": "既有来源记录及核读段落；未新增全文完成声明",
+      "source_type": "journal_article",
+      "title": "On-Orbit Servicing-Integrated Maintenance Strategy for a Satellite Constellation",
+      "verification": {
+        "source_opened": false,
+        "status": "unverified",
+        "verified_by": "",
+        "verified_on": ""
+      },
+      "year": null
+    },
+    {
+      "authors": [],
+      "confidentiality": "public",
+      "evidence_id": "E022",
+      "identifiers": {
+        "doi": "",
+        "url": "https://investor.iridium.com/2023-05-20-Iridium-Adds-to-Constellation-Resilience-with-Launch-of-Spare-Satellites"
+      },
+      "locator": "既有来源记录及核读段落；未新增全文完成声明",
+      "source_type": "webpage",
+      "title": "Iridium Adds to Constellation Resilience with Launch of Spare Satellites",
+      "verification": {
+        "source_opened": false,
+        "status": "unverified",
+        "verified_by": "",
+        "verified_on": ""
+      },
+      "year": null
+    },
+    {
+      "authors": [],
+      "confidentiality": "public",
+      "evidence_id": "E024",
+      "identifiers": {
+        "doi": "10.2514/1.A35691",
+        "url": "https://doi.org/10.2514/1.A35691"
+      },
+      "locator": "既有来源记录及核读段落；未新增全文完成声明",
+      "source_type": "journal_article",
+      "title": "Orbital Facility Location Problem for Satellite Constellation Servicing Depots",
+      "verification": {
+        "source_opened": false,
+        "status": "unverified",
+        "verified_by": "",
+        "verified_on": ""
+      },
+      "year": null
+    },
+    {
+      "authors": [],
+      "confidentiality": "public",
+      "evidence_id": "E025",
+      "identifiers": {
+        "doi": "10.2514/1.A36386",
+        "url": "https://doi.org/10.2514/1.A36386"
+      },
+      "locator": "既有来源记录及核读段落；未新增全文完成声明",
+      "source_type": "journal_article",
+      "title": "Orbital Depot Location Optimization for Satellite Constellation Servicing with Low-Thrust Transfers",
+      "verification": {
+        "source_opened": false,
+        "status": "unverified",
+        "verified_by": "",
+        "verified_on": ""
+      },
+      "year": null
+    },
+    {
+      "authors": [],
+      "confidentiality": "public",
+      "evidence_id": "E026",
+      "identifiers": {
+        "doi": "10.1155/2021/6644339",
+        "url": "https://doi.org/10.1155/2021/6644339"
+      },
+      "locator": "既有来源记录及核读段落；未新增全文完成声明",
+      "source_type": "journal_article",
+      "title": "Deployment of On-Orbit Service Vehicles Using a Fuzzy Adaptive Particle Swarm Optimization Algorithm",
+      "verification": {
+        "source_opened": false,
+        "status": "unverified",
+        "verified_by": "",
+        "verified_on": ""
+      },
+      "year": null
+    },
+    {
+      "authors": [],
+      "confidentiality": "public",
+      "evidence_id": "E027",
+      "identifiers": {
+        "doi": "10.2514/1.A34978",
+        "url": "https://doi.org/10.2514/1.A34978"
+      },
+      "locator": "既有来源记录及核读段落；未新增全文完成声明",
+      "source_type": "journal_article",
+      "title": "Framework for Modeling and Optimization of On-Orbit Servicing Operations Under Demand Uncertainties",
+      "verification": {
+        "source_opened": false,
+        "status": "unverified",
+        "verified_by": "",
+        "verified_on": ""
+      },
+      "year": null
+    },
+    {
+      "authors": [],
+      "confidentiality": "public",
+      "evidence_id": "E028",
+      "identifiers": {
+        "doi": "10.2514/1.A35094",
+        "url": "https://doi.org/10.2514/1.A35094"
+      },
+      "locator": "既有来源记录及核读段落；未新增全文完成声明",
+      "source_type": "journal_article",
+      "title": "On-Orbit Servicing Optimization Framework with High- and Low-Thrust Propulsion Tradeoff",
+      "verification": {
+        "source_opened": false,
+        "status": "unverified",
+        "verified_by": "",
+        "verified_on": ""
+      },
+      "year": null
+    },
+    {
+      "authors": [],
+      "confidentiality": "public",
+      "evidence_id": "E030",
+      "identifiers": {
+        "doi": "10.1016/S1270-9638(02)01173-2",
+        "url": "https://doi.org/10.1016/S1270-9638(02)01173-2"
+      },
+      "locator": "既有来源记录及核读段落；未新增全文完成声明",
+      "source_type": "journal_article",
+      "title": "Selecting and scheduling observations of agile satellites",
+      "verification": {
+        "source_opened": false,
+        "status": "unverified",
+        "verified_by": "",
+        "verified_on": ""
+      },
+      "year": null
+    },
+    {
+      "authors": [
+        "Laio Oriel Seman",
+        "Brenda F. Ribeiro",
+        "Cezar A. Rigo",
+        "Edemar Morsch Filho",
+        "Eduardo Camponogara",
+        "Rodrigo Leonardi",
+        "Eduardo A. Bezerra"
+      ],
+      "confidentiality": "public",
+      "evidence_id": "E122",
+      "identifiers": {
+        "doi": "10.3390/s22103715",
+        "url": "https://mdpi-res.com/d_attachment/sensors/sensors-22-03715/article_deploy/sensors-22-03715-v3.pdf?version=1653469277"
+      },
+      "locator": "§3建模与ε约束方法；§4实验；§5结论",
+      "source_type": "journal_article",
+      "title": "An Energy-Aware Task Scheduling for Quality-of-Service Assurance in Constellations of Nanosatellites",
+      "verification": {
+        "source_opened": false,
+        "status": "unverified",
+        "verified_by": "",
+        "verified_on": ""
+      },
+      "year": null
+    },
+    {
+      "authors": [],
+      "confidentiality": "public",
+      "evidence_id": "E036",
+      "identifiers": {
+        "doi": "10.1007/s10951-024-00816-x",
+        "url": "https://doi.org/10.1007/s10951-024-00816-x"
+      },
+      "locator": "既有来源记录及核读段落；未新增全文完成声明",
+      "source_type": "journal_article",
+      "title": "Scheduling of Earth observing satellites using distributed constraint optimization",
+      "verification": {
+        "source_opened": false,
+        "status": "unverified",
+        "verified_by": "",
+        "verified_on": ""
+      },
+      "year": null
+    },
+    {
+      "authors": [],
+      "confidentiality": "public",
+      "evidence_id": "E037",
+      "identifiers": {
+        "doi": "10.1109/TRO.2009.2022423",
+        "url": "https://doi.org/10.1109/TRO.2009.2022423"
+      },
+      "locator": "既有来源记录及核读段落；未新增全文完成声明",
+      "source_type": "journal_article",
+      "title": "Consensus-Based Decentralized Auctions for Robust Task Allocation",
+      "verification": {
+        "source_opened": false,
+        "status": "unverified",
+        "verified_by": "",
+        "verified_on": ""
+      },
+      "year": null
+    },
+    {
+      "authors": [],
+      "confidentiality": "public",
+      "evidence_id": "E039",
+      "identifiers": {
+        "doi": "10.1109/JSEE.2016.00066",
+        "url": "https://doi.org/10.1109/JSEE.2016.00066"
+      },
+      "locator": "既有来源记录及核读段落；未新增全文完成声明",
+      "source_type": "journal_article",
+      "title": "Distributed cooperative task planning algorithm for multiple satellites in delayed communication environment",
+      "verification": {
+        "source_opened": false,
+        "status": "unverified",
+        "verified_by": "",
+        "verified_on": ""
+      },
+      "year": null
+    },
+    {
+      "authors": [],
+      "confidentiality": "public",
+      "evidence_id": "E041",
+      "identifiers": {
+        "doi": "10.24963/ijcai.2023/30",
+        "url": "https://doi.org/10.24963/ijcai.2023/30"
+      },
+      "locator": "既有来源记录及核读段落；未新增全文完成声明",
+      "source_type": "journal_article",
+      "title": "Asynchronous Communication Aware Multi-Agent Task Allocation",
+      "verification": {
+        "source_opened": false,
+        "status": "unverified",
+        "verified_by": "",
+        "verified_on": ""
+      },
+      "year": null
+    },
+    {
+      "authors": [],
+      "confidentiality": "public",
+      "evidence_id": "E047",
+      "identifiers": {
+        "doi": "10.1023/B:JOSH.0000013053.32600.3c",
+        "url": "https://doi.org/10.1023/B:JOSH.0000013053.32600.3c"
+      },
+      "locator": "既有来源记录及核读段落；未新增全文完成声明",
+      "source_type": "journal_article",
+      "title": "Scheduling Space–Ground Communications for the Air Force Satellite Control Network",
+      "verification": {
+        "source_opened": false,
+        "status": "unverified",
+        "verified_by": "",
+        "verified_on": ""
+      },
+      "year": null
+    },
+    {
+      "authors": [],
+      "confidentiality": "public",
+      "evidence_id": "E048",
+      "identifiers": {
+        "doi": "10.1016/j.omega.2015.01.001",
+        "url": "https://doi.org/10.1016/j.omega.2015.01.001"
+      },
+      "locator": "既有来源记录及核读段落；未新增全文完成声明",
+      "source_type": "journal_article",
+      "title": "Satellite downlink scheduling problem: A case study",
+      "verification": {
+        "source_opened": false,
+        "status": "unverified",
+        "verified_by": "",
+        "verified_on": ""
+      },
+      "year": null
+    },
+    {
+      "authors": [],
+      "confidentiality": "public",
+      "evidence_id": "E049",
+      "identifiers": {
+        "doi": "10.1109/ACCESS.2021.3064928",
+        "url": "https://doi.org/10.1109/ACCESS.2021.3064928"
+      },
+      "locator": "既有来源记录及核读段落；未新增全文完成声明",
+      "source_type": "journal_article",
+      "title": "Deep Space Network Scheduling via Mixed-Integer Linear Programming",
+      "verification": {
+        "source_opened": false,
+        "status": "unverified",
+        "verified_by": "",
+        "verified_on": ""
+      },
+      "year": null
+    },
+    {
+      "authors": [],
+      "confidentiality": "public",
+      "evidence_id": "E050",
+      "identifiers": {
+        "doi": "10.1609/aimag.v35i4.2552",
+        "url": "https://doi.org/10.1609/aimag.v35i4.2552"
+      },
+      "locator": "既有来源记录及核读段落；未新增全文完成声明",
+      "source_type": "journal_article",
+      "title": "Automated Scheduling for NASA's Deep Space Network",
+      "verification": {
+        "source_opened": false,
+        "status": "unverified",
+        "verified_by": "",
+        "verified_on": ""
+      },
+      "year": null
+    },
+    {
+      "authors": [],
+      "confidentiality": "public",
+      "evidence_id": "E051",
+      "identifiers": {
+        "doi": "",
+        "url": "https://docs.planet.com/develop/apis/tasking/"
+      },
+      "locator": "既有来源记录及核读段落；未新增全文完成声明",
+      "source_type": "webpage",
+      "title": "Tasking API",
+      "verification": {
+        "source_opened": false,
+        "status": "unverified",
+        "verified_by": "",
+        "verified_on": ""
+      },
+      "year": null
+    },
+    {
+      "authors": [],
+      "confidentiality": "public",
+      "evidence_id": "E053",
+      "identifiers": {
+        "doi": "10.1002/sat.70082",
+        "url": "https://doi.org/10.1002/sat.70082"
+      },
+      "locator": "既有来源记录及核读段落；未新增全文完成声明",
+      "source_type": "journal_article",
+      "title": "Edge Intelligence for Satellite-Based Earth Observation: Scheduling Image Acquisition and Processing",
+      "verification": {
+        "source_opened": false,
+        "status": "unverified",
+        "verified_by": "",
+        "verified_on": ""
+      },
+      "year": null
+    },
+    {
+      "authors": [],
+      "confidentiality": "public",
+      "evidence_id": "E057",
+      "identifiers": {
+        "doi": "10.1007/s10586-025-05663-9",
+        "url": "https://doi.org/10.1007/s10586-025-05663-9"
+      },
+      "locator": "既有来源记录及核读段落；未新增全文完成声明",
+      "source_type": "journal_article",
+      "title": "Orbit-aware task scheduling in satellite edge computing",
+      "verification": {
+        "source_opened": false,
+        "status": "unverified",
+        "verified_by": "",
+        "verified_on": ""
+      },
+      "year": null
+    },
+    {
+      "authors": [],
+      "confidentiality": "public",
+      "evidence_id": "E058",
+      "identifiers": {
+        "doi": "10.1145/3582016.3582043",
+        "url": "https://doi.org/10.1145/3582016.3582043"
+      },
+      "locator": "既有来源记录及核读段落；未新增全文完成声明",
+      "source_type": "journal_article",
+      "title": "Kodan: Addressing the Computational Bottleneck in Space",
+      "verification": {
+        "source_opened": false,
+        "status": "unverified",
+        "verified_by": "",
+        "verified_on": ""
+      },
+      "year": null
+    },
+    {
+      "authors": [
+        "Qiu Dishan",
+        "He Chuan",
+        "Liu Jin",
+        "Ma Manhao"
+      ],
+      "confidentiality": "public",
+      "evidence_id": "E127",
+      "identifiers": {
+        "doi": "10.1155/2013/304047",
+        "url": "https://onlinelibrary.wiley.com/doi/10.1155/2013/304047"
+      },
+      "locator": "出版社HTML §2—4，行166—367；公式图像未实际页面核验",
+      "source_type": "journal_article",
+      "title": "A Dynamic Scheduling Method of Earth-Observing Satellites by Employing Rolling Horizon Strategy",
+      "verification": {
+        "source_opened": false,
+        "status": "unverified",
+        "verified_by": "",
+        "verified_on": ""
+      },
+      "year": null
+    },
+    {
+      "authors": [],
+      "confidentiality": "public",
+      "evidence_id": "E061",
+      "identifiers": {
+        "doi": "10.1109/TAES.2019.2947978",
+        "url": "https://doi.org/10.1109/TAES.2019.2947978"
+      },
+      "locator": "既有来源记录及核读段落；未新增全文完成声明",
+      "source_type": "journal_article",
+      "title": "Robust Earth Observation Satellite Scheduling With Uncertainty of Cloud Coverage",
+      "verification": {
+        "source_opened": false,
+        "status": "unverified",
+        "verified_by": "",
+        "verified_on": ""
+      },
+      "year": null
+    },
+    {
+      "authors": [],
+      "confidentiality": "public",
+      "evidence_id": "E062",
+      "identifiers": {
+        "doi": "10.1016/j.ejor.2018.11.043",
+        "url": "https://doi.org/10.1016/j.ejor.2018.11.043"
+      },
+      "locator": "既有来源记录及核读段落；未新增全文完成声明",
+      "source_type": "journal_article",
+      "title": "Mixed-integer programming models for optimal constellation scheduling given cloud cover uncertainty",
+      "verification": {
+        "source_opened": false,
+        "status": "unverified",
+        "verified_by": "",
+        "verified_on": ""
+      },
+      "year": null
+    },
+    {
+      "authors": [
+        "Yanjie Song",
+        "Luona Wei",
+        "Qing Yang",
+        "Jian Wu",
+        "Lining Xing",
+        "Yingwu Chen"
+      ],
+      "confidentiality": "public",
+      "evidence_id": "E123",
+      "identifiers": {
+        "doi": "10.1016/j.swevo.2023.101236",
+        "url": "https://yanjiesong.github.io/files/RLGA2023.pdf"
+      },
+      "locator": "§3.1.6 Q-learning；§3.2 TTWSA；§4.1设置；§4.2.3及表6耗时",
+      "source_type": "journal_article",
+      "title": "RL-GA: A Reinforcement Learning-based Genetic Algorithm for Electromagnetic Detection Satellite Scheduling Problem",
+      "verification": {
+        "source_opened": false,
+        "status": "unverified",
+        "verified_by": "",
+        "verified_on": ""
+      },
+      "year": null
+    },
+    {
+      "authors": [],
+      "confidentiality": "public",
+      "evidence_id": "E065",
+      "identifiers": {
+        "doi": "10.2514/1.A35736",
+        "url": "https://doi.org/10.2514/1.A35736"
+      },
+      "locator": "§III.C–D、Table 2、§IV.A.1–3、Figs 8–13、§IV.B",
+      "source_type": "journal_article",
+      "title": "Single-Agent Reinforcement Learning for Scalable Earth-Observing Satellite Constellation Operations",
+      "verification": {
+        "source_opened": false,
+        "status": "unverified",
+        "verified_by": "",
+        "verified_on": ""
+      },
+      "year": null
+    },
+    {
+      "authors": [],
+      "confidentiality": "public",
+      "evidence_id": "E066",
+      "identifiers": {
+        "doi": "10.3389/frspt.2023.1263489",
+        "url": "https://doi.org/10.3389/frspt.2023.1263489"
+      },
+      "locator": "§2–3、§4.3–4.6、Figs 6–10；Table 1–2资源屏蔽",
+      "source_type": "journal_article",
+      "title": "A comparative analysis of reinforcement learning algorithms for earth-observing satellite scheduling",
+      "verification": {
+        "source_opened": false,
+        "status": "unverified",
+        "verified_by": "",
+        "verified_on": ""
+      },
+      "year": null
+    },
+    {
+      "authors": [],
+      "confidentiality": "public",
+      "evidence_id": "E071",
+      "identifiers": {
+        "doi": "10.1007/s40295-026-00580-4",
+        "url": "https://doi.org/10.1007/s40295-026-00580-4"
+      },
+      "locator": "§2一般问题；§3假设1—3与三段转移；§5.1/5.2访问及加注",
+      "source_type": "journal_article",
+      "title": "Low-Thrust Propulsion and Drift Orbit Optimization for Multi-Client Servicing Missions in Low Earth Orbit",
+      "verification": {
+        "source_opened": false,
+        "status": "unverified",
+        "verified_by": "",
+        "verified_on": ""
+      },
+      "year": null
+    },
+    {
+      "authors": [],
+      "confidentiality": "public",
+      "evidence_id": "E072",
+      "identifiers": {
+        "doi": "10.1007/s40295-025-00487-6",
+        "url": "https://doi.org/10.1007/s40295-025-00487-6"
+      },
+      "locator": "既有来源记录及核读段落；未新增全文完成声明",
+      "source_type": "journal_article",
+      "title": "Optimal Multi-Client Trajectory Planning for A Low-Thrust Servicing Satellite in the Presence of Perturbations",
+      "verification": {
+        "source_opened": false,
+        "status": "unverified",
+        "verified_by": "",
+        "verified_on": ""
+      },
+      "year": null
+    },
+    {
+      "authors": [],
+      "confidentiality": "public",
+      "evidence_id": "E073",
+      "identifiers": {
+        "doi": "10.3390/aerospace11030191",
+        "url": "https://doi.org/10.3390/aerospace11030191"
+      },
+      "locator": "既有来源记录及核读段落；未新增全文完成声明",
+      "source_type": "journal_article",
+      "title": "A Hybrid Forecasting Model for Self-Similar Traffic in LEO Mega-Constellation Networks",
+      "verification": {
+        "source_opened": false,
+        "status": "unverified",
+        "verified_by": "",
+        "verified_on": ""
+      },
+      "year": null
+    },
+    {
+      "authors": [],
+      "confidentiality": "public",
+      "evidence_id": "E074",
+      "identifiers": {
+        "doi": "10.23919/JCC.ja.2022-0864",
+        "url": "https://doi.org/10.23919/JCC.ja.2022-0864"
+      },
+      "locator": "既有来源记录及核读段落；未新增全文完成声明",
+      "source_type": "journal_article",
+      "title": "Joint Beam Scheduling and Power Optimization for Beam Hopping LEO Satellite Systems",
+      "verification": {
+        "source_opened": false,
+        "status": "unverified",
+        "verified_by": "",
+        "verified_on": ""
+      },
+      "year": null
+    },
+    {
+      "authors": [],
+      "confidentiality": "public",
+      "evidence_id": "E076",
+      "identifiers": {
+        "doi": "10.1109/TWC.2025.3545745",
+        "url": "https://doi.org/10.1109/TWC.2025.3545745"
+      },
+      "locator": "既有来源记录及核读段落；未新增全文完成声明",
+      "source_type": "journal_article",
+      "title": "Demand-Aware Beam Hopping and Power Allocation for Load Balancing in Digital Twin Empowered LEO Satellite Networks",
+      "verification": {
+        "source_opened": false,
+        "status": "unverified",
+        "verified_by": "",
+        "verified_on": ""
+      },
+      "year": null
+    },
+    {
+      "authors": [
+        "Quynh Tu Ngo",
+        "Ying He",
+        "Beeshanga Jayawickrama",
+        "Eryk Dutkiewicz"
+      ],
+      "confidentiality": "public",
+      "evidence_id": "E128",
+      "identifiers": {
+        "doi": "10.1109/LNET.2025.3605531",
+        "url": "https://opus.lib.uts.edu.au/bitstream/10453/189674/3/Multi-Agent%20DDPG-Based%20Joint%20Beam%20Hopping%20and%20Resource%20Allocation%20for%20Cognitive%20GEO-LEO%20Satellite%20Networks.pdf"
+      },
+      "locator": "正文§II—V；式7—9；图2；表I和图4—6（物理页含封面）",
+      "source_type": "journal_article",
+      "title": "Multi-Agent DDPG-Based Joint Beam Hopping and Resource Allocation for Cognitive GEO-LEO Satellite Networks",
+      "verification": {
+        "source_opened": false,
+        "status": "unverified",
+        "verified_by": "",
+        "verified_on": ""
+      },
+      "year": null
+    },
+    {
+      "authors": [
+        "Ju-Hyung Lee",
+        "Chanyoung Park",
+        "Soohyun Park",
+        "Andreas F. Molisch"
+      ],
+      "confidentiality": "public",
+      "evidence_id": "E124",
+      "identifiers": {
+        "doi": "10.1109/TWC.2023.3342975",
+        "url": "https://wides.usc.edu/Updated_pdf/Handover%20Protocol%20Learning%20for%20LEO%20Satellite%20Networks%3A%20Access%20Delay%20and%20Collision%20Minimization.pdf"
+      },
+      "locator": "§III协议与碰撞；§IV学习；§V及表III、V",
+      "source_type": "journal_article",
+      "title": "Handover Protocol Learning for LEO Satellite Networks: Access Delay and Collision Minimization",
+      "verification": {
+        "source_opened": false,
+        "status": "unverified",
+        "verified_by": "",
+        "verified_on": ""
+      },
+      "year": null
+    },
+    {
+      "authors": [],
+      "confidentiality": "public",
+      "evidence_id": "E078",
+      "identifiers": {
+        "doi": "10.1145/3589334.3645328",
+        "url": "https://doi.org/10.1145/3589334.3645328"
+      },
+      "locator": "PDF p.1, ACM Reference Format and DOI; PDF pp.2-3, Sections 3.1 and 3.3; PDF pp.7-8, Section 6.2 and Figure 16",
+      "source_type": "journal_article",
+      "title": "A Multifaceted Look at Starlink Performance",
+      "verification": {
+        "source_opened": false,
+        "status": "unverified",
+        "verified_by": "",
+        "verified_on": ""
+      },
+      "year": null
+    },
+    {
+      "authors": [
+        "Mark Handley"
+      ],
+      "confidentiality": "public",
+      "evidence_id": "E125",
+      "identifiers": {
+        "doi": "10.1145/3365609.3365859",
+        "url": "https://discovery.ucl.ac.uk/id/eprint/10090242/1/hotnets-ucl.pdf"
+      },
+      "locator": "§2部署及密度；§3路由计算与差分更新；§4混合网络；afterword",
+      "source_type": "journal_article",
+      "title": "Using ground relays for low-latency wide-area routing in megaconstellations",
+      "verification": {
+        "source_opened": false,
+        "status": "unverified",
+        "verified_by": "",
+        "verified_on": ""
+      },
+      "year": null
+    },
+    {
+      "authors": [
+        "Hefan Zhang",
+        "Zhiyuan Wang",
+        "Shan Zhang",
+        "Qingkai Meng",
+        "Hongbin Luo"
+      ],
+      "confidentiality": "public",
+      "evidence_id": "E126",
+      "identifiers": {
+        "doi": "10.1109/TNSE.2024.3498042",
+        "url": "https://arxiv.org/pdf/2411.10926v1"
+      },
+      "locator": "§III BF转发；§IV分段；§V链路失败；§VI星地切换；§VII实验",
+      "source_type": "journal_article",
+      "title": "Link-identified Routing Architecture in Space",
+      "verification": {
+        "source_opened": false,
+        "status": "unverified",
+        "verified_by": "",
+        "verified_on": ""
+      },
+      "year": null
+    },
+    {
+      "authors": [],
+      "confidentiality": "public",
+      "evidence_id": "E081",
+      "identifiers": {
+        "doi": "10.3390/s25030902",
+        "url": "https://doi.org/10.3390/s25030902"
+      },
+      "locator": "既有来源记录及核读段落；未新增全文完成声明",
+      "source_type": "journal_article",
+      "title": "Hierarchical Resource Management for Mega-LEO Satellite Constellation",
+      "verification": {
+        "source_opened": false,
+        "status": "unverified",
+        "verified_by": "",
+        "verified_on": ""
+      },
+      "year": null
+    },
+    {
+      "authors": [],
+      "confidentiality": "public",
+      "evidence_id": "E082",
+      "identifiers": {
+        "doi": "10.1016/j.actaastro.2020.01.020",
+        "url": "https://doi.org/10.1016/j.actaastro.2020.01.020"
+      },
+      "locator": "既有来源记录及核读段落；未新增全文完成声明",
+      "source_type": "journal_article",
+      "title": "Satellite closest approach calculation through Chebyshev Proxy Polynomials",
+      "verification": {
+        "source_opened": false,
+        "status": "unverified",
+        "verified_by": "",
+        "verified_on": ""
+      },
+      "year": null
+    },
+    {
+      "authors": [],
+      "confidentiality": "public",
+      "evidence_id": "E084",
+      "identifiers": {
+        "doi": "10.3390/aerospace10060543",
+        "url": "https://doi.org/10.3390/aerospace10060543"
+      },
+      "locator": "既有来源记录及核读段落；未新增全文完成声明",
+      "source_type": "journal_article",
+      "title": "Performance Investigation of the Conjunction Filter Methods and Enhancement of Computation Speed on Conjunction Assessment Analysis with CUDA Techniques",
+      "verification": {
+        "source_opened": false,
+        "status": "unverified",
+        "verified_by": "",
+        "verified_on": ""
+      },
+      "year": null
+    },
+    {
+      "authors": [],
+      "confidentiality": "public",
+      "evidence_id": "E087",
+      "identifiers": {
+        "doi": "10.1007/s42064-021-0101-5",
+        "url": "https://doi.org/10.1007/s42064-021-0101-5"
+      },
+      "locator": "既有来源记录及核读段落；未新增全文完成声明",
+      "source_type": "journal_article",
+      "title": "Spacecraft collision avoidance challenge: Design and results of a machine learning competition",
+      "verification": {
+        "source_opened": false,
+        "status": "unverified",
+        "verified_by": "",
+        "verified_on": ""
+      },
+      "year": null
+    },
+    {
+      "authors": [],
+      "confidentiality": "public",
+      "evidence_id": "E086",
+      "identifiers": {
+        "doi": "10.1016/j.actaastro.2025.07.027",
+        "url": "https://doi.org/10.1016/j.actaastro.2025.07.027"
+      },
+      "locator": "既有来源记录及核读段落；未新增全文完成声明",
+      "source_type": "journal_article",
+      "title": "CAMmary: A review of spacecraft collision avoidance manoeuvre design methods",
+      "verification": {
+        "source_opened": false,
+        "status": "unverified",
+        "verified_by": "",
+        "verified_on": ""
+      },
+      "year": null
+    },
+    {
+      "authors": [],
+      "confidentiality": "public",
+      "evidence_id": "E085",
+      "identifiers": {
+        "doi": "10.1007/s12567-022-00471-y",
+        "url": "https://doi.org/10.1007/s12567-022-00471-y"
+      },
+      "locator": "既有来源记录及核读段落；未新增全文完成声明",
+      "source_type": "journal_article",
+      "title": "Simulation of satellites and constellations for the assessment of collision avoidance operations",
+      "verification": {
+        "source_opened": false,
+        "status": "unverified",
+        "verified_by": "",
+        "verified_on": ""
+      },
+      "year": null
+    },
+    {
+      "authors": [],
+      "confidentiality": "public",
+      "evidence_id": "E088",
+      "identifiers": {
+        "doi": "",
+        "url": "https://ccsds.org/publications/bluebooks/entry/3064/"
+      },
+      "locator": "既有来源记录及核读段落；未新增全文完成声明",
+      "source_type": "webpage",
+      "title": "Conjunction Data Message",
+      "verification": {
+        "source_opened": false,
+        "status": "unverified",
+        "verified_by": "",
+        "verified_on": ""
+      },
+      "year": null
+    },
+    {
+      "authors": [],
+      "confidentiality": "public",
+      "evidence_id": "E089",
+      "identifiers": {
+        "doi": "",
+        "url": "https://space-safety.starlink.com/docs/space-safety-articles/starlink_cola_conops/"
+      },
+      "locator": "既有来源记录及核读段落；未新增全文完成声明",
+      "source_type": "webpage",
+      "title": "Starlink Collision Avoidance CONOPS",
+      "verification": {
+        "source_opened": false,
+        "status": "unverified",
+        "verified_by": "",
+        "verified_on": ""
+      },
+      "year": null
+    },
+    {
+      "authors": [],
+      "confidentiality": "public",
+      "evidence_id": "E091",
+      "identifiers": {
+        "doi": "10.2514/1.58436",
+        "url": "https://doi.org/10.2514/1.58436"
+      },
+      "locator": "既有来源记录及核读段落；未新增全文完成声明",
+      "source_type": "journal_article",
+      "title": "Autonomous Trajectory Planning for Rendezvous and Proximity Operations by Conic Optimization",
+      "verification": {
+        "source_opened": false,
+        "status": "unverified",
+        "verified_by": "",
+        "verified_on": ""
+      },
+      "year": null
+    },
+    {
+      "authors": [],
+      "confidentiality": "public",
+      "evidence_id": "E092",
+      "identifiers": {
+        "doi": "10.2514/1.G000218",
+        "url": "https://doi.org/10.2514/1.G000218"
+      },
+      "locator": "既有来源记录及核读段落；未新增全文完成声明",
+      "source_type": "journal_article",
+      "title": "Model Predictive Control of Swarms of Spacecraft Using Sequential Convex Programming",
+      "verification": {
+        "source_opened": false,
+        "status": "unverified",
+        "verified_by": "",
+        "verified_on": ""
+      },
+      "year": null
+    },
+    {
+      "authors": [],
+      "confidentiality": "public",
+      "evidence_id": "E093",
+      "identifiers": {
+        "doi": "10.1016/j.conengprac.2011.09.006",
+        "url": "https://doi.org/10.1016/j.conengprac.2011.09.006"
+      },
+      "locator": "既有来源记录及核读段落；未新增全文完成声明",
+      "source_type": "journal_article",
+      "title": "Chance-constrained model predictive control for spacecraft rendezvous with disturbance estimation",
+      "verification": {
+        "source_opened": false,
+        "status": "unverified",
+        "verified_by": "",
+        "verified_on": ""
+      },
+      "year": null
+    },
+    {
+      "authors": [],
+      "confidentiality": "public",
+      "evidence_id": "E095",
+      "identifiers": {
+        "doi": "10.2514/6.2026-2446",
+        "url": "https://doi.org/10.2514/6.2026-2446"
+      },
+      "locator": "既有来源记录及核读段落；未新增全文完成声明",
+      "source_type": "journal_article",
+      "title": "Continuous-Time Successive Convexification for Passively-Safe Spacecraft Rendezvous on a Near Rectilinear Halo Orbit",
+      "verification": {
+        "source_opened": false,
+        "status": "unverified",
+        "verified_by": "",
+        "verified_on": ""
+      },
+      "year": null
+    },
+    {
+      "authors": [],
+      "confidentiality": "public",
+      "evidence_id": "E096",
+      "identifiers": {
+        "doi": "10.1007/s40295-026-00631-w",
+        "url": "https://doi.org/10.1007/s40295-026-00631-w"
+      },
+      "locator": "§5末段的实际状态校正；§6.2屏蔽开关；§6.3和图10/11的PRM与未屏蔽RL对照",
+      "source_type": "journal_article",
+      "title": "Two Approaches to Autonomous Spacecraft Inspection: Shielded Reinforcement Learning versus Probabilistic Roadmaps",
+      "verification": {
+        "source_opened": false,
+        "status": "unverified",
+        "verified_by": "",
+        "verified_on": ""
+      },
+      "year": null
+    },
+    {
+      "authors": [],
+      "confidentiality": "public",
+      "evidence_id": "E097",
+      "identifiers": {
+        "doi": "",
+        "url": "https://www.astroscale.com/en/news/astroscales-adras-j-achieves-historic-15-meter-approach-to-space-debris"
+      },
+      "locator": "既有来源记录及核读段落；未新增全文完成声明",
+      "source_type": "webpage",
+      "title": "Astroscale’s ADRAS-J Achieves Historic 15-Meter Approach to Space Debris",
+      "verification": {
+        "source_opened": false,
+        "status": "unverified",
+        "verified_by": "",
+        "verified_on": ""
+      },
+      "year": null
+    },
+    {
+      "authors": [],
+      "confidentiality": "public",
+      "evidence_id": "E098",
+      "identifiers": {
+        "doi": "10.1145/3219819.3219845",
+        "url": "https://doi.org/10.1145/3219819.3219845"
+      },
+      "locator": "既有来源记录及核读段落；未新增全文完成声明",
+      "source_type": "journal_article",
+      "title": "Detecting Spacecraft Anomalies Using LSTMs and Nonparametric Dynamic Thresholding",
+      "verification": {
+        "source_opened": false,
+        "status": "unverified",
+        "verified_by": "",
+        "verified_on": ""
+      },
+      "year": null
+    },
+    {
+      "authors": [],
+      "confidentiality": "public",
+      "evidence_id": "E101",
+      "identifiers": {
+        "doi": "10.1007/s12567-023-00529-5",
+        "url": "https://doi.org/10.1007/s12567-023-00529-5"
+      },
+      "locator": "既有来源记录及核读段落；未新增全文完成声明",
+      "source_type": "journal_article",
+      "title": "Unmasking overestimation: a re-evaluation of deep anomaly detection in spacecraft telemetry",
+      "verification": {
+        "source_opened": false,
+        "status": "unverified",
+        "verified_by": "",
+        "verified_on": ""
+      },
+      "year": null
+    },
+    {
+      "authors": [],
+      "confidentiality": "public",
+      "evidence_id": "E102",
+      "identifiers": {
+        "doi": "10.1007/s12567-025-00651-6",
+        "url": "https://doi.org/10.1007/s12567-025-00651-6"
+      },
+      "locator": "既有来源记录及核读段落；未新增全文完成声明",
+      "source_type": "journal_article",
+      "title": "Knowledge-based satellite failure detection, isolation and recovery (FDIR)",
+      "verification": {
+        "source_opened": false,
+        "status": "unverified",
+        "verified_by": "",
+        "verified_on": ""
+      },
+      "year": null
+    },
+    {
+      "authors": [],
+      "confidentiality": "public",
+      "evidence_id": "E108",
+      "identifiers": {
+        "doi": "10.1016/S0004-3702(98)00068-X",
+        "url": "https://doi.org/10.1016/S0004-3702(98)00068-X"
+      },
+      "locator": "既有来源记录及核读段落；未新增全文完成声明",
+      "source_type": "journal_article",
+      "title": "Remote Agent: to boldly go where no AI system has gone before",
+      "verification": {
+        "source_opened": false,
+        "status": "unverified",
+        "verified_by": "",
+        "verified_on": ""
+      },
+      "year": null
+    },
+    {
+      "authors": [],
+      "confidentiality": "public",
+      "evidence_id": "E105",
+      "identifiers": {
+        "doi": "10.1016/j.paerosci.2023.100960",
+        "url": "https://doi.org/10.1016/j.paerosci.2023.100960"
+      },
+      "locator": "既有来源记录及核读段落；未新增全文完成声明",
+      "source_type": "journal_article",
+      "title": "Artificial Intelligence for Trusted Autonomous Satellite Operations",
+      "verification": {
+        "source_opened": false,
+        "status": "unverified",
+        "verified_by": "",
+        "verified_on": ""
+      },
+      "year": null
+    },
+    {
+      "authors": [],
+      "confidentiality": "public",
+      "evidence_id": "E107",
+      "identifiers": {
+        "doi": "10.3390/rs15061577",
+        "url": "https://doi.org/10.3390/rs15061577"
+      },
+      "locator": "既有来源记录及核读段落；未新增全文完成声明",
+      "source_type": "journal_article",
+      "title": "Reasoning-Based Scheduling Method for Agile Earth Observation Satellite with Multi-Subsystem Coupling",
+      "verification": {
+        "source_opened": false,
+        "status": "unverified",
+        "verified_by": "",
+        "verified_on": ""
+      },
+      "year": null
+    },
+    {
+      "authors": [],
+      "confidentiality": "public",
+      "evidence_id": "E111",
+      "identifiers": {
+        "doi": "",
+        "url": "https://ai.jpl.nasa.gov/public/projects/ipex/"
+      },
+      "locator": "既有来源记录及核读段落；未新增全文完成声明",
+      "source_type": "webpage",
+      "title": "IPEX",
+      "verification": {
+        "source_opened": false,
+        "status": "unverified",
+        "verified_by": "",
+        "verified_on": ""
+      },
+      "year": null
+    },
+    {
+      "authors": [],
+      "confidentiality": "public",
+      "evidence_id": "E109",
+      "identifiers": {
+        "doi": "10.1109/SMC-IT.2006.48",
+        "url": "https://doi.org/10.1109/SMC-IT.2006.48"
+      },
+      "locator": "既有来源记录及核读段落；未新增全文完成声明",
+      "source_type": "journal_article",
+      "title": "Mission Operations of Earth Observing-1 with Onboard Autonomy",
+      "verification": {
+        "source_opened": false,
+        "status": "unverified",
+        "verified_by": "",
+        "verified_on": ""
+      },
+      "year": null
+    },
+    {
+      "authors": [],
+      "confidentiality": "public",
+      "evidence_id": "E113",
+      "identifiers": {
+        "doi": "",
+        "url": "https://github.com/nasa/cFS"
+      },
+      "locator": "既有来源记录及核读段落；未新增全文完成声明",
+      "source_type": "webpage",
+      "title": "Core Flight System – Demo Bundle",
+      "verification": {
+        "source_opened": false,
+        "status": "unverified",
+        "verified_by": "",
+        "verified_on": ""
+      },
+      "year": null
+    },
+    {
+      "authors": [
+        "Francesco Basciani",
+        "Arianna Fedeli",
+        "Daniele Masti",
+        "Ludovico Iovino",
+        "Paolo Serri",
+        "Patrizio Pelliccione"
+      ],
+      "confidentiality": "public",
+      "evidence_id": "E119",
+      "identifiers": {
+        "doi": "10.1007/s10270-026-01426-1",
+        "url": "https://doi.org/10.1007/s10270-026-01426-1"
+      },
+      "locator": "§3.1—3.4模型和受监督流程；§4.1专家评价；§4.2及表5工具链；§4.3威胁；§5讨论",
+      "source_type": "journal_article",
+      "title": "A model-driven framework for supervised reconfiguration of satellite schedulers",
+      "verification": {
+        "source_opened": false,
+        "status": "unverified",
+        "verified_by": "",
+        "verified_on": ""
+      },
+      "year": null
+    },
+    {
+      "authors": [],
+      "confidentiality": "public",
+      "evidence_id": "E114",
+      "identifiers": {
+        "doi": "",
+        "url": "https://www.nasa.gov/smallspacecraft/what-is-starling/"
+      },
+      "locator": "既有来源记录及核读段落；未新增全文完成声明",
+      "source_type": "webpage",
+      "title": "What is Starling?",
+      "verification": {
+        "source_opened": false,
+        "status": "unverified",
+        "verified_by": "",
+        "verified_on": ""
+      },
+      "year": null
+    },
+    {
+      "authors": [],
+      "confidentiality": "public",
+      "evidence_id": "E115",
+      "identifiers": {
+        "doi": "",
+        "url": "https://www.nasa.gov/centers-and-facilities/ames/nasa-starling-and-spacex-starlink-improve-space-traffic-coordination/"
+      },
+      "locator": "既有来源记录及核读段落；未新增全文完成声明",
+      "source_type": "webpage",
+      "title": "NASA Starling and SpaceX Starlink Improve Space Traffic Coordination",
+      "verification": {
+        "source_opened": false,
+        "status": "unverified",
+        "verified_by": "",
+        "verified_on": ""
+      },
+      "year": null
+    },
+    {
+      "authors": [],
+      "confidentiality": "public",
+      "evidence_id": "E116",
+      "identifiers": {
+        "doi": "10.2514/1.I010762",
+        "url": "https://doi.org/10.2514/1.I010762"
+      },
+      "locator": "既有来源记录及核读段落；未新增全文完成声明",
+      "source_type": "journal_article",
+      "title": "Basilisk: A Flexible, Scalable and Modular Astrodynamics Simulation Framework",
+      "verification": {
+        "source_opened": false,
+        "status": "unverified",
+        "verified_by": "",
+        "verified_on": ""
+      },
+      "year": null
+    },
+    {
+      "authors": [],
+      "confidentiality": "public",
+      "evidence_id": "E117",
+      "identifiers": {
+        "doi": "10.1007/978-3-031-06773-0_1",
+        "url": "https://doi.org/10.1007/978-3-031-06773-0_1"
+      },
+      "locator": "既有来源记录及核读段落；未新增全文完成声明",
+      "source_type": "journal_article",
+      "title": "Formal Methods for Trusted Space Autonomy: Boon or Bane?",
+      "verification": {
+        "source_opened": false,
+        "status": "unverified",
+        "verified_by": "",
+        "verified_on": ""
+      },
+      "year": null
+    },
+    {
+      "authors": [],
+      "confidentiality": "public",
+      "evidence_id": "E120",
+      "identifiers": {
+        "doi": "10.1007/s10270-025-01281-6",
+        "url": "https://doi.org/10.1007/s10270-025-01281-6"
+      },
+      "locator": "既有来源记录及核读段落；未新增全文完成声明",
+      "source_type": "journal_article",
+      "title": "Model checking of spacecraft operational designs: a scalability analysis",
+      "verification": {
+        "source_opened": false,
+        "status": "unverified",
+        "verified_by": "",
+        "verified_on": ""
+      },
+      "year": null
+    }
+  ]
+}
