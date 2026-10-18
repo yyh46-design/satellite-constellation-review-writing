@@ -1,0 +1,21 @@
+{
+  "baseline_commit": "4194ad110aaf64e502da00ea5474594aacaaa662",
+  "images_redesigned": false,
+  "visible_captions_changed": false,
+  "layout_relocation": "图2及原图注后移至4.3末；仅调整阅读位置及分页，未改图件内容。",
+  "files": [
+    {
+      "path": "assets/fig1_cn.svg",
+      "baseline_sha256": "cd414ed49e76f98a3d757683c953dec1170d88b965126e62a49df6197ae0610f",
+      "new_sha256": "cd414ed49e76f98a3d757683c953dec1170d88b965126e62a49df6197ae0610f",
+      "bytes_unchanged": true
+    },
+    {
+      "path": "assets/fig2_cn.svg",
+      "baseline_sha256": "dfdd10fc4264e2f1763e82fafde3c8f473058340c77bf5b800200fea5655c559",
+      "new_sha256": "dfdd10fc4264e2f1763e82fafde3c8f473058340c77bf5b800200fea5655c559",
+      "bytes_unchanged": true
+    }
+  ],
+  "next_round": "由作者审看正文后再集中讨论图件。"
+}

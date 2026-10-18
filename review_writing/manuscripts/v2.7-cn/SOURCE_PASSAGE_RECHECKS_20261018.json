@@ -1,0 +1,174 @@
+{
+  "scope": "六篇既有来源的定向段落复核；不是新一轮整篇精读",
+  "records": [
+    {
+      "stable_source_id": "E034",
+      "pdf_path": "D:\\SKT727\\materials\\constellation_review_B02_20261015\\034_jpl_author.pdf",
+      "pdf_sha256": "8b0af8efb6e3f61428dd1a59b24c6d914f6db52d8dd48e03c7120e7c0a7593f9",
+      "bytes": 2236393,
+      "pdf_pages": 15,
+      "version_used": "作者机构公开的期刊版式PDF；未在本轮升级正式版配对状态",
+      "physical_pages_text_rechecked": [
+        10
+      ],
+      "visual_pages": [
+        {
+          "physical_page": 10,
+          "path": "D:\\SKT727\\materials\\constellation_review_v2_7_20261018\\source_pages\\E034_p10.png",
+          "sha256": "06b6b5f9d7de2c07df8facd3bbfa62cbf8e4077b4132936c6216c69208ff2f69",
+          "actual_visual_review": true,
+          "reviewer": "AI",
+          "human_verified": false
+        }
+      ],
+      "new_whole_paper_reading": false,
+      "human_verified": false,
+      "formal_version_pair_closed": false
+    },
+    {
+      "stable_source_id": "E042",
+      "pdf_path": "D:\\SKT727\\materials\\constellation_review_B00_20261014\\042_utoronto_author.pdf",
+      "pdf_sha256": "e1db3270d5e8487b7ce6c88ae1baec1463508f7e7ec3532806a06c271dee9ab1",
+      "bytes": 1475988,
+      "pdf_pages": 15,
+      "version_used": "University of Toronto作者稿；正式版本差异仍待核",
+      "physical_pages_text_rechecked": [
+        12,
+        13
+      ],
+      "visual_pages": [
+        {
+          "physical_page": 12,
+          "path": "D:\\SKT727\\materials\\constellation_review_v2_7_20261018\\source_pages\\E042_p12.png",
+          "sha256": "49807001cb8f2d539843d878e9c42540c59e296cdca36e7a78104379bd65b83b",
+          "actual_visual_review": true,
+          "reviewer": "AI",
+          "human_verified": false
+        },
+        {
+          "physical_page": 13,
+          "path": "D:\\SKT727\\materials\\constellation_review_v2_7_20261018\\source_pages\\E042_p13.png",
+          "sha256": "3ea2d9ed595e5e8c8f18d7978be41bdecfca317512d3b53dc6cd4092728a9287",
+          "actual_visual_review": true,
+          "reviewer": "AI",
+          "human_verified": false
+        }
+      ],
+      "new_whole_paper_reading": false,
+      "human_verified": false,
+      "formal_version_pair_closed": false
+    },
+    {
+      "stable_source_id": "E053",
+      "pdf_path": "D:\\SKT727\\materials\\constellation_review_B00_20261014\\053_arxiv_v1_complete.pdf",
+      "pdf_sha256": "b18022c2b14b5c9931fea8192e76751c0899e9f472d90e7d899f46732aba4749",
+      "bytes": 2061414,
+      "pdf_pages": 25,
+      "version_used": "arXiv v1作者预印本；正式版本差异及既有传播疑点仍待核",
+      "physical_pages_text_rechecked": [
+        15,
+        16
+      ],
+      "visual_pages": [
+        {
+          "physical_page": 15,
+          "path": "D:\\SKT727\\materials\\constellation_review_v2_7_20261018\\source_pages\\E053_p15.png",
+          "sha256": "ed6d6249aa146a30c88c1b72bcce7ac112d44c88e5c266c9ee29a54df44e6580",
+          "actual_visual_review": true,
+          "reviewer": "AI",
+          "human_verified": false
+        }
+      ],
+      "new_whole_paper_reading": false,
+      "human_verified": false,
+      "formal_version_pair_closed": false
+    },
+    {
+      "stable_source_id": "E065",
+      "pdf_path": "D:\\SKT727\\materials\\constellation_review_B02_20261015\\065_faculty_author.pdf",
+      "pdf_sha256": "84ec30992797d7ce9d0661dc53534413631561226eccad20a85dfe3fee7ff510",
+      "bytes": 1556999,
+      "pdf_pages": 19,
+      "version_used": "作者机构公开期刊版式PDF；本轮不改变历史版本身份",
+      "physical_pages_text_rechecked": [
+        7,
+        11
+      ],
+      "visual_pages": [
+        {
+          "physical_page": 11,
+          "path": "D:\\SKT727\\materials\\constellation_review_v2_7_20261018\\source_pages\\E065_p11.png",
+          "sha256": "8dbcbde71af3e5265ae1238411be445afb1e411c1d86effdb516ef29068fb484",
+          "actual_visual_review": true,
+          "reviewer": "AI",
+          "human_verified": false
+        }
+      ],
+      "new_whole_paper_reading": false,
+      "human_verified": false,
+      "formal_version_pair_closed": false
+    },
+    {
+      "stable_source_id": "E106",
+      "pdf_path": "D:\\SKT727\\materials\\constellation_review_v2_3_20261017\\source_106.pdf",
+      "pdf_sha256": "121eb23d16d69eaeaafbca36ce20fa6504600a118db8234e2dbcdceb9f96140d",
+      "bytes": 1469951,
+      "pdf_pages": 13,
+      "version_used": "机构仓储的出版社排版PDF（Ad Hoc Networks 151, 103289）",
+      "physical_pages_text_rechecked": [
+        8,
+        10,
+        11
+      ],
+      "visual_pages": [
+        {
+          "physical_page": 10,
+          "path": "D:\\SKT727\\materials\\constellation_review_v2_7_20261018\\source_pages\\E106_p10.png",
+          "sha256": "b5a3842f98fa57f2c3791d48b2fa86fd8c66947d29d7cfdbed062ba0759119f7",
+          "actual_visual_review": true,
+          "reviewer": "AI",
+          "human_verified": false
+        }
+      ],
+      "new_whole_paper_reading": false,
+      "human_verified": false,
+      "formal_version_pair_closed": false
+    },
+    {
+      "stable_source_id": "E121",
+      "pdf_path": "D:\\SKT727\\materials\\constellation_review_B00_20261014\\121_arxiv_v1_complete.pdf",
+      "pdf_sha256": "9c64779192379dc60f8ff79b896ca429b0b63f4f78e2792576729f0226ce032e",
+      "bytes": 7552596,
+      "pdf_pages": 17,
+      "version_used": "arXiv v1作者稿；正式版本差异仍待核",
+      "physical_pages_text_rechecked": [
+        10,
+        11
+      ],
+      "visual_pages": [
+        {
+          "physical_page": 10,
+          "path": "D:\\SKT727\\materials\\constellation_review_v2_7_20261018\\source_pages\\E121_p10.png",
+          "sha256": "ec11cb9a563e0a2b9c7349c9624efe8567036276cf2b5b8ba4c12304559c008c",
+          "actual_visual_review": true,
+          "reviewer": "AI",
+          "human_verified": false
+        },
+        {
+          "physical_page": 11,
+          "path": "D:\\SKT727\\materials\\constellation_review_v2_7_20261018\\source_pages\\E121_p11.png",
+          "sha256": "dbd10d1ab543091fe83d7e5409af05f31dcc4594dc967fbce599370338ea62e7",
+          "actual_visual_review": true,
+          "reviewer": "AI",
+          "human_verified": false
+        }
+      ],
+      "new_whole_paper_reading": false,
+      "human_verified": false,
+      "formal_version_pair_closed": false
+    }
+  ],
+  "new_whole_paper_readings": 0,
+  "formal_version_pairs_closed": 0,
+  "human_verified": false
+}

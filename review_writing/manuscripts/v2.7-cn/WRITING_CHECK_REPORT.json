@@ -1,0 +1,33 @@
+{
+  "version": "v2.7-CN",
+  "scope": "作者授权的正文精修；人工终核尚未完成",
+  "human_verified": false,
+  "checks": [
+    {
+      "name": "main_point_and_contribution",
+      "result": "PASS_WITH_OPEN_ITEMS",
+      "evidence": "摘要、1.2、4.2—4.3与结论对齐：成本来源、共同选择、条件反转；最近邻Sun综述正文仍待取得"
+    },
+    {
+      "name": "paragraph_flow_and_clutter",
+      "result": "PASS_BOUNDED",
+      "evidence": "通用比较规则集中2.3；第4章以具体对照推进，减少反复提醒；不声称全稿所有句子均完成独立人工语言审查"
+    },
+    {
+      "name": "mechanism_and_terms",
+      "result": "PASS_BOUNDED",
+      "evidence": "定义MSR/CGR及路由方法功能；区分目标、求解组织、权限与验证范围"
+    },
+    {
+      "name": "claim_evidence_and_numbers",
+      "result": "PASS_BOUNDED",
+      "evidence": "6篇定向段落复核、8页实际查看；未使用图估读增益、未合并24星、未引入288星未配对数字；六组正式版差异保留"
+    },
+    {
+      "name": "cross_section_consistency",
+      "result": "PASS_BOUNDED",
+      "evidence": "中英文摘要同步，五章与三张方法表一致；95来源/编号不变；英文全文及期刊终核待做"
+    }
+  ],
+  "source_identity_checks": "见PREPUBLICATION_CHECK.json；这些检查不构成人工科学验收"
+}

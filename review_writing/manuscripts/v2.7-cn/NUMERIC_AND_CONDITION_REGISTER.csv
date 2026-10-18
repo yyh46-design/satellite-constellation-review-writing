@@ -1,0 +1,7 @@
+﻿fact_id,stable_source_id,reference,recorded_values,locator,boundary,human_verified
+F27-01,E034,2,100星；一周规划时域；逐日推进及请求状态变化,physical p.10 §V,单线程仿真，并行时间另行估算,False
+F27-02,E042,17,3颗敏捷观测星；12 h；图6期限3—9 h,physical pp.12—13 §5.1/5.4 Fig.6,联合/分开安排同研究对照；无新增百分比或图估读数值,False
+F27-03,E053,48,1颗观测星；23颗边缘星,physical pp.15—16 §5/Table3,两个功能层按作者文字表述，不推断为24颗互不重叠物理卫星；传播疑点未关闭,False
+F27-04,E065,55,4—40星；200—3200目标；0.73 s与170 s,physical p.11 §IV.B,原文两端点同时改变两个规模，MIP计时以可见区间已预计算为前提,False
+F27-05,E106,14,16星、25目标、6网关、10 h；接触可靠性70%,physical pp.8/10—11 §5.4,报告原文描述的失败率优劣反转，不擅自合成百分比分母或普遍阈值,False
+F27-06,E121,15,1584星；600个1 s时槽；建链代价1 ms,physical pp.10—11 TableIII/Fig.3,ILPR/ALPR相对ILSR的局部反例；ISASR仍占优；作者稿且无队列,False

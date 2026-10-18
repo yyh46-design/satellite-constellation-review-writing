@@ -1,0 +1,241 @@
+{
+  "source": "D:\\SKT727\\worktrees\\constellation_review_v2_7_text_20261018\\review_writing\\manuscripts\\v2.7-cn\\REVIEW_CN_v2.7.md",
+  "source_sha256": "93fd5fd2929df561346f82a7865701946b0bfe0757c0c99eee48c3fe62e0a247",
+  "version": "v2.7-CN",
+  "parent_commit": "4194ad110aaf64e502da00ea5474594aacaaa662",
+  "file": {
+    "path": "D:\\SKT727\\outputs\\constellation_review_v2_7_20261018\\REVIEW_CN_v2.7_中文精修稿.docx",
+    "bytes": 1011884,
+    "sha256": "481d928036496b3da1c2171ce2e1f73848bdbd207f01cdb59265e7bff43168a5"
+  },
+  "tables": [
+    {
+      "number": 1,
+      "rows": 6,
+      "columns": 3,
+      "source_line": 37
+    },
+    {
+      "number": 2,
+      "rows": 6,
+      "columns": 3,
+      "source_line": 77
+    },
+    {
+      "number": 3,
+      "rows": 10,
+      "columns": 4,
+      "source_line": 156
+    },
+    {
+      "number": 4,
+      "rows": 11,
+      "columns": 4,
+      "source_line": 204
+    },
+    {
+      "number": 5,
+      "rows": 7,
+      "columns": 3,
+      "source_line": 247
+    },
+    {
+      "number": 6,
+      "rows": 7,
+      "columns": 4,
+      "source_line": 302
+    },
+    {
+      "number": 7,
+      "rows": 9,
+      "columns": 3,
+      "source_line": 341
+    }
+  ],
+  "figures": [
+    {
+      "source": "D:\\SKT727\\materials\\constellation_review_v2_7_20261018\\fig1_cn.png",
+      "alt": "图1 业务过程与共同管理职责"
+    },
+    {
+      "source": "D:\\SKT727\\materials\\constellation_review_v2_7_20261018\\fig2_cn.png",
+      "alt": "图2 决策范围、运行反馈与配置生效"
+    }
+  ],
+  "references": 95,
+  "new_paper_readings": 0,
+  "human_verified": false,
+  "submission_ready": false,
+  "English_full_body_synchronized": false,
+  "page_count": 23,
+  "actual_visual_review_pages": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23
+  ],
+  "visual_review_done": true,
+  "reviewer": "AI",
+  "renderer": "packaged render_docx.py with local native Word converter and PDFium raster adapter",
+  "renderer_package_sha256": "8b48b8f05f30cc6c7b5a7bd8e18e7ea93a61aec1ea601026a3358b2105f0903a",
+  "qa_notes": "逐页查看1—23页，无空白页、截断、重叠；跨页表头重复。图件按作者要求保持原样，内容专项改进留待下一轮。",
+  "rendered_pages": [
+    {
+      "page": 1,
+      "sha256": "39d32e971734cdf7b3b3a8f8e2ad8fd2a436557b1cd234e8cce56cb3137e2bd5",
+      "bytes": 390088,
+      "actual_visual_review": true
+    },
+    {
+      "page": 2,
+      "sha256": "665ccb63fd26f9d42bce69c5c467209e4d48d29b23b37cd213f7541c3bab995c",
+      "bytes": 441555,
+      "actual_visual_review": true
+    },
+    {
+      "page": 3,
+      "sha256": "da3b617c874071608f5883b8d17bf2563c23b61f98f18f6d817418aeac8483a3",
+      "bytes": 458009,
+      "actual_visual_review": true
+    },
+    {
+      "page": 4,
+      "sha256": "c1c1c51be1f185a91707443afdbf1b9b4417948035a457a1e77fbb87485f5fc7",
+      "bytes": 328395,
+      "actual_visual_review": true
+    },
+    {
+      "page": 5,
+      "sha256": "648442d26de713a5dba1445a0616abf12dd08bacec04d0317a6332d86478371a",
+      "bytes": 407202,
+      "actual_visual_review": true
+    },
+    {
+      "page": 6,
+      "sha256": "76ef071fa2af63afc19500231df4d53e8a45c33088ace25cb2e1d7ec1e527122",
+      "bytes": 474936,
+      "actual_visual_review": true
+    },
+    {
+      "page": 7,
+      "sha256": "c6fe497c7a83b0ca3cb07c2337f852aa1762b9f9db2d10e0609f10250d4249ef",
+      "bytes": 484404,
+      "actual_visual_review": true
+    },
+    {
+      "page": 8,
+      "sha256": "e5d7686725ac47355c8ff720b6a06c55701b9cffd324adcad9ed3ef1f3a1c442",
+      "bytes": 393379,
+      "actual_visual_review": true
+    },
+    {
+      "page": 9,
+      "sha256": "8323055651f1471df3e844001366cbfd54dee5b90f58940ac13edcec91a3824c",
+      "bytes": 442022,
+      "actual_visual_review": true
+    },
+    {
+      "page": 10,
+      "sha256": "218a5e0dd5c85ebf82e7f7f633622742800c9aa1206b05d8bc567202a0bd2fc6",
+      "bytes": 394810,
+      "actual_visual_review": true
+    },
+    {
+      "page": 11,
+      "sha256": "e1429eca1b8f2f6f18b8e077b2c485d6b6bc8c9897dccbd99a8856f931ad0b30",
+      "bytes": 398154,
+      "actual_visual_review": true
+    },
+    {
+      "page": 12,
+      "sha256": "d9078b11300ab1c41efe127b35439ece529466767c59a49bbed95c17110389b4",
+      "bytes": 433633,
+      "actual_visual_review": true
+    },
+    {
+      "page": 13,
+      "sha256": "ec020c958d7e6ed69f65d0b97bff7d44012a31fca1c8e62092b4cfecff1189a6",
+      "bytes": 437642,
+      "actual_visual_review": true
+    },
+    {
+      "page": 14,
+      "sha256": "f8b58ba519ff6835ac502f722fa635d08264293efa571eae18d28a76ec448c4c",
+      "bytes": 439839,
+      "actual_visual_review": true
+    },
+    {
+      "page": 15,
+      "sha256": "446ab786e41cb74e3c028a2aa76898e3387629bf349f6e9ebbe3c0847bbb4b58",
+      "bytes": 456249,
+      "actual_visual_review": true
+    },
+    {
+      "page": 16,
+      "sha256": "d31ec8affbe9e85c514e9c105586c735c32f740e133ab1067a276e92b8b0a15a",
+      "bytes": 454585,
+      "actual_visual_review": true
+    },
+    {
+      "page": 17,
+      "sha256": "728fcdecc745f3cabdf656de0a05ca49bf826572e2901876a26eea97da804489",
+      "bytes": 403576,
+      "actual_visual_review": true
+    },
+    {
+      "page": 18,
+      "sha256": "dbab4aa301115ac0fa3901e2ad2a6c62698e822e22a3292d8baf9d40a4ff2e26",
+      "bytes": 416713,
+      "actual_visual_review": true
+    },
+    {
+      "page": 19,
+      "sha256": "208ad17722f9dbb86a2113da6d3a74c2fb78aacf2f4b4c9a2701e53ad7b55d84",
+      "bytes": 362232,
+      "actual_visual_review": true
+    },
+    {
+      "page": 20,
+      "sha256": "0202d4d2cd59fc360f43a6612640d337d7996d09ff21a121a53882877552acae",
+      "bytes": 393175,
+      "actual_visual_review": true
+    },
+    {
+      "page": 21,
+      "sha256": "a4d2c765a97ff45505099f467f0fce27aee7a84368c48ebfb17b672756da8b59",
+      "bytes": 391388,
+      "actual_visual_review": true
+    },
+    {
+      "page": 22,
+      "sha256": "beee8f1527092f90015eb2c57d4eb7fbc88476c75b970b371fcabe746d3896e7",
+      "bytes": 389006,
+      "actual_visual_review": true
+    },
+    {
+      "page": 23,
+      "sha256": "8c3c76818405650cd826a2e49c7ddaa78b633c20298d3fe7991ef18e0663c49c",
+      "bytes": 152583,
+      "actual_visual_review": true
+    }
+  ]
+}
