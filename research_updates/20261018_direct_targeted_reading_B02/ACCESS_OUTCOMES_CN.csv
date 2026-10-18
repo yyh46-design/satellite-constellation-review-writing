@@ -1,0 +1,14 @@
+old_number_or_scope,url_or_route,actual_result,notes
+68,https://iris.polito.it/retrieve/96bbb20b-93c0-4695-b08b-998f363c3a8f/1-s2.0-S1000936125003802-main.pdf,COMPLETE_TEXT_AND_SELECTED_PAGE_IMAGES,正式全文重新打开并完成限定问题的定向阅读；不是新获取PDF；无本地字节
+77,https://www.sciopen.com/article/10.1016/j.cja.2024.09.039,ENTRY_ONLY,官方开放入口存在；完整正文/PDF未取得
+80,https://www.sciencedirect.com/science/article/pii/S2352864822001973,ENTRY_OR_PREVIEW_ONLY,出版社开放标识及摘要可见；本轮完整正文未取得
+80,https://hub.hku.hk/handle/10722/339783,NO_ATTACHED_FILES,同题机构条目明确没有关联文件，不将元数据算全文
+112,https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5247404,ACCESS_BLOCKED,同题入口；完整文件请求受限
+112,https://zenodo.org/records/15274074,ACCESS_BLOCKED,数据/工件身份线索；请求429，未看到文件，不能判为论文
+83,https://www.sciencedirect.com/science/article/pii/S0273117721003410,OPEN_MANUSCRIPT_LINK_ONLY,未打开按钮后完整文件
+90,https://www.researchgate.net/publication/228835933_Safe_Trajectories_for_Autonomous_Rendezvous_of_Spacecraft,SAME_TITLE_AUTHOR_TEXT_REOPENED,17页文本复核；2006会议/2008期刊未配对，不新增计数
+90,https://acl.mit.edu/papers/GNC06_BregerHow_safety.pdf,FETCH_FAILED,MIT同题会议稿HTTP与HTTPS入口均未打开PDF
+103,https://www.nsf-shrec.org/publications/resilient-autonomous-mission-management-decentralized-multi-spacecraft-missions,METADATA_ABSTRACT_ONLY,SHREC正式条目未给出本轮可取得的完整文件
+110,https://ai.jpl.nasa.gov/public/people/jdoubleday/,RELATED_VERSION_ONLY,2014会议稿与目标JAIS文章分别登记，不代替
+118,https://researchconnect.buffalo.edu/en/publications/performance-of-the-asynchronous-consensus-based-bundle-algorithm-/,METADATA_ONLY,机构记录未提供本轮可读完整稿；同题slides不算文章
+core4,ChatGPT Library: exact title search,NO_MATCHING_TARGET_PDF,检索77/80/112/33；结果为综述引用和无关上传，不将综述参考文献反当原论文

@@ -1,0 +1,47 @@
+{
+  "scope": "original mathematical checks only; no paper optimizer or flight replication",
+  "source_doi": "10.1016/j.cja.2025.103774",
+  "budget_support": {
+    "cases": 120,
+    "lp_solves": 240,
+    "max_absolute_difference": 1.7053025658242404e-13,
+    "tolerance": 1e-08,
+    "fractional_example_coeff_minutes": [
+      60,
+      45,
+      20,
+      10
+    ],
+    "budget": 1.5,
+    "support_minutes": 82.5,
+    "max_number_of_nonzero_deviations_is_not_budget": true
+  },
+  "cubic_map": {
+    "identity": "4*cos(theta)^3-3*cos(theta)=cos(3*theta)",
+    "max_identity_error": 1.6653345369377348e-15,
+    "invariant_density": "1/(pi*sqrt(1-x*x)) on (-1,1), not uniform",
+    "outer_probability_abs_x_gt_0p8": 0.40966552939826684,
+    "ensemble_n": 200000,
+    "mapped_ensemble_outer_probability": 0.40967,
+    "uniform_outer_probability": 0.2,
+    "does_not_reproduce_finite_initialization_or_refute_reported_optimizer_results": true
+  },
+  "fuel_accounting": {
+    "table3_delivered_kg": 3300,
+    "table4_sum_kg": 3557.1677,
+    "reported_total_kg": 3557.1677,
+    "difference_propellant_under_paper_assumptions_kg": 257.16769999999997,
+    "difference_fraction_of_total": 0.07229563565417509
+  },
+  "table8_direction_check": {
+    "lowest_mean": "Cubic + HHHO",
+    "lowest_sd": "Logistic + HHHO",
+    "cubic_mean_kg": 8479.4671,
+    "logistic_mean_kg": 8549.7191,
+    "cubic_sd_kg": 39.08,
+    "logistic_sd_kg": 25.81,
+    "no_raw_samples_no_significance_or_per_run_dominance_claim": true
+  },
+  "human_verified": false,
+  "paper_simulation_reproduced": false
+}

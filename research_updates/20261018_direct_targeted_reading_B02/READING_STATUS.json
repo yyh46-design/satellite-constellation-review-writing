@@ -1,0 +1,42 @@
+{
+  "batch": "B02_DIRECT_TARGETED_READING_20261018",
+  "base_commit": "db3b597cc657d13b73d159f727e46d97727e9ce0",
+  "old_number": 68,
+  "doi": "10.1016/j.cja.2025.103774",
+  "version": "publisher version of record in institutional repository",
+  "source_url": "https://iris.polito.it/retrieve/96bbb20b-93c0-4695-b08b-998f363c3a8f/1-s2.0-S1000936125003802-main.pdf",
+  "fulltext_opened_via_web": true,
+  "local_pdf_acquired": false,
+  "pdf_sha256": null,
+  "pdf_page_count": 16,
+  "printed_article_pages": 15,
+  "printed_page_to_one_based_pdf_offset": 1,
+  "printed_page_to_web_zero_based_index_offset": 0,
+  "visual_pages_successfully_checked_this_turn": [1, 5, 6, 7, 8, 11, 12, 14],
+  "visual_page_attempts_failed_this_turn": [3, 9, 10, 13, 15],
+  "body_text_read": ["sections 1-5", "reference list"],
+  "completed_targeted_scope": ["source identity", "decision variables and time of decision", "modeled uncertainty and limitations", "objective meaning", "inner robust counterpart", "outer solver mechanism", "experiment comparators and scale", "admissible manuscript claims"],
+  "not_completed": ["every-page visual review", "full optimizer reproduction", "original experiment log audit", "all orbital formula verification", "human acceptance"],
+  "new_targeted_read_completion": true,
+  "new_fulltext_acquisition_this_turn": false,
+  "previous_status": "partial-targeted-check",
+  "new_status": "TARGETED_READ_COMPLETE_FOR_RECORDED_SCOPE",
+  "human_verified": false,
+  "paper_simulation_reproduced": false,
+  "counters": {
+    "historical_academic_targeted_baseline": 84,
+    "new_unique_targeted_projects": 1,
+    "academic_targeted_coverage_with_increment": 85,
+    "historical34_targeted_completions_registered_here": 1,
+    "historical34_remaining_without_same_completion": 33,
+    "historical24_without_confirmed_fulltext_route_unchanged": 24,
+    "manuscript_reference_count_unchanged": 94
+  },
+  "old90_reopened": {
+    "source": "https://www.researchgate.net/publication/228835933_Safe_Trajectories_for_Autonomous_Rendezvous_of_Spacecraft",
+    "author_17p_text_available": true,
+    "checked_portions": "source identity and passive-abort model Eqs 1-13; not counted as a new reading",
+    "journal_version_parity": false,
+    "count_increment": 0
+  }
+}
