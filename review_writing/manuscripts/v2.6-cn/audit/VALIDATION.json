@@ -1,0 +1,20 @@
+{
+  "checks": {
+    "five_chapters": true,
+    "seven_tables": true,
+    "two_figures": true,
+    "all_95_sources_cited": true,
+    "first_citation_order": true,
+    "reference_list_complete": true,
+    "source_mapping_95_unique": true,
+    "source_index_95_unique": true,
+    "claims_unique": true,
+    "citations_match_evidence_ids": true
+  },
+  "pass": true,
+  "manuscript_sha256": "8d40024e948d4b4bff70c24e069d464679c901158c537d99ca400d88e66297ea",
+  "evidence_mismatches": [],
+  "scientific_verified": false,
+  "human_verified": false,
+  "submission_ready": false
+}

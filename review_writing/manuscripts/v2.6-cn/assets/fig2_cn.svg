@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="1010" viewBox="0 0 1120 1010" role="img">
+<title>决策范围、运行反馈与配置生效</title>
+<desc>联合与顺序描述本轮可改变量；运行反馈可更新两者，但受到信息、权限、承诺与生效时间限制。图为综述归纳，不是验证结果。</desc>
+<defs><marker id="a" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto-start-reverse"><path d="M0,0 L8,4 L0,8 Z" fill="#36516a"/></marker></defs>
+<rect width="1120" height="1010" fill="white"/>
+<g font-family="Noto Sans CJK SC,Microsoft YaHei,SimHei,sans-serif" fill="#182f42">
+<text x="32" y="40" font-size="31" font-weight="700" text-anchor="start">A  本轮决策范围：哪些变量仍可修改？</text>
+<rect x="32" y="61" width="518" height="188" rx="8" fill="#f4f7fa" stroke="#9eafbd" stroke-width="1.5"/>
+<rect x="570" y="61" width="518" height="188" rx="8" fill="#f4f7fa" stroke="#9eafbd" stroke-width="1.5"/>
+<text x="291" y="99" font-size="27" font-weight="700" text-anchor="middle">跨环节共同选择  [17][14]</text>
+<text x="829" y="99" font-size="27" font-weight="700" text-anchor="middle">上游固定后的顺序配置  [48]</text>
+<rect x="51" y="122" width="204" height="74" rx="8" fill="white" stroke="#9eafbd" stroke-width="1.5"/>
+<rect x="327" y="122" width="204" height="74" rx="8" fill="white" stroke="#9eafbd" stroke-width="1.5"/>
+<text x="153" y="153" font-size="23" font-weight="400" text-anchor="middle">采集节点／窗口</text>
+<text x="153" y="181" font-size="24" font-weight="700" text-anchor="middle">可修改</text>
+<text x="429" y="153" font-size="23" font-weight="400" text-anchor="middle">交付路径／资源</text>
+<text x="429" y="181" font-size="23" font-weight="400" text-anchor="middle">共同参与评价</text>
+<path d="M266 159 H315" fill="none" stroke="#36516a" stroke-width="2.4" marker-end="url(#a)" marker-start="url(#a)"/>
+<rect x="589" y="122" width="204" height="74" rx="8" fill="#eceff1" stroke="#9eafbd" stroke-width="1.5"/>
+<rect x="865" y="122" width="204" height="74" rx="8" fill="white" stroke="#9eafbd" stroke-width="1.5"/>
+<text x="691" y="153" font-size="24" font-weight="400" text-anchor="middle">本轮采集</text>
+<text x="691" y="181" font-size="24" font-weight="700" text-anchor="middle">已固定</text>
+<text x="967" y="153" font-size="23" font-weight="400" text-anchor="middle">处理负载／频率</text>
+<text x="967" y="181" font-size="24" font-weight="700" text-anchor="middle">仍可修改</text>
+<path d="M804 159 H853" fill="none" stroke="#36516a" stroke-width="2.4" marker-end="url(#a)"/>
+<text x="291" y="234" font-size="25" font-weight="400" text-anchor="middle">联合模型可以采用分解求解</text>
+<text x="829" y="234" font-size="25" font-weight="400" text-anchor="middle">顺序流程内部可以含联合子问题</text>
+<text x="560" y="279" font-size="23" font-weight="400" text-anchor="middle" fill="#526472">集中或分布式的权限组织，与上述决策范围分开说明。</text>
+<text x="32" y="336" font-size="29" font-weight="700" text-anchor="start">B  运行反馈：按状态变化与权限更新既有安排</text>
+<rect x="32" y="357" width="1056" height="239" rx="8" fill="#f4f8f6" stroke="#a4b8ac" stroke-width="1.5"/>
+<text x="52" y="395" font-size="25" font-weight="700" text-anchor="start">状态更新后，检查：信息时效  ·  修改权限与既有承诺  ·  可行性与生效时间</text>
+<rect x="51" y="417" width="469" height="104" rx="8" fill="white" stroke="#9eafbd" stroke-width="1.5"/>
+<rect x="550" y="417" width="519" height="104" rx="8" fill="white" stroke="#9eafbd" stroke-width="1.5"/>
+<text x="285" y="452" font-size="27" font-weight="700" text-anchor="middle">局部修复</text>
+<text x="809" y="452" font-size="27" font-weight="700" text-anchor="middle">较大范围重规划</text>
+<text x="285" y="487" font-size="24" font-weight="400" text-anchor="middle">例如：仅修改后续路径 [14]</text>
+<text x="809" y="487" font-size="24" font-weight="400" text-anchor="middle">替代任务或扩大重排；按权限与时间</text>
+<path d="M535 409 V527" fill="none" stroke="#36516a" stroke-width="2.4" stroke-dasharray="7 5"/>
+<text x="560" y="562" font-size="24" font-weight="400" text-anchor="middle">未获得可执行修复：检查既有计划及适用处置，不自动沿用旧计划。</text>
+<path d="M20 457 H10 V228 H31" fill="none" stroke="#36516a" stroke-width="2.4" stroke-dasharray="7 5" marker-end="url(#a)"/>
+<path d="M1100 457 H1110 V228 H1089" fill="none" stroke="#36516a" stroke-width="2.4" stroke-dasharray="7 5" marker-end="url(#a)"/>
+<text x="32" y="645" font-size="29" font-weight="700" text-anchor="start">C  从新状态到业务结果：配置生效不等于任务已经完成</text>
+<rect x="32" y="675" width="192" height="95" rx="8" fill="#f4f7fa" stroke="#9eafbd" stroke-width="1.5"/>
+<text x="128" y="711" font-size="25" font-weight="700" text-anchor="middle">状态确认</text>
+<text x="128" y="746" font-size="22" font-weight="400" text-anchor="middle">记录状态时刻</text>
+<rect x="248" y="675" width="192" height="95" rx="8" fill="#f4f7fa" stroke="#9eafbd" stroke-width="1.5"/>
+<text x="344" y="711" font-size="25" font-weight="700" text-anchor="middle">求解与检查</text>
+<text x="344" y="746" font-size="22" font-weight="400" text-anchor="middle">含候选验证</text>
+<rect x="464" y="675" width="192" height="95" rx="8" fill="#f4f7fa" stroke="#9eafbd" stroke-width="1.5"/>
+<text x="560" y="711" font-size="25" font-weight="700" text-anchor="middle">配置生效</text>
+<text x="560" y="746" font-size="22" font-weight="400" text-anchor="middle">含协调与切换</text>
+<rect x="680" y="675" width="192" height="95" rx="8" fill="#f4f7fa" stroke="#9eafbd" stroke-width="1.5"/>
+<text x="776" y="711" font-size="25" font-weight="700" text-anchor="middle">剩余活动执行</text>
+<text x="776" y="746" font-size="22" font-weight="400" text-anchor="middle">采集／处理等</text>
+<rect x="896" y="675" width="192" height="95" rx="8" fill="#f4f7fa" stroke="#9eafbd" stroke-width="1.5"/>
+<text x="992" y="711" font-size="25" font-weight="700" text-anchor="middle">业务结果</text>
+<text x="992" y="746" font-size="22" font-weight="400" text-anchor="middle">按原业务定义</text>
+<path d="M228 721 H243" fill="none" stroke="#36516a" stroke-width="2.4" marker-end="url(#a)"/>
+<path d="M444 721 H459" fill="none" stroke="#36516a" stroke-width="2.4" marker-end="url(#a)"/>
+<path d="M660 721 H675" fill="none" stroke="#36516a" stroke-width="2.4" marker-end="url(#a)"/>
+<path d="M876 721 H891" fill="none" stroke="#36516a" stroke-width="2.4" marker-end="url(#a)"/>
+<path d="M560 791 V828" fill="none" stroke="#36516a" stroke-width="2.4"/>
+<path d="M992 791 V828" fill="none" stroke="#36516a" stroke-width="2.4"/>
+<path d="M562 813 H987" fill="none" stroke="#36516a" stroke-width="2.4" marker-end="url(#a)"/>
+<text x="559" y="860" font-size="23" font-weight="700" text-anchor="middle">最迟生效时刻</text>
+<text x="991" y="860" font-size="23" font-weight="700" text-anchor="middle">请求截止时刻</text>
+<text x="776" y="801" font-size="23" font-weight="400" text-anchor="middle">须留出可行的执行时间</text>
+<text x="32" y="906" font-size="25" font-weight="400" text-anchor="start">比较结果：按期请求／有效交付／持续服务；同时记录计算、协调与生效成本。</text>
+<text x="32" y="944" font-size="23" font-weight="400" text-anchor="start" fill="#526472">以真实事件记录响应时间；可重叠阶段不简单相加，期限依任务与状态确定。</text>
+<text x="32" y="984" font-size="22" font-weight="400" text-anchor="start" fill="#526472">本文归纳；局部绕行、替代任务与扩大重排的验证范围分别说明。</text>
+</g></svg>
