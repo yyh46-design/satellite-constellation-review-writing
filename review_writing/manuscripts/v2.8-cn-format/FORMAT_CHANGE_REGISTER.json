@@ -1,0 +1,52 @@
+{
+  "baseline_commit": "5a832d8f9af4065f5038ef301c724b28be8b4978",
+  "baseline_word_sha256": "481d928036496b3da1c2171ce2e1f73848bdbd207f01cdb59265e7bff43168a5",
+  "source_version": "v2.7-CN",
+  "output_version": "v2.8-CN-format",
+  "changes": [
+    {
+      "item": "页面与正文",
+      "before": "A4单栏；中文正文11 pt、1.35倍行距",
+      "after": "A4及页边距保持；中文11 pt、1.15倍行距；西文Times New Roman"
+    },
+    {
+      "item": "标题层级",
+      "before": "题名17 pt；一级14 pt；二级12 pt；三级11.5 pt",
+      "after": "题名16 pt；一级12 pt；二级11.5 pt；三级11 pt；黑色一致"
+    },
+    {
+      "item": "文末参考文献显示",
+      "before": "1. 至95.；多条作者/题名仍为历史核验文字",
+      "after": "[1]至[95]；悬挂缩进、Times New Roman9.5 pt；条目文字不补名、不重排"
+    },
+    {
+      "item": "七张表格",
+      "before": "浅色整格边框、灰蓝表头底纹",
+      "after": "黑色横线表式，无竖线及底纹，表头下横线，跨页表头重复；单行不拆分"
+    },
+    {
+      "item": "文内引文",
+      "before": "正文、表格及图注中的普通基线[n]",
+      "after": "数字引用改为上标，引用文字、位置和编号保持原样；图中文字留待英文重画"
+    },
+    {
+      "item": "两图的版面尺寸",
+      "before": "12.3 cm与14 cm",
+      "after": "均以15 cm通栏宽显示；图片像素与SVG源内容原样保留，英文精修安排在下一阶段"
+    },
+    {
+      "item": "图2分页位置",
+      "before": "4.3末尾，导致前页较大空白",
+      "after": "移到4.2结尾、4.3之前，紧接引用图2的分析；图内内容及图注文字不变"
+    }
+  ],
+  "scientific_paragraphs_rewritten": 0,
+  "reference_set_or_numbers_changed": false,
+  "bibliographic_identity_text_changed": false,
+  "reference_label_punctuation_only": true,
+  "claim_ids_preserved": "CN27 IDs retained; no science rewrite",
+  "new_whole_paper_readings": 0,
+  "formal_version_pairs_closed": 0,
+  "human_verified": false,
+  "submission_ready": false
+}

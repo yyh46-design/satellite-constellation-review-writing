@@ -1,0 +1,45 @@
+{
+  "format_rule_commit": "5a832d8f9af4065f5038ef301c724b28be8b4978",
+  "manuscript_source_commit": "922d3d18653ac65a5bafc4e9e3adfb9fc425d091",
+  "official_template_sha256": "c1f1ba2a79dfb8ec9fc47d4a1c990d72e06341b41aa2d897adc1a30c3e1ea672",
+  "applied": {
+    "single_column_A4": true,
+    "body_Chinese_11pt": true,
+    "Latin_Times_New_Roman": true,
+    "body_line_spacing_multiple": 1.15,
+    "black_heading_hierarchy": true,
+    "editable_horizontal_rule_tables": 7,
+    "superscript_numeric_citations": 285,
+    "reference_list_labels": "[1] to [95]",
+    "reference_hanging_indent": true,
+    "figure_display_width_cm": 15,
+    "image_alt_text_and_bookmarks_retained": true,
+    "final_word_pages": 21
+  },
+  "project_choices_not_mandates": [
+    "A4 page geometry",
+    "Chinese body font and 11pt size",
+    "1.15 body line spacing",
+    "larger Chinese author-review heading sizes",
+    "10pt Chinese caption readability"
+  ],
+  "open_items": [
+    "Current figure contents are inherited Chinese assets, to be redesigned in English next.",
+    "Full English body not generated.",
+    "Reference author-name/initial/first-six normalization needs complete verified metadata; names were not guessed or added.",
+    "Six formal publication version-pair checks remain open.",
+    "Official complete HTML guide and final submission package fields remain pending.",
+    "Chinese 21-page export does not establish English final pagination compliance.",
+    "Author science review, authorship and declarations remain pending."
+  ],
+  "not_performed": [
+    "scientific text revision",
+    "reference set or number changes",
+    "new full-paper reading",
+    "figure redesign",
+    "submission",
+    "GitHub push"
+  ],
+  "human_verified": false,
+  "submission_ready": false
+}

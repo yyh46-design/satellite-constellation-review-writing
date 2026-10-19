@@ -1,0 +1,98 @@
+{
+  "version": "v2.8-CN-format",
+  "date_client": "2026-10-19",
+  "baseline_commit": "5a832d8f9af4065f5038ef301c724b28be8b4978",
+  "scope": "new format-pass directory only; manifest excludes itself",
+  "files": [
+    {
+      "path": ".gitattributes",
+      "sha256": "a79691a93b46e49ce460c26ef22afcc03d6eca1e63bf2edbc20e96159510f6c9",
+      "bytes": 14
+    },
+    {
+      "path": "assets/fig1_cn.svg",
+      "sha256": "cd414ed49e76f98a3d757683c953dec1170d88b965126e62a49df6197ae0610f",
+      "bytes": 5937
+    },
+    {
+      "path": "assets/fig2_cn.svg",
+      "sha256": "dfdd10fc4264e2f1763e82fafde3c8f473058340c77bf5b800200fea5655c559",
+      "bytes": 7878
+    },
+    {
+      "path": "CJA_FORMAT_APPLICATION.json",
+      "sha256": "32c645f559354e30ddc2a561c5cf1094b82a7a9766d3c076fec7edac028c3e0a",
+      "bytes": 1776
+    },
+    {
+      "path": "CLAIM_EVIDENCE_MAP.csv",
+      "sha256": "b042abd51b7d2bd2068f6cb693630fbb336324cbe89dc4f04714798e4ae520dd",
+      "bytes": 32785
+    },
+    {
+      "path": "CONTENT_PRESERVATION_CHECK.json",
+      "sha256": "c4d3c4748331aefedd86964e045c4764b2c3bf1ac4464728892c7c70d6da5f8f",
+      "bytes": 108662
+    },
+    {
+      "path": "FIGURE_AND_LANGUAGE_POLICY.json",
+      "sha256": "839ca1e9daeb602ad2b2467f247a54759b76cf4dc8334ae0db585389a195e86e",
+      "bytes": 827
+    },
+    {
+      "path": "FIGURE_WORK_BRIEF_EN.md",
+      "sha256": "0bd09503e36d1d7e22d291d343416e8c22705fa5b37d6bd738f90b525c60e171",
+      "bytes": 3874
+    },
+    {
+      "path": "FORMAT_CHANGE_REGISTER.json",
+      "sha256": "a28cedab30ff30a5543a6307708d2052dc4a6d2663ba551eecb33e6318a2bc9d",
+      "bytes": 2124
+    },
+    {
+      "path": "FORMAT_SUMMARY_CN.md",
+      "sha256": "72195dab0473691e747fae49600cf459ad190169b9af056c1488a1923bd3df79",
+      "bytes": 1339
+    },
+    {
+      "path": "README_CN.md",
+      "sha256": "313e09dcfdc1f2f74b719b745d42b6fb5b3564735a777be2753f177fc95796da",
+      "bytes": 2169
+    },
+    {
+      "path": "references/REFERENCE_INDEX.csv",
+      "sha256": "268a45d8196152ce43381f3fdaee24ef81bf2d9575fc2f606ad35116b933bf03",
+      "bytes": 10678
+    },
+    {
+      "path": "references/REFERENCE_NUMBER_MAP.csv",
+      "sha256": "4f859768f0fc024f13c9991e3a2ab18324f52dac6f54100223596152e86dacea",
+      "bytes": 3881
+    },
+    {
+      "path": "REVIEW_CN_v2.8.md",
+      "sha256": "adfc22938179efbaeb49c8f4b0f2c4706b39d13bc9f6dda28ed30034bb54b47e",
+      "bytes": 84749
+    },
+    {
+      "path": "tools/apply_format.py",
+      "sha256": "34f4a88463e2a77c749f3fd4f61dc964487e1eeb4347a7aa1eed61fab400d2c6",
+      "bytes": 14821
+    },
+    {
+      "path": "tools/verify_v28_format.py",
+      "sha256": "8c73456f19b7f26acf4c8759c79eda7cfdec9d8ba636e884556b3f1ff9da256a",
+      "bytes": 10570
+    },
+    {
+      "path": "WORD_OUTPUT_RECEIPT.json",
+      "sha256": "082a067bfd70f1d48c3abc8dac138c87d98e02712e2e34db9f59a78458fff29d",
+      "bytes": 7159
+    }
+  ],
+  "file_count_excluding_manifest": 17,
+  "word_sha256": "b8a34e468faeba1bd526fdc6f779a382d7a78e459ba7917d1d5d5f83dbfbc70f",
+  "scientific_text_changed": false,
+  "human_verified": false,
+  "submission_ready": false
+}

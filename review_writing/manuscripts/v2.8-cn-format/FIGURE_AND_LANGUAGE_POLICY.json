@@ -1,0 +1,20 @@
+{
+  "date_client": "2026-10-19",
+  "direct_user_instruction": "我们目前的正文内容可以先用中文方便我们目前的一个阅读，不过我们目前的绘图精修都可以考虑用英文了",
+  "main_text_language_now": "Chinese",
+  "English_title_and_abstract": "retained",
+  "refined_figure_language": "English",
+  "figure_captions_in_Chinese_review": "Chinese explanation retained; English captions may be stored alongside future English figure assets",
+  "full_manuscript_translation_this_turn": false,
+  "figure_redesign_this_turn": false,
+  "inherited_figures": 2,
+  "planned_figure_count": 4,
+  "planned_numbering_not_yet_applied": true,
+  "submission_figure_widths_cm": [
+    7.5,
+    15
+  ],
+  "English_figure_font": "Times New Roman",
+  "target_font_pt_at_final_size": 7.5,
+  "human_verified": false
+}

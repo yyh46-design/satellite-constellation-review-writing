@@ -1,0 +1,262 @@
+{
+  "source": "D:\\SKT727\\outputs\\constellation_review_v2_7_20261018\\REVIEW_CN_v2.7_中文精修稿.docx",
+  "source_sha256": "481d928036496b3da1c2171ce2e1f73848bdbd207f01cdb59265e7bff43168a5",
+  "source_markdown": "D:\\SKT727\\worktrees\\constellation_review_cja_format_20261019\\review_writing\\manuscripts\\v2.7-cn\\REVIEW_CN_v2.7.md",
+  "source_markdown_sha256": "93fd5fd2929df561346f82a7865701946b0bfe0757c0c99eee48c3fe62e0a247",
+  "formatted_markdown_sha256": "adfc22938179efbaeb49c8f4b0f2c4706b39d13bc9f6dda28ed30034bb54b47e",
+  "file": {
+    "path": "D:\\SKT727\\outputs\\constellation_review_v2_8_format_20261019\\REVIEW_CN_v2.8_CJA格式中文稿.docx",
+    "bytes": 1019450,
+    "sha256": "b8a34e468faeba1bd526fdc6f779a382d7a78e459ba7917d1d5d5f83dbfbc70f"
+  },
+  "patched_package_parts": [
+    "word/document.xml",
+    "word/styles.xml",
+    "docProps/core.xml"
+  ],
+  "numeric_citations_superscripted": 285,
+  "tables": [
+    {
+      "number": 1,
+      "rows": 6,
+      "columns": 3,
+      "header_repeats": true,
+      "no_vertical_lines": true,
+      "no_shading": true,
+      "editable": true
+    },
+    {
+      "number": 2,
+      "rows": 6,
+      "columns": 3,
+      "header_repeats": true,
+      "no_vertical_lines": true,
+      "no_shading": true,
+      "editable": true
+    },
+    {
+      "number": 3,
+      "rows": 10,
+      "columns": 4,
+      "header_repeats": true,
+      "no_vertical_lines": true,
+      "no_shading": true,
+      "editable": true
+    },
+    {
+      "number": 4,
+      "rows": 11,
+      "columns": 4,
+      "header_repeats": true,
+      "no_vertical_lines": true,
+      "no_shading": true,
+      "editable": true
+    },
+    {
+      "number": 5,
+      "rows": 7,
+      "columns": 3,
+      "header_repeats": true,
+      "no_vertical_lines": true,
+      "no_shading": true,
+      "editable": true
+    },
+    {
+      "number": 6,
+      "rows": 7,
+      "columns": 4,
+      "header_repeats": true,
+      "no_vertical_lines": true,
+      "no_shading": true,
+      "editable": true
+    },
+    {
+      "number": 7,
+      "rows": 9,
+      "columns": 3,
+      "header_repeats": true,
+      "no_vertical_lines": true,
+      "no_shading": true,
+      "editable": true
+    }
+  ],
+  "figures": [
+    {
+      "number": 1,
+      "old_width_cm": 12.3,
+      "new_width_cm": 15.0,
+      "image_bytes_changed": false,
+      "image_text_language": "Chinese inherited placeholder",
+      "next_revision_language": "English"
+    },
+    {
+      "number": 2,
+      "old_width_cm": 14.0,
+      "new_width_cm": 15.0,
+      "image_bytes_changed": false,
+      "image_text_language": "Chinese inherited placeholder",
+      "next_revision_language": "English"
+    }
+  ],
+  "references": 95,
+  "page_count": 21,
+  "visual_review_done": true,
+  "human_verified": false,
+  "English_full_body_synchronized": false,
+  "submission_ready": false,
+  "actual_visual_review_pages": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21
+  ],
+  "reviewer": "AI",
+  "renderer": "packaged render_docx.py with local native Word converter and PDFium raster adapter",
+  "renderer_package_sha256": "8b48b8f05f30cc6c7b5a7bd8e18e7ea93a61aec1ea601026a3358b2105f0903a",
+  "visual_findings": "最终第1—21页实际查看完成；正文及表格无截断、覆盖或空白页，长表按整行分页并重复表头；图2后移/前移布局已明确登记，图中文字尚为继承的中文待精修图。",
+  "rendered_pages": [
+    {
+      "page": 1,
+      "sha256": "2890786664930b40271831ed2d6937f9a3dccfddcba93a2551dcbd11680e1400",
+      "bytes": 446975,
+      "actual_visual_review": true
+    },
+    {
+      "page": 2,
+      "sha256": "6296fc9ff4612668addc339ba89bf176c9c9752fd56fa84bf56906f54d417741",
+      "bytes": 460912,
+      "actual_visual_review": true
+    },
+    {
+      "page": 3,
+      "sha256": "7068ddd4465a53703825e7461157d8dc7658d569c935fa942319752b25fca8ef",
+      "bytes": 431903,
+      "actual_visual_review": true
+    },
+    {
+      "page": 4,
+      "sha256": "cae28ca791a127b7381f601a7cb31fb1167be8aea279762b1fead352c3a853ec",
+      "bytes": 319766,
+      "actual_visual_review": true
+    },
+    {
+      "page": 5,
+      "sha256": "af70aa93f335d94ed11990a751fb1f48e69fa597229efa9cb420caf71626ca98",
+      "bytes": 498744,
+      "actual_visual_review": true
+    },
+    {
+      "page": 6,
+      "sha256": "c2c4753fa997900b6d74939f5b26764c3a90c27c03b8886af4cf0d5b6cd3b56d",
+      "bytes": 584340,
+      "actual_visual_review": true
+    },
+    {
+      "page": 7,
+      "sha256": "e1108dbd069e3465fec78c94849e71add14c720611985efbd9dc180ab0aa9ddd",
+      "bytes": 462768,
+      "actual_visual_review": true
+    },
+    {
+      "page": 8,
+      "sha256": "4c72fd2ea2e53b58e2219adba7e1f7003fd9f34be1117b659f52b5be3a26d94d",
+      "bytes": 444926,
+      "actual_visual_review": true
+    },
+    {
+      "page": 9,
+      "sha256": "95bfbe30104aa777d8550fb99d2b86c494ec258d177b536f0b5906245d07aa77",
+      "bytes": 444932,
+      "actual_visual_review": true
+    },
+    {
+      "page": 10,
+      "sha256": "e0e0b53f06a14b4b4f1a62ff8677dde21da4134aaa056d8315b4f50a5777b39d",
+      "bytes": 400013,
+      "actual_visual_review": true
+    },
+    {
+      "page": 11,
+      "sha256": "aeb2981239383c845ddc80f9e3f07f6ff724aa550a1a7cc5b63d828fb6d4c649",
+      "bytes": 467876,
+      "actual_visual_review": true
+    },
+    {
+      "page": 12,
+      "sha256": "024ab4fd2bcab32d6941a17a2700a53cf8743c93d1af0d63fcfcb2dd8f68d561",
+      "bytes": 545837,
+      "actual_visual_review": true
+    },
+    {
+      "page": 13,
+      "sha256": "566aefcc306adfc91910902f1270eb327cd7430e82823b49c91b653da89f4dbd",
+      "bytes": 442202,
+      "actual_visual_review": true
+    },
+    {
+      "page": 14,
+      "sha256": "06991b1559e78406ff1eec7e9ab619b40acb3bdea08a0e657b6ddf28a55b9b96",
+      "bytes": 457287,
+      "actual_visual_review": true
+    },
+    {
+      "page": 15,
+      "sha256": "3c311c29d47b351d3bf96229420a46e80f025a4685ee320425066d219f044fa4",
+      "bytes": 474086,
+      "actual_visual_review": true
+    },
+    {
+      "page": 16,
+      "sha256": "35b977794f584ec1b2d7baf6c62747518a8ee6cc93fb55cdb37b07dca79818b2",
+      "bytes": 520958,
+      "actual_visual_review": true
+    },
+    {
+      "page": 17,
+      "sha256": "7e1ebac280ae155b021051fd1d1f3057f56354cdb76da4105057cd31969effb6",
+      "bytes": 366885,
+      "actual_visual_review": true
+    },
+    {
+      "page": 18,
+      "sha256": "94bdad961c465358cfff0ca8c58fe3b9b70a76523e6ff018ebb5f28c5b824c71",
+      "bytes": 403716,
+      "actual_visual_review": true
+    },
+    {
+      "page": 19,
+      "sha256": "fa70db00258e3cbb613b7bde8104ea5dc542b6e733f7602c1e3cdb79ded56a8e",
+      "bytes": 394614,
+      "actual_visual_review": true
+    },
+    {
+      "page": 20,
+      "sha256": "d25df2ba9c33dfddfe3488d5d52ce283066c9bb04be4f87ad5cd9dff488e8e75",
+      "bytes": 388032,
+      "actual_visual_review": true
+    },
+    {
+      "page": 21,
+      "sha256": "fa081a42254c84c2dad5ec3ece34ee825d5c2065ef82382b2aead332b9156a9b",
+      "bytes": 261632,
+      "actual_visual_review": true
+    }
+  ]
+}

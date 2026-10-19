@@ -1,0 +1,4297 @@
+{
+  "status": "PASS",
+  "scope": "格式、全文及来源身份保持、DOCX包保持和历史不变性；不代表投稿或科学终核",
+  "date_client": "2026-10-19",
+  "baseline_commit": "5a832d8f9af4065f5038ef301c724b28be8b4978",
+  "baseline_files_checked": 560,
+  "checks_passed": 1067,
+  "checks": [
+    {
+      "check": "only_descriptor_and_figure2_relocation_in_markdown",
+      "pass": true
+    },
+    {
+      "check": "five_chapters_seven_tables_two_figures",
+      "pass": true
+    },
+    {
+      "check": "95_reference_entries_unchanged",
+      "pass": true
+    },
+    {
+      "check": "svg_bytes_fig1_cn.svg",
+      "pass": true
+    },
+    {
+      "check": "svg_bytes_fig2_cn.svg",
+      "pass": true
+    },
+    {
+      "check": "source_index_REFERENCE_INDEX.csv",
+      "pass": true
+    },
+    {
+      "check": "source_index_REFERENCE_NUMBER_MAP.csv",
+      "pass": true
+    },
+    {
+      "check": "152_claims_same_identity_and_hash",
+      "pass": true
+    },
+    {
+      "check": "claim_line_CN27C001",
+      "pass": true
+    },
+    {
+      "check": "claim_line_CN27C002",
+      "pass": true
+    },
+    {
+      "check": "claim_line_CN27C003",
+      "pass": true
+    },
+    {
+      "check": "claim_line_CN27C004",
+      "pass": true
+    },
+    {
+      "check": "claim_line_CN27C147",
+      "pass": true
+    },
+    {
+      "check": "claim_line_CN27C005",
+      "pass": true
+    },
+    {
+      "check": "claim_line_CN27C133",
+      "pass": true
+    },
+    {
+      "check": "claim_line_CN27C006",
+      "pass": true
+    },
+    {
+      "check": "claim_line_CN27C007",
+      "pass": true
+    },
+    {
+      "check": "claim_line_CN27C008",
+      "pass": true
+    },
+    {
+      "check": "claim_line_CN27C009",
+      "pass": true
+    },
+    {
+      "check": "claim_line_CN27C010",
+      "pass": true
+    },
+    {
+      "check": "claim_line_CN27C011",
+      "pass": true
+    },
+    {
+      "check": "claim_line_CN27C012",
+      "pass": true
+    },
+    {
+      "check": "claim_line_CN27C013",
+      "pass": true
+    },
+    {
+      "check": "claim_line_CN27C148",
+      "pass": true
+    },
+    {
+      "check": "claim_line_CN27C014",
+      "pass": true
+    },
+    {
+      "check": "claim_line_CN27C015",
+      "pass": true
+    },
+    {
+      "check": "claim_line_CN27C017",
+      "pass": true
+    },
+    {
+      "check": "claim_line_CN27C018",
+      "pass": true
+    },
+    {
+      "check": "claim_line_CN27C016",
+      "pass": true
+    },
+    {
+      "check": "claim_line_CN27C019",
+      "pass": true
+    },
+    {
+      "check": "claim_line_CN27C020",
+      "pass": true
+    },
+    {
+      "check": "claim_line_CN27C021",
+      "pass": true
+    },
+    {
+      "check": "claim_line_CN27C022",
+      "pass": true
+    },
+    {
+      "check": "claim_line_CN27C023",
+      "pass": true
+    },
+    {
+      "check": "claim_line_CN27C024",
+      "pass": true
+    },
+    {
+      "check": "claim_line_CN27C025",
+      "pass": true
+    },
+    {
+      "check": "claim_line_CN27C026",
+      "pass": true
+    },
+    {
+      "check": "claim_line_CN27C154",
+      "pass": true
+    },
+    {
+      "check": "claim_line_CN27C027",
+      "pass": true
+    },
+    {
+      "check": "claim_line_CN27C028",
+      "pass": true
+    },
+    {
+      "check": "claim_line_CN27C029",
+      "pass": true
+    },
+    {
+      "check": "claim_line_CN27C030",
+      "pass": true
+    },
+    {
+      "check": "claim_line_CN27C031",
+      "pass": true
+    },
+    {
+      "check": "claim_line_CN27C032",
+      "pass": true
+    },
+    {
+      "check": "claim_line_CN27C033",
+      "pass": true
+    },
+    {
+      "check": "claim_line_CN27C149",
+      "pass": true
+    },
+    {
+      "check": "claim_line_CN27C034",
+      "pass": true
+    },
+    {
+      "check": "claim_line_CN27C035",
+      "pass": true
+    },
+    {
+      "check": "claim_line_CN27C036",
+      "pass": true
+    },
+    {
+      "check": "claim_line_CN27C037",
+      "pass": true
+    },
+    {
+      "check": "claim_line_CN27C038",
+      "pass": true
+    },
+    {
+      "check": "claim_line_CN27C039",
+      "pass": true
+    },
+    {
+      "check": "claim_line_CN27C040",
+      "pass": true
+    },
+    {
+      "check": "claim_line_CN27C041",
+      "pass": true
+    },
+    {
+      "check": "claim_line_CN27C042",
+      "pass": true
+    },
+    {
+      "check": "claim_line_CN27C043",
+      "pass": true
+    },
+    {
+      "check": "claim_line_CN27C150",
+      "pass": true
+    },
+    {
+      "check": "claim_line_CN27C044",
+      "pass": true
+    },
+    {
+      "check": "claim_line_CN27C045",
+      "pass": true
+    },
+    {
+      "check": "claim_line_CN27C145",
+      "pass": true
+    },
+    {
+      "check": "claim_line_CN27C046",
+      "pass": true
+    },
+    {
+      "check": "claim_line_CN27C047",
+      "pass": true
+    },
+    {
+      "check": "claim_line_CN27C048",
+      "pass": true
+    },
+    {
+      "check": "claim_line_CN27C049",
+      "pass": true
+    },
+    {
+      "check": "claim_line_CN27C050",
+      "pass": true
+    },
+    {
+      "check": "claim_line_CN27C051",
+      "pass": true
+    },
+    {
+      "check": "claim_line_CN27C052",
+      "pass": true
+    },
+    {
+      "check": "claim_line_CN27C053",
+      "pass": true
+    },
+    {
+      "check": "claim_line_CN27C054",
+      "pass": true
+    },
+    {
+      "check": "claim_line_CN27C127",
+      "pass": true
+    },
+    {
+      "check": "claim_line_CN27C055",
+      "pass": true
+    },
+    {
+      "check": "claim_line_CN27C056",
+      "pass": true
+    },
+    {
+      "check": "claim_line_CN27C057",
+      "pass": true
+    },
+    {
+      "check": "claim_line_CN27C058",
+      "pass": true
+    },
+    {
+      "check": "claim_line_CN27C124",
+      "pass": true
+    },
+    {
+      "check": "claim_line_CN27C059",
+      "pass": true
+    },
+    {
+      "check": "claim_line_CN27C060",
+      "pass": true
+    },
+    {
+      "check": "claim_line_CN27C061",
+      "pass": true
+    },
+    {
+      "check": "claim_line_CN27C062",
+      "pass": true
+    },
+    {
+      "check": "claim_line_CN27C125",
+      "pass": true
+    },
+    {
+      "check": "claim_line_CN27C063",
+      "pass": true
+    },
+    {
+      "check": "claim_line_CN27C151",
+      "pass": true
+    },
+    {
+      "check": "claim_line_CN27C064",
+      "pass": true
+    },
+    {
+      "check": "claim_line_CN27C065",
+      "pass": true
+    },
+    {
+      "check": "claim_line_CN27C066",
+      "pass": true
+    },
+    {
+      "check": "claim_line_CN27C067",
+      "pass": true
+    },
+    {
+      "check": "claim_line_CN27C128",
+      "pass": true
+    },
+    {
+      "check": "claim_line_CN27C129",
+      "pass": true
+    },
+    {
+      "check": "claim_line_CN27C130",
+      "pass": true
+    },
+    {
+      "check": "claim_line_CN27C131",
+      "pass": true
+    },
+    {
+      "check": "claim_line_CN27C068",
+      "pass": true
+    },
+    {
+      "check": "claim_line_CN27C069",
+      "pass": true
+    },
+    {
+      "check": "claim_line_CN27C070",
+      "pass": true
+    },
+    {
+      "check": "claim_line_CN27C071",
+      "pass": true
+    },
+    {
+      "check": "claim_line_CN27C072",
+      "pass": true
+    },
+    {
+      "check": "claim_line_CN27C073",
+      "pass": true
+    },
+    {
+      "check": "claim_line_CN27C074",
+      "pass": true
+    },
+    {
+      "check": "claim_line_CN27C075",
+      "pass": true
+    },
+    {
+      "check": "claim_line_CN27C076",
+      "pass": true
+    },
+    {
+      "check": "claim_line_CN27C077",
+      "pass": true
+    },
+    {
+      "check": "claim_line_CN27C078",
+      "pass": true
+    },
+    {
+      "check": "claim_line_CN27C079",
+      "pass": true
+    },
+    {
+      "check": "claim_line_CN27C152",
+      "pass": true
+    },
+    {
+      "check": "claim_line_CN27C080",
+      "pass": true
+    },
+    {
+      "check": "claim_line_CN27C081",
+      "pass": true
+    },
+    {
+      "check": "claim_line_CN27C082",
+      "pass": true
+    },
+    {
+      "check": "claim_line_CN27C083",
+      "pass": true
+    },
+    {
+      "check": "claim_line_CN27C084",
+      "pass": true
+    },
+    {
+      "check": "claim_line_CN27C085",
+      "pass": true
+    },
+    {
+      "check": "claim_line_CN27C086",
+      "pass": true
+    },
+    {
+      "check": "claim_line_CN27C087",
+      "pass": true
+    },
+    {
+      "check": "claim_line_CN27C088",
+      "pass": true
+    },
+    {
+      "check": "claim_line_CN27C090",
+      "pass": true
+    },
+    {
+      "check": "claim_line_CN27C091",
+      "pass": true
+    },
+    {
+      "check": "claim_line_CN27C092",
+      "pass": true
+    },
+    {
+      "check": "claim_line_CN27C126",
+      "pass": true
+    },
+    {
+      "check": "claim_line_CN27C093",
+      "pass": true
+    },
+    {
+      "check": "claim_line_CN27C094",
+      "pass": true
+    },
+    {
+      "check": "claim_line_CN27C135",
+      "pass": true
+    },
+    {
+      "check": "claim_line_CN27C095",
+      "pass": true
+    },
+    {
+      "check": "claim_line_CN27C096",
+      "pass": true
+    },
+    {
+      "check": "claim_line_CN27C097",
+      "pass": true
+    },
+    {
+      "check": "claim_line_CN27C136",
+      "pass": true
+    },
+    {
+      "check": "claim_line_CN27C098",
+      "pass": true
+    },
+    {
+      "check": "claim_line_CN27C137",
+      "pass": true
+    },
+    {
+      "check": "claim_line_CN27C099",
+      "pass": true
+    },
+    {
+      "check": "claim_line_CN27C100",
+      "pass": true
+    },
+    {
+      "check": "claim_line_CN27C138",
+      "pass": true
+    },
+    {
+      "check": "claim_line_CN27C101",
+      "pass": true
+    },
+    {
+      "check": "claim_line_CN27C102",
+      "pass": true
+    },
+    {
+      "check": "claim_line_CN27C103",
+      "pass": true
+    },
+    {
+      "check": "claim_line_CN27C139",
+      "pass": true
+    },
+    {
+      "check": "claim_line_CN27C140",
+      "pass": true
+    },
+    {
+      "check": "claim_line_CN27C105",
+      "pass": true
+    },
+    {
+      "check": "claim_line_CN27C106",
+      "pass": true
+    },
+    {
+      "check": "claim_line_CN27C141",
+      "pass": true
+    },
+    {
+      "check": "claim_line_CN27C146",
+      "pass": true
+    },
+    {
+      "check": "claim_line_CN27C142",
+      "pass": true
+    },
+    {
+      "check": "claim_line_CN27C089",
+      "pass": true
+    },
+    {
+      "check": "claim_line_CN27C107",
+      "pass": true
+    },
+    {
+      "check": "claim_line_CN27C153",
+      "pass": true
+    },
+    {
+      "check": "claim_line_CN27C108",
+      "pass": true
+    },
+    {
+      "check": "claim_line_CN27C109",
+      "pass": true
+    },
+    {
+      "check": "claim_line_CN27C110",
+      "pass": true
+    },
+    {
+      "check": "claim_line_CN27C111",
+      "pass": true
+    },
+    {
+      "check": "claim_line_CN27C112",
+      "pass": true
+    },
+    {
+      "check": "claim_line_CN27C113",
+      "pass": true
+    },
+    {
+      "check": "claim_line_CN27C114",
+      "pass": true
+    },
+    {
+      "check": "claim_line_CN27C115",
+      "pass": true
+    },
+    {
+      "check": "claim_line_CN27C132",
+      "pass": true
+    },
+    {
+      "check": "claim_line_CN27C116",
+      "pass": true
+    },
+    {
+      "check": "claim_line_CN27C117",
+      "pass": true
+    },
+    {
+      "check": "claim_line_CN27C118",
+      "pass": true
+    },
+    {
+      "check": "claim_line_CN27C119",
+      "pass": true
+    },
+    {
+      "check": "claim_line_CN27C143",
+      "pass": true
+    },
+    {
+      "check": "claim_line_CN27C120",
+      "pass": true
+    },
+    {
+      "check": "claim_line_CN27C144",
+      "pass": true
+    },
+    {
+      "check": "claim_line_CN27C121",
+      "pass": true
+    },
+    {
+      "check": "claim_line_CN27C122",
+      "pass": true
+    },
+    {
+      "check": "claim_line_CN27C123",
+      "pass": true
+    },
+    {
+      "check": "retained_word_source_hash",
+      "pass": true
+    },
+    {
+      "check": "package_part_set_preserved",
+      "pass": true
+    },
+    {
+      "check": "only_three_intended_package_parts_changed",
+      "pass": true,
+      "detail": [
+        "docProps/core.xml",
+        "word/document.xml",
+        "word/styles.xml"
+      ]
+    },
+    {
+      "check": "all_media_relationships_fields_and_other_parts_preserved",
+      "pass": true
+    },
+    {
+      "check": "section_geometry_identical",
+      "pass": true
+    },
+    {
+      "check": "reference_bookmarks_retained",
+      "pass": true
+    },
+    {
+      "check": "complete_ordered_word_text_and_tables_equal_markdown",
+      "pass": true,
+      "detail": {
+        "expected": 254,
+        "actual": 254
+      }
+    },
+    {
+      "check": "reference_labels_1_to_95",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_0",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_1",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_2",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_3",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_4",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_5",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_6",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_7",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_8",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_9",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_10",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_11",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_12",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_13",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_14",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_15",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_16",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_17",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_18",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_19",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_20",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_21",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_22",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_23",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_24",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_25",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_26",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_27",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_28",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_29",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_30",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_31",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_32",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_33",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_34",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_35",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_36",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_37",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_38",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_39",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_40",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_41",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_42",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_43",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_44",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_45",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_46",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_47",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_48",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_49",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_50",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_51",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_52",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_53",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_54",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_55",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_56",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_57",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_58",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_59",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_60",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_61",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_62",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_63",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_64",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_65",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_66",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_67",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_68",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_69",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_70",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_71",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_72",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_73",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_74",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_75",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_76",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_77",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_78",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_79",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_80",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_81",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_82",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_83",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_84",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_85",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_86",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_87",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_88",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_89",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_90",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_91",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_92",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_93",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_94",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_95",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_96",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_97",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_98",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_99",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_100",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_101",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_102",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_103",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_104",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_105",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_106",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_107",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_108",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_109",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_110",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_111",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_112",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_113",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_114",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_115",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_116",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_117",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_118",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_119",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_120",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_121",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_122",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_123",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_124",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_125",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_126",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_127",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_128",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_129",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_130",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_131",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_132",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_133",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_134",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_135",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_136",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_137",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_138",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_139",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_140",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_141",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_142",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_143",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_144",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_145",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_146",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_147",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_148",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_149",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_150",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_151",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_152",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_153",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_154",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_155",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_156",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_157",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_158",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_159",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_160",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_161",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_162",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_163",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_164",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_165",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_166",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_167",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_168",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_169",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_170",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_171",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_172",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_173",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_174",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_175",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_176",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_177",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_178",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_179",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_180",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_181",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_182",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_183",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_184",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_185",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_186",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_187",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_188",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_189",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_190",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_191",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_192",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_193",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_194",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_195",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_196",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_197",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_198",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_199",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_200",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_201",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_202",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_203",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_204",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_205",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_206",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_207",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_208",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_209",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_210",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_211",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_212",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_213",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_214",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_215",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_216",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_217",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_218",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_219",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_220",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_221",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_222",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_223",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_224",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_225",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_226",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_227",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_228",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_229",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_230",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_231",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_232",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_233",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_234",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_235",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_236",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_237",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_238",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_239",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_240",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_241",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_242",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_243",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_244",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_245",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_246",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_247",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_248",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_249",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_250",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_251",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_252",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_253",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_254",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_255",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_256",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_257",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_258",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_259",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_260",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_261",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_262",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_263",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_264",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_265",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_266",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_267",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_268",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_269",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_270",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_271",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_272",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_273",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_274",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_275",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_276",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_277",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_278",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_279",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_280",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_281",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_282",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_283",
+      "pass": true
+    },
+    {
+      "check": "superscript_run_284",
+      "pass": true
+    },
+    {
+      "check": "285_citations_all_retained_and_superscript",
+      "pass": true
+    },
+    {
+      "check": "first_citation_order_retained",
+      "pass": true
+    },
+    {
+      "check": "seven_editable_tables",
+      "pass": true
+    },
+    {
+      "check": "header_repeat_1",
+      "pass": true
+    },
+    {
+      "check": "no_cell_fill_1",
+      "pass": true
+    },
+    {
+      "check": "table_no_vertical_1_left",
+      "pass": true
+    },
+    {
+      "check": "table_no_vertical_1_right",
+      "pass": true
+    },
+    {
+      "check": "table_no_vertical_1_insideV",
+      "pass": true
+    },
+    {
+      "check": "three_horizontal_rules_1",
+      "pass": true
+    },
+    {
+      "check": "header_repeat_2",
+      "pass": true
+    },
+    {
+      "check": "no_cell_fill_2",
+      "pass": true
+    },
+    {
+      "check": "table_no_vertical_2_left",
+      "pass": true
+    },
+    {
+      "check": "table_no_vertical_2_right",
+      "pass": true
+    },
+    {
+      "check": "table_no_vertical_2_insideV",
+      "pass": true
+    },
+    {
+      "check": "three_horizontal_rules_2",
+      "pass": true
+    },
+    {
+      "check": "header_repeat_3",
+      "pass": true
+    },
+    {
+      "check": "no_cell_fill_3",
+      "pass": true
+    },
+    {
+      "check": "table_no_vertical_3_left",
+      "pass": true
+    },
+    {
+      "check": "table_no_vertical_3_right",
+      "pass": true
+    },
+    {
+      "check": "table_no_vertical_3_insideV",
+      "pass": true
+    },
+    {
+      "check": "three_horizontal_rules_3",
+      "pass": true
+    },
+    {
+      "check": "header_repeat_4",
+      "pass": true
+    },
+    {
+      "check": "no_cell_fill_4",
+      "pass": true
+    },
+    {
+      "check": "table_no_vertical_4_left",
+      "pass": true
+    },
+    {
+      "check": "table_no_vertical_4_right",
+      "pass": true
+    },
+    {
+      "check": "table_no_vertical_4_insideV",
+      "pass": true
+    },
+    {
+      "check": "three_horizontal_rules_4",
+      "pass": true
+    },
+    {
+      "check": "header_repeat_5",
+      "pass": true
+    },
+    {
+      "check": "no_cell_fill_5",
+      "pass": true
+    },
+    {
+      "check": "table_no_vertical_5_left",
+      "pass": true
+    },
+    {
+      "check": "table_no_vertical_5_right",
+      "pass": true
+    },
+    {
+      "check": "table_no_vertical_5_insideV",
+      "pass": true
+    },
+    {
+      "check": "three_horizontal_rules_5",
+      "pass": true
+    },
+    {
+      "check": "header_repeat_6",
+      "pass": true
+    },
+    {
+      "check": "no_cell_fill_6",
+      "pass": true
+    },
+    {
+      "check": "table_no_vertical_6_left",
+      "pass": true
+    },
+    {
+      "check": "table_no_vertical_6_right",
+      "pass": true
+    },
+    {
+      "check": "table_no_vertical_6_insideV",
+      "pass": true
+    },
+    {
+      "check": "three_horizontal_rules_6",
+      "pass": true
+    },
+    {
+      "check": "header_repeat_7",
+      "pass": true
+    },
+    {
+      "check": "no_cell_fill_7",
+      "pass": true
+    },
+    {
+      "check": "table_no_vertical_7_left",
+      "pass": true
+    },
+    {
+      "check": "table_no_vertical_7_right",
+      "pass": true
+    },
+    {
+      "check": "table_no_vertical_7_insideV",
+      "pass": true
+    },
+    {
+      "check": "three_horizontal_rules_7",
+      "pass": true
+    },
+    {
+      "check": "two_15cm_figures",
+      "pass": true
+    },
+    {
+      "check": "image_alt_text_preserved",
+      "pass": true
+    },
+    {
+      "check": "no_tracked_edits_comments_added",
+      "pass": true
+    },
+    {
+      "check": "11pt_body_and_115_spacing",
+      "pass": true
+    },
+    {
+      "check": "word_receipt_hash",
+      "pass": true
+    },
+    {
+      "check": "all_final_pages_actually_viewed",
+      "pass": true
+    },
+    {
+      "check": "history_README.md",
+      "pass": true
+    },
+    {
+      "check": "history_research_updates/20261018_direct_targeted_reading_B02/ACCESS_OUTCOMES_CN.csv",
+      "pass": true
+    },
+    {
+      "check": "history_research_updates/20261018_direct_targeted_reading_B02/INDEPENDENT_CHECKS_CN.md",
+      "pass": true
+    },
+    {
+      "check": "history_research_updates/20261018_direct_targeted_reading_B02/OLD068_TARGETED_READING_CN.md",
+      "pass": true
+    },
+    {
+      "check": "history_research_updates/20261018_direct_targeted_reading_B02/PROPOSED_MANUSCRIPT_TEXT_CN.md",
+      "pass": true
+    },
+    {
+      "check": "history_research_updates/20261018_direct_targeted_reading_B02/READING_STATUS.json",
+      "pass": true
+    },
+    {
+      "check": "history_research_updates/20261018_direct_targeted_reading_B02/README_CN.md",
+      "pass": true
+    },
+    {
+      "check": "history_research_updates/20261018_direct_targeted_reading_B02/independent_check_results.json",
+      "pass": true
+    },
+    {
+      "check": "history_research_updates/20261018_direct_targeted_reading_B02/independent_checks.py",
+      "pass": true
+    },
+    {
+      "check": "history_research_updates/20261018_missing34_fulltext_handoff/CODEX_HANDOFF_CN.md",
+      "pass": true
+    },
+    {
+      "check": "history_research_updates/20261018_missing34_fulltext_handoff/FULLTEXT_ACCESS_LEDGER.csv",
+      "pass": true
+    },
+    {
+      "check": "history_research_updates/20261018_missing34_fulltext_handoff/READING_CARD_OLD068_CN.md",
+      "pass": true
+    },
+    {
+      "check": "history_research_updates/20261018_missing34_fulltext_handoff/README_CN.md",
+      "pass": true
+    },
+    {
+      "check": "history_research_updates/20261018_missing34_fulltext_handoff/SCIENTIFIC_EVIDENCE_POLICY_CN.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/.gitignore",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/README.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/discussion/CJA_TARGET_AND_REFINEMENT_SEQUENCE_20261017.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/discussion/GPT_WRITING_STANDARDS_BRIEF.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/discussion/WRITING_RULES_DECISIONS.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/CHAPTER_QUESTION_MAP.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/FIRST_READING_QUEUE_40.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/MAPPING_BY_SECTION.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/literature_evidence_mapping_148.csv",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B00_20261014/.gitattributes",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B00_20261014/ACCESS_ATTEMPTS.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B00_20261014/B01_B02_READINESS.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B00_20261014/CLAIM_DEPENDENCY_MAP.csv",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B00_20261014/DEPENDENCY_MAP_AUDIT.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B00_20261014/FROZEN_INPUTS.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B00_20261014/LOCAL_PDF_INVENTORY.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B00_20261014/README.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B00_20261014/SHA256_MANIFEST.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B00_20261014/SOURCE_ACCESS_DETAILS.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B00_20261014/SOURCE_ACCESS_REGISTER.csv",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B00_20261014/UNAVAILABLE_AND_BLOCKERS.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B00_20261014/VERSION_COMPARISON_QUEUE.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B00_20261014/WEB_ACCESS_OBSERVATIONS.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B01_20261014/.gitattributes",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B01_20261014/CLAIM_CHECKS_B01.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B01_20261014/CROSS_STUDY_COMPARISON.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B01_20261014/OPEN_ITEMS_B01.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B01_20261014/OPEN_ITEM_STATUS_B01.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B01_20261014/PAIR_121_AUTHOR_VERSIONS.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B01_20261014/READING_NOTES_042.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B01_20261014/READING_NOTES_044.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B01_20261014/READING_NOTES_053.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B01_20261014/READING_NOTES_074.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B01_20261014/READING_NOTES_076.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B01_20261014/READING_NOTES_121.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B01_20261014/READING_SCOPE_B01.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B01_20261014/README.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B01_20261014/SHA256_MANIFEST.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B01_20261014/SOURCE_MANIFEST_B01.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B01_20261014/V19_CHANGE_CANDIDATES.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B01_20261014/V19_DEPENDENCY_CHECK_INDEX.csv",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B02_20261015/.gitattributes",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B02_20261015/ACCESS_OBSERVATIONS.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B02_20261015/CLAIM_CHECKS_B02.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B02_20261015/CROSS_STUDY_SYNTHESIS.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B02_20261015/CUMULATIVE_READING_STATUS.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B02_20261015/CUMULATIVE_READING_STATUS.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B02_20261015/ENGINEERING_CASE_INTEGRATION.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B02_20261015/OPEN_ITEMS_B02.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B02_20261015/OPEN_ITEM_STATUS_B02.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B02_20261015/READING_NOTES_017.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B02_20261015/READING_NOTES_023.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B02_20261015/READING_NOTES_027.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B02_20261015/READING_NOTES_028.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B02_20261015/READING_NOTES_034.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B02_20261015/READING_NOTES_065.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B02_20261015/READING_NOTES_084.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B02_20261015/READING_NOTES_085.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B02_20261015/READING_NOTES_087.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B02_20261015/READING_NOTES_095.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B02_20261015/READING_NOTES_098.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B02_20261015/READING_NOTES_108.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B02_20261015/READING_NOTES_109.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B02_20261015/READING_NOTES_117.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B02_20261015/READING_NOTES_120.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B02_20261015/READING_SCOPE_B02.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B02_20261015/README.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B02_20261015/SHA256_MANIFEST.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B02_20261015/SOURCE_ACCESS_REGISTER.csv",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B02_20261015/SOURCE_MANIFEST_B02.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B02_20261015/V19_CHANGE_CANDIDATES.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B02_20261015/V19_DEPENDENCY_CHECK_INDEX.csv",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B02_20261015/VERIFICATION_B02.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B03_20261015/.gitattributes",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B03_20261015/ACCESS_OBSERVATIONS.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B03_20261015/CLAIM_CHECKS_B03.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B03_20261015/COMPARISON_MATRIX.csv",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B03_20261015/CROSS_STUDY_SYNTHESIS.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B03_20261015/CUMULATIVE_READING_STATUS.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B03_20261015/CUMULATIVE_READING_STATUS.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B03_20261015/ENGINEERING_CASE_DSN.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B03_20261015/OPEN_ITEMS_B03.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B03_20261015/OPEN_ITEM_STATUS_B03.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B03_20261015/READING_NOTES_012.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B03_20261015/READING_NOTES_013.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B03_20261015/READING_NOTES_014.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B03_20261015/READING_NOTES_020.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B03_20261015/READING_NOTES_021.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B03_20261015/READING_NOTES_024.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B03_20261015/READING_NOTES_025.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B03_20261015/READING_NOTES_036.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B03_20261015/READING_NOTES_041.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B03_20261015/READING_NOTES_047.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B03_20261015/READING_NOTES_048.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B03_20261015/READING_NOTES_049.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B03_20261015/READING_NOTES_050.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B03_20261015/READING_NOTES_058.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B03_20261015/READING_NOTES_116.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B03_20261015/READING_SCOPE_B03.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B03_20261015/README.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B03_20261015/SHA256_MANIFEST.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B03_20261015/SOURCE_ACCESS_REGISTER.csv",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B03_20261015/SOURCE_MANIFEST_B03.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B03_20261015/V19_CHANGE_CANDIDATES.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B03_20261015/V19_DEPENDENCY_CHECK_INDEX.csv",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B03_20261015/VERIFICATION_B03.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B04_20261015/.gitattributes",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B04_20261015/ACCESS_OBSERVATIONS.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B04_20261015/CLAIM_CHECKS_B04.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B04_20261015/COMPARISON_MATRIX.csv",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B04_20261015/CROSS_STUDY_SYNTHESIS.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B04_20261015/CUMULATIVE_DERIVED_LEDGER_121.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B04_20261015/CUMULATIVE_READING_STATUS.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B04_20261015/CUMULATIVE_READING_STATUS.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B04_20261015/OPEN_ITEMS_B04.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B04_20261015/OPEN_ITEM_STATUS_B04.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B04_20261015/READING_NOTES_002.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B04_20261015/READING_NOTES_005.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B04_20261015/READING_NOTES_007.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B04_20261015/READING_NOTES_008.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B04_20261015/READING_NOTES_016.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B04_20261015/READING_NOTES_019.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B04_20261015/READING_NOTES_026.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B04_20261015/READING_NOTES_030.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B04_20261015/READING_NOTES_039.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B04_20261015/READING_NOTES_057.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B04_20261015/READING_NOTES_061.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B04_20261015/READING_NOTES_062.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B04_20261015/READING_NOTES_072.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B04_20261015/READING_NOTES_086.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B04_20261015/READING_NOTES_092.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B04_20261015/READING_SCOPE_B04.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B04_20261015/README.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B04_20261015/REVIEW_POSITIONING.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B04_20261015/SHA256_MANIFEST.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B04_20261015/SOURCE_ACCESS_REGISTER.csv",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B04_20261015/SOURCE_MANIFEST_B04.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B04_20261015/V19_CHANGE_CANDIDATES.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B04_20261015/V19_DEPENDENCY_CHECK_INDEX.csv",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B04_20261015/VERIFICATION_B04.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B04_20261015/VERSION_COMPARISON_QUEUE.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B05_20261016/.gitattributes",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B05_20261016/ACCESS_OBSERVATIONS.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B05_20261016/CLAIM_CHECKS_B05.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B05_20261016/CLAIM_DEPENDENCY_MAP.csv",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B05_20261016/COMPARISON_MATRIX.csv",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B05_20261016/CROSS_STUDY_SYNTHESIS.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B05_20261016/CUMULATIVE_DERIVED_LEDGER_121.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B05_20261016/CUMULATIVE_READING_STATUS.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B05_20261016/CUMULATIVE_READING_STATUS.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B05_20261016/INTEGRITY_CHECK.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B05_20261016/NEXT_BATCH_READINESS.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B05_20261016/OPEN_ITEMS_B05.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B05_20261016/OPEN_ITEM_STATUS_B05.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B05_20261016/READING_NOTES_003.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B05_20261016/READING_NOTES_004.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B05_20261016/READING_NOTES_006.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B05_20261016/READING_NOTES_011.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B05_20261016/READING_NOTES_015.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B05_20261016/READING_NOTES_016.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B05_20261016/READING_NOTES_037.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B05_20261016/READING_NOTES_041.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B05_20261016/READING_NOTES_049.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B05_20261016/READING_NOTES_057.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B05_20261016/READING_NOTES_061.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B05_20261016/READING_NOTES_062.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B05_20261016/READING_NOTES_091.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B05_20261016/READING_NOTES_092.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B05_20261016/READING_NOTES_105.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B05_20261016/READING_SCOPE_B05.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B05_20261016/README.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B05_20261016/SHA256_MANIFEST.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B05_20261016/SOURCE_ACCESS_REGISTER.csv",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B05_20261016/SOURCE_MANIFEST_B05.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B05_20261016/UNAVAILABLE_AND_BLOCKERS.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B05_20261016/V19_CHANGE_CANDIDATES.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B05_20261016/V19_DEPENDENCY_CHECK_INDEX.csv",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B05_20261016/VERSION_COMPARISON_QUEUE.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B05_20261016/VISUAL_INSPECTION_RECEIPT.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B06_20261016/.gitattributes",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B06_20261016/ACCESS_OBSERVATIONS.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B06_20261016/CLAIM_CHECKS_B06.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B06_20261016/CLAIM_DEPENDENCY_MAP.csv",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B06_20261016/COMPARISON_MATRIX.csv",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B06_20261016/CROSS_STUDY_SYNTHESIS.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B06_20261016/CUMULATIVE_DERIVED_LEDGER_121.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B06_20261016/CUMULATIVE_READING_STATUS.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B06_20261016/CUMULATIVE_READING_STATUS.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B06_20261016/EXCLUDED_MATERIAL_AUDIT.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B06_20261016/INTEGRITY_CHECK.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B06_20261016/NEXT_BATCH_READINESS.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B06_20261016/OPEN_ITEMS_B06.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B06_20261016/OPEN_ITEM_STATUS_B06.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B06_20261016/READING_NOTES_001.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B06_20261016/READING_NOTES_010.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B06_20261016/READING_NOTES_023.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B06_20261016/READING_NOTES_027.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B06_20261016/READING_NOTES_034.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B06_20261016/READING_NOTES_036.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B06_20261016/READING_NOTES_065.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B06_20261016/READING_NOTES_093.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B06_20261016/READING_NOTES_095.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B06_20261016/READING_NOTES_098.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B06_20261016/READING_NOTES_101.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B06_20261016/READING_NOTES_102.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B06_20261016/READING_NOTES_108.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B06_20261016/READING_NOTES_117.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B06_20261016/READING_NOTES_120.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B06_20261016/READING_SCOPE_B06.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B06_20261016/README.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B06_20261016/SHA256_MANIFEST.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B06_20261016/SOURCE_ACCESS_REGISTER.csv",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B06_20261016/SOURCE_MANIFEST_B06.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B06_20261016/UNAVAILABLE_AND_BLOCKERS.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B06_20261016/V19_CHANGE_CANDIDATES.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B06_20261016/V19_DEPENDENCY_CHECK_INDEX.csv",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B06_20261016/VERSION_COMPARISON_QUEUE.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B06_20261016/VISUAL_INSPECTION_RECEIPT.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B07_20261016/.gitattributes",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B07_20261016/ACCESS_OBSERVATIONS.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B07_20261016/CLAIM_CHECKS_B07.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B07_20261016/CLAIM_DEPENDENCY_MAP.csv",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B07_20261016/COMPARISON_MATRIX.csv",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B07_20261016/CROSS_STUDY_SYNTHESIS.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B07_20261016/CUMULATIVE_DERIVED_LEDGER_121.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B07_20261016/CUMULATIVE_READING_STATUS.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B07_20261016/CUMULATIVE_READING_STATUS.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B07_20261016/DISCOVERY_METADATA_REGISTER.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B07_20261016/EXCLUDED_MATERIAL_AUDIT.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B07_20261016/INTEGRITY_CHECK.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B07_20261016/NEXT_BATCH_READINESS.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B07_20261016/OPEN_ITEMS_B07.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B07_20261016/OPEN_ITEM_STATUS_B07.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B07_20261016/READING_NOTES_017.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B07_20261016/READING_NOTES_020.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B07_20261016/READING_NOTES_021.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B07_20261016/READING_NOTES_024.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B07_20261016/READING_NOTES_025.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B07_20261016/READING_NOTES_028.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B07_20261016/READING_NOTES_047.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B07_20261016/READING_NOTES_048.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B07_20261016/READING_NOTES_058.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B07_20261016/READING_NOTES_072.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B07_20261016/READING_NOTES_082.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B07_20261016/READING_NOTES_084.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B07_20261016/READING_NOTES_086.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B07_20261016/READING_NOTES_087.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B07_20261016/READING_NOTES_116.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B07_20261016/READING_SCOPE_B07.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B07_20261016/README.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B07_20261016/SHA256_MANIFEST.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B07_20261016/SOURCE_ACCESS_REGISTER.csv",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B07_20261016/SOURCE_MANIFEST_B07.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B07_20261016/UNAVAILABLE_AND_BLOCKERS.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B07_20261016/V19_CHANGE_CANDIDATES.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B07_20261016/V19_DEPENDENCY_CHECK_INDEX.csv",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B07_20261016/VERSION_COMPARISON_QUEUE.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B07_20261016/VISUAL_INSPECTION_RECEIPT.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B08_20261016/.gitattributes",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B08_20261016/ACCESS_OBSERVATIONS.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B08_20261016/CLAIM_CHECKS_B08.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B08_20261016/CLAIM_DEPENDENCY_MAP.csv",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B08_20261016/CODE_AUDIT_100.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B08_20261016/CODE_SOURCE_REGISTER_100.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B08_20261016/CROSS_STUDY_SYNTHESIS.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B08_20261016/CUMULATIVE_DERIVED_LEDGER_121.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B08_20261016/CUMULATIVE_READING_STATUS.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B08_20261016/CUMULATIVE_READING_STATUS.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B08_20261016/DISCOVERY_METADATA_REGISTER.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B08_20261016/EXCLUDED_MATERIAL_AUDIT.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B08_20261016/INTEGRITY_CHECK.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B08_20261016/NEXT_BATCH_READINESS.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B08_20261016/OPEN_ITEMS_B08.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B08_20261016/OPEN_ITEM_STATUS_B08.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B08_20261016/READING_SCOPE_B08.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B08_20261016/README.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B08_20261016/SHA256_MANIFEST.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B08_20261016/SOURCE_ACCESS_REGISTER.csv",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B08_20261016/SOURCE_MANIFEST_B08.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B08_20261016/UNAVAILABLE_AND_BLOCKERS.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B08_20261016/V19_CHANGE_CANDIDATES.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B08_20261016/VERSION_COMPARISON_QUEUE.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B09_20261016/.gitattributes",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B09_20261016/ACCESS_OBSERVATIONS.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B09_20261016/CLAIM_DEPENDENCY_MAP.csv",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B09_20261016/CUMULATIVE_READING_STATUS.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B09_20261016/NEXT_READING_READINESS.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B09_20261016/README.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B09_20261016/SHA256_MANIFEST.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B09_20261016/SOURCE_ACCESS_DETAILS.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B09_20261016/SOURCE_ACCESS_REGISTER.csv",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B09_20261016/SUPPLEMENTARY_MATERIALS_REGISTER.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B09_20261016/TARGETED_CHECK_NOTES.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B09_20261016/UNAVAILABLE_AND_BLOCKERS.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B09_20261016/VERSION_COMPARISON_QUEUE.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B09_20261016/verify_b09.py",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B10_20261016/.gitattributes",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B10_20261016/ACCESS_OBSERVATIONS.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B10_20261016/CLAIM_CHECKS_B10.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B10_20261016/CLAIM_DEPENDENCY_MAP.csv",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B10_20261016/CROSS_STUDY_SYNTHESIS.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B10_20261016/CUMULATIVE_READING_STATUS.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B10_20261016/OPEN_ITEMS_B10.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B10_20261016/READING_NOTES_B10.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B10_20261016/README.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B10_20261016/REPLACEMENT_DECISION_MATRIX.csv",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B10_20261016/SHA256_MANIFEST.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B10_20261016/SOURCE_ACCESS_REGISTER.csv",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B10_20261016/SOURCE_MANIFEST_B10.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B10_20261016/V21_REPLACEMENT_CANDIDATES.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_batches/B10_20261016/verify_b10.py",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_inventory_20261013/AUDIT_PROVENANCE_CN.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_inventory_20261013/NEXT_READING_QUEUE_CN.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_inventory_20261013/READING_LEDGER_121.csv",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_inventory_20261013/READING_LEDGER_121.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_inventory_20261013/READING_STATUS_SUMMARY_CN.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/evidence/reading_inventory_20261013/README.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/framework/FIVE_CHAPTER_OUTLINE.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/journal_requirements/CJA_20261019/.gitattributes",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/journal_requirements/CJA_20261019/CJA_FORMAT_BASELINE_CN.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/journal_requirements/CJA_20261019/CONFLICTS_AND_OPEN_ITEMS_CN.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/journal_requirements/CJA_20261019/FORMAT_RULES.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/journal_requirements/CJA_20261019/PROJECT_STYLE_PROFILE.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/journal_requirements/CJA_20261019/README_CN.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/journal_requirements/CJA_20261019/SHA256_MANIFEST.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/journal_requirements/CJA_20261019/SOURCE_ACCESS_REGISTER.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/journal_requirements/CJA_20261019/TEMPLATE_OBSERVATION_PROFILE.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/journal_requirements/CJA_20261019/V27_FORMAT_GAP_CHECK.csv",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/journal_requirements/CJA_20261019/VERIFICATION_REPORT.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/journal_requirements/CJA_20261019/verify_format_baseline.py",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/literature/LITERATURE_INDEX_148.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/literature/PENDING_CANDIDATES.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/literature/literature_index_148.csv",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/literature/references_148.bib",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/manuscripts/.gitattributes",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/manuscripts/v1.5/REVIEW_MAIN_DRAFT_v1.5.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/manuscripts/v1.6/CORE_CLAIM_CHECKS_ROUND1.csv",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/manuscripts/v1.6/CORE_LITERATURE_AUDIT_ROUND1.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/manuscripts/v1.6/CORE_LITERATURE_AUDIT_ROUND1.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/manuscripts/v1.6/GPT_NEXT_STEPS_v1.6.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/manuscripts/v1.6/NARRATIVE_COMPARISON_v1.6.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/manuscripts/v1.6/PACKAGE_MANIFEST_v1.6.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/manuscripts/v1.6/README.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/manuscripts/v1.6/REMAINING_SOURCE_VERIFICATION_QUEUE_v1.6.csv",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/manuscripts/v1.6/REVIEW_MAIN_DRAFT_v1.6.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/manuscripts/v1.6/REVIEW_MAIN_DRAFT_v1.6_PREVIEW.html",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/manuscripts/v1.6/REVISION_NOTES_v1.6.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/manuscripts/v1.6/SOURCE_AND_CLAIM_RECORD_v1.6.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/manuscripts/v1.8/REVIEW_CN_v1.8.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/manuscripts/v1.8/REVISION_CHARTER_v1.0.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/manuscripts/v1.9/CHANGES_v1.8_TO_v1.9.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/manuscripts/v1.9/CHAPTER_ARGUMENT_AUDIT_v1.8_to_v1.9.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/manuscripts/v1.9/CONTRIBUTION_EVIDENCE_MAP_v1.9.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/manuscripts/v1.9/CORE_LITERATURE_AUDIT_ROUND4.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/manuscripts/v1.9/CORE_LITERATURE_AUDIT_ROUND4.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/manuscripts/v1.9/OPEN_ITEMS_v1.9.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/manuscripts/v1.9/README.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/manuscripts/v1.9/REVIEW_CN_v1.9.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/manuscripts/v1.9/REVISION_GATE_STATUS_v1.9.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/manuscripts/v1.9/SOURCE_CITATION_INDEX_121_v1.9.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/manuscripts/v2.0/.gitattributes",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/manuscripts/v2.0/ABSTRACT_ONLY_USE_REGISTER.csv",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/manuscripts/v2.0/AUTHOR_MATERIALS_PENDING.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/manuscripts/v2.0/BIBLIOGRAPHIC_UPDATE_REGISTER.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/manuscripts/v2.0/BILINGUAL_ALIGNMENT.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/manuscripts/v2.0/CHANGES_v1.9_TO_v2.0.diff",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/manuscripts/v2.0/CLAIM_EVIDENCE_REGISTER.csv",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/manuscripts/v2.0/FIGURE_PROVENANCE.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/manuscripts/v2.0/FIRST_CITATION_ORDER_PROPOSAL.csv",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/manuscripts/v2.0/INTEGRITY_CHECK.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/manuscripts/v2.0/JOURNAL_POLICY_CHECK.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/manuscripts/v2.0/PDF_DELIVERY_MANIFEST.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/manuscripts/v2.0/README.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/manuscripts/v2.0/REVIEW_CN_v2.0.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/manuscripts/v2.0/REVIEW_EN_v2.0.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/manuscripts/v2.0/REVIEW_METHODS_AND_LIMITS.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/manuscripts/v2.0/REVISION_GATE_STATUS_v2.0.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/manuscripts/v2.0/REVISION_METRICS.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/manuscripts/v2.0/REVISION_REGISTER.csv",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/manuscripts/v2.0/REVISION_REPORT_CN.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/manuscripts/v2.0/SEARCH_PROVENANCE.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/manuscripts/v2.0/SHA256_MANIFEST.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/manuscripts/v2.0/SOURCE_MANIFEST_v2.0.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/manuscripts/v2.0/SOURCE_USE_MAP.csv",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/manuscripts/v2.0/SUBMISSION_COMPONENTS_DRAFT.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/manuscripts/v2.0/SUBMISSION_READINESS.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/manuscripts/v2.0/WRITING_CHECK_REPORT.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/manuscripts/v2.0/assets/fig1_cn.svg",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/manuscripts/v2.0/assets/fig1_en.svg",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/manuscripts/v2.0/assets/fig2_cn.svg",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/manuscripts/v2.0/assets/fig2_en.svg",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/manuscripts/v2.1-cn/.gitattributes",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/manuscripts/v2.1-cn/CHANGES_FROM_v2.0.diff",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/manuscripts/v2.1-cn/CLAIM_MAP_CN.csv",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/manuscripts/v2.1-cn/INTEGRITY_CHECK.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/manuscripts/v2.1-cn/README.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/manuscripts/v2.1-cn/REVIEW_CN_v2.1.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/manuscripts/v2.1-cn/REVISION_REGISTER_CN.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/manuscripts/v2.1-cn/SHA256_MANIFEST.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/manuscripts/v2.1-cn/SUBMISSION_GAP_ASSESSMENT_CN.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/manuscripts/v2.1-cn/assets/fig1_cn.svg",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/manuscripts/v2.1-cn/assets/fig2_cn.svg",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/manuscripts/v2.2-cn/.gitattributes",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/manuscripts/v2.2-cn/ABSTRACT_USE_POLICY_CN.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/manuscripts/v2.2-cn/ASSESSMENT_AND_NEXT_STEPS_CN.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/manuscripts/v2.2-cn/B10_ADOPTION_REGISTER.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/manuscripts/v2.2-cn/CHANGES_FROM_v2.1.diff",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/manuscripts/v2.2-cn/CLAIM_EVIDENCE_MAP.csv",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/manuscripts/v2.2-cn/CORE_PASSAGE_RECHECK_20261017.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/manuscripts/v2.2-cn/PREPUBLICATION_CHECK.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/manuscripts/v2.2-cn/README.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/manuscripts/v2.2-cn/REFERENCE_NUMBER_MAP.csv",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/manuscripts/v2.2-cn/REVIEW_CN_v2.2.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/manuscripts/v2.2-cn/REVISION_REGISTER_CN.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/manuscripts/v2.2-cn/REVISION_SCOPE_AND_COUNTS.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/manuscripts/v2.2-cn/SHA256_MANIFEST.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/manuscripts/v2.2-cn/SOURCE_IDENTIFIERS_FOR_CHECK.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/manuscripts/v2.2-cn/SOURCE_MANIFEST_v2.2.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/manuscripts/v2.2-cn/SUBMISSION_OPEN_ITEMS_CN.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/manuscripts/v2.2-cn/WORD_OUTPUT_RECEIPT.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/manuscripts/v2.2-cn/WRITING_CHECK_REPORT.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/manuscripts/v2.2-cn/WRITING_QUALITY_REVIEW_CN.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/manuscripts/v2.2-cn/assets/fig1_cn.svg",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/manuscripts/v2.2-cn/assets/fig2_cn.svg",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/manuscripts/v2.2-cn/tools/verify_v22.py",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/manuscripts/v2.3-cn/.gitattributes",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/manuscripts/v2.3-cn/ASSESSMENT_AND_NEXT_STEPS_CN.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/manuscripts/v2.3-cn/CHANGES_FROM_v2.2.diff",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/manuscripts/v2.3-cn/CJA_STYLE_STATUS.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/manuscripts/v2.3-cn/CLAIM_EVIDENCE_MAP.csv",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/manuscripts/v2.3-cn/NUMERIC_FACT_REGISTER.csv",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/manuscripts/v2.3-cn/PREPUBLICATION_CHECK.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/manuscripts/v2.3-cn/README.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/manuscripts/v2.3-cn/REFERENCE_NUMBER_MAP.csv",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/manuscripts/v2.3-cn/REVIEW_CN_v2.3.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/manuscripts/v2.3-cn/REVISION_REGISTER_CN.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/manuscripts/v2.3-cn/REVISION_SCOPE_AND_COUNTS.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/manuscripts/v2.3-cn/SHA256_MANIFEST.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/manuscripts/v2.3-cn/SOURCE_IDENTIFIERS_FOR_CHECK.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/manuscripts/v2.3-cn/SOURCE_MANIFEST_v2.3.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/manuscripts/v2.3-cn/SUBMISSION_OPEN_ITEMS_CN.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/manuscripts/v2.3-cn/SYNTHESIS_EVIDENCE_MATRIX.csv",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/manuscripts/v2.3-cn/TARGETED_RECHECK_20261017.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/manuscripts/v2.3-cn/WORD_OUTPUT_RECEIPT.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/manuscripts/v2.3-cn/WRITING_CHECK_REPORT.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/manuscripts/v2.3-cn/WRITING_QUALITY_REVIEW_CN.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/manuscripts/v2.3-cn/assets/fig1_cn.svg",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/manuscripts/v2.3-cn/assets/fig2_cn.svg",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/manuscripts/v2.3-cn/tools/verify_v23.py",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/manuscripts/v2.6-cn/CODEX_LOCAL_ARCHIVE_CN.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/manuscripts/v2.6-cn/README_CN.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/manuscripts/v2.6-cn/REVIEW_CN_v2.6.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/manuscripts/v2.6-cn/REVISION_SUMMARY_CN.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/manuscripts/v2.6-cn/SUBMISSION_OPEN_ITEMS_CN.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/manuscripts/v2.6-cn/assets/fig1_cn.svg",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/manuscripts/v2.6-cn/assets/fig2_cn.svg",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/manuscripts/v2.6-cn/audit/CONTRIBUTION_EVIDENCE_MATRIX.csv",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/manuscripts/v2.6-cn/audit/NEAREST_REVIEW_SCOPE_CHECK_CN.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/manuscripts/v2.6-cn/audit/VALIDATION.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/manuscripts/v2.6-cn/audit/WORD_OUTPUT_RECEIPT.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/manuscripts/v2.6-cn/references/REFERENCE_INDEX.csv",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/manuscripts/v2.6-cn/references/REFERENCE_NUMBER_MAP.csv",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/manuscripts/v2.6-cn/references/SOURCE_PROVENANCE_CN.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/manuscripts/v2.6-cn/tools/verify_v26.py",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/manuscripts/v2.7-cn/.gitattributes",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/manuscripts/v2.7-cn/CHANGES_FROM_v2.6.diff",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/manuscripts/v2.7-cn/CLAIM_EVIDENCE_MAP.csv",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/manuscripts/v2.7-cn/FIGURE_FREEZE_REGISTER.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/manuscripts/v2.7-cn/METADATA_CORRECTION_REGISTER.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/manuscripts/v2.7-cn/NUMERIC_AND_CONDITION_REGISTER.csv",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/manuscripts/v2.7-cn/PREPUBLICATION_CHECK.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/manuscripts/v2.7-cn/README_CN.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/manuscripts/v2.7-cn/REVIEW_CN_v2.7.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/manuscripts/v2.7-cn/REVISION_REGISTER_CN.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/manuscripts/v2.7-cn/REVISION_SCOPE_AND_COUNTS.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/manuscripts/v2.7-cn/REVISION_SUMMARY_CN.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/manuscripts/v2.7-cn/SHA256_MANIFEST.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/manuscripts/v2.7-cn/SOURCE_PASSAGE_RECHECKS_20261018.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/manuscripts/v2.7-cn/SUBMISSION_OPEN_ITEMS_CN.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/manuscripts/v2.7-cn/WORD_OUTPUT_RECEIPT.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/manuscripts/v2.7-cn/WRITING_CHECK_REPORT.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/manuscripts/v2.7-cn/assets/fig1_cn.svg",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/manuscripts/v2.7-cn/assets/fig2_cn.svg",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/manuscripts/v2.7-cn/references/REFERENCE_INDEX.csv",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/manuscripts/v2.7-cn/references/REFERENCE_NUMBER_MAP.csv",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/manuscripts/v2.7-cn/references/SOURCE_PROVENANCE_CN.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/manuscripts/v2.7-cn/tools/verify_v27.py",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/provenance/PACKAGE_MANIFEST.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/provenance/PUBLICATION_SCOPE.md",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/snapshots/literature_20261009/annotations.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/snapshots/literature_20261009/build_literature.mjs",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/snapshots/literature_20261009/crossref_discovery.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/snapshots/literature_20261009/crossref_metadata.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/snapshots/literature_20261009/delivery_audit.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/snapshots/literature_20261009/formula_error_scan.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/snapshots/literature_20261009/literature_records.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/snapshots/literature_20261009/search_queries.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/snapshots/literature_20261009/workbook_inspection.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/snapshots/literature_20261009/星座运维综述文献矩阵_20261009.xlsx",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/snapshots/literature_round2_20261009/build_round2.mjs",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/snapshots/literature_round2_20261009/crossref_discovery.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/snapshots/literature_round2_20261009/crossref_metadata.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/snapshots/literature_round2_20261009/delivery_audit.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/snapshots/literature_round2_20261009/export_check.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/snapshots/literature_round2_20261009/formula_error_scan.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/snapshots/literature_round2_20261009/literature_records.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/snapshots/literature_round2_20261009/round2_annotations.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/snapshots/literature_round2_20261009/search_queries.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/snapshots/literature_round2_20261009/source_access.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/snapshots/literature_round2_20261009/workbook_inspection.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/snapshots/literature_round2_20261009/星座运维方法研究_第二轮_20261009.xlsx",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/snapshots/literature_round3_20261009/build_round3.mjs",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/snapshots/literature_round3_20261009/candidates.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/snapshots/literature_round3_20261009/crossref_discovery.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/snapshots/literature_round3_20261009/crossref_metadata.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/snapshots/literature_round3_20261009/delivery_audit.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/snapshots/literature_round3_20261009/formula_error_scan.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/snapshots/literature_round3_20261009/literature_records.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/snapshots/literature_round3_20261009/round3_annotations.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/snapshots/literature_round3_20261009/search_queries.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/snapshots/literature_round3_20261009/workbook_inspection.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/snapshots/literature_round3_20261009/星座智能运维综述文献库_第三轮扩展_20261009.xlsx",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/snapshots/literature_round4_20261009/build_round4.mjs",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/snapshots/literature_round4_20261009/candidates.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/snapshots/literature_round4_20261009/crossref_discovery.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/snapshots/literature_round4_20261009/crossref_metadata.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/snapshots/literature_round4_20261009/delivery_audit.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/snapshots/literature_round4_20261009/formula_error_scan.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/snapshots/literature_round4_20261009/literature_records.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/snapshots/literature_round4_20261009/round4_annotations.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/snapshots/literature_round4_20261009/search_queries.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/snapshots/literature_round4_20261009/workbook_inspection.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/snapshots/literature_round4_20261009/星座智能运维综述文献库_第四轮补检_20261009.xlsx",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/snapshots/review_evidence_mapping_v2_20261009/build_mapping.mjs",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/snapshots/review_evidence_mapping_v2_20261009/delivery_audit.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/snapshots/review_evidence_mapping_v2_20261009/formula_scan.ndjson",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/snapshots/review_evidence_mapping_v2_20261009/inspection.ndjson",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/snapshots/review_evidence_mapping_v2_20261009/mapping_records.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/snapshots/review_evidence_mapping_v2_20261009/五章综述_章节研究问题文献证据对应表_148篇_v2_20261009.xlsx",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/snapshots/review_framework_v1_20261009/build_framework.mjs",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/snapshots/review_framework_v1_20261009/delivery_audit.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/snapshots/review_framework_v1_20261009/error_scan.ndjson",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/snapshots/review_framework_v1_20261009/framework_plan.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/snapshots/review_framework_v1_20261009/inspection.ndjson",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/snapshots/review_framework_v1_20261009/screening_records.json",
+      "pass": true
+    },
+    {
+      "check": "history_review_writing/snapshots/review_framework_v1_20261009/星座综述框架与148篇文献初筛_v1_20261009.xlsx",
+      "pass": true
+    },
+    {
+      "check": "history_batch_exact",
+      "pass": true
+    },
+    {
+      "check": "new_directory_only",
+      "pass": true
+    },
+    {
+      "check": "no_docx_or_thirdparty_binary_in_repo",
+      "pass": true
+    }
+  ],
+  "word_sha256": "b8a34e468faeba1bd526fdc6f779a382d7a78e459ba7917d1d5d5f83dbfbc70f",
+  "source_word_sha256": "481d928036496b3da1c2171ce2e1f73848bdbd207f01cdb59265e7bff43168a5",
+  "superscript_citations": 285,
+  "word_blocks": 254,
+  "references": 95,
+  "tables": 7,
+  "figures": 2,
+  "scientific_text_changed": false,
+  "human_verified": false,
+  "submission_ready": false
+}
