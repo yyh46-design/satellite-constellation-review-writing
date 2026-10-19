@@ -1,0 +1,188 @@
+{
+  "access_date_client": "2026-10-19",
+  "sources": [
+    {
+      "file": "official_download_index.html",
+      "url": "https://hkxb.buaa.edu.cn/CN/column/column86.shtml",
+      "final_url": "https://hkxb.buaa.edu.cn/CN/column/column86.shtml",
+      "http_status": 200,
+      "bytes": 27530,
+      "sha256": "0f58a826efb919a8900ad96ea588c8a8e2266a7cd8f82fe572ce430088c3b4f1",
+      "headers": {
+        "Content-Type": "text/html;charset=UTF-8",
+        "Date": "Mon, 19 Oct 2026 01:52:22 GMT",
+        "Last-Modified": "Wed, 14 Oct 2026 08:23:55 GMT"
+      },
+      "download_success": true
+    },
+    {
+      "file": "CJA_template_top.docx",
+      "url": "https://hkxb.buaa.edu.cn/attached/file/20261014/20261014162317_850.docx",
+      "final_url": "https://hkxb.buaa.edu.cn/attached/file/20261014/20261014162317_850.docx",
+      "http_status": 200,
+      "bytes": 2069607,
+      "sha256": "c1f1ba2a79dfb8ec9fc47d4a1c990d72e06341b41aa2d897adc1a30c3e1ea672",
+      "headers": {
+        "Content-Type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document;charset=UTF-8",
+        "Date": "Mon, 19 Oct 2026 01:52:22 GMT",
+        "Etag": "W/\"2069607-1791966197219\"",
+        "Last-Modified": "Wed, 14 Oct 2026 08:23:17 GMT"
+      },
+      "download_success": true
+    },
+    {
+      "file": "CJA_template_lower.docx",
+      "url": "https://hkxb.buaa.edu.cn/attached/file/20261014/20261014162338_450.docx",
+      "final_url": "https://hkxb.buaa.edu.cn/attached/file/20261014/20261014162338_450.docx",
+      "http_status": 200,
+      "bytes": 2069607,
+      "sha256": "c1f1ba2a79dfb8ec9fc47d4a1c990d72e06341b41aa2d897adc1a30c3e1ea672",
+      "headers": {
+        "Content-Type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document;charset=UTF-8",
+        "Date": "Mon, 19 Oct 2026 01:52:22 GMT",
+        "Etag": "W/\"2069607-1791966218017\"",
+        "Last-Modified": "Wed, 14 Oct 2026 08:23:38 GMT"
+      },
+      "download_success": true
+    },
+    {
+      "file": "CJA_reference_top.doc",
+      "url": "https://hkxb.buaa.edu.cn/attached/file/20200305/20200305150915_318.doc",
+      "final_url": "https://hkxb.buaa.edu.cn/attached/file/20200305/20200305150915_318.doc",
+      "http_status": 200,
+      "bytes": 57856,
+      "sha256": "10027c8e8aa4220081c5280860d867a3c8eb42196971243fb84ab020ccddbe2e",
+      "headers": {
+        "Content-Type": "application/msword;charset=UTF-8",
+        "Date": "Mon, 19 Oct 2026 01:52:22 GMT",
+        "Etag": "W/\"57856-1583392155410\"",
+        "Last-Modified": "Thu, 05 Mar 2020 07:09:15 GMT"
+      },
+      "download_success": true
+    },
+    {
+      "file": "CJA_reference_lower.doc",
+      "url": "https://hkxb.buaa.edu.cn/attached/file/20180703/20180703103642_865.doc",
+      "final_url": "https://hkxb.buaa.edu.cn/attached/file/20180703/20180703103642_865.doc",
+      "http_status": 200,
+      "bytes": 57856,
+      "sha256": "148a0e9e8b5bd2b1e8823c279ac6fc3a13f502656d6b0b7fe70312f0fa36259c",
+      "headers": {
+        "Content-Type": "application/msword;charset=UTF-8",
+        "Date": "Mon, 19 Oct 2026 01:52:22 GMT",
+        "Etag": "W/\"57856-1530585402617\"",
+        "Last-Modified": "Tue, 03 Jul 2018 02:36:42 GMT"
+      },
+      "download_success": true
+    },
+    {
+      "file": "CJA_variable_form.doc",
+      "url": "https://hkxb.buaa.edu.cn/attached/file/20180620/Variable%20explanation%20form.doc",
+      "final_url": "https://hkxb.buaa.edu.cn/attached/file/20180620/Variable%20explanation%20form.doc",
+      "http_status": 200,
+      "bytes": 53760,
+      "sha256": "5649c27d8d5e54eb7774cccf85c2d258dd30f01de9229ef7c3c9a087d59995df",
+      "headers": {
+        "Content-Type": "application/msword;charset=UTF-8",
+        "Date": "Mon, 19 Oct 2026 01:52:22 GMT",
+        "Etag": "W/\"53760-1562122024842\"",
+        "Last-Modified": "Wed, 03 Jul 2019 02:47:04 GMT"
+      },
+      "download_success": true
+    },
+    {
+      "file": "CJA_title_page_chinese.doc",
+      "url": "https://hkxb.buaa.edu.cn/attached/file/20260828/20260828154933_615.doc",
+      "final_url": "https://hkxb.buaa.edu.cn/attached/file/20260828/20260828154933_615.doc",
+      "http_status": 200,
+      "bytes": 44544,
+      "sha256": "df1e26accdcc0ca1fe844fd7f4c692b6a2d92c051d6dbc904b9d5d292f89cf58",
+      "headers": {
+        "Content-Type": "application/msword;charset=UTF-8",
+        "Date": "Mon, 19 Oct 2026 01:52:22 GMT",
+        "Etag": "W/\"44544-1787903373266\"",
+        "Last-Modified": "Fri, 28 Aug 2026 07:49:33 GMT"
+      },
+      "download_success": true
+    },
+    {
+      "file": "CJA_template_live_top.docx",
+      "url": "https://hkxb.buaa.edu.cn/attached/file/20261014/20261014161407_191.docx",
+      "http_status": 200,
+      "bytes": 2069607,
+      "sha256": "c1f1ba2a79dfb8ec9fc47d4a1c990d72e06341b41aa2d897adc1a30c3e1ea672",
+      "last_modified": "Wed, 14 Oct 2026 08:14:07 GMT",
+      "download_success": true,
+      "core_modified": "2026-10-14 08:10:00+00:00",
+      "same_as_previously_linked_template": true
+    },
+    {
+      "file": "CJA_template_live_lower.docx",
+      "url": "https://hkxb.buaa.edu.cn/attached/file/20261014/20261014161440_342.docx",
+      "http_status": 200,
+      "bytes": 2069607,
+      "sha256": "c1f1ba2a79dfb8ec9fc47d4a1c990d72e06341b41aa2d897adc1a30c3e1ea672",
+      "last_modified": "Wed, 14 Oct 2026 08:14:40 GMT",
+      "download_success": true,
+      "core_modified": "2026-10-14 08:10:00+00:00",
+      "same_as_previously_linked_template": true
+    }
+  ],
+  "official_template_core_modified": "2026-10-14T08:10:00Z",
+  "template_urls_all_same_bytes": true,
+  "template_pages_visually_reviewed": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "reviewer": "AI",
+  "human_verified": false,
+  "official_docs_kept_outside_git": "D:\\SKT727\\materials\\cja_format_audit_20261019",
+  "blocked_or_limited_entries": [
+    {
+      "url": "https://www.sciencedirect.com/journal/chinese-journal-of-aeronautics/publish/guide-for-authors",
+      "status": "web open Internal Error; complete HTML not acquired"
+    },
+    {
+      "url": "https://www.elsevier.com/journals/chinese-journal-of-aeronautics/1000-9361/guide-for-authors",
+      "status": "403 Forbidden; stopped, no bypass"
+    },
+    {
+      "url": "https://www.sciencedirect.com/journal/chinese-journal-of-aeronautics/publish/guide-for-authors",
+      "status": "normal in-app browser attempt timed out; no content read"
+    },
+    {
+      "url": "https://hkxb.buaa.edu.cn/CN/column/column86.shtml",
+      "status": "web cached template link paths differ from direct HTML links, but four linked DOCX files were all HTTP200 and byte-identical"
+    }
+  ],
+  "other_official_entries": [
+    {
+      "id": "SCIOPEN",
+      "url": "https://www.sciopen.com/journal/join_journal/submission_guidelines?id=1808700965752745985&issn=1000-9361",
+      "observed": "links to ScienceDirect guide and Editorial Manager"
+    },
+    {
+      "id": "E_FORMAT",
+      "url": "https://www.elsevier.com/about/policies-and-standards/author/artwork-and-media-instructions/artwork-formats-checklist",
+      "observed": "publisher general format guidance"
+    },
+    {
+      "id": "E_SIZE",
+      "url": "https://www.elsevier.com/about/policies-and-standards/author/artwork-and-media-instructions/artwork-sizing",
+      "observed": "publisher general sizing, CJA-specific template takes precedence"
+    },
+    {
+      "id": "E_QUICK",
+      "url": "https://supportcontent.elsevier.com/Support%20Hub/Journals/Get-Published-Quick-Guide-July2024.pdf",
+      "observed": "publisher general English and readable/self-contained display guidance"
+    },
+    {
+      "id": "PORTAL",
+      "url": "https://www.editorialmanager.com/cjoa/default.aspx",
+      "observed": "web result displayed development-site warning; no login or submission performed; live entry must be rechecked before submitting"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "date_client": "2026-10-19",
+  "scope": "CJA format record only; manifest excludes itself",
+  "baseline_commit": "922d3d18653ac65a5bafc4e9e3adfb9fc425d091",
+  "files": [
+    {
+      "path": ".gitattributes",
+      "sha256": "a79691a93b46e49ce460c26ef22afcc03d6eca1e63bf2edbc20e96159510f6c9",
+      "bytes": 14
+    },
+    {
+      "path": "CJA_FORMAT_BASELINE_CN.md",
+      "sha256": "a381bdeeb9dccb1438e1a1253e228cffc013fbe33c1136af01628987409959fa",
+      "bytes": 7445
+    },
+    {
+      "path": "CONFLICTS_AND_OPEN_ITEMS_CN.md",
+      "sha256": "aa92c3aae0df09f584c6325112979bce28c9454fdc60d99b629a7f2481962c1e",
+      "bytes": 2062
+    },
+    {
+      "path": "FORMAT_RULES.json",
+      "sha256": "1ccfa572526eaf53944d94ca6e08a606d2d28db342ce48d72812298c92c3affe",
+      "bytes": 14957
+    },
+    {
+      "path": "PROJECT_STYLE_PROFILE.json",
+      "sha256": "f2a64bcbd81b9bb2c83741f49453be0aa41912326d71a99e50f76ce7bba69732",
+      "bytes": 1320
+    },
+    {
+      "path": "README_CN.md",
+      "sha256": "4106263f980e88b10e6a2155e05ff116f507e48ccb0984cd19f1e633b6d47238",
+      "bytes": 1506
+    },
+    {
+      "path": "SOURCE_ACCESS_REGISTER.json",
+      "sha256": "157cea54b1b47997e06692ab983d00eb4bb8e05d671cbe671d5b28708a79153b",
+      "bytes": 7859
+    },
+    {
+      "path": "TEMPLATE_OBSERVATION_PROFILE.json",
+      "sha256": "af54345915ee5324ff815f4f2858229dad28731d709b136f3d4652cc05da4458",
+      "bytes": 2755
+    },
+    {
+      "path": "V27_FORMAT_GAP_CHECK.csv",
+      "sha256": "c835c5a5f936c32d7ec6a92cf3aca6a988d2f8115d3ec37d80d2f3a947027264",
+      "bytes": 1592
+    },
+    {
+      "path": "VERIFICATION_REPORT.json",
+      "sha256": "63d7803d12a3d0347a643cdd2c5f0a90a77185914a1e8b455fe7df7d24e6fb1f",
+      "bytes": 74127
+    },
+    {
+      "path": "verify_format_baseline.py",
+      "sha256": "d45a656e58f6ec721cd3d45b0e5fac621783ea2cd5ee030f5d28177bfc6a6060",
+      "bytes": 5633
+    }
+  ],
+  "file_count_excluding_manifest": 11,
+  "official_template_sha256": "c1f1ba2a79dfb8ec9fc47d4a1c990d72e06341b41aa2d897adc1a30c3e1ea672",
+  "human_verified": false
+}

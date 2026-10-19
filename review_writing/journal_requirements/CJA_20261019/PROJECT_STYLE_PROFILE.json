@@ -1,0 +1,46 @@
+{
+  "status": "adopted reversible project working defaults; not journal mandates",
+  "version": "CJA-baseline-20261019",
+  "paper": "A4",
+  "columns": 1,
+  "author_review_body": {
+    "Chinese": "SimSun 11 pt",
+    "Latin": "Times New Roman 11 pt",
+    "line_spacing_multiple": 1.15,
+    "margins_cm": {
+      "top": 2.2,
+      "bottom": 2.2,
+      "left": 2.3,
+      "right": 2.3
+    }
+  },
+  "submission_figures": {
+    "widths_cm": [
+      7.5,
+      15
+    ],
+    "maximum_width_cm": 15,
+    "target_english_font": "Times New Roman",
+    "font_pt_at_final_size": 7.5,
+    "editable_source": "SVG",
+    "journal_template_explicit_vector_export": "EPS with embedded or outlined fonts",
+    "publisher_general_additional_vector_export": "PDF",
+    "raster_min_dpi": {
+      "halftone": 300,
+      "line_art": 1000,
+      "combination": 500
+    }
+  },
+  "references": {
+    "order": "first citation",
+    "in_text": "superscript",
+    "authors": "all if six or fewer; first six + et al. if more than six; use verified full metadata",
+    "keep_doi": true
+  },
+  "English_final_page_working_target_max": 25,
+  "reference_count_cap_guidance": 150,
+  "graph_count_requirement": null,
+  "graphical_abstract_required": "unconfirmed",
+  "highlights_required": "unconfirmed",
+  "authors_and_affiliations_not_generated": true
+}

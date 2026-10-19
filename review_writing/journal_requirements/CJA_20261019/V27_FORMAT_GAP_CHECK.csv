@@ -1,0 +1,13 @@
+﻿id,item,observed,status,next_action,rule_id
+G01,摘要词数,171词；按空格分词，连字符词算1词,MATCHES_LENGTH_GUIDANCE,摘要内容与英文质量仍需终核,CJA-03
+G02,关键词,6项,MATCHES_COUNT_GUIDANCE,控制词表偏好尚未单独核查,CJA-05
+G03,参考文献数,95条,WITHIN_150,无需凑至150；作者姓名与格式仍待统一,CJA-02
+G04,页数,当前中文Word23页,ENGLISH_PAGE_COUNT_PENDING,英文完整稿、最终图表及参考文献导出后重计,CJA-02
+G05,现有图宽,"[12.3, 14.0] cm",WITHIN_FULL_WIDTH_LIMIT,两图适合作为通栏图处理；尚需重构并英译,CJA-06
+G06,语言,中文全文；已有英文题名和摘要,ENGLISH_FULLTEXT_PENDING,正文、图、表、图注、声明需形成一致英文稿,CJA-04
+G07,表格样式,7张可编辑表格，存在竖线与底纹,WORKING_DRAFT_TO_RESTYLE,正式导出改为横线表式；保留可编辑性与续表表头,CJA-11
+G08,引文显示,当前Word上标vertAlign节点0个,SUPERSCRIPT_EXPORT_PENDING,保持编号与E映射，Word引用标记统一为上标,CJA-12
+G09,作者截断,当前多条列前三作者后et al.,AUTHOR_METADATA_PENDING,核齐全体作者，再按2026模板前6规则导出,CJA-13
+G10,引言表格,表1在1.2,LOCATION_REVIEW_PENDING,按综述论证需要审议移动；不得把usually解释为绝对禁止,CJA-18
+G11,匿名投稿包,当前为作者审阅工作稿,SUBMISSION_PACKAGE_PENDING,正式投稿前另做匿名主稿、Title Page及适用附件,CJA-16
+G12,图数,2幅现有图，建议规划4幅,PROJECT_CONTENT_PLAN,图数不计作期刊合规门槛,CJA-26

@@ -1,0 +1,94 @@
+{
+  "scope": "observed template properties; not all mandatory rules",
+  "template_sha256": "c1f1ba2a79dfb8ec9fc47d4a1c990d72e06341b41aa2d897adc1a30c3e1ea672",
+  "core_modified": "2026-10-14T08:10:00Z",
+  "page_width_mm": 210.02625,
+  "page_height_mm": 285.0444444444444,
+  "first_section_margins_mm": {
+    "top": 67.11597,
+    "bottom": 15.01069,
+    "left": 22.50722,
+    "right": 22.50722
+  },
+  "body_section_margins_mm": {
+    "top": 24.99431,
+    "bottom": 21.00792,
+    "left": 25.99972,
+    "right": 18.00931
+  },
+  "rendered_pages": 5,
+  "template_visually_reviewed_pages": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "native_word_observations": {
+    "file": "CJA_template_top.docx",
+    "pages": 5,
+    "read_only": true,
+    "source_saved": false,
+    "word_version": "16.0",
+    "paragraphs": 108,
+    "sections": 2,
+    "actual_paragraph_samples": [
+      {
+        "index_1_based": 5,
+        "text": "Generation of dynamic grids and computation of unsteady transonic flows around assemblies\r",
+        "name": "Times New Roman",
+        "size": 16.0,
+        "spacing": 12.0,
+        "spacing_rule": 0,
+        "first_line_pt": 0.0
+      },
+      {
+        "index_1_based": 20,
+        "text": "1. Introduction\u0002\r",
+        "name": "Times New Roman",
+        "size": 10.0,
+        "spacing": 12.0,
+        "spacing_rule": 0,
+        "first_line_pt": 0.0
+      },
+      {
+        "index_1_based": 22,
+        "text": "The computation method of unsteady transonic flow based on N-S equations should be best accurate, but to three-dimensional complex problems, it can be achieved \r",
+        "name": "Times New Roman",
+        "size": 10.0,
+        "spacing": 12.0,
+        "spacing_rule": 0,
+        "first_line_pt": 10.0
+      },
+      {
+        "index_1_based": 26,
+        "text": "2.1. Governing equation\r",
+        "name": "Times New Roman",
+        "size": 10.0,
+        "spacing": 12.0,
+        "spacing_rule": 0,
+        "first_line_pt": 0.0
+      },
+      {
+        "index_1_based": 46,
+        "text": "Fig. 1  Examples of KAM maps of selected MHP conditions at initial state and distribution of KAM across depth within region with maximum deformation of turned and MHP samples.\r",
+        "name": "Times New Roman",
+        "size": 9.0,
+        "spacing": 12.0,
+        "spacing_rule": 0,
+        "first_line_pt": 0.0
+      },
+      {
+        "index_1_based": 47,
+        "text": "Table 1  CPU time ratio of each term.\r",
+        "name": "Times New Roman",
+        "size": 9.0,
+        "spacing": 12.0,
+        "spacing_rule": 0,
+        "first_line_pt": 0.0
+      }
+    ]
+  },
+  "raw_profile_external": "D:\\SKT727\\materials\\cja_format_audit_20261019\\CJA_template_top_ooxml_profile.json",
+  "human_verified": false
+}
