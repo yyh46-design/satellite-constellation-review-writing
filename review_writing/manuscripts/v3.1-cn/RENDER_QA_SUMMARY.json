@@ -1,0 +1,162 @@
+{
+  "renderer": "Microsoft Word native COM 16.0; packaged render_docx.py with PDFium rasterization",
+  "input_sha256": "64c99a23a8f679220d63d287c73c9073b1ad812735165f16be7d8d5458211871",
+  "page_count": 23,
+  "all_page_images_inspected": true,
+  "inspected_pages": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23
+  ],
+  "reviewer": "AI visual inspection; author scientific confirmation pending",
+  "source_read_only": true,
+  "source_saved": false,
+  "comment_count": 0,
+  "resolved_layout_findings": [
+    "Chinese title split at subtitle boundary",
+    "table caption and repeated header kept with first data row",
+    "citation markers bound to preceding text with nonbreaking spacing",
+    "method table column adjusted to prevent isolated citation number"
+  ],
+  "remaining_figure_status": "four retained AI-assisted English PNG drafts; final vector work pending",
+  "qa_artifacts_published": false,
+  "page_image_sha256": [
+    {
+      "page": 1,
+      "sha256": "fb0aafb57a4269fea67068ee1ba6c4434231b8f94cba09621c4482f4022b9bc1",
+      "bytes": 513024
+    },
+    {
+      "page": 2,
+      "sha256": "a28d2990412fe450d6c87a4ce3c7588badd491e11d9eec67ed7db8ff52245fed",
+      "bytes": 626884
+    },
+    {
+      "page": 3,
+      "sha256": "a229c08be1e112ba74c756f6411a5d3292feba03a475a324f568ca5c83bd0647",
+      "bytes": 586109
+    },
+    {
+      "page": 4,
+      "sha256": "5a43c5b66b5c99b3ddf6ee84371ad0bf2d5bedf1baf63a26439eb63f995c885c",
+      "bytes": 577406
+    },
+    {
+      "page": 5,
+      "sha256": "a0f822628393091630318653479d652865a5cce22689cba881123993d6f31f1b",
+      "bytes": 614855
+    },
+    {
+      "page": 6,
+      "sha256": "f9f58adb7d0c6b8547a77adb2070b4ce540602187a8d8cffe1e588ca80a77785",
+      "bytes": 717528
+    },
+    {
+      "page": 7,
+      "sha256": "194686694e354971c96fb420a1c03065bc705fdd6812864fda4dd1a598444006",
+      "bytes": 707756
+    },
+    {
+      "page": 8,
+      "sha256": "133ee13de79d78dd62da63f021b144861d46d08c589acb3180653be8e650d5d1",
+      "bytes": 738978
+    },
+    {
+      "page": 9,
+      "sha256": "2eab522b80b907230ef616db630c6022f033458ac726d2bb3f6bd5f78a677649",
+      "bytes": 625614
+    },
+    {
+      "page": 10,
+      "sha256": "29cc61eced54885c5b98e04e9ceb0732a0591e2c607e59560b8d76dd123b1e5e",
+      "bytes": 575338
+    },
+    {
+      "page": 11,
+      "sha256": "81a26054036363674df7240d05b6756db8f24d7d87fa6f7cbabafcc90cdea8f8",
+      "bytes": 655479
+    },
+    {
+      "page": 12,
+      "sha256": "fe5c10da7e294e56dc45b2ef5a4552672f97f5557318ce346ff14ae81594204e",
+      "bytes": 571755
+    },
+    {
+      "page": 13,
+      "sha256": "8840712bc6ca6e3a72b08b8d1f0745960c1924a5cd5a6e65f2f9646ec7c32de3",
+      "bytes": 481566
+    },
+    {
+      "page": 14,
+      "sha256": "0a5849a1171d30a323d1ce6aaafb46e38096e2d29dac043258469a07a19eeaf0",
+      "bytes": 606667
+    },
+    {
+      "page": 15,
+      "sha256": "8f389bd6a1cd80f89147eede4239b679e8a94a56ad93de3bb20fa716cd962e8f",
+      "bytes": 640784
+    },
+    {
+      "page": 16,
+      "sha256": "ff6397f5464b0f72651500b82d6433d889ed9bc30410bea996a21889fd4616ec",
+      "bytes": 560483
+    },
+    {
+      "page": 17,
+      "sha256": "fc7caf280453c1e9bb22ff0c6630c08771dd8517ee777a02201e9d3e92fcf751",
+      "bytes": 678533
+    },
+    {
+      "page": 18,
+      "sha256": "bb362cb9a2ce1cf4ab617ddd2f05f1a868908fb039307b0dee559829eb3dfe30",
+      "bytes": 510792
+    },
+    {
+      "page": 19,
+      "sha256": "5f6f26289c255416007efaa51493952eea964899de71423b2ff27d8ffef85794",
+      "bytes": 634438
+    },
+    {
+      "page": 20,
+      "sha256": "41dfb9bb982770c3544b813c944943fa55148f81f1ee3178955a41fd1576c3a6",
+      "bytes": 518682
+    },
+    {
+      "page": 21,
+      "sha256": "e88cbc560bd44e95433b927299305e816fd6b8c916b3e639168d9e0609896698",
+      "bytes": 492184
+    },
+    {
+      "page": 22,
+      "sha256": "77570729780fba26ba97ad03fd072d1e4f7fc9ca362838fa264030cc8981ba49",
+      "bytes": 464011
+    },
+    {
+      "page": 23,
+      "sha256": "3607bec7df720242280afa29e0081b57af8aa6cddb3515d8e1e9e6e4c9f1e937",
+      "bytes": 192780
+    }
+  ],
+  "human_verified": false,
+  "submission_ready": false
+}

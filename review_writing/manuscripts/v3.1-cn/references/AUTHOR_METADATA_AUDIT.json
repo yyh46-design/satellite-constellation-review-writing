@@ -1,0 +1,4367 @@
+[
+  {
+    "old_number": 1,
+    "stable_id": "E001",
+    "doi": "10.1016/j.asr.2020.08.009",
+    "url": "https://api.crossref.org/works/10.1016%2Fj.asr.2020.08.009",
+    "status": "metadata_only",
+    "authors": [
+      {
+        "given": "Mohamed Khalil",
+        "family": "Ben-Larbi",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Kattia",
+        "family": "Flores Pozo",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Tom",
+        "family": "Haylok",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Mirue",
+        "family": "Choi",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Benjamin",
+        "family": "Grzesik",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Andreas",
+        "family": "Haas",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Dominik",
+        "family": "Krupke",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Harald",
+        "family": "Konstanski",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Volker",
+        "family": "Schaus",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Sándor P.",
+        "family": "Fekete",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Christian",
+        "family": "Schurig",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Enrico",
+        "family": "Stoll",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "title": [
+      "Towards the automated operations of large distributed satellite systems. Part 1: Review and paradigm shifts"
+    ],
+    "container_title": [
+      "Advances in Space Research"
+    ],
+    "type": "journal-article",
+    "fetched_at": "2026-10-19",
+    "raw_response_sha256": "79790a3abefce49915e31a8e8d86e858c0cd6560a3d3f99ad6fd716f4ea04558"
+  },
+  {
+    "old_number": 2,
+    "stable_id": "E034",
+    "doi": "10.2514/1.I011215",
+    "url": "https://api.crossref.org/works/10.2514%2F1.I011215",
+    "status": "metadata_only",
+    "authors": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-0312-6325",
+        "authenticated-orcid": false,
+        "given": "Shreya",
+        "family": "Parjan",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Jet Propulsion Laboratory, California Institute of Technology, Pasadena, California 91109-8099"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-1023-9480",
+        "authenticated-orcid": false,
+        "given": "Steve A.",
+        "family": "Chien",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Jet Propulsion Laboratory, California Institute of Technology, Pasadena, California 91109-8099"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "title": [
+      "Decentralized Observation Allocation for a Large-Scale Constellation"
+    ],
+    "container_title": [
+      "Journal of Aerospace Information Systems"
+    ],
+    "type": "journal-article",
+    "fetched_at": "2026-10-19",
+    "raw_response_sha256": "f4e0c11a0e733c027cc972047c4376f09b13588c12b52a0ef9e197e7111ac9c8"
+  },
+  {
+    "old_number": 3,
+    "stable_id": "E035",
+    "doi": "10.1613/jair.1.16997",
+    "url": "https://api.crossref.org/works/10.1613%2Fjair.1.16997",
+    "status": "metadata_only",
+    "authors": [
+      {
+        "given": "Itai",
+        "family": "Zilberstein",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Ananya",
+        "family": "Rao",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Matthew",
+        "family": "Salis",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Steve",
+        "family": "Chien",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "title": [
+      "Decentralized, Decomposition-Based Observation Scheduling for a Large-Scale Satellite Constellation"
+    ],
+    "container_title": [
+      "Journal of Artificial Intelligence Research"
+    ],
+    "type": "journal-article",
+    "fetched_at": "2026-10-19",
+    "raw_response_sha256": "b07e186b25326e240adbbacf32ac705a5038c2b9685042613dc0702b47e1cf02"
+  },
+  {
+    "old_number": 4,
+    "stable_id": "E125",
+    "doi": "10.1145/3365609.3365859",
+    "url": "https://api.crossref.org/works/10.1145%2F3365609.3365859",
+    "status": "metadata_only",
+    "authors": [
+      {
+        "given": "Mark",
+        "family": "Handley",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "University College London"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "title": [
+      "Using ground relays for low-latency wide-area routing in megaconstellations"
+    ],
+    "container_title": [
+      "Proceedings of the 18th ACM Workshop on Hot Topics in Networks"
+    ],
+    "type": "proceedings-article",
+    "fetched_at": "2026-10-19",
+    "raw_response_sha256": "a391cffb8f600f2471e40e6b44d66e35017955358d68b4e0cef7aa52b18105e7"
+  },
+  {
+    "old_number": 5,
+    "stable_id": "E002",
+    "doi": "10.2514/1.A35982",
+    "url": "https://api.crossref.org/works/10.2514%2F1.A35982",
+    "status": "metadata_only",
+    "authors": [
+      {
+        "given": "Koki",
+        "family": "Ho",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Georgia Institute of Technology"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "title": [
+      "Space Logistics Modeling and Optimization: Review of the State of the Art"
+    ],
+    "container_title": [
+      "Journal of Spacecraft and Rockets"
+    ],
+    "type": "journal-article",
+    "fetched_at": "2026-10-19",
+    "raw_response_sha256": "452b1c4c08e04cb7c39322a2ed6a8c671b707573f1fbef8383bc493229cf640b"
+  },
+  {
+    "old_number": 6,
+    "stable_id": "E003",
+    "doi": "10.1109/JSYST.2020.2997050",
+    "url": "https://api.crossref.org/works/10.1109%2FJSYST.2020.2997050",
+    "status": "metadata_only",
+    "authors": [
+      {
+        "given": "Xinwei",
+        "family": "Wang",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-1552-9620",
+        "authenticated-orcid": false,
+        "given": "Guohua",
+        "family": "Wu",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-6983-4244",
+        "authenticated-orcid": false,
+        "given": "Lining",
+        "family": "Xing",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-9335-9930",
+        "authenticated-orcid": false,
+        "given": "Witold",
+        "family": "Pedrycz",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "title": [
+      "Agile Earth Observation Satellite Scheduling Over 20 Years: Formulations, Methods, and Future Directions"
+    ],
+    "container_title": [
+      "IEEE Systems Journal"
+    ],
+    "type": "journal-article",
+    "fetched_at": "2026-10-19",
+    "raw_response_sha256": "96cc886ed325e95bb193a6b9bc82c10e8aeed59d15173d214efb73f6821a5940"
+  },
+  {
+    "old_number": 7,
+    "stable_id": "E004",
+    "doi": "10.1016/j.cor.2024.106875",
+    "url": "https://api.crossref.org/works/10.1016%2Fj.cor.2024.106875",
+    "status": "metadata_only",
+    "authors": [
+      {
+        "given": "Benedetta",
+        "family": "Ferrari",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Jean-François",
+        "family": "Cordeau",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Maxence",
+        "family": "Delorme",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-2097-6572",
+        "authenticated-orcid": false,
+        "given": "Manuel",
+        "family": "Iori",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Roberto",
+        "family": "Orosei",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "title": [
+      "Satellite Scheduling Problems: A survey of applications in Earth and outer space observation"
+    ],
+    "container_title": [
+      "Computers &amp; Operations Research"
+    ],
+    "type": "journal-article",
+    "fetched_at": "2026-10-19",
+    "raw_response_sha256": "fb2fbc96456ebe5d28d71520d5f3a9ebe7a16fdb4cf4f042caa5dac1d883f747"
+  },
+  {
+    "old_number": 8,
+    "stable_id": "E005",
+    "doi": "10.1016/j.actaastro.2025.10.018",
+    "url": "https://api.crossref.org/works/10.1016%2Fj.actaastro.2025.10.018",
+    "status": "metadata_only",
+    "authors": [
+      {
+        "ORCID": "https://orcid.org/0000-0003-2631-1168",
+        "authenticated-orcid": false,
+        "given": "Mohammad Reza",
+        "family": "Jabbarpour",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Bao Quoc",
+        "family": "Vo",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Ghaith",
+        "family": "El-Dalahmeh",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Hassam",
+        "family": "Tahir",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-0937-4028",
+        "authenticated-orcid": false,
+        "given": "Ryszard",
+        "family": "Kowalczyk",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Travis",
+        "family": "Bessell",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "James",
+        "family": "Barr",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "title": [
+      "Agent-based approaches for distributed space systems and mission management: Methodologies, current practices and challenges"
+    ],
+    "container_title": [
+      "Acta Astronautica"
+    ],
+    "type": "journal-article",
+    "fetched_at": "2026-10-19",
+    "raw_response_sha256": "479479f47d268dfc131943cf64bf73c65a7ad5a155391c14aa160afd2d2af0c7"
+  },
+  {
+    "old_number": 9,
+    "stable_id": "E006",
+    "doi": "10.1016/j.asr.2020.08.018",
+    "url": "https://api.crossref.org/works/10.1016%2Fj.asr.2020.08.018",
+    "status": "metadata_only",
+    "authors": [
+      {
+        "given": "Mohamed Khalil",
+        "family": "Ben-Larbi",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Kattia",
+        "family": "Flores Pozo",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Mirue",
+        "family": "Choi",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Tom",
+        "family": "Haylok",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Benjamin",
+        "family": "Grzesik",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Andreas",
+        "family": "Haas",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Dominik",
+        "family": "Krupke",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Harald",
+        "family": "Konstanski",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Volker",
+        "family": "Schaus",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Sándor P.",
+        "family": "Fekete",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Christian",
+        "family": "Schurig",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Enrico",
+        "family": "Stoll",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "title": [
+      "Towards the automated operations of large distributed satellite systems. Part 2: Classifications and tools"
+    ],
+    "container_title": [
+      "Advances in Space Research"
+    ],
+    "type": "journal-article",
+    "fetched_at": "2026-10-19",
+    "raw_response_sha256": "f0b67ad9cb61eafc07876f71e975ff8aebc098824d11a01c68f96f82b8238c85"
+  },
+  {
+    "old_number": 10,
+    "stable_id": "E007",
+    "doi": "10.7527/S1000-6893.2026.32935",
+    "url": "https://api.crossref.org/works/10.7527%2FS1000-6893.2026.32935",
+    "status": "metadata_unavailable",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "old_number": 11,
+    "stable_id": "E008",
+    "doi": "10.3873/j.issn.1000-1328.2026.02.002",
+    "url": "https://api.crossref.org/works/10.3873%2Fj.issn.1000-1328.2026.02.002",
+    "status": "metadata_unavailable",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "old_number": 12,
+    "stable_id": "E009",
+    "doi": "10.3390/technologies13080312",
+    "url": "https://api.crossref.org/works/10.3390%2Ftechnologies13080312",
+    "status": "metadata_only",
+    "authors": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-8539-3688",
+        "authenticated-orcid": false,
+        "given": "Arnau",
+        "family": "Singla",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Space Communications Research Group, i2CAT Foundation, 08034 Barcelona, Spain"
+          },
+          {
+            "name": "Department of Network Engineering, Universitat Politècnica de Catalunya, 08034 Barcelona, Spain"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-1169-4461",
+        "authenticated-orcid": false,
+        "given": "Franco",
+        "family": "Criscola",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Aerospace Engineering Department, Embry-Riddle Aeronautical University, Daytona Beach, FL 32114, USA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-0166-2391",
+        "authenticated-orcid": false,
+        "given": "David",
+        "family": "Canales",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Aerospace Engineering Department, Embry-Riddle Aeronautical University, Daytona Beach, FL 32114, USA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Juan A.",
+        "family": "Fraire",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Inria, INSA Lyon, 69100 Villeurbanne, France"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-6371-8595",
+        "authenticated-orcid": false,
+        "given": "Anna",
+        "family": "Calveras",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Network Engineering, Universitat Politècnica de Catalunya, 08034 Barcelona, Spain"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Joan A.",
+        "family": "Ruiz-de-Azua",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Space Communications Research Group, i2CAT Foundation, 08034 Barcelona, Spain"
+          },
+          {
+            "name": "Department of Network Engineering, Universitat Politècnica de Catalunya, 08034 Barcelona, Spain"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "title": [
+      "Toward Integrated Satellite Operations and Network Management: A Review and Novel Framework"
+    ],
+    "container_title": [
+      "Technologies"
+    ],
+    "type": "journal-article",
+    "fetched_at": "2026-10-19",
+    "raw_response_sha256": "d63a609a8d906bfc4e43334deee1402d8d483ee8b04fa13027db5644b5d887a2"
+  },
+  {
+    "old_number": 14,
+    "stable_id": "E106",
+    "doi": "10.1016/j.adhoc.2023.103289",
+    "url": "https://api.crossref.org/works/10.1016%2Fj.adhoc.2023.103289",
+    "status": "metadata_only",
+    "authors": [
+      {
+        "ORCID": "https://orcid.org/0000-0003-2964-7337",
+        "authenticated-orcid": false,
+        "given": "Christopher John",
+        "family": "Lowe",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Ruaridh Alexander",
+        "family": "Clark",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Ciara Norah",
+        "family": "McGrath",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Malcolm",
+        "family": "Macdonald",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "title": [
+      "A delay-tolerant network approach to satellite pickup and delivery scheduling"
+    ],
+    "container_title": [
+      "Ad Hoc Networks"
+    ],
+    "type": "journal-article",
+    "fetched_at": "2026-10-19",
+    "raw_response_sha256": "d4fd6b7038018c3853e6c5641e2f584e46699d7bcbd034a22101457d9de4ef2b"
+  },
+  {
+    "old_number": 15,
+    "stable_id": "E121",
+    "doi": "10.1109/TAES.2024.3415571",
+    "url": "https://api.crossref.org/works/10.1109%2FTAES.2024.3415571",
+    "status": "metadata_only",
+    "authors": [
+      {
+        "ORCID": "https://orcid.org/0000-0003-2992-5659",
+        "authenticated-orcid": false,
+        "given": "Dhiraj",
+        "family": "Bhattacharjee",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Non-Terrestrial Networks Lab, Department of Systems and Computer Engineering, Carleton University, Ottawa, ON, Canada"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-0228-2390",
+        "authenticated-orcid": false,
+        "given": "Pablo G.",
+        "family": "Madoery",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Non-Terrestrial Networks Lab, Department of Systems and Computer Engineering, Carleton University, Ottawa, ON, Canada"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-1145-5604",
+        "authenticated-orcid": false,
+        "given": "Aizaz U.",
+        "family": "Chaudhry",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Non-Terrestrial Networks Lab, Department of Systems and Computer Engineering, Carleton University, Ottawa, ON, Canada"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-4776-9354",
+        "authenticated-orcid": false,
+        "given": "Halim",
+        "family": "Yanikomeroglu",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Non-Terrestrial Networks Lab, Department of Systems and Computer Engineering, Carleton University, Ottawa, ON, Canada"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-7188-2619",
+        "authenticated-orcid": false,
+        "given": "Güneş Karabulut",
+        "family": "Kurt",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Non-Terrestrial Networks Lab, Department of Systems and Computer Engineering, Carleton University, Ottawa, ON, Canada"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-9069-0484",
+        "authenticated-orcid": false,
+        "given": "Peng",
+        "family": "Hu",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Digital Technologies Research Center, National Research Council Canada, Ottawa, ON, Canada"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-3861-0667",
+        "authenticated-orcid": false,
+        "given": "Khaled",
+        "family": "Ahmed",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Satellite Systems Department, MDA Systems Ltd., Richmond, BC, Canada"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0009-0002-8499-2336",
+        "authenticated-orcid": false,
+        "given": "Stéphane",
+        "family": "Martel",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Satellite Systems Department, MDA Systems Ltd., Richmond, BC, Canada"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "title": [
+      "On-Demand Routing in LEO Mega-Constellations With Dynamic Laser Inter-Satellite Links"
+    ],
+    "container_title": [
+      "IEEE Transactions on Aerospace and Electronic Systems"
+    ],
+    "type": "journal-article",
+    "fetched_at": "2026-10-19",
+    "raw_response_sha256": "7cbd1a9bcf78a172720b9f20d4d0edcab458dc9a378d629bdde111b74d55376e"
+  },
+  {
+    "old_number": 16,
+    "stable_id": "E010",
+    "doi": "10.34133/space.0248",
+    "url": "https://api.crossref.org/works/10.34133%2Fspace.0248",
+    "status": "metadata_only",
+    "authors": [
+      {
+        "ORCID": "https://orcid.org/0009-0006-6057-2598",
+        "authenticated-orcid": false,
+        "given": "Yuhe",
+        "family": "Mao",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "College of Astronautics, \rNanjing University of Aeronautics and Astronautics, Nanjing 211106, China."
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Yunhua",
+        "family": "Wu",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "College of Astronautics, \rNanjing University of Aeronautics and Astronautics, Nanjing 211106, China."
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-5831-6532",
+        "authenticated-orcid": false,
+        "given": "Xiaozhe",
+        "family": "Ju",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Institute of Space Science and Applied Technology, Harbin Institute of Technology (Shenzhen), Shenzhen 518055, China."
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Hongyi",
+        "family": "Xie",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Aerospace Engineering, Politecnico di Milano, Milano 20156, Italy."
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-0058-2878",
+        "authenticated-orcid": true,
+        "given": "Chengfei",
+        "family": "Yue",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Institute of Space Science and Applied Technology, Harbin Institute of Technology (Shenzhen), Shenzhen 518055, China."
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "title": [
+      "Dynamic Management Topology Construction, Evolution, and Maintenance of Low Earth Orbit Mega-Constellation"
+    ],
+    "container_title": [
+      "Space: Science &amp; Technology"
+    ],
+    "type": "journal-article",
+    "fetched_at": "2026-10-19",
+    "raw_response_sha256": "472c44e674a5fd3f0d95aac2ab6c7647ed1d982d662892d7deb9944644bf5f0f"
+  },
+  {
+    "old_number": 17,
+    "stable_id": "E042",
+    "doi": "10.1109/TMC.2021.3076088",
+    "url": "https://api.crossref.org/works/10.1109%2FTMC.2021.3076088",
+    "status": "metadata_only",
+    "authors": [
+      {
+        "ORCID": "https://orcid.org/0000-0001-9000-845X",
+        "authenticated-orcid": false,
+        "given": "Lijun",
+        "family": "He",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "State Key Laboratory of Integrated Service Networks, Xidian University, Xi&#x0027;an, Shaanxi, China"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-1800-1322",
+        "authenticated-orcid": false,
+        "given": "Ben",
+        "family": "Liang",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Electrical and Computer Engineering, University of Toronto, Toronto, ON, Canada"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-8851-836X",
+        "authenticated-orcid": false,
+        "given": "Jiandong",
+        "family": "Li",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "State Key Laboratory of Integrated Service Networks, Xidian University, Xi&#x0027;an, Shaanxi, China"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Min",
+        "family": "Sheng",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "State Key Laboratory of Integrated Service Networks, Xidian University, Xi&#x0027;an, Shaanxi, China"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "title": [
+      "Joint Observation and Transmission Scheduling in Agile Satellite Networks"
+    ],
+    "container_title": [
+      "IEEE Transactions on Mobile Computing"
+    ],
+    "type": "journal-article",
+    "fetched_at": "2026-10-19",
+    "raw_response_sha256": "e4529d91b0a518a71e723eb0d1264ee1c20c01f2b2968e1b9d2aa98b65ac0b70"
+  },
+  {
+    "old_number": 18,
+    "stable_id": "E044",
+    "doi": "10.1016/j.cor.2025.107212",
+    "url": "https://api.crossref.org/works/10.1016%2Fj.cor.2025.107212",
+    "status": "metadata_only",
+    "authors": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-0214-9365",
+        "authenticated-orcid": false,
+        "given": "Yure",
+        "family": "Rocha",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-4803-3429",
+        "authenticated-orcid": false,
+        "given": "Guilherme O.",
+        "family": "Chagas",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-9797-1019",
+        "authenticated-orcid": false,
+        "given": "Leandro C.",
+        "family": "Coelho",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-9244-9969",
+        "authenticated-orcid": false,
+        "given": "Anand",
+        "family": "Subramanian",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "title": [
+      "The integrated agile Earth observation satellite scheduling problem"
+    ],
+    "container_title": [
+      "Computers &amp; Operations Research"
+    ],
+    "type": "journal-article",
+    "fetched_at": "2026-10-19",
+    "raw_response_sha256": "b98bb8eaa98119e42db627b7b4161ad606e29ccd8a680394f40fc8330780a65f"
+  },
+  {
+    "old_number": 24,
+    "stable_id": "E016",
+    "doi": "10.1007/s42405-026-01298-1",
+    "url": "https://api.crossref.org/works/10.1007%2Fs42405-026-01298-1",
+    "status": "metadata_only",
+    "authors": [
+      {
+        "given": "Beomjin",
+        "family": "Gwon",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-4971-5130",
+        "authenticated-orcid": false,
+        "given": "Jaemyung",
+        "family": "Ahn",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "title": [
+      "Two-Stage Framework for Deployment-Aware Optimization of Satellite Constellation Pattern Design"
+    ],
+    "container_title": [
+      "International Journal of Aeronautical and Space Sciences"
+    ],
+    "type": "journal-article",
+    "fetched_at": "2026-10-19",
+    "raw_response_sha256": "7fae1ae6938c256b92d5265e12f861a20d3cd5b8317131de9f902ba4eaa3864c"
+  },
+  {
+    "old_number": 25,
+    "stable_id": "E017",
+    "doi": "10.1016/j.comnet.2024.110942",
+    "url": "https://api.crossref.org/works/10.1016%2Fj.comnet.2024.110942",
+    "status": "metadata_only",
+    "authors": [
+      {
+        "ORCID": "https://orcid.org/0009-0005-0358-8641",
+        "authenticated-orcid": false,
+        "given": "Samuel Martínez",
+        "family": "Zamacola",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Ramón Martínez",
+        "family": "Rodríguez-Osorio",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Miguel A.",
+        "family": "Salas-Natera",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "title": [
+      "Joint satellite platform and constellation sizing for instantaneous beam-hopping in 5G/6G Non-Terrestrial Networks"
+    ],
+    "container_title": [
+      "Computer Networks"
+    ],
+    "type": "journal-article",
+    "fetched_at": "2026-10-19",
+    "raw_response_sha256": "e76ab2ffd3234a3c82760d91ce4f52d0ecd282c034acc82f233cbc7c6ff91497"
+  },
+  {
+    "old_number": 26,
+    "stable_id": "E018",
+    "doi": "10.2514/1.A34387",
+    "url": "https://api.crossref.org/works/10.2514%2F1.A34387",
+    "status": "metadata_only",
+    "authors": [
+      {
+        "given": "Pauline",
+        "family": "Jakob",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "University of Illinois at Urbana-Champaign, Urbana, Illinois 61801"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Seiichi",
+        "family": "Shimizu",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Mitsubishi Electric Corporation, Amagasaki 661-8861, Japan"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Shoji",
+        "family": "Yoshikawa",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Mitsubishi Electric Corporation, Amagasaki 661-8861, Japan"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Koki",
+        "family": "Ho",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "University of Illinois at Urbana-Champaign, Urbana, Illinois 61801"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "title": [
+      "Optimal Satellite Constellation Spare Strategy Using Multi-Echelon Inventory Control"
+    ],
+    "container_title": [
+      "Journal of Spacecraft and Rockets"
+    ],
+    "type": "journal-article",
+    "fetched_at": "2026-10-19",
+    "raw_response_sha256": "2e0e2d3ed002852a40f4cb187fd3bc05ba8ef9ee02f0427556dcce55accba3f0"
+  },
+  {
+    "old_number": 27,
+    "stable_id": "E019",
+    "doi": "10.2514/1.A36281",
+    "url": "https://api.crossref.org/works/10.2514%2F1.A36281",
+    "status": "metadata_only",
+    "authors": [
+      {
+        "given": "Jaewoo",
+        "family": "Kim",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Korea Advanced Institute of Science and Technology"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-4971-5130",
+        "authenticated-orcid": false,
+        "given": "Jaemyung",
+        "family": "Ahn",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Korea Advanced Institute of Science and Technology"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-3096-1665",
+        "authenticated-orcid": false,
+        "given": "Taehyun",
+        "family": "Sung",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Korea Advanced Institute of Science and Technology"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "title": [
+      "Replenishment Strategy for Satellite Constellation with Dual Supply Modes"
+    ],
+    "container_title": [
+      "Journal of Spacecraft and Rockets"
+    ],
+    "type": "journal-article",
+    "fetched_at": "2026-10-19",
+    "raw_response_sha256": "f084fc6e47df65b733921a2e92a9b15af8cf2b96cd5f241eab9ac690c11d627e"
+  },
+  {
+    "old_number": 30,
+    "stable_id": "E023",
+    "doi": "10.2514/1.A36684",
+    "url": "https://api.crossref.org/works/10.2514%2F1.A36684",
+    "status": "metadata_only",
+    "authors": [
+      {
+        "ORCID": "https://orcid.org/0009-0009-7372-7052",
+        "authenticated-orcid": false,
+        "given": "Jaewoo",
+        "family": "Kim",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Korea Advanced Institute of Science and Technology"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-3096-1665",
+        "authenticated-orcid": false,
+        "given": "Taehyun",
+        "family": "Sung",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Agency for Defense Development"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-7982-8171",
+        "authenticated-orcid": false,
+        "given": "Woonam",
+        "family": "Hwang",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Korea Advanced Institute of Science and Technology"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-4971-5130",
+        "authenticated-orcid": false,
+        "given": "Jaemyung",
+        "family": "Ahn",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Korea Advanced Institute of Science and Technology"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "title": [
+      "On-Orbit Servicing-Integrated Maintenance Strategy for a Satellite Constellation"
+    ],
+    "container_title": [
+      "Journal of Spacecraft and Rockets"
+    ],
+    "type": "journal-article",
+    "fetched_at": "2026-10-19",
+    "raw_response_sha256": "0d1e4683d61cef8a4d499a05aea3aa3196fab02e1205fb4daa9adb49bcc09d7b"
+  },
+  {
+    "old_number": 37,
+    "stable_id": "E030",
+    "doi": "10.1016/S1270-9638(02)01173-2",
+    "url": "https://api.crossref.org/works/10.1016%2FS1270-9638%2802%2901173-2",
+    "status": "metadata_only",
+    "authors": [
+      {
+        "given": "Michel",
+        "family": "Lemaı̂tre",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Gérard",
+        "family": "Verfaillie",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Frank",
+        "family": "Jouhaud",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Jean-Michel",
+        "family": "Lachiver",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Nicolas",
+        "family": "Bataille",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "title": [
+      "Selecting and scheduling observations of agile satellites"
+    ],
+    "container_title": [
+      "Aerospace Science and Technology"
+    ],
+    "type": "journal-article",
+    "fetched_at": "2026-10-19",
+    "raw_response_sha256": "a0c529de5fefa9796bba431250c8c2a76dc0349e9fa597f98c971aa89b893194"
+  },
+  {
+    "old_number": 38,
+    "stable_id": "E122",
+    "doi": "10.3390/s22103715",
+    "url": "https://api.crossref.org/works/10.3390%2Fs22103715",
+    "status": "metadata_only",
+    "authors": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-6806-9122",
+        "authenticated-orcid": false,
+        "given": "Laio Oriel",
+        "family": "Seman",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Graduate Program in Applied Computer Science, University of Vale do Itajaí (UNIVALI), Itajaí 88302-901, SC, Brazil"
+          },
+          {
+            "name": "Department of Automation and Systems Engineering, Federal University of Santa Catarina (UFSC), Florianópolis 88040-900, SC, Brazil"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Brenda F.",
+        "family": "Ribeiro",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Electrical Engineering, Federal University of Santa Catarina (UFSC), Florianópolis 88040-900, SC, Brazil"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Cezar A.",
+        "family": "Rigo",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Electrical Engineering, Federal University of Santa Catarina (UFSC), Florianópolis 88040-900, SC, Brazil"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Edemar Morsch",
+        "family": "Filho",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Graduate Program in Aerospace Engineering, Federal University of Maranhão (UFMA), São Luís 65080-805, MA, Brazil"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-0236-0689",
+        "authenticated-orcid": false,
+        "given": "Eduardo",
+        "family": "Camponogara",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Automation and Systems Engineering, Federal University of Santa Catarina (UFSC), Florianópolis 88040-900, SC, Brazil"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-5071-0831",
+        "authenticated-orcid": false,
+        "given": "Rodrigo",
+        "family": "Leonardi",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Brazilian Space Agency (AEB), Brasilia 70610-200, DF, Brazil"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-2191-6064",
+        "authenticated-orcid": false,
+        "given": "Eduardo A.",
+        "family": "Bezerra",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Electrical Engineering, Federal University of Santa Catarina (UFSC), Florianópolis 88040-900, SC, Brazil"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "title": [
+      "An Energy-Aware Task Scheduling for Quality-of-Service Assurance in Constellations of Nanosatellites"
+    ],
+    "container_title": [
+      "Sensors"
+    ],
+    "type": "journal-article",
+    "fetched_at": "2026-10-19",
+    "raw_response_sha256": "fbca47bb3ef2152fc879a1932181c212c6af1fab485dcf794e915f98e14b89e4"
+  },
+  {
+    "old_number": 39,
+    "stable_id": "E036",
+    "doi": "10.1007/s10951-024-00816-x",
+    "url": "https://api.crossref.org/works/10.1007%2Fs10951-024-00816-x",
+    "status": "metadata_only",
+    "authors": [
+      {
+        "given": "Shai",
+        "family": "Krigman",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-4106-3169",
+        "authenticated-orcid": false,
+        "given": "Tal",
+        "family": "Grinshpoun",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-8710-3349",
+        "authenticated-orcid": false,
+        "given": "Lihi",
+        "family": "Dery",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "title": [
+      "Scheduling of Earth observing satellites using distributed constraint optimization"
+    ],
+    "container_title": [
+      "Journal of Scheduling"
+    ],
+    "type": "journal-article",
+    "fetched_at": "2026-10-19",
+    "raw_response_sha256": "62f0646794a1c0f67b024011bdd31121f5adfcccb93c65b3ed63cc8cada86602"
+  },
+  {
+    "old_number": 40,
+    "stable_id": "E037",
+    "doi": "10.1109/TRO.2009.2022423",
+    "url": "https://api.crossref.org/works/10.1109%2FTRO.2009.2022423",
+    "status": "metadata_only",
+    "authors": [
+      {
+        "family": "Han-Lim Choi",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "L.",
+        "family": "Brunet",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "J.P.",
+        "family": "How",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "title": [
+      "Consensus-Based Decentralized Auctions for Robust Task Allocation"
+    ],
+    "container_title": [
+      "IEEE Transactions on Robotics"
+    ],
+    "type": "journal-article",
+    "fetched_at": "2026-10-19",
+    "raw_response_sha256": "3e6250dd8ba9dcd649248f8d39b3e53dffc355f2b216408e790d23d72385180c"
+  },
+  {
+    "old_number": 41,
+    "stable_id": "E039",
+    "doi": "10.1109/JSEE.2016.00066",
+    "url": "https://api.crossref.org/works/10.1109%2FJSEE.2016.00066",
+    "status": "metadata_only",
+    "authors": [
+      {
+        "given": "Chong",
+        "family": "Wang",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Jinhui",
+        "family": "Tang",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Xiaohang",
+        "family": "Cheng",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Yingchen",
+        "family": "Liu",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Changchun",
+        "family": "Wang",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "title": [
+      "Distributed cooperative task planning algorithm for multiple satellites in delayed communication environment"
+    ],
+    "container_title": [
+      "Journal of Systems Engineering and Electronics"
+    ],
+    "type": "journal-article",
+    "fetched_at": "2026-10-19",
+    "raw_response_sha256": "49dac9ef5b2488718ab6ee262a2c20ba4e205d70e8f5b1f5a5904697fcaef16b"
+  },
+  {
+    "old_number": 42,
+    "stable_id": "E041",
+    "doi": "10.24963/ijcai.2023/30",
+    "url": "https://api.crossref.org/works/10.24963%2Fijcai.2023%2F30",
+    "status": "metadata_only",
+    "authors": [
+      {
+        "given": "Ben",
+        "family": "Rachmut",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Ben-Gurion University of the Negev"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Sofia",
+        "family": "Amador Nelke",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Holon Institute of Technology"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Roie",
+        "family": "Zivan",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Ben-Gurion University of the Negev"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "title": [
+      "Asynchronous Communication Aware Multi-Agent Task Allocation"
+    ],
+    "container_title": [
+      "Proceedings of the Thirty-Second International Joint Conference on Artificial Intelligence"
+    ],
+    "type": "proceedings-article",
+    "fetched_at": "2026-10-19",
+    "raw_response_sha256": "c132d58f78674216d1ee1a45917cb0f7c131e153dc09f159d4a60c690abd0f11"
+  },
+  {
+    "old_number": 46,
+    "stable_id": "E050",
+    "doi": "10.1609/aimag.v35i4.2552",
+    "url": "https://api.crossref.org/works/10.1609%2Faimag.v35i4.2552",
+    "status": "metadata_only",
+    "authors": [
+      {
+        "given": "Mark D.",
+        "family": "Johnston",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Daniel",
+        "family": "Tran",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Belinda",
+        "family": "Arroyo",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Sugi",
+        "family": "Sorensen",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Peter",
+        "family": "Tay",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Butch",
+        "family": "Carruth",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Adam",
+        "family": "Coffman",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Mike",
+        "family": "Wallace",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "title": [
+      "Automated Scheduling for NASA's Deep Space Network"
+    ],
+    "container_title": [
+      "AI Magazine"
+    ],
+    "type": "journal-article",
+    "fetched_at": "2026-10-19",
+    "raw_response_sha256": "a1cd1985dbfc8dd7e41eeb24e9c0adf048522685bb86eb4300766e20334849b3"
+  },
+  {
+    "old_number": 48,
+    "stable_id": "E053",
+    "doi": "10.1002/sat.70082",
+    "url": "https://api.crossref.org/works/10.1002%2Fsat.70082",
+    "status": "metadata_only",
+    "authors": [
+      {
+        "ORCID": "https://orcid.org/0000-0003-2708-645X",
+        "authenticated-orcid": false,
+        "given": "Beatriz",
+        "family": "Soret",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Telecommunications Research Institute (TELMA) Universidad de Málaga  Málaga Spain"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Antonio M.",
+        "family": "Mercado‐Martínez",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Telecommunications Research Institute (TELMA) Universidad de Málaga  Málaga Spain"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Antonio",
+        "family": "Jurado‐Navas",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Telecommunications Research Institute (TELMA) Universidad de Málaga  Málaga Spain"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Nicolai D.",
+        "family": "Lyholm",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Connectivity Section Aalborg University  Aalborg Denmark"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Marco",
+        "family": "Moretti",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "University of Pisa  Pisa Italy"
+          },
+          {
+            "name": "National Inter‐University Consortium for Telecommunications (CNIT)  Parma Italy"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-6195-4797",
+        "authenticated-orcid": false,
+        "given": "Petar",
+        "family": "Popovski",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Connectivity Section Aalborg University  Aalborg Denmark"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-7116-397X",
+        "authenticated-orcid": false,
+        "given": "Israel",
+        "family": "Leyva‐Mayorga",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Connectivity Section Aalborg University  Aalborg Denmark"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "title": [
+      "Edge Intelligence for Satellite‐Based Earth Observation: Scheduling Image Acquisition and Processing"
+    ],
+    "container_title": [
+      "International Journal of Satellite Communications and Networking"
+    ],
+    "type": "journal-article",
+    "fetched_at": "2026-10-19",
+    "raw_response_sha256": "4e6268b0c2d4c182a8c3f9cd280069d6b682a5c9ec52a227f714b4f4525bec06"
+  },
+  {
+    "old_number": 51,
+    "stable_id": "E127",
+    "doi": "10.1155/2013/304047",
+    "url": "https://api.crossref.org/works/10.1155%2F2013%2F304047",
+    "status": "metadata_only",
+    "authors": [
+      {
+        "given": "Qiu",
+        "family": "Dishan",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-9708-3073",
+        "authenticated-orcid": false,
+        "given": "He",
+        "family": "Chuan",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-2895-0051",
+        "authenticated-orcid": false,
+        "given": "Liu",
+        "family": "Jin",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Ma",
+        "family": "Manhao",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "title": [
+      "A Dynamic Scheduling Method of Earth‐Observing Satellites by Employing Rolling Horizon Strategy"
+    ],
+    "container_title": [
+      "The Scientific World Journal"
+    ],
+    "type": "journal-article",
+    "fetched_at": "2026-10-19",
+    "raw_response_sha256": "036b16b71380f361c3688b8f12e15de7116528b695797d64762f12c76cfe4b0b"
+  },
+  {
+    "old_number": 52,
+    "stable_id": "E061",
+    "doi": "10.1109/TAES.2019.2947978",
+    "url": "https://api.crossref.org/works/10.1109%2FTAES.2019.2947978",
+    "status": "metadata_only",
+    "authors": [
+      {
+        "ORCID": "https://orcid.org/0000-0003-4988-222X",
+        "authenticated-orcid": false,
+        "given": "Xinwei",
+        "family": "Wang",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-6182-5178",
+        "authenticated-orcid": false,
+        "given": "Guopeng",
+        "family": "Song",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-9215-3914",
+        "authenticated-orcid": false,
+        "given": "Roel",
+        "family": "Leus",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-7259-4475",
+        "authenticated-orcid": false,
+        "given": "Chao",
+        "family": "Han",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "title": [
+      "Robust Earth Observation Satellite Scheduling With Uncertainty of Cloud Coverage"
+    ],
+    "container_title": [
+      "IEEE Transactions on Aerospace and Electronic Systems"
+    ],
+    "type": "journal-article",
+    "fetched_at": "2026-10-19",
+    "raw_response_sha256": "4965382984b33d36c0f0d504fab4b3149b712078110595b6397381fc905807b3"
+  },
+  {
+    "old_number": 53,
+    "stable_id": "E062",
+    "doi": "10.1016/j.ejor.2018.11.043",
+    "url": "https://api.crossref.org/works/10.1016%2Fj.ejor.2018.11.043",
+    "status": "metadata_only",
+    "authors": [
+      {
+        "ORCID": "https://orcid.org/0000-0001-9849-1765",
+        "authenticated-orcid": false,
+        "given": "Christopher G.",
+        "family": "Valicka",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Deanna",
+        "family": "Garcia",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Andrea",
+        "family": "Staid",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Jean-Paul",
+        "family": "Watson",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Gabriel",
+        "family": "Hackebeil",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Sivakumar",
+        "family": "Rathinam",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-9114-5170",
+        "authenticated-orcid": false,
+        "given": "Lewis",
+        "family": "Ntaimo",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "title": [
+      "Mixed-integer programming models for optimal constellation scheduling given cloud cover uncertainty"
+    ],
+    "container_title": [
+      "European Journal of Operational Research"
+    ],
+    "type": "journal-article",
+    "fetched_at": "2026-10-19",
+    "raw_response_sha256": "a916d24fd4ec324615faa54dd20cbcdd6bbe0c8d71d33cdf83984db197babcb2"
+  },
+  {
+    "old_number": 54,
+    "stable_id": "E123",
+    "doi": "10.1016/j.swevo.2023.101236",
+    "url": "https://api.crossref.org/works/10.1016%2Fj.swevo.2023.101236",
+    "status": "metadata_only",
+    "authors": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-4313-8312",
+        "authenticated-orcid": false,
+        "given": "Yanjie",
+        "family": "Song",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Luona",
+        "family": "Wei",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Qing",
+        "family": "Yang",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Jian",
+        "family": "Wu",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Lining",
+        "family": "Xing",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Yingwu",
+        "family": "Chen",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "title": [
+      "RL-GA: A Reinforcement Learning-based Genetic Algorithm for Electromagnetic Detection Satellite Scheduling Problem"
+    ],
+    "container_title": [
+      "Swarm and Evolutionary Computation"
+    ],
+    "type": "journal-article",
+    "fetched_at": "2026-10-19",
+    "raw_response_sha256": "c4216d35287305c675d3a4869fb24e38a42eae853fc5e1cad811d9eea51f7847"
+  },
+  {
+    "old_number": 55,
+    "stable_id": "E065",
+    "doi": "10.2514/1.A35736",
+    "url": "https://api.crossref.org/works/10.2514%2F1.A35736",
+    "status": "metadata_only",
+    "authors": [
+      {
+        "ORCID": "https://orcid.org/0000-0001-6179-7728",
+        "authenticated-orcid": false,
+        "given": "Adam",
+        "family": "Herrmann",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "University of Colorado, Boulder, Colorado 80303"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Mark A.",
+        "family": "Stephenson",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "University of Colorado, Boulder, Colorado 80303"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-0002-6035",
+        "authenticated-orcid": false,
+        "given": "Hanspeter",
+        "family": "Schaub",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "University of Colorado, Boulder, Colorado 80303"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "title": [
+      "Single-Agent Reinforcement Learning for Scalable Earth-Observing Satellite Constellation Operations"
+    ],
+    "container_title": [
+      "Journal of Spacecraft and Rockets"
+    ],
+    "type": "journal-article",
+    "fetched_at": "2026-10-19",
+    "raw_response_sha256": "76e8cce2b3b0f2d4948c1cd86f7dcf04a5429a8e9099569eea87b8584f62e40f"
+  },
+  {
+    "old_number": 56,
+    "stable_id": "E066",
+    "doi": "10.3389/frspt.2023.1263489",
+    "url": "https://api.crossref.org/works/10.3389%2Ffrspt.2023.1263489",
+    "status": "metadata_only",
+    "authors": [
+      {
+        "given": "Adam",
+        "family": "Herrmann",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Hanspeter",
+        "family": "Schaub",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "title": [
+      "A comparative analysis of reinforcement learning algorithms for earth-observing satellite scheduling"
+    ],
+    "container_title": [
+      "Frontiers in Space Technologies"
+    ],
+    "type": "journal-article",
+    "fetched_at": "2026-10-19",
+    "raw_response_sha256": "c94704b411d6ee5fff933481b36bba50d4c614191deda60276c3f8668ed7bbe2"
+  },
+  {
+    "old_number": 58,
+    "stable_id": "E072",
+    "doi": "10.1007/s40295-025-00487-6",
+    "url": "https://api.crossref.org/works/10.1007%2Fs40295-025-00487-6",
+    "status": "metadata_only",
+    "authors": [
+      {
+        "ORCID": "https://orcid.org/0009-0002-8140-0542",
+        "authenticated-orcid": false,
+        "given": "Riccardo",
+        "family": "Apa",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0009-0009-0998-2841",
+        "authenticated-orcid": false,
+        "given": "Shambo",
+        "family": "Bhattacharjee",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-3581-9548",
+        "authenticated-orcid": false,
+        "given": "Jennifer",
+        "family": "Hudson",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-6351-6229",
+        "authenticated-orcid": false,
+        "given": "Marcello",
+        "family": "Romano",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "title": [
+      "Optimal Multi-Client Trajectory Planning for A Low-Thrust Servicing Satellite in the Presence of Perturbations"
+    ],
+    "container_title": [
+      "The Journal of the Astronautical Sciences"
+    ],
+    "type": "journal-article",
+    "fetched_at": "2026-10-19",
+    "raw_response_sha256": "153afb0162f4cbf5ebaebab839b43b03ad9c53d221884513448d4c87a056dea0"
+  },
+  {
+    "old_number": 59,
+    "stable_id": "E068",
+    "doi": "10.1016/j.cja.2025.103774",
+    "url": "https://api.crossref.org/works/10.1016%2Fj.cja.2025.103774",
+    "status": "metadata_only",
+    "authors": [
+      {
+        "given": "Shuai",
+        "family": "YIN",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Chuanjiang",
+        "family": "LI",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-5599-6349",
+        "authenticated-orcid": false,
+        "given": "Edoardo",
+        "family": "FADDA",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-6150-3646",
+        "authenticated-orcid": false,
+        "given": "Yanning",
+        "family": "GUO",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-7711-1436",
+        "authenticated-orcid": false,
+        "given": "Guangtao",
+        "family": "RAN",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-6533-3055",
+        "authenticated-orcid": false,
+        "given": "Paolo",
+        "family": "BRANDIMARTE",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "title": [
+      "On-orbit refueling robust mission scheduling with uncertain duration for geosynchronous orbit spacecraft"
+    ],
+    "container_title": [
+      "Chinese Journal of Aeronautics"
+    ],
+    "type": "journal-article",
+    "fetched_at": "2026-10-19",
+    "raw_response_sha256": "d32a9ab821c1109f38e09e61d8eaadfc156208fda713ec7fba0722bdc73c8790"
+  },
+  {
+    "old_number": 60,
+    "stable_id": "E073",
+    "doi": "10.3390/aerospace11030191",
+    "url": "https://api.crossref.org/works/10.3390%2Faerospace11030191",
+    "status": "metadata_only",
+    "authors": [
+      {
+        "ORCID": "https://orcid.org/0000-0001-6043-8045",
+        "authenticated-orcid": false,
+        "given": "Chi",
+        "family": "Han",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Science and Technology on Complex Electronic System Simulation Laboratory, Space Engineering University, Beijing 101400, China"
+          },
+          {
+            "name": "School of Space Information, Space Engineering University, Beijing 101400, China"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Wei",
+        "family": "Xiong",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Science and Technology on Complex Electronic System Simulation Laboratory, Space Engineering University, Beijing 101400, China"
+          },
+          {
+            "name": "School of Space Information, Space Engineering University, Beijing 101400, China"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Ronghuan",
+        "family": "Yu",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Science and Technology on Complex Electronic System Simulation Laboratory, Space Engineering University, Beijing 101400, China"
+          },
+          {
+            "name": "School of Space Information, Space Engineering University, Beijing 101400, China"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "title": [
+      "A Hybrid Forecasting Model for Self-Similar Traffic in LEO Mega-Constellation Networks"
+    ],
+    "container_title": [
+      "Aerospace"
+    ],
+    "type": "journal-article",
+    "fetched_at": "2026-10-19",
+    "raw_response_sha256": "dd21605fd29dc3d1dee02177d1a06a15be9d00ca10f3f95e4de12a5d0ad04980"
+  },
+  {
+    "old_number": 61,
+    "stable_id": "E074",
+    "doi": "10.23919/JCC.ja.2022-0864",
+    "url": "https://api.crossref.org/works/10.23919%2FJCC.ja.2022-0864",
+    "status": "metadata_unavailable",
+    "error": "HTTP Error 429: Too Many Requests"
+  },
+  {
+    "old_number": 62,
+    "stable_id": "E076",
+    "doi": "10.1109/TWC.2025.3545745",
+    "url": "https://api.crossref.org/works/10.1109%2FTWC.2025.3545745",
+    "status": "metadata_only",
+    "authors": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-7704-5931",
+        "authenticated-orcid": false,
+        "given": "Ruili",
+        "family": "Zhao",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "School of Communication and Information Engineering, Chongqing University of Posts and Telecommunications, Chongqing, China"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-9254-0404",
+        "authenticated-orcid": false,
+        "given": "Jun",
+        "family": "Cai",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Electrical and Computer Engineering, Network Intelligence and Innovation Laboratory (NI2L), Concordia University, Montreal, QC, Canada"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-9160-3047",
+        "authenticated-orcid": false,
+        "given": "Jiangtao",
+        "family": "Luo",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Electronic Information and Networking Research Institute, Chongqing University of Posts and Telecommunications, Chongqing, China"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Junpeng",
+        "family": "Gao",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "School of Communication and Information Engineering, Chongqing University of Posts and Telecommunications, Chongqing, China"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-3200-1409",
+        "authenticated-orcid": false,
+        "given": "Yongyi",
+        "family": "Ran",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Electronic Information and Networking Research Institute, Chongqing University of Posts and Telecommunications, Chongqing, China"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "title": [
+      "Demand-Aware Beam Hopping and Power Allocation for Load Balancing in Digital Twin Empowered LEO Satellite Networks"
+    ],
+    "container_title": [
+      "IEEE Transactions on Wireless Communications"
+    ],
+    "type": "journal-article",
+    "fetched_at": "2026-10-19",
+    "raw_response_sha256": "ded5b0c9e78404be05edd8727ced5150d66b2bcd43a67c0741722fe586be935e"
+  },
+  {
+    "old_number": 63,
+    "stable_id": "E128",
+    "doi": "10.1109/LNET.2025.3605531",
+    "url": "https://api.crossref.org/works/10.1109%2FLNET.2025.3605531",
+    "status": "metadata_only",
+    "authors": [
+      {
+        "ORCID": "https://orcid.org/0000-0001-6259-3444",
+        "authenticated-orcid": false,
+        "given": "Quynh Tu",
+        "family": "Ngo",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "School of Electrical and Data Engineering, University of Technology Sydney, Ultimo, Australia"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-1603-9375",
+        "authenticated-orcid": false,
+        "given": "Ying",
+        "family": "He",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "School of Electrical and Data Engineering, University of Technology Sydney, Ultimo, Australia"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-4693-344X",
+        "authenticated-orcid": false,
+        "given": "Beeshanga",
+        "family": "Jayawickrama",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "School of Electrical and Data Engineering, University of Technology Sydney, Ultimo, Australia"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-4268-9286",
+        "authenticated-orcid": false,
+        "given": "Eryk",
+        "family": "Dutkiewicz",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "School of Electrical and Data Engineering, University of Technology Sydney, Ultimo, Australia"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "title": [
+      "Multi-Agent DDPG-Based Joint Beam Hopping and Resource Allocation for Cognitive GEO-LEO Satellite Networks"
+    ],
+    "container_title": [
+      "IEEE Networking Letters"
+    ],
+    "type": "journal-article",
+    "fetched_at": "2026-10-19",
+    "raw_response_sha256": "dcb0eaee44fb1cda480cf7c9602630c0e8b35a09b60bfd9c2e9b910684c27fdf"
+  },
+  {
+    "old_number": 65,
+    "stable_id": "E078",
+    "doi": "10.1145/3589334.3645328",
+    "url": "https://api.crossref.org/works/10.1145%2F3589334.3645328",
+    "status": "metadata_only",
+    "authors": [
+      {
+        "ORCID": "https://orcid.org/0000-0001-6198-016X",
+        "authenticated-orcid": false,
+        "given": "Nitinder",
+        "family": "Mohan",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Technical University of Munich, Munich, Germany"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0009-0005-5331-1181",
+        "authenticated-orcid": false,
+        "given": "Andrew E.",
+        "family": "Ferguson",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "The University of Edinburgh, Edinburgh, United Kingdom"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-0520-6476",
+        "authenticated-orcid": false,
+        "given": "Hendrik",
+        "family": "Cech",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Technical University of Munich, Munich, Germany"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0009-0006-1520-0349",
+        "authenticated-orcid": false,
+        "given": "Rohan",
+        "family": "Bose",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Technical University of Munich, Munich, Germany"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0009-0002-5420-5952",
+        "authenticated-orcid": false,
+        "given": "Prakita Rayyan",
+        "family": "Renatin",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Technical University of Munich, Munich, Germany"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-6946-5143",
+        "authenticated-orcid": false,
+        "given": "Mahesh K.",
+        "family": "Marina",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "The University of Edinburgh, Edinburgh, United Kingdom"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-8311-8036",
+        "authenticated-orcid": false,
+        "given": "Jörg",
+        "family": "Ott",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Technical University of Munich, Munich, Germany"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "title": [
+      "A Multifaceted Look at Starlink Performance"
+    ],
+    "container_title": [
+      "Proceedings of the ACM Web Conference 2024"
+    ],
+    "type": "proceedings-article",
+    "fetched_at": "2026-10-19",
+    "raw_response_sha256": "6e08b2cebdbd0342beefa0bf10975bea46bf0231492a7679ef7b897971f6a891"
+  },
+  {
+    "old_number": 67,
+    "stable_id": "E081",
+    "doi": "10.3390/s25030902",
+    "url": "https://api.crossref.org/works/10.3390%2Fs25030902",
+    "status": "metadata_only",
+    "authors": [
+      {
+        "given": "Liang",
+        "family": "Gou",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "School of Communications and Information Engineering, Nanjing University of Posts and Telecommunications, Nanjing 210003, China"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Dongming",
+        "family": "Bian",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "School of Communications and Information Engineering, Nanjing University of Posts and Telecommunications, Nanjing 210003, China"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Yulei",
+        "family": "Nie",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "College of Integrated Circuit Science and Engineering, Nanjing University of Posts and Telecommunications, Nanjing 210023, China"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-6939-1922",
+        "authenticated-orcid": false,
+        "given": "Gengxin",
+        "family": "Zhang",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "School of Communications and Information Engineering, Nanjing University of Posts and Telecommunications, Nanjing 210003, China"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Hongwei",
+        "family": "Zhou",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Institute of Telecommunication and Navigation Satellite, China Academy of Space Technology, Beijing 100094, China"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Yulin",
+        "family": "Shi",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Institute of Telecommunication and Navigation Satellite, China Academy of Space Technology, Beijing 100094, China"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Lei",
+        "family": "Zhang",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Institute of Telecommunication and Navigation Satellite, China Academy of Space Technology, Beijing 100094, China"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "title": [
+      "Hierarchical Resource Management for Mega-LEO Satellite Constellation"
+    ],
+    "container_title": [
+      "Sensors"
+    ],
+    "type": "journal-article",
+    "fetched_at": "2026-10-19",
+    "raw_response_sha256": "390fa43be340a3c4a073e0e6bc6c2ca140cced2a92ef8b95da81c4f8ba480a5f"
+  },
+  {
+    "old_number": 75,
+    "stable_id": "E091",
+    "doi": "10.2514/1.58436",
+    "url": "https://api.crossref.org/works/10.2514%2F1.58436",
+    "status": "metadata_only",
+    "authors": [
+      {
+        "given": "Ping",
+        "family": "Lu",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Department of Aerospace Engineering, Iowa State University, Ames, Iowa 50011"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Xinfu",
+        "family": "Liu",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Aerospace Engineering, Iowa State University, Ames, Iowa 50011"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "title": [
+      "Autonomous Trajectory Planning for Rendezvous and Proximity Operations by Conic Optimization"
+    ],
+    "container_title": [
+      "Journal of Guidance, Control, and Dynamics"
+    ],
+    "type": "journal-article",
+    "fetched_at": "2026-10-19",
+    "raw_response_sha256": "ceb0f09b5618c32212be980787aeb8a69a64bccc99f962a222ccc526fd05e035"
+  },
+  {
+    "old_number": 76,
+    "stable_id": "E092",
+    "doi": "10.2514/1.G000218",
+    "url": "https://api.crossref.org/works/10.2514%2F1.G000218",
+    "status": "metadata_only",
+    "authors": [
+      {
+        "given": "Daniel",
+        "family": "Morgan",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Department of Aerospace Engineering, University of Illinois at Urbana–Champaign, Urbana, Illinois 61801"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Soon-Jo",
+        "family": "Chung",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Aerospace Engineering, University of Illinois at Urbana–Champaign, Urbana, Illinois 61801"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Fred Y.",
+        "family": "Hadaegh",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Jet Propulsion Laboratory, California Institute of Technology, Pasadena, California 91109"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "title": [
+      "Model Predictive Control of Swarms of Spacecraft Using Sequential Convex Programming"
+    ],
+    "container_title": [
+      "Journal of Guidance, Control, and Dynamics"
+    ],
+    "type": "journal-article",
+    "fetched_at": "2026-10-19",
+    "raw_response_sha256": "7ea96395eb48b3f3f5729a6aee09791b57c0eb536e92296fe7394bf3adbec473"
+  },
+  {
+    "old_number": 77,
+    "stable_id": "E093",
+    "doi": "10.1016/j.conengprac.2011.09.006",
+    "url": "https://api.crossref.org/works/10.1016%2Fj.conengprac.2011.09.006",
+    "status": "metadata_only",
+    "authors": [
+      {
+        "given": "Francisco",
+        "family": "Gavilan",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Rafael",
+        "family": "Vazquez",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Eduardo F.",
+        "family": "Camacho",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "title": [
+      "Chance-constrained model predictive control for spacecraft rendezvous with disturbance estimation"
+    ],
+    "container_title": [
+      "Control Engineering Practice"
+    ],
+    "type": "journal-article",
+    "fetched_at": "2026-10-19",
+    "raw_response_sha256": "48d3da46655455b8c516cb60f661c5bf6ced8e81ceae324013b6d95250c99f27"
+  },
+  {
+    "old_number": 78,
+    "stable_id": "E095",
+    "doi": "10.2514/6.2026-2446",
+    "url": "https://api.crossref.org/works/10.2514%2F6.2026-2446",
+    "status": "metadata_only",
+    "authors": [
+      {
+        "given": "Purnanand",
+        "family": "Elango",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Mitsubishi Electric Research Laboratories"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Abraham P.",
+        "family": "Vinod",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Mitsubishi Electric Research Laboratories"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Kenji",
+        "family": "Kitamura",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Mitsubishi Denki Kabushiki Kaisha"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Behcet",
+        "family": "Acikmese",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "University of Washington"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Stefano",
+        "family": "Di Cairano",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Mitsubishi Electric Research Laboratories"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Avishai",
+        "family": "Weiss",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Mitsubishi Electric Research Laboratories"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "title": [
+      "Continuous-Time Successive Convexification for Passively-Safe Spacecraft Rendezvous on a Near Rectilinear Halo Orbit"
+    ],
+    "container_title": [
+      "AIAA SCITECH 2026 Forum"
+    ],
+    "type": "proceedings-article",
+    "fetched_at": "2026-10-19",
+    "raw_response_sha256": "d037659176423a8db94285845f96e67e4ae1fb28e8b5e970ed01be324415067d"
+  },
+  {
+    "old_number": 83,
+    "stable_id": "E102",
+    "doi": "10.1007/s12567-025-00651-6",
+    "url": "https://api.crossref.org/works/10.1007%2Fs12567-025-00651-6",
+    "status": "metadata_only",
+    "authors": [
+      {
+        "given": "Sascha",
+        "family": "Wanninger",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "title": [
+      "Knowledge-based satellite failure detection, isolation and recovery (FDIR)"
+    ],
+    "container_title": [
+      "CEAS Space Journal"
+    ],
+    "type": "journal-article",
+    "fetched_at": "2026-10-19",
+    "raw_response_sha256": "0dc0e00da47b04272f16c4a248c3b2938ca40aa0ca85ab1c2e8de92e36e342a7"
+  },
+  {
+    "old_number": 84,
+    "stable_id": "E108",
+    "doi": "10.1016/S0004-3702(98)00068-X",
+    "url": "https://api.crossref.org/works/10.1016%2FS0004-3702%2898%2900068-X",
+    "status": "metadata_only",
+    "authors": [
+      {
+        "given": "Nicola",
+        "family": "Muscettola",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "P.Pandurang",
+        "family": "Nayak",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Barney",
+        "family": "Pell",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Brian C.",
+        "family": "Williams",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "title": [
+      "Remote Agent: to boldly go where no AI system has gone before"
+    ],
+    "container_title": [
+      "Artificial Intelligence"
+    ],
+    "type": "journal-article",
+    "fetched_at": "2026-10-19",
+    "raw_response_sha256": "b1278610ad68901c242cff061531804bb0b6716fdf9446aa67c5bdd205cea416"
+  },
+  {
+    "old_number": 87,
+    "stable_id": "E109",
+    "doi": "10.1109/SMC-IT.2006.48",
+    "url": "https://api.crossref.org/works/10.1109%2FSMC-IT.2006.48",
+    "status": "metadata_only",
+    "authors": [
+      {
+        "given": "Daniel Tran",
+        "family": "Gregg Rabideau",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "title": [
+      "Mission Operations of Earth Observing-1 with Onboard Autonomy"
+    ],
+    "container_title": [
+      "2nd IEEE International Conference on Space Mission Challenges for Information Technology (SMC-IT'06)"
+    ],
+    "type": "proceedings-article",
+    "fetched_at": "2026-10-19",
+    "raw_response_sha256": "4a92816a0cf44d2f2ee9b1daadbd4373881a7c7d9c92b722fa9e87b88c7dcff0"
+  },
+  {
+    "old_number": 90,
+    "stable_id": "E119",
+    "doi": "10.1007/s10270-026-01426-1",
+    "url": "https://api.crossref.org/works/10.1007%2Fs10270-026-01426-1",
+    "status": "metadata_only",
+    "authors": [
+      {
+        "given": "Francesco",
+        "family": "Basciani",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-4376-1697",
+        "authenticated-orcid": false,
+        "given": "Arianna",
+        "family": "Fedeli",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Daniele",
+        "family": "Masti",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Ludovico",
+        "family": "Iovino",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Paolo",
+        "family": "Serri",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Patrizio",
+        "family": "Pelliccione",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "title": [
+      "A model-driven framework for supervised reconfiguration of satellite schedulers"
+    ],
+    "container_title": [
+      "Software and Systems Modeling"
+    ],
+    "type": "journal-article",
+    "fetched_at": "2026-10-19",
+    "raw_response_sha256": "6fc8e558540155b73ecacd71f264cd597b28849437dfb500ff81d56113bf4914"
+  },
+  {
+    "old_number": 93,
+    "stable_id": "E116",
+    "doi": "10.2514/1.I010762",
+    "url": "https://api.crossref.org/works/10.2514%2F1.I010762",
+    "status": "metadata_only",
+    "authors": [
+      {
+        "given": "Patrick W.",
+        "family": "Kenneally",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "University of Colorado, Boulder, Boulder, Colorado 80309-0431"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Scott",
+        "family": "Piggott",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "University of Colorado, Boulder, Boulder, Colorado 80309-0431"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Hanspeter",
+        "family": "Schaub",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "University of Colorado, Boulder, Boulder, Colorado 80309-0431"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "title": [
+      "Basilisk: A Flexible, Scalable and Modular Astrodynamics Simulation Framework"
+    ],
+    "container_title": [
+      "Journal of Aerospace Information Systems"
+    ],
+    "type": "journal-article",
+    "fetched_at": "2026-10-19",
+    "raw_response_sha256": "02321cecb8e7c8515f9a53fc6a3f6e8abbdb79d9d9737b4f6ffd35894334913b"
+  },
+  {
+    "old_number": 94,
+    "stable_id": "E117",
+    "doi": "10.1007/978-3-031-06773-0_1",
+    "url": "https://api.crossref.org/works/10.1007%2F978-3-031-06773-0_1",
+    "status": "metadata_only",
+    "authors": [
+      {
+        "ORCID": "https://orcid.org/0000-0003-1023-9480",
+        "authenticated-orcid": false,
+        "given": "Steve A.",
+        "family": "Chien",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "title": [
+      "Formal Methods for Trusted Space Autonomy: Boon or Bane?"
+    ],
+    "container_title": [
+      "Lecture Notes in Computer Science",
+      "NASA Formal Methods"
+    ],
+    "type": "book-chapter",
+    "fetched_at": "2026-10-19",
+    "raw_response_sha256": "1b25931faade2245df2095eec7a094e849c1f0459d9cceba1af94c1042332b14"
+  },
+  {
+    "old_number": 95,
+    "stable_id": "E120",
+    "doi": "10.1007/s10270-025-01281-6",
+    "url": "https://api.crossref.org/works/10.1007%2Fs10270-025-01281-6",
+    "status": "metadata_only",
+    "authors": [
+      {
+        "given": "Philipp",
+        "family": "Chrszon",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Paulina",
+        "family": "Maurer",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "George",
+        "family": "Saleip",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Sascha",
+        "family": "Müller",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Philipp M.",
+        "family": "Fischer",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Andreas",
+        "family": "Gerndt",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Michael",
+        "family": "Felderer",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "title": [
+      "Model checking of spacecraft operational designs: a scalability analysis"
+    ],
+    "container_title": [
+      "Software and Systems Modeling"
+    ],
+    "type": "journal-article",
+    "fetched_at": "2026-10-19",
+    "raw_response_sha256": "dd082d72b331c5cf7f59b3dc3fd40028c068ddb58ad1d96b591d28cf53dbf124"
+  }
+]

@@ -1,0 +1,35 @@
+{
+  "scope": "v1.1 directory files listed below; excludes SHA256_MANIFEST.json",
+  "files": [
+    {
+      "path": "BASELINE_AND_DELIVERY.json",
+      "bytes": 2149,
+      "sha256": "7b1b0df3aac876913071e44942be3e307758f1c8a77587f5c243e7e368be154e"
+    },
+    {
+      "path": "CHANGELOG_CN.md",
+      "bytes": 1032,
+      "sha256": "5fac08ecf2e389276791582f5c2d8c201cc5b8a2d8089fc0831b16d7ff0c0a84"
+    },
+    {
+      "path": "DECISION_CLARITY_CHECKLIST_CN.md",
+      "bytes": 2654,
+      "sha256": "d1f24d010618b7c27455f6f5dfd9d26cac5f34f8cec924519c69f2420c218701"
+    },
+    {
+      "path": "METHOD_CARD_TEMPLATE_CN.md",
+      "bytes": 3203,
+      "sha256": "b3e646ed381e0b504459b87b684da43f15a80d1e6902220227ced7532c1606af"
+    },
+    {
+      "path": "README_CN.md",
+      "bytes": 837,
+      "sha256": "1bfc935efc5dd83ddb6ed6cac0db0d75b0a05922ba8996e777015d2398a772cd"
+    },
+    {
+      "path": "REFINEMENT_STANDARD_CN_v1.1.md",
+      "bytes": 20064,
+      "sha256": "872812508d1a91e88d9da87af19ea32f7267e66b3a48e65ab61e8e5b1909d830"
+    }
+  ]
+}

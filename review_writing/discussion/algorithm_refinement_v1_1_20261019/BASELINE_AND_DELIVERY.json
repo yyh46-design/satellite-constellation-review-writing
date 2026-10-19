@@ -1,0 +1,48 @@
+{
+  "version": "v1.1",
+  "updated_at": "2026-10-19T19:17:30.801154+08:00",
+  "request": "将具体对象、已知条件、待决定内容和术语首次解释写入精修规范",
+  "origin_specification_version": "v1.0",
+  "origin_files": [
+    {
+      "path": "review_writing/discussion/algorithm_refinement_20261019/BASELINE_AND_DELIVERY.json",
+      "sha256": "ad20861e3203c364dee2cbc606c292c0c69a9bb14dae903aba981bf6f36026a7"
+    },
+    {
+      "path": "review_writing/discussion/algorithm_refinement_20261019/EXECUTION_PLAN_CN.md",
+      "sha256": "220721a317eb384c028061830b6fc999d50bfba3fb035f5cf0c35070a3f49122"
+    },
+    {
+      "path": "review_writing/discussion/algorithm_refinement_20261019/METHOD_CARD_TEMPLATE_CN.md",
+      "sha256": "d328dbd9e3b756d2a37a4e35c783e513e1e67cbf97af00225d036c9cc9de3cc9"
+    },
+    {
+      "path": "review_writing/discussion/algorithm_refinement_20261019/REFINEMENT_STANDARD_CN_v1.0.md",
+      "sha256": "20b9f83d18e5d8e883eda45b6a70a6cd5fd2203a052359b72983211b2f62e9c5"
+    },
+    {
+      "path": "review_writing/discussion/algorithm_refinement_20261019/SHA256_MANIFEST.json",
+      "sha256": "fcbcc3f91a2ee849388b0af80b6cbc6738aad9b6e9350813a4f72383d3d36051"
+    }
+  ],
+  "current_saved_manuscript": {
+    "path": "review_writing/manuscripts/v3.0-cn-p1/REVIEW_CN_v3.0-P1.md",
+    "sha256": "0faa814e25565deb9b8ab7cdc8c17712bed3b70503638f0bd06e98d3666a91d4"
+  },
+  "checks": {
+    "v1_0_files_byte_identical": true,
+    "all_p1_manifest_entries_unchanged": true,
+    "tracked_files_unchanged": true,
+    "new_markdown_links_resolve": true,
+    "heading_spacing_checked": true,
+    "object_condition_decision_rule_in_standard": true,
+    "method_template_and_acceptance_criteria_updated": true
+  },
+  "manuscript_revisions_in_this_request": 0,
+  "new_full_text_readings": 0,
+  "formal_version_pairs_closed": 0,
+  "github_push_performed": false,
+  "human_scientific_verification_changed": false,
+  "submission_ready": false,
+  "note": "本次作者明确确认的是新增表述要求；不把其确认扩展到所有其他科学取舍或投稿审批。"
+}

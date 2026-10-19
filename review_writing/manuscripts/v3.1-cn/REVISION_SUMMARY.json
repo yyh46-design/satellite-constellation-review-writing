@@ -1,0 +1,36 @@
+{
+  "version": "v3.1-CN",
+  "date": "2026-10-19",
+  "chapter_count": 5,
+  "table_count": 7,
+  "figure_count": 4,
+  "reference_count": 64,
+  "source_library_count": 95,
+  "sources_not_cited_but_retained": 31,
+  "source_counts": {
+    "academic": 55,
+    "engineering": 9
+  },
+  "claim_records": 208,
+  "word_markdown_blocks": 257,
+  "english_abstract_words": 176,
+  "english_fulltext_complete": false,
+  "metadata_only_doi_responses": 52,
+  "metadata_access_exceptions": [
+    10,
+    11,
+    23
+  ],
+  "new_fulltext_readings": 0,
+  "formal_version_pairs_closed": 0,
+  "human_verified": false,
+  "submission_ready": false,
+  "page_count": 23,
+  "visual_review_done": true,
+  "citation_fields": "static superscript numeric citations; Zotero fields not introduced",
+  "metadata_field_ambiguity_preserved_original_numbers": [
+    29,
+    35,
+    51
+  ]
+}

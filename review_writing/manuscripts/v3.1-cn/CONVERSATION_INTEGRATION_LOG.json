@@ -1,0 +1,45 @@
+{
+  "conversation_chapter_body_sha256": "15107532cd914ac39e489700277ea9a9d85a48ee0b879d8054d1e62a3860afcc",
+  "integration_edits": [
+    {
+      "kind": "citation_spacing_normalization",
+      "scope": "remove ordinary spaces immediately before numeric citation markers; Word uses nonbreaking citation glue"
+    },
+    {
+      "kind": "retain_figure_and_add_callout",
+      "figure": 1,
+      "before": "### 2.2 ",
+      "caption_old_numbers": "图1 观测与通信业务的任务及资源关系。观测以产品交付评价，通信按给定时段内的吞吐、时延和中断评价。能源、存储、计算及通信机会限制活动选择；反馈通路为关系示意，不表示所有功能已经在同一系统中完成验证。",
+      "image_sha256": "effe0beaf31879d0afe19b3cb9cc88b82eaab36e14333b7ead88373d05f19555"
+    },
+    {
+      "kind": "retain_figure_and_add_callout",
+      "figure": 2,
+      "before": "### 4.2 ",
+      "caption_old_numbers": "图2 计算工作及相应减少机制。候选缩减[18]、局部协调[3]和计划复用[2]分别改变搜索连接、协商范围和重复求解内容。节点、连接和计划条均为机制示意，不对应实际拓扑或实验数量。",
+      "image_sha256": "bdee66400ea1e8ad1f57885373d6c018b439f4766585c23b63387f21c35b2e33"
+    },
+    {
+      "kind": "retain_figure_and_add_callout",
+      "figure": 3,
+      "before": "**表6 ",
+      "caption_old_numbers": "图3 状态更新后的修改范围与执行时序。检查信息是否仍适用、安排是否满足约束及修改是否允许后，可以保留有效计划、局部修复或扩大重规划范围。局部路径修复以[14]为例。下部是有期限请求的时序示意，阶段可能重叠，时间长度不表示实测数据；持续通信另按服务时段评价。",
+      "image_sha256": "7bf416c6163d0662bfdb50a709bf6e3f3b6e7cf81f1cfd2bbfae4c3d3ee4a1e3"
+    },
+    {
+      "kind": "retain_figure_and_add_callout",
+      "figure": 4,
+      "before": "### 4.4 ",
+      "caption_old_numbers": "图4 不同研究中的条件性比较。（a）[17]在固定实例中比较观测与传输的联合、分开安排；（b）[14]比较通信机会可靠性变化后的请求失败率，MSR优先采用指定路径并允许局部回退，CGR依据后续机会局部选路；（c）[15]在所报1 ms建链条件下，ILPR、ALPR的平均时延略高于即时最短路ILSR，ISASR仍较低。三项研究的模型和指标不同，图中排序不构成统一排名或通用阈值。",
+      "image_sha256": "619701d7d1167bffc82218ff1dfe5da4f0dd2ce3f34e89bf29481ec97a1738c7"
+    }
+  ],
+  "english_abstract_added_and_synchronized": true,
+  "english_abstract_words": 176,
+  "english_fulltext_created": false,
+  "citation_numbers_regenerated": true,
+  "scientific_results_added": false,
+  "new_fulltext_readings": 0,
+  "formal_version_pairs_closed": 0,
+  "human_verified": false
+}

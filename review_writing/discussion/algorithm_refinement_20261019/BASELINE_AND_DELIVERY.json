@@ -1,0 +1,70 @@
+{
+  "date": "2026-10-19",
+  "timezone": "Asia/Shanghai",
+  "kind": "manuscript refinement standard and planned execution",
+  "baseline_commit": "55399c96663f8a1084d57e468f9f9d3d11dcbf55",
+  "baseline_tree": "7e162c843b0b55168409f4d9111f1da1b2128d3d",
+  "baseline_manuscript_version": "v2.9-CN",
+  "input_files": [
+    {
+      "path": "review_writing/manuscripts/v2.9-cn-figures-prose/REVIEW_CN_v2.9.md",
+      "sha256": "e605391ff959ca769105c3e670d271a83b7d01293e73bbfe017e0c28f62d18e9"
+    },
+    {
+      "path": "review_writing/manuscripts/v2.9-cn-figures-prose/CLAIM_EVIDENCE_MAP.csv",
+      "sha256": "47c726e320062f1d2533de0d9e8a642b46421ff439a0ec82d991a381487b4fdf"
+    },
+    {
+      "path": "review_writing/manuscripts/v2.9-cn-figures-prose/references/REFERENCE_INDEX.csv",
+      "sha256": "268a45d8196152ce43381f3fdaee24ef81bf2d9575fc2f606ad35116b933bf03"
+    },
+    {
+      "path": "review_writing/manuscripts/v2.9-cn-figures-prose/OPEN_ITEMS_CN.md",
+      "sha256": "6198b6a70762b00aedee6a1b283e4782394ed7979685e1b892d67c97c50bf6d6"
+    },
+    {
+      "path": "review_writing/manuscripts/v2.9-cn-figures-prose/SHA256_MANIFEST.json",
+      "sha256": "cecc9daf9b4fe18fc6695cbc39423a3543dd2c79bafc629cb5cec37950e64218"
+    },
+    {
+      "path": "review_writing/manuscripts/v1.8/REVISION_CHARTER_v1.0.md",
+      "sha256": "3a236f999d9c99ed1ba20d40e01cd0dda8baab39cce3fc87bc33bfb0c433e004"
+    },
+    {
+      "path": "review_writing/discussion/WRITING_RULES_DECISIONS.md",
+      "sha256": "6faa46e41a4311020984e4d40f384f85ddcac82ff7b53a4e15f282512f835f71"
+    },
+    {
+      "path": "review_writing/discussion/GPT_WRITING_STANDARDS_BRIEF.md",
+      "sha256": "af96f81e7e6ab64da45e3ffa41d275e04e57b19db8300e47b3951ed5a8943b9e"
+    },
+    {
+      "path": "review_writing/discussion/CJA_TARGET_AND_REFINEMENT_SEQUENCE_20261017.md",
+      "sha256": "6b266487d44faa1e8395916be9668ca55b5d09a44068c04765eb96f056b4b314"
+    }
+  ],
+  "word_path": "D:\\SKT727\\outputs\\constellation_review_v2_9_figures_prose_20261019\\REVIEW_CN_v2.9_图文修订稿.docx",
+  "word_sha256": "f0be65ee01f047127ffc93168a0c01e8803d7f403e3e10e87837897a313051e6",
+  "checks": {
+    "tracked_baseline_files_unchanged": 578,
+    "v281_source_files_unchanged": 22,
+    "v29_manifest_files_unchanged": 23,
+    "word_unchanged": true,
+    "new_markdown_internal_links_resolve": true,
+    "new_markdown_heading_spacing_checked": true
+  },
+  "new_manuscript_revisions": 0,
+  "new_full_text_readings": 0,
+  "formal_version_pairs_closed": 0,
+  "planned_revision_batches": 4,
+  "completed_revision_batches_in_this_request": 0,
+  "new_official_journal_guideline_check": false,
+  "github_push_performed": false,
+  "human_verified": false,
+  "submission_ready": false,
+  "outputs": [
+    "REFINEMENT_STANDARD_CN_v1.0.md",
+    "EXECUTION_PLAN_CN.md",
+    "METHOD_CARD_TEMPLATE_CN.md"
+  ]
+}

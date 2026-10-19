@@ -1,0 +1,25 @@
+{
+  "scope": "new algorithm_refinement_20261019 directory except SHA256_MANIFEST.json",
+  "files": [
+    {
+      "path": "BASELINE_AND_DELIVERY.json",
+      "bytes": 2852,
+      "sha256": "ad20861e3203c364dee2cbc606c292c0c69a9bb14dae903aba981bf6f36026a7"
+    },
+    {
+      "path": "EXECUTION_PLAN_CN.md",
+      "bytes": 5154,
+      "sha256": "220721a317eb384c028061830b6fc999d50bfba3fb035f5cf0c35070a3f49122"
+    },
+    {
+      "path": "METHOD_CARD_TEMPLATE_CN.md",
+      "bytes": 2365,
+      "sha256": "d328dbd9e3b756d2a37a4e35c783e513e1e67cbf97af00225d036c9cc9de3cc9"
+    },
+    {
+      "path": "REFINEMENT_STANDARD_CN_v1.0.md",
+      "bytes": 16076,
+      "sha256": "20b9f83d18e5d8e883eda45b6a70a6cd5fd2203a052359b72983211b2f62e9c5"
+    }
+  ]
+}

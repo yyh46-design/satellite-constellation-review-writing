@@ -1,0 +1,41 @@
+{
+  "scope": "all files in this directory recursively except SHA256_MANIFEST.json; exact byte hashes",
+  "files": [
+    {
+      "path": ".gitattributes",
+      "bytes": 35,
+      "sha256": "5d06b15b93bd6cfcbe39f1cc3c1cee24892e22980d6f9772ac217d829d52630a"
+    },
+    {
+      "path": "BASELINE_AND_DELIVERY.json",
+      "bytes": 611,
+      "sha256": "a70fbf78a995b3ffb02da6497e3bb3a4f0bc302d2bdd1983e998d805e66e460f"
+    },
+    {
+      "path": "CITATION_WRITING_CHECKLIST_CN.md",
+      "bytes": 511,
+      "sha256": "c2c955f5c1c88115aacde1ccc38b27234a80eec8c0b64bba9d418ddc0fd3ebc2"
+    },
+    {
+      "path": "DECISION_CLARITY_CHECKLIST_CN.md",
+      "bytes": 2654,
+      "sha256": "d1f24d010618b7c27455f6f5dfd9d26cac5f34f8cec924519c69f2420c218701"
+    },
+    {
+      "path": "METHOD_CARD_TEMPLATE_CN.md",
+      "bytes": 3203,
+      "sha256": "b3e646ed381e0b504459b87b684da43f15a80d1e6902220227ced7532c1606af"
+    },
+    {
+      "path": "README_CN.md",
+      "bytes": 425,
+      "sha256": "5c40765981bdcf58eb7e7311eeffdacf6d0867dcb3ecbc4ede517525ebf72760"
+    },
+    {
+      "path": "REFINEMENT_STANDARD_CN_v1.2.md",
+      "bytes": 21710,
+      "sha256": "e88582ee9670136cc45eab8007593a8bdece8eee3bb81635b58b3f5ca49f6895"
+    }
+  ],
+  "scientific_validation_claimed": false
+}

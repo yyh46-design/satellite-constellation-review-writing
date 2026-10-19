@@ -1,0 +1,16 @@
+{
+  "version": "v1.2",
+  "date": "2026-10-19",
+  "based_on": "v1.1",
+  "original_v1_1_standard_sha256": "872812508d1a91e88d9da87af19ea32f7267e66b3a48e65ab61e8e5b1909d830",
+  "changed_sections": [
+    "1 current working title",
+    "4 completed restructuring status",
+    "7.1 citation narrative rules",
+    "12 current manuscript status"
+  ],
+  "current_manuscript": "../../manuscripts/v3.1-cn/REVIEW_CN_v3.1.md",
+  "scope": "carry forward accepted clarity requirements and record citation-writing rules confirmed in the conversation",
+  "scientific_verification_unchanged": true,
+  "submission_ready": false
+}
