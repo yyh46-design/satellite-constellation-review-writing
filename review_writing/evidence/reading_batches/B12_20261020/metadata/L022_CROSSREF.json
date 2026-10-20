@@ -1,0 +1,80 @@
+{
+  "DOI": "10.2514/1.g003739",
+  "title": [
+    "General Perturbation Method for Satellite Constellation Reconfiguration Using Low-Thrust Maneuvers"
+  ],
+  "author": [
+    {
+      "given": "Ciara N.",
+      "family": "McGrath",
+      "sequence": "first",
+      "affiliation": [
+        {
+          "name": "University of Strathclyde, Glasgow, Scotland G1 1XJ, United Kingdom"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Malcolm",
+      "family": "Macdonald",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "University of Strathclyde, Glasgow, Scotland G1 1XJ, United Kingdom"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "container-title": [
+    "Journal of Guidance, Control, and Dynamics"
+  ],
+  "volume": "42",
+  "issue": "8",
+  "page": "1676-1692",
+  "published": {
+    "date-parts": [
+      [
+        2019,
+        8
+      ]
+    ]
+  },
+  "published-print": {
+    "date-parts": [
+      [
+        2019,
+        8
+      ]
+    ]
+  },
+  "published-online": null,
+  "issued": {
+    "date-parts": [
+      [
+        2019,
+        8
+      ]
+    ]
+  },
+  "publisher": "American Institute of Aeronautics and Astronautics (AIAA)",
+  "URL": "https://doi.org/10.2514/1.g003739",
+  "resource": {
+    "primary": {
+      "URL": "https://arc.aiaa.org/doi/10.2514/1.G003739"
+    }
+  },
+  "link": null,
+  "license": null
+}

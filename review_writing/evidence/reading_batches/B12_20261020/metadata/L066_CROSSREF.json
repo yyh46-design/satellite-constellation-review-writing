@@ -1,0 +1,144 @@
+{
+  "DOI": "10.1177/0036850419884432",
+  "title": [
+    "Optimal cooperative control for formation flying spacecraft with collision avoidance"
+  ],
+  "author": [
+    {
+      "ORCID": "https://orcid.org/0000-0001-5876-874X",
+      "authenticated-orcid": false,
+      "given": "Xiaohan",
+      "family": "Lin",
+      "sequence": "first",
+      "affiliation": [
+        {
+          "name": "Control and Simulation Center, Harbin Institute of Technology, Harbin, China"
+        }
+      ],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    },
+    {
+      "given": "Xiaoping",
+      "family": "Shi",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Control and Simulation Center, Harbin Institute of Technology, Harbin, China"
+        }
+      ],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    },
+    {
+      "given": "Shilun",
+      "family": "Li",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "School of Astronautics, Harbin Institute of Technology, Harbin, China"
+        }
+      ],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    }
+  ],
+  "container-title": [
+    "Science Progress"
+  ],
+  "volume": "103",
+  "issue": "1",
+  "page": null,
+  "published": {
+    "date-parts": [
+      [
+        2019,
+        10,
+        30
+      ]
+    ]
+  },
+  "published-print": {
+    "date-parts": [
+      [
+        2020,
+        1
+      ]
+    ]
+  },
+  "published-online": {
+    "date-parts": [
+      [
+        2019,
+        10,
+        30
+      ]
+    ]
+  },
+  "issued": {
+    "date-parts": [
+      [
+        2019,
+        10,
+        30
+      ]
+    ]
+  },
+  "publisher": "SAGE Publications",
+  "URL": "https://doi.org/10.1177/0036850419884432",
+  "resource": {
+    "primary": {
+      "URL": "https://journals.sagepub.com/doi/10.1177/0036850419884432"
+    }
+  },
+  "link": [
+    {
+      "URL": "https://journals.sagepub.com/doi/pdf/10.1177/0036850419884432",
+      "content-type": "application/pdf",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://journals.sagepub.com/doi/full-xml/10.1177/0036850419884432",
+      "content-type": "application/xml",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://journals.sagepub.com/doi/pdf/10.1177/0036850419884432",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2019,
+            10,
+            30
+          ]
+        ],
+        "date-time": "2019-10-30T00:00:00Z",
+        "timestamp": 1572393600000
+      },
+      "content-version": "unspecified",
+      "delay-in-days": 0,
+      "URL": "https://creativecommons.org/licenses/by-nc/4.0/"
+    }
+  ]
+}

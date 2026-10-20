@@ -1,0 +1,107 @@
+{
+  "DOI": "10.2514/1.g007839",
+  "title": [
+    "Long-Term Fuel-Optimal Collision Avoidance Maneuvers with Station-Keeping Constraints"
+  ],
+  "author": [
+    {
+      "ORCID": "https://orcid.org/0000-0003-0808-781X",
+      "authenticated-orcid": false,
+      "given": "Zeno",
+      "family": "Pavanello",
+      "sequence": "first",
+      "affiliation": [
+        {
+          "name": "University of Auckland"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0001-9296-4138",
+      "authenticated-orcid": false,
+      "given": "Laura",
+      "family": "Pirovano",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "University of Auckland"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Roberto",
+      "family": "Armellin",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "University of Auckland"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "container-title": [
+    "Journal of Guidance, Control, and Dynamics"
+  ],
+  "volume": "47",
+  "issue": "9",
+  "page": "1855-1871",
+  "published": {
+    "date-parts": [
+      [
+        2024,
+        9
+      ]
+    ]
+  },
+  "published-print": {
+    "date-parts": [
+      [
+        2024,
+        9
+      ]
+    ]
+  },
+  "published-online": null,
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        9
+      ]
+    ]
+  },
+  "publisher": "American Institute of Aeronautics and Astronautics (AIAA)",
+  "URL": "https://doi.org/10.2514/1.g007839",
+  "resource": {
+    "primary": {
+      "URL": "https://arc.aiaa.org/doi/10.2514/1.G007839"
+    }
+  },
+  "link": [
+    {
+      "URL": "https://arc.aiaa.org/doi/pdf/10.2514/1.G007839",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "license": null
+}

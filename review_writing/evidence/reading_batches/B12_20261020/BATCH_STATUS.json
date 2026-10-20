@@ -1,0 +1,42 @@
+{
+  "batch": "B12_20261020",
+  "base_commit": "d6b9a79f3586d2b29105cf120f470f09f9b62186",
+  "branch": "research/constellation-review-reading-b12-coordination-20261020",
+  "batch_limit": 10,
+  "new_pool_total": 80,
+  "new_pool_close_read_this_batch": 10,
+  "new_pool_close_read_cumulative": 20,
+  "new_pool_remaining_not_close_read": 60,
+  "close_read_pool_ids": [
+    "L007",
+    "L020",
+    "L022",
+    "L038",
+    "L047",
+    "L053",
+    "L057",
+    "L062",
+    "L066",
+    "L074"
+  ],
+  "pdf_files_acquired_and_read": 9,
+  "pdf_total_pages": 167,
+  "native_XML_fulltext_read": 1,
+  "actual_visual_page_count": 18,
+  "claim_count": 43,
+  "version_counts": {
+    "arxiv_preprint": 3,
+    "author_repository_manuscript": 1,
+    "pmc_fulltext_xml": 1,
+    "publisher_article_in_advance": 1,
+    "publisher_fulltext": 3,
+    "publisher_fulltext_mirror": 1
+  },
+  "review_articles": 1,
+  "original_research_articles": 9,
+  "human_verified": false,
+  "submission_ready": false,
+  "manuscript_modified": false,
+  "historical_reading_totals_updated": false,
+  "stop_after_batch": true
+}

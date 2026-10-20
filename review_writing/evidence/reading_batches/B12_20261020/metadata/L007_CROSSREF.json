@@ -1,0 +1,96 @@
+{
+  "DOI": "10.2514/1.g004219",
+  "title": [
+    "Output Regulation Control for Satellite Formation Flying Using Differential Drag"
+  ],
+  "author": [
+    {
+      "given": "Mohamed",
+      "family": "Shouman",
+      "sequence": "first",
+      "affiliation": [
+        {
+          "name": "Kyushu University, Fukuoka 819-0395, Japan"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Mai",
+      "family": "Bando",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Kyushu University, Fukuoka 819-0395, Japan"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Shinji",
+      "family": "Hokamoto",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Kyushu University, Fukuoka 819-0395, Japan"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "container-title": [
+    "Journal of Guidance, Control, and Dynamics"
+  ],
+  "volume": "42",
+  "issue": "10",
+  "page": "2220-2232",
+  "published": {
+    "date-parts": [
+      [
+        2019,
+        10
+      ]
+    ]
+  },
+  "published-print": {
+    "date-parts": [
+      [
+        2019,
+        10
+      ]
+    ]
+  },
+  "published-online": null,
+  "issued": {
+    "date-parts": [
+      [
+        2019,
+        10
+      ]
+    ]
+  },
+  "publisher": "American Institute of Aeronautics and Astronautics (AIAA)",
+  "URL": "https://doi.org/10.2514/1.g004219",
+  "resource": {
+    "primary": {
+      "URL": "https://arc.aiaa.org/doi/10.2514/1.G004219"
+    }
+  },
+  "link": null,
+  "license": null
+}

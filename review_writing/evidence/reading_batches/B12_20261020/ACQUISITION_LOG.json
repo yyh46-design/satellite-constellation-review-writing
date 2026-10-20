@@ -1,0 +1,168 @@
+{
+  "captured_download_results": [
+    {
+      "id": "L007",
+      "status": "pdf_acquired",
+      "url": "https://catalog.lib.kyushu-u.ac.jp/opac_download_md/4479055/4479055.pdf",
+      "path": "D:\\SKT727\\materials\\constellation_review_B12_20261020\\L007.pdf",
+      "sha256": "c4024bac234a473f93e861fce1d7235e54be133c3f5fb7a6dfbdf4bf8bf19167",
+      "pages": 34,
+      "characters": 55124,
+      "attempts": []
+    },
+    {
+      "id": "L020",
+      "status": "pdf_acquired",
+      "url": "https://link.springer.com/content/pdf/10.1007/s12567-019-00254-y.pdf",
+      "path": "D:\\SKT727\\materials\\constellation_review_B12_20261020\\L020.pdf",
+      "sha256": "e32df229883287430b466e0cc4ee245daf8474e68e0c316b3fa51f795b215ab0",
+      "pages": 18,
+      "characters": 90020,
+      "attempts": []
+    },
+    {
+      "id": "L022",
+      "status": "pdf_acquired",
+      "url": "https://strathprints.strath.ac.uk/69138/1/McGrath_Macdonald_JGCD_2019_General_perturbations_method_for_satellite_constellation_reconfiguration.pdf",
+      "path": "D:\\SKT727\\materials\\constellation_review_B12_20261020\\L022.pdf",
+      "sha256": "db45a6b69ef5ecd86020891fc007ccab2acf007a2e0a02808dd6905031dd411a",
+      "pages": 17,
+      "characters": 98996,
+      "attempts": []
+    },
+    {
+      "id": "L038",
+      "status": "pdf_acquired",
+      "url": "https://arxiv.org/pdf/2205.15774v1",
+      "path": "D:\\SKT727\\materials\\constellation_review_B12_20261020\\L038.pdf",
+      "sha256": "936a43971201e2a5987a95b94405b7c8629918f3e24b8e58db9078afa2b681db",
+      "pages": 17,
+      "characters": 74619,
+      "attempts": []
+    },
+    {
+      "id": "L043",
+      "status": "failed",
+      "attempts": [
+        {
+          "url": "https://re.public.polimi.it/bitstream/11311/1221750/11/DEVIA_OA_02-22.pdf",
+          "error": "curl: (22) The requested URL returned error: 403"
+        }
+      ]
+    },
+    {
+      "id": "L047",
+      "status": "pdf_acquired",
+      "url": "https://arxiv.org/pdf/2307.06004",
+      "path": "D:\\SKT727\\materials\\constellation_review_B12_20261020\\L047.pdf",
+      "sha256": "48b160a9be42010298cbe3776b6b55fedf3c4dfa75ad0e058f77e9d56edb71a7",
+      "pages": 39,
+      "characters": 87177,
+      "attempts": []
+    },
+    {
+      "id": "L050",
+      "status": "failed",
+      "attempts": [
+        {
+          "url": "https://re.public.polimi.it/retrieve/61e91a18-bfc3-4ad3-84cd-52bef2c46d8f/DEVIA_OA_01-25.pdf",
+          "error": "curl: (22) The requested URL returned error: 403"
+        }
+      ]
+    },
+    {
+      "id": "L057",
+      "status": "pdf_acquired",
+      "url": "https://arxiv.org/pdf/2406.01949v1",
+      "path": "D:\\SKT727\\materials\\constellation_review_B12_20261020\\L057.pdf",
+      "sha256": "0c8f5f3843061b7b73347f9a93067e4ccdb4493ed9bc16fb1e6ef5e5b2d72286",
+      "pages": 10,
+      "characters": 48859,
+      "attempts": []
+    },
+    {
+      "id": "L066",
+      "status": "failed",
+      "attempts": [
+        {
+          "url": "https://journals.sagepub.com/doi/pdf/10.1177/0036850419884432",
+          "error": "curl: (22) The requested URL returned error: 403"
+        },
+        {
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10452794/pdf/10.1177_0036850419884432.pdf",
+          "error": "not_pdf"
+        }
+      ]
+    },
+    {
+      "id": "L074",
+      "status": "pdf_acquired",
+      "url": "https://link.springer.com/content/pdf/10.1007/s42496-024-00202-y.pdf",
+      "path": "D:\\SKT727\\materials\\constellation_review_B12_20261020\\L074.pdf",
+      "sha256": "ef97ce5df742be3bee70a41fe295b72c7f1a0af0d34876458489f5150d2be2e7",
+      "pages": 12,
+      "characters": 46353,
+      "attempts": []
+    },
+    {
+      "id": "L062",
+      "status": "pdf_acquired",
+      "url": "https://oa.upm.es/40438/2/INVE_MEM_2015_222177.pdf",
+      "path": "D:\\SKT727\\materials\\constellation_review_B12_20261020\\L062.pdf",
+      "sha256": "4a80bc148659fc4d920b6b747c3d03d7774bc7efb6e52ff72a1deb8daf49f9d4",
+      "pages": 9,
+      "characters": 41026,
+      "attempts": []
+    },
+    {
+      "id": "L049",
+      "status": "failed",
+      "attempts": [
+        {
+          "url": "https://www.janss.kr/archive/view_article?pid=jass-30-4-291",
+          "error": "not_pdf"
+        },
+        {
+          "url": "https://koreascience.kr/article/JAKO201300763571957.pdf",
+          "error": "curl: (52) Empty reply from server"
+        }
+      ]
+    },
+    {
+      "id": "L053",
+      "status": "failed",
+      "attempts": [
+        {
+          "url": "https://koreascience.kr/article/JAKO201210348674986.pdf",
+          "error": "curl: (52) Empty reply from server"
+        }
+      ]
+    },
+    {
+      "id": "L053",
+      "status": "pdf_acquired",
+      "url": "https://pdfs.semanticscholar.org/7280/fc7ee767166822bad21a358d8ed45aac927a.pdf",
+      "path": "D:\\SKT727\\materials\\constellation_review_B12_20261020\\L053.pdf",
+      "sha256": "55d40a68104c38479524ac62c71b7e9da9ac999162bd830d3d85a3e838507cc4",
+      "pages": 11,
+      "characters": 37155,
+      "attempts": []
+    }
+  ],
+  "notes": [
+    "最近一次下载结果和缓存成功记录；不声称覆盖每次网络请求。",
+    "L022首次TLS超时后重试成功；L038首次45秒下载不完整，110秒时限重试成功。",
+    "L053通过文献索引的原文PDF镜像取得；对照PDF题名、DOI和卷期。",
+    "L066出版社PDF403、PMC PDF返回非PDF挑战页；改读Europe PMC的完整原生XML，未绕过访问限制。",
+    "L072 PDF403；L043/L050仓储PDF二进制下载403，未计精读。L050的网页PDF入口可见，暂缓完整阅读。",
+    "L004 MIT下载返回429，本批未继续请求或计入。",
+    "L067/L070/L079及L042仍保留为优先候选，书目或摘要访问不算精读。"
+  ],
+  "xml_acquisition": {
+    "id": "L066",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10452794/fullTextXML",
+    "path": "D:\\SKT727\\materials\\constellation_review_B12_20261020\\L066.xml",
+    "sha256": "7b369ae6cd20d6dd9aee1449073d409c3a956ac9d00293271a3978f79d71aae4",
+    "status": "native_fulltext_XML_acquired"
+  }
+}

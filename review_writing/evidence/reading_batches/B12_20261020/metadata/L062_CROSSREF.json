@@ -1,0 +1,87 @@
+{
+  "DOI": "10.2514/1.g000742",
+  "title": [
+    "Optimal Impulsive Collision Avoidance in Low Earth Orbit"
+  ],
+  "author": [
+    {
+      "given": "Claudio",
+      "family": "Bombardelli",
+      "sequence": "first",
+      "affiliation": [
+        {
+          "name": "Department of Aeronautical Engineering, Universidad Politécnica de Madrid, E-28040 Madrid, Spain"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Javier",
+      "family": "Hernando-Ayuso",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Department of Aeronautical Engineering, Universidad Politécnica de Madrid, E-28040 Madrid, Spain"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "container-title": [
+    "Journal of Guidance, Control, and Dynamics"
+  ],
+  "volume": "38",
+  "issue": "2",
+  "page": "217-225",
+  "published": {
+    "date-parts": [
+      [
+        2015,
+        2
+      ]
+    ]
+  },
+  "published-print": {
+    "date-parts": [
+      [
+        2015,
+        2
+      ]
+    ]
+  },
+  "published-online": null,
+  "issued": {
+    "date-parts": [
+      [
+        2015,
+        2
+      ]
+    ]
+  },
+  "publisher": "American Institute of Aeronautics and Astronautics (AIAA)",
+  "URL": "https://doi.org/10.2514/1.g000742",
+  "resource": {
+    "primary": {
+      "URL": "https://arc.aiaa.org/doi/10.2514/1.G000742"
+    }
+  },
+  "link": [
+    {
+      "URL": "http://arc.aiaa.org/doi/pdf/10.2514/1.G000742",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "license": null
+}

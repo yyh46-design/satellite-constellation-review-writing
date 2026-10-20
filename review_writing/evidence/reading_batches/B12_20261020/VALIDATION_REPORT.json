@@ -1,0 +1,23 @@
+{
+  "status": "PASS",
+  "batch": "B12_20261020",
+  "sources": 10,
+  "claims": 43,
+  "local_original_source_hashes_checked": 10,
+  "local_visual_hashes_checked": 18,
+  "missing_local_files": [],
+  "source_formats": {
+    "PDF": 9,
+    "JATS_XML": 1
+  },
+  "selected_preprint_versions": 3,
+  "pool_after_batch": {
+    "close_read": 20,
+    "not_close_read": 60
+  },
+  "B11_inherited_files_unchanged": 40,
+  "manuscript_sha256_unchanged": "c9d1af6f12d412897a1434ddf082101b2db7491274fb0425896a3f01c7db5a15",
+  "outside_batch_tracked_changes": [],
+  "human_verified": false,
+  "scope": "File identity, evidence links, native locators and change scope only; no reproduction, proof or scientific correctness certificate"
+}

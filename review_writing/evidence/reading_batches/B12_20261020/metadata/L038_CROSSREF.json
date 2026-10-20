@@ -1,0 +1,130 @@
+{
+  "DOI": "10.1016/j.asr.2022.07.055",
+  "title": [
+    "Analytical model for collision probability assessments with large satellite constellations"
+  ],
+  "author": [
+    {
+      "given": "Eduardo Maria",
+      "family": "Polli",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Juan Luis",
+      "family": "Gonzalo",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Camilla",
+      "family": "Colombo",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "container-title": [
+    "Advances in Space Research"
+  ],
+  "volume": "72",
+  "issue": "7",
+  "page": "2515-2534",
+  "published": {
+    "date-parts": [
+      [
+        2023,
+        10
+      ]
+    ]
+  },
+  "published-print": {
+    "date-parts": [
+      [
+        2023,
+        10
+      ]
+    ]
+  },
+  "published-online": null,
+  "issued": {
+    "date-parts": [
+      [
+        2023,
+        10
+      ]
+    ]
+  },
+  "publisher": "Elsevier BV",
+  "URL": "https://doi.org/10.1016/j.asr.2022.07.055",
+  "resource": {
+    "primary": {
+      "URL": "https://linkinghub.elsevier.com/retrieve/pii/S027311772200686X"
+    }
+  },
+  "link": [
+    {
+      "URL": "https://api.elsevier.com/content/article/PII:S027311772200686X?httpAccept=text/xml",
+      "content-type": "text/xml",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://api.elsevier.com/content/article/PII:S027311772200686X?httpAccept=text/plain",
+      "content-type": "text/plain",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    }
+  ],
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2023,
+            10,
+            1
+          ]
+        ],
+        "date-time": "2023-10-01T00:00:00Z",
+        "timestamp": 1696118400000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2023,
+            10,
+            1
+          ]
+        ],
+        "date-time": "2023-10-01T00:00:00Z",
+        "timestamp": 1696118400000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "https://www.elsevier.com/legal/tdmrep-license"
+    }
+  ]
+}
