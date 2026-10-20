@@ -1,0 +1,230 @@
+{
+  "successful_or_last_attempt_records": [
+    {
+      "id": "S011",
+      "status": "pdf_acquired",
+      "url": "https://arxiv.org/pdf/2302.02885v2",
+      "path": "D:\\SKT727\\materials\\constellation_review_B14_20261020\\S011.pdf",
+      "sha256": "236afa60b6da31a142168fa1f2c1b1d3ca66cb2e5b1e8571bec22982282449b9",
+      "pages": 17,
+      "characters": 34121,
+      "attempts": []
+    },
+    {
+      "id": "S012",
+      "status": "pdf_acquired",
+      "url": "https://arxiv.org/pdf/2402.17596",
+      "path": "D:\\SKT727\\materials\\constellation_review_B14_20261020\\S012.pdf",
+      "sha256": "1ac3965b2d98a6fc832cf15b335abd07de97b56c6055f62797dfd31f0fb1aa03",
+      "pages": 7,
+      "characters": 38743,
+      "attempts": [
+        {
+          "url": "https://people.kth.se/~dimos/pdfs/CMPC_for_Space_Station.pdf",
+          "error": "curl: (28) Operation timed out after 120014 milliseconds with 0 bytes received\n"
+        }
+      ]
+    },
+    {
+      "id": "S013",
+      "status": "pdf_acquired",
+      "url": "https://arxiv.org/pdf/2307.08602",
+      "path": "D:\\SKT727\\materials\\constellation_review_B14_20261020\\S013.pdf",
+      "sha256": "19c8cf8e60ad4d160fdb59707fe82c36db6265d27216095bf0b0830ff60451e6",
+      "pages": 8,
+      "characters": 49306,
+      "attempts": []
+    },
+    {
+      "id": "S014",
+      "status": "pdf_acquired",
+      "url": "https://arxiv.org/pdf/2412.10530v1",
+      "path": "D:\\SKT727\\materials\\constellation_review_B14_20261020\\S014.pdf",
+      "sha256": "d759cab5c2107f72a84877d212abd64a429fc81312d4d011e380d599c687d564",
+      "pages": 20,
+      "characters": 49630,
+      "attempts": []
+    },
+    {
+      "id": "S015",
+      "status": "pdf_acquired",
+      "url": "https://hanspeterschaub.info/Papers/Stephenson2025b.pdf",
+      "path": "D:\\SKT727\\materials\\constellation_review_B14_20261020\\S015.pdf",
+      "sha256": "711743810d9de81ca6fbcdbdc10d5395a62e996bd76d3e12dc034ffd2c96f03b",
+      "pages": 20,
+      "characters": 62576,
+      "attempts": []
+    },
+    {
+      "id": "S016",
+      "status": "pdf_acquired",
+      "attempts": [
+        {
+          "url": "https://deepblue.lib.umich.edu/bitstream/handle/2027.42/196671/10.2514%3A6.2025-0183.pdf?isAllowed=y&sequence=1",
+          "error": "non_PDF_response"
+        }
+      ],
+      "url": "https://backend.production.deepblue-documents.lib.umich.edu/server/api/core/bitstreams/38580eb5-5623-4dfa-a7e5-3303f2f00922/content",
+      "path": "D:\\SKT727\\materials\\constellation_review_B14_20261020\\S016.pdf",
+      "sha256": "032ce829f06855d3d2b6e50aa00c659afbc8a14bfce078b3668d4c544b6b91ab",
+      "pages": 11,
+      "characters": 35705,
+      "retry_note": "repository public bitstream URL; 90-second download incomplete, HTTP Range resume completed with curl exit 0"
+    },
+    {
+      "id": "S017",
+      "status": "pdf_acquired",
+      "url": "https://engrxiv.org/preprint/download/5877/9769/8180",
+      "path": "D:\\SKT727\\materials\\constellation_review_B14_20261020\\S017.pdf",
+      "sha256": "f9d3db332840ae510893f3d99391ac59ce72f180d3294443735411e967c04d59",
+      "pages": 8,
+      "characters": 34700,
+      "attempts": []
+    },
+    {
+      "id": "S018",
+      "status": "pdf_acquired",
+      "url": "https://arxiv.org/pdf/2209.01120",
+      "path": "D:\\SKT727\\materials\\constellation_review_B14_20261020\\S018.pdf",
+      "sha256": "9b663b7d281ff758f51fb4e9a9685420c4f8fd9345321bc8fdce2bbf3e1db528",
+      "pages": 6,
+      "characters": 29559,
+      "attempts": []
+    },
+    {
+      "id": "S019",
+      "status": "pdf_acquired",
+      "url": "https://mitras.ece.illinois.edu/research/2024/ACC-satellite.pdf",
+      "path": "D:\\SKT727\\materials\\constellation_review_B14_20261020\\S019.pdf",
+      "sha256": "6ab3ad4d5b9db00702a8ea68377edff1d44a99cf97e9ccc040ed111fe3cc11b7",
+      "pages": 6,
+      "characters": 37341,
+      "attempts": []
+    },
+    {
+      "id": "S020",
+      "status": "pdf_acquired",
+      "url": "https://arxiv.org/pdf/2107.04094v4",
+      "path": "D:\\SKT727\\materials\\constellation_review_B14_20261020\\S020.pdf",
+      "sha256": "ed1b27dc749a604dfb939c52490ad98787f99bd1ca174c4f6f59e657a1833726",
+      "pages": 21,
+      "characters": 92622,
+      "attempts": []
+    }
+  ],
+  "initial_attempt_snapshot": [
+    {
+      "id": "S011",
+      "status": "pdf_acquired",
+      "url": "https://arxiv.org/pdf/2302.02885v2",
+      "path": "D:\\SKT727\\materials\\constellation_review_B14_20261020\\S011.pdf",
+      "sha256": "236afa60b6da31a142168fa1f2c1b1d3ca66cb2e5b1e8571bec22982282449b9",
+      "pages": 17,
+      "characters": 34121,
+      "attempts": []
+    },
+    {
+      "id": "S012",
+      "status": "pdf_acquired",
+      "url": "https://arxiv.org/pdf/2402.17596",
+      "path": "D:\\SKT727\\materials\\constellation_review_B14_20261020\\S012.pdf",
+      "sha256": "1ac3965b2d98a6fc832cf15b335abd07de97b56c6055f62797dfd31f0fb1aa03",
+      "pages": 7,
+      "characters": 38743,
+      "attempts": [
+        {
+          "url": "https://people.kth.se/~dimos/pdfs/CMPC_for_Space_Station.pdf",
+          "error": "curl: (28) Operation timed out after 120014 milliseconds with 0 bytes received\n"
+        }
+      ]
+    },
+    {
+      "id": "S013",
+      "status": "pdf_acquired",
+      "url": "https://arxiv.org/pdf/2307.08602",
+      "path": "D:\\SKT727\\materials\\constellation_review_B14_20261020\\S013.pdf",
+      "sha256": "19c8cf8e60ad4d160fdb59707fe82c36db6265d27216095bf0b0830ff60451e6",
+      "pages": 8,
+      "characters": 49306,
+      "attempts": []
+    },
+    {
+      "id": "S014",
+      "status": "pdf_acquired",
+      "url": "https://arxiv.org/pdf/2412.10530v1",
+      "path": "D:\\SKT727\\materials\\constellation_review_B14_20261020\\S014.pdf",
+      "sha256": "d759cab5c2107f72a84877d212abd64a429fc81312d4d011e380d599c687d564",
+      "pages": 20,
+      "characters": 49630,
+      "attempts": []
+    },
+    {
+      "id": "S015",
+      "status": "pdf_acquired",
+      "url": "https://hanspeterschaub.info/Papers/Stephenson2025b.pdf",
+      "path": "D:\\SKT727\\materials\\constellation_review_B14_20261020\\S015.pdf",
+      "sha256": "711743810d9de81ca6fbcdbdc10d5395a62e996bd76d3e12dc034ffd2c96f03b",
+      "pages": 20,
+      "characters": 62576,
+      "attempts": []
+    },
+    {
+      "id": "S016",
+      "status": "failed",
+      "attempts": [
+        {
+          "url": "https://deepblue.lib.umich.edu/bitstream/handle/2027.42/196671/10.2514%3A6.2025-0183.pdf?isAllowed=y&sequence=1",
+          "error": "non_PDF_response"
+        }
+      ]
+    },
+    {
+      "id": "S017",
+      "status": "pdf_acquired",
+      "url": "https://engrxiv.org/preprint/download/5877/9769/8180",
+      "path": "D:\\SKT727\\materials\\constellation_review_B14_20261020\\S017.pdf",
+      "sha256": "f9d3db332840ae510893f3d99391ac59ce72f180d3294443735411e967c04d59",
+      "pages": 8,
+      "characters": 34700,
+      "attempts": []
+    },
+    {
+      "id": "S018",
+      "status": "pdf_acquired",
+      "url": "https://arxiv.org/pdf/2209.01120",
+      "path": "D:\\SKT727\\materials\\constellation_review_B14_20261020\\S018.pdf",
+      "sha256": "9b663b7d281ff758f51fb4e9a9685420c4f8fd9345321bc8fdce2bbf3e1db528",
+      "pages": 6,
+      "characters": 29559,
+      "attempts": []
+    },
+    {
+      "id": "S019",
+      "status": "pdf_acquired",
+      "url": "https://mitras.ece.illinois.edu/research/2024/ACC-satellite.pdf",
+      "path": "D:\\SKT727\\materials\\constellation_review_B14_20261020\\S019.pdf",
+      "sha256": "6ab3ad4d5b9db00702a8ea68377edff1d44a99cf97e9ccc040ed111fe3cc11b7",
+      "pages": 6,
+      "characters": 37341,
+      "attempts": []
+    },
+    {
+      "id": "S020",
+      "status": "pdf_acquired",
+      "url": "https://arxiv.org/pdf/2107.04094v4",
+      "path": "D:\\SKT727\\materials\\constellation_review_B14_20261020\\S020.pdf",
+      "sha256": "ed1b27dc749a604dfb939c52490ad98787f99bd1ca174c4f6f59e657a1833726",
+      "pages": 21,
+      "characters": 92622,
+      "attempts": []
+    }
+  ],
+  "notes": [
+    "本记录保存已知成功、失败和重试，不声称记录每个网络请求。",
+    "S012的KTH作者PDF请求120 s无数据；改取arXiv完整7页，实际v1以PDF水印固定。",
+    "S016旧DeepBlue入口返回非PDF；公共新位流90 s请求未完成，HTTP Range续传完成、curl退出0、PdfReader解析11页，记录最终SHA-256。",
+    "S013、S018未版本下载入口实际水印分别为v2/v1；正文与元数据均绑定实际版本，不混用最新摘要。",
+    "Crossref首次并发请求对S012/S016/S019返回429，稍后顺序重试成功；六个正式DOI取得题名作者元数据。",
+    "S015官方AMOS库另核得DOI 10.64861/DAUC8213；未把官方与作者PDF当成字节相同。"
+  ]
+}

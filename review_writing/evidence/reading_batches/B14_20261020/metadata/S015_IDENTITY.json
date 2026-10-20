@@ -1,0 +1,15 @@
+{
+  "title": "Safe, Autonomous Multi-Agent Inspection of Space Objects Leveraging Relative Orbit Dynamics",
+  "authors_as_read": "Mark Stephenson; Hanspeter Schaub",
+  "bibliographic_year": 2025,
+  "identifier": "10.64861/DAUC8213",
+  "actual_arxiv_version": null,
+  "actual_version": "AMOS 2025作者站点20页PDF，未显式标版本号；官方会议库题名、作者、2025-09-16至19会议及DOI匹配；未将官方PDF与作者PDF作字节配对。",
+  "source_sha256": "711743810d9de81ca6fbcdbdc10d5395a62e996bd76d3e12dc034ffd2c96f03b",
+  "primary_url": "https://amostech.space/year/2025/safe-autonomous-multi-agent-inspection-of-space-objects-leveraging-relative-orbit-dynamics/",
+  "formal_fulltext_compared": false,
+  "human_verified": false,
+  "primary_metadata_locator": "AMOS technical-library entry: title, authors, DOI 10.64861/DAUC8213, conference September 16-19, 2025",
+  "doi_verified_against": "official_conference_library",
+  "official_pdf_and_author_pdf_byte_compared": false
+}

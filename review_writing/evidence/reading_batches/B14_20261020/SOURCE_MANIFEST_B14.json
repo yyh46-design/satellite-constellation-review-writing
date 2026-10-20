@@ -1,0 +1,621 @@
+{
+  "batch": "B14_20261020",
+  "base_commit": "c93d8b7f4ef739dc033059500944973b9bfe5f26",
+  "manuscript_baseline_commit": "394dbf885a284de85796998e25b8545d80cf6b20",
+  "sources": [
+    {
+      "source_id": "E-B14-S011",
+      "supplement_id": "S011",
+      "title": "Run Time Assurance for Autonomous Spacecraft Inspection",
+      "title_cn": "自主航天器巡检的运行时保障",
+      "authors": "Kyle Dunlap; David van Wijk; Kerianne L. Hobbs",
+      "bibliographic_year": 2023,
+      "identifier": "arXiv:2302.02885v2",
+      "arxiv_actual_version": "2302.02885v2",
+      "canonical_url": "https://arxiv.org/abs/2302.02885v2",
+      "acquisition_url": "https://arxiv.org/pdf/2302.02885v2",
+      "actual_version": "arXiv v2，2023-08-07，17页；封面标注Preprint AAS 23-113。未将其与正式排版逐项配对。",
+      "version_class": "arxiv_preprint",
+      "version_pairing": "bibliographic_identity_matched_not_line_by_line_final_version_comparison",
+      "evidence_role": "multi_agent_safety",
+      "local_source_path": "D:\\SKT727\\materials\\constellation_review_B14_20261020\\S011.pdf",
+      "source_sha256": "236afa60b6da31a142168fa1f2c1b1d3ca66cb2e5b1e8571bec22982282449b9",
+      "pdf_pages": 17,
+      "narrative_body_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "reading_scope": "AI narrative body close reading, targeted equations/tables and selected original-page visual checks; not proof reproduction or all-page visual audit",
+      "visual_reviews": [
+        {
+          "pdf_page": 8,
+          "local_path": "D:\\SKT727\\materials\\constellation_review_B14_20261020\\visual\\S011_p8.png",
+          "sha256": "e279393a882e7c97317d03e05f24fa04653361de46f44865921fe1f3ec467ce5",
+          "reviewed_by": "Codex AI",
+          "status": "VISUALLY_INSPECTED"
+        },
+        {
+          "pdf_page": 11,
+          "local_path": "D:\\SKT727\\materials\\constellation_review_B14_20261020\\visual\\S011_p11.png",
+          "sha256": "094faea7086044824137c6847c0fbb2a67e4170268c6b9ab2ab166b270873b19",
+          "reviewed_by": "Codex AI",
+          "status": "VISUALLY_INSPECTED"
+        },
+        {
+          "pdf_page": 16,
+          "local_path": "D:\\SKT727\\materials\\constellation_review_B14_20261020\\visual\\S011_p16.png",
+          "sha256": "4e4edc3dad3a937a8287ff3efe562e88fc2cf11799793d8289006a07da35f5a8",
+          "reviewed_by": "Codex AI",
+          "status": "VISUALLY_INSPECTED"
+        }
+      ],
+      "reading_status": "AI_BODY_CLOSE_READ_COMPLETE",
+      "reading_date": "2026-10-20",
+      "human_verified": false,
+      "verification_status": "human_pending",
+      "source_committed_to_git": false,
+      "notes_path": "READING_S011_CN.md"
+    },
+    {
+      "source_id": "E-B14-S012",
+      "supplement_id": "S012",
+      "title": "Corridor MPC for Multi-Agent Inspection of Orbiting Structures",
+      "title_cn": "轨道结构多航天器巡检的安全走廊MPC",
+      "authors": "Gregorio Marchesini; Pedro Roque; Dimos V. Dimarogonas",
+      "bibliographic_year": 2023,
+      "identifier": "10.1109/CDC49753.2023.10383291",
+      "arxiv_actual_version": "2402.17596v1",
+      "canonical_url": "https://doi.org/10.1109/CDC49753.2023.10383291",
+      "acquisition_url": "https://arxiv.org/pdf/2402.17596",
+      "actual_version": "实际阅读arXiv:2402.17596v1，2024-02-27，7页；正式书目为CDC 2023，Crossref题名作者匹配，未与出版排版逐字比较。",
+      "version_class": "arxiv_preprint",
+      "version_pairing": "bibliographic_identity_matched_not_line_by_line_final_version_comparison",
+      "evidence_role": "multi_agent_safety",
+      "local_source_path": "D:\\SKT727\\materials\\constellation_review_B14_20261020\\S012.pdf",
+      "source_sha256": "1ac3965b2d98a6fc832cf15b335abd07de97b56c6055f62797dfd31f0fb1aa03",
+      "pdf_pages": 7,
+      "narrative_body_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "reading_scope": "AI narrative body close reading, targeted equations/tables and selected original-page visual checks; not proof reproduction or all-page visual audit",
+      "visual_reviews": [
+        {
+          "pdf_page": 3,
+          "local_path": "D:\\SKT727\\materials\\constellation_review_B14_20261020\\visual\\S012_p3.png",
+          "sha256": "6096a9b2848623cded91f5304d17ebe5189dd25bdb0d12f9098ae167861aa2c5",
+          "reviewed_by": "Codex AI",
+          "status": "VISUALLY_INSPECTED"
+        },
+        {
+          "pdf_page": 6,
+          "local_path": "D:\\SKT727\\materials\\constellation_review_B14_20261020\\visual\\S012_p6.png",
+          "sha256": "bb40e182956727cf7c4955776133d521affa14c7ca7e660815cd88eefb97dfa7",
+          "reviewed_by": "Codex AI",
+          "status": "VISUALLY_INSPECTED"
+        },
+        {
+          "pdf_page": 7,
+          "local_path": "D:\\SKT727\\materials\\constellation_review_B14_20261020\\visual\\S012_p7.png",
+          "sha256": "93d25d4999932e1b2c133268d4e16a98e1b1d2d6c67b93fde33a92fbbb50878d",
+          "reviewed_by": "Codex AI",
+          "status": "VISUALLY_INSPECTED"
+        }
+      ],
+      "reading_status": "AI_BODY_CLOSE_READ_COMPLETE",
+      "reading_date": "2026-10-20",
+      "human_verified": false,
+      "verification_status": "human_pending",
+      "source_committed_to_git": false,
+      "notes_path": "READING_S012_CN.md"
+    },
+    {
+      "source_id": "E-B14-S013",
+      "supplement_id": "S013",
+      "title": "CaRT: Certified Safety and Robust Tracking in Learning-based Motion Planning for Multi-Agent Systems",
+      "title_cn": "CaRT：学习式多智能体规划的安全目标与鲁棒跟踪",
+      "authors": "Hiroyasu Tsukamoto; Benjamin Rivière; Changrak Choi; Amir Rahmani; Soon-Jo Chung",
+      "bibliographic_year": 2023,
+      "identifier": "10.1109/CDC49753.2023.10383600",
+      "arxiv_actual_version": "2307.08602v2",
+      "canonical_url": "https://doi.org/10.1109/CDC49753.2023.10383600",
+      "acquisition_url": "https://arxiv.org/pdf/2307.08602",
+      "actual_version": "实际阅读arXiv:2307.08602v2，2023-08-13，8页；页首Submitted CDC 2023，正式CDC DOI经Crossref匹配，未比较终版文本。",
+      "version_class": "arxiv_preprint",
+      "version_pairing": "bibliographic_identity_matched_not_line_by_line_final_version_comparison",
+      "evidence_role": "multi_agent_safety",
+      "local_source_path": "D:\\SKT727\\materials\\constellation_review_B14_20261020\\S013.pdf",
+      "source_sha256": "19c8cf8e60ad4d160fdb59707fe82c36db6265d27216095bf0b0830ff60451e6",
+      "pdf_pages": 8,
+      "narrative_body_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "reading_scope": "AI narrative body close reading, targeted equations/tables and selected original-page visual checks; not proof reproduction or all-page visual audit",
+      "visual_reviews": [
+        {
+          "pdf_page": 4,
+          "local_path": "D:\\SKT727\\materials\\constellation_review_B14_20261020\\visual\\S013_p4.png",
+          "sha256": "d393eeef119b299f1de38431dff461e5ad4d3bf8aeb222912da901d86d8e2df9",
+          "reviewed_by": "Codex AI",
+          "status": "VISUALLY_INSPECTED"
+        },
+        {
+          "pdf_page": 6,
+          "local_path": "D:\\SKT727\\materials\\constellation_review_B14_20261020\\visual\\S013_p6.png",
+          "sha256": "91dfe84963c70aa18701425461cb7424d64df23e04a6465e14143d69c1ec04d2",
+          "reviewed_by": "Codex AI",
+          "status": "VISUALLY_INSPECTED"
+        },
+        {
+          "pdf_page": 8,
+          "local_path": "D:\\SKT727\\materials\\constellation_review_B14_20261020\\visual\\S013_p8.png",
+          "sha256": "bfc1079070dd381ec8a3f1eb42cd3bed7e99f5f7cd9c5b9e63141bd3271ad502",
+          "reviewed_by": "Codex AI",
+          "status": "VISUALLY_INSPECTED"
+        }
+      ],
+      "reading_status": "AI_BODY_CLOSE_READ_COMPLETE",
+      "reading_date": "2026-10-20",
+      "human_verified": false,
+      "verification_status": "human_pending",
+      "source_committed_to_git": false,
+      "notes_path": "READING_S013_CN.md"
+    },
+    {
+      "source_id": "E-B14-S014",
+      "supplement_id": "S014",
+      "title": "Deep Reinforcement Learning for Scalable Multiagent Spacecraft Inspection",
+      "title_cn": "可扩展多航天器巡检的深度强化学习",
+      "authors": "Kyle Dunlap; Nathaniel Hamilton; Kerianne L. Hobbs",
+      "bibliographic_year": 2024,
+      "identifier": "arXiv:2412.10530v1",
+      "arxiv_actual_version": "2412.10530v1",
+      "canonical_url": "https://arxiv.org/abs/2412.10530v1",
+      "acquisition_url": "https://arxiv.org/pdf/2412.10530v1",
+      "actual_version": "arXiv:2412.10530v1，2024-12-13，20页；封面Preprint AAS 25-143。书目年按实际预印本2024登记，会议编号不作为已核实正式出版日期。",
+      "version_class": "arxiv_preprint",
+      "version_pairing": "bibliographic_identity_matched_not_line_by_line_final_version_comparison",
+      "evidence_role": "multi_agent_safety",
+      "local_source_path": "D:\\SKT727\\materials\\constellation_review_B14_20261020\\S014.pdf",
+      "source_sha256": "d759cab5c2107f72a84877d212abd64a429fc81312d4d011e380d599c687d564",
+      "pdf_pages": 20,
+      "narrative_body_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17
+      ],
+      "reading_scope": "AI narrative body close reading, targeted equations/tables and selected original-page visual checks; not proof reproduction or all-page visual audit",
+      "visual_reviews": [
+        {
+          "pdf_page": 8,
+          "local_path": "D:\\SKT727\\materials\\constellation_review_B14_20261020\\visual\\S014_p8.png",
+          "sha256": "160fb9c6f0207bf776314a1c529dcb23fb53326ab4b8039777f8ed1e4c4bab48",
+          "reviewed_by": "Codex AI",
+          "status": "VISUALLY_INSPECTED"
+        },
+        {
+          "pdf_page": 10,
+          "local_path": "D:\\SKT727\\materials\\constellation_review_B14_20261020\\visual\\S014_p10.png",
+          "sha256": "f8a0952d07c701364e50d0ac671a1a758c0f8127e14e0b366ec2b7bf7e48d779",
+          "reviewed_by": "Codex AI",
+          "status": "VISUALLY_INSPECTED"
+        },
+        {
+          "pdf_page": 16,
+          "local_path": "D:\\SKT727\\materials\\constellation_review_B14_20261020\\visual\\S014_p16.png",
+          "sha256": "c44c15783e284f6ea99ec143ec63e79cfdb55493d1c3c3c6dfc7fbf7aa09f9fd",
+          "reviewed_by": "Codex AI",
+          "status": "VISUALLY_INSPECTED"
+        }
+      ],
+      "reading_status": "AI_BODY_CLOSE_READ_COMPLETE",
+      "reading_date": "2026-10-20",
+      "human_verified": false,
+      "verification_status": "human_pending",
+      "source_committed_to_git": false,
+      "notes_path": "READING_S014_CN.md"
+    },
+    {
+      "source_id": "E-B14-S015",
+      "supplement_id": "S015",
+      "title": "Safe, Autonomous Multi-Agent Inspection of Space Objects Leveraging Relative Orbit Dynamics",
+      "title_cn": "利用相对轨道动力学的安全多航天器自主巡检",
+      "authors": "Mark Stephenson; Hanspeter Schaub",
+      "bibliographic_year": 2025,
+      "identifier": "10.64861/DAUC8213",
+      "arxiv_actual_version": null,
+      "canonical_url": "https://amostech.space/year/2025/safe-autonomous-multi-agent-inspection-of-space-objects-leveraging-relative-orbit-dynamics/",
+      "acquisition_url": "https://hanspeterschaub.info/Papers/Stephenson2025b.pdf",
+      "actual_version": "AMOS 2025作者站点20页PDF，未显式标版本号；官方会议库题名、作者、2025-09-16至19会议及DOI匹配；未将官方PDF与作者PDF作字节配对。",
+      "version_class": "unversioned_author_conference_manuscript",
+      "version_pairing": "bibliographic_identity_matched_not_line_by_line_final_version_comparison",
+      "evidence_role": "multi_agent_safety",
+      "local_source_path": "D:\\SKT727\\materials\\constellation_review_B14_20261020\\S015.pdf",
+      "source_sha256": "711743810d9de81ca6fbcdbdc10d5395a62e996bd76d3e12dc034ffd2c96f03b",
+      "pdf_pages": 20,
+      "narrative_body_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17
+      ],
+      "reading_scope": "AI narrative body close reading, targeted equations/tables and selected original-page visual checks; not proof reproduction or all-page visual audit",
+      "visual_reviews": [
+        {
+          "pdf_page": 7,
+          "local_path": "D:\\SKT727\\materials\\constellation_review_B14_20261020\\visual\\S015_p7.png",
+          "sha256": "f58438e7a07b7b6e570d3dc1691242563bbfeaab3418dd120a5912c46c367c44",
+          "reviewed_by": "Codex AI",
+          "status": "VISUALLY_INSPECTED"
+        },
+        {
+          "pdf_page": 9,
+          "local_path": "D:\\SKT727\\materials\\constellation_review_B14_20261020\\visual\\S015_p9.png",
+          "sha256": "a35e8b07d38b8c7515740b03a68c6adbdec060ebf4c0d6019ecc27433e06607e",
+          "reviewed_by": "Codex AI",
+          "status": "VISUALLY_INSPECTED"
+        },
+        {
+          "pdf_page": 12,
+          "local_path": "D:\\SKT727\\materials\\constellation_review_B14_20261020\\visual\\S015_p12.png",
+          "sha256": "9ad741416d3e3659d09c711e891df917afacd55c92cdcfd90433d6f92db7cd1e",
+          "reviewed_by": "Codex AI",
+          "status": "VISUALLY_INSPECTED"
+        },
+        {
+          "pdf_page": 15,
+          "local_path": "D:\\SKT727\\materials\\constellation_review_B14_20261020\\visual\\S015_p15.png",
+          "sha256": "4594138eb5617c50156e485c5ddfb0b57985d215bd2522d474fac155cebf394a",
+          "reviewed_by": "Codex AI",
+          "status": "VISUALLY_INSPECTED"
+        }
+      ],
+      "reading_status": "AI_BODY_CLOSE_READ_COMPLETE",
+      "reading_date": "2026-10-20",
+      "human_verified": false,
+      "verification_status": "human_pending",
+      "source_committed_to_git": false,
+      "notes_path": "READING_S015_CN.md"
+    },
+    {
+      "source_id": "E-B14-S016",
+      "supplement_id": "S016",
+      "title": "Robust Replanning for Multi-Agent SmallSat Inspection in Failure Scenarios",
+      "title_cn": "故障场景下多小卫星巡检的鲁棒重规划",
+      "authors": "Markus H. Iversflaten; Alexander Hansson; David C. Sternberg; Oliver Jia-Richards; Keenan Albee",
+      "bibliographic_year": 2025,
+      "identifier": "10.2514/6.2025-0183",
+      "arxiv_actual_version": null,
+      "canonical_url": "https://doi.org/10.2514/6.2025-0183",
+      "acquisition_url": "https://backend.production.deepblue-documents.lib.umich.edu/server/api/core/bitstreams/38580eb5-5623-4dfa-a7e5-3303f2f00922/content",
+      "actual_version": "AIAA SciTech 2025；实际阅读DeepBlue公开位流11页作者稿。Crossref题名作者匹配；NTNU另标acceptedVersion，但未对两个仓储文件作字节比较。",
+      "version_class": "author_repository_manuscript",
+      "version_pairing": "bibliographic_identity_matched_not_line_by_line_final_version_comparison",
+      "evidence_role": "multi_agent_failure_replanning",
+      "local_source_path": "D:\\SKT727\\materials\\constellation_review_B14_20261020\\S016.pdf",
+      "source_sha256": "032ce829f06855d3d2b6e50aa00c659afbc8a14bfce078b3668d4c544b6b91ab",
+      "pdf_pages": 11,
+      "narrative_body_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "reading_scope": "AI narrative body close reading, targeted equations/tables and selected original-page visual checks; not proof reproduction or all-page visual audit",
+      "visual_reviews": [
+        {
+          "pdf_page": 3,
+          "local_path": "D:\\SKT727\\materials\\constellation_review_B14_20261020\\visual\\S016_p3.png",
+          "sha256": "927abfb4fe8992e8caaa6ab1ce2294f3283b4c95dd28da750816e3dcd88ecb47",
+          "reviewed_by": "Codex AI",
+          "status": "VISUALLY_INSPECTED"
+        },
+        {
+          "pdf_page": 8,
+          "local_path": "D:\\SKT727\\materials\\constellation_review_B14_20261020\\visual\\S016_p8.png",
+          "sha256": "4c9145d64e2dd301845cfd65bc843e2bcf608076449bd62b602696606477e19d",
+          "reviewed_by": "Codex AI",
+          "status": "VISUALLY_INSPECTED"
+        }
+      ],
+      "reading_status": "AI_BODY_CLOSE_READ_COMPLETE",
+      "reading_date": "2026-10-20",
+      "human_verified": false,
+      "verification_status": "human_pending",
+      "source_committed_to_git": false,
+      "notes_path": "READING_S016_CN.md"
+    },
+    {
+      "source_id": "E-B14-S017",
+      "supplement_id": "S017",
+      "title": "Multi-Agent Spacecraft Docking with Reinforcement Learning",
+      "title_cn": "强化学习多航天器对接及有限通信扰动测试",
+      "authors": "Selim Olgu Pilav",
+      "bibliographic_year": 2025,
+      "identifier": "10.31224/5877",
+      "arxiv_actual_version": null,
+      "canonical_url": "https://engrxiv.org/preprint/view/5877",
+      "acquisition_url": "https://engrxiv.org/preprint/download/5877/9769/8180",
+      "actual_version": "Engineering Archive/EngrXiv Version 1，2025-11-27，8页预印本；实际下载版本路径5877/9769/8180。非同行评议期刊论文。",
+      "version_class": "repository_preprint_v1",
+      "version_pairing": "bibliographic_identity_matched_not_line_by_line_final_version_comparison",
+      "evidence_role": "multi_agent_empirical_learning",
+      "local_source_path": "D:\\SKT727\\materials\\constellation_review_B14_20261020\\S017.pdf",
+      "source_sha256": "f9d3db332840ae510893f3d99391ac59ce72f180d3294443735411e967c04d59",
+      "pdf_pages": 8,
+      "narrative_body_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "reading_scope": "AI narrative body close reading, targeted equations/tables and selected original-page visual checks; not proof reproduction or all-page visual audit",
+      "visual_reviews": [
+        {
+          "pdf_page": 5,
+          "local_path": "D:\\SKT727\\materials\\constellation_review_B14_20261020\\visual\\S017_p5.png",
+          "sha256": "19d86c5b309eb9742f8619a7794f43e253afda7b7c25b9c634074a944d3c2bf8",
+          "reviewed_by": "Codex AI",
+          "status": "VISUALLY_INSPECTED"
+        },
+        {
+          "pdf_page": 6,
+          "local_path": "D:\\SKT727\\materials\\constellation_review_B14_20261020\\visual\\S017_p6.png",
+          "sha256": "6cae3496c44becc25f27f9abd5e782840abc81b498dfeb9394afa89d3b37ed92",
+          "reviewed_by": "Codex AI",
+          "status": "VISUALLY_INSPECTED"
+        },
+        {
+          "pdf_page": 7,
+          "local_path": "D:\\SKT727\\materials\\constellation_review_B14_20261020\\visual\\S017_p7.png",
+          "sha256": "fe9a366a3f06f23bedd91e8160301137c43c043aecd44b1452d2824d897f0d9e",
+          "reviewed_by": "Codex AI",
+          "status": "VISUALLY_INSPECTED"
+        }
+      ],
+      "reading_status": "AI_BODY_CLOSE_READ_COMPLETE",
+      "reading_date": "2026-10-20",
+      "human_verified": false,
+      "verification_status": "human_pending",
+      "source_committed_to_git": false,
+      "notes_path": "READING_S017_CN.md"
+    },
+    {
+      "source_id": "E-B14-S018",
+      "supplement_id": "S018",
+      "title": "A Universal Framework for Generalized Run Time Assurance with JAX Automatic Differentiation",
+      "title_cn": "基于JAX自动微分的通用运行时保障框架",
+      "authors": "Umberto Ravaioli; Kyle Dunlap; Kerianne Hobbs",
+      "bibliographic_year": 2023,
+      "identifier": "10.23919/ACC55779.2023.10156439",
+      "arxiv_actual_version": "2209.01120v1",
+      "canonical_url": "https://doi.org/10.23919/ACC55779.2023.10156439",
+      "acquisition_url": "https://arxiv.org/pdf/2209.01120",
+      "actual_version": "实际阅读arXiv:2209.01120v1，2022-09-02，6页；正式书目ACC 2023 DOI经Crossref匹配，未与终版逐字比对。",
+      "version_class": "arxiv_preprint",
+      "version_pairing": "bibliographic_identity_matched_not_line_by_line_final_version_comparison",
+      "evidence_role": "multi_agent_safety_infrastructure",
+      "local_source_path": "D:\\SKT727\\materials\\constellation_review_B14_20261020\\S018.pdf",
+      "source_sha256": "9b663b7d281ff758f51fb4e9a9685420c4f8fd9345321bc8fdce2bbf3e1db528",
+      "pdf_pages": 6,
+      "narrative_body_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "reading_scope": "AI narrative body close reading, targeted equations/tables and selected original-page visual checks; not proof reproduction or all-page visual audit",
+      "visual_reviews": [
+        {
+          "pdf_page": 4,
+          "local_path": "D:\\SKT727\\materials\\constellation_review_B14_20261020\\visual\\S018_p4.png",
+          "sha256": "3200de6e89db7c95a3ca0619cd192fa531316444b1646013c267da7ccc317d99",
+          "reviewed_by": "Codex AI",
+          "status": "VISUALLY_INSPECTED"
+        },
+        {
+          "pdf_page": 5,
+          "local_path": "D:\\SKT727\\materials\\constellation_review_B14_20261020\\visual\\S018_p5.png",
+          "sha256": "6dad8e0216d144d40218f8ede3c81d3c2018dcf8f54d917689a4bc448add753b",
+          "reviewed_by": "Codex AI",
+          "status": "VISUALLY_INSPECTED"
+        }
+      ],
+      "reading_status": "AI_BODY_CLOSE_READ_COMPLETE",
+      "reading_date": "2026-10-20",
+      "human_verified": false,
+      "verification_status": "human_pending",
+      "source_committed_to_git": false,
+      "notes_path": "READING_S018_CN.md"
+    },
+    {
+      "source_id": "E-B14-S019",
+      "supplement_id": "S019",
+      "title": "Guaranteed Safe Satellite Guidance and Navigation Using Reachability Based Switching Controllers",
+      "title_cn": "基于可达性的卫星安全备份切换",
+      "authors": "Kristina Miller; Sean Phillips; Sayan Mitra",
+      "bibliographic_year": 2024,
+      "identifier": "10.23919/ACC60939.2024.10644961",
+      "arxiv_actual_version": null,
+      "canonical_url": "https://doi.org/10.23919/ACC60939.2024.10644961",
+      "acquisition_url": "https://mitras.ece.illinois.edu/research/2024/ACC-satellite.pdf",
+      "actual_version": "作者大学主页提供IEEE ACC 2024排版，pp.2298–2303，共6页；DOI经Crossref题名作者匹配，下载水印2025不是出版年。",
+      "version_class": "publisher_layout_on_author_host",
+      "version_pairing": "bibliographic_identity_matched_not_line_by_line_final_version_comparison",
+      "evidence_role": "single_controlled_spacecraft_method_foundation",
+      "local_source_path": "D:\\SKT727\\materials\\constellation_review_B14_20261020\\S019.pdf",
+      "source_sha256": "6ab3ad4d5b9db00702a8ea68377edff1d44a99cf97e9ccc040ed111fe3cc11b7",
+      "pdf_pages": 6,
+      "narrative_body_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "reading_scope": "AI narrative body close reading, targeted equations/tables and selected original-page visual checks; not proof reproduction or all-page visual audit",
+      "visual_reviews": [
+        {
+          "pdf_page": 2,
+          "local_path": "D:\\SKT727\\materials\\constellation_review_B14_20261020\\visual\\S019_p2.png",
+          "sha256": "12051083da0702aeacfb0f3ca3310baaeb3c3b568a0eb08f903f820bc5f0e4ad",
+          "reviewed_by": "Codex AI",
+          "status": "VISUALLY_INSPECTED"
+        },
+        {
+          "pdf_page": 5,
+          "local_path": "D:\\SKT727\\materials\\constellation_review_B14_20261020\\visual\\S019_p5.png",
+          "sha256": "15d3d562b3fa018965ce6d16bdaf696f31432ea5aa934e133e54837d2f9e4740",
+          "reviewed_by": "Codex AI",
+          "status": "VISUALLY_INSPECTED"
+        },
+        {
+          "pdf_page": 6,
+          "local_path": "D:\\SKT727\\materials\\constellation_review_B14_20261020\\visual\\S019_p6.png",
+          "sha256": "05745b6d27d46c5b04ec484cc5f0053d463a1c2c0a393b79471e9fdb62e0a072",
+          "reviewed_by": "Codex AI",
+          "status": "VISUALLY_INSPECTED"
+        }
+      ],
+      "reading_status": "AI_BODY_CLOSE_READ_COMPLETE",
+      "reading_date": "2026-10-20",
+      "human_verified": false,
+      "verification_status": "human_pending",
+      "source_committed_to_git": false,
+      "notes_path": "READING_S019_CN.md"
+    },
+    {
+      "source_id": "E-B14-S020",
+      "supplement_id": "S020",
+      "title": "Robust Control Barrier Functions under High Relative Degree and Input Constraints for Satellite Trajectories",
+      "title_cn": "高相对阶与有限输入约束下的卫星鲁棒控制障碍函数",
+      "authors": "Joseph Breeden; Dimitra Panagou",
+      "bibliographic_year": 2023,
+      "identifier": "10.1016/j.automatica.2023.111109",
+      "arxiv_actual_version": "2107.04094v4",
+      "canonical_url": "https://doi.org/10.1016/j.automatica.2023.111109",
+      "acquisition_url": "https://arxiv.org/pdf/2107.04094v4",
+      "actual_version": "实际阅读arXiv:2107.04094v4，水印2023-06-09、页脚Preprint submitted to Automatica 12 June 2023，21页；正式Automatica 155 (2023) DOI经Crossref匹配，未逐字配对。",
+      "version_class": "arxiv_preprint",
+      "version_pairing": "bibliographic_identity_matched_not_line_by_line_final_version_comparison",
+      "evidence_role": "single_controlled_spacecraft_method_foundation",
+      "local_source_path": "D:\\SKT727\\materials\\constellation_review_B14_20261020\\S020.pdf",
+      "source_sha256": "ed1b27dc749a604dfb939c52490ad98787f99bd1ca174c4f6f59e657a1833726",
+      "pdf_pages": 21,
+      "narrative_body_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "reading_scope": "AI narrative body close reading, targeted equations/tables and selected original-page visual checks; not proof reproduction or all-page visual audit",
+      "visual_reviews": [
+        {
+          "pdf_page": 9,
+          "local_path": "D:\\SKT727\\materials\\constellation_review_B14_20261020\\visual\\S020_p9.png",
+          "sha256": "ea0b267bfea89fbff5711e02a473cb1554f8afc256b54eda8c16193a2994c91f",
+          "reviewed_by": "Codex AI",
+          "status": "VISUALLY_INSPECTED"
+        },
+        {
+          "pdf_page": 16,
+          "local_path": "D:\\SKT727\\materials\\constellation_review_B14_20261020\\visual\\S020_p16.png",
+          "sha256": "1b1c3eb91baa31f0b83aea41b7e2aae27ee4685dce6aeb1442f0c4f5cdb01a7d",
+          "reviewed_by": "Codex AI",
+          "status": "VISUALLY_INSPECTED"
+        },
+        {
+          "pdf_page": 19,
+          "local_path": "D:\\SKT727\\materials\\constellation_review_B14_20261020\\visual\\S020_p19.png",
+          "sha256": "cde4018256c06ea31e481930a4b1d1b75f59379c9c373947298baec68db7e1db",
+          "reviewed_by": "Codex AI",
+          "status": "VISUALLY_INSPECTED"
+        }
+      ],
+      "reading_status": "AI_BODY_CLOSE_READ_COMPLETE",
+      "reading_date": "2026-10-20",
+      "human_verified": false,
+      "verification_status": "human_pending",
+      "source_committed_to_git": false,
+      "notes_path": "READING_S020_CN.md"
+    }
+  ],
+  "human_verified": false,
+  "submission_ready": false
+}

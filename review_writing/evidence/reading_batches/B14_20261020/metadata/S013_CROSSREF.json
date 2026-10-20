@@ -1,0 +1,129 @@
+{
+  "DOI": "10.1109/cdc49753.2023.10383600",
+  "title": [
+    "CaRT: Certified Safety and Robust Tracking in Learning-Based Motion Planning for Multi-Agent Systems"
+  ],
+  "author": [
+    {
+      "given": "Hiroyasu",
+      "family": "Tsukamoto",
+      "sequence": "first",
+      "affiliation": [
+        {
+          "name": "Caltech,Division of EAS,Pasadena,CA"
+        }
+      ],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    },
+    {
+      "given": "Benjamin",
+      "family": "Rivière",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Caltech,Division of EAS,Pasadena,CA"
+        }
+      ],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    },
+    {
+      "given": "Changrak",
+      "family": "Choi",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Caltech,Jet Propulsion Laboratory (JPL),Pasadena,CA"
+        }
+      ],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    },
+    {
+      "given": "Amir",
+      "family": "Rahmani",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Caltech,Jet Propulsion Laboratory (JPL),Pasadena,CA"
+        }
+      ],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    },
+    {
+      "given": "Soon-Jo",
+      "family": "Chung",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Caltech,Division of EAS,Pasadena,CA"
+        }
+      ],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    }
+  ],
+  "container-title": [
+    "2023 62nd IEEE Conference on Decision and Control (CDC)"
+  ],
+  "publisher": "IEEE",
+  "volume": null,
+  "issue": null,
+  "page": null,
+  "published": {
+    "date-parts": [
+      [
+        2023,
+        12,
+        13
+      ]
+    ]
+  },
+  "published-print": {
+    "date-parts": [
+      [
+        2023,
+        12,
+        13
+      ]
+    ]
+  },
+  "published-online": null,
+  "URL": "https://doi.org/10.1109/cdc49753.2023.10383600",
+  "resource": {
+    "primary": {
+      "URL": "https://ieeexplore.ieee.org/document/10383600/"
+    }
+  },
+  "link": [
+    {
+      "URL": "http://xplorestaging.ieee.org/ielx7/10383192/10383193/10383600.pdf?arnumber=10383600",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "retrieval_url": "https://api.crossref.org/works?query.title=CaRT%3A%20Certified%20Safety%20and%20Robust%20Tracking%20in%20Learning-based%20Motion%20Planning%20for%20Multi-Agent%20Systems&rows=1"
+}

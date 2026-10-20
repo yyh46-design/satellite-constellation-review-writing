@@ -1,0 +1,49 @@
+{
+  "batch": "B14_20261020",
+  "base_commit": "c93d8b7f4ef739dc033059500944973b9bfe5f26",
+  "branch": "research/constellation-review-reading-b14-safety-20261020",
+  "topic": "multi-spacecraft cooperative safety control and necessary method foundations",
+  "batch_limit": 10,
+  "original_pool_total": 80,
+  "original_pool_close_read_this_batch": 0,
+  "original_pool_close_read_cumulative": 20,
+  "original_pool_remaining": 60,
+  "topic_supplement_close_read_this_batch": 10,
+  "topic_supplement_close_read_cumulative": 20,
+  "B11_B12_B13_B14_close_read_records": 40,
+  "close_read_supplement_ids": [
+    "S011",
+    "S012",
+    "S013",
+    "S014",
+    "S015",
+    "S016",
+    "S017",
+    "S018",
+    "S019",
+    "S020"
+  ],
+  "multi_agent_or_infrastructure_papers": 8,
+  "single_controlled_spacecraft_foundation_papers": 2,
+  "pdf_files_acquired_and_read": 10,
+  "pdf_total_pages": 124,
+  "actual_visual_page_count": 29,
+  "claim_count": 47,
+  "related_research_chain": [
+    "S018",
+    "S011",
+    "S014"
+  ],
+  "unresolved_source_issues": [
+    "S015 single-agent collision percentage/count consistency",
+    "S019 Lemma 1 sign, mode labels and unavailable full proofs"
+  ],
+  "inherited_version_pairing_pending": [
+    "B13:S008 newer arXiv v2 not yet read"
+  ],
+  "human_verified": false,
+  "submission_ready": false,
+  "manuscript_modified": false,
+  "historical_reading_totals_updated": false,
+  "stop_after_batch": true
+}

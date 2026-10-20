@@ -1,0 +1,77 @@
+{
+  "DOI": "10.1016/j.automatica.2023.111109",
+  "title": [
+    "Robust Control Barrier Functions under high relative degree and input constraints for satellite trajectories"
+  ],
+  "author": [
+    {
+      "given": "Joseph",
+      "family": "Breeden",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Dimitra",
+      "family": "Panagou",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "container-title": [
+    "Automatica"
+  ],
+  "publisher": "Elsevier BV",
+  "volume": "155",
+  "issue": null,
+  "page": "111109",
+  "published": {
+    "date-parts": [
+      [
+        2023,
+        9
+      ]
+    ]
+  },
+  "published-print": {
+    "date-parts": [
+      [
+        2023,
+        9
+      ]
+    ]
+  },
+  "published-online": null,
+  "URL": "https://doi.org/10.1016/j.automatica.2023.111109",
+  "resource": {
+    "primary": {
+      "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0005109823002698"
+    }
+  },
+  "link": [
+    {
+      "URL": "https://api.elsevier.com/content/article/PII:S0005109823002698?httpAccept=text/xml",
+      "content-type": "text/xml",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://api.elsevier.com/content/article/PII:S0005109823002698?httpAccept=text/plain",
+      "content-type": "text/plain",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    }
+  ],
+  "retrieval_url": "https://api.crossref.org/works/10.1016/j.automatica.2023.111109"
+}

@@ -1,0 +1,79 @@
+{
+  "DOI": "10.23919/acc60939.2024.10644961",
+  "title": [
+    "Guaranteed Safe Satellite Guidance and Navigation Using Reachability Based Switching Controllers"
+  ],
+  "author": [
+    {
+      "given": "Kristina",
+      "family": "Miller",
+      "sequence": "first",
+      "affiliation": [
+        {
+          "name": "University of Illinois Urbana-Champaign"
+        }
+      ],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    },
+    {
+      "given": "Sean",
+      "family": "Phillips",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Air Force Research Laboratory"
+        }
+      ],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    },
+    {
+      "given": "Sayan",
+      "family": "Mitra",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "University of Illinois Urbana-Champaign"
+        }
+      ],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    }
+  ],
+  "published": {
+    "date-parts": [
+      [
+        2024,
+        7,
+        10
+      ]
+    ]
+  },
+  "published-print": {
+    "date-parts": [
+      [
+        2024,
+        7,
+        10
+      ]
+    ]
+  },
+  "container-title": [
+    "2024 American Control Conference (ACC)"
+  ],
+  "type": "proceedings-article",
+  "URL": "https://doi.org/10.23919/acc60939.2024.10644961"
+}

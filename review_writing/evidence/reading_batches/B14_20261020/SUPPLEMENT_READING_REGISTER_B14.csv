@@ -1,0 +1,21 @@
+﻿supplement_id,title,identifier,source_id,reading_status,batch,note_path,human_verified
+S001,Safe Multi-agent Satellite Servicing with Control Barrier Functions,arXiv:2502.10480v1,E-B13-S001,AI_BODY_CLOSE_READ_COMPLETE,B13_20261020,../B13_20261020/READING_S001_CN.md,False
+S002,Decentralized Guidance and Control for Rendezvous and Docking with a Tumbling Target using Multiple Servicers,arXiv:2609.26593v1,E-B13-S002,AI_BODY_CLOSE_READ_COMPLETE,B13_20261020,../B13_20261020/READING_S002_CN.md,False
+S003,Distributed Connectivity Maintenance and Collision Avoidance Control of Spacecraft Formation Flying,10.23919/ChiCC.2019.8866017,E-B13-S003,AI_BODY_CLOSE_READ_COMPLETE,B13_20261020,../B13_20261020/READING_S003_CN.md,False
+S004,Connectivity Preservation and Collision Avoidance Control for Spacecraft Formation Flying with Bounded Actuation,10.1007/978-981-15-8155-7_307,E-B13-S004,AI_BODY_CLOSE_READ_COMPLETE,B13_20261020,../B13_20261020/READING_S004_CN.md,False
+S005,Leader-Following Connectivity Preservation and Collision Avoidance Control for Multiple Spacecraft with Bounded Actuation,10.3390/aerospace11080612,E-B13-S005,AI_BODY_CLOSE_READ_COMPLETE,B13_20261020,../B13_20261020/READING_S005_CN.md,False
+S006,Connectivity preservation and collision avoidance control for spacecraft formation flying in the presence of multiple obstacles,10.1016/j.asr.2020.05.036,E-B13-S006,AI_BODY_CLOSE_READ_COMPLETE,B13_20261020,../B13_20261020/READING_S006_CN.md,False
+S007,Robust Passively Safe Spacecraft Swarming via Closed-form and Optimization-based Control Approaches,10.23919/ACC53348.2022.9867216,E-B13-S007,AI_BODY_CLOSE_READ_COMPLETE,B13_20261020,../B13_20261020/READING_S007_CN.md,False
+S008,Safe and Optimal N-Spacecraft Swarm Reconfiguration in Non-Keplerian Cislunar Orbits,arXiv:2504.20386v1,E-B13-S008,AI_BODY_CLOSE_READ_COMPLETE,B13_20261020,../B13_20261020/READING_S008_CN.md,False
+S009,Cooperative Platooning and Servicing for Spacecraft Formation Flying using Model Predictive Control,CEAS-GNC-2022-026,E-B13-S009,AI_BODY_CLOSE_READ_COMPLETE,B13_20261020,../B13_20261020/READING_S009_CN.md,False
+S010,A Hierarchical Control Architecture for Optimal Guidance and Navigation of Satellite Formations,author-preprint-2026-jsr-satellite,E-B13-S010,AI_BODY_CLOSE_READ_COMPLETE,B13_20261020,../B13_20261020/READING_S010_CN.md,False
+S011,Run Time Assurance for Autonomous Spacecraft Inspection,arXiv:2302.02885v2,E-B14-S011,AI_BODY_CLOSE_READ_COMPLETE,B14_20261020,READING_S011_CN.md,False
+S012,Corridor MPC for Multi-Agent Inspection of Orbiting Structures,10.1109/CDC49753.2023.10383291,E-B14-S012,AI_BODY_CLOSE_READ_COMPLETE,B14_20261020,READING_S012_CN.md,False
+S013,CaRT: Certified Safety and Robust Tracking in Learning-based Motion Planning for Multi-Agent Systems,10.1109/CDC49753.2023.10383600,E-B14-S013,AI_BODY_CLOSE_READ_COMPLETE,B14_20261020,READING_S013_CN.md,False
+S014,Deep Reinforcement Learning for Scalable Multiagent Spacecraft Inspection,arXiv:2412.10530v1,E-B14-S014,AI_BODY_CLOSE_READ_COMPLETE,B14_20261020,READING_S014_CN.md,False
+S015,"Safe, Autonomous Multi-Agent Inspection of Space Objects Leveraging Relative Orbit Dynamics",10.64861/DAUC8213,E-B14-S015,AI_BODY_CLOSE_READ_COMPLETE,B14_20261020,READING_S015_CN.md,False
+S016,Robust Replanning for Multi-Agent SmallSat Inspection in Failure Scenarios,10.2514/6.2025-0183,E-B14-S016,AI_BODY_CLOSE_READ_COMPLETE,B14_20261020,READING_S016_CN.md,False
+S017,Multi-Agent Spacecraft Docking with Reinforcement Learning,10.31224/5877,E-B14-S017,AI_BODY_CLOSE_READ_COMPLETE,B14_20261020,READING_S017_CN.md,False
+S018,A Universal Framework for Generalized Run Time Assurance with JAX Automatic Differentiation,10.23919/ACC55779.2023.10156439,E-B14-S018,AI_BODY_CLOSE_READ_COMPLETE,B14_20261020,READING_S018_CN.md,False
+S019,Guaranteed Safe Satellite Guidance and Navigation Using Reachability Based Switching Controllers,10.23919/ACC60939.2024.10644961,E-B14-S019,AI_BODY_CLOSE_READ_COMPLETE,B14_20261020,READING_S019_CN.md,False
+S020,Robust Control Barrier Functions under High Relative Degree and Input Constraints for Satellite Trajectories,10.1016/j.automatica.2023.111109,E-B14-S020,AI_BODY_CLOSE_READ_COMPLETE,B14_20261020,READING_S020_CN.md,False

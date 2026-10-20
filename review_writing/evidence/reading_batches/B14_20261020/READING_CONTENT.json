@@ -1,0 +1,922 @@
+[
+  {
+    "supplement_id": "S011",
+    "actual_title": "Run Time Assurance for Autonomous Spacecraft Inspection",
+    "title_cn": "自主航天器巡检的运行时保障",
+    "authors": "Kyle Dunlap; David van Wijk; Kerianne L. Hobbs",
+    "year": 2023,
+    "identifier": "arXiv:2302.02885v2",
+    "canonical_url": "https://arxiv.org/abs/2302.02885v2",
+    "actual_version": "arXiv v2，2023-08-07，17页；封面标注Preprint AAS 23-113。未将其与正式排版逐项配对。",
+    "body_pages": [
+      1,
+      12
+    ],
+    "evidence_role": "multi_agent_safety",
+    "question": "多颗服务星执行近距离巡检时，如何在名义控制器之外集中处理碰撞、接近速度、视线、边界和失控漂移约束，并比较集中与分布式安全修正？",
+    "inputs": "使用CWH三维相对平动模型，12 kg服务星、推力上限1 N。安全过滤需要目标及其他服务星位置速度；分布式实例仍掌握所有星状态，只是不掌握其他星的拟用控制。未建立姿态闭环或受损通信模型。",
+    "decisions": "ASIF在每个时刻最小修改名义推力；集中式联合求解多星控制，分布式由各星独立修正。安全集合还含太阳视线、速度上限、1000 m活动边界及500 s无控漂移要求。",
+    "mechanism": "作者区分几何允许集与可保持的控制不变子集，并通过最坏自然加速度估计减速能力。燃料余量会与持续安全控制冲突，因此燃料阈值另触发LQR转移至自然停车轨道的备份模式，而非统一纳入不变安全集。",
+    "validation": "2000组初始安全状态Monte Carlo，每组五星、500 s、名义输入为零；另给出激进LQR轨迹与单服务星燃料触发示例。集中式2000组全部通过，分布式90.95%通过；失败口径含进入不安全状态或无可行控制。本文是数值验证，没有飞行或硬件试验。",
+    "limitations": [
+      "初始状态经安全筛选；样本通过率不能外推任意初始状态的全局可行性。",
+      "分布式在冲突时可能重复或不一致地承担避让责任；删除星间约束后通过率提高属于放宽问题。",
+      "燃料备份的最低保证是目标星间距；不能声称进入备份后全部原约束自动保持。",
+      "全状态可得、线性轨道近似、执行采样及推力限制需要联合核对；无延迟或丢包实验。"
+    ],
+    "use": "用于3.6.3说明安全过滤的采用前提与备份接管，并以集中/分布式对比支撑“个体安全修正不自动构成群体可行控制”。不能替代3.6.2的碰撞概率评估。",
+    "claims": [
+      {
+        "text": "分布式ASIF需要所有服务星状态，但不使用其他星控制；集中式联合获得多星控制，因此两者差别不等同于局部感知与全局感知。",
+        "pages": [
+          9,
+          10
+        ],
+        "locator": "Decentralized and Centralized RTA实现说明",
+        "type": "information_condition",
+        "claim_id": "C-B14-001",
+        "source_id": "E-B14-S011",
+        "claim_text_sha256": "1bba436f862d8406400e0a26659514f3c8d0fc09aa5285da6ca376eda4f6b95d"
+      },
+      {
+        "text": "同一2000组五星试验中，集中式通过率100%，分布式90.95%；失败包含安全违规或QP不可行，不能把9.05%统一写成实体碰撞。",
+        "pages": [
+          11,
+          16
+        ],
+        "locator": "Monte Carlo说明及对应结果图",
+        "type": "simulation_result",
+        "claim_id": "C-B14-002",
+        "source_id": "E-B14-S011",
+        "claim_text_sha256": "701ccae09bd5aaa3a0776081bb13210fb27a0a2e41f6be450a0a3a28cd0fd2e9"
+      },
+      {
+        "text": "作者把分布式失败归因于星间避碰约束下的控制冲突；移除此项约束后同组试验通过率100%，其意义是约束协调难点，不能作为完整问题已解决的证据。",
+        "pages": [
+          11,
+          16
+        ],
+        "locator": "移除multiagent keep-out约束的对照",
+        "type": "scope_boundary",
+        "claim_id": "C-B14-003",
+        "source_id": "E-B14-S011",
+        "claim_text_sha256": "98a70434445639ca06f54096a201615ef15a04c0b77f0e618415fedc95dcee87"
+      },
+      {
+        "text": "剩余燃料阈值未纳入控制不变安全集；达到阈值后备份模式将单服务星引向自然停车轨道，不能由此推出五星全约束和有限燃料同时得到统一保证。",
+        "pages": [
+          7,
+          10,
+          12
+        ],
+        "locator": "fuel约束与eNMT备份、7000 s单星例",
+        "type": "fallback_condition",
+        "claim_id": "C-B14-004",
+        "source_id": "E-B14-S011",
+        "claim_text_sha256": "bd12d76c6a419697add40d9187529a911050a7390245d62eb87e584be4e012d5"
+      },
+      {
+        "text": "500 s被动安全、速度/活动边界和视线约束与碰撞距离共同进入安全修正，显示采用名义动作时需同时审查多种约束及控制可行性。",
+        "pages": [
+          5,
+          6,
+          8
+        ],
+        "locator": "约束定义及simulation parameters",
+        "type": "method_fact",
+        "claim_id": "C-B14-005",
+        "source_id": "E-B14-S011",
+        "claim_text_sha256": "faca58b164184cf233a0858c97bf8f1c80d6ab0d4e11984d7ad45245c295e15f"
+      }
+    ],
+    "visual_pages": [
+      8,
+      11,
+      16
+    ]
+  },
+  {
+    "supplement_id": "S012",
+    "actual_title": "Corridor MPC for Multi-Agent Inspection of Orbiting Structures",
+    "title_cn": "轨道结构多航天器巡检的安全走廊MPC",
+    "authors": "Gregorio Marchesini; Pedro Roque; Dimos V. Dimarogonas",
+    "year": 2023,
+    "identifier": "10.1109/CDC49753.2023.10383291",
+    "canonical_url": "https://doi.org/10.1109/CDC49753.2023.10383291",
+    "actual_version": "实际阅读arXiv:2402.17596v1，2024-02-27，7页；正式书目为CDC 2023，Crossref题名作者匹配，未与出版排版逐字比较。",
+    "body_pages": [
+      1,
+      7
+    ],
+    "evidence_role": "multi_agent_safety",
+    "question": "在已分配的被动相对轨道周围，如何构造互不重叠的巡检走廊，使离散时间MPC在有界轨道摄动下保持走廊约束？",
+    "inputs": "非线性相对轨道模型，参考轨道近圆。控制/状态/扰动集合紧，所需导数光滑，扰动界及局部Lipschitz界已知。每星预先分配不同PRO，走廊的几何间隔承担星间避碰。",
+    "decisions": "每星优化有限时域加速度序列，保持位置及速度误差管道。本文不在线求解任务分配，也不显式实时协商各星避碰动作；能否采用动作首先取决于所分配走廊是否安全且可保持。",
+    "mechanism": "位置约束使用二阶HOCBF，速度约束使用一阶条件；采样数据版本加入与采样间隔及扰动界有关的裕量，局部可达集合用于降低保守性。约束兼容性通过离线保守降维后的数值网格测试检查。",
+    "validation": "三颗6U、10 kg巡检星，200 mN推力，0.1 s采样、25步预测；仿真含最高6阶带谐项及指数大气阻力。结果图展示约3 min闭环片段；文中105 min是离线可行性检查用时，不是在线MPC计算时间。",
+    "limitations": [
+      "安全走廊和PRO已分配，未解决走廊相交、动态角色交换及故障后重新分配。",
+      "递归可行性的兼容性检查依赖降维近似和有限网格，不能称连续全域解析认证。",
+      "有界动力学扰动不等同于已验证任意导航噪声；作者将传感噪声影响列为后续工作。",
+      "不要把三分钟图示称为完整93分钟轨道试验，也不把离线耗时用作在线时延。"
+    ],
+    "use": "用于3.6.1/3.6.3补强预分配安全结构与执行约束的接口，尤其与仅提高安全层频率的学习控制作对比：采样间安全需要显式条件。",
+    "claims": [
+      {
+        "text": "多星无碰撞依赖各星维持在预分配且有间隔的PRO走廊内，本文没有另设主动星间避碰控制器或在线任务分配。",
+        "pages": [
+          2,
+          3
+        ],
+        "locator": "Problem formulation及corridor几何说明",
+        "type": "coordination_condition",
+        "claim_id": "C-B14-006",
+        "source_id": "E-B14-S012",
+        "claim_text_sha256": "276f69a52284b6be5a55b9c88026104a55a2e715982f5645d3b5eb93e6cc9842"
+      },
+      {
+        "text": "SD-HOCBF在连续时间条件之外加入采样间隔和有界扰动相关裕量，因此其安全讨论不能简化成只在MPC节点检查距离。",
+        "pages": [
+          3,
+          4,
+          5
+        ],
+        "locator": "sampled-data HOCBF构造及局部界",
+        "type": "sampling_condition",
+        "claim_id": "C-B14-007",
+        "source_id": "E-B14-S012",
+        "claim_text_sha256": "28c2511e0a84fc0c82727b6caede4218db226cb050f79632adc86aa3c90585bf"
+      },
+      {
+        "text": "约束兼容性采用离线数值网格检查，并由原7维状态保守缩减到3维误差/角度表示；文中数值检查不等同于连续全域可行性证明。",
+        "pages": [
+          5,
+          6
+        ],
+        "locator": "recursive feasibility与offline compatibility procedure",
+        "type": "feasibility_boundary",
+        "claim_id": "C-B14-008",
+        "source_id": "E-B14-S012",
+        "claim_text_sha256": "04cf4870ac06f67cc2e9c7772b38f79d657c8579fb93333afcaa8700596ffa96"
+      },
+      {
+        "text": "数值例为三颗6U星，0.1 s采样和25步预测，图示约3 min；105 min对应离线可行性检查，应与在线MPC求解成本分列。",
+        "pages": [
+          6,
+          7
+        ],
+        "locator": "Numerical simulations、参数及末段计算说明",
+        "type": "simulation_scale",
+        "claim_id": "C-B14-009",
+        "source_id": "E-B14-S012",
+        "claim_text_sha256": "a9027f6bb8854335f1e04e394e8e8c70872aed4b6ebe5d33f53e8c9eb4d3f2c9"
+      },
+      {
+        "text": "J2和阻力等被纳入有界摄动测试，但传感噪声影响仍列为未来工作，不能由扰动鲁棒条件直接推出带噪状态估计下的安全保证。",
+        "pages": [
+          6,
+          7
+        ],
+        "locator": "扰动仿真及Conclusions future work",
+        "type": "uncertainty_boundary",
+        "claim_id": "C-B14-010",
+        "source_id": "E-B14-S012",
+        "claim_text_sha256": "ffaba7ba17adba5e015c68c03c5c81bc5c6577daefe6ecc29967f2b00809eb4e"
+      }
+    ],
+    "visual_pages": [
+      3,
+      6,
+      7
+    ]
+  },
+  {
+    "supplement_id": "S013",
+    "actual_title": "CaRT: Certified Safety and Robust Tracking in Learning-based Motion Planning for Multi-Agent Systems",
+    "title_cn": "CaRT：学习式多智能体规划的安全目标与鲁棒跟踪",
+    "authors": "Hiroyasu Tsukamoto; Benjamin Rivière; Changrak Choi; Amir Rahmani; Soon-Jo Chung",
+    "year": 2023,
+    "identifier": "10.1109/CDC49753.2023.10383600",
+    "canonical_url": "https://doi.org/10.1109/CDC49753.2023.10383600",
+    "actual_version": "实际阅读arXiv:2307.08602v2，2023-08-13，8页；页首Submitted CDC 2023，正式CDC DOI经Crossref匹配，未比较终版文本。",
+    "body_pages": [
+      1,
+      8
+    ],
+    "evidence_role": "multi_agent_safety",
+    "question": "怎样把学习规划器的名义动作、安全目标生成和扰动下跟踪分开处理，使局部信息策略在有扰动时仍具有明确范围的安全结论？",
+    "inputs": "控制仿射/拉格朗日系统，局部邻居观测，安全初态，已知模型及所需收缩度量存在；非全驱动系统还需未驱动方向满足假设。外扰同时讨论有界确定性项和Brownian噪声。",
+    "decisions": "第一层最小修改学习策略形成安全目标轨迹；第二层围绕该安全目标作鲁棒跟踪修正。控制决策不是直接给原始神经网络策略贴安全标签，而是把规划输出变成有条件可采用的参考。",
+    "mechanism": "名义安全层使用对数障碍条件及局部分解，鲁棒层使用收缩分析。随机安全结论通过误差矩与Markov界联系到给定时刻的安全概率；该层次结构对综述的价值在于区分目标安全和实际轨迹安全。",
+    "validation": "包含一般动力学障碍例、6个“spacecraft simulators”数值模型及10星LEO重构；后者对比50次仿真，CaRT大扰动栏报告100%成功、累计控制代价5.86。全局名义栏无扰动，代价1.26，两栏情境不同，不能据此宣布统一最优。",
+    "limitations": [
+      "定理控制取值为R^m；对照CLF-CBF-QP的推力盒不等于CaRT证明已覆盖同一硬输入约束。",
+      "随机定理为给定时刻概率界，不是无限时间几乎必然无碰撞。",
+      "spacecraft simulator在此是仿真动力学模型，没有实体硬件实验。",
+      "表中部分百分数与50次试验的简单整数计数不一致，成功率聚合分母未完全澄清；不拿31.6%作精确事件计数。"
+    ],
+    "use": "用于3.6.3解释“名义计划—安全目标—鲁棒执行”接口。对扰动与概率措辞做边界示例，不能作为有限推力大规模星座已经认证的依据。",
+    "claims": [
+      {
+        "text": "CaRT先生成安全的名义目标，再以独立鲁棒跟踪层跟随该目标；跟踪误差界针对安全参考，而非任意原始学习轨迹。",
+        "pages": [
+          3,
+          4,
+          5
+        ],
+        "locator": "nominal safety filter、robust tracking filter及Remark 4",
+        "type": "architecture_fact",
+        "claim_id": "C-B14-011",
+        "source_id": "E-B14-S013",
+        "claim_text_sha256": "40cf799d1e8c992e6c0e3f3cc9111599937aef5644d2744a7d4b4f21b3f739eb"
+      },
+      {
+        "text": "Theorem 3的随机安全结论是给定时刻的有限概率下界，依赖误差矩和距离裕量；不是全时域确定性安全或几乎必然无碰撞。",
+        "pages": [
+          5,
+          6
+        ],
+        "locator": "Theorem 3及其Markov概率界",
+        "type": "probability_boundary",
+        "claim_id": "C-B14-012",
+        "source_id": "E-B14-S013",
+        "claim_text_sha256": "66f867b71fbf89668a08b4b2b57aa7ce7bcd443373308a5140e1d463cd78ed98"
+      },
+      {
+        "text": "主安全控制公式以无约束R^m输入表述；比较方法中出现的|u|≤1盒约束不能移植为CaRT已有的有限推力定理。",
+        "pages": [
+          4,
+          5,
+          7
+        ],
+        "locator": "安全输入优化式及对照实验输入设置",
+        "type": "actuation_boundary",
+        "claim_id": "C-B14-013",
+        "source_id": "E-B14-S013",
+        "claim_text_sha256": "10924ad92df46b9b80cbef60d04402028f27385902c629eb004223890612236d"
+      },
+      {
+        "text": "文中10星LEO重构进行50次仿真，CaRT大扰动配置报告100%成功、代价5.86；全局轨迹基线为无扰动且代价1.26，不能作同扰动公平最优性比较。",
+        "pages": [
+          7,
+          8
+        ],
+        "locator": "LEO reconfiguration、Table I",
+        "type": "simulation_result",
+        "claim_id": "C-B14-014",
+        "source_id": "E-B14-S013",
+        "claim_text_sha256": "03ac926259a996bf57366767c7b9731f927d8bd26ed82ebd74a0d30bd7a19ee9"
+      },
+      {
+        "text": "六个spacecraft simulators属于数值系统示例，论文没有报告实体六星硬件实验；10星仿真规模也不能外推百星在线性能。",
+        "pages": [
+          6,
+          7,
+          8
+        ],
+        "locator": "Numerical simulations各示例及图注",
+        "type": "evidence_level",
+        "claim_id": "C-B14-015",
+        "source_id": "E-B14-S013",
+        "claim_text_sha256": "93d75b0932483b2d7e8273761e91b668038c9dea2ca92a41ba5056286031d4af"
+      }
+    ],
+    "visual_pages": [
+      4,
+      6,
+      8
+    ]
+  },
+  {
+    "supplement_id": "S014",
+    "actual_title": "Deep Reinforcement Learning for Scalable Multiagent Spacecraft Inspection",
+    "title_cn": "可扩展多航天器巡检的深度强化学习",
+    "authors": "Kyle Dunlap; Nathaniel Hamilton; Kerianne L. Hobbs",
+    "year": 2024,
+    "identifier": "arXiv:2412.10530v1",
+    "canonical_url": "https://arxiv.org/abs/2412.10530v1",
+    "actual_version": "arXiv:2412.10530v1，2024-12-13，20页；封面Preprint AAS 25-143。书目年按实际预印本2024登记，会议编号不作为已核实正式出版日期。",
+    "body_pages": [
+      1,
+      17
+    ],
+    "evidence_role": "multi_agent_safety",
+    "question": "共享巡检策略能否在不随星数增长的观测编码下迁移到不同规模，并由RTA限制学习动作的安全风险？",
+    "inputs": "6DoF同构服务星：CWH平动、姿态动力学及热/能量状态；目标为100个加权巡检点，成功条件为至少95%权重。策略使用8八分区或100体素的邻星计数/最近距离表示，但安全层另需所有服务星完整位置速度。",
+    "decisions": "共享PPO策略输出平动和姿态控制，多星协同依靠共享权重、巡检进度与压缩邻星表示。RTA修改不安全动作；其信息输入与神经网络观测应分开登记。",
+    "mechanism": "策略动作每10 s更新，RTA每1 s检查一次零阶保持执行；作者指出直接10 s更新可能违反连续CBF条件。软约束用极大惩罚系数，只有与目标/服务星碰撞相关约束保持硬约束。",
+    "validation": "每配置10个随机种子，每个训练1000万时间步；主要在三服务星上训练，在1–5星测试。多种三颗及以上配置报告样本任务成功率100%；单星并非全成功。终止后一轨被动漂移核查与安全层500 s预测窗口是两个不同检验。",
+    "limitations": [
+      "固定策略观测长度不意味着安全层通信或状态规模固定；没有实际带宽、时延、丢包测量。",
+      "提高检查频率本身未给出类似SD-HOCBF的采样间裕量证明。",
+      "热、能量、视线等可被松弛，不能说所有约束均被硬性保持。",
+      "1–5星迁移和训练1000万步不是百星验证；全群累计∆V与每星平均指标口径不同。"
+    ],
+    "use": "用于3.6.1的策略扩展性及3.6.3的安全修正接口，明确“策略能迁移”和“安全层可分布式实施”是两项不同问题。",
+    "claims": [
+      {
+        "text": "固定长度的八分区/体素观测支持策略跨星数使用，但RTA仍假设获得所有服务星位置速度，策略观测压缩没有同步消除安全层全状态需求。",
+        "pages": [
+          7,
+          8
+        ],
+        "locator": "观测表示及RTA state assumptions",
+        "type": "information_condition",
+        "claim_id": "C-B14-016",
+        "source_id": "E-B14-S014",
+        "claim_text_sha256": "0445b3fe9ac5d342241e7d44176bdb26d3b0e291ab051866cdd0d15dacc1ea72"
+      },
+      {
+        "text": "学习动作10 s更新、安全层1 s更新；作者说明较长采样会违反连续CBF条件，但未由这一频率差给出一般采样间安全裕量定理。",
+        "pages": [
+          10
+        ],
+        "locator": "RTA update rate及zero-order hold讨论",
+        "type": "sampling_boundary",
+        "claim_id": "C-B14-017",
+        "source_id": "E-B14-S014",
+        "claim_text_sha256": "4b61a71f6de7dc7c06472609e26230c850494303f19fe537d3a53fda650eff47"
+      },
+      {
+        "text": "RTA设置大惩罚松弛项；除目标/服务星碰撞约束外，其余约束可松弛，因此不能把全部热、能量和视线限制写成无例外硬保证。",
+        "pages": [
+          9,
+          10
+        ],
+        "locator": "soft constraints与1e12惩罚设置",
+        "type": "constraint_priority",
+        "claim_id": "C-B14-018",
+        "source_id": "E-B14-S014",
+        "claim_text_sha256": "01fb29a8102e3d4912dace9a993ab0e9fa80ba06e54998564ac71d455c16a828"
+      },
+      {
+        "text": "共享策略主要在三服务星上训练并在1–5星测试，部分三颗及以上配置达到样本任务成功率100%；这不是大规模星座实证。",
+        "pages": [
+          11,
+          12,
+          16,
+          17
+        ],
+        "locator": "training设置与scalability evaluation",
+        "type": "simulation_scale",
+        "claim_id": "C-B14-019",
+        "source_id": "E-B14-S014",
+        "claim_text_sha256": "6464a131df177cab2126db749958a223c3243cd0938db1e53cc347588456f45f"
+      },
+      {
+        "text": "任务成功至少覆盖95%加权巡检点；实验还检查终止后一轨漂移，不能与安全层500 s被动安全窗口或碰撞概率阈值混为一项指标。",
+        "pages": [
+          5,
+          6,
+          9,
+          16
+        ],
+        "locator": "termination、passive safety及evaluation定义",
+        "type": "metric_boundary",
+        "claim_id": "C-B14-020",
+        "source_id": "E-B14-S014",
+        "claim_text_sha256": "4884d83b5f8fdc4c9db24ae16549bd3c00ba2c9511abe1dc0b84f81e4133e45f"
+      }
+    ],
+    "visual_pages": [
+      8,
+      10,
+      16
+    ]
+  },
+  {
+    "supplement_id": "S015",
+    "actual_title": "Safe, Autonomous Multi-Agent Inspection of Space Objects Leveraging Relative Orbit Dynamics",
+    "title_cn": "利用相对轨道动力学的安全多航天器自主巡检",
+    "authors": "Mark Stephenson; Hanspeter Schaub",
+    "year": 2025,
+    "identifier": "10.64861/DAUC8213",
+    "canonical_url": "https://amostech.space/year/2025/safe-autonomous-multi-agent-inspection-of-space-objects-leveraging-relative-orbit-dynamics/",
+    "actual_version": "AMOS 2025作者站点20页PDF，未显式标版本号；官方会议库题名、作者、2025-09-16至19会议及DOI匹配；未将官方PDF与作者PDF作字节配对。",
+    "body_pages": [
+      1,
+      17
+    ],
+    "evidence_role": "multi_agent_safety",
+    "question": "在偏心LEO和变长决策间隔下，怎样用学习策略选择脉冲/漂移动作，同时通过轨道结构屏蔽不安全动作并保持长期被动安全？",
+    "inputs": "Basilisk/BSK-RL高保真仿真包含J2和阻力，近远地点在500–1100 km范围，目标为1 m球体的100个点。假设附近服务星可自由通信，并共享巡检状态和邻星位置速度。多星观测包含3(N−1)型邻星信息，并非固定星数无关编码。",
+    "decisions": "异步半Markov决策输出不超过1 m/s脉冲与随后漂移时长，每服务星预算10 m/s。屏蔽器寻找最接近提议动作的可行脉冲；当前只允许一星改变动作，其余保持既有被动安全轨道。",
+    "mechanism": "有限段距离约束结合偏心轨道一阶解析近似的长期界。初始所有轨道安全、零脉冲可取消动作、一星一时刻更新共同保证备选动作存在。节点间速度上界用端点最大值近似，单调时成立，一般情形为启发式近似。",
+    "validation": "单星各燃料惩罚1000例；双星包括复制单星策略和多星共同训练策略，各1000例。复制策略无屏蔽时约15%发生碰撞，屏蔽后未观察到碰撞；共同训练屏蔽增加约0.57 m/s和0.60轨的平均成本。文中认为所设球体任务单星已足以有效完成，多星优势有限。",
+    "limitations": [
+      "异步安全论证不能直接迁移到同时机动、存在通信延迟的多星。",
+      "高保真仿真没有消除一阶相对轨道近似和节点间速度界近似的证明缺口。",
+      "单星无屏蔽段同时出现“1%碰撞”及“3次碰撞/1000”表述，统计口径待核，不在综述中强行统一。",
+      "0.079 s平均屏蔽计算时间来自单星测试，不是多星最坏实时上界；实验最多双星。"
+    ],
+    "use": "用于3.6.1/3.6.3，把异步决策、零动作备份、燃料/时间代价与安全采用条件连接起来；保留多星协作收益有限的结果。",
+    "claims": [
+      {
+        "text": "屏蔽器的可行备份依赖已有轨道被动安全、零脉冲可行以及每次仅一星改变轨道；同时独立机动不在这一论证范围内。",
+        "pages": [
+          6,
+          7
+        ],
+        "locator": "shield construction与asynchronous decision假设",
+        "type": "coordination_condition",
+        "claim_id": "C-B14-021",
+        "source_id": "E-B14-S015",
+        "claim_text_sha256": "3deed2d8973cbdc639f01b81cef1360050712562ea23e59341b7cc7610ab0437"
+      },
+      {
+        "text": "连续段速度上界用端点最大值构造；作者说明在速度单调时精确，一般情况下为近似，不能将离散节点检查一律称连续严格认证。",
+        "pages": [
+          8,
+          9
+        ],
+        "locator": "adaptive discretization及velocity-bound discussion",
+        "type": "approximation_boundary",
+        "claim_id": "C-B14-022",
+        "source_id": "E-B14-S015",
+        "claim_text_sha256": "a3bbfdd017aeec257144a8e79b9ec750a33f8ac948036f9fc65ce6614a792cae"
+      },
+      {
+        "text": "双星复制单星策略的1000例中，无屏蔽约15%样本碰撞，加入屏蔽后未观察到碰撞；该结果不能归因为学习策略自身已安全。",
+        "pages": [
+          14,
+          15
+        ],
+        "locator": "Dual-Servicer Inspection及对应图",
+        "type": "simulation_result",
+        "claim_id": "C-B14-023",
+        "source_id": "E-B14-S015",
+        "claim_text_sha256": "f5c2e40f65c650942efbde2e59b63c453ba6ccb6c686d9ef83ebaafdcabf2a1c"
+      },
+      {
+        "text": "共同训练双星策略加入屏蔽后平均增加约0.57 m/s和0.60轨，且所设目标下单星已能有效完成任务，体现安全与协作收益需分别评价。",
+        "pages": [
+          15,
+          16,
+          17
+        ],
+        "locator": "Multi-Agent PPO performance及Conclusions",
+        "type": "coordination_cost",
+        "claim_id": "C-B14-024",
+        "source_id": "E-B14-S015",
+        "claim_text_sha256": "37fc73830617fe3317624b8c978bd24e7c510eb6693540887c6c370dfc9b220b"
+      },
+      {
+        "text": "单星段碰撞描述存在1%与3/1000的不一致；0.079 s平均屏蔽耗时也仅是单星计时，均不宜被改写成统一多星安全率或实时保证。",
+        "pages": [
+          12,
+          13
+        ],
+        "locator": "single-servicer collision文本与runtime讨论",
+        "type": "reporting_boundary",
+        "claim_id": "C-B14-025",
+        "source_id": "E-B14-S015",
+        "claim_text_sha256": "c90f64d196c4950439e8a088db208383f8c2c082c6d2a054f2edf80be07c387a"
+      }
+    ],
+    "visual_pages": [
+      7,
+      9,
+      12,
+      15
+    ]
+  },
+  {
+    "supplement_id": "S016",
+    "actual_title": "Robust Replanning for Multi-Agent SmallSat Inspection in Failure Scenarios",
+    "title_cn": "故障场景下多小卫星巡检的鲁棒重规划",
+    "authors": "Markus H. Iversflaten; Alexander Hansson; David C. Sternberg; Oliver Jia-Richards; Keenan Albee",
+    "year": 2025,
+    "identifier": "10.2514/6.2025-0183",
+    "canonical_url": "https://doi.org/10.2514/6.2025-0183",
+    "actual_version": "AIAA SciTech 2025；实际阅读DeepBlue公开位流11页作者稿。Crossref题名作者匹配；NTNU另标acceptedVersion，但未对两个仓储文件作字节比较。",
+    "body_pages": [
+      1,
+      9
+    ],
+    "evidence_role": "multi_agent_failure_replanning",
+    "question": "一颗巡检小卫星推进失效后，其他健康星如何更新障碍信息并快速改道，避免局部故障中断整个群体巡检？",
+    "inputs": "站体网格几何、各星路径及故障信息进入各自AD*规划器。短时近距离动力学采用Newton–Euler，并将站体坐标视为惯性系，明确忽略轨道相对运动；推力失效通过效能矩阵和偏置建模。",
+    "decisions": "AD*在1 m三维位置网格上规划/修正路径，速度与姿态单独分配；PD加推力分配伪逆执行。对故障星插入外扩碰撞区，健康星重新选择通路。",
+    "mechanism": "复用既有搜索状态可较快得到路径，必要时重设膨胀参数换取更快的次优解。障碍膨胀和复杂站体几何影响搜索可行性；过大裕量可包围星体或迫使全量重规划。路径相交时序按名义安排假设，未形成一般调度算法。",
+    "validation": "MuJoCo SmallSatSim三服务星绕Lunar Gateway几何巡检，一星在10 s失效，另两星改道。M1 CPU初始规划约2.7/2.9 s；反应最优重规划3.3 s，重设膨胀后次优方案1.3 s。不同解质量不能视为同等最优性下的速度提升。",
+    "limitations": [
+      "Lunar Gateway几何并不代表已仿真完整地月轨道相对动力学。",
+      "故障星可达区域的形式化计算列为后续工作，当前使用外扩排除区；不能称已具严格故障可达管。",
+      "名义路径穿越时序有假设，未处理一般异步冲突、通信延迟或同时故障。",
+      "平均数秒CPU用时不是硬实时上界，也没有飞行或硬件闭环验证。"
+    ],
+    "use": "用于3.6.3补“执行失败—障碍更新—重新规划—计划采用”的链条，并在采用条件中加入重规划时延和解质量。",
+    "claims": [
+      {
+        "text": "本文采用短时近场Newton–Euler模型并明确忽略相对轨道动力学；Lunar Gateway是几何场景，不能写成地月轨道飞行验证。",
+        "pages": [
+          3
+        ],
+        "locator": "Dynamics model及惯性坐标近似",
+        "type": "model_boundary",
+        "claim_id": "C-B14-026",
+        "source_id": "E-B14-S016",
+        "claim_text_sha256": "4faac4d460d02de12131d477a4759bf579a9346445f86e37a06a2b0bba38a2d8"
+      },
+      {
+        "text": "AD*接收其他星路径和故障排除区，但相交路径的名义时序按假设处理；故障可达区域的正式分析仍属未来工作。",
+        "pages": [
+          3,
+          7,
+          8,
+          9
+        ],
+        "locator": "planning assumptions、exclusion zones及future work",
+        "type": "coordination_boundary",
+        "claim_id": "C-B14-027",
+        "source_id": "E-B14-S016",
+        "claim_text_sha256": "ce10af2b78749df5d7d5f45b372c87263c6f1c56ce03b097e780f969b9caaec4"
+      },
+      {
+        "text": "三服务星仿真中一星10 s失效，健康星重规划避开；该证据支持失效后的群体路径调整，不提供任意故障的安全认证。",
+        "pages": [
+          7,
+          8,
+          9
+        ],
+        "locator": "MuJoCo case study及failure response",
+        "type": "simulation_result",
+        "claim_id": "C-B14-028",
+        "source_id": "E-B14-S016",
+        "claim_text_sha256": "5c8eea2ed45a276341fd4017996b26ede327e56f687faed5ecf82dd9bba38582"
+      },
+      {
+        "text": "反应最优重规划3.3 s，重设膨胀参数后1.3 s得到次优解；速度比较必须同时保留解质量和计算硬件条件。",
+        "pages": [
+          8
+        ],
+        "locator": "M1 CPU planning-time比较",
+        "type": "latency_quality_tradeoff",
+        "claim_id": "C-B14-029",
+        "source_id": "E-B14-S016",
+        "claim_text_sha256": "a410a907864e904f021757dd79b2c3869be3fc8f98876886238d0aaa014f2fc3"
+      }
+    ],
+    "visual_pages": [
+      3,
+      8
+    ]
+  },
+  {
+    "supplement_id": "S017",
+    "actual_title": "Multi-Agent Spacecraft Docking with Reinforcement Learning",
+    "title_cn": "强化学习多航天器对接及有限通信扰动测试",
+    "authors": "Selim Olgu Pilav",
+    "year": 2025,
+    "identifier": "10.31224/5877",
+    "canonical_url": "https://engrxiv.org/preprint/view/5877",
+    "actual_version": "Engineering Archive/EngrXiv Version 1，2025-11-27，8页预印本；实际下载版本路径5877/9769/8180。非同行评议期刊论文。",
+    "body_pages": [
+      1,
+      7
+    ],
+    "evidence_role": "multi_agent_empirical_learning",
+    "question": "集中训练、分散执行的多智能体策略能否让三颗追踪星避免互撞并完成对接，在观测噪声和有限通信扰动下达到什么样的经验性能？",
+    "inputs": "三追踪星和慢速旋转目标，平面3DoF双积分近似，重力/摩擦/阻尼为零；不是CW相对轨道模型。各星观测目标与最近邻星状态，训练有乘性噪声，独立评估另加入位置/速度噪声和通信缓冲。",
+    "decisions": "MAPPO使用集中critic和三个独立actor。训练逐步改变初态和碰撞处理，最终执行各自连续控制；没有外置认证安全过滤器。",
+    "mechanism": "以任务奖励和课程学习形成协同行为，最近邻输入限制信息量。训练中早期关闭硬星间碰撞且允许部分几何穿透，因此最终安全性能应由独立最终测试而非累计训练奖励判断。",
+    "validation": "单训练种子seed 0，750万帧；10000次独立测试在σ位置0.02 m、σ速度0.005 m/s、200 ms延迟和每步0.001丢包配置下报告99.1%任务成功，Wilson 95%区间[0.989,0.993]。剩余失败为不利初速下星间碰撞；缩小初速范围后的100%属于不同分布。",
+    "limitations": [
+      "只有一个训练随机种子，多次评估不等于多种子训练稳定性证据。",
+      "经验抗扰性能不是闭环稳定性或安全证明；作者明确承认缺乏保证，建议后续认证过滤器。",
+      "燃料指标是命令平动力积分，未换算推进剂质量且不含完整姿态资源。",
+      "LQR对照关闭星间硬碰撞，作者报告其中大量轨迹本会撞星；不能当成相同安全约束的燃耗基准。"
+    ],
+    "use": "用于补通信条件与实证失效边界，优先对照S014的理想全状态假设。作为预印本和简化动力学证据使用，不提升为在轨安全结论。",
+    "claims": [
+      {
+        "text": "10000次独立评估的99.1%任务成功率对应特定噪声、200 ms通信延迟和0.001/步丢包配置，不能简写成任意通信条件下99.1%安全保证。",
+        "pages": [
+          6
+        ],
+        "locator": "Table X及robustness evaluation配置",
+        "type": "empirical_communication_result",
+        "claim_id": "C-B14-030",
+        "source_id": "E-B14-S017",
+        "claim_text_sha256": "62d584bc78472b647ae9e536c971cbed8ff8b04c12cee62eb0f7c09d367e2040"
+      },
+      {
+        "text": "剩余失败来自不利初速导致的星间碰撞；把初速限制到±0.001后观察到100%改变了初始分布，不能据此抹去原分布失败。",
+        "pages": [
+          6,
+          7
+        ],
+        "locator": "failure分析及restricted initial velocities实验",
+        "type": "distribution_boundary",
+        "claim_id": "C-B14-031",
+        "source_id": "E-B14-S017",
+        "claim_text_sha256": "2aceecb03efefaa7b2b3d5d22bf1cea6d1a141657e8fb01b7af21e202b38c395"
+      },
+      {
+        "text": "策略采用集中critic和三个独立actor，训练仅seed 0、750万帧；10000次测试不能替代训练随机性检验。",
+        "pages": [
+          4,
+          5,
+          6
+        ],
+        "locator": "MAPPO architecture及training configuration",
+        "type": "training_boundary",
+        "claim_id": "C-B14-032",
+        "source_id": "E-B14-S017",
+        "claim_text_sha256": "1f9ae3a72c92b35bc86d91421e5769ad0a21fffb6e8b13343a54a12d867a7b03"
+      },
+      {
+        "text": "动力学为无重力/摩擦的平面双积分及转动模型，不是轨道相对动力学；文中明确没有稳定性或鲁棒性保证。",
+        "pages": [
+          2,
+          3,
+          7
+        ],
+        "locator": "Dynamics及Conclusions limitations",
+        "type": "guarantee_boundary",
+        "claim_id": "C-B14-033",
+        "source_id": "E-B14-S017",
+        "claim_text_sha256": "9f939beb0aceb1b8b5b328e00f4a5da77ffeafdb1b3443e4d813d064f15f0bf3"
+      },
+      {
+        "text": "燃耗比较使用命令平动力积分且LQR关闭硬星间碰撞，论文报告其86.8%情形会发生星间碰撞，不能用40.9%代价差宣称同安全条件最优性。",
+        "pages": [
+          5,
+          7
+        ],
+        "locator": "LQR evaluation及fuel-efficiency discussion",
+        "type": "benchmark_boundary",
+        "claim_id": "C-B14-034",
+        "source_id": "E-B14-S017",
+        "claim_text_sha256": "068e3c4f67a405b921bfb69f1c2d42c3428ef5ac6dc892f0266b657f1d88f899"
+      }
+    ],
+    "visual_pages": [
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "supplement_id": "S018",
+    "actual_title": "A Universal Framework for Generalized Run Time Assurance with JAX Automatic Differentiation",
+    "title_cn": "基于JAX自动微分的通用运行时保障框架",
+    "authors": "Umberto Ravaioli; Kyle Dunlap; Kerianne Hobbs",
+    "year": 2023,
+    "identifier": "10.23919/ACC55779.2023.10156439",
+    "canonical_url": "https://doi.org/10.23919/ACC55779.2023.10156439",
+    "actual_version": "实际阅读arXiv:2209.01120v1，2022-09-02，6页；正式书目ACC 2023 DOI经Crossref匹配，未与终版逐字比对。",
+    "body_pages": [
+      1,
+      6
+    ],
+    "evidence_role": "multi_agent_safety_infrastructure",
+    "question": "如何把运行时保障所需动力学、约束和备份控制器封装为通用软件接口，减少为不同航天器任务手写高阶导数的工作？",
+    "inputs": "调用者提供模型、约束、安全不变集合/备份控制器和名义动作，框架用JAX自动微分计算所需导数。接口兼容显式/隐式Simplex及ASIF，但不能自动构造正确的安全需求。",
+    "decisions": "框架根据约束切换或最小修改名义输入。多星演示为每颗星配置独立实例，使用6N全状态；软件模块化与安全条件验证是不同工作。",
+    "mechanism": "自动微分减少实现导数的负担，但控制不变性、多个约束的兼容和高阶增益选择仍由问题建模者负责。HOCBF演示明确不能仅因采用该形式就保证控制不变。",
+    "validation": "五星CWH例，12 kg、1 N、1 s更新、2000 s仿真，每步50次梯度计算。100次计时整段仿真平均1.43 s，HOCBF版本1.45 s，硬件为11代i7 CPU。没有星载处理器或实体飞行测试。",
+    "limitations": [
+      "整段2000 s模拟耗时不能改写成一次QP耗时，亦不能与其他论文不同规模在线求解直接比较。",
+      "软件接口通用性不等于任意模型/约束输入均具有安全性，尤其不自动解决星间控制冲突。",
+      "需要6N全状态，未测真实通信开销或随N的完整闭环扩展曲线。",
+      "本篇、S011和S014属于相连AFRL研究线，不能当作三个独立团队的重复验证。"
+    ],
+    "use": "作为3.6.3名义动作与安全接管之间的软件基础，少量使用；对综述的贡献是接口责任，而非堆叠自动微分技术细节。",
+    "claims": [
+      {
+        "text": "通用接口需要用户提供动力学、安全约束及必要的安全集合/备份控制器；JAX自动求导没有替代控制不变性和联合可行性分析。",
+        "pages": [
+          2,
+          3,
+          4
+        ],
+        "locator": "framework components及RTA interface",
+        "type": "responsibility_boundary",
+        "claim_id": "C-B14-035",
+        "source_id": "E-B14-S018",
+        "claim_text_sha256": "e6ebc7d77f3364b9ff759436e381c965812d89ae9e7ec4faaeb9baee227a5324"
+      },
+      {
+        "text": "五星示例每个RTA实例使用6N全状态；实例按星拆分并不意味着只需局部邻居信息或已证明分布式兼容。",
+        "pages": [
+          4,
+          5
+        ],
+        "locator": "multiagent spacecraft example",
+        "type": "information_condition",
+        "claim_id": "C-B14-036",
+        "source_id": "E-B14-S018",
+        "claim_text_sha256": "15474d1b554b6b917ac02d6596e86b21b6f41eb1b2b69233cb5ef71ea63ece81"
+      },
+      {
+        "text": "100次计时中1.43 s和1.45 s是2000 s仿真整段平均计算时间，不能记为每步QP时延或星载实时上界。",
+        "pages": [
+          5,
+          6
+        ],
+        "locator": "timing discussion及HOCBF comparison",
+        "type": "timing_boundary",
+        "claim_id": "C-B14-037",
+        "source_id": "E-B14-S018",
+        "claim_text_sha256": "05f31dbd6527925e16375df6711b5c7f2bf3d1971181283beb6b274b2a9dffaf"
+      },
+      {
+        "text": "作者说明示例HOCBF形式不自动保证控制不变，仍需合适增益及可行性条件；不能从框架“universal”题名推导普适安全认证。",
+        "pages": [
+          5
+        ],
+        "locator": "HOCBF extension及control invariance说明",
+        "type": "guarantee_boundary",
+        "claim_id": "C-B14-038",
+        "source_id": "E-B14-S018",
+        "claim_text_sha256": "b6cdaa9e33a5a00f771b2558e6d71369167b4a302444a941e8bd9e785e82f5c9"
+      }
+    ],
+    "visual_pages": [
+      4,
+      5
+    ]
+  },
+  {
+    "supplement_id": "S019",
+    "actual_title": "Guaranteed Safe Satellite Guidance and Navigation Using Reachability Based Switching Controllers",
+    "title_cn": "基于可达性的卫星安全备份切换",
+    "authors": "Kristina Miller; Sean Phillips; Sayan Mitra",
+    "year": 2024,
+    "identifier": "10.23919/ACC60939.2024.10644961",
+    "canonical_url": "https://doi.org/10.23919/ACC60939.2024.10644961",
+    "actual_version": "作者大学主页提供IEEE ACC 2024排版，pp.2298–2303，共6页；DOI经Crossref题名作者匹配，下载水印2025不是出版年。",
+    "body_pages": [
+      1,
+      6
+    ],
+    "evidence_role": "single_controlled_spacecraft_method_foundation",
+    "question": "怎样在部署之前判断实验控制器可运行多久、何时必须切到安全控制器，从而利用实验性能而不越过可恢复边界？",
+    "inputs": "线性有界扰动系统、LQR安全跟踪器、MIP安全参考及有限时域。假设感知预言机可包络时变障碍，并有参考误差缓冲和离散时刻间插值误差界。",
+    "decisions": "Polaris用实验控制器可达集外包络和安全控制器可恢复集内包络综合切换时序。安全控制对高性能控制的接管时刻由离线分析决定，而非运行时仅凭奖励或名义距离选择。",
+    "mechanism": "安全参考首先避开有界误差膨胀的障碍；随后判断实验控制器未来可达管是否仍在备份可恢复区域内。完整证明被正文指向未随本次6页文件提供的full version。",
+    "validation": "静态障碍与另一运动卫星场景比较安全LQR、实验控制和Polaris。只有一颗被控制追踪星，另一运动星作为障碍；不是多星共同决策实验。没有量化离线MIP/可达计算时延或飞行验证。",
+    "limitations": [
+      "Lemma 1把稳定闭环最大特征值实部写入0<β<λmax，表面存在符号不一致，需核作者完整版或勘误，不能默默修正式子。",
+      "第2页模式定义与第5页文字对0/1对应的安全/实验控制含义相反，模式编码待核。",
+      "未取得完整证明，不声称逐式审核；当前适合作为备份接管架构参考。",
+      "障碍预测包络和有限时域安全条件不能外推到未预测突发障碍及互相协商的多星群。"
+    ],
+    "use": "少量用于3.6.3“可恢复性决定接管”的方法基础。引用架构时保留有界误差和预知障碍条件，定理细节暂不采用，等待符号及完整版核查。",
+    "claims": [
+      {
+        "text": "Polaris离线结合实验控制可达集外包络、安全跟踪可恢复集内包络和MIP参考，综合允许实验运行与安全接管的切换时序。",
+        "pages": [
+          2,
+          3,
+          4
+        ],
+        "locator": "recoverable regions、reachable sets及switching synthesis",
+        "type": "architecture_fact",
+        "claim_id": "C-B14-039",
+        "source_id": "E-B14-S019",
+        "claim_text_sha256": "05b9af54d502ea21701a3f0e085d1e280cfbae36fbf7225b8fd8a910d7ba8f25"
+      },
+      {
+        "text": "安全条件依赖障碍运动包络、跟踪误差界和采样点间插值误差假设，不能仅凭节点无碰撞推导连续执行安全。",
+        "pages": [
+          2,
+          3,
+          4
+        ],
+        "locator": "Assumptions及safe reference construction",
+        "type": "sampling_condition",
+        "claim_id": "C-B14-040",
+        "source_id": "E-B14-S019",
+        "claim_text_sha256": "4ccd04ae9ef90e934d702033be416ef5bc71bbda90375d03cc6650d502c75daa"
+      },
+      {
+        "text": "仿真只控制一颗追踪星，动态场景中的另一卫星是运动障碍；没有双方协同避让或N星分布式控制证据。",
+        "pages": [
+          5,
+          6
+        ],
+        "locator": "static/dynamic obstacle case studies",
+        "type": "evidence_scope",
+        "claim_id": "C-B14-041",
+        "source_id": "E-B14-S019",
+        "claim_text_sha256": "c079f1bf52c9d6a33b06db664fd159f8f6979b34904981e0260b6d59ab0f79d1"
+      },
+      {
+        "text": "本次6页版本的Lemma 1衰减参数符号和0/1模式说明存在待核不一致，且定理完整证明另指full version；本笔记不把这些未关闭处表述为已复核证明。",
+        "pages": [
+          2,
+          5
+        ],
+        "locator": "Lemma 1、模式方程与case-study模式文字",
+        "type": "unresolved_source_issue",
+        "claim_id": "C-B14-042",
+        "source_id": "E-B14-S019",
+        "claim_text_sha256": "78b3a4da2afccd7499081d6836bbe95aecadcff9d5e844575e967b434b2eca21"
+      }
+    ],
+    "visual_pages": [
+      2,
+      5,
+      6
+    ]
+  },
+  {
+    "supplement_id": "S020",
+    "actual_title": "Robust Control Barrier Functions under High Relative Degree and Input Constraints for Satellite Trajectories",
+    "title_cn": "高相对阶与有限输入约束下的卫星鲁棒控制障碍函数",
+    "authors": "Joseph Breeden; Dimitra Panagou",
+    "year": 2023,
+    "identifier": "10.1016/j.automatica.2023.111109",
+    "canonical_url": "https://doi.org/10.1016/j.automatica.2023.111109",
+    "actual_version": "实际阅读arXiv:2107.04094v4，水印2023-06-09、页脚Preprint submitted to Automatica 12 June 2023，21页；正式Automatica 155 (2023) DOI经Crossref匹配，未逐字配对。",
+    "body_pages": [
+      1,
+      20
+    ],
+    "evidence_role": "single_controlled_spacecraft_method_foundation",
+    "question": "当几何约束相对控制具有高相对阶、推力有限且模型存在有界误差时，如何构造真正与输入能力兼容的安全内集？",
+    "inputs": "已知控制仿射动力学、紧输入集、扰动界及初始安全内域。三类构造分别采用恒定减速界、可变势函数界和备份规避轨迹预测；各自假设不同，不应合并成一条无条件鲁棒保证。",
+    "decisions": "在线QP最小修改名义控制，必要时用迟滞在内边界附近激活障碍约束；安全函数设计将接近速度与有限制动能力绑定。预测构造还需可用输入储备及足以覆盖最大危险值的传播时域。",
+    "mechanism": "Theorem 9/10讨论匹配和非匹配扰动；Theorem 17的预测规避构造要求非匹配扰动为零、规避最大值满足额外条件。单个约束可保持不能自动保证多个约束同时有共同可行输入。",
+    "validation": "Ceres低推力例1e−4 m/s²，比较四种RCBF，69天模拟约10 min计算；Eros表面3897网格点形成3897个约束、单颗航天器，推力0.1 m/s²，测试轨迹最多4项同时激活。没有多星编队、硬件或在轨验证。",
+    "limitations": [
+      "3897是小行星表面网格/约束数，不是航天器数。",
+      "Eros同时约束的可行输入交集非空是明确假设，不是算法自动证明的结果。",
+      "预测传播时域如何保证覆盖全部最大值具有系统依赖，文中未给普适解法。",
+      "Ceres切向规避条件用样本轨迹及边界例检查，不等于全域解析证明；不同构造扰动设置也不完全相同。"
+    ],
+    "use": "作为3.6.1/3.6.3有限执行器与初始可恢复域的方法支撑，特别用于说明多星冲突时还缺联合可行性闭合。与多星实证分开列示。",
+    "claims": [
+      {
+        "text": "三类RCBF把安全内域与有限输入能力绑定，几何上未碰撞的状态不一定属于可保持安全集合，尤其需要同时审查接近速度及制动余量。",
+        "pages": [
+          4,
+          5,
+          6,
+          7
+        ],
+        "locator": "Theorems 9/10及restricted safe sets",
+        "type": "actuation_condition",
+        "claim_id": "C-B14-043",
+        "source_id": "E-B14-S020",
+        "claim_text_sha256": "8ce365a5655f86c703a4cffbbdd58ddfbf7f1e0739e8fdc222d7e22d7c0788cb"
+      },
+      {
+        "text": "Theorem 17预测规避构造要求非匹配扰动wx=0、输入储备及最大值条件；Theorem 9/10的更广扰动讨论不能直接移植到该构造。",
+        "pages": [
+          8,
+          9,
+          10
+        ],
+        "locator": "Assumption 14及Theorem 17",
+        "type": "uncertainty_boundary",
+        "claim_id": "C-B14-044",
+        "source_id": "E-B14-S020",
+        "claim_text_sha256": "e174c5f2a03ad562459f5f119cce5191809bd3f18de69d6d0ef9c56e18f86991"
+      },
+      {
+        "text": "预测安全函数的传播时域必须覆盖相关最大值，作者说明其系统依赖性未在本文普遍解决；Ceres切向规避条件也主要经样本/边界例核查。",
+        "pages": [
+          12,
+          16
+        ],
+        "locator": "horizon discussion及Ceres assumption validation",
+        "type": "verification_boundary",
+        "claim_id": "C-B14-045",
+        "source_id": "E-B14-S020",
+        "claim_text_sha256": "5dd08182110903636d452023472f0ef9a25fa0ba7a242e008e9be5d1cdbbca72"
+      },
+      {
+        "text": "Eros示例是单颗航天器对3897个表面网格约束，测试轨迹最多4项同时激活；它不提供3897星的扩展验证。",
+        "pages": [
+          17,
+          18,
+          19
+        ],
+        "locator": "Eros mesh及active constraints图",
+        "type": "scale_boundary",
+        "claim_id": "C-B14-046",
+        "source_id": "E-B14-S020",
+        "claim_text_sha256": "211fe004ffe156e8e5fa20536c8de83a1dd9d16f67df63c2e4098c96d8abc7b8"
+      },
+      {
+        "text": "Eros明确假设所有激活约束的安全输入交集非空，因此单条RCBF的可行性不构成多约束、更不构成多星控制冲突的联合可行性证明。",
+        "pages": [
+          19
+        ],
+        "locator": "intersection of admissible control sets说明",
+        "type": "joint_feasibility_condition",
+        "claim_id": "C-B14-047",
+        "source_id": "E-B14-S020",
+        "claim_text_sha256": "8708f2085e3bdb4beaf9e1ca6579a1014fc024f6d46ad2fd7fe7bfd6a86e9018"
+      }
+    ],
+    "visual_pages": [
+      9,
+      16,
+      19
+    ]
+  }
+]

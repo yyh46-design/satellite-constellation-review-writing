@@ -1,0 +1,97 @@
+{
+  "DOI": "10.23919/acc55779.2023.10156439",
+  "title": [
+    "A Universal Framework for Generalized Run Time Assurance with JAX Automatic Differentiation"
+  ],
+  "author": [
+    {
+      "given": "Umberto J.",
+      "family": "Ravaioli",
+      "sequence": "first",
+      "affiliation": [
+        {
+          "name": "Toyon Research Corporation,Goleta,CA,93117"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Kyle",
+      "family": "Dunlap",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Parallax Advanced Research,Beavercreek,OH,45431"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Kerianne",
+      "family": "Hobbs",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Wright-Patterson AFB,Autonomy Capability Team (ACT3) at the Air Force Research Laboratory,OH,45433"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "container-title": [
+    "2023 American Control Conference (ACC)"
+  ],
+  "publisher": "IEEE",
+  "volume": null,
+  "issue": null,
+  "page": "4264-4269",
+  "published": {
+    "date-parts": [
+      [
+        2023,
+        5,
+        31
+      ]
+    ]
+  },
+  "published-print": {
+    "date-parts": [
+      [
+        2023,
+        5,
+        31
+      ]
+    ]
+  },
+  "published-online": null,
+  "URL": "https://doi.org/10.23919/acc55779.2023.10156439",
+  "resource": {
+    "primary": {
+      "URL": "https://ieeexplore.ieee.org/document/10156439/"
+    }
+  },
+  "link": [
+    {
+      "URL": "http://xplorestaging.ieee.org/ielx7/10155646/10155787/10156439.pdf?arnumber=10156439",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "retrieval_url": "https://api.crossref.org/works/10.23919/ACC55779.2023.10156439"
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Robust Replanning for Multi-Agent SmallSat Inspection in Failure Scenarios",
+  "authors_as_read": "Markus H. Iversflaten; Alexander Hansson; David C. Sternberg; Oliver Jia-Richards; Keenan Albee",
+  "bibliographic_year": 2025,
+  "identifier": "10.2514/6.2025-0183",
+  "actual_arxiv_version": null,
+  "actual_version": "AIAA SciTech 2025；实际阅读DeepBlue公开位流11页作者稿。Crossref题名作者匹配；NTNU另标acceptedVersion，但未对两个仓储文件作字节比较。",
+  "source_sha256": "032ce829f06855d3d2b6e50aa00c659afbc8a14bfce078b3668d4c544b6b91ab",
+  "primary_url": "https://doi.org/10.2514/6.2025-0183",
+  "formal_fulltext_compared": false,
+  "human_verified": false,
+  "repository_metadata_url": "https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/3196719?show=full",
+  "repository_version_label": "acceptedVersion on NTNU record; actual read file acquired from DeepBlue public bitstream",
+  "cross_repository_bytes_compared": false,
+  "author_spelling_note": "Crossref abbreviates Markus/Alex/David; actual PDF spells Markus H. Iversflaten, Alexander Hansson, David C. Sternberg"
+}

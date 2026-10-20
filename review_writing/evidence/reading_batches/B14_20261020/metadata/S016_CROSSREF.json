@@ -1,0 +1,120 @@
+{
+  "DOI": "10.2514/6.2025-0183",
+  "title": [
+    "Robust Replanning for Multi-Agent SmallSat Inspection in Failure Scenarios"
+  ],
+  "author": [
+    {
+      "given": "Markus",
+      "family": "Iversflaten",
+      "sequence": "first",
+      "affiliation": [
+        {
+          "name": "NTNU: Norwegian University of Science and Technology"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Alex",
+      "family": "Hansson",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Eidgenossische Technische Hochschule Zurich"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "David",
+      "family": "Sternberg",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Jet Propulsion Laboratory"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Oliver",
+      "family": "Jia-Richards",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "University of Michigan"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Keenan",
+      "family": "Albee",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Jet Propulsion Laboratory"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "published": {
+    "date-parts": [
+      [
+        2025,
+        1,
+        3
+      ]
+    ]
+  },
+  "published-print": {
+    "date-parts": [
+      [
+        2025,
+        1,
+        6
+      ]
+    ]
+  },
+  "published-online": {
+    "date-parts": [
+      [
+        2025,
+        1,
+        3
+      ]
+    ]
+  },
+  "container-title": [
+    "AIAA SCITECH 2025 Forum"
+  ],
+  "type": "proceedings-article",
+  "URL": "https://doi.org/10.2514/6.2025-0183"
+}
