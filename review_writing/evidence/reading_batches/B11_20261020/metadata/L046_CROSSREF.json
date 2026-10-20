@@ -1,0 +1,168 @@
+{
+  "DOI": "10.1007/s42064-024-0227-3",
+  "title": [
+    "Collision avoidance maneuver optimization during low-thrust propelled trajectories"
+  ],
+  "author": [
+    {
+      "given": "Zeno",
+      "family": "Pavanello",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Laura",
+      "family": "Pirovano",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Roberto",
+      "family": "Armellin",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Andrea",
+      "family": "De Vittori",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Pierluigi",
+      "family": "Di Lizia",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "container-title": [
+    "Astrodynamics"
+  ],
+  "volume": "9",
+  "issue": "2",
+  "page": "247-271",
+  "published": {
+    "date-parts": [
+      [
+        2025,
+        4
+      ]
+    ]
+  },
+  "published-print": {
+    "date-parts": [
+      [
+        2025,
+        4
+      ]
+    ]
+  },
+  "published-online": {
+    "date-parts": [
+      [
+        2025,
+        5,
+        7
+      ]
+    ]
+  },
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        4
+      ]
+    ]
+  },
+  "publisher": "Springer Science and Business Media LLC",
+  "URL": "https://doi.org/10.1007/s42064-024-0227-3",
+  "resource": {
+    "primary": {
+      "URL": "https://link.springer.com/10.1007/s42064-024-0227-3"
+    }
+  },
+  "link": [
+    {
+      "URL": "https://link.springer.com/content/pdf/10.1007/s42064-024-0227-3.pdf",
+      "content-type": "application/pdf",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://link.springer.com/article/10.1007/s42064-024-0227-3/fulltext.html",
+      "content-type": "text/html",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://link.springer.com/content/pdf/10.1007/s42064-024-0227-3.pdf",
+      "content-type": "application/pdf",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2025,
+            4,
+            1
+          ]
+        ],
+        "date-time": "2025-04-01T00:00:00Z",
+        "timestamp": 1743465600000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "https://creativecommons.org/licenses/by/4.0"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2025,
+            5,
+            7
+          ]
+        ],
+        "date-time": "2025-05-07T00:00:00Z",
+        "timestamp": 1746576000000
+      },
+      "content-version": "vor",
+      "delay-in-days": 36,
+      "URL": "https://creativecommons.org/licenses/by/4.0"
+    }
+  ]
+}

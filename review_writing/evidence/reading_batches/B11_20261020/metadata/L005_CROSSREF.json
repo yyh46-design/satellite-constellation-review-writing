@@ -1,0 +1,136 @@
+{
+  "DOI": "10.1007/s42405-025-01071-w",
+  "title": [
+    "A Pitch-Roll Attitude Strategy for LEO Constellation Phasing with Differential Drag Under Power Constraints"
+  ],
+  "author": [
+    {
+      "ORCID": "https://orcid.org/0009-0000-9727-3360",
+      "authenticated-orcid": false,
+      "given": "Sihyun",
+      "family": "Kim",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    },
+    {
+      "given": "Hyosang",
+      "family": "Yoon",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    }
+  ],
+  "container-title": [
+    "International Journal of Aeronautical and Space Sciences"
+  ],
+  "volume": "27",
+  "issue": "3",
+  "page": "2488-2504",
+  "published": {
+    "date-parts": [
+      [
+        2025,
+        10,
+        24
+      ]
+    ]
+  },
+  "published-print": {
+    "date-parts": [
+      [
+        2026,
+        4
+      ]
+    ]
+  },
+  "published-online": {
+    "date-parts": [
+      [
+        2025,
+        10,
+        24
+      ]
+    ]
+  },
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        10,
+        24
+      ]
+    ]
+  },
+  "publisher": "Springer Science and Business Media LLC",
+  "URL": "https://doi.org/10.1007/s42405-025-01071-w",
+  "resource": {
+    "primary": {
+      "URL": "https://link.springer.com/10.1007/s42405-025-01071-w"
+    }
+  },
+  "link": [
+    {
+      "URL": "https://link.springer.com/content/pdf/10.1007/s42405-025-01071-w.pdf",
+      "content-type": "application/pdf",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://link.springer.com/article/10.1007/s42405-025-01071-w",
+      "content-type": "text/html",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://link.springer.com/content/pdf/10.1007/s42405-025-01071-w.pdf",
+      "content-type": "application/pdf",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2025,
+            10,
+            24
+          ]
+        ],
+        "date-time": "2025-10-24T00:00:00Z",
+        "timestamp": 1761264000000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "https://www.springernature.com/gp/researchers/text-and-data-mining"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2025,
+            10,
+            24
+          ]
+        ],
+        "date-time": "2025-10-24T00:00:00Z",
+        "timestamp": 1761264000000
+      },
+      "content-version": "vor",
+      "delay-in-days": 0,
+      "URL": "https://www.springernature.com/gp/researchers/text-and-data-mining"
+    }
+  ]
+}

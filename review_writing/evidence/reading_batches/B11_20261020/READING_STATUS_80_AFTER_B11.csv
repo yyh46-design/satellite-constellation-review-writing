@@ -1,0 +1,81 @@
+﻿pool_id,title_en,doi,reading_status,batch,note_path,human_verified
+L001,A Multilevel Approach for the Station-Keeping of a Phased Satellite Constellation,10.1016/s1474-6670(17)58547-x,NOT_CLOSE_READ,,,False
+L002,The Autonomous Constellation Formation-Keeping Control Exploiting Orbital Maneuver Efficiency,10.1016/s1474-6670(17)32190-0,NOT_CLOSE_READ,,,False
+L003,Long-Term Formation Keeping of Satellite Constellation Using Linear-Quadratic Controller,10.2514/2.4204,NOT_CLOSE_READ,,,False
+L004,Orbital Maintenance of a Constellation of CubeSats for Internal Gravity Wave Tomography,10.1109/jstars.2019.2961084,NOT_CLOSE_READ,,,False
+L005,A Pitch-Roll Attitude Strategy for LEO Constellation Phasing with Differential Drag Under Power Constraints,10.1007/s42405-025-01071-w,AI_BODY_CLOSE_READ_COMPLETE,B11_20261020,READING_L005_CN.md,False
+L006,Orbit trajectory analysis and control of in-plane satellite constellation deployment using atmospheric drag,10.1016/j.actaastro.2024.12.027,NOT_CLOSE_READ,,,False
+L007,Output Regulation Control for Satellite Formation Flying Using Differential Drag,10.2514/1.g004219,NOT_CLOSE_READ,,,False
+L008,Study of satellite formation flying control using differential lift and drag,10.1016/j.actaastro.2018.07.047,NOT_CLOSE_READ,,,False
+L009,Drag-based orbit phasing through attitude and articulation control,10.1016/j.actaastro.2021.07.045,NOT_CLOSE_READ,,,False
+L010,Ground Track Control Using Differential Drag for Small Earth Observation Satellite Constellations,10.2514/1.a35256,NOT_CLOSE_READ,,,False
+L011,Assessment of the Differential Drag Maneuver Operations on the CYGNSS Constellation,10.1109/jstars.2018.2878158,NOT_CLOSE_READ,,,False
+L012,Operationalizing differential drag control: a planning routine for the S-NET satellite formation,10.1007/s12567-025-00630-x,AI_BODY_CLOSE_READ_COMPLETE,B11_20261020,READING_L012_CN.md,False
+L013,Multiple Satellite Formation Flying Using Differential Aerodynamic Drag,10.2514/1.52395,NOT_CLOSE_READ,,,False
+L014,Electric sail phasing maneuvers for constellation deployment,10.1016/j.actaastro.2019.12.003,NOT_CLOSE_READ,,,False
+L015,Covariance analysis of differential drag-based satellite cluster flight,10.1016/j.actaastro.2015.12.035,NOT_CLOSE_READ,,,False
+L016,Study on optimal orbit phasing for NEONSAT constellation,10.1016/j.actaastro.2025.11.004,NOT_CLOSE_READ,,,False
+L017,Uniform Satellite Constellation Reconfiguration,10.2514/1.g006514,AI_BODY_CLOSE_READ_COMPLETE,B11_20261020,READING_L017_CN.md,False
+L018,Relative tracking control of constellation satellites considering inter-satellite link,10.1016/j.asr.2017.07.012,NOT_CLOSE_READ,,,False
+L019,Satellite formation keeping using differential lift and drag under J2 perturbation,10.1108/aeat-06-2015-0168,NOT_CLOSE_READ,,,False
+L020,On the exploitation of differential aerodynamic lift and drag as a means to control satellite formation flight,10.1007/s12567-019-00254-y,NOT_CLOSE_READ,,,False
+L021,Optimal design of the satellite constellation arrangement reconfiguration process,10.1016/j.asr.2016.04.031,NOT_CLOSE_READ,,,False
+L022,General Perturbation Method for Satellite Constellation Reconfiguration Using Low-Thrust Maneuvers,10.2514/1.g003739,NOT_CLOSE_READ,,,False
+L023,Reinforcement learning-based multi-impulse rendezvous approach for satellite constellation reconfiguration,10.1016/j.actaastro.2024.08.029,NOT_CLOSE_READ,,,False
+L024,Optimal satellite formation reconfiguration strategy based on relative orbital elements,10.1016/j.actaastro.2012.02.015,NOT_CLOSE_READ,,,False
+L025,Safe-event pruning in spacecraft conjunction management,10.1007/s42064-023-0165-5,AI_BODY_CLOSE_READ_COMPLETE,B11_20261020,READING_L025_CN.md,False
+L026,Closest Approach in Universal Variables,10.1023/a:1008223105130,NOT_CLOSE_READ,,,False
+L027,Toroidal path filter for orbital conjunction screening,10.1007/s10569-012-9421-3,NOT_CLOSE_READ,,,False
+L028,Improvements to Time of Closest Approach Calculation,10.2514/1.g000435,NOT_CLOSE_READ,,,False
+L029,A comparison of spacecraft collision detection strategies using a virtual conjunction dataset,10.1016/j.jsse.2025.06.006,NOT_CLOSE_READ,,,False
+L030,Satellite Collision Probability Enhancements,10.2514/1.15523,NOT_CLOSE_READ,,,False
+L031,Covariance correlations in collision avoidance probability calculations,10.1016/j.asr.2003.11.012,NOT_CLOSE_READ,,,False
+L032,Satellite Collision Probability for Nonlinear Relative Motion,10.2514/2.5127,NOT_CLOSE_READ,,,False
+L033,General Method for Calculating Satellite Collision Probability,10.2514/2.4771,NOT_CLOSE_READ,,,False
+L034,Collision Probability with Gaussian Mixture Orbit Uncertainty,10.2514/1.62308,NOT_CLOSE_READ,,,False
+L035,Satellite collision probability estimation using polynomial chaos expansions,10.1016/j.asr.2013.08.027,NOT_CLOSE_READ,,,False
+L036,Satellite Instantaneous Collision Probability Computation Using Equivalent Volume Cuboids,10.2514/1.g004711,NOT_CLOSE_READ,,,False
+L037,Probability of collision between space objects including model uncertainty,10.1016/j.actaastro.2018.11.051,NOT_CLOSE_READ,,,False
+L038,Analytical model for collision probability assessments with large satellite constellations,10.1016/j.asr.2022.07.055,NOT_CLOSE_READ,,,False
+L039,Probability of Collision Estimation and Optimization Under Uncertainty Utilizing Separated Representations,10.1007/s40295-020-00218-z,NOT_CLOSE_READ,,,False
+L040,Overcoming Dilution of Collision Probability in Satellite Conjunction Analysis via Confidence Distribution,10.3390/e27040329,AI_BODY_CLOSE_READ_COMPLETE,B11_20261020,READING_L040_CN.md,False
+L041,Calculating collision probability for long-term satellite encounters through the reachable domain method,10.1007/s42064-021-0119-8,AI_BODY_CLOSE_READ_COMPLETE,B11_20261020,READING_L041_CN.md,False
+L042,Combined Collision Avoidance and Station-Keeping Maneuver Optimization by Collision Probability Inversion,10.2514/1.a36075,NOT_CLOSE_READ,,,False
+L043,Low-Thrust Collision Avoidance Maneuver Optimization,10.2514/1.g006630,NOT_CLOSE_READ,,,False
+L044,Avoidance Maneuver Planning Incorporating Station-Keeping Constraints and Automatic Relaxation,10.2514/1.54971,NOT_CLOSE_READ,,,False
+L045,MILP-MPC for planned maneuver station-keeping and collision avoidance of GEO satellites using on-off chemical thrusters,10.1016/j.asej.2024.103145,AI_BODY_CLOSE_READ_COMPLETE,B11_20261020,READING_L045_CN.md,False
+L046,Collision avoidance maneuver optimization during low-thrust propelled trajectories,10.1007/s42064-024-0227-3,AI_BODY_CLOSE_READ_COMPLETE,B11_20261020,READING_L046_CN.md,False
+L047,Long-Term Fuel-Optimal Collision Avoidance Maneuvers with Station-Keeping Constraints,10.2514/1.g007839,NOT_CLOSE_READ,,,False
+L048,Collision avoidance maneuver optimization with a multiple-impulse convex formulation,10.1016/j.actaastro.2021.05.046,AI_BODY_CLOSE_READ_COMPLETE,B11_20261020,READING_L048_CN.md,False
+L049,Optimization of Space Debris Collision Avoidance Maneuver for Formation Flying Satellites,10.5140/jass.2013.30.4.291,NOT_CLOSE_READ,,,False
+L050,Combined Long-Term Collision Avoidance and Stochastic Station-Keeping in Geostationary Earth Orbit,10.2514/1.g008629,NOT_CLOSE_READ,,,False
+L051,Spacecraft formation reconfiguration with collision avoidance,10.1016/j.automatica.2011.02.014,NOT_CLOSE_READ,,,False
+L052,Multi-maneuver algorithms for multi-risk collision avoidance via nonconvex quadratic optimization,10.1016/j.ifacol.2023.10.1094,NOT_CLOSE_READ,,,False
+L053,A Study on the Collision Avoidance Maneuver Optimization with Multiple Space Debris,10.5140/jass.2012.29.1.011,NOT_CLOSE_READ,,,False
+L054,Active collision avoidance maneuver under constant thrust,10.1016/j.asr.2011.03.030,NOT_CLOSE_READ,,,False
+L055,Underactuated spacecraft formation reconfiguration with collision avoidance,10.1016/j.actaastro.2016.11.037,NOT_CLOSE_READ,,,False
+L056,Constant thrust collision avoidance maneuver under thruster failure,10.1016/j.asr.2011.09.030,NOT_CLOSE_READ,,,False
+L057,Recursive Polynomial Method for Fast Collision Avoidance Maneuver Design,10.1109/taes.2024.3480041,NOT_CLOSE_READ,,,False
+L058,Optimizing spacecraft collision avoidance maneuvers under risk uncertainty from multiple space debris,10.1016/j.cja.2025.103814,NOT_CLOSE_READ,,,False
+L059,Collision Avoidance Maneuvers Optimization in the Presence of Multiple Encounters,10.2514/1.g008332,AI_BODY_CLOSE_READ_COMPLETE,B11_20261020,READING_L059_CN.md,False
+L060,Low-Thrust Collision Avoidance in Circular Orbits,10.2514/1.g005547,NOT_CLOSE_READ,,,False
+L061,Analytical Assessment of Short-Duration Low-Thrust Collision-Avoidance Maneuvers,10.2514/1.g007175,NOT_CLOSE_READ,,,False
+L062,Optimal Impulsive Collision Avoidance in Low Earth Orbit,10.2514/1.g000742,NOT_CLOSE_READ,,,False
+L063,Optimal Satellite-Formation Collision-Avoidance Maneuver Based on Relative E/I Vectors,10.1061/(asce)as.1943-5525.0000642,NOT_CLOSE_READ,,,False
+L064,Sub-optimal cooperative collision avoidance maneuvers of multiple active spacecraft via discrete-time generating functions,10.1016/j.ast.2019.07.031,NOT_CLOSE_READ,,,False
+L065,Distributed RISE control for spacecraft formation reconfiguration with collision avoidance,10.1016/j.jfranklin.2019.05.003,NOT_CLOSE_READ,,,False
+L066,Optimal cooperative control for formation flying spacecraft with collision avoidance,10.1177/0036850419884432,NOT_CLOSE_READ,,,False
+L067,Safe Reinforcement Learning: Optimal Formation Control With Collision Avoidance of Multiple Satellite Systems,10.1109/tcyb.2024.3491582,NOT_CLOSE_READ,,,False
+L068,Finite-time distributed hierarchical control for satellite cluster with collision avoidance,10.1016/j.ast.2021.106750,NOT_CLOSE_READ,,,False
+L069,Robust distributed model predictive control for satellite cluster reconfiguration with collision avoidance,10.1016/j.ast.2022.107917,NOT_CLOSE_READ,,,False
+L070,Distributed cooperative control with collision avoidance for spacecraft swarm reconfiguration via reinforcement learning,10.1016/j.actaastro.2023.01.017,NOT_CLOSE_READ,,,False
+L071,Satellite Formation-Containment Flying Control with Collision Avoidance,10.2514/1.i010588,NOT_CLOSE_READ,,,False
+L072,Decentralized Collision-Free Satellite Formation Reconfiguration with Control Barrier Functions,10.1016/j.ifacol.2026.01.070,NOT_CLOSE_READ,,,False
+L073,Bounded flight and collision avoidance control for satellite clusters using intersatellite flight bounds,10.1016/j.ast.2019.105425,NOT_CLOSE_READ,,,False
+L074,Fast Reconfiguration Maneuvers of a Micro-satellite Constellation Based on a Hybrid Rocket Engine,10.1007/s42496-024-00202-y,NOT_CLOSE_READ,,,False
+L075,Autonomous Trajectory Optimisation for Intelligent Satellite Systems and Space Traffic Management,10.1016/j.actaastro.2022.01.027,NOT_CLOSE_READ,,,False
+L076,Space traffic management: Large constellations,10.1016/j.actaastro.2025.01.043,NOT_CLOSE_READ,,,False
+L077,Orbit maneuver planning of earth observation satellite swarm for unreachable targets,10.1016/j.actaastro.2025.12.058,NOT_CLOSE_READ,,,False
+L078,An on-orbit servicing framework for satellite collision avoidance: Towards autonomous mission planning with reinforcement learning,10.1016/j.asr.2025.12.022,NOT_CLOSE_READ,,,False
+L079,Establishing “norms of behavior” for satellite collision avoidance maneuver planning,10.1016/j.jsse.2023.11.012,NOT_CLOSE_READ,,,False
+L080,Constellation Reconfiguration Strategy for Emergency Multitarget Continuous Coverage Using Low Thrust,10.2514/1.g009234,NOT_CLOSE_READ,,,False

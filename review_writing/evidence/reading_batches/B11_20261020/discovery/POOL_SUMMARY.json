@@ -1,0 +1,58 @@
+{
+  "search_date": "2026-10-20",
+  "raw_records": 420,
+  "unique_doi_records": 375,
+  "duplicate_search_hits": 45,
+  "matched_previous_records": 14,
+  "selected_new_academic_papers": 80,
+  "topic_counts": {
+    "A 轨道维持与构型重构": 24,
+    "B 接近筛查与风险评估": 17,
+    "C 避碰机动与维持恢复": 22,
+    "D 多星协同与安全控制": 10,
+    "E 任务轨道耦合与运行采用": 7
+  },
+  "year_counts": {
+    "1996": 1,
+    "1997": 1,
+    "1998": 1,
+    "2001": 1,
+    "2003": 1,
+    "2004": 2,
+    "2006": 1,
+    "2011": 2,
+    "2012": 5,
+    "2013": 3,
+    "2014": 1,
+    "2015": 1,
+    "2016": 4,
+    "2017": 3,
+    "2018": 2,
+    "2019": 9,
+    "2020": 4,
+    "2021": 3,
+    "2022": 7,
+    "2023": 4,
+    "2024": 6,
+    "2025": 11,
+    "2026": 7
+  },
+  "published_2020_onward": 42,
+  "published_2024_onward": 24,
+  "P0_count": 46,
+  "new_fulltexts_acquired_this_batch": 0,
+  "new_close_reads_this_batch": 0,
+  "human_verified": false,
+  "dedup_scope": [
+    "historical148",
+    "v3.2 library95",
+    "previous reinforcement register19"
+  ],
+  "dedup_rule": "case-insensitive DOI and normalized English title; obvious corrections and same-title versions excluded; not a full study-level equivalence audit",
+  "limits": [
+    "Crossref registration verifies bibliographic identity, not study methods or conclusions.",
+    "Potential fulltext links were not downloaded or tested in this batch.",
+    "Topic, priority and target section are screening judgments based on titles.",
+    "The search is a targeted discovery batch, not an exhaustive systematic review."
+  ]
+}

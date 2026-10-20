@@ -1,0 +1,146 @@
+{
+  "DOI": "10.1007/s42064-023-0165-5",
+  "title": [
+    "Safe-event pruning in spacecraft conjunction management"
+  ],
+  "author": [
+    {
+      "given": "Sébastien",
+      "family": "Henry",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    },
+    {
+      "given": "Roberto",
+      "family": "Armellin",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    },
+    {
+      "given": "Thibault",
+      "family": "Gateau",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    }
+  ],
+  "container-title": [
+    "Astrodynamics"
+  ],
+  "volume": "7",
+  "issue": "4",
+  "page": "401-413",
+  "published": {
+    "date-parts": [
+      [
+        2023,
+        7,
+        15
+      ]
+    ]
+  },
+  "published-print": {
+    "date-parts": [
+      [
+        2023,
+        12
+      ]
+    ]
+  },
+  "published-online": {
+    "date-parts": [
+      [
+        2023,
+        7,
+        15
+      ]
+    ]
+  },
+  "issued": {
+    "date-parts": [
+      [
+        2023,
+        7,
+        15
+      ]
+    ]
+  },
+  "publisher": "Springer Science and Business Media LLC",
+  "URL": "https://doi.org/10.1007/s42064-023-0165-5",
+  "resource": {
+    "primary": {
+      "URL": "https://link.springer.com/10.1007/s42064-023-0165-5"
+    }
+  },
+  "link": [
+    {
+      "URL": "https://link.springer.com/content/pdf/10.1007/s42064-023-0165-5.pdf",
+      "content-type": "application/pdf",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://link.springer.com/article/10.1007/s42064-023-0165-5/fulltext.html",
+      "content-type": "text/html",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://link.springer.com/content/pdf/10.1007/s42064-023-0165-5.pdf",
+      "content-type": "application/pdf",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2023,
+            7,
+            15
+          ]
+        ],
+        "date-time": "2023-07-15T00:00:00Z",
+        "timestamp": 1689379200000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "https://www.springernature.com/gp/researchers/text-and-data-mining"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2023,
+            7,
+            15
+          ]
+        ],
+        "date-time": "2023-07-15T00:00:00Z",
+        "timestamp": 1689379200000
+      },
+      "content-version": "vor",
+      "delay-in-days": 0,
+      "URL": "https://www.springernature.com/gp/researchers/text-and-data-mining"
+    }
+  ]
+}

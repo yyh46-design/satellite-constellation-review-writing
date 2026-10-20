@@ -1,0 +1,218 @@
+{
+  "DOI": "10.1007/s12567-025-00630-x",
+  "title": [
+    "Operationalizing differential drag control: a planning routine for the S-NET satellite formation"
+  ],
+  "author": [
+    {
+      "given": "Luca",
+      "family": "Ingrillini",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    },
+    {
+      "given": "Constantin",
+      "family": "Traub",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    },
+    {
+      "given": "Mohamed Khalil",
+      "family": "Ben-Larbi",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    },
+    {
+      "given": "Fabrizio",
+      "family": "Turco",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    },
+    {
+      "given": "Stefanos",
+      "family": "Fasoulas",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    },
+    {
+      "given": "Enrico",
+      "family": "Stoll",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    },
+    {
+      "given": "Anton Johann",
+      "family": "Große Siestrup",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    },
+    {
+      "given": "Julian",
+      "family": "Harbeck",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    },
+    {
+      "given": "Zizung",
+      "family": "Yoon",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    }
+  ],
+  "container-title": [
+    "CEAS Space Journal"
+  ],
+  "volume": "18",
+  "issue": "3",
+  "page": "685-705",
+  "published": {
+    "date-parts": [
+      [
+        2025,
+        6,
+        18
+      ]
+    ]
+  },
+  "published-print": {
+    "date-parts": [
+      [
+        2026,
+        5
+      ]
+    ]
+  },
+  "published-online": {
+    "date-parts": [
+      [
+        2025,
+        6,
+        18
+      ]
+    ]
+  },
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        6,
+        18
+      ]
+    ]
+  },
+  "publisher": "Springer Science and Business Media LLC",
+  "URL": "https://doi.org/10.1007/s12567-025-00630-x",
+  "resource": {
+    "primary": {
+      "URL": "https://link.springer.com/10.1007/s12567-025-00630-x"
+    }
+  },
+  "link": [
+    {
+      "URL": "https://link.springer.com/content/pdf/10.1007/s12567-025-00630-x.pdf",
+      "content-type": "application/pdf",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://link.springer.com/article/10.1007/s12567-025-00630-x",
+      "content-type": "text/html",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://link.springer.com/content/pdf/10.1007/s12567-025-00630-x.pdf",
+      "content-type": "application/pdf",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2025,
+            6,
+            18
+          ]
+        ],
+        "date-time": "2025-06-18T00:00:00Z",
+        "timestamp": 1750204800000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "https://creativecommons.org/licenses/by/4.0"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2025,
+            6,
+            18
+          ]
+        ],
+        "date-time": "2025-06-18T00:00:00Z",
+        "timestamp": 1750204800000
+      },
+      "content-version": "vor",
+      "delay-in-days": 0,
+      "URL": "https://creativecommons.org/licenses/by/4.0"
+    }
+  ]
+}

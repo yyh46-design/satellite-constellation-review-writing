@@ -1,0 +1,794 @@
+[
+  {
+    "pool_id": "L005",
+    "actual_title": "A Pitch-Roll Attitude Strategy for LEO Constellation Phasing with Differential Drag Under Power Constraints",
+    "actual_version": "出版社排版全文；在线2025-10-24，正式卷期2026，27:2488–2504",
+    "body_pages": [
+      1,
+      17
+    ],
+    "visual_pages": [
+      12,
+      16
+    ],
+    "question": "差异阻力调相时，如何避免为追求瞬时最大阻力差而频繁触发充电模式？",
+    "inputs": "同型同轨两星的相对角与角速度、太阳方向、阴影状态、SoC、太阳翼面积及功耗；圆轨道、平板外形、常数阻力系数，仅保留J2对升交点赤经的作用。",
+    "decisions": "高/低阻力角色、俯仰角与滚转角、两段调相切换与低SoC充电模式。",
+    "mechanism": "以有效阻力面积和发电投影面积的加权和构造姿态目标，主算例权重k=1；求驻点候选并择优。日照期结合SoC切换调相/充电优先状态，阴影期直接采用高/低阻力姿态。上层沿用关键星对和flip-flop两段调相思路，未实现完整多星调度器。",
+    "validation": "参考CYGNSS和Flock 2P的两组参数，但缺失参数采用代表值；实际仿真为两星关键星对。文中一天、10秒步长用于控制周期分析；表4/5列出达到不同目标角的调相时间与高度损失。",
+    "limitations": [
+      "§4.2明确：A组对照采用CYGNSS的78°俯仰及条件性滚转限制，提出方法未施加相同任务限制；增益不能视为严格同约束比较。",
+      "数值仿真不等于对应真实星座在轨结果；两星验证不能写成巨型星座端到端调度。",
+      "SoC=70%为该研究设定，非普遍安全标准；无随机大气、通信和观测调度联合验证。"
+    ],
+    "use": "3.6.1说明姿态—气动力—电能的耦合；第2章把SoC与可用动作纳入状态/约束；第4章解释局部控制仍需上层星对调度。",
+    "claims": [
+      {
+        "text": "该方法用太阳方向构造阻力面积与发电面积加权姿态目标，并结合阴影、SoC与充电模式执行。",
+        "pages": [
+          9,
+          10,
+          11
+        ],
+        "locator": "§3.2式(24)，§3.3，图7",
+        "type": "method",
+        "claim_id": "C-B11-001",
+        "claim_text_sha256": "7cfe8d265e268ff3ee57973488cf1c78366de3342c7d871afb1cc56710866900",
+        "source_id": "E-B11-L005"
+      },
+      {
+        "text": "该论文的仿真单元是两星关键星对，并未给出完整多星调度实现。",
+        "pages": [
+          12
+        ],
+        "locator": "§4.2表2后第一段",
+        "type": "scope",
+        "claim_id": "C-B11-002",
+        "claim_text_sha256": "bc17fde077a17cb88d17915863356369870b534c2b3e98585ea8d168390ea8ec",
+        "source_id": "E-B11-L005"
+      },
+      {
+        "text": "A组对照使用任务姿态限制，而提出方法未施加这些限制，比较存在约束不对称。",
+        "pages": [
+          11,
+          12,
+          13
+        ],
+        "locator": "§4.2跨页说明；图8图注",
+        "type": "limitation",
+        "claim_id": "C-B11-003",
+        "claim_text_sha256": "8bb840998808a32641b53ef5b95e5322d59755a68862923434e88444e1391781",
+        "source_id": "E-B11-L005"
+      },
+      {
+        "text": "B组表5在45°、90°和180°目标下均报告7.6%的调相时间减少；这是该仿真设置的结果。",
+        "pages": [
+          16
+        ],
+        "locator": "表5 Time reduction列",
+        "type": "result",
+        "claim_id": "C-B11-004",
+        "claim_text_sha256": "70ae4a7366165d4b602058a82c80d77ca6f8a8f309be8b8d12b37d439ee560c1",
+        "source_id": "E-B11-L005"
+      }
+    ]
+  },
+  {
+    "pool_id": "L012",
+    "actual_title": "Operationalizing differential drag control: a planning routine for the S-NET satellite formation",
+    "actual_version": "出版社开放获取全文；在线2025-06-18，正式卷期18:685–705（2026）",
+    "body_pages": [
+      1,
+      19
+    ],
+    "visual_pages": [
+      18,
+      19
+    ],
+    "question": "如何把姿态可用率、控制误差和气动力不确定性纳入S-NET差异阻力机动规划？",
+    "inputs": "四颗S-NET卫星的公开TLE、相对沿轨距离和半长轴差；SGP4/NRLMSISE-00环境估计，ADBSat几何气动力分析，姿态精度与运行可用率。",
+    "decisions": "各星高/低阻力配置、机动启动延迟、共同切换时刻和结束时刻。目标是达到可辨识的星间距变化并抵消相对漂移。",
+    "mechanism": "利用含J2的Schweighart–Sedwick线性相对运动闭式解规划平均沿轨运动；以姿态误差改变逆弹道系数，用可用率缩放差异气动力，分别扰动初始状态、密度、速度和逆弹道系数。共享参考星A使独立星对的切换时刻必须同步，通过延迟部分机动开始时刻实现。",
+    "validation": "基于真实S-NET几何与历史TLE的规划/敏感性分析。最终实用方案采用5°姿态误差和60%可用率；§6展示未来在轨演示概念。历史活动与新方案的验证状态分开。",
+    "limitations": [
+      "§1脚注明确当前重点为规划，反馈控制仍待开发；§6.3明确是否开展新演示尚待决定。",
+      "长距离线性模型、圆形chief轨道、常值差异力及忽略周期项限制精度；SGP4长时不更新误差扩大。",
+      "可用率缩放替代逐段受控/非受控时序，不是完整地面站排班或闭环鲁棒控制。"
+    ],
+    "use": "3.6.1可作为轨道维持的运行约束实例；4.2用共同参考星/共同切换解释协同；4.4用更新状态与反馈需求连接计划采用。",
+    "claims": [
+      {
+        "text": "规划采用含J2的线性相对运动平均分量，利用高低阻力切换达到目标间距并补偿漂移。",
+        "pages": [
+          4,
+          5,
+          8
+        ],
+        "locator": "§2.2、§3.3式(17)–(20)",
+        "type": "method",
+        "claim_id": "C-B11-005",
+        "claim_text_sha256": "cb156b2d98121b12ed038c48541573ac5d327875bbb1463b92f5ce618916d543",
+        "source_id": "E-B11-L012"
+      },
+      {
+        "text": "有效运行约束将通信、人工值守、安全模式和其他任务等汇总为可用率，并另分析姿态控制精度。",
+        "pages": [
+          8,
+          9
+        ],
+        "locator": "§4及表3",
+        "type": "method",
+        "claim_id": "C-B11-006",
+        "claim_text_sha256": "4a25eb0e4b8c4bb2e270526f9ebd7b513013a046b20f640381064821dac2f22c",
+        "source_id": "E-B11-L012"
+      },
+      {
+        "text": "共享参考星A使多个星对的独立切换方案无法直接同时执行，论文通过启动延迟同步切换。",
+        "pages": [
+          18
+        ],
+        "locator": "§6.2、式(21)、图14",
+        "type": "coordination",
+        "claim_id": "C-B11-007",
+        "claim_text_sha256": "63aad6bbb6c501aafe5f66208f6bfda146078cdd28333491f16e9c20922a9574",
+        "source_id": "E-B11-L012"
+      },
+      {
+        "text": "最终机动序列属于未来在轨演示建议，不是该方案已完成在轨验证的证据。",
+        "pages": [
+          19
+        ],
+        "locator": "§6.3及§7",
+        "type": "limitation",
+        "claim_id": "C-B11-008",
+        "claim_text_sha256": "d49e1707b7910025726fc9893e609fe9c2bc731e9ec271de80e7e2ebf1c0c7c1",
+        "source_id": "E-B11-L012"
+      }
+    ]
+  },
+  {
+    "pool_id": "L017",
+    "actual_title": "On the Theory of Uniform Satellite Constellation Reconfiguration",
+    "actual_version": "arXiv:2110.07817v1，2021-10-15；与2022正式论文Uniform Satellite Constellation Reconfiguration为候选对应，未逐式配对",
+    "body_pages": [
+      1,
+      32
+    ],
+    "visual_pages": [
+      18,
+      31
+    ],
+    "question": "扩充、缩减或重排均匀星座/槽位架构时，哪些末态与原架构兼容？",
+    "inputs": "原星座的轨道面数、每面位置数、相位组合参数、共同轨道参数和允许保持/移动的原位置。",
+    "decisions": "末态轨道面数、每面位置数、相位参数、均匀或非均匀扩充、槽位替代/新增方式；以兼容性与最小几何距离筛选末态。",
+    "mechanism": "使用二维Lattice/Necklace Flower Constellations，将保留原位置的条件转为整除与丢番图关系，解析枚举兼容分布；利用对称性缩小非均匀扩展搜索域。另分析保留原轨道面、完全重构和槽位局部替代。",
+    "validation": "解析定理与几何构型示例；§3.3.2采用500×5000网格搜索扩充模式。强调末态架构筛选，不求解给定初末态的燃料最优机动轨迹。",
+    "limitations": [
+      "实际阅读的是标题略有不同的2021预印本，不能把其公式和页码直接归属正式2022全文。",
+      "最小几何距离及槽位兼容性不是带协方差的碰撞概率，也不验证所有转移过程、外部碎片或实际控制执行。",
+      "数值示例承接已固定的初态架构，作者指出所得末态并非全局最优最小距离设计。"
+    ],
+    "use": "3.6.1区分构型候选生成与轨道机动优化；第2章说明离散架构参数；第4章提醒架构安全条件需连接执行层验证。",
+    "claims": [
+      {
+        "text": "该预印本研究兼容末态分布的生成，而非给定末态条件下最优机动组合的求解。",
+        "pages": [
+          3
+        ],
+        "locator": "§1末段问题定位",
+        "type": "scope",
+        "claim_id": "C-B11-009",
+        "claim_text_sha256": "97eb7e95b2061d5309d20f382db8d9bab0da674ea8cccd4931914ccd24f70b0a",
+        "source_id": "E-B11-L017"
+      },
+      {
+        "text": "保留原位置的均匀扩展通过整数整除和相位兼容条件枚举，非均匀扩展借助对称性缩小搜索域。",
+        "pages": [
+          6,
+          7,
+          8,
+          9,
+          13,
+          14,
+          15
+        ],
+        "locator": "§3定理1–3，§3.2",
+        "type": "method",
+        "claim_id": "C-B11-010",
+        "claim_text_sha256": "f14a8788728f51dc17331dbf0481b0bb6e1757b2af9b549e2891e0f72ad5c4e2",
+        "source_id": "E-B11-L017"
+      },
+      {
+        "text": "非均匀扩充示例使用500×5000网格，并由原1722个槽位扩至3444个槽位。",
+        "pages": [
+          18
+        ],
+        "locator": "§3.3.2末段，页底公式",
+        "type": "example",
+        "claim_id": "C-B11-011",
+        "claim_text_sha256": "be8b3220c7bcfe5247e4f8ac9153c0138aace7511c624a03502e0f89de09c248",
+        "source_id": "E-B11-L017"
+      },
+      {
+        "text": "作者将结果定位为重构框架，并明确所列末态分布不是最小距离意义的最优设计。",
+        "pages": [
+          31
+        ],
+        "locator": "§7中部",
+        "type": "limitation",
+        "claim_id": "C-B11-012",
+        "claim_text_sha256": "bcd92a43f06aaff17237fc6cabc4e8d26906a2ec2e8c3b2d3d94ec04cbc44c26",
+        "source_id": "E-B11-L017"
+      }
+    ]
+  },
+  {
+    "pool_id": "L025",
+    "actual_title": "Safe-event pruning in spacecraft conjunction management",
+    "actual_version": "出版社排版全文，Astrodynamics 7(4):401–413，2023",
+    "body_pages": [
+      1,
+      11
+    ],
+    "visual_pages": [
+      4,
+      9
+    ],
+    "question": "在TCA前较早时点，能否保守排除部分低风险事件，减少后续分析负担？",
+    "inputs": "ESA碰撞避免竞赛的CDM事件序列；每事件采用最接近TCA前2天的CDM作为输入，接近TCA的末条CDM风险作为标签。清洗后9666事件、206个高风险事件；75%/25%随机划分。",
+    "decisions": "输出事件是否可剪枝；学习参数为特征子集、PCA维数、K-means簇数，另有簇风险浓度和集成投票阈值。",
+    "mechanism": "标准化→特征选择/PCA→Mini-batch K-means→标记高风险簇，GA搜索参数，再集成多个浅或深子模型。训练内限制危险事件混入安全簇的浓度，以召回和剪枝量评价。",
+    "validation": "离线随机拆分与50次拆分统计；表8展示某一拆分上浅集成剪除1328/2417事件、召回1，深集成剪除1690/2417事件、召回0.9750。不是在轨碰撞结果。",
+    "limitations": [
+      "§3.2明确测试集假阴性比例没有界；训练完美召回不保证测试完美召回。",
+      "竞赛采用Pc>10^-6定义高风险，这是数据标签阈值，不是普适机动阈值。",
+      "本文是CDM事件筛选，不能等同几何全目标筛查、TCA求解或自主机动；未来运行资源节省尚需验证。",
+      "投票阈值按原文记录；不把提高危险票数门槛自动解释为更保守的可普遍单调规律。"
+    ],
+    "use": "3.6.2和3.3说明学习承担风险事件分流；第4章强调漏报、分布变化与后续精细分析的接口。",
+    "claims": [
+      {
+        "text": "该方法以PCA、K-means、GA和集成投票建立CDM事件剪枝器，而不生成避碰机动。",
+        "pages": [
+          4,
+          5,
+          6
+        ],
+        "locator": "§3.2–3.4，算法1",
+        "type": "method",
+        "claim_id": "C-B11-013",
+        "claim_text_sha256": "d7cfbf2fa6c11f21c1f3e1a2af953b62669db5dde7fdabf8206875f418b21876",
+        "source_id": "E-B11-L025"
+      },
+      {
+        "text": "清洗后使用9666个事件，其中206个为高风险，并以75%/25%随机分为训练和测试。",
+        "pages": [
+          4
+        ],
+        "locator": "§3.1末段",
+        "type": "data",
+        "claim_id": "C-B11-014",
+        "claim_text_sha256": "60594983093a677be8aa26b43becdcac034f838b6990d6fa144e45b63cbb0d8f",
+        "source_id": "E-B11-L025"
+      },
+      {
+        "text": "表8的一次测试拆分中，浅集成剪除1328个事件且召回1，深集成剪除1690个事件且召回0.9750。",
+        "pages": [
+          9
+        ],
+        "locator": "表8，§4.3",
+        "type": "result",
+        "claim_id": "C-B11-015",
+        "claim_text_sha256": "e0f630a1990924803ee9f14325d5293a25c679c554fbacdaf43ccdbcd2c9bb91",
+        "source_id": "E-B11-L025"
+      },
+      {
+        "text": "训练内安全簇浓度约束没有给出测试集假阴性界，作者将实际运行资源节省留作未来评估。",
+        "pages": [
+          4,
+          10
+        ],
+        "locator": "§3.2及§5末段",
+        "type": "limitation",
+        "claim_id": "C-B11-016",
+        "claim_text_sha256": "1aba92d104bda9461c46942b1d65466a25e0af689418019c2dbe3992519b51ed",
+        "source_id": "E-B11-L025"
+      }
+    ]
+  },
+  {
+    "pool_id": "L040",
+    "actual_title": "Overcoming Dilution of Collision Probability in Satellite Conjunction Analysis via Confidence Distribution",
+    "actual_version": "出版社开放获取正式全文，Entropy 2025,27,329",
+    "body_pages": [
+      1,
+      18
+    ],
+    "visual_pages": [
+      14,
+      16
+    ],
+    "question": "观测不确定性增大时风险概率稀释，如何避免把数据质量变差误解为安全性变好？",
+    "inputs": "已知协方差下的高斯位置观测，真实距离为固定未知参数；例子主要采用二维、等方差和快速接近近似。",
+    "decisions": "统计推断层给出关于距离阈值/碰撞命题的置信度和检验量；不优化轨道控制动作。",
+    "mechanism": "对距离参数构造带零点质量的边际confidence distribution，以覆盖概率/置信性质讨论概率稀释；与平坦先验后验、参考先验后验、广义fiducial及consonant belief比较。§6将置信量解释为特定碰撞命题的p值；不能将其直接称为同一个贝叶斯碰撞概率。",
+    "validation": "理论推导、附录论证和理想化数值重复实验；图2–4中相关比较使用10000次重复。文中没有真实星座闭环机动验证。",
+    "limitations": [
+      "作者在§7承认高斯与快速接近假设，非高斯及时间相关扩展仍待研究。",
+      "关于false confidence与consonant belief的论断属于有争论的统计推断立场，应归属作者，不写成全领域定论。",
+      "§6.2讨论的是特定感兴趣命题；不宣称对所有假命题建立普适保护。",
+      "置信量/检验显著性不是碰撞发生频率，也不能直接沿用其他Pc阈值；观测模型不正确时推断保障不自动成立。"
+    ],
+    "use": "3.6.2说明状态不确定性、风险度量语义与行动阈值需共同说明；第4章避免用单一小风险值代替安全采用依据。",
+    "claims": [
+      {
+        "text": "该论文把概率稀释与false confidence区分讨论，并提出带零点质量的距离参数置信分布。",
+        "pages": [
+          2,
+          7,
+          8
+        ],
+        "locator": "§1、§4及§4.1",
+        "type": "method",
+        "claim_id": "C-B11-017",
+        "claim_text_sha256": "64670637da78c81c12e3abc9d76de752c5d0fcadc68883123a9247cd8035073c",
+        "source_id": "E-B11-L040"
+      },
+      {
+        "text": "作者将针对碰撞命题的置信量解释为p值，因此该量不应在综述中不加区分地改称通常Pc。",
+        "pages": [
+          14
+        ],
+        "locator": "§6.1式(21)–(23)",
+        "type": "interpretation",
+        "claim_id": "C-B11-018",
+        "claim_text_sha256": "7a9deb9c42d3516a75a2e9cc8fdeb5df6c13a0f91f14d72d693b714f5ae9bb1d",
+        "source_id": "E-B11-L040"
+      },
+      {
+        "text": "作者的有效性讨论限定于感兴趣的碰撞/非碰撞命题，未要求覆盖一切假命题。",
+        "pages": [
+          15,
+          16
+        ],
+        "locator": "§6.2末段",
+        "type": "scope",
+        "claim_id": "C-B11-019",
+        "claim_text_sha256": "b057126fca3388bb51c0cab74903da323f9433de4859e6abd53b7e80b06bd398",
+        "source_id": "E-B11-L040"
+      },
+      {
+        "text": "该文讨论仍依赖高斯分布和快速接近假设，多源数据、机动能力及时间相关扩展是待发展方向。",
+        "pages": [
+          16
+        ],
+        "locator": "§7",
+        "type": "limitation",
+        "claim_id": "C-B11-020",
+        "claim_text_sha256": "b34c686477cdfdfd9499a982b1b502858cbcfa30214b7427a14bc6ea3712fcd8",
+        "source_id": "E-B11-L040"
+      }
+    ]
+  },
+  {
+    "pool_id": "L041",
+    "actual_title": "Calculating collision probability for long-term satellite encounters through the reachable domain method",
+    "actual_version": "出版社排版全文，Astrodynamics 6(2):141–159，2022",
+    "body_pages": [
+      1,
+      17
+    ],
+    "visual_pages": [
+      12,
+      17
+    ],
+    "question": "如何在长时、低相对速度接近中计算至少一次碰撞的概率，避免同一随机轨迹重复计数？",
+    "inputs": "线性确定性相对动力学、初始高斯状态误差和合并硬体球；时间段从一次测量更新时刻起算。无过程噪声，无轨道控制。",
+    "decisions": "本身不生成机动，输出指定时间段的碰撞概率。随机变量选在固定初始时刻，经旋转缩放使初始误差椭球成为单位球。",
+    "mechanism": "把每条偏差轨迹唯一映射到固定随机变量空间，再把硬体球映射为随时间演化的派生椭球；可达域求包络及派生碰撞体积，在该体积上积分概率密度。区分初始位置/速度联合误差的非退化情形和仅一类误差的退化情形。",
+    "validation": "三个仿真：一维位置—速度联合误差、三维仅位置误差、三维仅速度误差；与带存活计数的Monte Carlo比较。表2分别报告0.60%、0.28%、0.07%的相对差异及各自耗时。",
+    "limitations": [
+      "§5明确当前可计算随机变量不超过3个；三维运动不能同时处理完整位置和速度不确定性。",
+      "仅线性确定性系统；误差完全由初态传播，无时间去相关过程噪声，也未包含机动控制。",
+      "有限维、有限时段的风险计算，不是全星座筛查算法或自主避碰决策系统；误差与加速比只对三个给定例子成立。",
+      "截断误差椭球的尾部概率和维数相关，不能把文中二维示例的4σ覆盖率外推所有维数。"
+    ],
+    "use": "3.6.2解释长时风险为何需要正确选择随机变量和避免重复计数；与L059的瞬时风险约束形成对照。",
+    "claims": [
+      {
+        "text": "固定初始时刻的变换状态空间让一条随机偏差轨迹对应唯一随机变量元素，避免重复计算同一碰撞事件。",
+        "pages": [
+          5,
+          6,
+          7,
+          8
+        ],
+        "locator": "§2、§3式(20)–(22)",
+        "type": "method",
+        "claim_id": "C-B11-021",
+        "claim_text_sha256": "efa91562b7452ed1d1ca17731eb33e42a5868a14cbefba1db468e953ede3659c",
+        "source_id": "E-B11-L041"
+      },
+      {
+        "text": "算法把合并硬体球映射为派生椭球，再以可达域包络确定碰撞体积并积分。",
+        "pages": [
+          8,
+          9,
+          12
+        ],
+        "locator": "§4、式(23)、式(62)",
+        "type": "method",
+        "claim_id": "C-B11-022",
+        "claim_text_sha256": "0b6854c31f1d6088f0f840edb847a34e4d70309bf93bd0b0fcd9c0f8ef0eda92",
+        "source_id": "E-B11-L041"
+      },
+      {
+        "text": "当前数值方法限制为不超过3个随机变量，三维运动算例仅处理位置或速度一类初始误差。",
+        "pages": [
+          12,
+          13,
+          17
+        ],
+        "locator": "§5及§7",
+        "type": "limitation",
+        "claim_id": "C-B11-023",
+        "claim_text_sha256": "002da1bb1677dca8462a5a2d32579f47e683b0e3bb9bfd41cb84505eb034f0a2",
+        "source_id": "E-B11-L041"
+      },
+      {
+        "text": "三个示例的概率相对差异在表2依次为0.60%、0.28%和0.07%，并非全场景误差上界。",
+        "pages": [
+          17
+        ],
+        "locator": "表2 Relative accuracy列",
+        "type": "result",
+        "claim_id": "C-B11-024",
+        "claim_text_sha256": "e808b1f380fe85f5f25479e86c771c69604893adfb9d46f36d25cd9915c71184",
+        "source_id": "E-B11-L041"
+      }
+    ]
+  },
+  {
+    "pool_id": "L045",
+    "actual_title": "MILP-MPC for planned maneuver station-keeping and collision avoidance of GEO satellites using on-off chemical thrusters",
+    "actual_version": "MSA机构仓储公开出版社Article-in-Press排版PDF，页眉xxx；DOI对应2024正式记录，未核正式卷期分页版",
+    "body_pages": [
+      1,
+      16
+    ],
+    "visual_pages": [
+      7,
+      16
+    ],
+    "question": "GEO轨道维持和避碰恢复怎样考虑化学推力器开关与点火时间？",
+    "inputs": "六个赤道轨道根数、扰动传播、七台化学推力器、期望轨道参数和案例CDM；使用Eurostar-3000平台数据作结果比较。",
+    "decisions": "推力器启停及点火时长、南/东维持机动以及先降轨再恢复或先升轨再恢复的方案。",
+    "mechanism": "作者以MILP-MPC描述有限预测时域优化，每次采用控制序列首项，再用测量更新；用RCT、轨道根数更新和SDP4构成轨道模型。使用YALMIP/Gurobi。注意式(23)–(24)仍是通用非线性函数形式，未给出足以独立复现的完整MILP矩阵与避碰线性化细节。",
+    "validation": "3476 kg、七个最大10 N推力器模型；十次南/东机动周期与平台记录对比，另以2022年的CDM案例讨论降轨避碰后升轨恢复。属于模型仿真与真实平台数据比较，不证明提出控制器在该星上运行。",
+    "limitations": [
+      "避碰案例采用最小径向间隔5 km规则，不是含协方差的概率风险认证。",
+      "§3.1列举许多潜在能力，§5又把通信链路干扰约束、鲁棒MPC和学习扩展列为未来工作；不能把潜力清单当作已验证功能。",
+      "完整MILP线性化、具体约束系数、时域与在线求解预算尚不足以按全文独立复现。",
+      "表5总点火时间差为579.428 s，而§4.3概述采用约570 s；寿命延长是基于重复周期的外推，不是在轨寿命观测。"
+    ],
+    "use": "3.6.3作为避碰与回归名义轨道的应用候选；第4章说明执行器离散性。作为高精度概率避碰或可直接复现算法的代表需谨慎。",
+    "claims": [
+      {
+        "text": "论文采用重复求解有限时域问题并执行首个控制量的MPC流程，考虑推力器离散开关。",
+        "pages": [
+          7,
+          8
+        ],
+        "locator": "§3.2、§3.3.3–3.3.4，图8",
+        "type": "method",
+        "claim_id": "C-B11-025",
+        "claim_text_sha256": "09312abb4b30abd83600787a5784f188cc8bad90e66ed6f3b1f4902acb33476d",
+        "source_id": "E-B11-L045"
+      },
+      {
+        "text": "§4将提出控制模型与现有平台机动数据比较，不能据此认定提出控制器已在轨部署。",
+        "pages": [
+          8,
+          10,
+          11,
+          13
+        ],
+        "locator": "§4、§4.1和§4.3",
+        "type": "validation_scope",
+        "claim_id": "C-B11-026",
+        "claim_text_sha256": "720c2c53f2c789918e9c59e23d13a1ae44117c13a93701d2c8caddc8e5ee815a",
+        "source_id": "E-B11-L045"
+      },
+      {
+        "text": "避碰案例按5 km最小径向间隔选择先降轨、再升轨恢复的动作。",
+        "pages": [
+          11,
+          12,
+          13
+        ],
+        "locator": "§4.2",
+        "type": "method",
+        "claim_id": "C-B11-027",
+        "claim_text_sha256": "a10c643cedc406bdb661379e3cdf978c360e8ec2fd73c1f15c7ec72b8dc1d7d7",
+        "source_id": "E-B11-L045"
+      },
+      {
+        "text": "表5记录十周期总点火时间6982.489 s与6403.061 s，表内差为579.428 s；寿命延长为推算。",
+        "pages": [
+          14,
+          16
+        ],
+        "locator": "§4.3及附录表5",
+        "type": "result",
+        "claim_id": "C-B11-028",
+        "claim_text_sha256": "a06503d2eabc0fad379c884b5d1e6e433aa38dc8a7285f0826d0eac77c4e789b",
+        "source_id": "E-B11-L045"
+      },
+      {
+        "text": "全文式(23)–(24)仅给通用动态与约束表达，尚不能据此重建完整MILP线性化模型。",
+        "pages": [
+          7,
+          8
+        ],
+        "locator": "§3.3式(23)–(26)",
+        "type": "reader_assessment",
+        "claim_id": "C-B11-029",
+        "claim_text_sha256": "994454d15b7658b8f80f6c73edc375e1785362f7118162a23074a1c2637ec182",
+        "source_id": "E-B11-L045"
+      }
+    ]
+  },
+  {
+    "pool_id": "L046",
+    "actual_title": "Collision avoidance maneuver optimization during low-thrust propelled trajectories",
+    "actual_version": "出版社开放获取全文，Astrodynamics 9(2):247–271，2025",
+    "body_pages": [
+      1,
+      23
+    ],
+    "visual_pages": [
+      8,
+      15,
+      18
+    ],
+    "question": "正在执行既定低推力轨迹时，如何避碰并尽量保持/恢复原计划？",
+    "inputs": "既定低推力OPM轨迹、主星与目标星状态/协方差、告警时间、恢复时间；短时高斯接近假设，MEE状态。",
+    "decisions": "S1优化关机时段；S2优化控制矢量偏差；S3优化推力方向夹角。S2/S3允许在既定推力框架内修改方向。",
+    "mechanism": "DA线性化动力学、非线性指数自适应信赖域、虚拟控制及SMD投影—线性化组成SCP/SOCP；S1用连续松弛和sigmoid延拓逼近开关。恢复名义轨迹用带权终端松弛量。",
+    "validation": "低推力GTO原计划加人为插入的合成CDM接近；比较两种TCA、多个告警/恢复窗口，并给AIDA扰动模型案例。MATLAB/MOSEK桌面计算；前向传播使用与优化相同动力学。",
+    "limitations": [
+      "S1的后续恢复求解在§3.2.1脚注明确不在本文范围；§4.2只比较S2/S3的恢复。",
+      "恢复为软约束，会有终点偏差，恢复时间不足时尤其明显；不能表述为严格硬终端保证。",
+      "§4.4无收敛保证，S2/S3的恢复仿真分别有1.6%/1.3%在迭代上限内不收敛。",
+      "前向传播检查是内部动力学一致性核查，不等于独立真实环境鲁棒性、飞行硬件或在轨验证。",
+      "S3较平滑的方向偏差不等于已验证完整姿态执行动力学。"
+    ],
+    "use": "3.6.3重点来源，连接避碰和原任务轨迹恢复；第4章将终端误差、迭代失败与再规划触发单列。",
+    "claims": [
+      {
+        "text": "三种策略分别针对关机时长、控制矢量偏差和方向夹角，而非同一个燃料目标的等价实现。",
+        "pages": [
+          8,
+          9
+        ],
+        "locator": "§3.2.1–3.2.2",
+        "type": "method",
+        "claim_id": "C-B11-030",
+        "claim_text_sha256": "5cf282ac957a11c9fedc111101910d5c5d83f91679a342796de15a0531c4ea11",
+        "source_id": "E-B11-L046"
+      },
+      {
+        "text": "名义轨迹恢复是可违反的软约束；S1的后续恢复优化没有在本文求解。",
+        "pages": [
+          8,
+          9,
+          10,
+          14,
+          15
+        ],
+        "locator": "§3.2.1脚注、§3.3、§4.2",
+        "type": "scope",
+        "claim_id": "C-B11-031",
+        "claim_text_sha256": "e0be78bfad33ea69de3edd7d47369228867fa06f269a02761daee8156693d328",
+        "source_id": "E-B11-L046"
+      },
+      {
+        "text": "作者报告恢复场景中S2有1.6%、S3有1.3%的算例在既定迭代上限内未收敛。",
+        "pages": [
+          18
+        ],
+        "locator": "§4.4首段",
+        "type": "result",
+        "claim_id": "C-B11-032",
+        "claim_text_sha256": "0af15c2db931f6b5d46116aeac7a7c60c699ff4e05b7ca986b83618b028b90a8",
+        "source_id": "E-B11-L046"
+      },
+      {
+        "text": "仿真接近由合成CDM人为插入原轨迹，前向验证采用与优化相同的动力学。",
+        "pages": [
+          11,
+          18,
+          19
+        ],
+        "locator": "§4首段及§4.4",
+        "type": "validation_scope",
+        "claim_id": "C-B11-033",
+        "claim_text_sha256": "af5fbd91bfdaba378700fa36284c15128cd00f1138b7b4a3126a9257eace8965",
+        "source_id": "E-B11-L046"
+      }
+    ]
+  },
+  {
+    "pool_id": "L048",
+    "actual_title": "Collision avoidance maneuver optimization with a multiple-impulse convex formulation",
+    "actual_version": "arXiv:2101.07403v5，2021-06-09；排版页眉June 10,2021；与正式2021 DOI为同题名对应，未逐式比较正式PDF",
+    "body_pages": [
+      1,
+      23
+    ],
+    "visual_pages": [
+      8,
+      12,
+      19
+    ],
+    "question": "短时单次接近中，如何在不预设推力方向/弧段结构的情况下快速设计多脉冲避碰？",
+    "inputs": "主星/被动目标CDM状态、位置协方差、合并半径、告警窗口、时间网格和单脉冲上限。高斯、短时接近与小机动假设。",
+    "decisions": "各离散节点的三维脉冲；目标为各脉冲幅值总和，约束可选最小距离、近似Pc或最大Pc。",
+    "mechanism": "幅值松弛为二阶锥；DA动力学映射形成外层大迭代，椭圆禁入区的投影—切平面形成内层小迭代，调用MOSEK；不同初值可到达不同局部最优。多脉冲用于近似有限燃烧，不是多目标物体协同。",
+    "validation": "从ESA数据重构并筛选2170个LEO接近案例，部分轨道信息重构且绝对RAAN缺失；J2–J4动态与Kepler基准比较。桌面MacBook计时，单案例可达0.15 s，但不能据此认定已上星。",
+    "limitations": [
+      "SOCP子问题的凸性不能推出原非凸避碰问题全局最优；长告警窗口可能出现多个局部极小值。",
+      "轨道状态和协方差有假设/重构；一般不把CDM协方差随机动改变的效应纳入。",
+      "§4.6明确上星仍需嵌入式计算开销评估；§5把长时与多次接近列为后续工作。",
+      "有限燃烧用脉冲近似，须与真实执行器时序和机动后再筛查衔接。"
+    ],
+    "use": "3.6.3解释传统/凸优化如何形成机动；可与L059比较单次到多次事件的拓展，避免将多脉冲混同多星协同。",
+    "claims": [
+      {
+        "text": "方法用外层动力学线性化与内层禁入椭圆投影—线性化迭代，最小化多脉冲总幅值。",
+        "pages": [
+          6,
+          7,
+          8
+        ],
+        "locator": "§3.1–3.2.4，算法2",
+        "type": "method",
+        "claim_id": "C-B11-034",
+        "claim_text_sha256": "68ffa065ef9c281590d5890ae25b4e96d2b4c4a7c7b4a5e73a90d097656b994d",
+        "source_id": "E-B11-L048"
+      },
+      {
+        "text": "2170个算例来自重构后的ESA接近资料，原始数据未给出完整轨道要素。",
+        "pages": [
+          8
+        ],
+        "locator": "§4首段",
+        "type": "data",
+        "claim_id": "C-B11-035",
+        "claim_text_sha256": "82b99c4f355ca3f171efa5a482515a9a2f81ea1e5a2342c53af779b98aba6414",
+        "source_id": "E-B11-L048"
+      },
+      {
+        "text": "原问题的全局最优没有一般保证，长告警窗口可出现超过两个局部极小值。",
+        "pages": [
+          8,
+          12,
+          13,
+          15
+        ],
+        "locator": "§3.2.3、§4.1、§4.3及图10",
+        "type": "limitation",
+        "claim_id": "C-B11-036",
+        "claim_text_sha256": "5ec3ac9268d41ef5730ba8f2881c9785986d9bb7b647facc694320d59e582f89",
+        "source_id": "E-B11-L048"
+      },
+      {
+        "text": "桌面求解速度仅说明潜在自主计算适用性，嵌入式开销评估仍被作者列为需要开展的工作。",
+        "pages": [
+          19
+        ],
+        "locator": "§4.6末段",
+        "type": "validation_scope",
+        "claim_id": "C-B11-037",
+        "claim_text_sha256": "d6fc9a32916ee16ac079b021d2b506f054153643f75bb4a1cf6ab3878ec23201",
+        "source_id": "E-B11-L048"
+      }
+    ]
+  },
+  {
+    "pool_id": "L059",
+    "actual_title": "Collision Avoidance Maneuvers Optimization in the Presence of Multiple Encounters",
+    "actual_version": "arXiv:2406.03654v1，2024-06-05；正式DOI的2026卷期记录仅作为相关版本，未逐式配对",
+    "body_pages": [
+      1,
+      35
+    ],
+    "visual_pages": [
+      7,
+      9,
+      30
+    ],
+    "question": "一颗主动星面对多个/重复接近时，如何联合分配风险预算与机动，兼顾非线性不确定性传播？",
+    "inputs": "主星状态、多个被动目标或同一目标多次接近、协方差与硬体半径、告警时间及推力上限。主星不确定性假定相对较小并线性传播；目标可使用GMM传播。",
+    "decisions": "各节点的主星加速度与各次接近风险预算；SMD线性化加预算重分配，或直接线性化总风险并细化。",
+    "mechanism": "SCP/SOCP、DA、信赖域与虚拟控制；短时以TPoC约束多个TCA，长时以逐节点TIPoC约束。GMM分量按权重进入风险公式，并对分量TCA附近加密时间网格。外层NLP调整各事件/分量风险阈值，降低初始均分风险预算的保守性。",
+    "validation": "三类构造案例：2/5/7/10个短时接近、六轨后同一目标重复接近、单个长时接近的多个GMM分量；60节点/轨，MATLAB/MOSEK。长期多目标的概念与单次GMM数值验证需区分。",
+    "limitations": [
+      "短时总概率组合假定事件不相关；同一目标重复接近及共同主星误差可能带来相关性，不能当作无条件精确联合风险。",
+      "长期约束是瞬时TIPoC，不是整个时间段至少一次碰撞的累计概率；逐节点满足也不自动保证节点间连续安全。",
+      "§IV.B报告直接TPoC线性化结果约超阈值5%，不能把所有较小Δv结果认作可接受安全解。",
+      "GMM分量不是新增实体。原文式(14)使用带权分量乘积；其混合概率解释应独立复核，不能在综述中不加归属地当成通用精确概率恒等式。",
+      "无全局最优保证；一主动星对多被动目标不是多个主动运营方协同责任分配。",
+      "本轮读的是2024v1，不把其结果自动归入2026正式全文。"
+    ],
+    "use": "3.6.3说明单个机动影响后续多个事件；第4章讨论风险预算、传播、阈值残差和后验检查接口。",
+    "claims": [
+      {
+        "text": "短时场景采用假定不相关事件的总碰撞概率组合，长期场景转用逐节点总瞬时碰撞概率。",
+        "pages": [
+          6,
+          7,
+          8,
+          21
+        ],
+        "locator": "§II.A–B式(7)–(10)，§III.D",
+        "type": "method",
+        "claim_id": "C-B11-038",
+        "claim_text_sha256": "ff54d3d658c83f19fc558c040b78cb26fe40cc37418636f4003ef396b4b38df4",
+        "source_id": "E-B11-L059"
+      },
+      {
+        "text": "作者以GMM分量近似目标不确定性，使用权重并对不同分量的TCA加密网格。",
+        "pages": [
+          8,
+          9,
+          18,
+          19,
+          20
+        ],
+        "locator": "§II.C式(14)，§III.C，图3–4",
+        "type": "method",
+        "claim_id": "C-B11-039",
+        "claim_text_sha256": "b4042230704bf26055c3736af5abce27499cf64c68561db294df46db21c1747f",
+        "source_id": "E-B11-L059"
+      },
+      {
+        "text": "方法通过外层风险阈值重分配或直接总风险线性化细化初始SCP解，原非凸问题无全局最优保证。",
+        "pages": [
+          15,
+          16,
+          17,
+          18,
+          35
+        ],
+        "locator": "§III.B.3、§V",
+        "type": "method",
+        "claim_id": "C-B11-040",
+        "claim_text_sha256": "c96b7e68f339c3d8024aa61d657b8b101b999fbac5049af2cfbc063052cf2600",
+        "source_id": "E-B11-L059"
+      },
+      {
+        "text": "重复接近算例的直接TPoC线性化方案约超越风险阈值5%，较低Δv不能单独作为安全收益。",
+        "pages": [
+          30
+        ],
+        "locator": "§IV.B最后一段",
+        "type": "negative_result",
+        "claim_id": "C-B11-041",
+        "claim_text_sha256": "d13e66359260c424efc609064b0ec3393134c05a015a064d6f6c773e94d63e88",
+        "source_id": "E-B11-L059"
+      },
+      {
+        "text": "本轮对式(14)混合分量乘积的概率解释保留核查问题，不将它认定为已独立验证的精确混合风险公式。",
+        "pages": [
+          9
+        ],
+        "locator": "式(14a)–(14b)，读者推论",
+        "type": "reader_assessment",
+        "claim_id": "C-B11-042",
+        "claim_text_sha256": "58876e424aa97e89b72ad7240326950e52db84032383a8f8c7b7a866cebc4c47",
+        "source_id": "E-B11-L059"
+      }
+    ]
+  }
+]

@@ -1,0 +1,2 @@
+# Keep evidence bytes stable so SHA-256 manifests also match Git blobs.
+* -text

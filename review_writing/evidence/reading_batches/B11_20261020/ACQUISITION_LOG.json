@@ -1,0 +1,117 @@
+[
+  {
+    "id": "L005",
+    "status": "pdf_acquired",
+    "url": "https://link.springer.com/content/pdf/10.1007/s42405-025-01071-w.pdf",
+    "path": "D:\\SKT727\\materials\\constellation_review_B11_20261020\\L005.pdf",
+    "sha256": "5d4532a644f0279e6fbba9213cb14cb439af53f266020ae6e88dec848cc441dc",
+    "pages": 17,
+    "characters": 55856,
+    "attempts": []
+  },
+  {
+    "id": "L012",
+    "status": "pdf_acquired",
+    "url": "https://link.springer.com/content/pdf/10.1007/s12567-025-00630-x.pdf",
+    "path": "D:\\SKT727\\materials\\constellation_review_B11_20261020\\L012.pdf",
+    "sha256": "839adda34093bfa68e7aa18ac913bd6ef1423012bbd046c567ab2b0079557b9d",
+    "pages": 21,
+    "characters": 80762,
+    "attempts": []
+  },
+  {
+    "id": "L025",
+    "status": "pdf_acquired",
+    "url": "https://link.springer.com/content/pdf/10.1007/s42064-023-0165-5.pdf",
+    "path": "D:\\SKT727\\materials\\constellation_review_B11_20261020\\L025.pdf",
+    "sha256": "35fa1e257d591586763ab68330572f26ab44d3a845b8a71781e2eebb2615ffa9",
+    "pages": 13,
+    "characters": 47824,
+    "attempts": []
+  },
+  {
+    "id": "L040",
+    "status": "pdf_acquired",
+    "url": "https://mdpi-res.com/d_attachment/entropy/entropy-27-00329/article_deploy/entropy-27-00329.pdf",
+    "path": "D:\\SKT727\\materials\\constellation_review_B11_20261020\\L040.pdf",
+    "sha256": "a6a0581ff953cff2a3bf06de9f68eb189c0d30ac725cac1e7242f627fa119f27",
+    "pages": 20,
+    "characters": 56484,
+    "attempts": [
+      {
+        "url": "https://www.mdpi.com/1099-4300/27/4/329/pdf",
+        "error": "curl: (22) The requested URL returned error: 403"
+      }
+    ]
+  },
+  {
+    "id": "L048",
+    "status": "pdf_acquired",
+    "url": "https://arxiv.org/pdf/2101.07403",
+    "path": "D:\\SKT727\\materials\\constellation_review_B11_20261020\\L048.pdf",
+    "sha256": "ee1bce92ac596ba44f17f0540cbbbaf3d1ce531aae3b8b724850c48094bcfd86",
+    "pages": 24,
+    "characters": 60179,
+    "attempts": []
+  },
+  {
+    "id": "L059",
+    "status": "pdf_acquired",
+    "url": "https://arxiv.org/pdf/2406.03654",
+    "path": "D:\\SKT727\\materials\\constellation_review_B11_20261020\\L059.pdf",
+    "sha256": "0570f25a653c48996b849392a842b4c5e8d388eb8fb96cc74c00b76520518fa7",
+    "pages": 39,
+    "characters": 88743,
+    "attempts": []
+  },
+  {
+    "id": "L072",
+    "status": "failed",
+    "attempts": [
+      {
+        "url": "https://www.sciencedirect.com/science/article/pii/S2405896326000777/pdf",
+        "error": "curl: (22) The requested URL returned error: 403"
+      }
+    ]
+  },
+  {
+    "id": "L045",
+    "status": "pdf_acquired",
+    "url": "https://repository.msa.edu.eg/bitstreams/72065618-044f-415a-b89b-6a34cc1075e4/download",
+    "path": "D:\\SKT727\\materials\\constellation_review_B11_20261020\\L045.pdf",
+    "sha256": "04e8600c9ccfec6e82b26c3a19339e5a02ba4e38a762678ff6f846326a315485",
+    "pages": 16,
+    "characters": 78978,
+    "attempts": []
+  },
+  {
+    "id": "L041",
+    "status": "pdf_acquired",
+    "url": "https://link.springer.com/content/pdf/10.1007/s42064-021-0119-8.pdf",
+    "path": "D:\\SKT727\\materials\\constellation_review_B11_20261020\\L041.pdf",
+    "sha256": "9e55ed083ab2dac3d3906486c225245fbef2d2b642864a2b070f311ee7b340fc",
+    "pages": 19,
+    "characters": 69411,
+    "attempts": []
+  },
+  {
+    "id": "L046",
+    "status": "pdf_acquired",
+    "url": "https://link.springer.com/content/pdf/10.1007/s42064-024-0227-3.pdf",
+    "path": "D:\\SKT727\\materials\\constellation_review_B11_20261020\\L046.pdf",
+    "sha256": "461e532b01c4c3f48ba47548ed109b5772101c182dada9dac77389606f72038b",
+    "pages": 25,
+    "characters": 77359,
+    "attempts": []
+  },
+  {
+    "id": "L017",
+    "status": "pdf_acquired",
+    "url": "https://arxiv.org/pdf/2110.07817",
+    "path": "D:\\SKT727\\materials\\constellation_review_B11_20261020\\L017.pdf",
+    "sha256": "fb11c96ad24e5ad715a558c25683029da302e4507ddcf497177da28c233e4dd5",
+    "pages": 34,
+    "characters": 76238,
+    "attempts": []
+  }
+]

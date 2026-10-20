@@ -1,0 +1,176 @@
+{
+  "DOI": "10.1016/j.asej.2024.103145",
+  "title": [
+    "MILP-MPC for planned maneuver station-keeping and collision avoidance of GEO satellites using on-off chemical thrusters"
+  ],
+  "author": [
+    {
+      "ORCID": "https://orcid.org/0009-0004-1952-846X",
+      "authenticated-orcid": false,
+      "given": "Mohamed",
+      "family": "Karim",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0001-9671-6190",
+      "authenticated-orcid": false,
+      "given": "Mohamed",
+      "family": "Ibrahim",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Hosam",
+      "family": "Hendy",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Mahmoud",
+      "family": "Ashry",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0003-1577-1767",
+      "authenticated-orcid": false,
+      "given": "Yehia Z.",
+      "family": "Elhalwagy",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "container-title": [
+    "Ain Shams Engineering Journal"
+  ],
+  "volume": "15",
+  "issue": "12",
+  "page": "103145",
+  "published": {
+    "date-parts": [
+      [
+        2024,
+        12
+      ]
+    ]
+  },
+  "published-print": {
+    "date-parts": [
+      [
+        2024,
+        12
+      ]
+    ]
+  },
+  "published-online": null,
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        12
+      ]
+    ]
+  },
+  "publisher": "Elsevier BV",
+  "URL": "https://doi.org/10.1016/j.asej.2024.103145",
+  "resource": {
+    "primary": {
+      "URL": "https://linkinghub.elsevier.com/retrieve/pii/S2090447924005264"
+    }
+  },
+  "link": [
+    {
+      "URL": "https://api.elsevier.com/content/article/PII:S2090447924005264?httpAccept=text/xml",
+      "content-type": "text/xml",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://api.elsevier.com/content/article/PII:S2090447924005264?httpAccept=text/plain",
+      "content-type": "text/plain",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    }
+  ],
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2024,
+            12,
+            1
+          ]
+        ],
+        "date-time": "2024-12-01T00:00:00Z",
+        "timestamp": 1733011200000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2024,
+            12,
+            1
+          ]
+        ],
+        "date-time": "2024-12-01T00:00:00Z",
+        "timestamp": 1733011200000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "https://www.elsevier.com/legal/tdmrep-license"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2024,
+            11,
+            3
+          ]
+        ],
+        "date-time": "2024-11-03T00:00:00Z",
+        "timestamp": 1730592000000
+      },
+      "content-version": "vor",
+      "delay-in-days": 0,
+      "URL": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+    }
+  ]
+}

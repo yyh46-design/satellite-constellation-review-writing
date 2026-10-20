@@ -1,0 +1,147 @@
+[
+  {
+    "query_id": "A1",
+    "query": "satellite constellation station keeping orbital maintenance",
+    "url": "https://api.crossref.org/works?query.title=satellite+constellation+station+keeping+orbital+maintenance&rows=30&filter=type%3Ajournal-article%2Cuntil-pub-date%3A2026-10-20",
+    "date": "2026-10-20",
+    "raw_path": "D:\\SKT727\\outputs\\constellation_review_literature_pool_20261020\\raw_queries\\A1.json",
+    "status": "ok",
+    "items_returned": 30,
+    "total_results": 361229
+  },
+  {
+    "query_id": "A2",
+    "query": "satellite constellation differential drag phasing control",
+    "url": "https://api.crossref.org/works?query.title=satellite+constellation+differential+drag+phasing+control&rows=30&filter=type%3Ajournal-article%2Cuntil-pub-date%3A2026-10-20",
+    "date": "2026-10-20",
+    "raw_path": "D:\\SKT727\\outputs\\constellation_review_literature_pool_20261020\\raw_queries\\A2.json",
+    "status": "ok",
+    "items_returned": 30,
+    "total_results": 1792281
+  },
+  {
+    "query_id": "A3",
+    "query": "satellite constellation reconfiguration optimization orbital",
+    "url": "https://api.crossref.org/works?query.title=satellite+constellation+reconfiguration+optimization+orbital&rows=30&filter=type%3Ajournal-article%2Cuntil-pub-date%3A2026-10-20",
+    "date": "2026-10-20",
+    "raw_path": "D:\\SKT727\\outputs\\constellation_review_literature_pool_20261020\\raw_queries\\A3.json",
+    "status": "ok",
+    "error": "curl: (28) SSL/TLS connection timeout",
+    "items_returned": 30,
+    "total_results": 757195
+  },
+  {
+    "query_id": "B1",
+    "query": "spacecraft conjunction screening closest approach computation",
+    "url": "https://api.crossref.org/works?query.title=spacecraft+conjunction+screening+closest+approach+computation&rows=30&filter=type%3Ajournal-article%2Cuntil-pub-date%3A2026-10-20",
+    "date": "2026-10-20",
+    "raw_path": "D:\\SKT727\\outputs\\constellation_review_literature_pool_20261020\\raw_queries\\B1.json",
+    "status": "ok",
+    "items_returned": 30,
+    "total_results": 1684467
+  },
+  {
+    "query_id": "B2",
+    "query": "satellite collision probability covariance uncertainty",
+    "url": "https://api.crossref.org/works?query.title=satellite+collision+probability+covariance+uncertainty&rows=30&filter=type%3Ajournal-article%2Cuntil-pub-date%3A2026-10-20",
+    "date": "2026-10-20",
+    "raw_path": "D:\\SKT727\\outputs\\constellation_review_literature_pool_20261020\\raw_queries\\B2.json",
+    "status": "ok",
+    "items_returned": 30,
+    "total_results": 350425
+  },
+  {
+    "query_id": "B3",
+    "query": "spacecraft conjunction risk prediction machine learning",
+    "url": "https://api.crossref.org/works?query.title=spacecraft+conjunction+risk+prediction+machine+learning&rows=30&filter=type%3Ajournal-article%2Cuntil-pub-date%3A2026-10-20",
+    "date": "2026-10-20",
+    "raw_path": "D:\\SKT727\\outputs\\constellation_review_literature_pool_20261020\\raw_queries\\B3.json",
+    "status": "ok",
+    "items_returned": 30,
+    "total_results": 3187966
+  },
+  {
+    "query_id": "C1",
+    "query": "spacecraft collision avoidance maneuver optimization return station keeping",
+    "url": "https://api.crossref.org/works?query.title=spacecraft+collision+avoidance+maneuver+optimization+return+station+keeping&rows=30&filter=type%3Ajournal-article%2Cuntil-pub-date%3A2026-10-20",
+    "date": "2026-10-20",
+    "raw_path": "D:\\SKT727\\outputs\\constellation_review_literature_pool_20261020\\raw_queries\\C1.json",
+    "status": "ok",
+    "items_returned": 30,
+    "total_results": 824234
+  },
+  {
+    "query_id": "C2",
+    "query": "spacecraft collision avoidance multiple encounters robust uncertainty",
+    "url": "https://api.crossref.org/works?query.title=spacecraft+collision+avoidance+multiple+encounters+robust+uncertainty&rows=30&filter=type%3Ajournal-article%2Cuntil-pub-date%3A2026-10-20",
+    "date": "2026-10-20",
+    "raw_path": "D:\\SKT727\\outputs\\constellation_review_literature_pool_20261020\\raw_queries\\C2.json",
+    "status": "ok",
+    "error": "curl: (28) SSL/TLS connection timeout",
+    "items_returned": 30,
+    "total_results": 1021275
+  },
+  {
+    "query_id": "C3",
+    "query": "satellite collision avoidance low thrust fuel optimal",
+    "url": "https://api.crossref.org/works?query.title=satellite+collision+avoidance+low+thrust+fuel+optimal&rows=30&filter=type%3Ajournal-article%2Cuntil-pub-date%3A2026-10-20",
+    "date": "2026-10-20",
+    "raw_path": "D:\\SKT727\\outputs\\constellation_review_literature_pool_20261020\\raw_queries\\C3.json",
+    "status": "ok",
+    "error": "curl: (28) Operation timed out after 40005 milliseconds with 214458 bytes received",
+    "items_returned": 30,
+    "total_results": 1755491
+  },
+  {
+    "query_id": "D1",
+    "query": "cooperative satellite collision avoidance distributed control",
+    "url": "https://api.crossref.org/works?query.title=cooperative+satellite+collision+avoidance+distributed+control&rows=30&filter=type%3Ajournal-article%2Cuntil-pub-date%3A2026-10-20",
+    "date": "2026-10-20",
+    "raw_path": "D:\\SKT727\\outputs\\constellation_review_literature_pool_20261020\\raw_queries\\D1.json",
+    "status": "ok",
+    "error": "curl: (56) Failure when receiving data from the peer",
+    "items_returned": 30,
+    "total_results": 1728813
+  },
+  {
+    "query_id": "D2",
+    "query": "satellite collision avoidance control barrier safety filter",
+    "url": "https://api.crossref.org/works?query.title=satellite+collision+avoidance+control+barrier+safety+filter&rows=30&filter=type%3Ajournal-article%2Cuntil-pub-date%3A2026-10-20",
+    "date": "2026-10-20",
+    "raw_path": "D:\\SKT727\\outputs\\constellation_review_literature_pool_20261020\\raw_queries\\D2.json",
+    "status": "ok",
+    "items_returned": 30,
+    "total_results": 2196879
+  },
+  {
+    "query_id": "D3",
+    "query": "space traffic management autonomous maneuver coordination",
+    "url": "https://api.crossref.org/works?query.title=space+traffic+management+autonomous+maneuver+coordination&rows=30&filter=type%3Ajournal-article%2Cuntil-pub-date%3A2026-10-20",
+    "date": "2026-10-20",
+    "raw_path": "D:\\SKT727\\outputs\\constellation_review_literature_pool_20261020\\raw_queries\\D3.json",
+    "status": "ok",
+    "items_returned": 30,
+    "total_results": 2141416
+  },
+  {
+    "query_id": "E1",
+    "query": "satellite mission orbit maneuver planning scheduling",
+    "url": "https://api.crossref.org/works?query.title=satellite+mission+orbit+maneuver+planning+scheduling&rows=30&filter=type%3Ajournal-article%2Cuntil-pub-date%3A2026-10-20",
+    "date": "2026-10-20",
+    "raw_path": "D:\\SKT727\\outputs\\constellation_review_literature_pool_20261020\\raw_queries\\E1.json",
+    "status": "ok",
+    "error": "curl: (28) SSL/TLS connection timeout",
+    "items_returned": 30,
+    "total_results": 543353
+  },
+  {
+    "query_id": "E2",
+    "query": "satellite constellation reconfiguration coverage resource optimization",
+    "url": "https://api.crossref.org/works?query.title=satellite+constellation+reconfiguration+coverage+resource+optimization&rows=30&filter=type%3Ajournal-article%2Cuntil-pub-date%3A2026-10-20",
+    "date": "2026-10-20",
+    "raw_path": "D:\\SKT727\\outputs\\constellation_review_literature_pool_20261020\\raw_queries\\E2.json",
+    "status": "ok",
+    "items_returned": 30,
+    "total_results": 955775
+  }
+]

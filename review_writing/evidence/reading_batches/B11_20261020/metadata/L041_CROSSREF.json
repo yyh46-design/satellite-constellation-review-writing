@@ -1,0 +1,134 @@
+{
+  "DOI": "10.1007/s42064-021-0119-8",
+  "title": [
+    "Calculating collision probability for long-term satellite encounters through the reachable domain method"
+  ],
+  "author": [
+    {
+      "given": "Changxuan",
+      "family": "Wen",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Dong",
+      "family": "Qiao",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "container-title": [
+    "Astrodynamics"
+  ],
+  "volume": "6",
+  "issue": "2",
+  "page": "141-159",
+  "published": {
+    "date-parts": [
+      [
+        2022,
+        3,
+        8
+      ]
+    ]
+  },
+  "published-print": {
+    "date-parts": [
+      [
+        2022,
+        6
+      ]
+    ]
+  },
+  "published-online": {
+    "date-parts": [
+      [
+        2022,
+        3,
+        8
+      ]
+    ]
+  },
+  "issued": {
+    "date-parts": [
+      [
+        2022,
+        3,
+        8
+      ]
+    ]
+  },
+  "publisher": "Springer Science and Business Media LLC",
+  "URL": "https://doi.org/10.1007/s42064-021-0119-8",
+  "resource": {
+    "primary": {
+      "URL": "https://link.springer.com/10.1007/s42064-021-0119-8"
+    }
+  },
+  "link": [
+    {
+      "URL": "https://link.springer.com/content/pdf/10.1007/s42064-021-0119-8.pdf",
+      "content-type": "application/pdf",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://link.springer.com/article/10.1007/s42064-021-0119-8/fulltext.html",
+      "content-type": "text/html",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://link.springer.com/content/pdf/10.1007/s42064-021-0119-8.pdf",
+      "content-type": "application/pdf",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2022,
+            3,
+            8
+          ]
+        ],
+        "date-time": "2022-03-08T00:00:00Z",
+        "timestamp": 1646697600000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "https://www.springer.com/tdm"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2022,
+            3,
+            8
+          ]
+        ],
+        "date-time": "2022-03-08T00:00:00Z",
+        "timestamp": 1646697600000
+      },
+      "content-version": "vor",
+      "delay-in-days": 0,
+      "URL": "https://www.springer.com/tdm"
+    }
+  ]
+}

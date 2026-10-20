@@ -1,0 +1,58 @@
+[
+  [
+    "A1",
+    "satellite constellation station keeping orbital maintenance"
+  ],
+  [
+    "A2",
+    "satellite constellation differential drag phasing control"
+  ],
+  [
+    "A3",
+    "satellite constellation reconfiguration optimization orbital"
+  ],
+  [
+    "B1",
+    "spacecraft conjunction screening closest approach computation"
+  ],
+  [
+    "B2",
+    "satellite collision probability covariance uncertainty"
+  ],
+  [
+    "B3",
+    "spacecraft conjunction risk prediction machine learning"
+  ],
+  [
+    "C1",
+    "spacecraft collision avoidance maneuver optimization return station keeping"
+  ],
+  [
+    "C2",
+    "spacecraft collision avoidance multiple encounters robust uncertainty"
+  ],
+  [
+    "C3",
+    "satellite collision avoidance low thrust fuel optimal"
+  ],
+  [
+    "D1",
+    "cooperative satellite collision avoidance distributed control"
+  ],
+  [
+    "D2",
+    "satellite collision avoidance control barrier safety filter"
+  ],
+  [
+    "D3",
+    "space traffic management autonomous maneuver coordination"
+  ],
+  [
+    "E1",
+    "satellite mission orbit maneuver planning scheduling"
+  ],
+  [
+    "E2",
+    "satellite constellation reconfiguration coverage resource optimization"
+  ]
+]

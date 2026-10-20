@@ -1,0 +1,111 @@
+{
+  "DOI": "10.3390/e27040329",
+  "title": [
+    "Overcoming Dilution of Collision Probability in Satellite Conjunction Analysis via Confidence Distribution"
+  ],
+  "author": [
+    {
+      "ORCID": "https://orcid.org/0000-0002-3447-4306",
+      "authenticated-orcid": false,
+      "given": "Hangbin",
+      "family": "Lee",
+      "sequence": "first",
+      "affiliation": [
+        {
+          "name": "Department of Information and Statistics, Chungnam National University, Daejeon 34134, Republic of Korea"
+        }
+      ],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0001-9820-6434",
+      "authenticated-orcid": false,
+      "given": "Youngjo",
+      "family": "Lee",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Department of Statistics, Seoul National University, Seoul 08826, Republic of Korea"
+        }
+      ],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    }
+  ],
+  "container-title": [
+    "Entropy"
+  ],
+  "volume": "27",
+  "issue": "4",
+  "page": "329",
+  "published": {
+    "date-parts": [
+      [
+        2025,
+        3,
+        21
+      ]
+    ]
+  },
+  "published-print": null,
+  "published-online": {
+    "date-parts": [
+      [
+        2025,
+        3,
+        21
+      ]
+    ]
+  },
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        3,
+        21
+      ]
+    ]
+  },
+  "publisher": "MDPI AG",
+  "URL": "https://doi.org/10.3390/e27040329",
+  "resource": {
+    "primary": {
+      "URL": "https://www.mdpi.com/1099-4300/27/4/329"
+    }
+  },
+  "link": [
+    {
+      "URL": "https://www.mdpi.com/1099-4300/27/4/329/pdf",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2025,
+            3,
+            21
+          ]
+        ],
+        "date-time": "2025-03-21T00:00:00Z",
+        "timestamp": 1742515200000
+      },
+      "content-version": "vor",
+      "delay-in-days": 0,
+      "URL": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  ]
+}

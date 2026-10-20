@@ -1,0 +1,89 @@
+{
+  "DOI": "10.2514/1.g006514",
+  "title": [
+    "Uniform Satellite Constellation Reconfiguration"
+  ],
+  "author": [
+    {
+      "ORCID": "https://orcid.org/0000-0002-8507-4679",
+      "authenticated-orcid": false,
+      "given": "David",
+      "family": "Arnas",
+      "sequence": "first",
+      "affiliation": [
+        {
+          "name": "Purdue University, West Lafayette, Indiana 47907"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Richard",
+      "family": "Linares",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Massachusetts Institute of Technology, Cambridge, Massachusetts 02139"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "container-title": [
+    "Journal of Guidance, Control, and Dynamics"
+  ],
+  "volume": "45",
+  "issue": "7",
+  "page": "1241-1254",
+  "published": {
+    "date-parts": [
+      [
+        2022,
+        7
+      ]
+    ]
+  },
+  "published-print": {
+    "date-parts": [
+      [
+        2022,
+        7
+      ]
+    ]
+  },
+  "published-online": null,
+  "issued": {
+    "date-parts": [
+      [
+        2022,
+        7
+      ]
+    ]
+  },
+  "publisher": "American Institute of Aeronautics and Astronautics (AIAA)",
+  "URL": "https://doi.org/10.2514/1.g006514",
+  "resource": {
+    "primary": {
+      "URL": "https://arc.aiaa.org/doi/10.2514/1.G006514"
+    }
+  },
+  "link": [
+    {
+      "URL": "https://arc.aiaa.org/doi/pdf/10.2514/1.G006514",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "license": null
+}

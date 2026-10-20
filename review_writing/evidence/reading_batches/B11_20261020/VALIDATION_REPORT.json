@@ -1,0 +1,17 @@
+{
+  "status": "PASS",
+  "batch": "B11_20261020",
+  "sources": 10,
+  "claims": 42,
+  "local_pdf_hashes_checked": 10,
+  "local_visual_hashes_checked": 23,
+  "selected_preprint_versions": 3,
+  "pool_after_batch": {
+    "close_read": 10,
+    "not_close_read": 70
+  },
+  "manuscript_sha256_unchanged": "c9d1af6f12d412897a1434ddf082101b2db7491274fb0425896a3f01c7db5a15",
+  "outside_batch_tracked_changes": [],
+  "human_verified": false,
+  "scope": "file identity, evidence linkage, locators and scope consistency; no reproduction or scientific correctness certificate"
+}

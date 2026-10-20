@@ -1,0 +1,376 @@
+﻿candidate_index,doi,title,decision,historical_match,query_ids
+1,10.5139/jksas.2025.53.7.709,Station-Keeping for Elliptical Inclined Geosynchronous Orbit Satellite Constellation,NOT_SELECTED_THIS_BATCH,,A1
+2,10.1016/s1474-6670(17)58547-x,A Multilevel Approach for the Station-Keeping of a Phased Satellite Constellation,SELECTED,,A1
+3,10.2514/3.29674,Automatic satellite station-keeping.,NOT_SELECTED_THIS_BATCH,,A1
+4,10.15407/knit2003.01s.033,Constructing non-conflict orbital satellite constellation,NOT_SELECTED_THIS_BATCH,,A1;A3
+5,10.1134/s2075108722030075,Satellite Time Keeping Methodology for IRNSS/NavIC Constellation,NOT_SELECTED_THIS_BATCH,,A1
+6,10.1016/s1474-6670(17)32190-0,The Autonomous Constellation Formation-Keeping Control Exploiting Orbital Maneuver Efficiency,SELECTED,,A1
+7,10.2514/1.g001302,Geostationary Satellite Station-Keeping Using Convex Optimization,NOT_SELECTED_THIS_BATCH,,A1
+8,10.2514/1.g005918,Optimal Bi-Impulse Orbital Transfers: Station Keeping Applications,NOT_SELECTED_THIS_BATCH,,A1
+9,10.2514/1.a35691,Orbital Facility Location Problem for Satellite Constellation Servicing Depots,EXCLUDED_PREVIOUS_LIBRARY,E024,A1;A3
+10,10.5140/jass.2006.23.3.245,STATION-KEEPING FOR COMS SATELLITE BY ANALYTIC METHODS,NOT_SELECTED_THIS_BATCH,,A1
+11,10.1016/j.asr.2025.04.082,Reinforcement learning-based station keeping using relative orbital elements,EXCLUDED_PREVIOUS_LIBRARY,N01,A1
+12,10.2514/2.4204,Long-Term Formation Keeping of Satellite Constellation Using Linear-Quadratic Controller,SELECTED,,A1
+13,10.1109/lwc.2025.3591828,Rapid Satellite-Ground Station Visibility Determination for LEO Constellation Networks,NOT_SELECTED_THIS_BATCH,,A1
+14,10.1016/s1474-6670(17)68807-4,Attitude Acquisition and Station Keeping of a Synchronous Satellite,NOT_SELECTED_THIS_BATCH,,A1
+15,10.2514/1.a36684,On-Orbit Servicing-Integrated Maintenance Strategy for a Satellite Constellation,EXCLUDED_PREVIOUS_LIBRARY,E023,A1
+16,10.1016/s0273-1177(97)00024-0,Impact of satellite constellation arrangement on the future orbital debris environment,NOT_SELECTED_THIS_BATCH,,A1;A3
+17,10.1109/taes.2026.3704038,Feasibility of a Dedicated Satellite Constellation for Orbital Edge Computing Services,NOT_SELECTED_THIS_BATCH,,A1;A3
+18,10.2514/3.5870,Low-thrust station keeping guidance for a 24-hour satellite,NOT_SELECTED_THIS_BATCH,,A1
+19,10.3390/aerospace2040581,East–West GEO Satellite Station-Keeping with Degraded Thruster Response,NOT_SELECTED_THIS_BATCH,,A1
+20,10.5140/jass.2021.38.1.65,Geostationary Satellite Station Keeping Robustness to Loss of Ground Control,NOT_SELECTED_THIS_BATCH,,A1
+21,10.1155/2012/532708,Low‐Thrust Out‐of‐Plane Orbital Station‐Keeping Maneuvers for Satellites,NOT_SELECTED_THIS_BATCH,,A1
+22,10.1155/2007/98532,Orbital Maneuvers Using Low Thrust to Place a Satellite in a Constellation,NOT_SELECTED_THIS_BATCH,,A1;A3
+23,10.62802/hvwsxw31,Hybrid Quantum–Classical Optimization for Satellite Constellation Design and Orbital Debris Management,NOT_SELECTED_THIS_BATCH,,A1;A3
+24,10.1109/jstars.2019.2961084,Orbital Maintenance of a Constellation of CubeSats for Internal Gravity Wave Tomography,SELECTED,,A1
+25,10.15407/knit2024.05.075,CRITICAL INFRASTRUCTURE OF THE GROUND CONTROL COMPLEX FOR THE ORBITAL SATELLITE CONSTELLATION,NOT_SELECTED_THIS_BATCH,,A1;A3
+26,10.55248/gengpi.4.1023.102807,"Satellite Ground Station Antenna and Earth Station Maintenance Principles- N2 Satellite Experiences, Challenges and Future Directives.",NOT_SELECTED_THIS_BATCH,,A1
+27,10.2514/1.a36386,Orbital Depot Location Optimization for Satellite Constellation Servicing with Low-Thrust Transfers,EXCLUDED_PREVIOUS_LIBRARY,E025,A1;A3
+28,10.55248/gengpi.4.1023.102707,"Satellite Ground Station Antenna and Earth Station Maintenance Principles- N2 Satellite Experiences, Challenges and Future Directives.",NOT_SELECTED_THIS_BATCH,,A1
+29,10.1109/5992.743623,Satellite-constellation design,NOT_SELECTED_THIS_BATCH,,A1;A2;A3
+30,10.1109/tcst.2020.3014601,"Electric Satellite Station Keeping, Attitude Control, and Momentum Management by MPC",NOT_SELECTED_THIS_BATCH,,A1
+31,10.2514/1.a33927,Constellation Phasing with Differential Drag on Planet Labs Satellites,EXCLUDED_PREVIOUS_LIBRARY,N02,A2
+32,10.1007/s42405-025-01071-w,A Pitch-Roll Attitude Strategy for LEO Constellation Phasing with Differential Drag Under Power Constraints,SELECTED,,A2
+33,10.1016/j.actaastro.2024.12.027,Orbit trajectory analysis and control of in-plane satellite constellation deployment using atmospheric drag,SELECTED,,A2
+34,10.2514/1.g004219,Output Regulation Control for Satellite Formation Flying Using Differential Drag,SELECTED,,A2
+35,10.1016/j.actaastro.2018.07.047,Study of satellite formation flying control using differential lift and drag,SELECTED,,A2
+36,10.1016/j.actaastro.2021.07.045,Drag-based orbit phasing through attitude and articulation control,SELECTED,,A2
+37,10.2514/1.a35256,Ground Track Control Using Differential Drag for Small Earth Observation Satellite Constellations,SELECTED,,A2
+38,10.1109/jstars.2018.2878158,Assessment of the Differential Drag Maneuver Operations on the CYGNSS Constellation,SELECTED,,A2
+39,10.1007/s12567-025-00630-x,Operationalizing differential drag control: a planning routine for the S-NET satellite formation,SELECTED,,A2
+40,10.2514/1.g004404,Ionospheric Drag for Satellite Formation Control,NOT_SELECTED_THIS_BATCH,,A2
+41,10.2514/1.52395,Multiple Satellite Formation Flying Using Differential Aerodynamic Drag,SELECTED,,A2
+42,10.2514/1.57327,Small Satellite Rendezvous Using Differential Lift and Drag,NOT_SELECTED_THIS_BATCH,,A2
+43,10.1504/ijspacese.2019.105054,LEO satellite formation flying via differential atmospheric drag,NOT_SELECTED_THIS_BATCH,,A2
+44,10.1016/j.actaastro.2019.12.003,Electric sail phasing maneuvers for constellation deployment,SELECTED,,A2
+45,10.2514/8.6135,Satellite Landing Control System Using Drag Modulation,NOT_SELECTED_THIS_BATCH,,A2
+46,10.1007/s12567-024-00550-2,Satellite design optimization for differential lift and drag applications,NOT_SELECTED_THIS_BATCH,,A2
+47,10.1016/j.actaastro.2015.12.035,Covariance analysis of differential drag-based satellite cluster flight,SELECTED,,A2
+48,10.1016/j.actaastro.2025.11.004,Study on optimal orbit phasing for NEONSAT constellation,SELECTED,,A2
+49,10.2514/3.26996,Orbit plane control strategies for inclined geosynchronous satellite constellation,NOT_SELECTED_THIS_BATCH,,A2
+50,10.1088/0264-9381/22/10/019,An interferometric sensor for satellite drag-free control,NOT_SELECTED_THIS_BATCH,,A2
+51,10.2514/1.g006514,Uniform Satellite Constellation Reconfiguration,SELECTED,,A2;A3;E2
+52,10.1109/taes.2008.4655355,Flower constellation set theory. Part I: Compatibility and phasing,NOT_SELECTED_THIS_BATCH,,A2
+53,10.1016/j.asr.2017.07.012,Relative tracking control of constellation satellites considering inter-satellite link,SELECTED,,A2
+54,10.2514/1.a34387,Optimal Satellite Constellation Spare Strategy Using Multi-Echelon Inventory Control,EXCLUDED_PREVIOUS_LIBRARY,E018,A2
+55,10.1016/0032-0633(65)90150-9,Satellite drag coefficients,NOT_SELECTED_THIS_BATCH,,A2
+56,10.1016/0022-2569(70)90053-4,Cyclic phasing clutch using a cardan drag link,NOT_SELECTED_THIS_BATCH,,A2
+57,10.1108/aeat-06-2015-0168,Satellite formation keeping using differential lift and drag under J2 perturbation,SELECTED,,A2
+58,10.1016/j.automatica.2007.11.023,Drag-free and attitude control for the GOCE satellite,NOT_SELECTED_THIS_BATCH,,A2
+59,10.1007/s12567-019-00254-y,On the exploitation of differential aerodynamic lift and drag as a means to control satellite formation flight,SELECTED,,A2
+60,10.1016/j.actaastro.2014.02.016,Optimization of satellite constellation reconfiguration maneuvers,EXCLUDED_PREVIOUS_LIBRARY,E011,A3;E2
+61,10.1061/(asce)as.1943-5525.0001438,Satellite Constellation Reconfiguration Using Surrogate-Based Optimization,EXCLUDED_PREVIOUS_LIBRARY,O53,A3;E2
+62,10.1016/j.asr.2016.04.031,Optimal design of the satellite constellation arrangement reconfiguration process,SELECTED,,A3;E2
+63,10.62591/tamcs.2013.1.09,Satellite Constellation Reconfiguration Using the Approximating Sequence Riccati Equations,NOT_SELECTED_THIS_BATCH,,A3;E2
+64,10.2514/1.g003739,General Perturbation Method for Satellite Constellation Reconfiguration Using Low-Thrust Maneuvers,SELECTED,,A3;E2
+65,10.1016/j.actaastro.2024.08.029,Reinforcement learning-based multi-impulse rendezvous approach for satellite constellation reconfiguration,SELECTED,,A3;E2
+66,10.7840/kics.2025.50.10.1556,Constellation Reconfiguration Method for Data Rate Improvement in Geostationary Orbit Satellite Networks,NOT_SELECTED_THIS_BATCH,,A3;E2
+67,10.1088/1742-6596/2033/1/012038,Satellite Constellation Reconfiguration Method Using Improved PSO Algorithm for Communication and Navigation,NOT_SELECTED_THIS_BATCH,,A3;E2
+68,10.1109/tvt.2026.3682567,Beam Reconfiguration Optimization for Multi-Satellite Systems,NOT_SELECTED_THIS_BATCH,,A3;E2
+69,10.1016/j.actaastro.2012.02.015,Optimal satellite formation reconfiguration strategy based on relative orbital elements,SELECTED,,A3
+70,10.2514/1.a34657,Satellite Constellation Pattern Optimization for Complex Regional Coverage,EXCLUDED_PREVIOUS_LIBRARY,E014,A3;E2
+71,10.11728/cjss2012.01.099,Genetic Algorithm for Orbital Optimization to Approach Multiple Constellation Satellites,NOT_SELECTED_THIS_BATCH,,A3
+72,10.1088/1742-6596/2457/1/012045,Research Progress and Prospect of Satellite Constellation Optimization Design,NOT_SELECTED_THIS_BATCH,,A3;E2
+73,10.31044/1684-2588-2025-0-9-2-9,Tensor model of traffic distribution optimization in multisatellite orbital constellation,NOT_SELECTED_THIS_BATCH,,A3
+74,10.1007/s42496-024-00202-y,Fast Reconfiguration Maneuvers of a Micro-satellite Constellation Based on a Hybrid Rocket Engine,SELECTED,,A3
+75,10.1142/s2737480726500135,Optimization-Based Decision-Making for Constellation Reconfiguration Based on a Multi-Stage Integrated Optimization Framework,NOT_SELECTED_THIS_BATCH,,A3
+76,10.1016/s0734-743x(01)00104-x,Meteoroid and orbital debris risk mitigation in a low earth orbit satellite constellation,NOT_SELECTED_THIS_BATCH,,A3
+77,10.2514/1.i010620,Optimization-Based Scheduling Method for Agile Earth-Observing Satellite Constellation,NOT_SELECTED_THIS_BATCH,,A3
+78,10.1016/j.actaastro.2020.11.047,Dynamical properties of the Molniya satellite constellation: Long-term evolution of orbital eccentricity,NOT_SELECTED_THIS_BATCH,,A3
+79,10.1007/s00158-018-2032-1,Multidisciplinary modeling and surrogate assisted optimization for satellite constellation systems,NOT_SELECTED_THIS_BATCH,,A3
+80,10.1016/j.asr.2026.06.056,Upper-band chorus wave observations during the closest conjunction of Van Allen Probe B and Arase spacecraft,NOT_SELECTED_THIS_BATCH,,B1
+81,10.3765/salt.v0i0.2630,Conjunction is Parallel Computation,NOT_SELECTED_THIS_BATCH,,B1
+82,10.3765/salt.v22i0.3160,Conjunction is Parallel Computation,NOT_SELECTED_THIS_BATCH,,B1
+83,10.3765/salt.v22i0.2630,Conjunction is Parallel Computation,NOT_SELECTED_THIS_BATCH,,B1
+84,10.3390/aerospace12090851,Intercepting 3I/ATLAS at Its Closest Approach to Jupiter with the Juno Spacecraft,NOT_SELECTED_THIS_BATCH,,B1
+85,10.2307/3956541,Mars' Closest Approach,NOT_SELECTED_THIS_BATCH,,B1
+86,10.1109/59.317655,Computation of closest bifurcations in power systems,NOT_SELECTED_THIS_BATCH,,B1
+87,10.1007/s42064-023-0165-5,Safe-event pruning in spacecraft conjunction management,SELECTED,,B1
+88,10.1109/tkde.2008.85,Computation and Monitoring of Exclusive Closest Pairs,NOT_SELECTED_THIS_BATCH,,B1
+89,10.1016/s1474-6670(17)67153-2,Computation of Spacecraft Motion Characteristics,NOT_SELECTED_THIS_BATCH,,B1
+90,10.1111/j.1541-0420.2007.00984.x,Screening for Partial Conjunction Hypotheses,NOT_SELECTED_THIS_BATCH,,B1
+91,10.1023/a:1008223105130,Closest Approach in Universal Variables,SELECTED,,B1
+92,10.1103/physrevaccelbeams.19.071003,Amplitude dependent closest tune approach,NOT_SELECTED_THIS_BATCH,,B1
+93,10.2514/2.3418,Near Earth Asteroid Rendezvous (NEAR) Spacecraft Solar Conjunction Experiment,NOT_SELECTED_THIS_BATCH,,B1
+94,10.1371/journal.pone.0037576,An Efficient Rank Based Approach for Closest String and Closest Substring,NOT_SELECTED_THIS_BATCH,,B1
+95,10.1088/1742-6596/1850/1/012074,Closest approach of a quantum projectile,NOT_SELECTED_THIS_BATCH,,B1
+96,10.1007/s004530010040,Fast Spatial Decomposition and Closest Pair Computation for Limited Precision Input,NOT_SELECTED_THIS_BATCH,,B1
+97,10.3847/1538-4357/ad71cc,Measurements of Magnetic Cloud Expansion through Multiple Spacecraft in Radial Conjunction,NOT_SELECTED_THIS_BATCH,,B1
+98,10.1007/s10569-012-9421-3,Toroidal path filter for orbital conjunction screening,SELECTED,,B1
+99,10.1017/s0373463300039576,Error of the Closest Point of Approach,NOT_SELECTED_THIS_BATCH,,B1
+100,10.1021/cen-v071n045.p041,Closest Approach Made to Tricoordinate Silylium Ion,NOT_SELECTED_THIS_BATCH,,B1
+101,10.1002/j.2161-4296.1970.tb00037.x,The Prediction of Time of Closest Approach,NOT_SELECTED_THIS_BATCH,,B1
+102,10.1080/03772063.2016.1231598,Computation of Capacitance Matrix of Orbiting Spacecraft Bodies,NOT_SELECTED_THIS_BATCH,,B1
+103,10.2514/1.g000435,Improvements to Time of Closest Approach Calculation,SELECTED,,B1
+104,10.11648/j.ijdst.20170303.11,Conjunction Detection and Series Clustering of Telemetry Data from Spacecraft in Orbit,NOT_SELECTED_THIS_BATCH,,B1
+105,10.1016/j.jsse.2025.06.006,A comparison of spacecraft collision detection strategies using a virtual conjunction dataset,SELECTED,,B1
+106,10.1038/d41586-025-00009-2,Spacecraft makes closest-ever fly-by of Sun: what the trip will tell us,NOT_SELECTED_THIS_BATCH,,B1
+107,10.1111/synt.12171,Elided Clausal Conjunction Is Not the Only Source of Closest‐Conjunct Agreement: A Picture‐Matching Study,NOT_SELECTED_THIS_BATCH,,B1
+108,10.3390/sym12081302,Computing the Closest Approach Distance of Two Ellipsoids,NOT_SELECTED_THIS_BATCH,,B1
+109,10.1090/qam/146863,Scattering from random linear arrays with closest approach,NOT_SELECTED_THIS_BATCH,,B1
+110,10.2514/1.15523,Satellite Collision Probability Enhancements,SELECTED,,B2
+111,10.1016/j.asr.2003.11.012,Covariance correlations in collision avoidance probability calculations,SELECTED,,B2
+112,10.2514/2.5127,Satellite Collision Probability for Nonlinear Relative Motion,SELECTED,,B2
+113,10.2514/2.4771,General Method for Calculating Satellite Collision Probability,SELECTED,,B2
+114,10.2514/1.62308,Collision Probability with Gaussian Mixture Orbit Uncertainty,SELECTED,,B2
+115,10.1016/j.asr.2013.08.027,Satellite collision probability estimation using polynomial chaos expansions,SELECTED,,B2
+116,10.1016/0094-5765(86)90088-3,Earth satellite collision probability in space station era,NOT_SELECTED_THIS_BATCH,,B2
+117,10.2514/1.g004711,Satellite Instantaneous Collision Probability Computation Using Equivalent Volume Cuboids,SELECTED,,B2
+118,10.1109/jiot.2024.3470113,Packet Collision Probability of Direct-to-Satellite IoT Systems,NOT_SELECTED_THIS_BATCH,,B2
+119,10.1109/taes.2018.2845158,Uncertainty-Dependent Warning Threshold for Spacecraft Rendezvous Collision Probability,NOT_SELECTED_THIS_BATCH,,B2
+120,10.1016/j.actaastro.2018.11.051,Probability of collision between space objects including model uncertainty,SELECTED,,B2
+121,10.1016/j.asr.2016.05.050,"Maximum collision probability considering variable size, shape, and orientation of covariance ellipse",NOT_SELECTED_THIS_BATCH,,B2
+122,10.1016/j.asr.2022.07.055,Analytical model for collision probability assessments with large satellite constellations,SELECTED,,B2
+123,10.1007/s40295-026-00600-3,A Guaranteed Geometric Approach to Covariance-Ellipsoid Separation for Satellite Collision Avoidance,NOT_SELECTED_THIS_BATCH,,B2
+124,10.64336/001c.89429,Starlink satellite collision probability simulation based on a simplified geometry model,NOT_SELECTED_THIS_BATCH,,B2
+125,10.1007/s40295-020-00218-z,Probability of Collision Estimation and Optimization Under Uncertainty Utilizing Separated Representations,SELECTED,,B2
+126,10.1109/lra.2021.3121073,Exact and Bounded Collision Probability for Motion Planning Under Gaussian Uncertainty,NOT_SELECTED_THIS_BATCH,,B2
+127,10.1109/tcyb.2022.3173683,Satellite Formation-Containment Control Emphasis on Collision Avoidance and Uncertainty Suppression,NOT_SELECTED_THIS_BATCH,,B2;D2
+128,10.2514/3.26529,Effects of satellite bunching on the probability of collision in geosynchronous orbit,NOT_SELECTED_THIS_BATCH,,B2
+129,10.2514/2.4967,Method for Calculating Collision Probability Between a Satellite and a Space Tether,NOT_SELECTED_THIS_BATCH,,B2
+130,10.3390/e27040329,Overcoming Dilution of Collision Probability in Satellite Conjunction Analysis via Confidence Distribution,SELECTED,,B2
+131,10.1109/lra.2024.3457208,Safe and Efficient Path Planning Under Uncertainty via Deep Collision Probability Fields,NOT_SELECTED_THIS_BATCH,,B2
+132,10.1007/bf00708952,Covariance for quasi-probability distributions,NOT_SELECTED_THIS_BATCH,,B2
+133,10.1108/aeat-07-2013-0131,Close approach analysis of space objects and estimation of satellite-debris collision probability,NOT_SELECTED_THIS_BATCH,,B2
+134,10.12783/dtetr/icamm2016/7343,Research on the Calculation Method of the Collision Probability of Satellite Formation Flying,NOT_SELECTED_THIS_BATCH,,B2
+135,10.1007/s42064-021-0119-8,Calculating collision probability for long-term satellite encounters through the reachable domain method,SELECTED,,B2
+136,10.1016/j.ast.2024.109547,Collision probability sliding mode guidance for spacecraft autonomous obstacle avoidance under state uncertainty,NOT_SELECTED_THIS_BATCH,,B2;C2
+137,10.2307/3213989,A collision probability problem,NOT_SELECTED_THIS_BATCH,,B2
+138,10.1016/0016-0032(70)90283-8,Collision probability criticality calculations,NOT_SELECTED_THIS_BATCH,,B2
+139,10.1017/s0021900200041322,A collision probability problem,NOT_SELECTED_THIS_BATCH,,B2
+140,10.1016/j.jacadv.2023.100552,Machine Learning for Risk Prediction,NOT_SELECTED_THIS_BATCH,,B3
+141,10.1161/hypertensionaha.120.13516,Machine Learning in Risk Prediction,NOT_SELECTED_THIS_BATCH,,B3
+142,10.2215/cjn.0000000000000083,Risk Prediction and Machine Learning,NOT_SELECTED_THIS_BATCH,,B3
+143,10.1051/epjconf/202635402006,Machine learning-based risk classification of space debris conjunction events,NOT_SELECTED_THIS_BATCH,,B3
+144,10.1088/1742-6596/1651/1/012107,Spacecraft in Orbit Fault Prediction Based on Deep Machine Learning,NOT_SELECTED_THIS_BATCH,,B3
+145,10.36893/jk.2025.v15i2.041,DIABETIC DISEASE RISK PREDICTION USING MACHINE LEARNING,NOT_SELECTED_THIS_BATCH,,B3
+146,10.61463/ijset.vol.13.issue2.438,Lung Cancer Risk Prediction with Machine Learning,NOT_SELECTED_THIS_BATCH,,B3
+147,10.1001/jamanetworkopen.2019.6823,Enhancement of Risk Prediction With Machine Learning,NOT_SELECTED_THIS_BATCH,,B3
+148,10.32628/cseit2283121,Stroke Risk Prediction Using Machine Learning Algorithms,NOT_SELECTED_THIS_BATCH,,B3
+149,10.1007/s41060-023-00491-9,Obesity disease risk prediction using machine learning,NOT_SELECTED_THIS_BATCH,,B3
+150,10.62051/nzr6tw29,Diabetes Risk Prediction Model Using Machine Learning,NOT_SELECTED_THIS_BATCH,,B3
+151,10.55041/ijsrem38630,Machine Learning-Based Risk Prediction of Asthma,NOT_SELECTED_THIS_BATCH,,B3
+152,10.55041/ijsrem59297,Maternal Health Risk Prediction using Machine Learning,NOT_SELECTED_THIS_BATCH,,B3
+153,10.55041/isjem06394,DISEASE RISK PREDICTION SYSTEM USING MACHINE LEARNING,NOT_SELECTED_THIS_BATCH,,B3
+154,10.3390/s22134670,Stroke Risk Prediction with Machine Learning Techniques,NOT_SELECTED_THIS_BATCH,,B3
+155,10.3724/zrht.1674-5825.2025089,Research Progress on Orbit Prediction of LEO Spacecraft Based on Machine Learning,NOT_SELECTED_THIS_BATCH,,B3
+156,10.1007/s00439-012-1194-y,Risk estimation and risk prediction using machine-learning methods,NOT_SELECTED_THIS_BATCH,,B3
+157,10.1007/s10479-023-05668-w,Best output prediction in OECD railways using DEA in conjunction with machine learning algorithms,NOT_SELECTED_THIS_BATCH,,B3
+158,10.1371/journal.pone.0177866,Membrane protein contact and structure prediction using co-evolution in conjunction with machine learning,NOT_SELECTED_THIS_BATCH,,B3
+159,10.21742/ijseia.2020.14.1.03,Machine Learning Techniques in Structural Fire Risk Prediction,NOT_SELECTED_THIS_BATCH,,B3
+160,10.1007/s42405-023-00652-x,Reentry Risk and Safety Assessment of Spacecraft Debris Based on Machine Learning,NOT_SELECTED_THIS_BATCH,,B3
+161,10.18494/sam4252,Fire Risk Prediction Analysis Using Machine Learning Techniques,NOT_SELECTED_THIS_BATCH,,B3
+162,10.64137/3108088x/ijaes-v2i1p105,Machine Learning Framework for Soil Erosion Risk Prediction,NOT_SELECTED_THIS_BATCH,,B3
+163,10.3390/infrastructures10110304,Interpretable Ensemble Machine Learning for Liquefaction Risk Prediction,NOT_SELECTED_THIS_BATCH,,B3
+164,10.1186/s12913-024-11081-1,Machine learning methods for adult OSAHS risk prediction,NOT_SELECTED_THIS_BATCH,,B3
+165,10.36676/urr.v12.i2.1526,Patient Readmission Risk Prediction: Machine Learning Classification Algorithms,NOT_SELECTED_THIS_BATCH,,B3
+166,10.51584/ijrias.2024.904027,Maternal Health Risk Prediction Using Machine Learning Methods,NOT_SELECTED_THIS_BATCH,,B3
+167,10.57152/predatecs.v3i1.1858,Lung Disease Risk Prediction Using Machine Learning Algorithms,NOT_SELECTED_THIS_BATCH,,B3
+168,10.56726/irjmets88193,Breast Cancer Risk Prediction Using Machine Learning Algorithms,NOT_SELECTED_THIS_BATCH,,B3
+169,10.1016/j.crbeha.2021.100053,A machine learning approach for obesity risk prediction,NOT_SELECTED_THIS_BATCH,,B3
+170,10.2514/1.a36075,Combined Collision Avoidance and Station-Keeping Maneuver Optimization by Collision Probability Inversion,SELECTED,,C1
+171,10.2514/1.g006630,Low-Thrust Collision Avoidance Maneuver Optimization,SELECTED,,C1;C3
+172,10.2514/1.g006630.c1,Correction: Low-Thrust Collision Avoidance Maneuver Optimization,NOT_SELECTED_THIS_BATCH,,C1;C3
+173,10.2514/1.54971,Avoidance Maneuver Planning Incorporating Station-Keeping Constraints and Automatic Relaxation,SELECTED,,C1
+174,10.1016/j.ifacol.2025.11.297,Spacecraft Autonomous Collision Avoidance and Maneuver Based on Deep Reinforcement Learning,NOT_SELECTED_THIS_BATCH,,C1
+175,10.1016/j.asej.2024.103145,MILP-MPC for planned maneuver station-keeping and collision avoidance of GEO satellites using on-off chemical thrusters,SELECTED,,C1
+176,10.1007/s42064-024-0227-3,Collision avoidance maneuver optimization during low-thrust propelled trajectories,SELECTED,,C1;C3
+177,10.2514/1.g007839,Long-Term Fuel-Optimal Collision Avoidance Maneuvers with Station-Keeping Constraints,SELECTED,,C1;C3
+178,10.1016/j.actaastro.2021.05.046,Collision avoidance maneuver optimization with a multiple-impulse convex formulation,SELECTED,,C1
+179,10.1177/0954410015611699,Multiobjective optimization for collision avoidance maneuver using a genetic algorithm,NOT_SELECTED_THIS_BATCH,,C1
+180,10.5140/jass.2013.30.4.291,Optimization of Space Debris Collision Avoidance Maneuver for Formation Flying Satellites,SELECTED,,C1
+181,10.1007/s40295-026-00633-8,Collision Avoidance Maneuver Planning and Optimization Considering Control Uncertainty and Mission Requirements,NOT_SELECTED_THIS_BATCH,,C1
+182,10.2514/1.g004518,Spacecraft Collision Avoidance Using Aerodynamic Drag,NOT_SELECTED_THIS_BATCH,,C1;C2
+183,10.2514/1.g008629,Combined Long-Term Collision Avoidance and Stochastic Station-Keeping in Geostationary Earth Orbit,SELECTED,,C1
+184,10.5139/ijass.2012.13.4.474,Collision Avoidance Maneuver Planning Using GA for LEO and GEO Satellite Maintained in Keeping Area,NOT_SELECTED_THIS_BATCH,,C1
+185,10.1016/j.automatica.2011.02.014,Spacecraft formation reconfiguration with collision avoidance,SELECTED,,C1;C2
+186,10.1016/j.ifacol.2023.10.1094,Multi-maneuver algorithms for multi-risk collision avoidance via nonconvex quadratic optimization,SELECTED,,C1
+187,10.5140/jass.2012.29.1.011,A Study on the Collision Avoidance Maneuver Optimization with Multiple Space Debris,SELECTED,,C1
+188,10.1016/j.asr.2011.03.030,Active collision avoidance maneuver under constant thrust,SELECTED,,C1;C3
+189,10.5755/j01.itc.41.2.854,Optimal Spacecraft Formation Reconfiguration with Collision Avoidance Using Particle Swarm Optimization,NOT_SELECTED_THIS_BATCH,,C1
+190,10.9749/jin.64.79,Research on Collision Avoidance Maneuver with Ship Handling Simulator I : Factors Affecting on Collision Avoidance Maneuver and Their Evaluations,NOT_SELECTED_THIS_BATCH,,C1
+191,10.3182/20110828-6-it-1002.00939,Active Collision Avoidance Maneuver Design Under Constant Thrust⋆,NOT_SELECTED_THIS_BATCH,,C1;C3
+192,10.1016/j.actaastro.2016.11.037,Underactuated spacecraft formation reconfiguration with collision avoidance,SELECTED,,C1;C2
+193,10.2514/1.i010576,Horizontal Maneuver Coordination for Aircraft Collision-Avoidance Systems,NOT_SELECTED_THIS_BATCH,,C1
+194,10.1299/jsmermd.2003.7_4,Flexible Collision Avoidance Maneuver of Wheeled Mobile Robots,NOT_SELECTED_THIS_BATCH,,C1
+195,10.1016/j.asr.2011.09.030,Constant thrust collision avoidance maneuver under thruster failure,SELECTED,,C1;C3
+196,10.1080/20464177.2008.11020206,A low directivity ultrasonic sensor for collision avoidance and station keeping on inspection-class AUVs,NOT_SELECTED_THIS_BATCH,,C1
+197,10.1109/tcst.2019.2949540,Optimization-Based Collision Avoidance,NOT_SELECTED_THIS_BATCH,,C1
+198,10.1177/0954410016682270,Optimization of collision avoidance maneuver planning for cluster satellites in space debris explosion situation,NOT_SELECTED_THIS_BATCH,,C1
+199,10.1109/taes.2024.3480041,Recursive Polynomial Method for Fast Collision Avoidance Maneuver Design,SELECTED,,C1
+200,10.1016/j.cja.2025.103814,Optimizing spacecraft collision avoidance maneuvers under risk uncertainty from multiple space debris,SELECTED,,C2
+201,10.1023/b:jota.0000042524.57088.8b,"Multiple-Spacecraft Reconfiguration Through Collision Avoidance, Bouncing, and Stalemate",NOT_SELECTED_THIS_BATCH,,C2
+202,10.2514/1.g008332,Collision Avoidance Maneuvers Optimization in the Presence of Multiple Encounters,SELECTED,,C2
+203,10.1109/jiot.2025.3582721,Uncertainty-Aware Robust UAV Trajectory Planning With Dynamic Collision Avoidance,NOT_SELECTED_THIS_BATCH,,C2
+204,10.3390/jmse9080790,COLREGs Compliant Fuzzy-Based Collision Avoidance System for Multiple Ship Encounters,NOT_SELECTED_THIS_BATCH,,C2
+205,10.1017/s0373463300038649,Collision Avoidance Behaviour and Uncertainty,NOT_SELECTED_THIS_BATCH,,C2
+206,10.1017/s0373463300009577,Uncertainty in Collision Avoidance Manoeuvring,NOT_SELECTED_THIS_BATCH,,C2
+207,10.1016/j.asr.2021.12.015,Collision avoidance control for formation flying of multiple spacecraft using artificial potential field,NOT_SELECTED_THIS_BATCH,,C2
+208,10.2514/1.44397,Electrostatic Spacecraft Collision Avoidance Using Piecewise-Constant Charges,NOT_SELECTED_THIS_BATCH,,C2
+209,10.1109/tte.2024.3382032,Robust Model Predictive Control for Ship Collision Avoidance Under Multiple Uncertainties,NOT_SELECTED_THIS_BATCH,,C2
+210,10.3390/aerospace11080612,Leader-Following Connectivity Preservation and Collision Avoidance Control for Multiple Spacecraft with Bounded Actuation,NOT_SELECTED_THIS_BATCH,,C2
+211,10.1109/tase.2024.3383819,Bayesian Inference of Collision Avoidance Intent During Ship Encounters,NOT_SELECTED_THIS_BATCH,,C2
+212,10.1109/tiv.2023.3315367,Distributed MPC-Based Robust Collision Avoidance Formation Navigation of Constrained Multiple USVs,NOT_SELECTED_THIS_BATCH,,C2
+213,10.1016/j.ast.2014.12.031,Tracking control of spacecraft formation flying with collision avoidance,NOT_SELECTED_THIS_BATCH,,C2
+214,10.1016/j.actaastro.2025.01.042,Space traffic management: Improvements to spacecraft collision avoidance (COLA),NOT_SELECTED_THIS_BATCH,,C2
+215,10.2514/1.53172,Accounting for State Uncertainty in Collision Avoidance,NOT_SELECTED_THIS_BATCH,,C2
+216,10.2514/1.g000459,Uncertainty Corridors for Three-Dimensional Collision Avoidance,NOT_SELECTED_THIS_BATCH,,C2
+217,10.1016/j.ast.2019.07.031,Sub-optimal cooperative collision avoidance maneuvers of multiple active spacecraft via discrete-time generating functions,SELECTED,,C2
+218,10.5687/iscie.3.252,Collision Avoidance among Multiple Mobile Robots,NOT_SELECTED_THIS_BATCH,,C2
+219,10.2514/1.g005161,Online Multiple-Aircraft Collision Avoidance Method,NOT_SELECTED_THIS_BATCH,,C2
+220,10.1007/s10514-015-9532-2,Robust underwater obstacle detection and collision avoidance,NOT_SELECTED_THIS_BATCH,,C2
+221,10.1177/027836499701600508,Collision Avoidance in Multiple-Redundant Manipulators,NOT_SELECTED_THIS_BATCH,,C2
+222,10.1109/lra.2017.2775699,Robust Aerial Robot Swarms Without Collision Avoidance,NOT_SELECTED_THIS_BATCH,,C2
+223,10.1016/j.jfranklin.2019.05.003,Distributed RISE control for spacecraft formation reconfiguration with collision avoidance,SELECTED,,C2;D1
+224,10.1177/0036850419884432,Optimal cooperative control for formation flying spacecraft with collision avoidance,SELECTED,,C2;D1
+225,10.1109/tcst.2025.3627017,Adaptive Proximity Control of Spacecraft With Collision and Occlusion Avoidance,NOT_SELECTED_THIS_BATCH,,C2
+226,10.1016/j.ast.2025.110643,Optimal control for low-thrust collision avoidance in CRTBP,NOT_SELECTED_THIS_BATCH,,C3
+227,10.2514/1.g005547,Low-Thrust Collision Avoidance in Circular Orbits,SELECTED,,C3
+228,10.2514/1.50996,Fuel Optimization for Continuous-Thrust Orbital Rendezvous with Collision Avoidance Constraint,NOT_SELECTED_THIS_BATCH,,C3
+229,10.2514/1.g009226,Optimal Continuous-Thrust Collision Avoidance Maneuvers Based on Uncertain Reachable Domain,NOT_SELECTED_THIS_BATCH,,C3
+230,10.2514/1.g007175,Analytical Assessment of Short-Duration Low-Thrust Collision-Avoidance Maneuvers,SELECTED,,C3
+231,10.2514/1.g000742,Optimal Impulsive Collision Avoidance in Low Earth Orbit,SELECTED,,C3
+232,10.5139/jksas.2007.35.7.647,"Low Thrust, Fuel Optimal Earth Escape Trajectories Design",NOT_SELECTED_THIS_BATCH,,C3
+233,10.4028/www.scientific.net/amm.380-384.4359,Fuel Optimal Trajectories for Low-Thrust Orbit Transfer,NOT_SELECTED_THIS_BATCH,,C3
+234,10.1365/s38314-013-0149-y,Satellite-Based Collision Avoidance System,NOT_SELECTED_THIS_BATCH,,C3;D1;D2
+235,10.2514/1.g000742.c1,Correction: Optimal Impulsive Collision Avoidance in Low Earth Orbit,NOT_SELECTED_THIS_BATCH,,C3
+236,10.2514/2.4844,"Fuel-Optimal, Low-Thrust, Three-Dimensional Earth-Mars Trajectories",NOT_SELECTED_THIS_BATCH,,C3
+237,10.1016/j.robot.2020.103705,Directional optimal reciprocal collision avoidance,NOT_SELECTED_THIS_BATCH,,C3
+238,10.1061/(asce)as.1943-5525.0000642,Optimal Satellite-Formation Collision-Avoidance Maneuver Based on Relative E/I Vectors,SELECTED,,C3
+239,10.1016/j.ejor.2012.05.005,Optimal apogee burn time for low thrust spinning satellite in low altitude,NOT_SELECTED_THIS_BATCH,,C3
+240,10.1016/j.asr.2016.04.005,Fuel-optimal low-thrust formation reconfiguration via Radau pseudospectral method,NOT_SELECTED_THIS_BATCH,,C3
+241,10.4028/www.scientific.net/amr.816-817.778,Low-Thrust Fuel-Optimal Rendezvous Mission to Near Earth Asteroids,NOT_SELECTED_THIS_BATCH,,C3
+242,10.1016/j.ast.2020.106198,Low-thrust planar transfer for co-planar low Earth orbit satellites considering self-induced collision avoidance,NOT_SELECTED_THIS_BATCH,,C3
+243,10.1109/tcyb.2024.3491582,Safe Reinforcement Learning: Optimal Formation Control With Collision Avoidance of Multiple Satellite Systems,SELECTED,,C3;D2
+244,10.1002/j.2161-4296.1979.tb01389.x,Optimal Collision Avoidance in Unconfined Waters,NOT_SELECTED_THIS_BATCH,,C3
+245,10.1016/j.trc.2018.10.004,Constant speed optimal reciprocal collision avoidance,NOT_SELECTED_THIS_BATCH,,C3
+246,10.1007/s11433-011-4291-3,Fuel optimal low thrust rendezvous with outer planets via gravity assist,NOT_SELECTED_THIS_BATCH,,C3
+247,10.1360/sspma-2024-0275,Low-thrust fuel-optimal transfer orbit guidance using SCP and SQP,NOT_SELECTED_THIS_BATCH,,C3
+248,10.1177/0954410018761965,A quadratic homotopy method for fuel-optimal low-thrust trajectory design,NOT_SELECTED_THIS_BATCH,,C3
+249,10.1016/j.ast.2021.106750,Finite-time distributed hierarchical control for satellite cluster with collision avoidance,SELECTED,,D1;D2
+250,10.1016/j.ast.2022.107917,Robust distributed model predictive control for satellite cluster reconfiguration with collision avoidance,SELECTED,,D1;D2
+251,10.1016/j.actaastro.2023.01.017,Distributed cooperative control with collision avoidance for spacecraft swarm reconfiguration via reinforcement learning,SELECTED,,D1
+252,10.2514/1.i010588,Satellite Formation-Containment Flying Control with Collision Avoidance,SELECTED,,D1;D2
+253,10.1007/s10514-011-9267-7,Distributed reactive collision avoidance,NOT_SELECTED_THIS_BATCH,,D1
+254,10.1109/tsmc.2022.3153030,Learning-Based Cooperative Multiagent Formation Control With Collision Avoidance,NOT_SELECTED_THIS_BATCH,,D1
+255,10.1016/j.automatica.2025.112405,Collision/obstacle avoidance distributed cooperative output regulation of multi-robot systems,NOT_SELECTED_THIS_BATCH,,D1
+256,10.1002/rnc.6985,Distributed cooperative reinforcement learning for multi‐agent system with collision avoidance,NOT_SELECTED_THIS_BATCH,,D1
+257,10.2514/1.i010588.c1,Clarification: Satellite Formation-Containment Flying Control with Collision Avoidance,NOT_SELECTED_THIS_BATCH,,D1;D2
+258,10.1016/j.ifacol.2019.08.096,Collision Avoidance for Cooperative Formation Control of a Robot Group,NOT_SELECTED_THIS_BATCH,,D1
+259,10.1016/j.jfranklin.2018.04.017,Cooperative surrounding control with collision avoidance for networked Lagrangian systems,NOT_SELECTED_THIS_BATCH,,D1
+260,10.1016/j.aap.2022.106703,A cooperative collision-avoidance control methodology for virtual coupling trains,NOT_SELECTED_THIS_BATCH,,D1
+261,10.1016/j.jfranklin.2021.06.030,Distributed observer-based cooperative guidance with appointed impact time and collision avoidance,NOT_SELECTED_THIS_BATCH,,D1
+262,10.1109/access.2026.3701444,Sequential Distributed Optimization for Cooperative Collision Avoidance via Agent-Wise CCP-PSM,NOT_SELECTED_THIS_BATCH,,D1
+263,10.1109/tvt.2024.3368700,Cooperative Control Research on Emergency Collision Avoidance of Human–Machine Cooperative Driving Vehicles,NOT_SELECTED_THIS_BATCH,,D1
+264,10.5139/ijass.2010.11.4.351,Collision Avoidance Using Linear Quadratic Control in Satellite Formation Flying,NOT_SELECTED_THIS_BATCH,,D1;D2
+265,10.1109/tro.2018.2793890,Cooperative Collision Avoidance for Nonholonomic Robots,NOT_SELECTED_THIS_BATCH,,D1
+266,10.1049/iet-its.2018.5366,Cooperative distributed predictive control for collision‐free vehicle platoons,NOT_SELECTED_THIS_BATCH,,D1
+267,10.1365/s38314-011-0054-1,Collision Avoidance by Cooperative Driving Maneuvers,NOT_SELECTED_THIS_BATCH,,D1
+268,10.1109/tcst.2018.2823278,Cooperative Periodic Coverage With Collision Avoidance,NOT_SELECTED_THIS_BATCH,,D1
+269,10.3390/act8010001,Distributed Cooperative Avoidance Control for Multi-Unmanned Aerial Vehicles,NOT_SELECTED_THIS_BATCH,,D1
+270,10.1109/access.2021.3134696,Distributed Non-Convex Model Predictive Control for Non-Cooperative Collision Avoidance of Networked Differential Drive Mobile Robots,NOT_SELECTED_THIS_BATCH,,D1
+271,10.1109/tcyb.2019.2944892,Multivehicle Flocking With Collision Avoidance via Distributed Model Predictive Control,NOT_SELECTED_THIS_BATCH,,D1
+272,10.3390/app7010083,Cooperative Multi-UAV Collision Avoidance Based on Distributed Dynamic Optimization and Causal Analysis,NOT_SELECTED_THIS_BATCH,,D1
+273,10.2514/1.g003430,Decentralized Cooperative Collision Avoidance Control for Unmanned Rotorcraft with Bounded Acceleration,NOT_SELECTED_THIS_BATCH,,D1
+274,10.1109/tcst.2025.3610917,Collision/Obstacle Avoidance Cooperative Tracking Control for MASs With Network Constraints,NOT_SELECTED_THIS_BATCH,,D1
+275,10.1016/j.ifacol.2015.11.293,Formation control and collision avoidance of unicycle robots with distributed predictive control,NOT_SELECTED_THIS_BATCH,,D1
+276,10.1016/j.ifacol.2026.01.067,Integrating High-Level Priority Decisions with Distributed Safety Filter for Multi-Satellite Collision Avoidance,EXCLUDED_PREVIOUS_LIBRARY,N04,D2
+277,10.1007/s10015-025-01020-6,Collision avoidance control of multiple UAVs using collision cones and control barrier functions,NOT_SELECTED_THIS_BATCH,,D2
+278,10.1109/tcst.2025.3546076,Dynamic Collision Avoidance Using Velocity Obstacle-Based Control Barrier Functions,NOT_SELECTED_THIS_BATCH,,D2
+279,10.1109/tcyb.2025.3578441,Optimization-Free Smooth Control Barrier Function for Polygonal Collision Avoidance,NOT_SELECTED_THIS_BATCH,,D2
+280,10.1007/s12239-023-0061-2,Lane-Change Collision Avoidance Control for Automated Vehicles with Control Barrier Functions,NOT_SELECTED_THIS_BATCH,,D2
+281,10.1016/j.ifacol.2024.07.313,Collision Avoidance Safety Filter for an Autonomous E-Scooter using Ultrasonic Sensors,NOT_SELECTED_THIS_BATCH,,D2
+282,10.4028/www.scientific.net/amr.433-440.4989,Active Collision Avoidance Control for Fractionated Satellite Clusters in Ellipse Orbit,NOT_SELECTED_THIS_BATCH,,D2
+283,10.1016/j.ifacol.2026.01.070,Decentralized Collision-Free Satellite Formation Reconfiguration with Control Barrier Functions,SELECTED,,D2
+284,10.1109/tac.2017.2729661,Safety Verification and Control for Collision Avoidance at Road Intersections,NOT_SELECTED_THIS_BATCH,,D2
+285,10.1080/00207721.2025.2583240,Decentralized collision avoidance and global connectivity maintenance using nested control barrier functions,NOT_SELECTED_THIS_BATCH,,D2
+286,10.2514/1.g009218,Nuisance-Free Ground Collision Avoidance Design with Adaptive Exponential Control Barrier Functions,NOT_SELECTED_THIS_BATCH,,D2
+287,10.1016/j.mechatronics.2026.103495,Efficient COLREGs-compliant collision avoidance using turning circle-based control barrier function,NOT_SELECTED_THIS_BATCH,,D2
+288,10.1080/18824889.2026.2663581,Shape-conscious collision avoidance for four-wheeled vehicles using control barrier functions,NOT_SELECTED_THIS_BATCH,,D2
+289,10.1109/tcst.2025.3536215,Collision Avoidance and Geofencing for Fixed-Wing Aircraft With Control Barrier Functions,NOT_SELECTED_THIS_BATCH,,D2
+290,10.1002/rnc.70624,Moving Obstacle Collision Avoidance via Chance‐Constrained Model Predictive Control With Control Barrier Function,NOT_SELECTED_THIS_BATCH,,D2
+291,10.1016/j.jfranklin.2026.108824,"Decentralized nested control barrier functions for simultaneous formation control, collision avoidance, and connectivity maintenance",NOT_SELECTED_THIS_BATCH,,D2
+292,10.1109/lra.2026.3677752,Distributionally Robust Acceleration Control Barrier Filter for Efficient UAV Obstacle Avoidance,NOT_SELECTED_THIS_BATCH,,D2
+293,10.1109/tcst.2026.3692226,Turning Circle-Based Control Barrier Function for Efficient Collision Avoidance of Nonholonomic Vehicles,NOT_SELECTED_THIS_BATCH,,D2
+294,10.1515/astro-2024-0005,Intelligent collision avoidance strategy for all-electric propulsion GEO satellite orbit transfer control,NOT_SELECTED_THIS_BATCH,,D2
+295,10.4273/ijvss.10.1.13,Satellite Cluster Close Approaches Determination for Collision Avoidance,NOT_SELECTED_THIS_BATCH,,D2
+296,10.1155/2020/2069631,Distance-Based Formation Control for Quadrotors with Collision Avoidance via Lyapunov Barrier Functions,NOT_SELECTED_THIS_BATCH,,D2
+297,10.1016/j.ast.2019.105425,Bounded flight and collision avoidance control for satellite clusters using intersatellite flight bounds,SELECTED,,D2
+298,10.56702/pjkx6569/jspalaw_4801.6,Traffic Coordination by Contract: Applying Lessons from Internet Governance to Space Traffic Management,NOT_SELECTED_THIS_BATCH,,D3
+299,10.1016/j.actaastro.2022.01.027,Autonomous Trajectory Optimisation for Intelligent Satellite Systems and Space Traffic Management,SELECTED,,D3
+300,10.1016/j.jsse.2025.04.005,Space traffic management,NOT_SELECTED_THIS_BATCH,,D3
+301,10.1109/tits.2018.2848472,Predictive Maneuver Planning for an Autonomous Vehicle in Public Highway Traffic,NOT_SELECTED_THIS_BATCH,,D3
+302,10.30981/2587-7992-2019-99-2-60-71,From “space traffic regulations” to space traffic management,NOT_SELECTED_THIS_BATCH,,D3
+303,10.25172/jalc.83.2.5,Space Traffic Management Standards,NOT_SELECTED_THIS_BATCH,,D3
+304,10.1016/j.jsse.2022.09.001,Space traffic management terminology,NOT_SELECTED_THIS_BATCH,,D3
+305,10.18215/kwlr.2024.76..249,Space Law on Space Traffic Management,NOT_SELECTED_THIS_BATCH,,D3
+306,10.26512/lstr.2026.v18.n3.e61825,Autonomous algorithmic coordination,NOT_SELECTED_THIS_BATCH,,D3
+307,10.18178/jtle.7.2.47-52,Autonomous Controllers for Urban Traffic Management,NOT_SELECTED_THIS_BATCH,,D3
+308,10.1609/aaai.v25i1.7807,Enforcing Liveness in Autonomous Traffic Management,NOT_SELECTED_THIS_BATCH,,D3
+309,10.1007/s11721-024-00241-y,Decentralized traffic management of autonomous drones,NOT_SELECTED_THIS_BATCH,,D3
+310,10.1109/mits.2019.2953551,Synchronous Maneuver Searching and Trajectory Planning for Autonomous Vehicles in Dynamic Traffic Environments,NOT_SELECTED_THIS_BATCH,,D3
+311,10.4271/2021-01-0171,Simulation-Based Evaluation of Cooperative Maneuver Coordination and Its Impact on Traffic Quality,NOT_SELECTED_THIS_BATCH,,D3
+312,10.1109/tac.2019.2921659,Polling-Systems-Based Autonomous Vehicle Coordination in Traffic Intersections With No Traffic Signals,NOT_SELECTED_THIS_BATCH,,D3
+313,10.1016/j.jsse.2025.10.005,A prototype GPS transponder for space traffic coordination,NOT_SELECTED_THIS_BATCH,,D3
+314,10.1016/j.actaastro.2009.03.063,Towards space traffic management system,NOT_SELECTED_THIS_BATCH,,D3
+315,10.1016/j.actaastro.2025.01.031,Outreach on Space Traffic Management,NOT_SELECTED_THIS_BATCH,,D3
+316,10.1016/j.actaastro.2024.08.056,Space traffic management: Data fusion,NOT_SELECTED_THIS_BATCH,,D3
+317,10.1364/ao.572550,Retroreflectors for space traffic management,NOT_SELECTED_THIS_BATCH,,D3
+318,10.1016/j.actaastro.2025.01.043,Space traffic management: Large constellations,SELECTED,,D3
+319,10.1016/j.jsse.2023.08.007,AI for space traffic management,NOT_SELECTED_THIS_BATCH,,D3
+320,10.1016/j.actaastro.2025.01.069,Space capacity management and its interaction with space traffic management,NOT_SELECTED_THIS_BATCH,,D3
+321,10.1016/j.jsse.2019.05.007,Space traffic management in the new space era,NOT_SELECTED_THIS_BATCH,,D3
+322,10.1016/j.actaastro.2024.09.009,Space traffic management: A shared space object catalog,NOT_SELECTED_THIS_BATCH,,D3
+323,10.20858/sjsutst.2021.110.14,Autonomous vehicles and urban space management,NOT_SELECTED_THIS_BATCH,,D3
+324,10.1016/j.actaastro.2005.12.002,Space traffic management: Implementations and implications,NOT_SELECTED_THIS_BATCH,,D3
+325,10.1109/tits.2015.2494686,Space Traffic Safety Management and Control,NOT_SELECTED_THIS_BATCH,,D3
+326,10.1016/j.spacepol.2004.02.002,Space traffic management: concepts and practices,NOT_SELECTED_THIS_BATCH,,D3
+327,10.1016/j.spacepol.2015.02.005,Security in space: Should space traffic management also concern payloads management?,NOT_SELECTED_THIS_BATCH,,D3
+328,10.1016/j.actaastro.2025.12.058,Orbit maneuver planning of earth observation satellite swarm for unreachable targets,SELECTED,,E1
+329,10.21629/jsee.2017.05.11,Multi-objective evolutionary optimization for geostationary orbit satellite mission planning,NOT_SELECTED_THIS_BATCH,,E1
+330,10.1016/j.asr.2024.05.059,GEO satellite on-orbit refueling and debris removal hybrid mission planning under uncertainty,EXCLUDED_PREVIOUS_LIBRARY,O30,E1
+331,10.1016/j.actaastro.2017.04.027,Swarm satellite mission scheduling & planning using Hybrid Dynamic Mutation Genetic Algorithm,NOT_SELECTED_THIS_BATCH,,E1
+332,10.1016/s1474-6670(17)41056-1,Spacecraft Attitude Maneuver Planning for the Mission Support,NOT_SELECTED_THIS_BATCH,,E1
+333,10.11728/cjss2009.02.234,Research of the Evadible Period and Satellite Orbit Maneuver,NOT_SELECTED_THIS_BATCH,,E1
+334,10.11728/cjss2025.05.2024-0097,A Two-layer Hybrid Scheduling Approach for Electromagnetic Spectrum Monitoring Satellite Mission Planning,NOT_SELECTED_THIS_BATCH,,E1
+335,10.11728/cjss2025.04.2024-0097,A Two-layer Hybrid Scheduling Approach for Electromagnetic Spectrum Monitoring Satellite Mission Planning,NOT_SELECTED_THIS_BATCH,,E1
+336,10.1007/s10291-018-0705-2,Beidou satellite maneuver thrust force estimation for precise orbit determination,NOT_SELECTED_THIS_BATCH,,E1
+337,10.1007/s42064-025-0289-x,Orbit reconstruction for HERMES-SP/TP satellite mission,NOT_SELECTED_THIS_BATCH,,E1
+338,10.3724/zrht.1674-5825.2025100,Low-orbit Satellite Orbit Maneuver Detection and Its Application in Atmospheric Density Model Correction,NOT_SELECTED_THIS_BATCH,,E1
+339,10.1108/03684921011063538,Satellite mission scheduling based on genetic algorithm,NOT_SELECTED_THIS_BATCH,,E1
+340,10.1109/taes.2023.3247552,Optimal Orbit Design and Mission Scheduling for Sun-Synchronous Orbit On-orbit Refueling System,NOT_SELECTED_THIS_BATCH,,E1
+341,10.2322/tjsass.68.84,Scheduling Optimization of Landing-Site-Candidates Observation on Phobos from Quasi-Satellite-Orbit in MMX Mission,NOT_SELECTED_THIS_BATCH,,E1
+342,10.1088/1742-6596/2762/1/012066,A Multi-satellite Scheduling Method for Emergency Observation Mission Based on Hierarchical Planning Strategy,NOT_SELECTED_THIS_BATCH,,E1
+343,10.1007/s10586-025-05663-9,Orbit-aware task scheduling in satellite edge computing,EXCLUDED_PREVIOUS_LIBRARY,E057,E1
+344,10.1016/j.actaastro.2013.05.011,LARES successfully launched in orbit: Satellite and mission description,NOT_SELECTED_THIS_BATCH,,E1
+345,10.5139/jksas.2006.34.9.053,Analysis on Mission and Maneuver in High Resolution Satellite with TDI,NOT_SELECTED_THIS_BATCH,,E1
+346,10.5194/adgeo-1-109-2003,Satellite orbit determination using satellite gravity gradiometry observations in GOCE mission perspective,NOT_SELECTED_THIS_BATCH,,E1
+347,10.1016/j.asr.2025.12.022,An on-orbit servicing framework for satellite collision avoidance: Towards autonomous mission planning with reinforcement learning,SELECTED,,E1
+348,10.3390/math12111704,Remote-Sensing Satellite Mission Scheduling Optimisation Method under Dynamic Mission Priorities,NOT_SELECTED_THIS_BATCH,,E1
+349,10.1016/j.cja.2025.103774,On-orbit refueling robust mission scheduling with uncertain duration for geosynchronous orbit spacecraft,EXCLUDED_PREVIOUS_LIBRARY,E068,E1
+350,10.1109/access.2024.3402990,Quantum Optimization Methods for Satellite Mission Planning,NOT_SELECTED_THIS_BATCH,,E1
+351,10.2514/2.3612,Repeat Orbit Characteristics and Maneuver Strategy for a Synthetic Aperture Radar Satellite,NOT_SELECTED_THIS_BATCH,,E1
+352,10.1016/j.asr.2014.07.012,Orbit determination and prediction of GEO satellite of BeiDou during repositioning maneuver,NOT_SELECTED_THIS_BATCH,,E1
+353,10.3390/s23104650,Generating Low-Earth Orbit Satellite Attitude Maneuver Profiles Using Deep Neural Networks,NOT_SELECTED_THIS_BATCH,,E1
+354,10.1155/2023/9526861,Sensitivity and Consistency Analysis of BDS-3 GEO Satellite Orbit Maneuver Detection,NOT_SELECTED_THIS_BATCH,,E1
+355,10.5139/jksas.2010.38.9.875,Satellite Trajectory Correction Maneuver for Lunar Mission based on Three-Body Dynamics,NOT_SELECTED_THIS_BATCH,,E1
+356,10.1016/j.jsse.2023.11.012,Establishing “norms of behavior” for satellite collision avoidance maneuver planning,SELECTED,,E1
+357,10.1017/aer.2024.18,Attitude maneuver planning and robust tracking control for flexible satellite,NOT_SELECTED_THIS_BATCH,,E1
+358,10.1109/tcomm.2025.3565595,Resource Optimization for LEO Constellation Networks: A Multi-Satellite Cooperative Coverage Design,NOT_SELECTED_THIS_BATCH,,E2
+359,10.4028/www.scientific.net/amr.1049-1050.1894,Design of Regional Coverage Resource Satellite Constellation Based on Analytical Method,NOT_SELECTED_THIS_BATCH,,E2
+360,10.2514/1.35369,Satellite Constellation Design for Complex Coverage,NOT_SELECTED_THIS_BATCH,,E2
+361,10.1109/lwc.2021.3069751,Optimal Satellite Constellation Altitude for Maximal Coverage,NOT_SELECTED_THIS_BATCH,,E2
+362,10.1080/0305215x.2018.1495715,Ground resource optimization for navigation constellation based on satellite link scheduling,NOT_SELECTED_THIS_BATCH,,E2
+363,10.1515/astro-2022-0036,Optimization of satellite resource scheduling under regional target coverage conditions,NOT_SELECTED_THIS_BATCH,,E2
+364,10.1007/s11432-022-3636-1,"Coverage enhancement for 6G satellite-terrestrial integrated networks: performance metrics, constellation configuration and resource allocation",NOT_SELECTED_THIS_BATCH,,E2
+365,10.2514/1.g009234,Constellation Reconfiguration Strategy for Emergency Multitarget Continuous Coverage Using Low Thrust,SELECTED,,E2
+366,10.2514/3.20244,A common-period four-satellite continuous global coverage constellation,NOT_SELECTED_THIS_BATCH,,E2
+367,10.1007/s11767-011-0581-1,Coverage performances analysis on Combined-GEO-IGSO satellite constellation,NOT_SELECTED_THIS_BATCH,,E2
+368,10.1007/bf03546200,Satellite Constellation Design for Zonal Coverage Using Genetic Algorithms,NOT_SELECTED_THIS_BATCH,,E2
+369,10.1002/j.2161-4296.1981.tb00764.x,Worldwide Coverage of the Phase II NAVSTAR Satellite Constellation,NOT_SELECTED_THIS_BATCH,,E2
+370,10.3390/s25030902,Hierarchical Resource Management for Mega-LEO Satellite Constellation,EXCLUDED_PREVIOUS_LIBRARY,E081,E2
+371,10.1002/j.2161-4296.1987.tb01504.x,Graphic Depiction of Dynamic Satellite Constellation Accuracy/Coverage over Time,NOT_SELECTED_THIS_BATCH,,E2
+372,10.1109/tnse.2023.3321600,VLEO Satellite Constellation Design for Regional Aviation and Marine Coverage,NOT_SELECTED_THIS_BATCH,,E2
+373,10.1080/18756891.2016.1204112,Optimization of small satellite constellation design for continuous mutual regional coverage with multi-objective genetic algorithm,NOT_SELECTED_THIS_BATCH,,E2
+374,10.1155/2016/4315026,Application of Latitude Stripe Division in Satellite Constellation Coverage to Ground,NOT_SELECTED_THIS_BATCH,,E2
+375,10.1049/ip-com:20040291,Satellite constellation design and radio resource management using genetic algorithm,NOT_SELECTED_THIS_BATCH,,E2

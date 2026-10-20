@@ -1,0 +1,33 @@
+{
+  "batch": "B11_20261020",
+  "base_commit": "394dbf885a284de85796998e25b8545d80cf6b20",
+  "branch": "research/constellation-review-reading-b11-orbital-20261020",
+  "new_pool_total": 80,
+  "new_pool_close_read_this_batch": 10,
+  "new_pool_remaining_not_close_read": 70,
+  "close_read_pool_ids": [
+    "L005",
+    "L012",
+    "L017",
+    "L025",
+    "L040",
+    "L041",
+    "L045",
+    "L046",
+    "L048",
+    "L059"
+  ],
+  "selected_publisher_versions": 7,
+  "selected_preprints": 3,
+  "article_in_press_included": 1,
+  "pdf_files_acquired": 10,
+  "pdf_total_pages": 228,
+  "actual_visual_page_count": 23,
+  "claim_count": 42,
+  "human_verified": false,
+  "submission_ready": false,
+  "manuscript_modified": false,
+  "historical_reading_totals_updated": false,
+  "batch_limit": 10,
+  "stop_after_batch": true
+}
