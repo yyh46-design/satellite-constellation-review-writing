@@ -1,0 +1,15 @@
+{
+  "title": "Autonomous Guidance Navigation and Control of the VISORS Formation-Flying Mission",
+  "authors_as_read": "Tommaso Guffanti; Toby Bell; Samuel Y. W. Low; Mason Murray-Cooper; Simone D’Amico",
+  "bibliographic_year": 2023,
+  "identifier": "arXiv:2309.16698v1",
+  "actual_arxiv_version": "2309.16698v1",
+  "actual_version": "AAS 23-149预印本，实际arXiv v1共23页；本文是2023发射前设计与软件在环证据，不据此判断2026任务状态。",
+  "source_sha256": "6e85c9a5ac50aa11d34fd563c3f1beb4d4f80f504999e14ae9ea5eddb1c1c1bd",
+  "source_format": "PDF",
+  "primary_url": "https://arxiv.org/abs/2309.16698v1",
+  "human_verified": false,
+  "formal_version_text_compared": false,
+  "evidence_time_scope": "2023 prelaunch design and software-in-the-loop validation; 2026 mission status not checked",
+  "related_B13_source": "S007"
+}

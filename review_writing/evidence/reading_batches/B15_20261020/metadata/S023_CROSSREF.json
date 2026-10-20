@@ -1,0 +1,79 @@
+{
+  "DOI": "10.1109/cdc57313.2025.11312059",
+  "title": [
+    "Safe Control of Multi-Agent Systems with Minimal Communication"
+  ],
+  "author": [
+    {
+      "given": "Mo",
+      "family": "Yang",
+      "sequence": "first",
+      "affiliation": [
+        {
+          "name": "University of Michigan,Ann Arbor,MI,USA"
+        }
+      ],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    },
+    {
+      "given": "Jing",
+      "family": "Yu",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "University of Washington,Seattle,WA,USA"
+        }
+      ],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    },
+    {
+      "given": "Necmiye",
+      "family": "Ozay",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "University of Michigan,Ann Arbor,MI,USA"
+        }
+      ],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    }
+  ],
+  "published": {
+    "date-parts": [
+      [
+        2025,
+        12,
+        9
+      ]
+    ]
+  },
+  "published-print": {
+    "date-parts": [
+      [
+        2025,
+        12,
+        9
+      ]
+    ]
+  },
+  "container-title": [
+    "2025 IEEE 64th Conference on Decision and Control (CDC)"
+  ],
+  "type": "proceedings-article",
+  "URL": "https://doi.org/10.1109/cdc57313.2025.11312059"
+}

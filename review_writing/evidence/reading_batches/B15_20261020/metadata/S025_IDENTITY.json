@@ -1,0 +1,15 @@
+{
+  "title": "A Switching Strategy for Event-Trigger Control of Spacecraft Rendezvous",
+  "authors_as_read": "Tommaso Del Carro; Gerson Portilla; Alexandre Seuret; Rafael Vazquez",
+  "bibliographic_year": 2026,
+  "identifier": "10.82124/CEAS-GNC-2026-020",
+  "actual_arxiv_version": null,
+  "actual_version": "EuroGNC 2026官方会议归档22页PDF，CEAS-GNC-2026-020；DOI按PDF所印登记，Crossref未返回记录、解析器未核实，不标记外部注册核验完成。",
+  "source_sha256": "51af856bf836da1758cf77eaec73b09db7a885701ba9d662e4ffbbd28cb06fb4",
+  "source_format": "PDF",
+  "primary_url": "https://eurognc.ceas.org/archive/EuroGNC2026/pdf/CEAS-GNC-2026-020.pdf",
+  "human_verified": false,
+  "formal_version_text_compared": false,
+  "doi_verification": "printed_in_official_conference_pdf; Crossref returned 404 and resolver could not be checked",
+  "doi_external_registration_verified": false
+}

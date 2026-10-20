@@ -1,0 +1,79 @@
+{
+  "DOI": "10.1109/icra46639.2022.9811875",
+  "title": [
+    "Simultaneous Control and Trajectory Estimation for Collision Avoidance of Autonomous Robotic Spacecraft Systems"
+  ],
+  "author": [
+    {
+      "given": "Matthew",
+      "family": "King-Smith",
+      "sequence": "first",
+      "affiliation": [
+        {
+          "name": "School of Electrical and Computer Engineering, Georgia Institute of Technology,Atlanta,GA,USA,30332"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Panagiotis",
+      "family": "Tsiotras",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "School of Aerospace Engineering, Georgia Institute of Technology,Atlanta,GA,USA,30332"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Frank",
+      "family": "Dellaert",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "School of Interactive Computing, Georgia Institute of Technology,Atlanta,GA,USA,30332"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "published": {
+    "date-parts": [
+      [
+        2022,
+        5,
+        23
+      ]
+    ]
+  },
+  "published-print": {
+    "date-parts": [
+      [
+        2022,
+        5,
+        23
+      ]
+    ]
+  },
+  "container-title": [
+    "2022 International Conference on Robotics and Automation (ICRA)"
+  ],
+  "type": "proceedings-article",
+  "URL": "https://doi.org/10.1109/icra46639.2022.9811875"
+}

@@ -1,0 +1,65 @@
+{
+  "DOI": "10.1109/tvt.2025.3546857",
+  "title": [
+    "Safe Distributed Control of Multi-Robot Systems With Communication Delays"
+  ],
+  "author": [
+    {
+      "ORCID": "https://orcid.org/0000-0002-6521-7142",
+      "authenticated-orcid": false,
+      "given": "Luca",
+      "family": "Ballotta",
+      "sequence": "first",
+      "affiliation": [
+        {
+          "name": "Delft Center for Systems and Control, Delft University of Technology, Delft, The Netherlands"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-6132-395X",
+      "authenticated-orcid": false,
+      "given": "Rajat",
+      "family": "Talak",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Laboratory for Information and Decision Systems, Massachusetts Institute of Technology, Cambridge, MA, USA"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "published": {
+    "date-parts": [
+      [
+        2025,
+        7
+      ]
+    ]
+  },
+  "published-print": {
+    "date-parts": [
+      [
+        2025,
+        7
+      ]
+    ]
+  },
+  "container-title": [
+    "IEEE Transactions on Vehicular Technology"
+  ],
+  "type": "journal-article",
+  "URL": "https://doi.org/10.1109/tvt.2025.3546857"
+}

@@ -1,0 +1,69 @@
+{
+  "DOI": "10.1016/j.eng.2026.04.014",
+  "title": [
+    "Behavior-Inspired Event-Triggered Control of Spacecraft Swarms for Autonomous Capture of Uncooperative Targets"
+  ],
+  "author": [
+    {
+      "given": "Zixuan",
+      "family": "Zhang",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-0149-0473",
+      "authenticated-orcid": false,
+      "given": "Zheng H.",
+      "family": "Zhu",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-7295-4837",
+      "authenticated-orcid": false,
+      "given": "Dan",
+      "family": "Zhang",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "published": {
+    "date-parts": [
+      [
+        2026,
+        5
+      ]
+    ]
+  },
+  "published-print": {
+    "date-parts": [
+      [
+        2026,
+        5
+      ]
+    ]
+  },
+  "container-title": [
+    "Engineering"
+  ],
+  "type": "journal-article",
+  "URL": "https://doi.org/10.1016/j.eng.2026.04.014"
+}

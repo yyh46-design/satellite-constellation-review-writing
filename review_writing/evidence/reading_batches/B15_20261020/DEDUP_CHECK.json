@@ -1,0 +1,29 @@
+{
+  "method": "Exact DOI/arXiv base ID or complete normalized English title in listed structured registers; exact title/identifier against prior source manifests",
+  "registers": [
+    {
+      "path": "D:\\SKT727\\worktrees\\constellation_review_b15_20261020\\review_writing\\literature\\literature_index_148.csv",
+      "sha256": "bd867890b780e0ddbfe07bbcb171a167e69e691421e619806c6c556e3d9c2f18"
+    },
+    {
+      "path": "D:\\SKT727\\worktrees\\constellation_review_b15_20261020\\review_writing\\manuscripts\\v3.2-cn\\references\\SOURCE_LIBRARY_95_BASELINE_v3.1.csv",
+      "sha256": "4396379b0e5e53a45cb5aded3c787748722f87981ec4a592e1cea729a9aba73c"
+    },
+    {
+      "path": "D:\\SKT727\\outputs\\constellation_review_literature_pool_20261020\\LITERATURE_POOL.json",
+      "sha256": "54bb868cf5233d8e865d2649471e795988fad39787d18f276c22bef617ee6206"
+    },
+    {
+      "path": "D:\\SKT727\\worktrees\\constellation_review_b15_20261020\\review_writing\\evidence\\reading_inventory_20261013\\READING_LEDGER_121.json",
+      "sha256": "0c38dca7302e00e3b608bcd92943cabc3c325b4c46b4b94c4521c3967090fea8"
+    }
+  ],
+  "matches": [],
+  "new_supplement_matches": [],
+  "prior_B11_B12_B13_B14_sources_checked": 40,
+  "prior_source_matches": [],
+  "within_batch_distinct_identifiers": 10,
+  "reader_decision": "Add ten supplements S021-S030; exclude repeated L066 recheck because B12 already completed it; original80 progress unchanged",
+  "excluded_duplicate": "L066 / B12 / DOI 10.1177/0036850419884432",
+  "scope_limit": "Only listed structured registers and 40 B11-B14 source records checked; not all historical prose or all world literature."
+}

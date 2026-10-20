@@ -1,0 +1,15 @@
+{
+  "title": "Robust Model Predictive Control for Rendezvous with Relative Orbital Elements and System Level Synthesis",
+  "authors_as_read": "Afonso Botelho; Paulo Rosa; João M. Lemos",
+  "bibliographic_year": 2026,
+  "identifier": "10.82124/CEAS-GNC-2026-069",
+  "actual_arxiv_version": null,
+  "actual_version": "EuroGNC 2026官方归档29页PDF，CEAS-GNC-2026-069；题名按实际PDF，DOI按其印刷登记。Crossref未返回记录、解析器未核实。",
+  "source_sha256": "0e8d6b4e838a0e4fe75ab73bab559af59acb266149df50c389111eb6f8d32f50",
+  "source_format": "PDF",
+  "primary_url": "https://eurognc.ceas.org/archive/EuroGNC2026/pdf/CEAS-GNC-2026-069.pdf",
+  "human_verified": false,
+  "formal_version_text_compared": false,
+  "doi_verification": "printed_in_official_conference_pdf; Crossref returned 404 and resolver could not be checked",
+  "doi_external_registration_verified": false
+}

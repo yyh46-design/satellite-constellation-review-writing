@@ -1,0 +1,251 @@
+{
+  "selected_source_ids": [
+    "S021",
+    "S022",
+    "S023",
+    "S024",
+    "S025",
+    "S026",
+    "S027",
+    "S028",
+    "S029",
+    "S030"
+  ],
+  "excluded_duplicate_rechecks": [
+    "L066"
+  ],
+  "successful_or_last_attempt_records": [
+    {
+      "id": "S021",
+      "status": "pdf_acquired",
+      "url": "https://orbilu.uni.lu/bitstream/10993/64742/1/1-s2.0-S0094576525001432-main.pdf",
+      "path": "D:\\SKT727\\materials\\constellation_review_B15_20261020\\S021.pdf",
+      "sha256": "c14494be000d48dd01e7e678d70fa6494d8ba334981a3ee605abebac0b3b3882",
+      "pages": 19,
+      "characters": 103092,
+      "attempts": []
+    },
+    {
+      "id": "S022",
+      "status": "pdf_acquired",
+      "url": "https://arxiv.org/pdf/2402.09382v4",
+      "path": "D:\\SKT727\\materials\\constellation_review_B15_20261020\\S022.pdf",
+      "sha256": "5a0328bb97f36c70873ce8986fa4d8944cc6f250f63c09c0fbef23ffeca733c0",
+      "pages": 14,
+      "characters": 75684,
+      "attempts": []
+    },
+    {
+      "id": "S023",
+      "status": "pdf_acquired",
+      "url": "https://web.eecs.umich.edu/~necmiye/pubs/YangYO_cdc25.pdf",
+      "path": "D:\\SKT727\\materials\\constellation_review_B15_20261020\\S023.pdf",
+      "sha256": "7d0583a5d93e0c84d89fd05538b74b05080cc7e04f3e0542fcc0287a087b48d4",
+      "pages": 7,
+      "characters": 36343,
+      "attempts": []
+    },
+    {
+      "id": "S024",
+      "status": "pdf_acquired",
+      "url": "https://www.engineering.org.cn/engi/EN/PDF/10.1016/j.eng.2026.04.014",
+      "path": "D:\\SKT727\\materials\\constellation_review_B15_20261020\\S024.pdf",
+      "sha256": "3d727ff9675117d8c705c758506d7ccfed226d29bb39112cc0e786b412682d7f",
+      "pages": 31,
+      "characters": 44758,
+      "attempts": []
+    },
+    {
+      "id": "S025",
+      "status": "pdf_acquired",
+      "url": "https://eurognc.ceas.org/archive/EuroGNC2026/pdf/CEAS-GNC-2026-020.pdf",
+      "path": "D:\\SKT727\\materials\\constellation_review_B15_20261020\\S025.pdf",
+      "sha256": "51af856bf836da1758cf77eaec73b09db7a885701ba9d662e4ffbbd28cb06fb4",
+      "pages": 22,
+      "characters": 64987,
+      "attempts": []
+    },
+    {
+      "id": "S026",
+      "status": "pdf_acquired",
+      "url": "https://arxiv.org/pdf/2309.16698",
+      "path": "D:\\SKT727\\materials\\constellation_review_B15_20261020\\S026.pdf",
+      "sha256": "6e85c9a5ac50aa11d34fd563c3f1beb4d4f80f504999e14ae9ea5eddb1c1c1bd",
+      "pages": 23,
+      "characters": 73201,
+      "attempts": []
+    },
+    {
+      "id": "S027",
+      "status": "pdf_acquired",
+      "url": "https://arxiv.org/pdf/2204.13251",
+      "path": "D:\\SKT727\\materials\\constellation_review_B15_20261020\\S027.pdf",
+      "sha256": "9873a874fad3d291373377c6371bc126d8c3950aec4e6da0ea112e8d865b3a92",
+      "pages": 8,
+      "characters": 39150,
+      "attempts": []
+    },
+    {
+      "id": "S028",
+      "status": "pdf_acquired",
+      "attempts": [
+        {
+          "url": "https://www.mdpi.com/2226-4310/9/10/556/pdf",
+          "error": "  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current\n                                 Dload  Upload   Total   Spent    Left  Speed\n\n  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\n  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\ncurl: (22) The requested URL returned error: 403\n"
+        }
+      ],
+      "url": "https://mdpi-res.com/d_attachment/aerospace/aerospace-09-00556/article_deploy/aerospace-09-00556.pdf",
+      "path": "D:\\SKT727\\materials\\constellation_review_B15_20261020\\S028.pdf",
+      "sha256": "dffec42384b4e934f95b7bf665bce7d340cb7456dd852c4b5c13a843bc81e8c9",
+      "pages": 21,
+      "characters": 45634
+    },
+    {
+      "id": "S029",
+      "status": "pdf_acquired",
+      "url": "https://eurognc.ceas.org/archive/EuroGNC2026/pdf/CEAS-GNC-2026-069.pdf",
+      "path": "D:\\SKT727\\materials\\constellation_review_B15_20261020\\S029.pdf",
+      "sha256": "0e8d6b4e838a0e4fe75ab73bab559af59acb266149df50c389111eb6f8d32f50",
+      "pages": 29,
+      "characters": 87773,
+      "attempts": []
+    },
+    {
+      "id": "L066",
+      "status": "xml_acquired",
+      "attempts": [
+        {
+          "url": "https://journals.sagepub.com/doi/pdf/10.1177/0036850419884432",
+          "error": "  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current\n                                 Dload  Upload   Total   Spent    Left  Speed\n\n  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\n  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\ncurl: (22) The requested URL returned error: 403\n"
+        }
+      ],
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10452794/fullTextXML",
+      "path": "D:\\SKT727\\materials\\constellation_review_B15_20261020\\L066.xml",
+      "sha256": "7b369ae6cd20d6dd9aee1449073d409c3a956ac9d00293271a3978f79d71aae4",
+      "body_sections": 5,
+      "characters": 21999,
+      "additional_failed_url": "https://europepmc.org/articles/PMC10452794?pdf=render (403)"
+    },
+    {
+      "id": "S030",
+      "status": "pdf_acquired",
+      "url": "https://arxiv.org/pdf/2410.03885",
+      "path": "D:\\SKT727\\materials\\constellation_review_B15_20261020\\S030.pdf",
+      "sha256": "618ed1e62d6ef89e963ef8e5668631d74837a0d6264d6db6711508ce60e3c5da",
+      "pages": 15,
+      "characters": 72483,
+      "attempts": []
+    }
+  ],
+  "initial_attempt_snapshot": [
+    {
+      "id": "S021",
+      "status": "pdf_acquired",
+      "url": "https://orbilu.uni.lu/bitstream/10993/64742/1/1-s2.0-S0094576525001432-main.pdf",
+      "path": "D:\\SKT727\\materials\\constellation_review_B15_20261020\\S021.pdf",
+      "sha256": "c14494be000d48dd01e7e678d70fa6494d8ba334981a3ee605abebac0b3b3882",
+      "pages": 19,
+      "characters": 103092,
+      "attempts": []
+    },
+    {
+      "id": "S022",
+      "status": "pdf_acquired",
+      "url": "https://arxiv.org/pdf/2402.09382v4",
+      "path": "D:\\SKT727\\materials\\constellation_review_B15_20261020\\S022.pdf",
+      "sha256": "5a0328bb97f36c70873ce8986fa4d8944cc6f250f63c09c0fbef23ffeca733c0",
+      "pages": 14,
+      "characters": 75684,
+      "attempts": []
+    },
+    {
+      "id": "S023",
+      "status": "pdf_acquired",
+      "url": "https://web.eecs.umich.edu/~necmiye/pubs/YangYO_cdc25.pdf",
+      "path": "D:\\SKT727\\materials\\constellation_review_B15_20261020\\S023.pdf",
+      "sha256": "7d0583a5d93e0c84d89fd05538b74b05080cc7e04f3e0542fcc0287a087b48d4",
+      "pages": 7,
+      "characters": 36343,
+      "attempts": []
+    },
+    {
+      "id": "S024",
+      "status": "pdf_acquired",
+      "url": "https://www.engineering.org.cn/engi/EN/PDF/10.1016/j.eng.2026.04.014",
+      "path": "D:\\SKT727\\materials\\constellation_review_B15_20261020\\S024.pdf",
+      "sha256": "3d727ff9675117d8c705c758506d7ccfed226d29bb39112cc0e786b412682d7f",
+      "pages": 31,
+      "characters": 44758,
+      "attempts": []
+    },
+    {
+      "id": "S025",
+      "status": "pdf_acquired",
+      "url": "https://eurognc.ceas.org/archive/EuroGNC2026/pdf/CEAS-GNC-2026-020.pdf",
+      "path": "D:\\SKT727\\materials\\constellation_review_B15_20261020\\S025.pdf",
+      "sha256": "51af856bf836da1758cf77eaec73b09db7a885701ba9d662e4ffbbd28cb06fb4",
+      "pages": 22,
+      "characters": 64987,
+      "attempts": []
+    },
+    {
+      "id": "S026",
+      "status": "pdf_acquired",
+      "url": "https://arxiv.org/pdf/2309.16698",
+      "path": "D:\\SKT727\\materials\\constellation_review_B15_20261020\\S026.pdf",
+      "sha256": "6e85c9a5ac50aa11d34fd563c3f1beb4d4f80f504999e14ae9ea5eddb1c1c1bd",
+      "pages": 23,
+      "characters": 73201,
+      "attempts": []
+    },
+    {
+      "id": "S027",
+      "status": "pdf_acquired",
+      "url": "https://arxiv.org/pdf/2204.13251",
+      "path": "D:\\SKT727\\materials\\constellation_review_B15_20261020\\S027.pdf",
+      "sha256": "9873a874fad3d291373377c6371bc126d8c3950aec4e6da0ea112e8d865b3a92",
+      "pages": 8,
+      "characters": 39150,
+      "attempts": []
+    },
+    {
+      "id": "S028",
+      "status": "failed",
+      "attempts": [
+        {
+          "url": "https://www.mdpi.com/2226-4310/9/10/556/pdf",
+          "error": "  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current\n                                 Dload  Upload   Total   Spent    Left  Speed\n\n  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\n  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\ncurl: (22) The requested URL returned error: 403\n"
+        }
+      ]
+    },
+    {
+      "id": "S029",
+      "status": "pdf_acquired",
+      "url": "https://eurognc.ceas.org/archive/EuroGNC2026/pdf/CEAS-GNC-2026-069.pdf",
+      "path": "D:\\SKT727\\materials\\constellation_review_B15_20261020\\S029.pdf",
+      "sha256": "0e8d6b4e838a0e4fe75ab73bab559af59acb266149df50c389111eb6f8d32f50",
+      "pages": 29,
+      "characters": 87773,
+      "attempts": []
+    },
+    {
+      "id": "L066",
+      "status": "failed",
+      "attempts": [
+        {
+          "url": "https://journals.sagepub.com/doi/pdf/10.1177/0036850419884432",
+          "error": "  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current\n                                 Dload  Upload   Total   Spent    Left  Speed\n\n  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\n  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\ncurl: (22) The requested URL returned error: 403\n"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    "记录已知获取与重试，不声称覆盖全部网络请求。",
+    "最终计入10份PDF，共189页；另有L066重复补核XML，不计新增精读或原池进度。",
+    "S028出版社网页/PDF入口403，公开静态资源域PDF取得完整21页。",
+    "L066的Sage及Europe PMC PDF渲染入口403；公开全文API取得XML，最终去重发现已在B12精读，单列补核记录。",
+    "ScienceDirect/IEEE部分高优先候选仅有摘要或无法取得全文，未列入精读计数。",
+    "S025/S029官方会议PDF上的DOI原样登记；Crossref404和解析器未核实状态保留。",
+    "S026/S027/S030实际仅固定arXiv v1，未版本下载URL和版本身份分列。"
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "DOI": "10.3390/aerospace9100556",
+  "title": [
+    "Research into a Consistency Cooperative Control Method for Attitude Orbit Coupling of SAR Satellite Formations under Communication Constraints"
+  ],
+  "author": [
+    {
+      "given": "Bing",
+      "family": "Hua",
+      "sequence": "first",
+      "affiliation": [
+        {
+          "name": "Department of Aerospace Control Engineering, Aerospace Academy Department, Nanjing University of Aeronautics and Astronautics, Nanjing 211100, China"
+        }
+      ],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-7880-0863",
+      "authenticated-orcid": false,
+      "given": "Shengjun",
+      "family": "Zhong",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Department of Aerospace Control Engineering, Aerospace Academy Department, Nanjing University of Aeronautics and Astronautics, Nanjing 211100, China"
+        }
+      ],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    },
+    {
+      "given": "Yunhua",
+      "family": "Wu",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Department of Aerospace Control Engineering, Aerospace Academy Department, Nanjing University of Aeronautics and Astronautics, Nanjing 211100, China"
+        }
+      ],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-8771-4051",
+      "authenticated-orcid": false,
+      "given": "Zhiming",
+      "family": "Chen",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Department of Aerospace Control Engineering, Aerospace Academy Department, Nanjing University of Aeronautics and Astronautics, Nanjing 211100, China"
+        }
+      ],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    }
+  ],
+  "published": {
+    "date-parts": [
+      [
+        2022,
+        9,
+        27
+      ]
+    ]
+  },
+  "published-online": {
+    "date-parts": [
+      [
+        2022,
+        9,
+        27
+      ]
+    ]
+  },
+  "container-title": [
+    "Aerospace"
+  ],
+  "type": "journal-article",
+  "URL": "https://doi.org/10.3390/aerospace9100556"
+}

@@ -1,0 +1,54 @@
+{
+  "batch": "B15_20261020",
+  "base_commit": "c8e6441a93b977d12b7e4194632c0724d9880276",
+  "branch": "research/constellation-review-reading-b15-safety-20261020",
+  "topic": "multi-spacecraft safety adoption under communication and actuation constraints",
+  "batch_limit": 10,
+  "original_pool_total": 80,
+  "original_pool_close_read_this_batch": 0,
+  "original_pool_close_read_cumulative": 20,
+  "original_pool_remaining": 60,
+  "original_pool_ids_this_batch": [],
+  "topic_supplement_close_read_this_batch": 10,
+  "topic_supplement_close_read_cumulative": 30,
+  "B11_through_B15_close_read_records": 50,
+  "close_read_ids": [
+    "S021",
+    "S022",
+    "S023",
+    "S024",
+    "S025",
+    "S026",
+    "S027",
+    "S028",
+    "S029",
+    "S030"
+  ],
+  "multi_spacecraft_papers": 4,
+  "general_multi_agent_foundation_papers": 3,
+  "single_controlled_spacecraft_foundation_papers": 3,
+  "pdf_files_acquired_and_read": 10,
+  "pdf_total_pages": 189,
+  "actual_visual_page_count": 35,
+  "claim_count": 45,
+  "excluded_duplicate_rechecks": [
+    "L066"
+  ],
+  "related_research_line": [
+    "B13:S007",
+    "B15:S026"
+  ],
+  "unresolved_source_issues": [
+    "S028 printed Young-inequality direction and switching-edge parameter interpretation",
+    "S025/S029 printed DOIs not externally registered/resolve verified",
+    "Separate excluded L066 recheck: XML Eq51 row sums; no new reading credit"
+  ],
+  "inherited_version_pairing_pending": [
+    "B13:S008 newer arXiv v2 unread"
+  ],
+  "human_verified": false,
+  "submission_ready": false,
+  "manuscript_modified": false,
+  "historical_reading_totals_updated": false,
+  "stop_after_batch": true
+}
