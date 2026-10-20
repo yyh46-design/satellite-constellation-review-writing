@@ -1,0 +1,20 @@
+{
+  "status": "PASS",
+  "batch": "B13_20261020",
+  "sources": 10,
+  "claims": 43,
+  "pdf_pages": 181,
+  "local_original_source_hashes_checked": 10,
+  "local_visual_hashes_checked": 24,
+  "missing_local_files": [],
+  "original80_pool_after_batch": {
+    "close_read": 20,
+    "not_close_read": 60
+  },
+  "separate_topic_supplements": 10,
+  "prior_B11_B12_inherited_files_unchanged": 73,
+  "manuscript_sha256_unchanged": "c9d1af6f12d412897a1434ddf082101b2db7491274fb0425896a3f01c7db5a15",
+  "outside_batch_tracked_changes": [],
+  "human_verified": false,
+  "scope": "File identity, evidence links, locators, counting and change scope only; no reproduction, proof or scientific correctness certificate"
+}

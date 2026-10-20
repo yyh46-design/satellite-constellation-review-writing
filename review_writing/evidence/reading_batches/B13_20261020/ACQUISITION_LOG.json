@@ -1,0 +1,219 @@
+{
+  "successful_or_last_attempt_records": [
+    {
+      "id": "S001",
+      "status": "pdf_acquired",
+      "url": "https://arxiv.org/pdf/2502.10480",
+      "path": "D:\\SKT727\\materials\\constellation_review_B13_20261020\\S001.pdf",
+      "sha256": "bf53cc5d7b8298ecf47908929f801ddf1e32341ca366ca925cb60dfe37268afe",
+      "pages": 20,
+      "characters": 45925,
+      "attempts": []
+    },
+    {
+      "id": "S002",
+      "status": "pdf_acquired",
+      "url": "https://arxiv.org/pdf/2609.26593v1",
+      "path": "D:\\SKT727\\materials\\constellation_review_B13_20261020\\S002.pdf",
+      "sha256": "787d6132e7d00827e5f9243f4f8a659235d2944b04f2acc35d6a236efcd1684c",
+      "pages": 14,
+      "characters": 28839,
+      "attempts": []
+    },
+    {
+      "id": "S003",
+      "status": "pdf_acquired",
+      "url": "https://xhxue.cn/data/2019_CCC_Distributed_Connectivity.pdf",
+      "path": "D:\\SKT727\\materials\\constellation_review_B13_20261020\\S003.pdf",
+      "sha256": "9fb1bd87ecfd88bcf2ab7b941d3d2fab49c2fa27d8b66ce9902b41e0bf0adb0f",
+      "pages": 6,
+      "characters": 26654,
+      "attempts": []
+    },
+    {
+      "id": "S004",
+      "status": "pdf_acquired",
+      "url": "https://xhxue.cn/data/2022_GNC_Connectivity_Preservation.pdf",
+      "path": "D:\\SKT727\\materials\\constellation_review_B13_20261020\\S004.pdf",
+      "sha256": "cd579b2b8b61292cd469ce6a61b08bc8271ed722d735447ff0a8c8bad73c997b",
+      "pages": 13,
+      "characters": 22882,
+      "attempts": []
+    },
+    {
+      "id": "S005",
+      "status": "pdf_acquired",
+      "url": "https://xhxue.cn/data/2024_Xue_aerospace-11-00612.pdf",
+      "path": "D:\\SKT727\\materials\\constellation_review_B13_20261020\\S005.pdf",
+      "sha256": "ad8aeb344c9732595117faa06c1e6df8fd09eb350a12e5f8524cf4eaad0ecf9e",
+      "pages": 20,
+      "characters": 46842,
+      "attempts": []
+    },
+    {
+      "id": "S006",
+      "status": "pdf_acquired",
+      "url": "https://global.xhxue.cn/data/2021_ASR_Connectivity_Preservation.pdf",
+      "path": "D:\\SKT727\\materials\\constellation_review_B13_20261020\\S006.pdf",
+      "sha256": "358d68d763d8b20bf2e93a5ed0cda426fa47ac0d263d5d15246569e388aba111",
+      "pages": 11,
+      "characters": 38177,
+      "attempts": []
+    },
+    {
+      "id": "S007",
+      "status": "pdf_acquired",
+      "url": "https://slab.stanford.edu/sites/g/files/sbiybj25201/files/media/file/guffantidamico_acc22_proceedings.pdf",
+      "path": "D:\\SKT727\\materials\\constellation_review_B13_20261020\\S007.pdf",
+      "sha256": "c341490a940e3eb45969c5047200b5b6714bd18d25481d4b36b3d41b380db590",
+      "pages": 8,
+      "characters": 43686,
+      "attempts": []
+    },
+    {
+      "id": "S008",
+      "status": "pdf_acquired",
+      "attempts": [
+        {
+          "url": "https://arxiv.org/pdf/2504.20386",
+          "error": "curl: (28) Operation timed out after 90009 milliseconds with 9830400 out of 32389043 bytes received"
+        }
+      ],
+      "url": "https://arxiv.org/pdf/2504.20386v1",
+      "path": "D:\\SKT727\\materials\\constellation_review_B13_20261020\\S008.pdf",
+      "sha256": "f6038c262243200a2e3166f18fd7e9615ff5757272ac33acc3d2bd73c737b135",
+      "pages": 29,
+      "characters": 87302,
+      "completion_note": "420-second request reset after 22913600 bytes; resumed with HTTP Range, curl exit 0; PdfReader parsed complete file"
+    },
+    {
+      "id": "S009",
+      "status": "pdf_acquired",
+      "url": "https://eurognc.ceas.org/archive/EuroGNC2022/pdf/CEAS-GNC-2022-026.pdf",
+      "path": "D:\\SKT727\\materials\\constellation_review_B13_20261020\\S009.pdf",
+      "sha256": "dedb77d69aee4e714566492b9e6a81c8823b0aa8fc6e9875ee3c249b849b25e8",
+      "pages": 15,
+      "characters": 41955,
+      "attempts": []
+    },
+    {
+      "id": "S010",
+      "status": "pdf_acquired",
+      "url": "https://madsalma.github.io/pubs/2026_jsr_satellite.pdf",
+      "path": "D:\\SKT727\\materials\\constellation_review_B13_20261020\\S010.pdf",
+      "sha256": "9519e443b3dd80f6b33057de516adc78c76fb5e976ed0d9d980289e8ba89be70",
+      "pages": 45,
+      "characters": 118537,
+      "attempts": []
+    }
+  ],
+  "prior_initial_attempt_snapshot": [
+    {
+      "id": "S001",
+      "status": "failed",
+      "attempts": [
+        {
+          "url": "https://arxiv.org/pdf/2502.10480v1",
+          "error": "curl: (28) Operation timed out after 90013 milliseconds with 9469952 out of 10744202 bytes received"
+        }
+      ]
+    },
+    {
+      "id": "S002",
+      "status": "pdf_acquired",
+      "url": "https://arxiv.org/pdf/2609.26593v1",
+      "path": "D:\\SKT727\\materials\\constellation_review_B13_20261020\\S002.pdf",
+      "sha256": "787d6132e7d00827e5f9243f4f8a659235d2944b04f2acc35d6a236efcd1684c",
+      "pages": 14,
+      "characters": 28839,
+      "attempts": []
+    },
+    {
+      "id": "S003",
+      "status": "pdf_acquired",
+      "url": "https://xhxue.cn/data/2019_CCC_Distributed_Connectivity.pdf",
+      "path": "D:\\SKT727\\materials\\constellation_review_B13_20261020\\S003.pdf",
+      "sha256": "9fb1bd87ecfd88bcf2ab7b941d3d2fab49c2fa27d8b66ce9902b41e0bf0adb0f",
+      "pages": 6,
+      "characters": 26654,
+      "attempts": []
+    },
+    {
+      "id": "S004",
+      "status": "pdf_acquired",
+      "url": "https://xhxue.cn/data/2022_GNC_Connectivity_Preservation.pdf",
+      "path": "D:\\SKT727\\materials\\constellation_review_B13_20261020\\S004.pdf",
+      "sha256": "cd579b2b8b61292cd469ce6a61b08bc8271ed722d735447ff0a8c8bad73c997b",
+      "pages": 13,
+      "characters": 22882,
+      "attempts": []
+    },
+    {
+      "id": "S005",
+      "status": "pdf_acquired",
+      "url": "https://xhxue.cn/data/2024_Xue_aerospace-11-00612.pdf",
+      "path": "D:\\SKT727\\materials\\constellation_review_B13_20261020\\S005.pdf",
+      "sha256": "ad8aeb344c9732595117faa06c1e6df8fd09eb350a12e5f8524cf4eaad0ecf9e",
+      "pages": 20,
+      "characters": 46842,
+      "attempts": []
+    },
+    {
+      "id": "S006",
+      "status": "pdf_acquired",
+      "url": "https://global.xhxue.cn/data/2021_ASR_Connectivity_Preservation.pdf",
+      "path": "D:\\SKT727\\materials\\constellation_review_B13_20261020\\S006.pdf",
+      "sha256": "358d68d763d8b20bf2e93a5ed0cda426fa47ac0d263d5d15246569e388aba111",
+      "pages": 11,
+      "characters": 38177,
+      "attempts": []
+    },
+    {
+      "id": "S007",
+      "status": "pdf_acquired",
+      "url": "https://slab.stanford.edu/sites/g/files/sbiybj25201/files/media/file/guffantidamico_acc22_proceedings.pdf",
+      "path": "D:\\SKT727\\materials\\constellation_review_B13_20261020\\S007.pdf",
+      "sha256": "c341490a940e3eb45969c5047200b5b6714bd18d25481d4b36b3d41b380db590",
+      "pages": 8,
+      "characters": 43686,
+      "attempts": []
+    },
+    {
+      "id": "S008",
+      "status": "failed",
+      "attempts": [
+        {
+          "url": "https://arxiv.org/pdf/2504.20386v1",
+          "error": "curl: (28) Operation timed out after 90014 milliseconds with 4276224 out of 34438072 bytes received"
+        }
+      ]
+    },
+    {
+      "id": "S009",
+      "status": "pdf_acquired",
+      "url": "https://eurognc.ceas.org/archive/EuroGNC2022/pdf/CEAS-GNC-2022-026.pdf",
+      "path": "D:\\SKT727\\materials\\constellation_review_B13_20261020\\S009.pdf",
+      "sha256": "dedb77d69aee4e714566492b9e6a81c8823b0aa8fc6e9875ee3c249b849b25e8",
+      "pages": 15,
+      "characters": 41955,
+      "attempts": []
+    },
+    {
+      "id": "S010",
+      "status": "pdf_acquired",
+      "url": "https://madsalma.github.io/pubs/2026_jsr_satellite.pdf",
+      "path": "D:\\SKT727\\materials\\constellation_review_B13_20261020\\S010.pdf",
+      "sha256": "9519e443b3dd80f6b33057de516adc78c76fb5e976ed0d9d980289e8ba89be70",
+      "pages": 45,
+      "characters": 118537,
+      "attempts": []
+    }
+  ],
+  "notes": [
+    "保存取得的结果和已知重试，不声称记录全部网络请求。",
+    "S001首次90秒时限不足，重试取得v1。",
+    "S008短时限请求失败；420秒请求在22913600字节连接重置，使用HTTP Range续传后curl返回0，完整PdfReader解析29页。",
+    "S008未版本URL曾尝试获取较新版但未完成；本批最终阅读并固定的是v1，未将v2摘要和接收信息当作v2全文精读。",
+    "本批只把取得完整正文并实际阅读的10篇计入；原池受限摘要候选不计入。"
+  ]
+}

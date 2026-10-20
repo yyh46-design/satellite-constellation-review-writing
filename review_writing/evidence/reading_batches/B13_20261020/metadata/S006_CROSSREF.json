@@ -1,0 +1,122 @@
+{
+  "DOI": "10.1016/j.asr.2020.05.036",
+  "title": [
+    "Connectivity preservation and collision avoidance control for spacecraft formation flying in the presence of multiple obstacles"
+  ],
+  "author": [
+    {
+      "given": "Xianghong",
+      "family": "Xue",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Xiaokui",
+      "family": "Yue",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Jianping",
+      "family": "Yuan",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "container-title": [
+    "Advances in Space Research"
+  ],
+  "publisher": "Elsevier BV",
+  "volume": "67",
+  "issue": "11",
+  "page": "3504-3514",
+  "published": {
+    "date-parts": [
+      [
+        2021,
+        6
+      ]
+    ]
+  },
+  "published-online": null,
+  "published-print": {
+    "date-parts": [
+      [
+        2021,
+        6
+      ]
+    ]
+  },
+  "URL": "https://doi.org/10.1016/j.asr.2020.05.036",
+  "resource": {
+    "primary": {
+      "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0273117720303690"
+    }
+  },
+  "link": [
+    {
+      "URL": "https://api.elsevier.com/content/article/PII:S0273117720303690?httpAccept=text/xml",
+      "content-type": "text/xml",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://api.elsevier.com/content/article/PII:S0273117720303690?httpAccept=text/plain",
+      "content-type": "text/plain",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    }
+  ],
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2021,
+            6,
+            1
+          ]
+        ],
+        "date-time": "2021-06-01T00:00:00Z",
+        "timestamp": 1622505600000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2021,
+            6,
+            1
+          ]
+        ],
+        "date-time": "2021-06-01T00:00:00Z",
+        "timestamp": 1622505600000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "https://www.elsevier.com/legal/tdmrep-license"
+    }
+  ]
+}

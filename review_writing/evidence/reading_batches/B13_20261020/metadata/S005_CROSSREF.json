@@ -1,0 +1,116 @@
+{
+  "DOI": "10.3390/aerospace11080612",
+  "title": [
+    "Leader-Following Connectivity Preservation and Collision Avoidance Control for Multiple Spacecraft with Bounded Actuation"
+  ],
+  "author": [
+    {
+      "ORCID": "https://orcid.org/0000-0002-8708-9890",
+      "authenticated-orcid": false,
+      "given": "Xianghong",
+      "family": "Xue",
+      "sequence": "first",
+      "affiliation": [
+        {
+          "name": "Shaanxi Key Laboratory of Complex System Control and Intelligent Information Processing, Xi’an University of Technology, Xi’an 710048, China"
+        }
+      ],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    },
+    {
+      "given": "Xin",
+      "family": "Wang",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Xi’an Institute of Electromechanical Information Technology, Xi’an 710065, China"
+        }
+      ],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    },
+    {
+      "given": "Nannan",
+      "family": "Han",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Frontiers Science Center for Flexible Electronics, Institute of Flexible Electronics, Northwestern Polytechnical University, Xi’an 710072, China"
+        }
+      ],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    }
+  ],
+  "container-title": [
+    "Aerospace"
+  ],
+  "publisher": "MDPI AG",
+  "volume": "11",
+  "issue": "8",
+  "page": "612",
+  "published": {
+    "date-parts": [
+      [
+        2024,
+        7,
+        26
+      ]
+    ]
+  },
+  "published-online": {
+    "date-parts": [
+      [
+        2024,
+        7,
+        26
+      ]
+    ]
+  },
+  "published-print": null,
+  "URL": "https://doi.org/10.3390/aerospace11080612",
+  "resource": {
+    "primary": {
+      "URL": "https://www.mdpi.com/2226-4310/11/8/612"
+    }
+  },
+  "link": [
+    {
+      "URL": "https://www.mdpi.com/2226-4310/11/8/612/pdf",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2024,
+            7,
+            26
+          ]
+        ],
+        "date-time": "2024-07-26T00:00:00Z",
+        "timestamp": 1721952000000
+      },
+      "content-version": "vor",
+      "delay-in-days": 0,
+      "URL": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  ]
+}

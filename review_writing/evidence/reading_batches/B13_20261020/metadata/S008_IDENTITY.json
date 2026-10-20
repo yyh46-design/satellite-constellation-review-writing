@@ -1,0 +1,14 @@
+{
+  "identifier": "arXiv:2504.20386v1",
+  "title": "Safe and Optimal N-Spacecraft Swarm Reconfiguration in Non-Keplerian Cislunar Orbits",
+  "authors": "Yuji Takubo; Walter Manuel; Ethan Foss; Simone D’Amico",
+  "year": 2025,
+  "actual_version": "实际读取arXiv v1，2025-04-29，29页。检索日发现2025-10-10的v2（网页41页、接收说明）；本批未读取或逐字配对v2，不能称为最新定稿已精读。",
+  "primary_url": "https://arxiv.org/abs/2504.20386v1",
+  "doi_verification": "not_applicable_for_arxiv_id",
+  "body_source_sha256": "f6038c262243200a2e3166f18fd7e9615ff5757272ac33acc3d2bd73c737b135",
+  "newer_version": "arXiv:2504.20386v2",
+  "newer_version_date": "2025-10-10",
+  "newer_version_read": false,
+  "newer_version_pairing": "pending"
+}

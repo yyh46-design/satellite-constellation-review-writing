@@ -1,0 +1,83 @@
+{
+  "DOI": "10.23919/chicc.2019.8866017",
+  "title": [
+    "Distributed Connectivity Maintenance and Collision Avoidance Control of Spacecraft Formation Flying"
+  ],
+  "author": [
+    {
+      "given": "Xianghong",
+      "family": "Xue",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    },
+    {
+      "given": "Xiaokui",
+      "family": "Yue",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    },
+    {
+      "given": "JianPing",
+      "family": "Yuan",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    }
+  ],
+  "container-title": [
+    "2019 Chinese Control Conference (CCC)"
+  ],
+  "publisher": "IEEE",
+  "volume": null,
+  "issue": null,
+  "page": "8265-8270",
+  "published": {
+    "date-parts": [
+      [
+        2019,
+        7
+      ]
+    ]
+  },
+  "published-online": null,
+  "published-print": {
+    "date-parts": [
+      [
+        2019,
+        7
+      ]
+    ]
+  },
+  "URL": "https://doi.org/10.23919/chicc.2019.8866017",
+  "resource": {
+    "primary": {
+      "URL": "https://ieeexplore.ieee.org/document/8866017/"
+    }
+  },
+  "link": [
+    {
+      "URL": "http://xplorestaging.ieee.org/ielx7/8844507/8865119/08866017.pdf?arnumber=8866017",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "license": null
+}

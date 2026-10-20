@@ -1,0 +1,43 @@
+{
+  "batch": "B13_20261020",
+  "base_commit": "e547cd87c474bd4aae13486eb1837f553854d227",
+  "branch": "research/constellation-review-reading-b13-safety-20261020",
+  "topic": "multi-spacecraft cooperative safety control",
+  "batch_limit": 10,
+  "original_pool_total": 80,
+  "original_pool_close_read_this_batch": 0,
+  "original_pool_close_read_cumulative": 20,
+  "original_pool_remaining": 60,
+  "topic_supplement_close_read_this_batch": 10,
+  "B11_B12_B13_close_read_records": 30,
+  "close_read_supplement_ids": [
+    "S001",
+    "S002",
+    "S003",
+    "S004",
+    "S005",
+    "S006",
+    "S007",
+    "S008",
+    "S009",
+    "S010"
+  ],
+  "pdf_files_acquired_and_read": 10,
+  "pdf_total_pages": 181,
+  "actual_visual_page_count": 24,
+  "claim_count": 43,
+  "related_research_chain": [
+    "S003",
+    "S006",
+    "S004",
+    "S005"
+  ],
+  "newer_version_pairing_pending": [
+    "S008"
+  ],
+  "human_verified": false,
+  "submission_ready": false,
+  "manuscript_modified": false,
+  "historical_reading_totals_updated": false,
+  "stop_after_batch": true
+}

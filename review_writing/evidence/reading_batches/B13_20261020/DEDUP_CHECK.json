@@ -1,0 +1,14 @@
+{
+  "method": "exact identifier or normalized long title prefix in structured registers; manual review of matches required",
+  "registers": [
+    "D:\\SKT727\\worktrees\\constellation_review_b13_20261020\\review_writing\\literature\\literature_index_148.csv",
+    "D:\\SKT727\\worktrees\\constellation_review_b13_20261020\\review_writing\\manuscripts\\v3.2-cn\\references\\SOURCE_LIBRARY_95_BASELINE_v3.1.csv",
+    "D:\\SKT727\\outputs\\constellation_review_literature_pool_20261020\\LITERATURE_POOL.json",
+    "D:\\SKT727\\worktrees\\constellation_review_b13_20261020\\review_writing\\evidence\\reading_inventory_20261013\\READING_LEDGER_121.json"
+  ],
+  "matches": [],
+  "prior_B11_B12_sources_checked": 20,
+  "prior_B11_B12_title_or_identifier_duplicates": 0,
+  "reader_decision": "10 topic supplements; original80 numerator unchanged; four Xue papers treated as related development, not independent replications",
+  "scope_limit": "The listed structured registers and B11/B12 source records were checked; not a universal claim over every historical note or all world literature."
+}

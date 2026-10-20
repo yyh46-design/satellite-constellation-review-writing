@@ -1,0 +1,11 @@
+﻿supplement_id,title,identifier,source_id,reading_status,batch,note_path,human_verified
+S001,Safe Multi-agent Satellite Servicing with Control Barrier Functions,arXiv:2502.10480v1,E-B13-S001,AI_BODY_CLOSE_READ_COMPLETE,B13_20261020,READING_S001_CN.md,False
+S002,Decentralized Guidance and Control for Rendezvous and Docking with a Tumbling Target using Multiple Servicers,arXiv:2609.26593v1,E-B13-S002,AI_BODY_CLOSE_READ_COMPLETE,B13_20261020,READING_S002_CN.md,False
+S003,Distributed Connectivity Maintenance and Collision Avoidance Control of Spacecraft Formation Flying,10.23919/ChiCC.2019.8866017,E-B13-S003,AI_BODY_CLOSE_READ_COMPLETE,B13_20261020,READING_S003_CN.md,False
+S004,Connectivity Preservation and Collision Avoidance Control for Spacecraft Formation Flying with Bounded Actuation,10.1007/978-981-15-8155-7_307,E-B13-S004,AI_BODY_CLOSE_READ_COMPLETE,B13_20261020,READING_S004_CN.md,False
+S005,Leader-Following Connectivity Preservation and Collision Avoidance Control for Multiple Spacecraft with Bounded Actuation,10.3390/aerospace11080612,E-B13-S005,AI_BODY_CLOSE_READ_COMPLETE,B13_20261020,READING_S005_CN.md,False
+S006,Connectivity preservation and collision avoidance control for spacecraft formation flying in the presence of multiple obstacles,10.1016/j.asr.2020.05.036,E-B13-S006,AI_BODY_CLOSE_READ_COMPLETE,B13_20261020,READING_S006_CN.md,False
+S007,Robust Passively Safe Spacecraft Swarming via Closed-form and Optimization-based Control Approaches,10.23919/ACC53348.2022.9867216,E-B13-S007,AI_BODY_CLOSE_READ_COMPLETE,B13_20261020,READING_S007_CN.md,False
+S008,Safe and Optimal N-Spacecraft Swarm Reconfiguration in Non-Keplerian Cislunar Orbits,arXiv:2504.20386v1,E-B13-S008,AI_BODY_CLOSE_READ_COMPLETE,B13_20261020,READING_S008_CN.md,False
+S009,Cooperative Platooning and Servicing for Spacecraft Formation Flying using Model Predictive Control,CEAS-GNC-2022-026,E-B13-S009,AI_BODY_CLOSE_READ_COMPLETE,B13_20261020,READING_S009_CN.md,False
+S010,A Hierarchical Control Architecture for Optimal Guidance and Navigation of Satellite Formations,author-preprint-2026-jsr-satellite,E-B13-S010,AI_BODY_CLOSE_READ_COMPLETE,B13_20261020,READING_S010_CN.md,False

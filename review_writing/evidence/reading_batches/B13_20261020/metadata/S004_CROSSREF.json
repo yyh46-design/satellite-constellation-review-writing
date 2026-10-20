@@ -1,0 +1,125 @@
+{
+  "DOI": "10.1007/978-981-15-8155-7_307",
+  "title": [
+    "Connectivity Preservation and Collision Avoidance Control for Spacecraft Formation Flying with Bounded Actuation"
+  ],
+  "author": [
+    {
+      "given": "Xianghong",
+      "family": "Xue",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    },
+    {
+      "given": "Xiaokui",
+      "family": "Yue",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    },
+    {
+      "given": "Jianping",
+      "family": "Yuan",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    }
+  ],
+  "container-title": [
+    "Lecture Notes in Electrical Engineering",
+    "Advances in Guidance, Navigation and Control"
+  ],
+  "publisher": "Springer Singapore",
+  "volume": null,
+  "issue": null,
+  "page": "3685-3697",
+  "published": {
+    "date-parts": [
+      [
+        2021,
+        10,
+        30
+      ]
+    ]
+  },
+  "published-online": {
+    "date-parts": [
+      [
+        2021,
+        10,
+        30
+      ]
+    ]
+  },
+  "published-print": {
+    "date-parts": [
+      [
+        2022
+      ]
+    ]
+  },
+  "URL": "https://doi.org/10.1007/978-981-15-8155-7_307",
+  "resource": {
+    "primary": {
+      "URL": "https://link.springer.com/10.1007/978-981-15-8155-7_307"
+    }
+  },
+  "link": [
+    {
+      "URL": "https://link.springer.com/content/pdf/10.1007/978-981-15-8155-7_307",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2021,
+            10,
+            30
+          ]
+        ],
+        "date-time": "2021-10-30T00:00:00Z",
+        "timestamp": 1635552000000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "https://www.springer.com/tdm"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2021,
+            10,
+            30
+          ]
+        ],
+        "date-time": "2021-10-30T00:00:00Z",
+        "timestamp": 1635552000000
+      },
+      "content-version": "vor",
+      "delay-in-days": 0,
+      "URL": "https://www.springer.com/tdm"
+    }
+  ]
+}

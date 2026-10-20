@@ -1,0 +1,10 @@
+{
+  "identifier": "CEAS-GNC-2022-026",
+  "title": "Cooperative Platooning and Servicing for Spacecraft Formation Flying using Model Predictive Control",
+  "authors": "Pedro Pereira; Bruno Guerreiro; Pedro Lourenço",
+  "year": 2022,
+  "actual_version": "EuroGNC2022会议档案原文，论文编号026，共15页；本批未核实其自身DOI，使用已核实会议编号而不补造DOI。",
+  "primary_url": "https://eurognc.ceas.org/archive/EuroGNC2022/pdf/CEAS-GNC-2022-026.pdf",
+  "doi_verification": "not_verified_do_not_infer",
+  "body_source_sha256": "dedb77d69aee4e714566492b9e6a81c8823b0aa8fc6e9875ee3c249b849b25e8"
+}
