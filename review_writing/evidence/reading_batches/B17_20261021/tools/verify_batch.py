@@ -145,6 +145,7 @@ for n in range(11,17):
 assert len(inherited)==230
 files=[p for p in B.rglob('*') if p.is_file()]
 assert not [p for p in files if p.suffix.lower() in ['.pdf','.png','.jpg','.jpeg','.txt','.xml','.pyc']]
+assert not [p for p in files if b'\r\n' in p.read_bytes()], 'Package must use LF line endings'
 report=dict(status='PASS' if not missing and not register_missing else 'PACKAGE_PASS_EXTERNAL_RECHECK_INCOMPLETE',batch='B17_20261021',sources=10,claims=50,pdf_pages=134,local_original_source_hashes_checked=local_sources,local_visual_hashes_checked=local_visuals,missing_local_files=missing,original80_pool_after_batch={'close_read':20,'not_close_read':60},separate_topic_supplements_cumulative=50,B11_through_B17_close_read_records=70,prior_B11_through_B16_inherited_files_unchanged=len(inherited),prior_source_records_rechecked=prior,dedup_register_hashes_rechecked=registers_rechecked,dedup_registers_not_available=register_missing,held_from_scientific_adoption=['S045'],source_conflicts_preserved=True,manuscript_sha256_unchanged=sha(R/baseline),outside_batch_tracked_changes=outside,human_verified=False,scope='File identity, evidence links, locators, counting and change scope only; no proof, reproduction or scientific correctness certificate')
 if '--write-report' in sys.argv:
  (B/'VALIDATION_REPORT.json').write_text(json.dumps(report,ensure_ascii=False,indent=2)+'\n',encoding='utf-8',newline='\n')
