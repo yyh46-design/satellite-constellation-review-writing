@@ -1,0 +1,20 @@
+{
+  "title": "Spacecraft Formation Control in Deep Space with Reduced Communication Requirement",
+  "authors_as_read": "Javad Lavaei; Ahmadreza Momeni; Amir G. Aghdam",
+  "bibliographic_year": 2008,
+  "identifier": "author-report:TCST.pdf",
+  "actual_arxiv_version": null,
+  "actual_version": "实际读取大学作者站16页未标年报告；相关正式记录为2008年TCST 16(2),268–278、不同题名，DOI 10.1109/TCST.2007.903389。正式11页PDF未取得或逐字配对。",
+  "source_sha256": "9b8061fa6a486beb40e5e6cecc3c8983f201de21526ed718bb42c1919a0afaa1",
+  "source_format": "PDF",
+  "primary_url": "https://users.encs.concordia.ca/~aghdam/TechnicalReports/TCST.pdf",
+  "human_verified": false,
+  "formal_version_text_compared": false,
+  "related_formal_title": "A Model Predictive Decentralized Control Scheme With Reduced Communication Requirement for Spacecraft Formation",
+  "related_formal_doi": "10.1109/TCST.2007.903389",
+  "related_formal_identity_url": "https://authors.library.caltech.edu/records/k6t53-g1s21",
+  "pairing_status": "authors_and_abstract_correspond_but_actual_undated_16page_report_not_compared_to_11page_VoR",
+  "actual_report_year": null,
+  "formal_bibliographic_year": 2008,
+  "text_extraction": "pypdf literal /xHH decoded once; residual /x2 fi and /x3 fl ligatures normalized; raw extraction retained outside Git"
+}

@@ -1,0 +1,51 @@
+{
+  "batch": "B16_20261020",
+  "base_commit": "8cc7f7ec54bf7c013ebd31ca6fcc4a42a7db95b8",
+  "branch": "research/constellation-review-reading-b16-safety-20261020",
+  "topic": "communication schedules, conditional recursive feasibility and intersample safety for cooperative spacecraft decisions",
+  "batch_limit": 10,
+  "original_pool_total": 80,
+  "original_pool_close_read_this_batch": 0,
+  "original_pool_close_read_cumulative": 20,
+  "original_pool_remaining": 60,
+  "original_pool_ids_this_batch": [],
+  "topic_supplement_close_read_this_batch": 10,
+  "topic_supplement_close_read_cumulative": 40,
+  "B11_through_B16_close_read_records": 60,
+  "close_read_ids": [
+    "S031",
+    "S032",
+    "S033",
+    "S034",
+    "S035",
+    "S036",
+    "S037",
+    "S038",
+    "S039",
+    "S040"
+  ],
+  "multi_spacecraft_primary_papers": 5,
+  "general_or_cross_domain_foundation_papers": 4,
+  "single_controlled_spacecraft_foundation_papers": 1,
+  "pdf_files_acquired_and_read": 10,
+  "pdf_total_pages": 140,
+  "actual_visual_page_count": 41,
+  "claim_count": 45,
+  "related_research_line": [
+    "S033 cites S034; not an independent replication"
+  ],
+  "unresolved_source_issues": [
+    "S032 simultaneous constraints versus printed union sets",
+    "S037 actual report and related formal version full-text pairing pending",
+    "S038 PDF versus publisher/Crossref author order",
+    "S039 printed dwell-time subtraction direction"
+  ],
+  "inherited_version_pairing_pending": [
+    "B13:S008 newer arXiv v2 unread"
+  ],
+  "human_verified": false,
+  "submission_ready": false,
+  "manuscript_modified": false,
+  "historical_reading_totals_updated": false,
+  "stop_after_batch": true
+}

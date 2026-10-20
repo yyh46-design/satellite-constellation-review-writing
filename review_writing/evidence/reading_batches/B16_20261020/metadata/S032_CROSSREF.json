@@ -1,0 +1,560 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        6,
+        24
+      ]
+    ],
+    "date-time": "2026-06-24T16:08:11Z",
+    "timestamp": 1782317291143,
+    "version": "3.54.5"
+  },
+  "reference-count": 32,
+  "publisher": "MDPI AG",
+  "issue": "7",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2025,
+            3,
+            29
+          ]
+        ],
+        "date-time": "2025-03-29T00:00:00Z",
+        "timestamp": 1743206400000
+      },
+      "content-version": "vor",
+      "delay-in-days": 0,
+      "URL": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  ],
+  "funder": [
+    {
+      "name": "National Defense Science and Technology Key Laboratory Fund, Research on HighPrecision Satellite Formation Control Technology in Space Microgravity Environments",
+      "award": [
+        "2020Y12066"
+      ],
+      "award-info": [
+        {
+          "award-number": [
+            "2020Y12066"
+          ]
+        }
+      ]
+    }
+  ],
+  "content-domain": {
+    "domain": [],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [
+    "Applied Sciences"
+  ],
+  "abstract": "<jats:p>In satellite formation flying, maintaining a predefined safety distance between the reference satellite and its accompanying satellites is critical to prevent collisions—a requirement that traditional control methods fail to satisfy. This paper proposes a novel safety control algorithm that enforces the relative position constraint as a formal safety condition. Specifically, we construct a high-order control barrier function (HOCBF) tailored to the dynamics of satellite formations, which defines a safety set that guarantees collision avoidance. By formulating and solving a quadratic programming problem embedded with the HOCBF, we obtain a safe controller that ensures the forward invariance of the safety set. Simulation results demonstrate that our controller effectively maintains the required safety distance and prevents collisions under various disturbance scenarios, outperforming conventional methods in terms of response speed and robustness. These findings confirm the practical advantages of the proposed approach for safe satellite formation flying.</jats:p>",
+  "DOI": "10.3390/app15073751",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2025,
+        3,
+        31
+      ]
+    ],
+    "date-time": "2025-03-31T05:10:07Z",
+    "timestamp": 1743397807000
+  },
+  "page": "3751",
+  "update-policy": "https://doi.org/10.3390/mdpi_crossmark_policy",
+  "source": "Crossref",
+  "is-referenced-by-count": 4,
+  "title": [
+    "Safety Control for Satellite Formation Flying via High-Order Control Barrier Functions"
+  ],
+  "prefix": "10.3390",
+  "volume": "15",
+  "author": [
+    {
+      "given": "Xu",
+      "family": "Zhang",
+      "sequence": "first",
+      "affiliation": [
+        {
+          "name": "Institute of Telecommunication and Navigation Satellite, China Academy of Space Technology, Beijing 100089, China"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Haiqiang",
+      "family": "Wang",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Institute of Telecommunication and Navigation Satellite, China Academy of Space Technology, Beijing 100089, China"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Dongze",
+      "family": "Li",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Institute of Telecommunication and Navigation Satellite, China Academy of Space Technology, Beijing 100089, China"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Zijie",
+      "family": "Ji",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Institute of Telecommunication and Navigation Satellite, China Academy of Space Technology, Beijing 100089, China"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "member": "1968",
+  "published-online": {
+    "date-parts": [
+      [
+        2025,
+        3,
+        29
+      ]
+    ]
+  },
+  "reference": [
+    {
+      "key": "ref_1",
+      "doi-asserted-by": "crossref",
+      "first-page": "270",
+      "DOI": "10.2514/2.3681",
+      "article-title": "Satellite formation flying design and evolution",
+      "volume": "38",
+      "author": "Sabol",
+      "year": "2001",
+      "journal-title": "J. Spacecr. Rocket."
+    },
+    {
+      "key": "ref_2",
+      "doi-asserted-by": "crossref",
+      "first-page": "88",
+      "DOI": "10.1016/j.actaastro.2018.07.047",
+      "article-title": "Study of satellite formation flying control using differential lift and drag",
+      "volume": "152",
+      "author": "Ivanov",
+      "year": "2018",
+      "journal-title": "Acta Astronaut."
+    },
+    {
+      "key": "ref_3",
+      "unstructured": "Wang, D., Wu, B., and Poh, E.K. (2016). Satellite Formation Flying: Relative Dynamics, Formation Design, Fuel Optimal Maneuvers and Formation Maintenance, Springer."
+    },
+    {
+      "key": "ref_4",
+      "doi-asserted-by": "crossref",
+      "first-page": "1",
+      "DOI": "10.1016/j.actaastro.2016.01.010",
+      "article-title": "A satellite formation flying approach providing both positioning and tracking",
+      "volume": "122",
+      "author": "Nurge",
+      "year": "2016",
+      "journal-title": "Acta Astronaut."
+    },
+    {
+      "key": "ref_5",
+      "doi-asserted-by": "crossref",
+      "first-page": "653",
+      "DOI": "10.2514/8.8704",
+      "article-title": "Terminal guidance system for satellite rendezvous",
+      "volume": "27",
+      "author": "Clohessy",
+      "year": "1960",
+      "journal-title": "J. Aerosp. Sci."
+    },
+    {
+      "key": "ref_6",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Alfriend, K. (2002, January 5–8). Nonlinear considerations in satellite formation flying. Proceedings of the AIAA/AAS Astrodynamics Specialist Conference and Exhibit, Monterey, CA, USA.",
+      "DOI": "10.2514/6.2002-4741"
+    },
+    {
+      "key": "ref_7",
+      "doi-asserted-by": "crossref",
+      "first-page": "112",
+      "DOI": "10.1016/j.actaastro.2009.01.022",
+      "article-title": "Adaptive control for satellite formation flying under thrust misalignment",
+      "volume": "65",
+      "author": "Lim",
+      "year": "2009",
+      "journal-title": "Acta Astronaut."
+    },
+    {
+      "key": "ref_8",
+      "doi-asserted-by": "crossref",
+      "first-page": "3861",
+      "DOI": "10.1109/TAES.2021.3082707",
+      "article-title": "On autonomous reconfiguration of SAR satellite formation flight with continuous control",
+      "volume": "57",
+      "author": "Servidia",
+      "year": "2021",
+      "journal-title": "IEEE Trans. Aerosp. Electron. Syst."
+    },
+    {
+      "key": "ref_9",
+      "doi-asserted-by": "crossref",
+      "first-page": "1470",
+      "DOI": "10.1007/s40295-020-00233-0",
+      "article-title": "Autonomous precision control of satellite formation flight under unknown time-varying model and environmental uncertainties",
+      "volume": "67",
+      "author": "Cho",
+      "year": "2020",
+      "journal-title": "J. Astronaut. Sci."
+    },
+    {
+      "key": "ref_10",
+      "doi-asserted-by": "crossref",
+      "first-page": "440",
+      "DOI": "10.1109/JPROC.2018.2794879",
+      "article-title": "A survey on formation control of small satellites",
+      "volume": "106",
+      "author": "Liu",
+      "year": "2018",
+      "journal-title": "Proc. IEEE"
+    },
+    {
+      "key": "ref_11",
+      "doi-asserted-by": "crossref",
+      "first-page": "578",
+      "DOI": "10.1016/j.jfranklin.2011.08.009",
+      "article-title": "Adaptive controller design for spacecraft formation flying using sliding mode controller and neural networks",
+      "volume": "349",
+      "author": "Bae",
+      "year": "2012",
+      "journal-title": "J. Frankl. Inst."
+    },
+    {
+      "key": "ref_12",
+      "doi-asserted-by": "crossref",
+      "first-page": "309",
+      "DOI": "10.2514/1.55747",
+      "article-title": "Design of asymptotic second-order sliding mode control for satellite formation flying",
+      "volume": "35",
+      "author": "Li",
+      "year": "2012",
+      "journal-title": "J. Guid. Control Dyn."
+    },
+    {
+      "key": "ref_13",
+      "doi-asserted-by": "crossref",
+      "first-page": "1492",
+      "DOI": "10.2514/1.G002396",
+      "article-title": "Adaptive robust constraint-following control for satellite formation flying with system uncertainty",
+      "volume": "40",
+      "author": "Sun",
+      "year": "2017",
+      "journal-title": "J. Guid. Control Dyn."
+    },
+    {
+      "key": "ref_14",
+      "doi-asserted-by": "crossref",
+      "first-page": "1140",
+      "DOI": "10.2514/1.16812",
+      "article-title": "Collision avoidance for satellites in formation flight",
+      "volume": "29",
+      "author": "Slater",
+      "year": "2006",
+      "journal-title": "J. Guid. Control Dyn."
+    },
+    {
+      "key": "ref_15",
+      "doi-asserted-by": "crossref",
+      "first-page": "5121",
+      "DOI": "10.1109/TCYB.2022.3173683",
+      "article-title": "Satellite formation-containment control emphasis on collision avoidance and uncertainty suppression",
+      "volume": "53",
+      "author": "Sun",
+      "year": "2022",
+      "journal-title": "IEEE Trans. Cybern."
+    },
+    {
+      "key": "ref_16",
+      "doi-asserted-by": "crossref",
+      "first-page": "1050",
+      "DOI": "10.1007/s42405-024-00709-5",
+      "article-title": "Formation Control with Obstacle Avoidance for Heterogeneous Multi-Flying Robots: Connectivity Preservation",
+      "volume": "25",
+      "author": "Ghaderi",
+      "year": "2024",
+      "journal-title": "Int. J. Aeronaut. Space Sci."
+    },
+    {
+      "key": "ref_17",
+      "doi-asserted-by": "crossref",
+      "first-page": "110999",
+      "DOI": "10.1016/j.automatica.2023.110999",
+      "article-title": "Deep reinforcement learning control approach to mitigating actuator attacks",
+      "volume": "152",
+      "author": "Wu",
+      "year": "2023",
+      "journal-title": "Automatica"
+    },
+    {
+      "key": "ref_18",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Ames, A.D., Coogan, S., Egerstedt, M., Notomista, G., Sreenath, K., and Tabuada, P. (2019, January 25–28). Control barrier functions: Theory and applications. Proceedings of the 2019 18th European Control Conference (ECC), Naples, Italy.",
+      "DOI": "10.23919/ECC.2019.8796030"
+    },
+    {
+      "key": "ref_19",
+      "doi-asserted-by": "crossref",
+      "first-page": "3861",
+      "DOI": "10.1109/TAC.2016.2638961",
+      "article-title": "Control barrier function based quadratic programs for safety critical systems",
+      "volume": "62",
+      "author": "Ames",
+      "year": "2016",
+      "journal-title": "IEEE Trans. Autom. Control"
+    },
+    {
+      "key": "ref_20",
+      "doi-asserted-by": "crossref",
+      "first-page": "2267",
+      "DOI": "10.1109/TAC.2021.3074895",
+      "article-title": "Adaptive control barrier functions",
+      "volume": "67",
+      "author": "Xiao",
+      "year": "2021",
+      "journal-title": "IEEE Trans. Autom. Control"
+    },
+    {
+      "key": "ref_21",
+      "doi-asserted-by": "crossref",
+      "first-page": "2444",
+      "DOI": "10.2514/1.G008189",
+      "article-title": "Control-Barrier-Function-Based Cooperative Guidance with Nonuniform Field of View and Input Constraints",
+      "volume": "47",
+      "author": "Tang",
+      "year": "2024",
+      "journal-title": "J. Guid. Control Dyn."
+    },
+    {
+      "key": "ref_22",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Rauscher, M., Kimmel, M., and Hirche, S. (2016, January 9–14). Constrained robot control using control barrier functions. Proceedings of the 2016 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Daejeon, Republic of Korea.",
+      "DOI": "10.1109/IROS.2016.7759067"
+    },
+    {
+      "key": "ref_23",
+      "doi-asserted-by": "crossref",
+      "first-page": "109688",
+      "DOI": "10.1016/j.automatica.2021.109688",
+      "article-title": "Control barrier functions for stochastic systems",
+      "volume": "130",
+      "author": "Clark",
+      "year": "2021",
+      "journal-title": "Automatica"
+    },
+    {
+      "key": "ref_24",
+      "doi-asserted-by": "crossref",
+      "first-page": "3655",
+      "DOI": "10.1109/TAC.2021.3105491",
+      "article-title": "High-order control barrier functions",
+      "volume": "67",
+      "author": "Xiao",
+      "year": "2021",
+      "journal-title": "IEEE Trans. Autom. Control"
+    },
+    {
+      "key": "ref_25",
+      "doi-asserted-by": "crossref",
+      "first-page": "3021",
+      "DOI": "10.1109/TAC.2021.3089639",
+      "article-title": "High-order barrier functions: Robustness, safety, and performance-critical control",
+      "volume": "67",
+      "author": "Tan",
+      "year": "2021",
+      "journal-title": "IEEE Trans. Autom. Control"
+    },
+    {
+      "key": "ref_26",
+      "doi-asserted-by": "crossref",
+      "first-page": "3231",
+      "DOI": "10.1109/TCYB.2022.3170607",
+      "article-title": "Discrete-time control barrier function: High-order case and adaptive case",
+      "volume": "53",
+      "author": "Xiong",
+      "year": "2022",
+      "journal-title": "IEEE Trans. Cybern."
+    },
+    {
+      "key": "ref_27",
+      "doi-asserted-by": "crossref",
+      "first-page": "310",
+      "DOI": "10.1109/LCSYS.2017.2710943",
+      "article-title": "Nonsmooth barrier functions with applications to multi-robot systems",
+      "volume": "1",
+      "author": "Glotfelter",
+      "year": "2017",
+      "journal-title": "IEEE Control Syst. Lett."
+    },
+    {
+      "key": "ref_28",
+      "doi-asserted-by": "crossref",
+      "first-page": "108",
+      "DOI": "10.1109/LCSYS.2018.2853698",
+      "article-title": "Input-to-state safety with control barrier functions",
+      "volume": "3",
+      "author": "Kolathaya",
+      "year": "2018",
+      "journal-title": "IEEE Control Syst. Lett."
+    },
+    {
+      "key": "ref_29",
+      "doi-asserted-by": "crossref",
+      "first-page": "111714",
+      "DOI": "10.1016/j.automatica.2024.111714",
+      "article-title": "Safety reinforcement learning control via transfer learning",
+      "volume": "166",
+      "author": "Zhang",
+      "year": "2024",
+      "journal-title": "Automatica"
+    },
+    {
+      "key": "ref_30",
+      "doi-asserted-by": "crossref",
+      "first-page": "7106",
+      "DOI": "10.1109/TSMC.2024.3448395",
+      "article-title": "Secure Control for Cyber–Physical Systems Subject to Aperiodic DoS Attacks",
+      "volume": "54",
+      "author": "Yin",
+      "year": "2024",
+      "journal-title": "IEEE Trans. Syst. Man Cybern. Syst."
+    },
+    {
+      "key": "ref_31",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Yin, L., Wu, C., Xu, L., Zhu, H., Shao, X., Yao, W., Liu, J., and Wu, L. (IEEE Trans. Autom. Sci. Eng., 2024). Event-Triggered Secure Control Under Aperiodic DoS Attacks, IEEE Trans. Autom. Sci. Eng., early access.",
+      "DOI": "10.1109/TASE.2024.3483169"
+    },
+    {
+      "key": "ref_32",
+      "doi-asserted-by": "crossref",
+      "first-page": "106031",
+      "DOI": "10.1016/j.sysconle.2025.106031",
+      "article-title": "Attack detection and security control for quadrotor under stealthy attacks",
+      "volume": "197",
+      "author": "Wu",
+      "year": "2025",
+      "journal-title": "Syst. Control Lett."
+    }
+  ],
+  "container-title": [
+    "Applied Sciences"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://www.mdpi.com/2076-3417/15/7/3751/pdf",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2025,
+        10,
+        9
+      ]
+    ],
+    "date-time": "2025-10-09T17:05:11Z",
+    "timestamp": 1760029511000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://www.mdpi.com/2076-3417/15/7/3751"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        3,
+        29
+      ]
+    ]
+  },
+  "references-count": 32,
+  "journal-issue": {
+    "issue": "7",
+    "published-online": {
+      "date-parts": [
+        [
+          2025,
+          4
+        ]
+      ]
+    }
+  },
+  "alternative-id": [
+    "app15073751"
+  ],
+  "URL": "https://doi.org/10.3390/app15073751",
+  "relation": {},
+  "ISSN": [
+    "2076-3417"
+  ],
+  "issn-type": [
+    {
+      "value": "2076-3417",
+      "type": "electronic"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2025,
+        3,
+        29
+      ]
+    ]
+  }
+}

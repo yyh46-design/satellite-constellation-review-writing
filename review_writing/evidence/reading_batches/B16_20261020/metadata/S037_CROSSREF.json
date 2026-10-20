@@ -1,0 +1,346 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        2,
+        7
+      ]
+    ],
+    "date-time": "2026-02-07T03:13:29Z",
+    "timestamp": 1770434009133,
+    "version": "3.49.0"
+  },
+  "reference-count": 31,
+  "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+  "issue": "2",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2008,
+            3,
+            1
+          ]
+        ],
+        "date-time": "2008-03-01T00:00:00Z",
+        "timestamp": 1204329600000
+      },
+      "content-version": "vor",
+      "delay-in-days": 0,
+      "URL": "https://ieeexplore.ieee.org/Xplorehelp/downloads/license-information/IEEE.html"
+    }
+  ],
+  "content-domain": {
+    "domain": [],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [
+    "IEEE Trans. Contr. Syst. Technol."
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2008,
+        3
+      ]
+    ]
+  },
+  "DOI": "10.1109/tcst.2007.903389",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2008,
+        2,
+        29
+      ]
+    ],
+    "date-time": "2008-02-29T13:36:54Z",
+    "timestamp": 1204292214000
+  },
+  "page": "268-278",
+  "source": "Crossref",
+  "is-referenced-by-count": 86,
+  "title": [
+    "A Model Predictive Decentralized Control Scheme With Reduced Communication Requirement for Spacecraft Formation"
+  ],
+  "prefix": "10.1109",
+  "volume": "16",
+  "author": [
+    {
+      "given": "J.",
+      "family": "Lavaei",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    },
+    {
+      "given": "A.",
+      "family": "Momeni",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    },
+    {
+      "given": "A.G.",
+      "family": "Aghdam",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    }
+  ],
+  "member": "263",
+  "reference": [
+    {
+      "key": "ref31",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1109/CDC.2005.1582786"
+    },
+    {
+      "key": "ref30",
+      "doi-asserted-by": "crossref",
+      "first-page": "3955",
+      "DOI": "10.1109/CDC.2005.1582779",
+      "article-title": "decentralized receding horizon control of cooperative vehicle formations",
+      "author": "borrelli",
+      "year": "2005",
+      "journal-title": "Proc 44th IEEE Conf Decision Control"
+    },
+    {
+      "key": "ref10",
+      "doi-asserted-by": "crossref",
+      "first-page": "357",
+      "DOI": "10.1049/ip-cta:20040484",
+      "article-title": "formation feedback control for multiple spacecraft via virtual structures",
+      "volume": "151",
+      "author": "ren",
+      "year": "2004",
+      "journal-title": "Proc IEE Control Theory Appl"
+    },
+    {
+      "key": "ref11",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1109/87.865854"
+    },
+    {
+      "key": "ref12",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1109/ACC.2002.1025219"
+    },
+    {
+      "key": "ref13",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1109/AERO.2006.1655996"
+    },
+    {
+      "key": "ref14",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1109/ACC.2006.1657381"
+    },
+    {
+      "key": "ref15",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1109/CDC.2006.377475"
+    },
+    {
+      "key": "ref16",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1109/TAC.1970.1099363"
+    },
+    {
+      "key": "ref17",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/0005-1098(85)90048-2"
+    },
+    {
+      "key": "ref18",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1109/TAC.1987.1104686"
+    },
+    {
+      "key": "ref19",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1109/TAC.1980.1102217"
+    },
+    {
+      "key": "ref28",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.2514/2.5059"
+    },
+    {
+      "key": "ref4",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1109/CDC.2004.1428778"
+    },
+    {
+      "key": "ref27",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1109/CDC.2006.377300"
+    },
+    {
+      "key": "ref3",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1109/CDC.2002.1184201"
+    },
+    {
+      "key": "ref6",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1109/37.887448"
+    },
+    {
+      "key": "ref29",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1109/CDC.2004.1428839"
+    },
+    {
+      "key": "ref5",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1109/TAC.2004.834433"
+    },
+    {
+      "key": "ref8",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1109/CDC.2002.1184667"
+    },
+    {
+      "key": "ref7",
+      "first-page": "1063",
+      "article-title": "application of several control techniques for the ionospheric observation nanosatellite formation",
+      "volume": "112",
+      "author": "naasz",
+      "year": "2002",
+      "journal-title": "Adv Astronautical Sci"
+    },
+    {
+      "key": "ref2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.automatica.2004.02.017"
+    },
+    {
+      "key": "ref9",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1109/37.887447"
+    },
+    {
+      "key": "ref1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1109/TRA.2004.825275"
+    },
+    {
+      "key": "ref20",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/0005-1098(85)90010-X"
+    },
+    {
+      "key": "ref22",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1109/CDC.1990.203316"
+    },
+    {
+      "key": "ref21",
+      "author": "iljak",
+      "year": "1991",
+      "journal-title": "Decentralized Control of Complex Systems"
+    },
+    {
+      "key": "ref24",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1109/9.471207"
+    },
+    {
+      "key": "ref23",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1109/ACC.1994.735200"
+    },
+    {
+      "key": "ref26",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1080/00207177808922510"
+    },
+    {
+      "key": "ref25",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/0005-1098(89)90097-6"
+    }
+  ],
+  "container-title": [
+    "IEEE Transactions on Control Systems Technology"
+  ],
+  "link": [
+    {
+      "URL": "http://xplorestaging.ieee.org/ielx5/87/4456726/04431882.pdf?arnumber=4431882",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2021,
+        11,
+        29
+      ]
+    ],
+    "date-time": "2021-11-29T15:45:21Z",
+    "timestamp": 1638200721000
+  },
+  "score": 37.42424,
+  "resource": {
+    "primary": {
+      "URL": "http://ieeexplore.ieee.org/document/4431882/"
+    }
+  },
+  "issued": {
+    "date-parts": [
+      [
+        2008,
+        3
+      ]
+    ]
+  },
+  "references-count": 31,
+  "journal-issue": {
+    "issue": "2"
+  },
+  "URL": "https://doi.org/10.1109/tcst.2007.903389",
+  "ISSN": [
+    "1063-6536",
+    "1558-0865"
+  ],
+  "issn-type": [
+    {
+      "value": "1063-6536",
+      "type": "print"
+    },
+    {
+      "value": "1558-0865",
+      "type": "electronic"
+    }
+  ],
+  "published": {
+    "date-parts": [
+      [
+        2008,
+        3
+      ]
+    ]
+  }
+}

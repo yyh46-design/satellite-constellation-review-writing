@@ -1,0 +1,28 @@
+{
+  "title": "Optimal Spacecraft Formation Reconfiguration with Collision Avoidance Using Particle Swarm Optimization",
+  "authors_as_read": "Haibin Huang; Yufei Zhuang; Guangfu Ma; Yueyong Lv (actual PDF order)",
+  "bibliographic_year": 2012,
+  "identifier": "10.5755/j01.itc.41.2.854",
+  "actual_arxiv_version": null,
+  "actual_version": "Information Technology and Control 41(2),143–150，2012，出版社8页全文；PDF与Crossref/网页作者顺序不一致，留待人工终核。",
+  "source_sha256": "57b7605ab6a07385e93aba84baf5b4c16c44a8b603578c3fa5a447b076bbd131",
+  "source_format": "PDF",
+  "primary_url": "https://doi.org/10.5755/j01.itc.41.2.854",
+  "human_verified": false,
+  "formal_version_text_compared": false,
+  "author_order_conflict": {
+    "actual_PDF": [
+      "Haibin Huang",
+      "Yufei Zhuang",
+      "Guangfu Ma",
+      "Yueyong Lv"
+    ],
+    "Crossref_and_publisher_page": [
+      "Haibin Huang",
+      "Guangfu Ma",
+      "Yufei Zhuang",
+      "Yueyong Lv"
+    ]
+  },
+  "author_order_resolved": false
+}

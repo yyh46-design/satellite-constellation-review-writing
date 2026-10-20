@@ -1,0 +1,944 @@
+[
+  {
+    "reading_id": "S031",
+    "actual_title": "Semi-Decentralized Multi-Spacecraft Collision Avoidance under Communication Constraints",
+    "title_cn": "按地面站窗口同步的双星半分散避碰规划",
+    "authors": "Grace R. Kim (arXiv: Grace Ra Kim); Mahdi Al-Husseini; Duncan Eddy; Mykel J. Kochenderfer",
+    "year": 2026,
+    "identifier": "arXiv:2607.26570v1",
+    "canonical_url": "https://arxiv.org/abs/2607.26570v1",
+    "actual_version": "arXiv v1，2026-07-29，AAS 26-860预印本，共21页；不是在轨应用报告。",
+    "evidence_role": "multi_spacecraft_pairwise_coordination",
+    "body_pages": [
+      1,
+      18
+    ],
+    "question": "两颗由不同运营方控制的机动卫星，只能间歇经地面交换信息时，何时同步以及如何依据各自信息执行避碰策略？",
+    "inputs": "24 h近圆LEO交会，二维以上轨道传播被约简为TCA处有符号沿轨分离、各星累计漂移及决策阶段；垂直分离作为场景常量。共享初始信念，无直接星间通信。两小时决策点与固定预测地面窗口合并。",
+    "decisions": "近似RS-SDA*离线生成联合策略，上传后按局部信念执行；动作是等待或沿轨±0.5 m/s脉冲，每星仅保留一个未补偿的同向机动层级。返回名义轨道的反向机动仍可选择。",
+    "mechanism": "内层规划把同步日程当作已知输入；外层贪心逐个删减同步机会，并反复重解策略。一次同步把下行、地面协调及返回信息合并为理想事件，没有单列这些链路延迟。完全分散基线仍使用共同离线生成的联合策略。",
+    "validation": "52个合成交会场景，每场景200次连续Brahe传播闭环试验；六站共享地面网络。报告的28.5%是同步事件数减少，4–7 km占比是目标运行带命中率。Pc和地面链路延迟的更细模型留待未来。",
+    "limitations": [
+      "仅双主动星、近圆LEO与受限脉冲；不等同数十星联合优化。",
+      "有限样本未跨越1 km阈值不构成连续不变性或业务碰撞概率认证。",
+      "同步窗口固定、地面信息分发理想化，不能声称已处理任意消息延迟或丢包。",
+      "外层贪心为局部删减，两个案例的关键窗口不构成全场景最小通信证明。"
+    ],
+    "use": "优先用于3.6.3的协调与采用：方案可在共同生成后分散执行，信息更新带来的主要收益可能是减少过度机动；3.6.2仍须另接Pc风险评估。",
+    "claims": [
+      {
+        "text": "双星共享初始信念并离线联合生成策略；同步日程由预测地面窗口固定，地面信息共享被合并成理想事件，没有单独模拟传输延迟。",
+        "pages": [
+          3,
+          4,
+          5
+        ],
+        "locator": "Problem formulation、Ground-Station-Derived Synchronization Schedule",
+        "type": "information_structure",
+        "claim_id": "C-B16-001",
+        "source_id": "E-B16-S031",
+        "claim_text_sha256": "8d4c65eb708d50987595a8d7e65fea4a40912eb349eac5e2c432bf4e74e7a074"
+      },
+      {
+        "text": "动作限等待或沿轨±0.5 m/s脉冲，且每星只有一个未补偿同向漂移层级；TCA垂直分离固定是约简模型前提。",
+        "pages": [
+          5,
+          6,
+          7
+        ],
+        "locator": "reduced state、Action Space及Equation6",
+        "type": "model_boundary",
+        "claim_id": "C-B16-002",
+        "source_id": "E-B16-S031",
+        "claim_text_sha256": "0728d464b7c6683dab2847a1f9aaf8df18bde87d3bc8451ff5761021bb70fe0a"
+      },
+      {
+        "text": "52场景、每场景200次闭环传播中，集中与半分散平均同步27.2与19.4次，作者报告减少28.5%；这是事件计数而非带宽或字节量。",
+        "pages": [
+          12,
+          14,
+          16
+        ],
+        "locator": "evaluation suite、Model Construction and Policy Evaluation及Results",
+        "type": "communication_metric",
+        "claim_id": "C-B16-003",
+        "source_id": "E-B16-S031",
+        "claim_text_sha256": "98123bb5a97c99a464fbd08e8d1952d9546660cf5b15deec104fdb3076227940"
+      },
+      {
+        "text": "4–7 km目标带占比为集中60%、半分散61%、分散28%；各协调策略均未观察到小于1 km的结果，该阈值和目标带均不同于Pc。",
+        "pages": [
+          14,
+          15,
+          16,
+          18
+        ],
+        "locator": "Fig6、Results及Future work",
+        "type": "safety_metric_boundary",
+        "claim_id": "C-B16-004",
+        "source_id": "E-B16-S031",
+        "claim_text_sha256": "5c064135beb48b14f16a1a065956e0244222a47a3bab211b8c038bc1631abbb4"
+      },
+      {
+        "text": "同步删减只展示两个代表场景的局部贪心结果；附录55 m最大约简误差来自无机动TCA比较，不能移作所有机动轨迹安全误差界。",
+        "pages": [
+          10,
+          16,
+          17,
+          18,
+          20
+        ],
+        "locator": "Algorithm1、Figs8–9及AppendixA ApproximationB",
+        "type": "scope_boundary",
+        "claim_id": "C-B16-005",
+        "source_id": "E-B16-S031",
+        "claim_text_sha256": "e5da65693b26e956ff93edaa799406ab1055bb4fd39ebfab01816e980fee74d8"
+      }
+    ],
+    "arxiv": "2607.26570v1",
+    "appendix_scope": "Appendices A/B pp20-21 targeted narrative reading; references pp19-20 skim",
+    "visual_pages": [
+      4,
+      7,
+      14,
+      16,
+      20
+    ]
+  },
+  {
+    "reading_id": "S032",
+    "actual_title": "Safety Control for Satellite Formation Flying via High-Order Control Barrier Functions",
+    "title_cn": "卫星相对运动的高阶障碍函数安全过滤",
+    "authors": "Xu Zhang; Haiqiang Wang; Dongze Li; Zijie Ji",
+    "year": 2025,
+    "identifier": "10.3390/app15073751",
+    "canonical_url": "https://doi.org/10.3390/app15073751",
+    "actual_version": "Applied Sciences 15(7), 3751，2025-03-29，出版社开放全文18页；Crossref题名/DOI匹配。",
+    "evidence_role": "single_controlled_spacecraft_safety_foundation",
+    "body_pages": [
+      1,
+      17
+    ],
+    "question": "如何让一颗伴星在接近参考星时优先满足位置安全条件，并尽量接近既有PD控制输入？",
+    "inputs": "非线性相对动力学与可精确计算的Lie导数；三个位置分量分别设下界。仿真轨道半径8000 km，位置初值从[10,100]、速度从[0,1]选取，三个位置下界均10。",
+    "decisions": "针对相对阶2构造HOCBF，以偏离PD输入最小为目标求安全控制。稳定性要求可以另用带松弛CLF约束表达，但这不等于所有版本均已实现。",
+    "mechanism": "这是单受控伴星相对参考星的过滤器，未构造多个受控星之间的耦合责任分配。安全条件是三个有符号坐标同时大于下界，不是任意相对方向上的球形保护区。",
+    "validation": "三个选定随机初态的数值曲线，对照PD与预测时域2的MPC。MPC明确有[-5,5]输入约束，而安全过滤部分没有相同饱和约束；结论将执行器限制、不确定性和不完美通信、广泛Monte Carlo分析列为后续。",
+    "limitations": [
+      "安全集并集记号与同时满足三项约束的文字不一致，原页已核查，数学解释待作者/人工终核。",
+      "不将单伴星过滤器描述成多星联合可行性保证。",
+      "没有实测逐步优化时长、最坏时长或星载硬件结果。",
+      "三个初态和准确动力学不能支撑未知扰动或任意通信受损条件下的安全性。"
+    ],
+    "use": "用作3.6.3局部安全过滤的有限基础，并对比S036的采样与误差条件；不能作为多星、饱和执行及受损通信的完整证据。",
+    "claims": [
+      {
+        "text": "实际控制对象是一颗伴星相对参考星；安全要求为x1、x3、x5分别大于给定下界，不是一般球形距离约束或多受控星两两避碰。",
+        "pages": [
+          4,
+          6,
+          7
+        ],
+        "locator": "§2.1、aim及§3.1 coordinate constraints",
+        "type": "safety_definition",
+        "claim_id": "C-B16-006",
+        "source_id": "E-B16-S032",
+        "claim_text_sha256": "c4436a870da83f6bab72647f89ea874c1bb15083e2f7c22555e816fcd0172e60"
+      },
+      {
+        "text": "安全过滤未包含执行器饱和；比较MPC却规定输入[-5,5]、预测时域2，因此曲线比较不能证明在相同输入约束下安全方法普遍优越。",
+        "pages": [
+          8,
+          9,
+          17
+        ],
+        "locator": "QP Equation10、MPC parameters及Actuator Constraints",
+        "type": "comparison_boundary",
+        "claim_id": "C-B16-007",
+        "source_id": "E-B16-S032",
+        "claim_text_sha256": "3565d92f7953269305940143ee77fbbdf537379f9f0e5251ae42a71a2f964b2d"
+      },
+      {
+        "text": "验证仅给出三个选定初态；广泛Monte Carlo、不确定性与不完美通信仍属未来工作，平滑输入曲线也不是实测实时计算证据。",
+        "pages": [
+          9,
+          14,
+          16,
+          17
+        ],
+        "locator": "Simulation Results、limitations及Conclusion",
+        "type": "validation_boundary",
+        "claim_id": "C-B16-008",
+        "source_id": "E-B16-S032",
+        "claim_text_sha256": "28e99cf9a7aa7ecc3fd58fa392a616e57cfcef255ab59eae3b268f3f8a4890c9"
+      },
+      {
+        "text": "第7页文字要求三个坐标条件同时成立，但安全集印为C1∪C3∪C5，第8页也保留相关并集记号；当前记录为待澄清不一致，不自行改写为交集或宣称已复核证明。",
+        "pages": [
+          7,
+          8
+        ],
+        "locator": "§3.1 definition of C及higher-order sets",
+        "type": "unresolved_notation",
+        "claim_id": "C-B16-009",
+        "source_id": "E-B16-S032",
+        "claim_text_sha256": "2b88978747913d6b27aa59b674978b9aecc4e500593bcd2afb7698322bf33b1c"
+      }
+    ],
+    "crossref": "S032_CROSSREF.json",
+    "visual_pages": [
+      7,
+      8,
+      9,
+      17
+    ]
+  },
+  {
+    "reading_id": "S033",
+    "actual_title": "Distributed Model Predictive Control for Dynamic Cooperation of Multi-Agent Systems",
+    "title_cn": "以人工周期参考组织协同的分布式MPC",
+    "authors": "Matthias Köhler; Matthias A. Müller; Frank Allgöwer",
+    "year": 2026,
+    "identifier": "arXiv:2504.00225v3",
+    "canonical_url": "https://arxiv.org/abs/2504.00225v3",
+    "actual_version": "arXiv v3，2026-03-09，共19页；首版2025-03-31。以实际v3身份记录，未取得正式期刊终版。",
+    "evidence_role": "general_multi_agent_MPC_with_satellite_example",
+    "body_pages": [
+      1,
+      15
+    ],
+    "question": "不预先给定唯一编队目标轨迹时，如何通过各体共同选择人工参考，使周期任务、局部动力学和耦合约束相容？",
+    "inputs": "异构非线性离散系统、紧约束、无向通信图；假设通信即时且无损，存在可行的周期合作参考及局部终端控制器。参考必须与约束边界保持裕量。",
+    "decisions": "同时优化各体周期合作输出、对应状态/输入与跟踪控制；代价包括合作任务、跟踪与参考变化。下一步沿用上一步参考并平移可行控制作为候选。",
+    "mechanism": "终端成分由各体分散设计，合作参考负责协调；Theorem1以初始优化有可行解和Assumptions2/4/5为条件给出递归可行性。总体稳定及性能分析另需更多假设，不把一个定理覆盖面扩展为全部保证。",
+    "validation": "一般理论配三个数值例：五颗卫星移除其中两颗后再协调、两双积分器窄通道、四四旋翼。卫星例没有使用避碰约束；所有实际数值用次优分散SQP，而分析假设全局最优。代码入口被记录但未运行。",
+    "limitations": [
+      "全局最优假设与实际次优迭代之间的保证恢复在Remark4中仍为猜想条件。",
+      "即时无损通信不覆盖网络受损；固定拓扑理论不能直接覆盖持续任意切换。",
+      "五颗卫星例为计划移除，不是任意节点失效后的安全恢复试验。",
+      "非航天器避碰示例不能与卫星相位重构合并为已验证的星间避碰闭环。"
+    ],
+    "use": "用于解释形成—协调—采用中的中间参考与递归可行接口，特别把“理论优化问题有保证”和“实际有限迭代结果可采用”分开。",
+    "claims": [
+      {
+        "text": "人工周期合作参考与输入共同优化，递归可行性定理以初始可行和参考映射、终端控制、耦合裕量等Assumptions2/4/5为条件。",
+        "pages": [
+          3,
+          4,
+          6
+        ],
+        "locator": "optimization6及Theorem1",
+        "type": "recursive_feasibility_conditions",
+        "claim_id": "C-B16-010",
+        "source_id": "E-B16-S033",
+        "claim_text_sha256": "7231aad6777894fae9e83ac88ff4a6f36b8de2f78dcade48be5adf6809be953c"
+      },
+      {
+        "text": "全文通信假设为无损且即时；理论固定拓扑，拓扑改变时需重新确保初始可行并重置参考变化惩罚，持续切换不支持总体渐近结论。",
+        "pages": [
+          2,
+          15
+        ],
+        "locator": "System assumptions及Conclusion",
+        "type": "communication_boundary",
+        "claim_id": "C-B16-011",
+        "source_id": "E-B16-S033",
+        "claim_text_sha256": "cb4b50ffca86c9b527f63341cf7419a8814dce022a21bda0630d7b0740aca1e0"
+      },
+      {
+        "text": "Remark4明确分析假设全局最优；实际三个数值例均用次优分散SQP，恢复相同保证的附加条件仍被作者称为猜想。",
+        "pages": [
+          9,
+          13
+        ],
+        "locator": "Remark4及§VI numerical implementation",
+        "type": "solver_guarantee_gap",
+        "claim_id": "C-B16-012",
+        "source_id": "E-B16-S033",
+        "claim_text_sha256": "88f2520b8109d2a6cfa88ac6a6670080889476552b01ad447c04497cd258d94b"
+      },
+      {
+        "text": "卫星例由5颗移除2颗后再协调，但明确未使用避碰约束；两体窄通道与四四旋翼避碰结果不能冒充卫星群安全实证。",
+        "pages": [
+          5,
+          14,
+          15
+        ],
+        "locator": "§IV-B、§VI及Figs1–5",
+        "type": "evidence_domain",
+        "claim_id": "C-B16-013",
+        "source_id": "E-B16-S033",
+        "claim_text_sha256": "d6deea76dc1890c399f31bd811767d53068e1dab41da5d34b0a9ad1a96258a22"
+      },
+      {
+        "text": "终端成分可分别设计并不意味着任意合作目标自动满足假设；窄通道例中二次合作目标会导致局部停滞，采用Pseudo-Huber目标的设计是任务成功的关键。",
+        "pages": [
+          3,
+          4,
+          6,
+          14
+        ],
+        "locator": "Assumption7及§VI-A",
+        "type": "objective_design",
+        "claim_id": "C-B16-014",
+        "source_id": "E-B16-S033",
+        "claim_text_sha256": "78b277145a24f07297108219100135e08f350dec89127d75dbcbc3e0f588a52c"
+      }
+    ],
+    "arxiv": "2504.00225v3",
+    "appendix_scope": "Appendix pp15-18 narrative skim and condition checks; references pp18-19 skim",
+    "visual_pages": [
+      2,
+      5,
+      9,
+      15
+    ]
+  },
+  {
+    "reading_id": "S034",
+    "actual_title": "Reconfiguration of a satellite constellation in circular formation orbit with decentralized model predictive control",
+    "title_cn": "邻星信息共享对环形星座再均匀分布的影响",
+    "authors": "Tomas Pippia; Valentin Preda; Samir Bennani; Tamas Keviczky",
+    "year": 2022,
+    "identifier": "arXiv:2201.10399v1",
+    "canonical_url": "https://arxiv.org/abs/2201.10399v1",
+    "actual_version": "arXiv v1，2022-01-25，共13页；2022 EuroGNC相关稿件身份，未逐字配对会议终版。",
+    "evidence_role": "multi_spacecraft_constellation_reconfiguration",
+    "body_pages": [
+      1,
+      11
+    ],
+    "question": "部分卫星离轨留下空缺后，其余星不知道星座总数量时，能否仅依邻居信息重新形成等间隔环形构型？",
+    "inputs": "圆参考轨道下柱坐标HCW，允许较大角位移但径向、高度和角速度偏差仍须小。每星只与最近若干邻星交互；动力学外仅施加最大推力限制。",
+    "decisions": "比较集中MPC、仅获邻星当前状态的FD-MPC、共享邻星上一时刻整段最优预测轨迹的DMPC-IS。目标平衡轨道半径、末端相位与控制总量。",
+    "mechanism": "没有轨迹消息时将邻星未来位置近似冻结；共享预测使各星能预判相位重构。改变邻居数量也改变代价中的参考计算，因此不只是通信量的单变量变化。",
+    "validation": "40颗初始星中5颗离轨，余35颗重构；10组离轨配置，每组匹配比较5个邻居数量。500 km、200 mN、355 s采样、64步预测、400步闭环；真实传播为二体惯性方程ODE45，高保真扰动留待后续。",
+    "limitations": [
+      "正文明确不需要且未加避碰约束，不能将35星规模写成35星避碰验证。",
+      "相位/输入性能比较不是稳定性和递归可行性定理。",
+      "总输入是性能代理，不等于有执行器模型的实际推进剂质量。",
+      "全仿真的总优化时间与逐次时延、星载最坏执行时间不同。"
+    ],
+    "use": "优先补3.6.1星座整体重构和信息共享作用；与S033对照说明构型性能、形式化条件及安全控制之间的不同证据。",
+    "claims": [
+      {
+        "text": "优化中除动力学外只有最大推力约束，避碰约束和状态边界明确未加入；35颗剩余星重构不等于35星联合避碰验证。",
+        "pages": [
+          4,
+          7,
+          8
+        ],
+        "locator": "§3.2、Table1及single simulation",
+        "type": "constraint_scope",
+        "claim_id": "C-B16-015",
+        "source_id": "E-B16-S034",
+        "claim_text_sha256": "8858d02de6b7c89f9a8a98866c353069a94f262c91e72ad06b6089088816101d"
+      },
+      {
+        "text": "FD-MPC把邻星预测位置按当前状态冻结，DMPC-IS使用上一时刻整段预测轨迹；这与无通信、无感知或零信息控制不同。",
+        "pages": [
+          3,
+          6
+        ],
+        "locator": "information assumptions及§3.4.2/3",
+        "type": "information_structure",
+        "claim_id": "C-B16-016",
+        "source_id": "E-B16-S034",
+        "claim_text_sha256": "5b3cfb8ca5ac8ae51c840669b021f96f84f4e1d41597525270b3785811d2fe58"
+      },
+      {
+        "text": "比较10组离轨配置和5种邻居数量时采用匹配初态；邻居数量也改变集中式代价目标，不能把所有改善都归因于多发消息。",
+        "pages": [
+          9,
+          10
+        ],
+        "locator": "§4.5.2及discussion of centralized objective",
+        "type": "comparison_design",
+        "claim_id": "C-B16-017",
+        "source_id": "E-B16-S034",
+        "claim_text_sha256": "6914443b6f7ed653737d6fb0df00669d39e1365878d00a0d26643d590637ce14"
+      },
+      {
+        "text": "Table4集中、FD、共享预测的总优化时间分别3422.7、342.2、346.3 s，属整段仿真；单例FD输入较少部分因为尚未完成重构，不能直接称燃料效率更高。",
+        "pages": [
+          9,
+          12
+        ],
+        "locator": "Fig2 discussion及Table4",
+        "type": "performance_metric_boundary",
+        "claim_id": "C-B16-018",
+        "source_id": "E-B16-S034",
+        "claim_text_sha256": "36e865edba4e3e13d316341edc17da843e093ffa09266294deb38a02eea937d8"
+      }
+    ],
+    "arxiv": "2201.10399v1",
+    "visual_pages": [
+      4,
+      7,
+      11,
+      12
+    ]
+  },
+  {
+    "reading_id": "S035",
+    "actual_title": "Attitude Control of Spacecraft Formations Subject To Distributed Communication Delays",
+    "title_cn": "异步链路时延下的多星姿态一致性",
+    "authors": "Siddharth H. Nair; Kamesh Subbarao",
+    "year": 2017,
+    "identifier": "arXiv:1707.01185v1",
+    "canonical_url": "https://arxiv.org/abs/1707.01185v1",
+    "actual_version": "arXiv v1，2017-07-04，共16页；实际PDF页首AAS XX-XXX为占位标号，不视作已核实会议编号。",
+    "evidence_role": "multi_spacecraft_attitude_delay_foundation",
+    "body_pages": [
+      1,
+      16
+    ],
+    "question": "各条星间链路有不同且随时间变化的延迟，而本地状态可即时反馈时，怎样实现姿态一致？",
+    "inputs": "MRP姿态和角速度，限制主转角小于2π；依赖本地全状态与模型作反馈线性化，将各星转为相同双积分器形式。邻居信息有界时延，图须满足指定连通结构。",
+    "decisions": "设计相对状态反馈和阻尼增益，分别尝试Lyapunov–Krasovskii LMI与频域小增益条件。增益、图谱和允许时延相互制约。",
+    "mechanism": "一致性定理给的是特定模型/增益条件下的渐近性质；时域分析还明确承认误差增广空间与实际状态空间之间不可逆映射使LMI可行解难找。",
+    "validation": "四星仿真，链路延迟上界5/6/7/5 s，增益5收敛，改为0.1时发散。作者计算的9.6346 s界依赖给定拓扑及参数。表1各星惯量不同，不能照搬正文“identical”措辞为相同惯量。",
+    "limitations": [
+      "姿态一致性不等于平移轨迹无碰撞；未处理星间避碰集合。",
+      "没有执行器饱和、丢包、噪声或故障恢复的共同验证。",
+      "未独立验证频域推导或复算作者给定时延界。",
+      "本地即时精确反馈和MRP范围条件不能省去。"
+    ],
+    "use": "用作通信时延条件应显式列出的航天器背景，避免仅因“分布式”便推定任意通信受损鲁棒性。",
+    "claims": [
+      {
+        "text": "反馈线性化依赖即时本地全状态及模型，MRP主转角限小于2π；时延仅进入邻星信息，不能据此覆盖本地传感和执行滞后。",
+        "pages": [
+          2,
+          3
+        ],
+        "locator": "Problem formulation及feedback linearization",
+        "type": "model_boundary",
+        "claim_id": "C-B16-019",
+        "source_id": "E-B16-S035",
+        "claim_text_sha256": "a15ae3831774edb347eb0d6f8b4a96c588d99e2c39e5dbc0865dadbd7b90e912"
+      },
+      {
+        "text": "频域一致性条件同时依赖有根有向生成树、阻尼增益、图特征值和时延界，9.6346 s只是给定四星配置下作者计算的界。",
+        "pages": [
+          10,
+          11,
+          12
+        ],
+        "locator": "Lemma5、Theorem2及simulation parameters",
+        "type": "delay_conditions",
+        "claim_id": "C-B16-020",
+        "source_id": "E-B16-S035",
+        "claim_text_sha256": "aed16828331ee49e79beaa00711dd3af6e3367b76b29241492cff75321ef694f"
+      },
+      {
+        "text": "第8页承认所列LMI的可行解存在处理难点，并提出指定领从/固定点的补救思路；不能将该段写成已实施的通用可行性算法。",
+        "pages": [
+          8
+        ],
+        "locator": "note before Frequency Domain Approach",
+        "type": "unresolved_analysis",
+        "claim_id": "C-B16-021",
+        "source_id": "E-B16-S035",
+        "claim_text_sha256": "7ed2a6a3c53a3d554f43f5b2b7fbb5fa4b68228f1d8bbab4178bf01a5e73e0c1"
+      },
+      {
+        "text": "四星例增益5时收敛，0.1时发散；这验证的是姿态一致性，不是具有平移避碰、推力饱和与丢包的多星安全闭环。",
+        "pages": [
+          12,
+          13,
+          14,
+          15,
+          16
+        ],
+        "locator": "Figs4–9及Conclusion",
+        "type": "validation_boundary",
+        "claim_id": "C-B16-022",
+        "source_id": "E-B16-S035",
+        "claim_text_sha256": "9cbbdc6a15ee58fee60a81e0b92984dc083a9fcc785943a0b7f7023144228ab8"
+      }
+    ],
+    "arxiv": "1707.01185v1",
+    "visual_pages": [
+      2,
+      8,
+      10,
+      12
+    ]
+  },
+  {
+    "reading_id": "S036",
+    "actual_title": "Robust Control Barrier Functions for Sampled-Data Systems",
+    "title_cn": "兼顾测量误差和扰动的采样高阶安全过滤",
+    "authors": "Pradeep Sharma Oruganti; Parinaz Naghizadeh; Qadeer Ahmed",
+    "year": 2023,
+    "identifier": "arXiv:2309.08050v1",
+    "canonical_url": "https://arxiv.org/abs/2309.08050v1",
+    "actual_version": "arXiv v1，2023-09-14，共9页；正文1–6，附录7–9。未取得正式发表版本作配对。",
+    "evidence_role": "general_sampled_data_safety_foundation",
+    "body_pages": [
+      1,
+      6
+    ],
+    "question": "数字控制在两个采样时刻之间保持输入不变时，怎样同时覆盖外扰和测量误差，使安全条件覆盖整个采样区间？",
+    "inputs": "已知有界扰动与测量误差、紧输入集合、相应光滑性及Lipschitz界；初态要满足高阶安全集条件，并存在满足鲁棒条件的控制。",
+    "decisions": "将高阶CBF加入测量误差、扰动和采样区间演化裕量，最小修改性能输入；再用区间可达集合尝试降低保守性。",
+    "mechanism": "一般处理扰动和控制相对阶相同的情形，另讨论扰动提前一阶出现的特殊失配；不能覆盖任意未知扰动。带输入范数的鲁棒过滤通常需SOCP表达，不宜统一称标准QP。",
+    "validation": "单轮式机器人模型，0.1 s采样、RK4与零阶保持，位置扰动±0.3、测量误差±0.5 m，航向与速度准确；100次随机数值试验，部分轨迹需要超过25 s才能到达。无卫星或实体试验。",
+    "limitations": [
+      "可达工具提供终点集合，理论需要整个时间段的可达管；本文用特定系统的数值比较支持终点裕量选择，未给一般替代证明。",
+      "安全不变性不等于固定时间到达或任意任务可行。",
+      "h是平方距离差，不能把表中h的变化直接转成米级间距损失。",
+      "已知误差界、初始高阶条件与输入可行性均是采用前提。"
+    ],
+    "use": "补强3.6.3中“离散节点可行不等于执行区间安全”的理论接口，作为通用方法基础，迁移到多星轨道时仍需重新建立模型界与联合可行性。",
+    "claims": [
+      {
+        "text": "采样鲁棒条件显式给测量误差、扰动和区间状态变化留裕量；保证以已知界、初始高阶安全集和可行受限控制等条件成立为前提。",
+        "pages": [
+          2,
+          3,
+          4
+        ],
+        "locator": "Assumptions1–3、Definition6及Lemma3",
+        "type": "sampled_safety_conditions",
+        "claim_id": "C-B16-023",
+        "source_id": "E-B16-S036",
+        "claim_text_sha256": "ce811a52499ef1bfdedc8fd36f6e5d9bc9bb67c5539ee144158b0fe3d6b6e38e"
+      },
+      {
+        "text": "主框架处理扰动/输入相对阶相同，特殊失配仅讨论两者相差一阶；含输入范数的控制问题可转SOCP，不全是标准QP。",
+        "pages": [
+          3,
+          4
+        ],
+        "locator": "Equation8及§III-C",
+        "type": "method_scope",
+        "claim_id": "C-B16-024",
+        "source_id": "E-B16-S036",
+        "claim_text_sha256": "ce7371a9709281e5bf6a35cbecef3a2502d094746fb0c50357b913cbf59852fb"
+      },
+      {
+        "text": "实现工具给终点可达集合，而理论需要采样区间可达管；作者对当前系统以0.01–0.1 s数值裕量比较支持替代，未证明任意系统可这样处理。",
+        "pages": [
+          4,
+          8,
+          9
+        ],
+        "locator": "footnote1、AppendixD及TableII",
+        "type": "implementation_gap",
+        "claim_id": "C-B16-025",
+        "source_id": "E-B16-S036",
+        "claim_text_sha256": "1316f01de2e07dce64a8feb8cca1370f69502d60fb0d9351e7716ab1a9c3773d"
+      },
+      {
+        "text": "验证为0.1 s零阶保持的单机器人模型，100次随机试验且航向/速度准确；部分轨迹25 s内未到达，不能将未碰撞与按时任务完成等同。",
+        "pages": [
+          4,
+          5,
+          9
+        ],
+        "locator": "§IV、Figs3–4及AppendixE",
+        "type": "validation_boundary",
+        "claim_id": "C-B16-026",
+        "source_id": "E-B16-S036",
+        "claim_text_sha256": "5353cefcb66ee9bae05db0da8e6fa8be9f868ca45f64f03143ce6912964ad15a"
+      },
+      {
+        "text": "表I报告的是每次试验最小h的统计，h为平方距离减D²；33.77与1.17之差不能直接称32.6 m的实际净空间距损失。",
+        "pages": [
+          4,
+          5,
+          6
+        ],
+        "locator": "safety function、performance discussion及TableI",
+        "type": "unit_interpretation",
+        "claim_id": "C-B16-027",
+        "source_id": "E-B16-S036",
+        "claim_text_sha256": "377bd1158a9d8fcf93e90ca64c5d629d26c6364e21d0ea3334288e7959895dbd"
+      }
+    ],
+    "arxiv": "2309.08050v1",
+    "appendix_scope": "Appendix pp7-9 narrative skim with targeted reachable-tube and slow-goal checks; references p6 skim",
+    "visual_pages": [
+      3,
+      4,
+      6,
+      8,
+      9
+    ]
+  },
+  {
+    "reading_id": "S037",
+    "actual_title": "Spacecraft Formation Control in Deep Space with Reduced Communication Requirement",
+    "title_cn": "用周期更新近似集中控制的少通信架构",
+    "authors": "Javad Lavaei; Ahmadreza Momeni; Amir G. Aghdam",
+    "year": 2008,
+    "identifier": "author-report:TCST.pdf",
+    "canonical_url": "https://users.encs.concordia.ca/~aghdam/TechnicalReports/TCST.pdf",
+    "actual_version": "实际读取大学作者站16页未标年报告；相关正式记录为2008年TCST 16(2),268–278、不同题名，DOI 10.1109/TCST.2007.903389。正式11页PDF未取得或逐字配对。",
+    "evidence_role": "general_communication_architecture_with_UAV_validation",
+    "body_pages": [
+      1,
+      15
+    ],
+    "question": "已有集中控制器满足性能要求时，怎样让每个局部控制器通过模型副本和较少的信息交换接近原性能？",
+    "inputs": "层级LTI编队模型和已有集中动态控制器；各体估计其他体状态，模型、初始状态及可测信息决定能否保持内部稳定及性能。",
+    "decisions": "将集中控制器分解为局部动态控制器，检查修改系统的稳定性；在周期更新版本中重置其他体状态估计，区间内预测整体运动。",
+    "mechanism": "理想等价需要完全准确的模型和初值。周期更新减少长期模型漂移，但作者只提出若预测危险则调用应急控制器的接口，严格避碰分析和重置稳定性条件仍未闭合。",
+    "validation": "实际数值对象是3架平面UAV，以英尺和英尺/秒计量；包括LQR性能与10%模型偏差例，并非轨道编队或在轨试验。相关正式书目与作者/摘要相符，但本文论点只绑定实际16页报告。",
+    "limitations": [
+      "题名含spacecraft不能把三UAV数值验证升级为航天器验证。",
+      "2008为相关正式论文的书目年，实际报告未标年。",
+      "周期状态更新与真实链路时延不同，后者仍列为后续。",
+      "应急切换只是架构建议，不能作已认证的安全备份。"
+    ],
+    "use": "用作3.6.3采用接口的历史背景：本地模型副本、信息刷新、预测检查与接管责任需要分别说明；避免把“建议接管”写成已完成安全认证。",
+    "claims": [
+      {
+        "text": "与集中控制完全等价需要各体准确知道他体模型和初态；作者承认此条件不现实，实际分散控制另需检查内部稳定性。",
+        "pages": [
+          5,
+          6
+        ],
+        "locator": "Theorems1–2及initial-state discussion",
+        "type": "equivalence_conditions",
+        "claim_id": "C-B16-028",
+        "source_id": "E-B16-S037",
+        "claim_text_sha256": "15a52cb52141789a47c97e5e9baebbbc7e428e0569d84dbd106713970e97f494"
+      },
+      {
+        "text": "周期刷新模型状态能减小信息陈旧，但预测危险后的应急控制器及严格避碰/重置稳定性仍待研究；更短周期并非无条件改善安全。",
+        "pages": [
+          8,
+          9,
+          15
+        ],
+        "locator": "§II-D及Conclusion",
+        "type": "backup_boundary",
+        "claim_id": "C-B16-029",
+        "source_id": "E-B16-S037",
+        "claim_text_sha256": "abe533ad7b111db667325d20c3d1e596e2d5eb4b1646bd57bf063bd68b010fc7"
+      },
+      {
+        "text": "数值例实际为3架平面UAV和相对GPS信息，性能差1.08%来自选定模型/初值条件；不能写成深空三星在轨结果或普遍性能界。",
+        "pages": [
+          10,
+          11,
+          12
+        ],
+        "locator": "§IV及performance comparison",
+        "type": "validation_domain",
+        "claim_id": "C-B16-030",
+        "source_id": "E-B16-S037",
+        "claim_text_sha256": "23b70b6d20a66f390aabeda964ffaca6ce9eb273a642334b6361afcc2c4e43e4"
+      },
+      {
+        "text": "实际16页作者稿与相关正式题名不同，正式记录作者/摘要对应且DOI为10.1109/TCST.2007.903389；未取得正式全文逐字配对，只计一条研究记录。",
+        "pages": [
+          1,
+          15
+        ],
+        "locator": "actual PDF title plus Crossref/Caltech bibliographic identity record",
+        "type": "version_boundary",
+        "claim_id": "C-B16-031",
+        "source_id": "E-B16-S037",
+        "claim_text_sha256": "b008da31093312e08d3c4ba8bb729a261147e307d33b9b5af0922af3cf563fc3"
+      }
+    ],
+    "related_formal_doi": "10.1109/TCST.2007.903389",
+    "related_formal_title": "A Model Predictive Decentralized Control Scheme With Reduced Communication Requirement for Spacecraft Formation",
+    "crossref": "S037_CROSSREF.json",
+    "formal_pair_url": "https://authors.library.caltech.edu/records/k6t53-g1s21",
+    "visual_pages": [
+      5,
+      8,
+      9,
+      11,
+      15
+    ]
+  },
+  {
+    "reading_id": "S038",
+    "actual_title": "Optimal Spacecraft Formation Reconfiguration with Collision Avoidance Using Particle Swarm Optimization",
+    "title_cn": "伪谱与粒子群重构中节点间安全的实际边界",
+    "authors": "Haibin Huang; Yufei Zhuang; Guangfu Ma; Yueyong Lv (actual PDF order)",
+    "year": 2012,
+    "identifier": "10.5755/j01.itc.41.2.854",
+    "canonical_url": "https://doi.org/10.5755/j01.itc.41.2.854",
+    "actual_version": "Information Technology and Control 41(2),143–150，2012，出版社8页全文；PDF与Crossref/网页作者顺序不一致，留待人工终核。",
+    "evidence_role": "multi_spacecraft_trajectory_optimization",
+    "body_pages": [
+      1,
+      7
+    ],
+    "question": "如何在深空短时重构中，较快生成考虑两两避碰与推力限制的多星轨迹，并改善仅在伪谱节点避碰的不足？",
+    "inputs": "同步三航天器、定质量点质点双积分器；忽略相对引力，连续低推力有上下界，初末速度固定。例子使用归一化时间、质量、推力与安全距离。",
+    "decisions": "先用LGL伪谱离散，再用KNITRO生成可行初始粒子与粒子群搜索优化平方控制能量；在最近节点附近插入四等分检查点，拒绝违反这些点约束的候选。",
+    "mechanism": "粒子是优化候选，不是实际卫星控制主体；Theorem1保持离散线性动力学等式，不证明全局最优或连续避碰。约束节点之间的检查仍有限。",
+    "validation": "三颗星、10个LGL点、安全距离2；200次随机优化初值比较。Table1给每次最小间距的平均值PSO为1.9138，低于要求2；原文明确承认偶发节点间违反并称可接受。本文记录违反，不自行接受其标准。",
+    "limitations": [
+      "PSO的“swarm”不代表分布式或星间通信算法。",
+      "200次随机初值测试不等于真实动力学噪声鲁棒Monte Carlo。",
+      "题名optimal不构成全局最优证明，作者也称near optimal。",
+      "有时更小的数值违反仍是原安全约束违反，不能记为全部成功。",
+      "出版社PDF与Crossref作者顺序不同，采用引用前须人工确认。"
+    ],
+    "use": "适合用作3.6.1/3.6.3的反例：节点或附加测试点通过仍不足以证明整条实际执行轨迹安全，并区分数值效率、可行性和最优性。",
+    "claims": [
+      {
+        "text": "算法为集中同步三航天器的双积分器轨迹优化；粒子群搜索的粒子是候选解，不是分散卫星，目标为平方推力积分而非实际推进剂质量。",
+        "pages": [
+          2,
+          3,
+          4,
+          5
+        ],
+        "locator": "problem statement、objective及PSO formulation",
+        "type": "method_identity",
+        "claim_id": "C-B16-032",
+        "source_id": "E-B16-S038",
+        "claim_text_sha256": "d0913241b0a9bed56ec787790881c8105d7992b6b8515051fec406ffa7a91710"
+      },
+      {
+        "text": "Theorem1保持线性配点动力学等式；增加最近节点附近四等分检查点仍未形成连续安全证明，作者仅称全程可能可行。",
+        "pages": [
+          4,
+          5
+        ],
+        "locator": "Theorem1及§5.2 test points",
+        "type": "sampled_constraint_boundary",
+        "claim_id": "C-B16-033",
+        "source_id": "E-B16-S038",
+        "claim_text_sha256": "74fe588f0589e6245ba62732632d1cf4b777a8d82fe1026bcda019a5364b5c7f"
+      },
+      {
+        "text": "Table1的200次试验中，每次最小间距平均值PSO为1.9138，小于设定安全距离2；正文承认偶发节点间安全距离违反，不能登记全样本硬安全成功。",
+        "pages": [
+          5,
+          6,
+          7
+        ],
+        "locator": "safe distance setting、§6及Table1",
+        "type": "negative_result",
+        "claim_id": "C-B16-034",
+        "source_id": "E-B16-S038",
+        "claim_text_sha256": "8d6010a2ddf6bd307d7b1d6014bef75127a7e64e26949272d0fc6b2a3c954eb7"
+      },
+      {
+        "text": "200次Monte Carlo随机化的是优化初值；平均总用时PSO19.9936 s、LPM17.8736 s，约18 s为初始化，不能推成在星载硬件上普遍更快或抗扰安全。",
+        "pages": [
+          6,
+          7
+        ],
+        "locator": "random initial values、runtime discussion及Table1",
+        "type": "validation_metric",
+        "claim_id": "C-B16-035",
+        "source_id": "E-B16-S038",
+        "claim_text_sha256": "892f4858085486d317aa11606770c58e8dd7dae824c7abba3be01c5ab781ff85"
+      },
+      {
+        "text": "PDF作者顺序为Huang/Zhuang/Ma/Lv，出版社网页和Crossref为Huang/Ma/Zhuang/Lv；题名、DOI相同，当前保留顺序冲突，不自行选定正式作者排序。",
+        "pages": [
+          1,
+          2
+        ],
+        "locator": "PDF title/running head plus metadata/S038_CROSSREF.json",
+        "type": "bibliographic_conflict",
+        "claim_id": "C-B16-036",
+        "source_id": "E-B16-S038",
+        "claim_text_sha256": "fd699c234b3775cd43ba77361eee0ba8ba0850c6d8b0ad1f653b0b9160248503"
+      }
+    ],
+    "crossref": "S038_CROSSREF.json",
+    "visual_pages": [
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "reading_id": "S039",
+    "actual_title": "Formation control for networked spacecraft in deep space: with or without communication delays and with switching topology",
+    "title_cn": "分情形处理时延与拓扑切换的深空编队控制",
+    "authors": "Nan Wang; TianWu Zhang; JieQiong Xu",
+    "year": 2011,
+    "identifier": "10.1007/s11432-011-4191-1",
+    "canonical_url": "https://doi.org/10.1007/s11432-011-4191-1",
+    "actual_version": "Science China Information Sciences 54(3),469–481，2011，出版社13页全文；Crossref题名/DOI匹配。",
+    "evidence_role": "multi_spacecraft_communication_foundation",
+    "body_pages": [
+      1,
+      12
+    ],
+    "question": "只用邻居的位姿信息时，深空航天器如何在固定、延迟或切换通信图下协调六自由度参考？",
+    "inputs": "Euler–Lagrange六自由度模型，外扰被假设可忽略。无向连通图、位置和姿态参考、对应速度信息与模型项；没有两两禁入或推力上限约束。",
+    "decisions": "分别设计无时延、固定对称时延、时变对称时延和连通切换拓扑控制器，以误差一致及趋零为目标。",
+    "mechanism": "不同章节的条件适用于不同控制器；时变延迟要求非增，切换章节要求每张图都连通并有驻留条件，不能拼成任意延迟、断连、丢包同时处理的结论。",
+    "validation": "四航天器姿态仿真。作者明确省略平移几何仿真；时变延迟为指数衰减函数，拓扑在5/10/15 s切换的试验另列。随机或断裂通信留待后续。",
+    "limitations": [
+      "六自由度理论描述不等于六自由度碰撞安全实证。",
+      "时延非增和对称条件较强，不覆盖任意时变链路。",
+      "驻留时间式印为先前时刻减后续时刻大于正数，记号方向待澄清，不自行更正文献。",
+      "输入饱和、未知外扰和硬避碰未共同建模。"
+    ],
+    "use": "用于综述的通信条件对照，明确时延、切换、噪声和断连是不同问题；并在采用环节逐项核查当前情形是否满足所引定理。",
+    "claims": [
+      {
+        "text": "第4.3节时变时延须对称，且其导数不大于d、d不大于0，即非增时延；不能称为任意有界振荡延迟保证。",
+        "pages": [
+          7,
+          8
+        ],
+        "locator": "Definition4.3及Theorem4.3",
+        "type": "delay_conditions",
+        "claim_id": "C-B16-037",
+        "source_id": "E-B16-S039",
+        "claim_text_sha256": "bc465fa1b8fea7bac6995c612afee87acc3e44214757dfb0d2644fea22d73a47"
+      },
+      {
+        "text": "切换拓扑定理要求每一张无向图都连通；该控制器与时延章节分列，不能据此声称已解决同时延迟和任意断连。",
+        "pages": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "locator": "Theorems4.2–4.4及controller27",
+        "type": "combined_conditions_boundary",
+        "claim_id": "C-B16-038",
+        "source_id": "E-B16-S039",
+        "claim_text_sha256": "b6f9b2545062f1d8ee309e90076903fb7f5ebe3bf26411a78e2dbd0428c29f42"
+      },
+      {
+        "text": "模型假设外扰可忽略，没有输入上限或两两禁入约束；跟踪及一致性结论不等于安全集合不变性。",
+        "pages": [
+          4,
+          5,
+          6
+        ],
+        "locator": "complete model and control objective",
+        "type": "safety_scope",
+        "claim_id": "C-B16-039",
+        "source_id": "E-B16-S039",
+        "claim_text_sha256": "17a7cec5d6d00ae11ffb92dd8d06ae54b8c7d947481e0f82d071dc2c6955cf40"
+      },
+      {
+        "text": "实际只展示四航天器姿态仿真，平移部分被明确省略；指数衰减时延与5/10/15 s拓扑切换分开试验，随机/断裂通信为未来工作。",
+        "pages": [
+          10,
+          11,
+          12
+        ],
+        "locator": "§5 Simulation及Conclusion",
+        "type": "validation_boundary",
+        "claim_id": "C-B16-040",
+        "source_id": "E-B16-S039",
+        "claim_text_sha256": "b2dcb65fcfc988ceef1c8c376302b6deb332258b7621a2b592eb5dcf54bf8840"
+      },
+      {
+        "text": "第8页驻留条件印为t(k−1)−t(k)≥正τ，与递增切换时刻的通常定义不相容；保留为记号待澄清，未据此宣称已独立审定或推翻稳定性证明。",
+        "pages": [
+          8,
+          9
+        ],
+        "locator": "§4.4 switching-time assumption",
+        "type": "unresolved_notation",
+        "claim_id": "C-B16-041",
+        "source_id": "E-B16-S039",
+        "claim_text_sha256": "0a4555e6f59c38880e74d544ff659fb76cd92927d22ca1ebde73335e33842743"
+      }
+    ],
+    "crossref": "S039_CROSSREF.json",
+    "visual_pages": [
+      4,
+      7,
+      8,
+      10
+    ]
+  },
+  {
+    "reading_id": "S040",
+    "actual_title": "Decentralized Connectivity Maintenance with Time Delays using Control Barrier Functions",
+    "title_cn": "实机通信延迟下的连通性CBF补偿启发式",
+    "authors": "Beatrice Capelli; Hassan Fouad; Giovanni Beltrame; Lorenzo Sabattini",
+    "year": 2021,
+    "identifier": "arXiv:2103.12614v1",
+    "canonical_url": "https://arxiv.org/abs/2103.12614v1",
+    "actual_version": "arXiv v1，2021-03-23，共7页；正式发表版本配对未完成。原文为地面机器人研究。",
+    "evidence_role": "general_robot_connectivity_delay_foundation",
+    "body_pages": [
+      1,
+      6
+    ],
+    "question": "把连通性CBF从理想仿真部署到分散计算的真实机器人后，如何减轻陈旧信息对连通裕量的影响？",
+    "inputs": "R-disk通信图和一阶运动近似，图代数连通度λ2、给定阈值ε、速度上限与估计时延。各机器人通过多跳聚合全体相对位置，仍要形成全图Laplacian。",
+    "decisions": "本地求解最小修改任务输入的QP，连通性CBF外另有避碰约束；将距离改为d+2vmax(τ+κ)，以经验参数κ补偿其他误差。",
+    "mechanism": "这是基于最坏相对运动直觉的启发式，并非通用时延安全域的显式求解。计算分散不意味着只有一跳信息，也不意味着不需要全网状态汇集。",
+    "validation": "5/10机器人仿真每配置20次，部分随机延迟配置低于期望连通阈值。实机3个Khepera IV，ARM 800 MHz、机器人本地QP，外部OptiTrack精确定位，测得延迟约0.3 s；无丢包和链路故障。",
+    "limitations": [
+      "λ2仍大于0只说明图保持连接，与满足λ2≥ε的裕量要求不同。",
+      "经验调整κ并没有变成对任意网络/动力学的形式化鲁棒保证。",
+      "实机控制与定位条件应成对报告，不能只写“分散星载验证”。",
+      "覆盖损失指标与通信字节节省、任务完整成功率不同。"
+    ],
+    "use": "用作通信模型与实际部署之间差异的通用实验基础，支撑3.6.3“采用前核查真实信息时效”的论述；不作多星验证。",
+    "claims": [
+      {
+        "text": "各体虽独立求控制，却通过多跳传播全体相对位置以重建全图；“分散计算”不能简写成仅依一跳局部信息。",
+        "pages": [
+          3,
+          4
+        ],
+        "locator": "§III-B、§IV及Buzz implementation",
+        "type": "information_structure",
+        "claim_id": "C-B16-042",
+        "source_id": "E-B16-S040",
+        "claim_text_sha256": "5842c65ec1c6e428ec2a8acffb05a4a463b7045f1e60a0323717016e5b97bfed"
+      },
+      {
+        "text": "延迟补偿使用d+2vmax(τ+κ)且κ经验调节；TableII部分随机延迟试验仍低于λ2阈值，不能声称所有试验均保持给定连通裕量。",
+        "pages": [
+          3,
+          5
+        ],
+        "locator": "Equation11及TableII",
+        "type": "heuristic_boundary",
+        "claim_id": "C-B16-043",
+        "source_id": "E-B16-S040",
+        "claim_text_sha256": "4a5234d148fab35b5c65f118a228ffe3912b74951fbda07b82febacc419388ef"
+      },
+      {
+        "text": "实体实验为3个Khepera IV本地QP、外部OptiTrack、约0.3 s延迟；位置噪声、丢包与链路故障未纳入，均留待后续。",
+        "pages": [
+          3,
+          4,
+          5,
+          6
+        ],
+        "locator": "hardware setup、real experiments及Conclusion",
+        "type": "validation_domain",
+        "claim_id": "C-B16-044",
+        "source_id": "E-B16-S040",
+        "claim_text_sha256": "f8a212795fc58174934088dc84b73e9060c9f7ebb57d8f7664ab542ef852a91a"
+      },
+      {
+        "text": "另10次覆盖试验相对给定最大可覆盖面积平均损失12.71%、标准差3.03%；这是任务覆盖代价，不能作为带宽节省或星座风险降低比例。",
+        "pages": [
+          6
+        ],
+        "locator": "§V-E Performance analysis及Fig8",
+        "type": "performance_metric",
+        "claim_id": "C-B16-045",
+        "source_id": "E-B16-S040",
+        "claim_text_sha256": "9428a5d4086460900de103fa93206c7eb9c4a653235303d621f7c99d6d3c0cbb"
+      }
+    ],
+    "arxiv": "2103.12614v1",
+    "visual_pages": [
+      3,
+      5,
+      6
+    ]
+  }
+]

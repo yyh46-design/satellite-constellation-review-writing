@@ -1,0 +1,473 @@
+{
+  "selected_source_ids": [
+    "S031",
+    "S032",
+    "S033",
+    "S034",
+    "S035",
+    "S036",
+    "S037",
+    "S038",
+    "S039",
+    "S040"
+  ],
+  "successful_or_last_attempt_records": [
+    {
+      "id": "S031",
+      "status": "pdf_acquired",
+      "url": "https://arxiv.org/pdf/2607.26570v1",
+      "resolved_url": "https://arxiv.org/pdf/2607.26570v1",
+      "path": "D:\\SKT727\\materials\\constellation_review_B16_20261020\\S031.pdf",
+      "sha256": "27c91612c3ac720f1038e1be9b4a9f93b2751f0fe34d595a4fb570a382022871",
+      "pages": 21,
+      "characters": 78314,
+      "attempts": []
+    },
+    {
+      "id": "S032",
+      "status": "pdf_acquired",
+      "url": "https://mdpi-res.com/d_attachment/applsci/applsci-15-03751/article_deploy/applsci-15-03751.pdf",
+      "resolved_url": "https://mdpi-res.com/d_attachment/applsci/applsci-15-03751/article_deploy/applsci-15-03751.pdf",
+      "path": "D:\\SKT727\\materials\\constellation_review_B16_20261020\\S032.pdf",
+      "sha256": "fb76bdf57230a2ea15e6ae42ba58bf316a50abdbadcae437f3432f8595592696",
+      "pages": 18,
+      "characters": 41527,
+      "attempts": []
+    },
+    {
+      "id": "S033",
+      "status": "pdf_acquired",
+      "url": "https://arxiv.org/pdf/2504.00225v3",
+      "resolved_url": "https://arxiv.org/pdf/2504.00225v3",
+      "path": "D:\\SKT727\\materials\\constellation_review_B16_20261020\\S033.pdf",
+      "sha256": "e6b88887ae6d7f7891dba3d5421df4d5955ab39bbf96d060e71d2f28b117e7c9",
+      "pages": 19,
+      "characters": 100722,
+      "attempts": []
+    },
+    {
+      "id": "S034",
+      "status": "pdf_acquired",
+      "url": "https://arxiv.org/pdf/2201.10399v1",
+      "resolved_url": "https://arxiv.org/pdf/2201.10399v1",
+      "path": "D:\\SKT727\\materials\\constellation_review_B16_20261020\\S034.pdf",
+      "sha256": "a1ca0fe051fa98d284a69639048a6a1f1564ff977e9785cd952a19437b1cdc63",
+      "pages": 13,
+      "characters": 36523,
+      "attempts": []
+    },
+    {
+      "id": "S035",
+      "status": "pdf_acquired",
+      "url": "https://arxiv.org/pdf/1707.01185v1",
+      "resolved_url": "https://arxiv.org/pdf/1707.01185v1",
+      "path": "D:\\SKT727\\materials\\constellation_review_B16_20261020\\S035.pdf",
+      "sha256": "5f4fbdf9d92ba9c9c1dae2f310bb6ed256a98671eca55b70494df780ab5092ba",
+      "pages": 16,
+      "characters": 22728,
+      "attempts": []
+    },
+    {
+      "id": "S036",
+      "status": "pdf_acquired",
+      "url": "https://arxiv.org/pdf/2309.08050v1",
+      "resolved_url": "https://arxiv.org/pdf/2309.08050v1",
+      "path": "D:\\SKT727\\materials\\constellation_review_B16_20261020\\S036.pdf",
+      "sha256": "49df6ffb3bcbf2443cff8cc3da768b4d00972179bd695e7f17830baa4c89985b",
+      "pages": 9,
+      "characters": 38243,
+      "attempts": []
+    },
+    {
+      "id": "S037",
+      "status": "pdf_acquired",
+      "url": "https://users.encs.concordia.ca/~aghdam/TechnicalReports/TCST.pdf",
+      "resolved_url": "https://users.encs.concordia.ca/~aghdam/TechnicalReports/TCST.pdf",
+      "path": "D:\\SKT727\\materials\\constellation_review_B16_20261020\\S037.pdf",
+      "sha256": "9b8061fa6a486beb40e5e6cecc3c8983f201de21526ed718bb42c1919a0afaa1",
+      "pages": 16,
+      "characters": 173281,
+      "attempts": []
+    },
+    {
+      "id": "S038",
+      "status": "pdf_acquired",
+      "url": "https://itc.ktu.lt/index.php/ITC/article/view/854/1501",
+      "resolved_url": "https://itc.ktu.lt/index.php/ITC/article/download/854/1501",
+      "path": "D:\\SKT727\\materials\\constellation_review_B16_20261020\\S038.pdf",
+      "sha256": "57b7605ab6a07385e93aba84baf5b4c16c44a8b603578c3fa5a447b076bbd131",
+      "pages": 8,
+      "characters": 29344,
+      "attempts": []
+    },
+    {
+      "id": "S039",
+      "status": "pdf_acquired",
+      "url": "https://www.sciengine.com/parse/pdf/1674-733X/EjdatdLC9zueADkMq.pdf?attname=EjdatdLC9zueADkMq.pdf",
+      "resolved_url": "https://files.sciengine.com/pdfs/1674-733X/EjdatdLC9zueADkMq.pdf",
+      "path": "D:\\SKT727\\materials\\constellation_review_B16_20261020\\S039.pdf",
+      "sha256": "9b5a6d1ae9b4056e1d38643b2d9be887dde2333b9a7a7580251c02d5706e7020",
+      "pages": 13,
+      "characters": 33266,
+      "attempts": [
+        {
+          "url": "https://ieeexplore.ieee.org/ielx7/6287639/8948470/09121217.pdf",
+          "error": "HTTP Error 418: Unknown Code"
+        }
+      ]
+    },
+    {
+      "id": "S040",
+      "status": "pdf_acquired",
+      "url": "https://arxiv.org/pdf/2103.12614v1",
+      "resolved_url": "https://arxiv.org/pdf/2103.12614v1",
+      "path": "D:\\SKT727\\materials\\constellation_review_B16_20261020\\S040.pdf",
+      "sha256": "73836663b972f7fe9d3c06985b46e69b69ff6b801f3efc06ee83922dc2abe707",
+      "pages": 7,
+      "characters": 36550,
+      "attempts": []
+    }
+  ],
+  "metadata_attempts": [
+    {
+      "sid": "S032",
+      "url": "https://api.crossref.org/works/10.3390/app15073751",
+      "status": "retrieved",
+      "title": [
+        "Safety Control for Satellite Formation Flying via High-Order Control Barrier Functions"
+      ],
+      "doi": "10.3390/app15073751",
+      "authors": [
+        {
+          "given": "Xu",
+          "family": "Zhang",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Institute of Telecommunication and Navigation Satellite, China Academy of Space Technology, Beijing 100089, China"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Haiqiang",
+          "family": "Wang",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Institute of Telecommunication and Navigation Satellite, China Academy of Space Technology, Beijing 100089, China"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Dongze",
+          "family": "Li",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Institute of Telecommunication and Navigation Satellite, China Academy of Space Technology, Beijing 100089, China"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Zijie",
+          "family": "Ji",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Institute of Telecommunication and Navigation Satellite, China Academy of Space Technology, Beijing 100089, China"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "date": {
+        "date-parts": [
+          [
+            2025,
+            3,
+            29
+          ]
+        ]
+      },
+      "container": [
+        "Applied Sciences"
+      ]
+    },
+    {
+      "sid": "S037",
+      "url": "https://api.crossref.org/works/?query.title=Spacecraft%20Formation%20Control%20in%20Deep%20Space%20with%20Reduced%20Communication%20Requirement&rows=2",
+      "status": "retrieved",
+      "title": [
+        "A Model Predictive Decentralized Control Scheme With Reduced Communication Requirement for Spacecraft Formation"
+      ],
+      "doi": "10.1109/tcst.2007.903389",
+      "authors": [
+        {
+          "given": "J.",
+          "family": "Lavaei",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "A.",
+          "family": "Momeni",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "A.G.",
+          "family": "Aghdam",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        }
+      ],
+      "date": {
+        "date-parts": [
+          [
+            2008,
+            3
+          ]
+        ]
+      },
+      "container": [
+        "IEEE Transactions on Control Systems Technology"
+      ]
+    },
+    {
+      "sid": "S038",
+      "url": "https://api.crossref.org/works/10.5755/j01.itc.41.2.854",
+      "status": "retrieved",
+      "title": [
+        "Optimal Spacecraft Formation Reconfiguration with Collision Avoidance Using Particle Swarm Optimization"
+      ],
+      "doi": "10.5755/j01.itc.41.2.854",
+      "authors": [
+        {
+          "given": "Haibin",
+          "family": "Huang",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Guangfu",
+          "family": "Ma",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Yufei",
+          "family": "Zhuang",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Yueyong",
+          "family": "Lv",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "date": {
+        "date-parts": [
+          [
+            2012,
+            4,
+            26
+          ]
+        ]
+      },
+      "container": [
+        "Information Technology and Control"
+      ]
+    },
+    {
+      "sid": "S039",
+      "url": "https://api.crossref.org/works/10.1007/s11432-011-4191-1",
+      "status": "retrieved",
+      "title": [
+        "Formation control for networked spacecraft in deep space: with or without communication delays and with switching topology"
+      ],
+      "doi": "10.1007/s11432-011-4191-1",
+      "authors": [
+        {
+          "given": "Nan",
+          "family": "Wang",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "TianWu",
+          "family": "Zhang",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "JieQiong",
+          "family": "Xu",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        }
+      ],
+      "date": {
+        "date-parts": [
+          [
+            2011,
+            3
+          ]
+        ]
+      },
+      "container": [
+        "Science China Information Sciences"
+      ]
+    },
+    {
+      "sid": "S034",
+      "url": "https://api.crossref.org/works/?query.title=Reconfiguration%20of%20a%20satellite%20constellation%20in%20circular%20formation%20orbit%20with%20decentralized%20model%20predictive%20control&rows=2",
+      "status": "retrieved",
+      "title": [
+        "Decentralized Collision-Free Satellite Formation Reconfiguration with Control Barrier Functions"
+      ],
+      "doi": "10.1016/j.ifacol.2026.01.070",
+      "authors": [
+        {
+          "given": "Jihyeok",
+          "family": "Kim",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Hancheol",
+          "family": "Cho",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        }
+      ],
+      "date": {
+        "date-parts": [
+          [
+            2025
+          ]
+        ]
+      },
+      "container": [
+        "IFAC-PapersOnLine"
+      ]
+    },
+    {
+      "sid": "S040",
+      "url": "https://api.crossref.org/works/?query.title=Decentralized%20Connectivity%20Maintenance%20with%20Time%20Delays%20using%20Control%20Barrier%20Functions&rows=2",
+      "status": "failed",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "sid": "S036",
+      "url": "https://api.crossref.org/works/?query.title=Robust%20Control%20Barrier%20Functions%20for%20Sampled-Data%20Systems&rows=2",
+      "status": "failed",
+      "error": "HTTP Error 429: Too Many Requests"
+    }
+  ],
+  "notes": [
+    "10份实际读取PDF共140页，完整原文/抽取/页图均在Git外。",
+    "S039日志中的IEEE Access链接是另一篇未取得全文的候选（DOI10.1109/ACCESS.2020.3003681，HTTP418）；最终替换为Wang等2011论文，不是两篇版本互换。",
+    "L069/L072及2026分布式安全新文仅查到预览或未取得正文，不计精读。",
+    "S034的Crossref题名搜索返回Kim/Cho另一篇论文，已拒绝，不作为S034元数据；S040/S036查询429，保留实际arXiv身份。",
+    "S037的Crossref结果和Caltech记录仅支持相关正式书目，实际作者稿与正式全文未配对；不计两篇。",
+    "S038先前Crossref握手超时后重试成功，作者顺序差异保留。",
+    "S037文字编码转换及关键原页校对有记录，源PDF未改。"
+  ]
+}
