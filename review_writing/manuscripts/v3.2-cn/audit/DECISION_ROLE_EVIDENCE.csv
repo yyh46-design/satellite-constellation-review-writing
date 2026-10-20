@@ -1,0 +1,14 @@
+record_id,manuscript_section,claim_role,stable_sources,actual_basis,limit
+OD32-01,1.2;表1,nearest_review_scope,E105;E001;E006;E009;E005,existing source records plus E105 official abstract and section overview,no novelty exclusion inferred
+OD32-02,2.2,author_framework,none,explicit distinctions among computing location revision authority and adoption,not an external standard or newly validated architecture
+OD32-03,2.3,illustrative_example,none,author-constructed payload-unavailable scenario,not an experiment or integrated deployed system
+OD32-04,3.5.1,method_summary,E107,v2.6 claim CN26C091 plus original source history and current official identity/abstract,single-satellite; no new numerical benefit claimed
+OD32-05,3.5.1,mechanism_comparison,E107;E123,rule-selected planning preference vs learned search operator,not common-benchmark performance ranking
+OD32-06,3.5.3,source_result,E102,official HTML sections 2.2 and 3.5 and 4,rover-based prototype; not orbital validation
+OD32-07,3.5.3,source_summary,E108,existing source record and v3.1 planning-execution-diagnosis discussion,single-spacecraft conditions retained
+OD32-08,3.5.3;4.5.3,author_synthesis,E102;E108;E018;E019;E023,recovery-action success versus task reallocation versus service outcome,not a jointly validated system
+OD32-09,4.3,source_result,E119,official HTML runtime-adaptation and supervisor/interpreter passages,software-process scheduling; human approval not removed
+OD32-10,4.4.3,author_comparison_framework,none,model properties operational functions validation scale as separate descriptors,not TRL ranking or certification
+OD32-11,3.5.2;4.5.2,retained_source_boundary,E068;E061;E062,B02 and existing robust/stochastic planning records,uncertainty protection not automatic execution feedback
+OD32-12,图4;表6,retained_condition_comparisons,E042;E106;E121,v3.1 cited author/publisher versions and existing readings,figure pixel/data audit and version parity remain open
+OD32-13,4.4.2,retained_engineering_examples,E109;E111;E114;E115,v3.1 official/mission evidence,not megaconstellation autonomy proof
