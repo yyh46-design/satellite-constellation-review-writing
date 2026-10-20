@@ -1,0 +1,24 @@
+{
+  "title": "Hamilton–Jacobi Reachability for Spacecraft Collision Avoidance",
+  "aliases": [],
+  "authors_as_read": "Larry Hui; Jordan Kam; William Su; Jianshu Zhou",
+  "bibliographic_year": 2026,
+  "identifier": "arXiv:2605.20138v1",
+  "actual_arxiv_version": "2605.20138v1",
+  "actual_version": "arXiv v1，2026-05-19，共6页；完成阅读但存在需澄清的内部问题，暂缓作为综述结论依据。",
+  "source_sha256": "cbba1085110d5db532c53f785cf1739f96cced32587d0c29b80db87c4e148812",
+  "source_format": "PDF",
+  "primary_url": "https://arxiv.org/abs/2605.20138v1",
+  "human_verified": false,
+  "formal_version_text_compared": false,
+  "adoption_status": "HOLD_FOR_SOURCE_CLARIFICATION",
+  "source_issues": [
+    "Eq12 optimization order and safety sign convention require review",
+    "Eq13 second line printed minus sign",
+    "p5 fixed-controller capture sets have empty disturbances",
+    "unlocated FCC separation rule",
+    "p6 reference14 placeholder"
+  ],
+  "regulatory_claim_verified": false,
+  "scientific_claim_adoption_blocked": true
+}

@@ -1,0 +1,509 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        4,
+        10
+      ]
+    ],
+    "date-time": "2026-04-10T10:06:21Z",
+    "timestamp": 1775815581054,
+    "version": "3.50.1"
+  },
+  "reference-count": 40,
+  "publisher": "MDPI AG",
+  "issue": "8",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2026,
+            4,
+            10
+          ]
+        ],
+        "date-time": "2026-04-10T00:00:00Z",
+        "timestamp": 1775779200000
+      },
+      "content-version": "vor",
+      "delay-in-days": 0,
+      "URL": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  ],
+  "funder": [
+    {
+      "name": "Excellence Initiative—Research University",
+      "award": [
+        "6961"
+      ],
+      "award-info": [
+        {
+          "award-number": [
+            "6961"
+          ]
+        }
+      ]
+    }
+  ],
+  "content-domain": {
+    "domain": [],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [
+    "Applied Sciences"
+  ],
+  "abstract": "<jats:p>The growing density of space debris in Low Earth Orbit poses significant risks to Distributed Space Systems (DSSs), where multiple satellites operate in close proximity. Conventional single-satellite collision avoidance maneuvers do not account for internal formation safety and may induce secondary conjunction risks. This work presents a formation-level trajectory optimization framework for short-term conjunction mitigation that jointly addresses external debris avoidance and inter-satellite collision prevention. The proposed Space-Debris Evasion with Internal-Collision-Avoidance (SDEICA) method formulates the problem as a sequential convex programming scheme. A probabilistic debris keep-out region is modeled as an elliptical collision tube derived from the relative position covariance at the Time of Closest Approach (TCA) and convexified via tangent-plane approximation. Internal safety constraints are incorporated through successive linearization of inter-satellite separation conditions. The framework is evaluated on 1197 conjunction scenarios derived from ESA Collision-Avoidance Challenge data for a three-satellite formation. Results demonstrate a systematic reduction in the probability of collision below the operational threshold of 10−5 in all cases, within numerical tolerance, eliminating intersatellite distance violations, maintaining bounded formation deviation, and requiring only moderate control effort. The median computational time is 17.12 s per scenario. These findings indicate that sequential convex optimization provides a practical approach for coordinated, fuel-efficient collision avoidance in satellite formations operating in increasingly congested orbital environments.</jats:p>",
+  "DOI": "10.3390/app16083707",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2026,
+        4,
+        10
+      ]
+    ],
+    "date-time": "2026-04-10T09:08:12Z",
+    "timestamp": 1775812092000
+  },
+  "page": "3707",
+  "update-policy": "https://doi.org/10.3390/mdpi_crossmark_policy",
+  "source": "Crossref",
+  "is-referenced-by-count": 0,
+  "title": [
+    "Sequential Convex Trajectory Planning for Space-Debris Conjunction Mitigation in Satellite Formations"
+  ],
+  "prefix": "10.3390",
+  "volume": "16",
+  "author": [
+    {
+      "ORCID": "https://orcid.org/0000-0001-6898-3013",
+      "authenticated-orcid": false,
+      "given": "Michał",
+      "family": "Błażejczyk",
+      "sequence": "first",
+      "affiliation": [
+        {
+          "name": "Department of Automation and Robotics, AGH University of Krakow, al. A. Mickiewicza 30, 30-059 Krakow, Poland"
+        }
+      ],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0003-3593-7242",
+      "authenticated-orcid": false,
+      "given": "Paweł",
+      "family": "Zagórski",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Department of Automation and Robotics, AGH University of Krakow, al. A. Mickiewicza 30, 30-059 Krakow, Poland"
+        }
+      ],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    }
+  ],
+  "member": "1968",
+  "published-online": {
+    "date-parts": [
+      [
+        2026,
+        4,
+        10
+      ]
+    ]
+  },
+  "reference": [
+    {
+      "key": "ref_1",
+      "first-page": "47",
+      "article-title": "Satellite swarm survey and new conceptual design for Earth observation applications",
+      "volume": "24",
+      "author": "Farrag",
+      "year": "2021",
+      "journal-title": "Egypt. J. Remote Sens. Space Sci."
+    },
+    {
+      "key": "ref_2",
+      "unstructured": "Preston, R. (2026, March 15). Distributed Satellite Constellations Offer Advantages Over Monolithic Systems. RAND Corporation. Available online: https://www.rand.org/pubs/research_briefs/RB92.html."
+    },
+    {
+      "key": "ref_3",
+      "doi-asserted-by": "crossref",
+      "first-page": "2",
+      "DOI": "10.1109/JMASS.2020.3045851",
+      "article-title": "Definition of New Space-Expert Survey Results and Key Technology Trends",
+      "volume": "2",
+      "author": "Golkar",
+      "year": "2021",
+      "journal-title": "IEEE J. Miniaturiz. Air Space Syst."
+    },
+    {
+      "key": "ref_4",
+      "doi-asserted-by": "crossref",
+      "first-page": "69",
+      "DOI": "10.1007/BF03546219",
+      "article-title": "Spacecraft Formation Flying Control Using Mean Orbit Elements",
+      "volume": "48",
+      "author": "Schaub",
+      "year": "2000",
+      "journal-title": "J. Astronaut. Sci."
+    },
+    {
+      "key": "ref_5",
+      "doi-asserted-by": "crossref",
+      "first-page": "2197",
+      "DOI": "10.1177/0036850419884432",
+      "article-title": "Optimal cooperative control for formation flying spacecraft with collision avoidance",
+      "volume": "103",
+      "author": "Lin",
+      "year": "2020",
+      "journal-title": "Sci. Prog."
+    },
+    {
+      "key": "ref_6",
+      "doi-asserted-by": "crossref",
+      "first-page": "291",
+      "DOI": "10.5140/JASS.2013.30.4.291",
+      "article-title": "Optimization of space debris collision avoidance maneuver for formation flying satellites",
+      "volume": "30",
+      "author": "Seong",
+      "year": "2013",
+      "journal-title": "J. Astron. Space Sci."
+    },
+    {
+      "key": "ref_7",
+      "unstructured": "Persson, S., Bodin, P., Gill, E., Harr, J., and Jörgensen, J. (2006, January 25–29). PRISMA—An autonomous formation flying mission. Proceedings of the Small Satellite Systems and Services—The 4S Symposium, Sardinia, Italy."
+    },
+    {
+      "key": "ref_8",
+      "unstructured": "Persson, S., D’Amico, S., and Harr, J. (October, January 27). Flight Results from PRISMA Formation Flying and Rendezvous Demonstration Mission. Proceedings of the 61st International Astronautical Congress, Prague, Czech Republic. Available online: https://elib.dlr.de/77660/."
+    },
+    {
+      "key": "ref_9",
+      "unstructured": "Aida, S. (2016, January 14–17). Conjunction Risk Assessment and Avoidance Maneuver Planning Tools. Proceedings of the 6th International Conference on Astrodynamics Tools and Techniques, Darmstadt, Germany."
+    },
+    {
+      "key": "ref_10",
+      "unstructured": "Alfano, S., and Tahoe, L. (2005, January 9–13). Collision Avoidance Maneuver Planning Tool. Proceedings of the 15th AAS/AIAA Astrodynamics Specialist Conference, Lake Tahoe, CA, USA."
+    },
+    {
+      "key": "ref_11",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Chan, K. (2002, January 5–8). Spacecraft maneuvers to mitigate potential collision threats. Proceedings of the AIAA/AAS Astrodynamics Specialist Conference and Exhibit, Boston, MA, USA.",
+      "DOI": "10.2514/6.2002-4629"
+    },
+    {
+      "key": "ref_12",
+      "doi-asserted-by": "crossref",
+      "first-page": "411",
+      "DOI": "10.1016/j.actaastro.2016.04.032",
+      "article-title": "LightForce Photon-Pressure Collision Avoidance: Updated Efficiency Analysis Utilizing a Highly Parallel Simulation Approach",
+      "volume": "126",
+      "author": "Stupl",
+      "year": "2016",
+      "journal-title": "Acta Astronaut."
+    },
+    {
+      "key": "ref_13",
+      "unstructured": "Jurecki, R. (2014). An Analysis of Collision Avoidance Manoeuvres in Emergency Traffic Situations. [Ph.D. Thesis, Kielce University of Technology]."
+    },
+    {
+      "key": "ref_14",
+      "doi-asserted-by": "crossref",
+      "first-page": "217",
+      "DOI": "10.2514/1.G000742",
+      "article-title": "Optimal Impulsive Collision Avoidance in Low Earth Orbit",
+      "volume": "38",
+      "author": "Bombardelli",
+      "year": "2015",
+      "journal-title": "J. Guid. Control  Dyn."
+    },
+    {
+      "key": "ref_15",
+      "doi-asserted-by": "crossref",
+      "first-page": "347",
+      "DOI": "10.1016/j.actaastro.2021.05.046",
+      "article-title": "Collision avoidance maneuver optimization with a multiple-impulse convex formulation",
+      "volume": "186",
+      "author": "Armellin",
+      "year": "2021",
+      "journal-title": "Acta Astronaut."
+    },
+    {
+      "key": "ref_16",
+      "doi-asserted-by": "crossref",
+      "first-page": "2914",
+      "DOI": "10.1109/TAES.2024.3480041",
+      "article-title": "Recursive Polynomial Method for Fast Collision Avoidance Maneuver Design",
+      "volume": "61",
+      "author": "Pavanello",
+      "year": "2024",
+      "journal-title": "IEEE Trans. Aerosp. Electron. Syst."
+    },
+    {
+      "key": "ref_17",
+      "doi-asserted-by": "crossref",
+      "first-page": "1855",
+      "DOI": "10.2514/1.G007839",
+      "article-title": "Fuel-Optimal Collision Avoidance Maneuvers in Long-Term Encounters with Station-Keeping Constraints",
+      "volume": "47",
+      "author": "Pavanello",
+      "year": "2024",
+      "journal-title": "J. Guid. Control  Dyn."
+    },
+    {
+      "key": "ref_18",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Pavanello, Z., Maria, L.D., Vittori, A.D., Maestrini, M., Lizia, P.D., and Armellin, R. (2025). CAMmary: A Review of Spacecraft Collision Avoidance Manoeuvre Design Methods. arXiv.",
+      "DOI": "10.1016/j.actaastro.2025.07.027"
+    },
+    {
+      "key": "ref_19",
+      "doi-asserted-by": "crossref",
+      "first-page": "1595",
+      "DOI": "10.2514/1.36362",
+      "article-title": "Rendezvous maneuvers of multiple spacecraft using differential drag under J2 perturbation",
+      "volume": "31",
+      "author": "Bevilacqua",
+      "year": "2008",
+      "journal-title": "J. Guid. Control  Dyn."
+    },
+    {
+      "key": "ref_20",
+      "doi-asserted-by": "crossref",
+      "first-page": "2870",
+      "DOI": "10.2514/1.G002374",
+      "article-title": "Debris Avoidance Maneuvers for Spacecraft in a Cluster",
+      "volume": "40",
+      "author": "Denenberg",
+      "year": "2017",
+      "journal-title": "J. Guid. Control  Dyn."
+    },
+    {
+      "key": "ref_21",
+      "unstructured": "Newman, L.K., Mashiku, A.K., Hejduk, M.D., Johnson, M.R., and Rosa, J.D. (2019, January 11–15). NASA Conjunction Assessment Risk Analysis Updated Requirements Architecture. Proceedings of the AAS/AIAA Astrodynamics Specialist Conference, Portland, ME, USA. Available online: https://ntrs.nasa.gov/citations/20190029214."
+    },
+    {
+      "key": "ref_22",
+      "unstructured": "Klinkrad, H. (2006). Space Debris: Models and Risk Analysis, Springer. Available online: https://www.researchgate.net/publication/321595796_Space_Debris_Models_and_Risk_Analysis."
+    },
+    {
+      "key": "ref_23",
+      "unstructured": "Rajasekar, P.E. (2017). Optimization of Space Debris Collision Avoidance Maneuver. [Master’s Thesis, Department of Mechanical Engineering, McGill University]."
+    },
+    {
+      "key": "ref_24",
+      "first-page": "1687",
+      "article-title": "Maneuver Strategy for Active Spacecraft to Avoid Space Debris and Return to the Original Orbit",
+      "volume": "1",
+      "author": "Fang",
+      "year": "2022",
+      "journal-title": "Int. J. Aerosp. Eng."
+    },
+    {
+      "key": "ref_25",
+      "unstructured": "Chams, F. (2022). Collision Avoidance Maneuver Study in Low Earth Orbit with Constrained Model Predictive Controller Design. [Master’s Thesis, Luleå University of Technology]. Available online: https://ltu.diva-portal.org/smash/record.jsf?pid=diva2%3A1708898."
+    },
+    {
+      "key": "ref_26",
+      "unstructured": "Scala, F., Krieger, G., and Villano, M. (2026, March 15). Safe Formation Reconfiguration for Distributed Space Systems Under Conjunction Risk. German Aerospace Center (DLR). Available online: https://elib.dlr.de/204683/1/Scala_v2.pdf."
+    },
+    {
+      "key": "ref_27",
+      "first-page": "157",
+      "article-title": "Convex Optimization Based Congestion Control in Layered Satellite Networks",
+      "volume": "5",
+      "author": "Kumar",
+      "year": "2016",
+      "journal-title": "Int. J. Cybern. Inform."
+    },
+    {
+      "key": "ref_28",
+      "doi-asserted-by": "crossref",
+      "first-page": "257",
+      "DOI": "10.1016/j.actaastro.2022.05.038",
+      "article-title": "Convex optimization of collision avoidance maneuvers in the presence of uncertainty",
+      "volume": "197",
+      "author": "Dutta",
+      "year": "2022",
+      "journal-title": "Acta Astronaut."
+    },
+    {
+      "key": "ref_29",
+      "doi-asserted-by": "crossref",
+      "first-page": "900",
+      "DOI": "10.1016/j.actaastro.2022.06.020",
+      "article-title": "Comparison between convex and non-convex optimization methods for collision avoidance maneuvers by a spacecraft",
+      "volume": "202",
+      "author": "Dutta",
+      "year": "2023",
+      "journal-title": "Acta Astronaut."
+    },
+    {
+      "key": "ref_30",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Betts, J.T. (2010). Practical Methods for Optimal Control and Estimation Using Nonlinear Programming, SIAM.",
+      "DOI": "10.1137/1.9780898718577"
+    },
+    {
+      "key": "ref_31",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Ma, J., Chen, H., Wang, J., and Zhang, Q. (2023). Real-Time Trajectory Planning for Hypersonic Entry Using Adaptive Non-Uniform Discretization and Convex Optimization. Mathematics, 11.",
+      "DOI": "10.3390/math11122754"
+    },
+    {
+      "key": "ref_32",
+      "doi-asserted-by": "crossref",
+      "first-page": "632",
+      "DOI": "10.1016/j.actaastro.2025.04.058",
+      "article-title": "Modified Smoothing-Homotopy-Based Sequential Convex Programming for Ascent Trajectory Optimization with Path Constraints",
+      "volume": "234",
+      "author": "Zhao",
+      "year": "2025",
+      "journal-title": "Acta Astronaut."
+    },
+    {
+      "key": "ref_33",
+      "first-page": "837",
+      "article-title": "Toward On-Board Guidance of Low-Thrust Spacecraft in Deep Space Using Sequential Convex Programming",
+      "volume": "176",
+      "author": "Hofmann",
+      "year": "2020",
+      "journal-title": "J. Guid. Control  Dyn."
+    },
+    {
+      "key": "ref_34",
+      "doi-asserted-by": "crossref",
+      "first-page": "653",
+      "DOI": "10.2514/8.8704",
+      "article-title": "Terminal Guidance System for Satellite Rendezvous",
+      "volume": "27",
+      "author": "Clohessy",
+      "year": "1960",
+      "journal-title": "J. Aerosp. Sci."
+    },
+    {
+      "key": "ref_35",
+      "unstructured": "(2026, March 15). ESA Collision Avoidance Challenge. Available online: https://kelvins.esa.int/collision-avoidance-challenge/home/."
+    },
+    {
+      "key": "ref_36",
+      "doi-asserted-by": "crossref",
+      "first-page": "121",
+      "DOI": "10.1007/s42064-021-0101-5",
+      "article-title": "Spacecraft collision avoidance challenge: Design and results of a machine learning competition",
+      "volume": "6",
+      "author": "Uriot",
+      "year": "2022",
+      "journal-title": "Astrodynamics"
+    },
+    {
+      "key": "ref_37",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Morgan, D., Chung, S.J., and Hadaegh, F.Y. (2012, January 13–16). Spacecraft swarm guidance using a sequence of decentralized convex optimizations. Proceedings of the AIAA/AAS Astrodynamics Specialist Conference, Minneapolis, MN, USA.",
+      "DOI": "10.2514/6.2012-4583"
+    },
+    {
+      "key": "ref_38",
+      "unstructured": "Chan, K. (2020, January 24). Comparison of methods for spacecraft collision probability computations. Proceedings of the International Space Conference of Pacific-Basin Societies (ISCOPS), Obihiro, Japan."
+    },
+    {
+      "key": "ref_39",
+      "unstructured": "Wang, Z. (2018). Trajectory Optimization and Guidance Design by Convex Programming. [Ph.D. Thesis, Purdue University]. Available online: https://docs.lib.purdue.edu/open_access_dissertations/2100."
+    },
+    {
+      "key": "ref_40",
+      "unstructured": "MOSEK ApS (2026, March 15). The MOSEK Optimization Toolbox for MATLAB Manual. Available online: http://docs.mosek.com/9.0/toolbox/index.html."
+    }
+  ],
+  "container-title": [
+    "Applied Sciences"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://www.mdpi.com/2076-3417/16/8/3707/pdf",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2026,
+        4,
+        10
+      ]
+    ],
+    "date-time": "2026-04-10T09:36:12Z",
+    "timestamp": 1775813772000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://www.mdpi.com/2076-3417/16/8/3707"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        4,
+        10
+      ]
+    ]
+  },
+  "references-count": 40,
+  "journal-issue": {
+    "issue": "8",
+    "published-online": {
+      "date-parts": [
+        [
+          2026,
+          4
+        ]
+      ]
+    }
+  },
+  "alternative-id": [
+    "app16083707"
+  ],
+  "URL": "https://doi.org/10.3390/app16083707",
+  "relation": {},
+  "ISSN": [
+    "2076-3417"
+  ],
+  "issn-type": [
+    {
+      "value": "2076-3417",
+      "type": "electronic"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2026,
+        4,
+        10
+      ]
+    ]
+  }
+}

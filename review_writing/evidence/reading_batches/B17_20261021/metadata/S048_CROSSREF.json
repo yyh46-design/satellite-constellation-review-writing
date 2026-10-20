@@ -1,0 +1,671 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        3,
+        3
+      ]
+    ],
+    "date-time": "2026-03-03T15:15:46Z",
+    "timestamp": 1772550946133,
+    "version": "3.50.1"
+  },
+  "reference-count": 44,
+  "publisher": "Springer Science and Business Media LLC",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2026,
+            3,
+            3
+          ]
+        ],
+        "date-time": "2026-03-03T00:00:00Z",
+        "timestamp": 1772496000000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "https://creativecommons.org/licenses/by/4.0"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2026,
+            3,
+            3
+          ]
+        ],
+        "date-time": "2026-03-03T00:00:00Z",
+        "timestamp": 1772496000000
+      },
+      "content-version": "vor",
+      "delay-in-days": 0,
+      "URL": "https://creativecommons.org/licenses/by/4.0"
+    }
+  ],
+  "funder": [
+    {
+      "DOI": "10.13039/501100002946",
+      "name": "Deutsches Zentrum für Luft- und Raumfahrt",
+      "doi-asserted-by": "publisher",
+      "award": [
+        "50 RU 180"
+      ],
+      "award-info": [
+        {
+          "award-number": [
+            "50 RU 180"
+          ]
+        }
+      ],
+      "id": [
+        {
+          "id": "10.13039/501100002946",
+          "id-type": "DOI",
+          "asserted-by": "publisher"
+        }
+      ]
+    },
+    {
+      "DOI": "10.13039/501100006764",
+      "name": "Technische Universität Berlin",
+      "doi-asserted-by": "crossref",
+      "id": [
+        {
+          "id": "10.13039/501100006764",
+          "id-type": "DOI",
+          "asserted-by": "crossref"
+        }
+      ]
+    }
+  ],
+  "content-domain": {
+    "domain": [
+      "link.springer.com"
+    ],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [
+    "CEAS Space J"
+  ],
+  "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>\n                    This paper presents the first in-orbit demonstration of a hybrid formation-control strategy using two 2U CubeSats within the NanoFF mission, validating the capabilities of the TUBiX-5 platform for close-proximity multi-satellite operations. The mission combines low-thrust propulsion and propellant-less differential-drag control in distinct operational phases: thruster maneuvers were used to correct an initial transverse drift of\n                    <jats:inline-formula>\n                      <jats:alternatives>\n                        <jats:tex-math>$${45}\\,\\hbox {km d}^{-1}$$</jats:tex-math>\n                        <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\">\n                          <mml:mrow>\n                            <mml:mn>45</mml:mn>\n                            <mml:mspace/>\n                            <mml:mtext>km</mml:mtext>\n                            <mml:mspace/>\n                            <mml:msup>\n                              <mml:mtext>d</mml:mtext>\n                              <mml:mrow>\n                                <mml:mo>-</mml:mo>\n                                <mml:mn>1</mml:mn>\n                              </mml:mrow>\n                            </mml:msup>\n                          </mml:mrow>\n                        </mml:math>\n                      </jats:alternatives>\n                    </jats:inline-formula>\n                    , after which differential drag was employed to further reduce relative distance while maintaining passive collision safety through a helix orbit geometry. Out-of-plane maneuvers were executed in Sunlit periods to refine cross-track separation, despite limited attitude-determination performance in eclipse. A key contribution is the first publicly reported in-orbit validation of Two-Line-Element (TLE)-based operational relative navigation for formation control on 2U CubeSats, used both for maneuver planning and for verifying drag- and thrust-based corrections during periods of intermittent GNSS availability. In addition, the mission demonstrates the first publicly reported in-orbit implementation of an autonomous drag management system on 2U CubeSats for formation control, enabling sustained along-track regulation with reduced ground-operator workload while satisfying power and safety constraints. The results confirm that resource-limited satellites can achieve fuel-efficient, collision-safe, and scalable formation control through a sequenced hybrid approach that integrates propulsion, differential drag, and TLE-based navigation. These findings establish performance benchmarks for future academic and commercial multi-satellite missions and support the development of autonomous nanosatellite systems for inspection, servicing, and rendezvous and docking.\n                  </jats:p>",
+  "DOI": "10.1007/s12567-026-00702-6",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2026,
+        3,
+        3
+      ]
+    ],
+    "date-time": "2026-03-03T11:48:45Z",
+    "timestamp": 1772538525000
+  },
+  "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+  "source": "Crossref",
+  "is-referenced-by-count": 0,
+  "title": [
+    "In-orbit demonstration of propulsive and drag-based formation control using two 2U CubeSats under operational constraints"
+  ],
+  "prefix": "10.1007",
+  "author": [
+    {
+      "ORCID": "https://orcid.org/0009-0002-7737-1873",
+      "authenticated-orcid": false,
+      "given": "Debdeep",
+      "family": "Roychowdhury",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0003-3467-2748",
+      "authenticated-orcid": false,
+      "given": "Sebastian",
+      "family": "Grau",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0009-0000-1008-5392",
+      "authenticated-orcid": false,
+      "given": "Fynn",
+      "family": "Boyer",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-1059-5365",
+      "authenticated-orcid": false,
+      "given": "Sascha",
+      "family": "Kapitola",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    },
+    {
+      "given": "Alan",
+      "family": "Legenza",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0009-0006-1062-8741",
+      "authenticated-orcid": false,
+      "given": "José Manuel",
+      "family": "Diez",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0009-0005-7881-1406",
+      "authenticated-orcid": false,
+      "given": "Benjamin",
+      "family": "Palmer",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-4760-3445",
+      "authenticated-orcid": false,
+      "given": "Enrico",
+      "family": "Stoll",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    }
+  ],
+  "member": "297",
+  "published-online": {
+    "date-parts": [
+      [
+        2026,
+        3,
+        3
+      ]
+    ]
+  },
+  "reference": [
+    {
+      "key": "702_CR1",
+      "unstructured": "Bartusch, M., Miller, D., Zink, M.: Tandem-x: Mission overview and status. In: 8th European Conference on Synthetic Aperture Radar, pp. 1–4 (2010). VDE"
+    },
+    {
+      "key": "702_CR2",
+      "unstructured": "Weiss, S., Korn, N., Wolf, R., Lim, Y., Roychowdhury, D., Baumann, F.: Nanoff: A 2u-cubesat formation flight mission. In: 70th International Astronautical Congress (2019)"
+    },
+    {
+      "key": "702_CR3",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Yoon, Z., Frese, W., Stoll, E.: In-orbit performance of the narrowband intersatellite mission s-net. In: 2022 IEEE Space Hardware and Radio Conference (SHaRC), pp. 1–4 (2022). IEEE",
+      "DOI": "10.1109/SHaRC53093.2022.9720032"
+    },
+    {
+      "key": "702_CR4",
+      "unstructured": "Roychowdhury, D., Grau, S., Ben-Larbi, M.K., et al.: Feasibility analysis of rendezvous and docking operations in leo for cubesats with limited delta-v budget. In: 14th IAA Symposium on Small Satellites for Earth Observation (2023)"
+    },
+    {
+      "issue": "3",
+      "key": "702_CR5",
+      "doi-asserted-by": "publisher",
+      "first-page": "567",
+      "DOI": "10.2514/1.A33291",
+      "volume": "53",
+      "author": "S Bandyopadhyay",
+      "year": "2016",
+      "unstructured": "Bandyopadhyay, S., Foust, R., Subramanian, G.P., Chung, S.-J., Hadaegh, F.Y.: Review of formation flying and constellation missions using nanosatellites. J. Spacecr. Rocket. 53(3), 567–578 (2016)",
+      "journal-title": "J. Spacecr. Rocket."
+    },
+    {
+      "issue": "1",
+      "key": "702_CR6",
+      "doi-asserted-by": "publisher",
+      "first-page": "110",
+      "DOI": "10.1016/j.actaastro.2012.04.029",
+      "volume": "82",
+      "author": "E Gill",
+      "year": "2013",
+      "unstructured": "Gill, E., Sundaramoorthy, P., Bouwmeester, J., Zandbergen, B., Reinhard, R.: Formation flying within a constellation of nano-satellites: The qb50 mission. Acta Astronaut. 82(1), 110–117 (2013)",
+      "journal-title": "Acta Astronaut."
+    },
+    {
+      "key": "702_CR7",
+      "unstructured": "Bonin, G., Roth, N., Armitage, S., Newman, J., Risi, B., Zee, R.E.: Canx–4 and canx–5 precision formation flight: Mission accomplished! (2015)"
+    },
+    {
+      "key": "702_CR8",
+      "doi-asserted-by": "publisher",
+      "first-page": "383",
+      "DOI": "10.1016/j.actaastro.2018.01.042",
+      "volume": "153",
+      "author": "G Gaias",
+      "year": "2018",
+      "unstructured": "Gaias, G., Ardaens, J.-S.: In-orbit experience and lessons learned from the avanti experiment. Acta Astronaut. 153, 383–393 (2018). https://doi.org/10.1016/j.actaastro.2018.01.042",
+      "journal-title": "Acta Astronaut."
+    },
+    {
+      "key": "702_CR9",
+      "unstructured": "Gangestad, J.W., Venturini, C.C., Hinkley, D.A., Kinum, G.: A sat-to-sat inspection demonstration with the aerocube-10 1.5 u cubesats (2021)"
+    },
+    {
+      "key": "702_CR10",
+      "doi-asserted-by": "publisher",
+      "first-page": "580",
+      "DOI": "10.1016/j.actaastro.2022.09.036",
+      "volume": "201",
+      "author": "J Scharnagl",
+      "year": "2022",
+      "unstructured": "Scharnagl, J., Haber, R., Dombrovski, V., Schilling, K.: Netsat-challenges and lessons learned of a formation of 4 nano-satellites. Acta Astronaut. 201, 580–591 (2022)",
+      "journal-title": "Acta Astronaut."
+    },
+    {
+      "key": "702_CR11",
+      "doi-asserted-by": "publisher",
+      "first-page": "397",
+      "DOI": "10.1007/s12567-020-00308-6",
+      "volume": "12",
+      "author": "Z Yoon",
+      "year": "2020",
+      "unstructured": "Yoon, Z., Lim, Y., Grau, S., Frese, W., Garcia, M.A.: Orbit deployment and drag control strategy for formation flight while minimizing collision probability and drift. CEAS Space Journal 12, 397–410 (2020)",
+      "journal-title": "CEAS Space Journal"
+    },
+    {
+      "key": "702_CR12",
+      "unstructured": "Brown, M., Boyce, R., Lambert, A., Peters, E.G., Gehly, S., Boland, S., Jeffreson, R., Kremor, A., Bateman, T., Capon, C., et al.: Formation flying and change detection for the unsw canberra space “m2” low earth orbit formation flying cubesat mission. In: Advanced Maui Optical and Space Surveillance Technologies Conference (2022)"
+    },
+    {
+      "key": "702_CR13",
+      "unstructured": "Cubesat design specification rev 14.1"
+    },
+    {
+      "key": "702_CR14",
+      "doi-asserted-by": "publisher",
+      "unstructured": "Jeon, S., Park, S.-Y., Kim, G.-N.: Relative orbit control algorithms and scenarios for the inertial alignment hold demonstration mission by cubesat formation flying. Aerospace 11(2) (2024) https://doi.org/10.3390/aerospace11020135",
+      "DOI": "10.3390/aerospace11020135"
+    },
+    {
+      "key": "702_CR15",
+      "unstructured": "Foster, C., Mason, J., Vittaldev, V., Leung, L., Beukelaers, V., Stepan, L., Zimmerman, R.: Differential drag control scheme for large constellation of planet satellites and on-orbit results. arXiv preprint arXiv:1806.01218 (2018)"
+    },
+    {
+      "issue": "7",
+      "key": "702_CR16",
+      "doi-asserted-by": "publisher",
+      "first-page": "3157",
+      "DOI": "10.1016/j.asr.2024.06.038",
+      "volume": "74",
+      "author": "A Liu",
+      "year": "2024",
+      "unstructured": "Liu, A., Xu, X., Xiong, Y., Yu, S.: Maneuver strategies of starlink satellite based on spacex-released ephemeris. Adv. Space Res. 74(7), 3157–3169 (2024)",
+      "journal-title": "Adv. Space Res."
+    },
+    {
+      "key": "702_CR17",
+      "volume-title": "Analytical Mechanics of Aerospace Systems",
+      "author": "H Schaub",
+      "year": "2002",
+      "unstructured": "Schaub, H., Junkins, J.L.: Analytical Mechanics of Aerospace Systems. AIAA Education Series, Reston, VA (2002)"
+    },
+    {
+      "key": "702_CR18",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.actaastro.2025.02.035",
+      "author": "D Roychowdhury",
+      "year": "2025",
+      "unstructured": "Roychowdhury, D., Grau, S., Stoll, E.: Helix orbit deployment of nanosatellites for formation flight: Strategy, gnss/tles evaluation, and accuracy analysis. Acta Astronaut. (2025). https://doi.org/10.1016/j.actaastro.2025.02.035",
+      "journal-title": "Acta Astronaut."
+    },
+    {
+      "key": "702_CR19",
+      "unstructured": "General Mission Analysis Tool (GMAT): Mathematical specifications. Draft report, NASA Goddard Space Flight Center (November 2022). Draft for Release R2022a"
+    },
+    {
+      "key": "702_CR20",
+      "unstructured": "D’Amico, S.: Autonomous Formation Flying in Low Earth Orbit. Dissertation, Technical University of Delft, Delft, The Netherlands (2010)"
+    },
+    {
+      "issue": "5",
+      "key": "702_CR21",
+      "doi-asserted-by": "publisher",
+      "first-page": "1338",
+      "DOI": "10.2514/1.A33036",
+      "volume": "52",
+      "author": "M Wermuth",
+      "year": "2015",
+      "unstructured": "Wermuth, M., Gaias, G., D’Amico, S.: Safe picosatellite release from a small satellite carrier. J. Spacecr. Rocket. 52(5), 1338–1347 (2015)",
+      "journal-title": "J. Spacecr. Rocket."
+    },
+    {
+      "key": "702_CR22",
+      "volume-title": "Fundamentals of Astrodynamics and Applications",
+      "author": "DA Vallado",
+      "year": "2013",
+      "unstructured": "Vallado, D.A.: Fundamentals of Astrodynamics and Applications, 4th edn. Microcosm Press, Hawthorne, CA (2013)",
+      "edition": "4"
+    },
+    {
+      "key": "702_CR23",
+      "unstructured": "Vries, W.: Cubesat drag calculations. Technical report, Lawrence Livermore National Lab.(LLNL), Livermore, CA (United States) (2010)"
+    },
+    {
+      "key": "702_CR24",
+      "unstructured": "Doornbos, E., Bruinsma, S., Pilinski, M.D., Bowman, B.: The need for a standard for satellite drag computation to improve consistency between thermosphere density models and data sets. In: 6th European Conference on Space Debris, vol. 723, p. 71 (2013)"
+    },
+    {
+      "key": "702_CR25",
+      "doi-asserted-by": "publisher",
+      "unstructured": "maisonobe, Cazabonne, B., Ward, E., Serra, R., Journot, M., Dinot, S., Bonnefille, G., Neidhart, T., Maisonobe, L., Jonglez, C., Rutten, M., yjeand, Hernanz, J., lirw1984, Cucchietti, V., Goetz, A., Guiuux, gaetanpierre0, Christensen, L.N., Fossà, A., jvalet, Ferrero, A., gabb5, liscju, Schank, C., Mills, T., plan3d, Yadav, V., Iyer, S., Hyvönen, P.: CS-SI/Orekit: 12.2. https://doi.org/10.5281/zenodo.13950582",
+      "DOI": "10.5281/zenodo.13950582"
+    },
+    {
+      "key": "702_CR26",
+      "unstructured": "GMAT Development Team: General Mission Analysis Tool (GMAT) User’s Guide, R2022a. NASA Goddard Space Flight Center, (2022). NASA Goddard Space Flight Center. Available at https://sourceforge.net/projects/gmat/"
+    },
+    {
+      "key": "702_CR27",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Roychowdhury, D., Kapitola, S., Boyer, F., et al.: Lessons learned from the initial operations phase in the nanoff cubesat formation flight mission. In: 75th International Astronautical Congress (2024)",
+      "DOI": "10.52202/078371-0093"
+    },
+    {
+      "key": "702_CR28",
+      "unstructured": "Hamamatsu Photonics: s5990-01 PSD Datasheet. Accessed: 2024-09-20. https://www.hamamatsu.com/content/dam/hamamatsu-photonics/sites/documents/99_SALES_LIBRARY/ssd/s5990-01_etc_kpsd1010e.pdf"
+    },
+    {
+      "key": "702_CR29",
+      "unstructured": "MEMSIC Semiconductor: MMC5983MA Datasheet. Revision A, Accessed: 2024-09-20. https://eu.mouser.com/datasheet/2/821/Memsic_09102019_MMC5983MA_Datasheet_Rev_A-1635338.pdf"
+    },
+    {
+      "key": "702_CR30",
+      "unstructured": "Bosch Sensortec: BMI270 Datasheet. Revision 1.5, Accessed: 2024-09-20. https://www.bosch-sensortec.com/media/boschsensortec/downloads/datasheets/bst-bmi270-ds000.pdf"
+    },
+    {
+      "key": "702_CR31",
+      "unstructured": "Analog Devices: ADXL355 Datasheet. Revision C, Accessed: 2024-09-20. https://www.analog.com/media/en/technical-documentation/data-sheets/adxl354_adxl355.pdf"
+    },
+    {
+      "key": "702_CR32",
+      "unstructured": "Regen, G., Boyer, F., Kapitola, S., Palmer, B., Roychowdhury, D., Legenza, A., Lopez, J.M.D., Ben-Larbi, K., Stoll, E.: Sos star tracker algorithm: Static open-source star tracker for agile attitude determination. In: Proceedings of the 15th IAA Symposium on Small Satellites for Earth Observation, Berlin, Germany (2025). International Academy of Astronautics (IAA). Presented at the 15th IAA Symposium on Small Satellites for Earth Observation"
+    },
+    {
+      "key": "702_CR33",
+      "unstructured": "U-blox: U-blox NEO M8T Datasheet. Revision R08, Accessed: 2024-09-20. https://content.u-blox.com/sites/default/files/documents/NEO-LEA-M8T-FW3_DataSheet_UBX-15025193.pdf"
+    },
+    {
+      "key": "702_CR34",
+      "unstructured": "Skytraq: Skytraq website. Accessed: 2024-09-20. https://www.skytraq.com.tw/homesite/"
+    },
+    {
+      "key": "702_CR35",
+      "unstructured": "Rocketlab: 3 mNms RW-0.003 Data Sheet. Version 1, 14 July 2021, Accessed: 2024-09-20. https://www.rocketlabusa.com/assets/Uploads/RL-RW-0.003-Data-Sheet.pdf"
+    },
+    {
+      "key": "702_CR36",
+      "unstructured": "Grau, S., Diez Lopez, J., Roychowdhury, D., et al.: Design automation of embedded air coils for cubesat attitude control. In: 4S Symposium (2024)"
+    },
+    {
+      "key": "702_CR37",
+      "unstructured": "Aerospace Innovation GmbH: Aerospace Innovation Website. Accessed: 2024-09-20. http://www.aerospace-innovation.com/"
+    },
+    {
+      "key": "702_CR38",
+      "unstructured": "Taoglas: Datasheet AP.17F.07.0064A. Accessed: 2024-11-04. https://eu.mouser.com/datasheet/2/398/AP_17F_07_0064A-3399035.pdf"
+    },
+    {
+      "key": "702_CR39",
+      "unstructured": "Sidi, M.J.: Spacecraft Dynamics and Control: A Practical Engineering Approach. Cambridge Aerospace Series, vol. 7. Cambridge University Press, Cambridge, UK (1997)"
+    },
+    {
+      "key": "702_CR40",
+      "unstructured": "GmbH, A.I.: Interface control document (icd) für aquajet ai-x40 bestehend aus aquajet-ms in verbindung mit dem memtana-modul vor dem hintergrund der nff-mission der technischen universität berlin (tub). Technical Report AI-NFF_TN_0002_11_ICD, Aerospace Innovation GmbH (June 2023). Update des Dokuments: nFF-AI-ICD-001 Ausgabe 11"
+    },
+    {
+      "issue": "1",
+      "key": "702_CR41",
+      "first-page": "1",
+      "volume": "9",
+      "author": "I Khalil",
+      "year": "2016",
+      "unstructured": "Khalil, I., Samwel, S.: Effect of air drag force on low earth orbit satellites during maximum and minimum solar activity. Space Research Journal 9(1), 1–9 (2016)",
+      "journal-title": "Space Research Journal"
+    },
+    {
+      "issue": "6",
+      "key": "702_CR42",
+      "doi-asserted-by": "publisher",
+      "first-page": "1337",
+      "DOI": "10.2514/1.G003239",
+      "volume": "41",
+      "author": "G Gaias",
+      "year": "2018",
+      "unstructured": "Gaias, G., Ardaens, J.-S.: Flight demonstration of autonomous noncooperative rendezvous in low earth orbit. J. Guid. Control. Dyn. 41(6), 1337–1354 (2018)",
+      "journal-title": "J. Guid. Control. Dyn."
+    },
+    {
+      "key": "702_CR43",
+      "unstructured": "Alfriend, K., Vadali, S.R., Gurfil, P., How, J., Breger, L.: Spacecraft Formation Flying: Dynamics, Control and Navigation vol. 2. Elsevier, (2009)"
+    },
+    {
+      "issue": "A12",
+      "key": "702_CR44",
+      "doi-asserted-by": "publisher",
+      "first-page": "15",
+      "DOI": "10.1029/2002JA009430",
+      "volume": "107",
+      "author": "JM Picone",
+      "year": "2002",
+      "unstructured": "Picone, J.M., Hedin, A.E., Drob, D.P., Aikin, A.C.: Nrlmsise-00 empirical model of the atmosphere: Statistical comparisons and scientific issues. J. Geophys. Res. Space Physics 107(A12), 15–11516 (2002). https://doi.org/10.1029/2002JA009430",
+      "journal-title": "J. Geophys. Res. Space Physics"
+    }
+  ],
+  "container-title": [
+    "CEAS Space Journal"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://link.springer.com/content/pdf/10.1007/s12567-026-00702-6.pdf",
+      "content-type": "application/pdf",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://link.springer.com/article/10.1007/s12567-026-00702-6",
+      "content-type": "text/html",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://link.springer.com/content/pdf/10.1007/s12567-026-00702-6.pdf",
+      "content-type": "application/pdf",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2026,
+        3,
+        3
+      ]
+    ],
+    "date-time": "2026-03-03T11:49:30Z",
+    "timestamp": 1772538570000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://link.springer.com/10.1007/s12567-026-00702-6"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        3,
+        3
+      ]
+    ]
+  },
+  "references-count": 44,
+  "alternative-id": [
+    "702"
+  ],
+  "URL": "https://doi.org/10.1007/s12567-026-00702-6",
+  "relation": {},
+  "ISSN": [
+    "1868-2502",
+    "1868-2510"
+  ],
+  "issn-type": [
+    {
+      "value": "1868-2502",
+      "type": "print"
+    },
+    {
+      "value": "1868-2510",
+      "type": "electronic"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2026,
+        3,
+        3
+      ]
+    ]
+  },
+  "assertion": [
+    {
+      "value": "31 May 2025",
+      "order": 1,
+      "name": "received",
+      "label": "Received",
+      "group": {
+        "name": "ArticleHistory",
+        "label": "Article History"
+      }
+    },
+    {
+      "value": "29 November 2025",
+      "order": 2,
+      "name": "revised",
+      "label": "Revised",
+      "group": {
+        "name": "ArticleHistory",
+        "label": "Article History"
+      }
+    },
+    {
+      "value": "19 January 2026",
+      "order": 3,
+      "name": "accepted",
+      "label": "Accepted",
+      "group": {
+        "name": "ArticleHistory",
+        "label": "Article History"
+      }
+    },
+    {
+      "value": "3 March 2026",
+      "order": 4,
+      "name": "first_online",
+      "label": "First Online",
+      "group": {
+        "name": "ArticleHistory",
+        "label": "Article History"
+      }
+    },
+    {
+      "order": 1,
+      "name": "Ethics",
+      "group": {
+        "name": "EthicsHeading",
+        "label": "Statements and declarations"
+      }
+    },
+    {
+      "value": "The authors declare no conflict of interest.",
+      "order": 2,
+      "name": "Ethics",
+      "group": {
+        "name": "EthicsHeading",
+        "label": "Conflict of interest"
+      }
+    },
+    {
+      "value": "A preliminary version of this work, focusing on early commissioning and initial orbit correction, was presented at the 2024 International Astronautical Congress (Roychowdhury et al., 2024) [\n                      \n                      ]. This journal article significantly extends that work with new results, expanded analyses, and substantial additional content. The IAC paper is properly cited as contextual background, and the content of this manuscript is substantially new and distinct.",
+      "order": 3,
+      "name": "Ethics",
+      "group": {
+        "name": "EthicsHeading",
+        "label": "Prior conference publication"
+      }
+    },
+    {
+      "value": "Relevant subsections in Sect.\n                      \n                      describing the definitions, conventions, and equations have been rewritten with slight modifications from our earlier publication [\n                      \n                      ] to ensure the manuscript remains self-contained and reader-friendly.",
+      "order": 4,
+      "name": "Ethics",
+      "group": {
+        "name": "EthicsHeading",
+        "label": "Material reuse"
+      }
+    }
+  ]
+}

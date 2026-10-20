@@ -1,0 +1,391 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        6,
+        6
+      ]
+    ],
+    "date-time": "2026-06-06T16:14:50Z",
+    "timestamp": 1780762490728,
+    "version": "3.54.1"
+  },
+  "reference-count": 28,
+  "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2022,
+            1,
+            1
+          ]
+        ],
+        "date-time": "2022-01-01T00:00:00Z",
+        "timestamp": 1640995200000
+      },
+      "content-version": "vor",
+      "delay-in-days": 0,
+      "URL": "https://ieeexplore.ieee.org/Xplorehelp/downloads/license-information/IEEE.html"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2022,
+            1,
+            1
+          ]
+        ],
+        "date-time": "2022-01-01T00:00:00Z",
+        "timestamp": 1640995200000
+      },
+      "content-version": "stm-asf",
+      "delay-in-days": 0,
+      "URL": "https://doi.org/10.15223/policy-029"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2022,
+            1,
+            1
+          ]
+        ],
+        "date-time": "2022-01-01T00:00:00Z",
+        "timestamp": 1640995200000
+      },
+      "content-version": "stm-asf",
+      "delay-in-days": 0,
+      "URL": "https://doi.org/10.15223/policy-037"
+    }
+  ],
+  "content-domain": {
+    "domain": [],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [
+    "IEEE Trans. Aerosp. Electron. Syst."
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2022
+      ]
+    ]
+  },
+  "DOI": "10.1109/taes.2022.3200345",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2022,
+        8,
+        22
+      ]
+    ],
+    "date-time": "2022-08-22T19:58:42Z",
+    "timestamp": 1661198322000
+  },
+  "page": "1-33",
+  "source": "Crossref",
+  "is-referenced-by-count": 8,
+  "title": [
+    "Satellite Formation Flying Control by Using Only Angle Measurements"
+  ],
+  "prefix": "10.1109",
+  "author": [
+    {
+      "ORCID": "https://orcid.org/0000-0001-5965-2669",
+      "authenticated-orcid": false,
+      "given": "Jianqing",
+      "family": "Li",
+      "sequence": "first",
+      "affiliation": [
+        {
+          "name": "College of Communication Engineering, Hangzhou Dianzi University, Hangzhou, China"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-8898-810X",
+      "authenticated-orcid": false,
+      "given": "Liangming",
+      "family": "Chen",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "School of Mechanical and Aerospace Engineering, Nanyang Technological University, Singapore"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0001-5472-562X",
+      "authenticated-orcid": false,
+      "given": "Ming",
+      "family": "Cao",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Faculty of Science and Engineering, University of Groningen, Groningen, The Netherlands"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0003-3565-3856",
+      "authenticated-orcid": false,
+      "given": "Chaoyong",
+      "family": "Li",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "College of Electrical Engineering, Zhejiang University, Hangzhou, China"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "member": "263",
+  "reference": [
+    {
+      "key": "ref1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.2514/1.I010497"
+    },
+    {
+      "key": "ref2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.asr.2007.05.025"
+    },
+    {
+      "key": "ref3",
+      "article-title": "Triangle formation design in eccentric orbits using pseudospectral optimal control",
+      "volume-title": "Proc. AIAA/AAS Astrodynamics Specialist Conf. Exhibit",
+      "author": "Qi",
+      "year": "2013"
+    },
+    {
+      "key": "ref4",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.2514/1.22736"
+    },
+    {
+      "key": "ref5",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.2514/1.G004219"
+    },
+    {
+      "key": "ref6",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.actaastro.2020.03.015"
+    },
+    {
+      "key": "ref7",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1002/rnc.2812"
+    },
+    {
+      "key": "ref8",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.automatica.2011.02.014"
+    },
+    {
+      "key": "ref9",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.2514/1.9287"
+    },
+    {
+      "key": "ref10",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1109/TAES.2014.130263"
+    },
+    {
+      "key": "ref11",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.sysconle.2013.02.006"
+    },
+    {
+      "key": "ref12",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1109/TAC.2015.2459191"
+    },
+    {
+      "key": "ref13",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.2514/1.19850"
+    },
+    {
+      "key": "ref14",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.automatica.2014.10.022"
+    },
+    {
+      "key": "ref15",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.automatica.2011.01.067"
+    },
+    {
+      "key": "ref16",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.23919/ACC.2019.8814738"
+    },
+    {
+      "key": "ref17",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1002/rnc.2967"
+    },
+    {
+      "key": "ref18",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.sysconle.2009.12.010"
+    },
+    {
+      "key": "ref19",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1109/CCA.2012.6402365"
+    },
+    {
+      "key": "ref20",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.automatica.2019.03.026"
+    },
+    {
+      "key": "ref21",
+      "article-title": "An integrated vision-based system for spacecraft attitude and topology determination for formation flight missions",
+      "volume-title": "Proc. 18th Annu. AIAA/USU Conf. Small Satellites",
+      "author": "Rogers",
+      "year": "2004"
+    },
+    {
+      "key": "ref22",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.2514/6.2000-4439"
+    },
+    {
+      "key": "ref23",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/c2009-0-17485-8"
+    },
+    {
+      "key": "ref24",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.ast.2021.107266"
+    },
+    {
+      "key": "ref25",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.ast.2021.107176"
+    },
+    {
+      "key": "ref26",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1109/TAC.2020.3025539"
+    },
+    {
+      "key": "ref27",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1088/1742-6596/1341/6/062017"
+    },
+    {
+      "key": "ref28",
+      "volume": "3",
+      "author": "Khalil",
+      "year": "2002",
+      "journal-title": "Nonlinear Syst."
+    }
+  ],
+  "container-title": [
+    "IEEE Transactions on Aerospace and Electronic Systems"
+  ],
+  "original-title": [],
+  "link": [
+    {
+      "URL": "http://xplorestaging.ieee.org/ielx7/7/7778228/09864056.pdf?arnumber=9864056",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2024,
+        2,
+        1
+      ]
+    ],
+    "date-time": "2024-02-01T12:08:26Z",
+    "timestamp": 1706789306000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://ieeexplore.ieee.org/document/9864056/"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2022
+      ]
+    ]
+  },
+  "references-count": 28,
+  "URL": "https://doi.org/10.1109/taes.2022.3200345",
+  "relation": {},
+  "ISSN": [
+    "0018-9251",
+    "1557-9603",
+    "2371-9877"
+  ],
+  "issn-type": [
+    {
+      "value": "0018-9251",
+      "type": "print"
+    },
+    {
+      "value": "1557-9603",
+      "type": "electronic"
+    },
+    {
+      "value": "2371-9877",
+      "type": "electronic"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2022
+      ]
+    ]
+  }
+}

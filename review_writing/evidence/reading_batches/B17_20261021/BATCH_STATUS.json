@@ -1,0 +1,48 @@
+{
+  "batch": "B17_20261021",
+  "base_commit": "f5c06395e5e01342f397a696227ad4a56b58a195",
+  "branch": "research/constellation-review-reading-b17-safety-20261021",
+  "topic": "intent sharing, inverse games, verification, joint internal/external safety and flight-operation constraints",
+  "batch_limit": 10,
+  "close_read_ids": [
+    "S041",
+    "S042",
+    "S043",
+    "S044",
+    "S045",
+    "S046",
+    "S047",
+    "S048",
+    "S049",
+    "S050"
+  ],
+  "original_pool_total": 80,
+  "original_pool_close_read_this_batch": 0,
+  "original_pool_close_read_cumulative": 20,
+  "original_pool_remaining": 60,
+  "topic_supplement_close_read_this_batch": 10,
+  "topic_supplement_close_read_cumulative": 50,
+  "B11_through_B17_close_read_records": 70,
+  "multi_spacecraft_primary_papers": 5,
+  "single_controlled_spacecraft_foundation_papers": 3,
+  "general_or_cross_domain_foundation_papers": 2,
+  "flight_report_papers": 1,
+  "held_from_scientific_adoption": [
+    "S045"
+  ],
+  "candidate_after_human_review": 9,
+  "pdf_files_acquired_and_read": 10,
+  "pdf_total_pages": 134,
+  "actual_visual_page_count": 40,
+  "claim_count": 50,
+  "human_verified": false,
+  "submission_ready": false,
+  "manuscript_modified": false,
+  "historical_reading_totals_updated": false,
+  "inherited_version_pairing_pending": [
+    "B13:S008 newer arXiv v2 unread",
+    "B16:S037 actual undated report versus formal publication unpaired",
+    "B16:S038 PDF author order versus publisher/Crossref unresolved"
+  ],
+  "stop_after_batch": true
+}

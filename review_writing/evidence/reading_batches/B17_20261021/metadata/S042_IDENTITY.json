@@ -1,0 +1,22 @@
+{
+  "title": "Learning Hyperplanes for Multi-Robot Collision Avoidance in Space",
+  "aliases": [
+    "Learning Hyperplanes for Multi-Agent Collision Avoidance in Space"
+  ],
+  "authors_as_read": "Fernando Palafox; Yue Yu; David Fridovich-Keil",
+  "bibliographic_year": 2023,
+  "identifier": "arXiv:2311.09439v1",
+  "actual_arxiv_version": "2311.09439v1",
+  "actual_version": "arXiv v1，2023-11-15，7页；PDF题名为Multi-Robot，arXiv摘要页题名为Multi-Agent，作为同一记录保存。",
+  "source_sha256": "7423f1368c810d7f0dcaa99ed319ea6dbcf8d1ee40c344514fc7fd13bb0db656",
+  "source_format": "PDF",
+  "primary_url": "https://arxiv.org/abs/2311.09439v1",
+  "human_verified": false,
+  "formal_version_text_compared": false,
+  "adoption_status": "candidate_after_human_review",
+  "PDF_title_uses": "Multi-Robot",
+  "arxiv_abstract_title_uses": "Multi-Agent",
+  "same_arxiv_id": true,
+  "title_difference_resolved": false,
+  "counts_as_one_record": true
+}

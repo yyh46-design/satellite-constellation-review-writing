@@ -1,0 +1,16 @@
+{
+  "title": "A reinforcement learning training and testing framework for aerospace missions",
+  "aliases": [],
+  "authors_as_read": "Yiqin Cong; Xiaolei Ruan; Maxiu Cai; Tianxi Liu; Cheng Wei; Xibin Cao",
+  "bibliographic_year": 2026,
+  "identifier": "10.1007/s11431-025-3169-9",
+  "actual_arxiv_version": null,
+  "actual_version": "Science China Technological Sciences 69(1):1100305，2026-01-04在线，15页Science China出版社PDF；DOI后缀2025不等于出版年。",
+  "source_sha256": "317ad41aea4a9f53c8adac5a7519eb3877337f167cd78b8735e5e65cd9f56ca0",
+  "source_format": "PDF",
+  "primary_url": "https://doi.org/10.1007/s11431-025-3169-9",
+  "human_verified": false,
+  "formal_version_text_compared": false,
+  "adoption_status": "candidate_after_human_review",
+  "crossref_file": "S050_CROSSREF.json"
+}

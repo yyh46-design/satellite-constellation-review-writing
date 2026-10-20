@@ -1,0 +1,689 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        7,
+        15
+      ]
+    ],
+    "date-time": "2026-07-15T15:58:50Z",
+    "timestamp": 1784131130613,
+    "version": "3.55.0"
+  },
+  "reference-count": 39,
+  "publisher": "Springer Science and Business Media LLC",
+  "issue": "1",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2026,
+            1,
+            1
+          ]
+        ],
+        "date-time": "2026-01-01T00:00:00Z",
+        "timestamp": 1767225600000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "https://www.springernature.com/gp/researchers/text-and-data-mining"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2026,
+            1,
+            1
+          ]
+        ],
+        "date-time": "2026-01-01T00:00:00Z",
+        "timestamp": 1767225600000
+      },
+      "content-version": "vor",
+      "delay-in-days": 0,
+      "URL": "https://www.springernature.com/gp/researchers/text-and-data-mining"
+    }
+  ],
+  "content-domain": {
+    "domain": [
+      "link.springer.com"
+    ],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [
+    "Sci. China Technol. Sci."
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2026,
+        1
+      ]
+    ]
+  },
+  "DOI": "10.1007/s11431-025-3169-9",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2026,
+        1,
+        12
+      ]
+    ],
+    "date-time": "2026-01-12T14:37:28Z",
+    "timestamp": 1768228648000
+  },
+  "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+  "source": "Crossref",
+  "is-referenced-by-count": 1,
+  "title": [
+    "A reinforcement learning training and testing framework for aerospace missions"
+  ],
+  "prefix": "10.1007",
+  "volume": "69",
+  "author": [
+    {
+      "given": "Yiqin",
+      "family": "Cong",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Xiaolei",
+      "family": "Ruan",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Maxiu",
+      "family": "Cai",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Tianxi",
+      "family": "Liu",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Cheng",
+      "family": "Wei",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Xibin",
+      "family": "Cao",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "member": "297",
+  "published-online": {
+    "date-parts": [
+      [
+        2026,
+        1,
+        4
+      ]
+    ]
+  },
+  "reference": [
+    {
+      "key": "3169_CR1",
+      "doi-asserted-by": "publisher",
+      "first-page": "128471",
+      "DOI": "10.1016/j.eswa.2025.128471",
+      "volume": "292",
+      "author": "X Li",
+      "year": "2025",
+      "unstructured": "Li X, Chen Y, Xing L, et al. A review of the frameworks, models, and algorithms for large-scale imaging satellite mission planning. Expert Syst Appl, 2025, 292: 128471",
+      "journal-title": "Expert Syst Appl"
+    },
+    {
+      "key": "3169_CR2",
+      "doi-asserted-by": "publisher",
+      "first-page": "100960",
+      "DOI": "10.1016/j.paerosci.2023.100960",
+      "volume": "144",
+      "author": "K Thangavel",
+      "year": "2024",
+      "unstructured": "Thangavel K, Sabatini R, Gardi A, et al. Artificial intelligence for trusted autonomous satellite operations. Prog Aerospace Sci, 2024, 144: 100960",
+      "journal-title": "Prog Aerospace Sci"
+    },
+    {
+      "key": "3169_CR3",
+      "doi-asserted-by": "publisher",
+      "first-page": "12",
+      "DOI": "10.1109/MCI.2017.2742866",
+      "volume": "12",
+      "author": "M Vasile",
+      "year": "2017",
+      "unstructured": "Vasile M, Minisci E, Tang K. Computational intelligence in aerospace science and engineering [guest editorial]. IEEE Comput Intell Mag, 2017, 12: 12–13",
+      "journal-title": "IEEE Comput Intell Mag"
+    },
+    {
+      "key": "3169_CR4",
+      "doi-asserted-by": "publisher",
+      "first-page": "325",
+      "DOI": "10.1016/j.actaastro.2024.08.029",
+      "volume": "224",
+      "author": "L Xu",
+      "year": "2024",
+      "unstructured": "Xu L, Zhang G, Qiu S, et al. Reinforcement learning-based multi-impulse rendezvous approach for satellite constellation reconfiguration. Acta Astronaut, 2024, 224: 325–337",
+      "journal-title": "Acta Astronaut"
+    },
+    {
+      "key": "3169_CR5",
+      "doi-asserted-by": "publisher",
+      "first-page": "2105",
+      "DOI": "10.1007/s12555-024-0648-z",
+      "volume": "23",
+      "author": "N A Tafanidis",
+      "year": "2025",
+      "unstructured": "Tafanidis N A, Banerjee A, Satpute S G, et al. Reinforcement learning based intelligent control for low-thrust tight station keeping in low Earth orbit. Int J Control Autom Syst, 2025, 23: 2105–2116",
+      "journal-title": "Int J Control Autom Syst"
+    },
+    {
+      "key": "3169_CR6",
+      "doi-asserted-by": "publisher",
+      "first-page": "927",
+      "DOI": "10.23919/JSEE.2021.000079",
+      "volume": "32",
+      "author": "X Zeng",
+      "year": "2021",
+      "unstructured": "Zeng X, Zhu Y, Yang L, et al. A guidance method for coplanar orbital interception based on reinforcement learning. J Syst Eng Electron, 2021, 32: 927–938",
+      "journal-title": "J Syst Eng Electron"
+    },
+    {
+      "key": "3169_CR7",
+      "first-page": "545",
+      "volume-title": "Proceedings of the International Conference on Guidance, Navigation and Control",
+      "author": "H Ren",
+      "year": "2024",
+      "unstructured": "Ren H, Zhong R. Reinforcement learning-based optimal pursuit strategy against satellite group. In: Proceedings of the International Conference on Guidance, Navigation and Control. 2024. 545–554"
+    },
+    {
+      "key": "3169_CR8",
+      "doi-asserted-by": "publisher",
+      "first-page": "301",
+      "DOI": "10.2514/1.G006783",
+      "volume": "46",
+      "author": "S Bonasera",
+      "year": "2023",
+      "unstructured": "Bonasera S, Bosanac N, Sullivan C J, et al. Designing Sun-Earth L2 halo orbit stationkeeping maneuvers via reinforcement learning. J Guidance Control Dyn, 2023, 46: 301–311",
+      "journal-title": "J Guidance Control Dyn"
+    },
+    {
+      "key": "3169_CR9",
+      "first-page": "210",
+      "volume-title": "Proceedings of the International Conference on Guidance, Navigation and Control",
+      "author": "Z Chen",
+      "year": "2024",
+      "unstructured": "Chen Z, Zhong R. Reinforcement learning driven autonomous active debris removal strategy based on angles-only navigation. In: Proceedings of the International Conference on Guidance, Navigation and Control. 2024. 210–221"
+    },
+    {
+      "key": "3169_CR10",
+      "doi-asserted-by": "publisher",
+      "first-page": "1",
+      "DOI": "10.1016/j.arcontrol.2022.07.004",
+      "volume": "54",
+      "author": "M Tipaldi",
+      "year": "2022",
+      "unstructured": "Tipaldi M, Iervolino R, Massenio P R. Reinforcement learning in spacecraft control applications: Advances, prospects, and challenges. Annu Rev Control, 2022, 54: 1–23",
+      "journal-title": "Annu Rev Control"
+    },
+    {
+      "key": "3169_CR11",
+      "first-page": "1",
+      "volume-title": "Proceedings of the International Astronautical Congress",
+      "author": "J G Elkins",
+      "year": "2020",
+      "unstructured": "Elkins J G, Sood R, Rumpf C. Autonomous spacecraft attitude control using deep reinforcement learning. In: Proceedings of the International Astronautical Congress. 2020. 1–13"
+    },
+    {
+      "key": "3169_CR12",
+      "first-page": "1",
+      "volume-title": "Proceedings of the 70th International Astronautical Congress",
+      "author": "J T Vedant",
+      "year": "2019",
+      "unstructured": "Vedant J T. Reinforcement learning for spacecraft attitude control. In: Proceedings of the 70th International Astronautical Congress. 2019. 1–10"
+    },
+    {
+      "key": "3169_CR13",
+      "first-page": "417",
+      "volume": "18",
+      "author": "C E Oestreich",
+      "year": "2021",
+      "unstructured": "Oestreich C E, Linares R, Gondhalekar R. Autonomous six-degree-of-freedom spacecraft docking with rotating targets via reinforcement learning. J Aerospace Inf Syst, 2021, 18: 417–428",
+      "journal-title": "J Aerospace Inf Syst"
+    },
+    {
+      "key": "3169_CR14",
+      "doi-asserted-by": "publisher",
+      "first-page": "254",
+      "DOI": "10.2514/1.A34838",
+      "volume": "58",
+      "author": "K Hovell",
+      "year": "2021",
+      "unstructured": "Hovell K, Ulrich S. Deep reinforcement learning for spacecraft proximity operations guidance. J Spacecraft Rockets, 2021, 58: 254–264",
+      "journal-title": "J Spacecraft Rockets"
+    },
+    {
+      "key": "3169_CR15",
+      "doi-asserted-by": "publisher",
+      "first-page": "1419",
+      "DOI": "10.3390/math11061419",
+      "volume": "11",
+      "author": "Y Xu",
+      "year": "2023",
+      "unstructured": "Xu Y, Liu X, He R, et al. Active debris removal mission planning method based on machine learning. Mathematics, 2023, 11: 1419",
+      "journal-title": "Mathematics"
+    },
+    {
+      "key": "3169_CR16",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Herrmann A, Schaub H. Reinforcement learning for the agile Earth-observing satellite scheduling problem. IEEE Trans Aerosp Electron Syst, 2023, 1–13",
+      "DOI": "10.1109/TAES.2023.3251307"
+    },
+    {
+      "key": "3169_CR17",
+      "doi-asserted-by": "publisher",
+      "first-page": "2388",
+      "DOI": "10.1016/j.asr.2024.06.003",
+      "volume": "74",
+      "author": "P Li",
+      "year": "2024",
+      "unstructured": "Li P, Wang H, Zhang Y, et al. Mission planning for distributed multiple agile Earth observing satellites by attention-based deep reinforcement learning method. Adv Space Res, 2024, 74: 2388–2404",
+      "journal-title": "Adv Space Res"
+    },
+    {
+      "key": "3169_CR18",
+      "doi-asserted-by": "publisher",
+      "first-page": "5615",
+      "DOI": "10.1016/j.asr.2025.01.012",
+      "volume": "75",
+      "author": "Y Cong",
+      "year": "2025",
+      "unstructured": "Cong Y, Mei X, Sun S, et al. Autonomous collaborative observation method for time-sensitive moving target tracking by satellite swarms. Adv Space Res, 2025, 75: 5615–5629",
+      "journal-title": "Adv Space Res"
+    },
+    {
+      "key": "3169_CR19",
+      "doi-asserted-by": "publisher",
+      "first-page": "101830",
+      "DOI": "10.1016/j.swevo.2024.101830",
+      "volume": "92",
+      "author": "X Jiang",
+      "year": "2025",
+      "unstructured": "Jiang X, Guo Y, Zhang Y, et al. An evolutionary task scheduling algorithm using fuzzy fitness evaluation method for communication satellite network. Swarm Evolary Computation, 2025, 92: 101830",
+      "journal-title": "Swarm Evolary Computation"
+    },
+    {
+      "key": "3169_CR20",
+      "doi-asserted-by": "publisher",
+      "first-page": "3225",
+      "DOI": "10.1109/TVT.2024.3471658",
+      "volume": "74",
+      "author": "S Zhang",
+      "year": "2024",
+      "unstructured": "Zhang S, Liu A, Han C, et al. GRLR: Routing with graph neural network and reinforcement learning for mega LEO satellite constellations. IEEE Trans Veh Technol, 2024, 74: 3225–3237",
+      "journal-title": "IEEE Trans Veh Technol"
+    },
+    {
+      "key": "3169_CR21",
+      "doi-asserted-by": "publisher",
+      "first-page": "2872",
+      "DOI": "10.1109/TNSE.2020.3039499",
+      "volume": "8",
+      "author": "J Liu",
+      "year": "2020",
+      "unstructured": "Liu J, Zhao B, Xin Q, et al. DRL-ER: An intelligent energy-aware routing protocol with guaranteed delay bounds in satellite mega-constellations. IEEE Trans Netw Sci Eng, 2020, 8: 2872–2884",
+      "journal-title": "IEEE Trans Netw Sci Eng"
+    },
+    {
+      "key": "3169_CR22",
+      "doi-asserted-by": "publisher",
+      "first-page": "121692",
+      "DOI": "10.1016/j.ins.2024.121692",
+      "volume": "694",
+      "author": "Y Zhu",
+      "year": "2025",
+      "unstructured": "Zhu Y. Intelligent congestion control of data transmission in low Earth orbit satellite networks based on reinforcement learning: Analysis and optimization. Inf Sci, 2025, 694: 121692",
+      "journal-title": "Inf Sci"
+    },
+    {
+      "key": "3169_CR23",
+      "doi-asserted-by": "publisher",
+      "first-page": "159",
+      "DOI": "10.1016/j.dt.2025.05.002",
+      "volume": "51",
+      "author": "L Zhao",
+      "year": "2025",
+      "unstructured": "Zhao L, Xu S, Sun Q, et al. Variable reward function-driven strategies for impulsive orbital attack-defense games under multiple constraints and victory conditions. Defence Tech, 2025, 51: 159–183",
+      "journal-title": "Defence Tech"
+    },
+    {
+      "key": "3169_CR24",
+      "doi-asserted-by": "publisher",
+      "first-page": "103662",
+      "DOI": "10.1016/j.cja.2025.103662",
+      "volume": "38",
+      "author": "L Wei",
+      "year": "2025",
+      "unstructured": "Wei L, Ning X, Lian X, et al. Continuous-time hierarchical reinforcement learning for satellite pursuit decision. Chin J Aeronautics, 2025, 38: 103662",
+      "journal-title": "Chin J Aeronautics"
+    },
+    {
+      "key": "3169_CR25",
+      "doi-asserted-by": "publisher",
+      "first-page": "9",
+      "DOI": "10.1016/j.actaastro.2022.05.057",
+      "volume": "198",
+      "author": "J Zhang",
+      "year": "2022",
+      "unstructured": "Zhang J, Zhang K, Zhang Y, et al. Near-optimal interception strategy for orbital pursuit-evasion using deep reinforcement learning. Acta Astronaut, 2022, 198: 9–25",
+      "journal-title": "Acta Astronaut"
+    },
+    {
+      "key": "3169_CR26",
+      "doi-asserted-by": "publisher",
+      "first-page": "0086",
+      "DOI": "10.34133/space.0086",
+      "volume": "3",
+      "author": "R Jiang",
+      "year": "2023",
+      "unstructured": "Jiang R, Ye D, Xiao Y, et al. Orbital interception pursuit strategy for random evasion using deep reinforcement learning. Space Sci Technol, 2023, 3: 0086",
+      "journal-title": "Space Sci Technol"
+    },
+    {
+      "key": "3169_CR27",
+      "doi-asserted-by": "publisher",
+      "first-page": "7377",
+      "DOI": "10.1016/j.asr.2025.02.049",
+      "volume": "75",
+      "author": "H Ren",
+      "year": "2025",
+      "unstructured": "Ren H, Gui H, Zhong R. Efficient fuel-optimal multi-impulse orbital transfer via contrastive pre-trained reinforcement learning. Adv Space Res, 2025, 75: 7377–7396",
+      "journal-title": "Adv Space Res"
+    },
+    {
+      "key": "3169_CR28",
+      "doi-asserted-by": "publisher",
+      "first-page": "4095",
+      "DOI": "10.1109/CAC51589.2020.9326605",
+      "volume-title": "Proceedings of the 2020 Chinese Automation Congress (CAC)",
+      "author": "D Gao",
+      "year": "2020",
+      "unstructured": "Gao D, Zhang H, Li C, et al. Satellite attitude control with deep reinforcement learning. In: Proceedings of the 2020 Chinese Automation Congress (CAC). IEEE, 2020. 4095–4101"
+    },
+    {
+      "key": "3169_CR29",
+      "doi-asserted-by": "publisher",
+      "first-page": "390",
+      "DOI": "10.1109/CAC48633.2019.8996860",
+      "volume-title": "Proceedings of the 2019 Chinese Automation Congress (CAC)",
+      "author": "R Su",
+      "year": "2019",
+      "unstructured": "Su R, Wu F, Zhao J. Deep reinforcement learning method based on DDPG with simulated annealing for satellite attitude control system. In: Proceedings of the 2019 Chinese Automation Congress (CAC). IEEE, 2019. 390–395"
+    },
+    {
+      "key": "3169_CR30",
+      "doi-asserted-by": "publisher",
+      "first-page": "417",
+      "DOI": "10.1016/j.cja.2023.10.011",
+      "volume": "37",
+      "author": "Q Shi",
+      "year": "2024",
+      "unstructured": "Shi Q, Li L, Fang Z, et al. Efficient and fair PPO-based integrated scheduling method for multiple tasks of SATech-01 satellite. Chin J Aeronautics, 2024, 37: 417–430",
+      "journal-title": "Chin J Aeronautics"
+    },
+    {
+      "key": "3169_CR31",
+      "doi-asserted-by": "publisher",
+      "first-page": "107088",
+      "DOI": "10.1016/j.cor.2025.107088",
+      "volume": "181",
+      "author": "X Chen",
+      "year": "2025",
+      "unstructured": "Chen X, Tian T, Dai G, et al. Deep reinforcement learning-based resource allocation method for multi-satellite scheduling. Comput Operations Res, 2025, 181: 107088",
+      "journal-title": "Comput Operations Res"
+    },
+    {
+      "key": "3169_CR32",
+      "doi-asserted-by": "publisher",
+      "first-page": "0145",
+      "DOI": "10.34133/space.0145",
+      "volume": "4",
+      "author": "J Zhang",
+      "year": "2024",
+      "unstructured": "Zhang J, Bai C, Yue C P, et al. Deep MARL-based resilient motion planning for decentralized space manipulator. Space Sci Technol, 2024, 4: 0145",
+      "journal-title": "Space Sci Technol"
+    },
+    {
+      "key": "3169_CR33",
+      "doi-asserted-by": "publisher",
+      "first-page": "211",
+      "DOI": "10.1007/s42064-022-0153-1",
+      "volume": "7",
+      "author": "W Li",
+      "year": "2023",
+      "unstructured": "Li W, Song Y, Cheng L, et al. Closed-loop deep neural network optimal control algorithm and error analysis for powered landing under uncertainties. Astrodynamics, 2023, 7: 211–228",
+      "journal-title": "Astrodynamics"
+    },
+    {
+      "key": "3169_CR34",
+      "first-page": "1",
+      "volume-title": "Proceedings of the 2020 International Symposium on Advanced Electrical and Communication Technologies (ISAECT)",
+      "author": "A Cigliano",
+      "year": "2020",
+      "unstructured": "Cigliano A, Zampognaro F. A machine learning approach for routing in satellite mega-constellations. In: Proceedings of the 2020 International Symposium on Advanced Electrical and Communication Technologies (ISAECT). IEEE, 2020. 1–6"
+    },
+    {
+      "key": "3169_CR35",
+      "first-page": "123",
+      "volume-title": "Proceedings of the 2021 4th International Conference on Hot Information-Centric Networking (HotICN)",
+      "author": "H Wang",
+      "year": "2021",
+      "unstructured": "Wang H, Ran Y, Zhao L, et al. GRouting: Dynamic routing for LEO satellite networks with graph-based deep reinforcement learning. In: Proceedings of the 2021 4th International Conference on Hot Information-Centric Networking (HotICN). IEEE, 2021. 123–128"
+    },
+    {
+      "key": "3169_CR36",
+      "first-page": "2877",
+      "volume-title": "Proceedings of the ICASSP 2020-2020 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)",
+      "author": "C Han",
+      "year": "2020",
+      "unstructured": "Han C, Liu A, Huo L, et al. Anti-jamming routing for internet of satellites: A reinforcement learning approach. In: Proceedings of the ICASSP 2020-2020 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2020. 2877–2881"
+    },
+    {
+      "key": "3169_CR37",
+      "first-page": "1",
+      "volume-title": "Proceedings of the 2023 IEEE Wireless Communications and Networking Conference (WCNC)",
+      "author": "Y H Hsu",
+      "year": "2023",
+      "unstructured": "Hsu Y H, Lee J I, Xu F M. A deep reinforcement learning based routing scheme for LEO satellite networks in 6G. In: Proceedings of the 2023 IEEE Wireless Communications and Networking Conference (WCNC). IEEE, 2023. 1–6"
+    },
+    {
+      "key": "3169_CR38",
+      "first-page": "1724",
+      "volume": "45",
+      "author": "C Wei",
+      "year": "2024",
+      "unstructured": "Wei C, Qiao B, Liu T, et al. Design and application of SpaceSim: A spacecraft system simulation software. J Astronaut, 2024, 45: 1724–1731",
+      "journal-title": "J Astronaut"
+    },
+    {
+      "key": "3169_CR39",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Cong Y, Liu T, Wei C, et al. Observation method for autonomous maneuver of spacecraft under emergency conditions. Dyn Games Appl, 2024",
+      "DOI": "10.1007/s13235-024-00576-5"
+    }
+  ],
+  "container-title": [
+    "Science China Technological Sciences"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://link.springer.com/content/pdf/10.1007/s11431-025-3169-9.pdf",
+      "content-type": "application/pdf",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://link.springer.com/article/10.1007/s11431-025-3169-9",
+      "content-type": "text/html",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://link.springer.com/content/pdf/10.1007/s11431-025-3169-9.pdf",
+      "content-type": "application/pdf",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2026,
+        2,
+        14
+      ]
+    ],
+    "date-time": "2026-02-14T20:26:58Z",
+    "timestamp": 1771100818000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://link.springer.com/10.1007/s11431-025-3169-9"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        1
+      ]
+    ]
+  },
+  "references-count": 39,
+  "journal-issue": {
+    "issue": "1",
+    "published-print": {
+      "date-parts": [
+        [
+          2026,
+          1
+        ]
+      ]
+    }
+  },
+  "alternative-id": [
+    "3169"
+  ],
+  "URL": "https://doi.org/10.1007/s11431-025-3169-9",
+  "relation": {},
+  "ISSN": [
+    "1674-7321",
+    "1869-1900"
+  ],
+  "issn-type": [
+    {
+      "value": "1674-7321",
+      "type": "print"
+    },
+    {
+      "value": "1869-1900",
+      "type": "electronic"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2026,
+        1
+      ]
+    ]
+  },
+  "assertion": [
+    {
+      "value": "31 July 2025",
+      "order": 1,
+      "name": "received",
+      "label": "Received",
+      "group": {
+        "name": "ArticleHistory",
+        "label": "Article History"
+      }
+    },
+    {
+      "value": "16 December 2025",
+      "order": 2,
+      "name": "accepted",
+      "label": "Accepted",
+      "group": {
+        "name": "ArticleHistory",
+        "label": "Article History"
+      }
+    },
+    {
+      "value": "4 January 2026",
+      "order": 3,
+      "name": "first_online",
+      "label": "First Online",
+      "group": {
+        "name": "ArticleHistory",
+        "label": "Article History"
+      }
+    }
+  ],
+  "article-number": "1100305"
+}

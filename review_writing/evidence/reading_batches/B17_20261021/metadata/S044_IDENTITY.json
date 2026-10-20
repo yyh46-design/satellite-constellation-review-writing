@@ -1,0 +1,15 @@
+{
+  "title": "Convex Maneuver Planning for Spacecraft Collision Avoidance",
+  "aliases": [],
+  "authors_as_read": "Fausto Vega; Jon Arrizabalaga; Ryan Watson; Zachary Manchester",
+  "bibliographic_year": 2025,
+  "identifier": "arXiv:2510.19058v1",
+  "actual_arxiv_version": "2510.19058v1",
+  "actual_version": "arXiv v1，2025-10-21，共8页；摘要页称Accepted to International Space Robotics Conference，未将其当作正式全文配对。",
+  "source_sha256": "d0c33400f69abf0646cdbc4a7e3df00fc152c800bef0c64e5c074e6d08ac9ed1",
+  "source_format": "PDF",
+  "primary_url": "https://arxiv.org/abs/2510.19058v1",
+  "human_verified": false,
+  "formal_version_text_compared": false,
+  "adoption_status": "candidate_after_human_review"
+}

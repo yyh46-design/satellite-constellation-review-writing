@@ -1,0 +1,21 @@
+{
+  "title": "Satellite Formation Flying Control by Using Only Angle Measurements",
+  "aliases": [],
+  "authors_as_read": "Jianqing Li; Liangming Chen; Ming Cao; Chaoyong Li",
+  "bibliographic_year": 2023,
+  "identifier": "10.1109/TAES.2022.3200345",
+  "actual_arxiv_version": null,
+  "actual_version": "IEEE TAES 59(2):1439–1451，2023年卷期，2022-08-22在线；大学仓储PDF带1页封面，共14物理页，正文从第2页开始。",
+  "source_sha256": "762f406cca786f3167e644dd89a24f889e668f3092bd925a0e7c4e1bdecf8ef1",
+  "source_format": "PDF",
+  "primary_url": "https://doi.org/10.1109/TAES.2022.3200345",
+  "human_verified": false,
+  "formal_version_text_compared": false,
+  "adoption_status": "candidate_after_human_review",
+  "crossref_file": "S046_CROSSREF.json",
+  "repository_cover_pages": 1,
+  "journal_pages": "1439-1451",
+  "actual_PDF_pages": 14,
+  "online_year": 2022,
+  "issue_year": 2023
+}

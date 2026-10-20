@@ -1,0 +1,207 @@
+{
+  "selected_source_ids": [
+    "S041",
+    "S042",
+    "S043",
+    "S044",
+    "S045",
+    "S046",
+    "S047",
+    "S048",
+    "S049",
+    "S050"
+  ],
+  "successful_or_last_attempt_records": [
+    {
+      "id": "S041",
+      "status": "pdf_acquired",
+      "url": "https://arxiv.org/pdf/2211.03658",
+      "resolved_url": "https://arxiv.org/pdf/2211.03658",
+      "path": "D:\\SKT727\\materials\\constellation_review_B17_20261021\\S041.pdf",
+      "sha256": "dda9c300c2317a32ed97a0f2aa1d5fd57a52749c093d695f3aacf59b0a2a960a",
+      "pages": 13,
+      "characters": 43349,
+      "attempts": []
+    },
+    {
+      "id": "S042",
+      "status": "pdf_acquired",
+      "url": "https://arxiv.org/pdf/2311.09439v1",
+      "resolved_url": "https://arxiv.org/pdf/2311.09439v1",
+      "path": "D:\\SKT727\\materials\\constellation_review_B17_20261021\\S042.pdf",
+      "sha256": "7423f1368c810d7f0dcaa99ed319ea6dbcf8d1ee40c344514fc7fd13bb0db656",
+      "pages": 7,
+      "characters": 33030,
+      "attempts": []
+    },
+    {
+      "id": "S043",
+      "status": "pdf_acquired",
+      "url": "https://arxiv.org/pdf/2403.03314v2",
+      "resolved_url": "https://arxiv.org/pdf/2403.03314v2",
+      "path": "D:\\SKT727\\materials\\constellation_review_B17_20261021\\S043.pdf",
+      "sha256": "a26c366432ca3c792163c9956026589f6b14345a0918e29ec1ad2fd0ab054911",
+      "pages": 6,
+      "characters": 29362,
+      "attempts": []
+    },
+    {
+      "id": "S044",
+      "status": "pdf_acquired",
+      "url": "https://arxiv.org/pdf/2510.19058v1",
+      "resolved_url": "https://arxiv.org/pdf/2510.19058v1",
+      "path": "D:\\SKT727\\materials\\constellation_review_B17_20261021\\S044.pdf",
+      "sha256": "d0c33400f69abf0646cdbc4a7e3df00fc152c800bef0c64e5c074e6d08ac9ed1",
+      "pages": 8,
+      "characters": 37372,
+      "attempts": []
+    },
+    {
+      "id": "S045",
+      "status": "pdf_acquired",
+      "url": "https://arxiv.org/pdf/2605.20138v1",
+      "resolved_url": "https://arxiv.org/pdf/2605.20138v1",
+      "path": "D:\\SKT727\\materials\\constellation_review_B17_20261021\\S045.pdf",
+      "sha256": "cbba1085110d5db532c53f785cf1739f96cced32587d0c29b80db87c4e148812",
+      "pages": 6,
+      "characters": 32210,
+      "attempts": []
+    },
+    {
+      "id": "S046",
+      "status": "pdf_acquired",
+      "url": "https://pure.rug.nl/ws/portalfiles/portal/903428342/Satellite_Formation_Flying_Control_by_Using_Only_Angle_Measurements.pdf",
+      "resolved_url": "https://pure.rug.nl/ws/portalfiles/portal/903428342/Satellite_Formation_Flying_Control_by_Using_Only_Angle_Measurements.pdf",
+      "path": "D:\\SKT727\\materials\\constellation_review_B17_20261021\\S046.pdf",
+      "sha256": "762f406cca786f3167e644dd89a24f889e668f3092bd925a0e7c4e1bdecf8ef1",
+      "pages": 14,
+      "characters": 57455,
+      "attempts": []
+    },
+    {
+      "id": "S047",
+      "status": "pdf_acquired",
+      "url": "https://mdpi-res.com/d_attachment/applsci/applsci-16-03707/article_deploy/applsci-16-03707.pdf",
+      "resolved_url": "https://mdpi-res.com/d_attachment/applsci/applsci-16-03707/article_deploy/applsci-16-03707.pdf",
+      "path": "D:\\SKT727\\materials\\constellation_review_B17_20261021\\S047.pdf",
+      "sha256": "3a94b3f65b360cda422db4ff5882efbb6deea49d41125fb6633f6f50b5bd222e",
+      "pages": 23,
+      "characters": 69508,
+      "attempts": []
+    },
+    {
+      "id": "S048",
+      "status": "pdf_acquired",
+      "url": "https://link.springer.com/content/pdf/10.1007/s12567-026-00702-6.pdf",
+      "resolved_url": "https://link.springer.com/content/pdf/10.1007/s12567-026-00702-6.pdf?error=cookies_not_supported&code=c41e69f7-6e6b-4f4c-9e2a-efd448dab1ec",
+      "path": "D:\\SKT727\\materials\\constellation_review_B17_20261021\\S048.pdf",
+      "sha256": "062b392010e7a5d6ce9fc592929f8a223687c950c085dc1fa8a8c2c86b114087",
+      "pages": 33,
+      "characters": 120925,
+      "attempts": []
+    },
+    {
+      "id": "S049",
+      "status": "pdf_acquired",
+      "url": "https://arxiv.org/pdf/2204.00208",
+      "resolved_url": "https://arxiv.org/pdf/2204.00208",
+      "path": "D:\\SKT727\\materials\\constellation_review_B17_20261021\\S049.pdf",
+      "sha256": "97dd9046d5951558c352b1d087b99d8ab334b97a92d0c89976ecf328fa20c64d",
+      "pages": 9,
+      "characters": 47464,
+      "attempts": []
+    },
+    {
+      "id": "S050",
+      "status": "pdf_acquired",
+      "url": "https://www.sciengine.com/parse/pdf/1674-7321/23F8BF8A77144B449242E1C6DDD063A2.pdf?attname=23F8BF8A77144B449242E1C6DDD063A2.pdf",
+      "resolved_url": "https://files.sciengine.com/pdfs/1674-7321/23F8BF8A77144B449242E1C6DDD063A2.pdf",
+      "path": "D:\\SKT727\\materials\\constellation_review_B17_20261021\\S050.pdf",
+      "sha256": "317ad41aea4a9f53c8adac5a7519eb3877337f167cd78b8735e5e65cd9f56ca0",
+      "pages": 15,
+      "characters": 58127,
+      "attempts": []
+    }
+  ],
+  "metadata_attempts": [
+    {
+      "id": "S046",
+      "status": "acquired",
+      "doi": "10.1109/TAES.2022.3200345",
+      "file": "S046_CROSSREF.json",
+      "title": [
+        "Satellite Formation Flying Control by Using Only Angle Measurements"
+      ]
+    },
+    {
+      "id": "S047",
+      "status": "acquired",
+      "doi": "10.3390/app16083707",
+      "file": "S047_CROSSREF.json",
+      "title": [
+        "Sequential Convex Trajectory Planning for Space-Debris Conjunction Mitigation in Satellite Formations"
+      ]
+    },
+    {
+      "id": "S048",
+      "status": "acquired",
+      "doi": "10.1007/s12567-026-00702-6",
+      "file": "S048_CROSSREF.json",
+      "title": [
+        "In-orbit demonstration of propulsive and drag-based formation control using two 2U CubeSats under operational constraints"
+      ]
+    },
+    {
+      "id": "S049",
+      "status": "acquired",
+      "doi": "10.1109/CDC51059.2022.9992926",
+      "file": "S049_CROSSREF.json",
+      "title": [
+        "Predictive Control Barrier Functions for Online Safety Critical Control"
+      ]
+    },
+    {
+      "id": "S050",
+      "status": "acquired",
+      "doi": "10.1007/s11431-025-3169-9",
+      "file": "S050_CROSSREF.json",
+      "title": [
+        "A reinforcement learning training and testing framework for aerospace missions"
+      ]
+    }
+  ],
+  "unselected_candidates": [
+    {
+      "id": "candidate_ACM",
+      "status": "failed",
+      "attempts": [
+        {
+          "url": "https://dl.acm.org/doi/pdf/10.1145/3746709.3746927",
+          "error": "HTTP Error 403: Forbidden"
+        }
+      ]
+    },
+    {
+      "id": "candidate_priority",
+      "status": "failed",
+      "attempts": [
+        {
+          "url": "https://www.sciencedirect.com/science/article/pii/S2405896326000741/pdf",
+          "error": "HTTP Error 403: Forbidden"
+        },
+        {
+          "url": "https://www.sciencedirect.com/science/article/pii/S2405896326000741/pdfft?isDTMRedir=true&download=true",
+          "error": "HTTP Error 403: Forbidden"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    "10份全文PDF共134页，完整原文、抽取、页图留在Git外。",
+    "S041/S049获取入口未固定版本，实际PDF页眉分别确认v3/v2；来源身份固定到实际版本，不据此虚称已读所有版本。",
+    "S042 arXiv摘要页题名Multi-Agent，实际PDF题名Multi-Robot；同ID只计一篇，两个别名一起查重。",
+    "Science China候选实际为英文训练测试框架，最终S050，未按搜索片段误识别为中文避碰专文。",
+    "ACM通信学习论文与IFAC高层优先级/安全过滤论文PDF均403，未计入精读；未用摘要补足篇数。",
+    "S045完成阅读但暂缓作为综述结论依据；精读状态与证据采用状态分开。"
+  ]
+}

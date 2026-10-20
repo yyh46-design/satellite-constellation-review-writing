@@ -1,0 +1,21 @@
+{
+  "title": "In-orbit demonstration of propulsive and drag-based formation control using two 2U CubeSats under operational constraints",
+  "aliases": [],
+  "authors_as_read": "Debdeep Roychowdhury; Sebastian Grau; Fynn Boyer; Sascha Kapitola; Alan Legenza; José Manuel Diez; Benjamin Palmer; Enrico Stoll",
+  "bibliographic_year": 2026,
+  "identifier": "10.1007/s12567-026-00702-6",
+  "actual_arxiv_version": null,
+  "actual_version": "CEAS Space Journal出版社开放PDF，共33页，2026年；2026-01-19接受；多项实验状态以2025-06-01为截止，不能视为2026-10现况。",
+  "source_sha256": "062b392010e7a5d6ce9fc592929f8a223687c950c085dc1fa8a8c2c86b114087",
+  "source_format": "PDF",
+  "primary_url": "https://doi.org/10.1007/s12567-026-00702-6",
+  "human_verified": false,
+  "formal_version_text_compared": false,
+  "adoption_status": "candidate_after_human_review",
+  "crossref_file": "S048_CROSSREF.json",
+  "experiment_status_cutoff_as_written": "2025-06-01 for many operations; not current mission status",
+  "table10_activation": "Drift",
+  "section6_example_activation": "relative longitude",
+  "activation_conflict_resolved": false,
+  "raw_telemetry_obtained": false
+}

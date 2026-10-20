@@ -1,0 +1,989 @@
+[
+  {
+    "reading_id": "S041",
+    "actual_title": "Satellite Navigation and Coordination with Limited Information Sharing",
+    "title_cn": "有限信息共享下的卫星导航协同与地空迁移学习",
+    "authors": "Sydney Dolan; Siddharth Nayak; Hamsa Balakrishnan",
+    "year": 2023,
+    "identifier": "arXiv:2211.03658v3",
+    "actual_version": "实际读取arXiv v3，2023-05-15，共13页；最初提交为2022年，PDF标注Preprint/Under review。",
+    "evidence_role": "multi_spacecraft_learning_coordination",
+    "body_pages": [
+      1,
+      9
+    ],
+    "question": "在运营者只愿共享有限状态和机动意图时，图结构多智能体策略能否协调局部避碰；地面双积分器训练能否帮助相对轨道环境训练。研究贡献在信息结构与迁移效果，而非新的安全证书。",
+    "inputs": "每星输入自身位置速度、相对目标位置，以及感知半径内对象的相对状态和类型。比较共享与隐藏其他卫星目标的两种图特征；局部图随邻近关系变化，星间边双向，碎片信息边单向。",
+    "decisions": "控制为轨道面内推力动作；联合奖励由到达距离、碰撞惩罚和达成目标奖励相加。GNN聚合关系信息，策略分散产生动作；训练阶段使用的信息聚合与实际执行信息需要分开核对。",
+    "mechanism": "InforMARL先在地面双积分器环境训练，再在CW或含J2修正的轨道环境训练。其协调作用来自局部关系与他星目标表征，不是通过安全过滤器强制最小间距。作者将CBF列为后续工作。",
+    "validation": "2 km×2 km平面、3个相对静止碎片、约一小时episode，训练3或5星、测试最多10星；比较多种MARL基线及5个随机种子。共享目标试验让一星中途改目标，每个最大改变量生成100实例；碰撞后仍继续episode，因此到达成功可与碰撞同时发生。",
+    "limitations": [
+      "异常高密度场景用于趋势测试，不能把碰撞率作为真实交通运行风险；静止相对碎片与同平面假设限制外推。",
+      "共享目标试验的碰撞数中位数没有变化；不能将到达成功率提升改写为实证碰撞风险降低。",
+      "没有通信延迟、丢包和形式安全保证；迁移涉及再训练，不能写成直接零样本在轨部署。",
+      "PDF实际v3与最初2022书目年分开保存。"
+    ],
+    "use": "补3.6协同机制中的“共享什么”：状态之外，意图可改变联合决策效率。建议与安全过滤及通信时效文献并列，采用到达成功率/碰撞数双指标；不将MARL奖励替代运行风险指标。",
+    "claims": [
+      {
+        "text": "局部图显式区分共享机动目标与隐藏目标的信息结构，目标信息被用作其他卫星意图的表征。",
+        "pages": [
+          5
+        ],
+        "locator": "§3.2 node features and graph variants",
+        "type": "method",
+        "claim_id": "C-B17-001",
+        "source_id": "E-B17-S041",
+        "claim_text_sha256": "d6a5de0a35be68215be33179515c343b5f2d19f945cefa9261d58e5476151f3a"
+      },
+      {
+        "text": "迁移方法先在地面训练再在空间环境训练；对照训练使用5个随机种子，迁移曲线包含20万步地面训练偏移。",
+        "pages": [
+          6,
+          7
+        ],
+        "locator": "§4.2; Fig.4",
+        "type": "experiment",
+        "claim_id": "C-B17-002",
+        "source_id": "E-B17-S041",
+        "claim_text_sha256": "78eaa48b4ca45539e134d5d26d3f25b5cf900097d80b00541ae25f32baf6258b"
+      },
+      {
+        "text": "表1中训练3星、测试10星时到达成功率为96%，但每星平均碰撞数为1.41；二者不能等同于无碰撞成功。",
+        "pages": [
+          5,
+          6
+        ],
+        "locator": "§4.1 metric definition; Table1 n=3,m=10",
+        "type": "negative_boundary",
+        "claim_id": "C-B17-003",
+        "source_id": "E-B17-S041",
+        "claim_text_sha256": "66154c4127d59e963c993e5e1668dff0bb3ccb1ef4b86cad6c5e23a1446920c3"
+      },
+      {
+        "text": "目标共享试验改善到达成功率和平均到达时间，但作者报告碰撞数中位数在共享与不共享两种情况下相同。",
+        "pages": [
+          8
+        ],
+        "locator": "§4.4; Fig.6 and median collision statement",
+        "type": "experiment",
+        "claim_id": "C-B17-004",
+        "source_id": "E-B17-S041",
+        "claim_text_sha256": "9734305d484f10b844c8ede4847c2781b3ef92c346b843a54a819a17a26d7897"
+      },
+      {
+        "text": "论文将通信延迟/丢包建模、形式安全机制和共享激励列为后续工作。",
+        "pages": [
+          9
+        ],
+        "locator": "§5 Conclusions and Future Work",
+        "type": "limitation",
+        "claim_id": "C-B17-005",
+        "source_id": "E-B17-S041",
+        "claim_text_sha256": "e72c530d87240493a8a98e31a3f790ad35f5ca2b368e4858460c80ff413195b0"
+      }
+    ],
+    "adoption_status": "candidate_after_human_review",
+    "arxiv": "2211.03658v3",
+    "appendix_scope": "Appendix implementation details pp12–13 narrative/selected hyperparameter tables; references pp10–11 skim",
+    "canonical_url": "https://arxiv.org/abs/2211.03658v3",
+    "visual_pages": [
+      4,
+      6,
+      8
+    ]
+  },
+  {
+    "reading_id": "S042",
+    "actual_title": "Learning Hyperplanes for Multi-Robot Collision Avoidance in Space",
+    "title_cn": "通过逆博弈学习旋转分离平面的多星避碰",
+    "authors": "Fernando Palafox; Yue Yu; David Fridovich-Keil",
+    "year": 2023,
+    "identifier": "arXiv:2311.09439v1",
+    "actual_version": "arXiv v1，2023-11-15，7页；PDF题名为Multi-Robot，arXiv摘要页题名为Multi-Agent，作为同一记录保存。",
+    "evidence_role": "multi_spacecraft_inverse_game",
+    "body_pages": [
+      1,
+      6
+    ],
+    "question": "多机器人目标可能冲突，怎样既明确约束避碰，又避免手工选择分离平面转速和禁入半径造成推力受限下不可行。",
+    "inputs": "模型为离散HCW相对轨道动力学，状态位置速度、输入三轴推力；给定全体初态、各自目标和代价权重，以及需分离的星对集合。专家轨迹在实验中由已知参数的博弈解合成，并加噪声。",
+    "decisions": "正向问题联合求各参与者轨迹和约束乘子，逆向问题学习平面角速度及禁入半径。控制方向、执行代价和安全间距被耦合到同一个参数化广义Nash博弈。",
+    "mechanism": "绕对方禁入区旋转的仿射分离平面提供安全约束；通过共享约束乘子体现双方避碰责任。将KKT系统写成可微混合互补问题，利用其梯度和Adam拟合观测轨迹。目标冲突并不意味着对方无需配合：论文仍要求相关双方都维护分离约束。",
+    "validation": "400条加噪合成轨迹：20个噪声标准差水平、每水平20条；从双星学习，再展示六星和三维轨迹，并用初速度扰动检验求解收敛。图中展示规模迁移的同时，收敛率随初速度偏差和参与者数增加而下降。",
+    "limitations": [
+      "不是实际人类专家或在轨操作数据验证；使用真实专家轨迹是未来工作。",
+      "平面分离约束不允许平面投影重合，即使法向相隔安全也会被排除，具有几何保守性。",
+      "共享约束、已知初态和耦合MCP求解不等于异步分散、低通信成本实现。",
+      "只支持模型和求解成功条件下的轨迹可行性，未给任意初态、多星规模的普遍收敛证书。",
+      "题名别名不能计两篇；原文Fig.7空标题与Fig.8说明共指速度扰动结果，定位时并记。"
+    ],
+    "use": "可补3.6.1重构及协同责任分配：学习不仅产生控制动作，还可学习规划约束参数。与S041形成“共享意图”与“共享约束责任”的对照，明确博弈的非合作目标和共同遵守避碰规则可同时存在。",
+    "claims": [
+      {
+        "text": "旋转平面使用学习得到的角速度和禁入半径；其约束仅依赖平面位置，因而保守地排除平面投影重合。",
+        "pages": [
+          3
+        ],
+        "locator": "§III.C Eq.(7)",
+        "type": "method",
+        "claim_id": "C-B17-006",
+        "source_id": "E-B17-S042",
+        "claim_text_sha256": "f5c324a4ee783ae8aee0a238e3aa7a880d7127641965250842b0d2fec0845fe9"
+      },
+      {
+        "text": "尽管目标可冲突，相关机器人仍共享分离约束及其部分乘子，体现共同维护约束的责任。",
+        "pages": [
+          3,
+          4
+        ],
+        "locator": "§III.C–D; KKT Eq.(12)",
+        "type": "coordination_assumption",
+        "claim_id": "C-B17-007",
+        "source_id": "E-B17-S042",
+        "claim_text_sha256": "f18f1bfb4b6cb565fda8c1e82fd2e038456b64a0c8dec668a8595190945933c2"
+      },
+      {
+        "text": "逆博弈通过可微混合互补问题和Adam拟合专家轨迹，实验专家轨迹来自已知参数的正向博弈解。",
+        "pages": [
+          4,
+          5
+        ],
+        "locator": "§IV Algorithm1; §V.A",
+        "type": "method",
+        "claim_id": "C-B17-008",
+        "source_id": "E-B17-S042",
+        "claim_text_sha256": "b4a2f44568c9e2e9d5de05033c3c3ab9126207e18f74fdb03e019e5b85c751d9"
+      },
+      {
+        "text": "加噪学习测试采用400条合成轨迹，并展示从双星参数向六星场景迁移。",
+        "pages": [
+          5
+        ],
+        "locator": "§V.A–B; Figs.3–6",
+        "type": "experiment",
+        "claim_id": "C-B17-009",
+        "source_id": "E-B17-S042",
+        "claim_text_sha256": "9f8a0e03059a31fd57e55e5b4ceaff0c3885ad42605b1bd9f69e60feb229959e"
+      },
+      {
+        "text": "初速度偏移会降低轨迹生成收敛成功率，且多机器人场景更敏感；真实专家轨迹仍待后续研究。",
+        "pages": [
+          6
+        ],
+        "locator": "§V.B Figs.7/8; §VI",
+        "type": "negative_boundary",
+        "claim_id": "C-B17-010",
+        "source_id": "E-B17-S042",
+        "claim_text_sha256": "07bd272317eb31dcbb128912a7943deec5b8fd1afc2a48c298c8662a88d17a62"
+      }
+    ],
+    "adoption_status": "candidate_after_human_review",
+    "arxiv": "2311.09439v1",
+    "aliases": [
+      "Learning Hyperplanes for Multi-Agent Collision Avoidance in Space"
+    ],
+    "appendix_scope": "Appendices A/B p7 targeted dynamics and parameter reading; references pp6–7 skim",
+    "canonical_url": "https://arxiv.org/abs/2311.09439v1",
+    "visual_pages": [
+      1,
+      3,
+      5,
+      6
+    ]
+  },
+  {
+    "reading_id": "S043",
+    "actual_title": "Collision Avoidance Verification of Multiagent Systems with Learned Policies",
+    "title_cn": "学习策略多智能体避碰的相对后向可达验证",
+    "authors": "Zihao Dong; Shayegan Omidshafiei; Michael Everett",
+    "year": 2024,
+    "identifier": "arXiv:2403.03314v2",
+    "actual_version": "arXiv v2，2024-04-25，共6页。",
+    "evidence_role": "general_multiagent_verification",
+    "body_pages": [
+      1,
+      6
+    ],
+    "question": "学习策略的低拟合误差或大量安全仿真是否足以支撑安全；当所有对象都受神经网络控制时，能否离线构造可复用的不安全集合包络，再快速在线检查。",
+    "inputs": "已知离散线性时不变动力学、分段线性激活前馈网络、输入界和测量误差界。策略可依赖联合观测，研究尚未解决真正分散观测空间下的所有验证问题。",
+    "decisions": "离线按相对位置方向逐面求MILP，得到进入碰撞集合的相对后向投影外包络；在线将当前状态估计集合与此外包络求交，用LP判定是否存在潜在碰撞。",
+    "mechanism": "若整个外包络落在即时碰撞集合内，则非碰撞初态在条件满足时可通过归纳获得离散步安全。若做不到全域验证，在线LP不可行只排除所检查的一步或显式递推的有限步风险；LP可行是可能不安全，不能直接当作碰撞必然发生。扩展通过O(n²)成对子问题并行化。",
+    "validation": "地面平面单/双积分器算例，模仿RVO策略以及最多10个模仿向量场策略的智能体；不是航天器轨道实证。论文用采样内包络辅助观察外包络，并展示低MSE策略仍有不安全区域。在线约1.3–1.6 ms是每星对，不是整个系统总时延。",
+    "limitations": [
+      "ReLU/分段线性网络和线性已知模型是计算结构前提，一般非线性轨道与tanh网络不在当前直接保证内。",
+      "未覆盖采样点间连续运动、闭环避碰动作重规划及通信失联后的保障。",
+      "成对求解仍可能包含其他参与者的联合状态；成对分解不等于各星只需要局部信息。",
+      "全域包含条件和单次在线有限时域检查的保证强度必须区别。"
+    ],
+    "use": "作为3.6或证据层级讨论中的跨领域方法：学习输出需要独立的验证环节，低损失与低仿真碰撞数都不能替代可达验证。只提出向轨道动力学迁移的研究接口，不宣称已完成多星在轨认证。",
+    "claims": [
+      {
+        "text": "ReBAR以相对坐标构造后向投影外包络，分段线性网络使逐面的离线问题可以表示为MILP。",
+        "pages": [
+          2,
+          3
+        ],
+        "locator": "§II.B; §III.B Eq.(13), Algorithm1",
+        "type": "method",
+        "claim_id": "C-B17-011",
+        "source_id": "E-B17-S043",
+        "claim_text_sha256": "aa174870c9dcbb8248db46b493d70d8e83cf6835b200049651a71979085b1e8b"
+      },
+      {
+        "text": "整个外包络包含于碰撞集合是全域离散步安全的充分条件；一般在线LP不可行仅排除所检查下一步的碰撞可能。",
+        "pages": [
+          3,
+          4
+        ],
+        "locator": "Lemma III.1; Eq.(14) and surrounding text",
+        "type": "guarantee_boundary",
+        "claim_id": "C-B17-012",
+        "source_id": "E-B17-S043",
+        "claim_text_sha256": "69e4aeea4f5c42ac1089b9d286043cc24935bf2a7902dfaecfa11ce6d4da8d37"
+      },
+      {
+        "text": "多智能体扩展使用O(n²)成对验证子问题，可并行求解而非消除随规模增长的全部成本。",
+        "pages": [
+          4,
+          5
+        ],
+        "locator": "§III.C Algorithm2; §IV.B",
+        "type": "scalability",
+        "claim_id": "C-B17-013",
+        "source_id": "E-B17-S043",
+        "claim_text_sha256": "e266d4498ac97f2c550dc2ebaa5bc64fe9420abf5c50d3189a41ae057ce6b117"
+      },
+      {
+        "text": "拟合RVO策略的测试MSE约0.001时仍检测到不安全区域，说明拟合误差不能替代闭环安全验证。",
+        "pages": [
+          4,
+          5
+        ],
+        "locator": "§IV.A; Fig.4",
+        "type": "negative_boundary",
+        "claim_id": "C-B17-014",
+        "source_id": "E-B17-S043",
+        "claim_text_sha256": "3798cbfd7cc482e4b717bcfbc65c71c8e138f256e395b2e0adaadb006eb1d111"
+      },
+      {
+        "text": "最多10智能体实验的在线耗时为每对约1.31–1.60 ms；实验采用平面积分器，不是航天器动力学。",
+        "pages": [
+          4,
+          5,
+          6
+        ],
+        "locator": "§IV Eq.(15),(16), TableI; §V",
+        "type": "experiment",
+        "claim_id": "C-B17-015",
+        "source_id": "E-B17-S043",
+        "claim_text_sha256": "6ce5f054afd1f1822ee0ee2d953e601f6fe42928bd4f1e64760938e19d88902f"
+      }
+    ],
+    "adoption_status": "candidate_after_human_review",
+    "arxiv": "2403.03314v2",
+    "canonical_url": "https://arxiv.org/abs/2403.03314v2",
+    "visual_pages": [
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "reading_id": "S044",
+    "actual_title": "Convex Maneuver Planning for Spacecraft Collision Avoidance",
+    "title_cn": "单受控星低推力避碰的半定松弛与风险退化方案",
+    "authors": "Fausto Vega; Jon Arrizabalaga; Ryan Watson; Zachary Manchester",
+    "year": 2025,
+    "identifier": "arXiv:2510.19058v1",
+    "actual_version": "arXiv v1，2025-10-21，共8页；摘要页称Accepted to International Space Robotics Conference，未将其当作正式全文配对。",
+    "evidence_role": "single_spacecraft_probabilistic_planning",
+    "body_pages": [
+      1,
+      8
+    ],
+    "question": "短时交会中，怎样减少对初始猜测的依赖，并在推力不足以达到目标风险时给出可解释的退化规划。",
+    "inputs": "模拟CDM给定双方TCA状态、协方差、硬体半径；第二目标保持被动。高保真传播产生参考轨迹，但优化内使用沿参考轨迹的一阶离散线性误差动力学；固定末端为TCA。",
+    "decisions": "优化每个节点加速度及其矩矩阵，以控制平方和作为能量型目标，约束推力界和末端b平面碰撞概率近似。能量型目标并非严格推进剂质量最优。",
+    "mechanism": "将QCQP的矩阵秩一约束松弛成SDP，并加二阶矩动力学一致性约束改善紧性。若解为秩一，可恢复该线性化/概率近似问题的全局解；否则SDP只提供下界。达不到风险阈值时使用风险相关罚项与控制代价折衷，不再拥有原硬阈值承诺。",
+    "validation": "一个模拟LEO交会的三种推力/阈值设置，MOSEK求解；对照包括IPOPT单一初始化和100个半平面采样。特征值比大于10⁴是所示算例的数值紧性诊断，不是所有输入紧性定理。算例3原硬约束问题非紧，采用罚项后展示近似秩一解。",
+    "limitations": [
+      "单主动、单被动对象，未研究多主动星协商、责任分配和次生交会。",
+      "固定b平面、Gaussian位置误差、常协方差和末端TCA近似限制长时、低速相伴交会外推。",
+      "不能把线性化QCQP的条件全局解升级为完整非线性轨道问题的无条件全局最优。",
+      "正文个别无条件“guarantees convergence”措辞强于其数值紧性证据，采用时保留条件。"
+    ],
+    "use": "补3.6.2风险约束到机动选择的接口、3.6.3执行可行性不足时的退化处理。可与S047多星联合规划对照：解决单星求解可靠性之后仍有群体内部安全缺口。",
+    "claims": [
+      {
+        "text": "采用一颗主动星、一颗被动目标及模拟CDM，短时b平面概率近似建立末端TCA约束。",
+        "pages": [
+          2,
+          3,
+          5
+        ],
+        "locator": "§II.B; §IV setup",
+        "type": "scope",
+        "claim_id": "C-B17-016",
+        "source_id": "E-B17-S044",
+        "claim_text_sha256": "f1355f148de6d89976ce8370d3dab15122be92e26d9b45619497e7746ffbd707"
+      },
+      {
+        "text": "高保真传播模型先生成参考轨迹，实际优化动力学为该参考附近的一阶离散线性化。",
+        "pages": [
+          3,
+          4
+        ],
+        "locator": "§III.A,C Eq.(10)",
+        "type": "model_assumption",
+        "claim_id": "C-B17-017",
+        "source_id": "E-B17-S044",
+        "claim_text_sha256": "7166c2a759e9ec6a9c950b22bfb4a50b1a0137638ad442ba248b34bfd7089d19"
+      },
+      {
+        "text": "Shor松弛只有满足秩一等紧性条件时才可恢复原QCQP全局解；非紧时只给下界。",
+        "pages": [
+          2,
+          6
+        ],
+        "locator": "§II.A; §IV.A.2 Fig.4",
+        "type": "guarantee_boundary",
+        "claim_id": "C-B17-018",
+        "source_id": "E-B17-S044",
+        "claim_text_sha256": "c7a30eef89c7845cb7c7f4ec19d649f12e7f5ba6668fdcde4b42002661f85d93"
+      },
+      {
+        "text": "所示算例以最大/次大特征值比超过10⁴诊断数值紧性；算例3原硬风险约束的解被报告为非紧。",
+        "pages": [
+          6
+        ],
+        "locator": "§IV.A.2 and §IV.C",
+        "type": "experiment",
+        "claim_id": "C-B17-019",
+        "source_id": "E-B17-S044",
+        "claim_text_sha256": "8ac3389cb1103465f93dc4456f35017acc14420ca6944f91160732b889c31ab2"
+      },
+      {
+        "text": "推力不足时用风险相关罚项与控制努力折衷，图6中仍有目标风险轮廓内的结果，不代表满足原硬阈值。",
+        "pages": [
+          5,
+          7
+        ],
+        "locator": "Eq.(24); Fig.6",
+        "type": "negative_boundary",
+        "claim_id": "C-B17-020",
+        "source_id": "E-B17-S044",
+        "claim_text_sha256": "a955a72d8735b946a96b26f85b12d6125a77a807340070e5ddea4752491a4143"
+      }
+    ],
+    "adoption_status": "candidate_after_human_review",
+    "arxiv": "2510.19058v1",
+    "canonical_url": "https://arxiv.org/abs/2510.19058v1",
+    "visual_pages": [
+      4,
+      6,
+      7
+    ]
+  },
+  {
+    "reading_id": "S045",
+    "actual_title": "Hamilton–Jacobi Reachability for Spacecraft Collision Avoidance",
+    "title_cn": "平面双星可达性与混合监督逻辑：暂缓采用记录",
+    "authors": "Larry Hui; Jordan Kam; William Su; Jianshu Zhou",
+    "year": 2026,
+    "identifier": "arXiv:2605.20138v1",
+    "actual_version": "arXiv v1，2026-05-19，共6页；完成阅读但存在需澄清的内部问题，暂缓作为综述结论依据。",
+    "evidence_role": "single_spacecraft_reachability_quarantined",
+    "body_pages": [
+      1,
+      6
+    ],
+    "question": "作者尝试以HCW平面相对运动、对方有界未知加速度及混合模式切换联结正常运行、避让和恢复。阅读重点是核对其模型安全表述与实际展示是否一致。",
+    "inputs": "状态为切向/径向相对位置速度四维量；一颗受控星输入有界，另一星作为对抗扰动。目标安全距离用符号d_FCC表示，但文中没有给出可追溯的具体规则条款或数值来源。",
+    "decisions": "监督器在名义、避让、恢复模式之间切换，并提出四类退避机动；仿真采用饱和PD控制、受控加速度上限0.1 m/s²、扰动上限0.05 m/s²。这里的数值是作者设置，不替其认定为现实卫星普适能力。",
+    "mechanism": "意图是离线用HJ集合边界触发避让与恢复。可读出完整的概念结构，但Eq.(12)的最小/最大方向与其安全目标解释、Eq.(13)第二行额外负号、固定PD且空扰动的捕获集与对抗安全管之间的关系均需澄清；本批不替作者修公式或给正确性背书。",
+    "validation": "主要展示退避轨迹和恢复捕获集切片，未见充分网格/误差/求解时间信息支撑大星座可扩展实证；成对分解、非均匀网格及学习近似仍是展望。第6页参考文献[14]保留“A. Author et al.”占位，降低可直接采用性。",
+    "limitations": [
+      "采用状态为HOLD_FOR_SOURCE_CLARIFICATION；完成精读不等于认可论文可引用结论。",
+      "需人工检查Eq.(12)目标函数符号约定、Eq.(13)等式和时间方向，不在笔记中擅自宣布整篇错误。",
+      "p5称固定控制捕获集计算时扰动集为空，不能直接代表含对抗扰动的所有避碰保证。",
+      "d_FCC依据和占位参考文献未解决；不将其表述为真实法规标准。",
+      "不把双星四维示意扩写为多星网络普遍保证。"
+    ],
+    "use": "保留为研究线索和方法审读反例，暂不写入综述确定性论断。后续若更新或作者澄清，按新版本单独比较；已有B14可达切换文献优先承担正式证据。",
+    "claims": [
+      {
+        "text": "模型仅为四维平面HCW双星，一星受控另一星为有界扰动；三维、J2与非线性扩展未在本版完成。",
+        "pages": [
+          2,
+          5,
+          6
+        ],
+        "locator": "§III.A; §IV; §V",
+        "type": "scope",
+        "claim_id": "C-B17-021",
+        "source_id": "E-B17-S045",
+        "claim_text_sha256": "e5e1587e81e0f83b9c8432496d8abb19ec72cea4c802891cba54fc2d02d59282"
+      },
+      {
+        "text": "论文提出名义—避让—恢复三模式和状态守卫条件，但式(7)边界触发与相邻正文“边界前触发”仍需明确裕度。",
+        "pages": [
+          3
+        ],
+        "locator": "Eq.(7) and following paragraphs",
+        "type": "source_issue",
+        "claim_id": "C-B17-022",
+        "source_id": "E-B17-S045",
+        "claim_text_sha256": "5d3ea7189d33442a0ee382fa2a71e3f10e4cd3b9a9d154dd6fcbfc827c9695bb"
+      },
+      {
+        "text": "Eq.(13)第二行印有额外负号，Eq.(12)的极值方向亦需按目标负子水平集约定复核；本记录只标记待澄清。",
+        "pages": [
+          4
+        ],
+        "locator": "Eqs.(10)–(15), original-page visual check",
+        "type": "source_issue",
+        "claim_id": "C-B17-023",
+        "source_id": "E-B17-S045",
+        "claim_text_sha256": "ee531a1acedc6184fb5907a20b89cbeeebecb58b8bddf09dc9718a8df659d3ee"
+      },
+      {
+        "text": "固定PD捕获集说明采用空扰动集；另有未定位规则的d_FCC及参考文献[14]占位，故暂缓采用其强安全结论。",
+        "pages": [
+          5,
+          6
+        ],
+        "locator": "§IV fixed-controller paragraph; Eq.(17); reference[14]",
+        "type": "source_issue",
+        "claim_id": "C-B17-024",
+        "source_id": "E-B17-S045",
+        "claim_text_sha256": "1d16c3562610328689d64e27c73157f9d658b5d5f56537ca653e40b4cf8cb974"
+      }
+    ],
+    "adoption_status": "HOLD_FOR_SOURCE_CLARIFICATION",
+    "arxiv": "2605.20138v1",
+    "canonical_url": "https://arxiv.org/abs/2605.20138v1",
+    "visual_pages": [
+      3,
+      4,
+      5,
+      6
+    ]
+  },
+  {
+    "reading_id": "S046",
+    "actual_title": "Satellite Formation Flying Control by Using Only Angle Measurements",
+    "title_cn": "仅邻星角度测量下的编队控制及局部避碰边界",
+    "authors": "Jianqing Li; Liangming Chen; Ming Cao; Chaoyong Li",
+    "year": 2023,
+    "identifier": "10.1109/TAES.2022.3200345",
+    "actual_version": "IEEE TAES 59(2):1439–1451，2023年卷期，2022-08-22在线；大学仓储PDF带1页封面，共14物理页，正文从第2页开始。",
+    "evidence_role": "multi_spacecraft_angle_formation",
+    "body_pages": [
+      2,
+      13
+    ],
+    "question": "在没有星间通信、邻星距离速度测量和统一局部朝向时，哪些角度约束足以确定圆形相对编队的形状、尺度并保证局部稳定。",
+    "inputs": "邻星输入为本地LOS角/方位，仍需自身相对参考的位置速度用于动力学补偿与速度反馈。假设初始在同向、共面相对圆轨道，位置分离且非共线；“仅角度”不等于无本星导航。",
+    "decisions": "分别设计三角形、多边形与方形控制律。一个参考成员维持自身圆轨道可锚定整体半径；方形使用交叉三角结构消除相同内角对应矩形的形状歧义。",
+    "mechanism": "邻星通信可由可用的本地光学角度感知替代，但传感可见性并未被资源调度优化。收敛分析以期望状态邻域内小误差为前提；Remark5以初始间距和Lyapunov误差界给出不碰撞的充分条件，不能支持任意重构过程。",
+    "validation": "三角形3星、六边形6星、方形4星仿真；对比普通内角控制形成矩形与特殊构造形成方形。补充LOS标准差2°和本星导航10%量级误差试验，结果为期望附近波动，未给全域噪声概率安全证书。",
+    "limitations": [
+      "所需自身状态、目标速度和模型补偿信息仍在控制律内；题名中的only只针对邻星测量。",
+      "定理局部收敛，避碰条件依赖小初始误差及足够初始间距；无大范围重构全域安全保证。",
+      "未约束执行器饱和、遮挡、视场、复杂多目标及长时通信导航失效。",
+      "角度不能单独决定尺度；不能将无通信表述为无信息依赖。"
+    ],
+    "use": "可用于3.6.1编队维护及协同的信息需求分类，尤其强调感知替代通信需要初始构型、尺度锚点和本星导航支持。用其局部安全条件衔接显式安全过滤方法，避免把形状稳定当成全面避碰。",
+    "claims": [
+      {
+        "text": "邻星不通信、仅提供本地LOS信息，但每星仍知道自身位置速度；初态需同向共面相对圆轨道和非共线分离。",
+        "pages": [
+          4
+        ],
+        "locator": "§II.A Assumptions1–3 and Problem1 text",
+        "type": "information_assumption",
+        "claim_id": "C-B17-025",
+        "source_id": "E-B17-S046",
+        "claim_text_sha256": "28c4e2864cf8a9d61b67d3e02d4ed04140359169818b28d3b746e6716b895e58"
+      },
+      {
+        "text": "三角形和多边形收敛定理要求初始误差位于期望状态邻域内。",
+        "pages": [
+          5,
+          8
+        ],
+        "locator": "Theorems1–2",
+        "type": "guarantee_boundary",
+        "claim_id": "C-B17-026",
+        "source_id": "E-B17-S046",
+        "claim_text_sha256": "6ffb03658753bf8bc8df1087ae49ca1dc5e7a2c047684fd7227b01a193a36664"
+      },
+      {
+        "text": "Remark5使用初始间距大于误差累计上界加硬体尺寸的条件证明避碰，小初始误差是该充分条件的一部分。",
+        "pages": [
+          7
+        ],
+        "locator": "Remark5 Eqs.(22)–(28)",
+        "type": "conditional_safety",
+        "claim_id": "C-B17-027",
+        "source_id": "E-B17-S046",
+        "claim_text_sha256": "66f1dd4850d650d4911716840940e4cb132dd8e88dfb953bc05a68a6f2e0edf2"
+      },
+      {
+        "text": "相同内角不足以唯一确定方形，特殊角刚性构造排除矩形；维持一星轨道可锚定编队尺度。",
+        "pages": [
+          5,
+          10,
+          12
+        ],
+        "locator": "Fig.3; Remark6; §III.C; Figs.9–10",
+        "type": "coordination",
+        "claim_id": "C-B17-028",
+        "source_id": "E-B17-S046",
+        "claim_text_sha256": "6f46ce2a8f87834c303c5680ed9f272438d545cb6769dc82b7c5522c1133e6df"
+      },
+      {
+        "text": "2°LOS噪声和10%量级本星导航误差仅通过仿真考察，结果在期望构型附近振荡。",
+        "pages": [
+          12,
+          13
+        ],
+        "locator": "§IV.D Figs.11–12",
+        "type": "experiment",
+        "claim_id": "C-B17-029",
+        "source_id": "E-B17-S046",
+        "claim_text_sha256": "d810633fb6bf8d27ff1a8150e2a32e1fdee1966e524a47e01febb039b1193740"
+      }
+    ],
+    "adoption_status": "candidate_after_human_review",
+    "crossref": "S046_CROSSREF.json",
+    "appendix_scope": "Appendix A p13 targeted proof narrative; references/biographies pp13–14 skim; repository cover p1 identity checked",
+    "canonical_url": "https://doi.org/10.1109/TAES.2022.3200345",
+    "visual_pages": [
+      4,
+      7,
+      10,
+      12
+    ]
+  },
+  {
+    "reading_id": "S047",
+    "actual_title": "Sequential Convex Trajectory Planning for Space-Debris Conjunction Mitigation in Satellite Formations",
+    "title_cn": "同时考虑外部碎片与内部安全的三阶段编队避碰规划",
+    "authors": "Michał Błażejczyk; Paweł Zagórski",
+    "year": 2026,
+    "identifier": "10.3390/app16083707",
+    "actual_version": "Applied Sciences 16(8):3707，2026-04-10，出版社23页PDF。",
+    "evidence_role": "multi_spacecraft_joint_conjunction_planning",
+    "body_pages": [
+      1,
+      21
+    ],
+    "question": "一颗卫星的碎片避让可能制造编队内部碰撞，怎样在同一规划中同时满足外部概率轮廓、内部间距及终端编队恢复。",
+    "inputs": "ESA挑战CDM衍生的交会几何；在虚拟星LVLH中采用CW线性动力学。TCA协方差变换为沿碎片相对速度方向的椭圆禁入管，内部安全以确定性最小星间距离建模。",
+    "decisions": "统一优化各星位置速度和控制加速度，最小化积分控制范数，指定初末状态和控制界。虽然对象为分布式空间系统，算法是联合规划；论文没有给出分散通信协议、星间责任协商或星载分布式执行实证。",
+    "mechanism": "Stage0求初末边值名义轨迹，Stage1加入外部碎片禁入约束，Stage2再加入星间距离切平面，并迭代至代价及约束满足。三个阶段是求解阶段，不是允许真实飞行先违反内部安全的运行阶段。最终轨迹才是候选执行方案。",
+    "validation": "三颗编队卫星，1197个筛选后交会场景，阈值10⁻⁵。作者报告1129/1197即94.3%在阈值及以下，剩余数值偏差在10⁻¹²内；不能简化成所有场景严格小于阈值。桌面i7/MOSEK中位17.12 s、90分位27.64 s、总子问题次数中位7。没有独立复算原始数据。",
+    "limitations": [
+      "三颗星及单次外部交会，不能将“1197场景”误作1197星或星座级容量证明。",
+      "模型仅短时、圆参考CW；TCA协方差未随动作传播，也未验证闭环导航/执行误差下的风险校准。",
+      "连续时间约束写法与数值离散执行之间的间隙没有完整区间证书，不据此宣称连续在轨认证。",
+      "数据可按请求获得；正文对原始CDM数量的叙述及10⁻⁴运行筛选/10⁻⁵本实验筛选需在引用原数据时另核，本批不传播总量。",
+      "未进行统一实现的多算法大规模对照，SCP仍非全局最优普遍保证。"
+    ],
+    "use": "优先补3.6.2—3.6.3衔接：风险筛选输出之后，动作决策必须同时检查内部安全、终端恢复和求解期限。可使用其代表场景解释为何不能将单星避碰策略简单复制到编队。",
+    "claims": [
+      {
+        "text": "代表场景中仅第三星直接受碎片威胁，但需第二星协同让出安全空间，说明单星独立避碰会产生内部冲突。",
+        "pages": [
+          13,
+          14
+        ],
+        "locator": "§4 representative scenario; Fig.4",
+        "type": "coordination",
+        "claim_id": "C-B17-030",
+        "source_id": "E-B17-S047",
+        "claim_text_sha256": "89fc31c951629f7ff6ff379819c06bf37e9af513850f10ae19e2969813df1ba9"
+      },
+      {
+        "text": "SDEICA在同一联合问题中包括CW动力学、控制界、终端恢复、外部椭圆管与内部最小间距。",
+        "pages": [
+          7,
+          8,
+          10,
+          11
+        ],
+        "locator": "§3.2–3.5 Eqs.(3)–(11),(20),(27)",
+        "type": "method",
+        "claim_id": "C-B17-031",
+        "source_id": "E-B17-S047",
+        "claim_text_sha256": "93a938255a1d820ae1df9798f33f05b47ce7faaed0e8646df441558150be8cd7"
+      },
+      {
+        "text": "Stage1的中间优化解可违反内部间距；Stage2激活内部约束后才形成联合安全候选轨迹。",
+        "pages": [
+          12,
+          14,
+          16,
+          17
+        ],
+        "locator": "Algorithm1; Figs.5,8",
+        "type": "negative_boundary",
+        "claim_id": "C-B17-032",
+        "source_id": "E-B17-S047",
+        "claim_text_sha256": "5a5bed68f1d4008ddb0d9822e97efe993c20d72ab730cb4ef161964b066d9614"
+      },
+      {
+        "text": "1197场景中1129个达到10⁻⁵阈值及以下，其余在10⁻¹²数值容差内；这不是全部严格低于阈值。",
+        "pages": [
+          16
+        ],
+        "locator": "§4.2 Fig.7",
+        "type": "experiment",
+        "claim_id": "C-B17-033",
+        "source_id": "E-B17-S047",
+        "claim_text_sha256": "6a7bccb03d304edf4a1d5b7570105a080b6dd9261262117f67fe1ed3ffc83ac0"
+      },
+      {
+        "text": "桌面i7-10510U与MOSEK设置下，总求解时间中位17.12 s、90分位27.64 s，总凸子问题次数中位7。",
+        "pages": [
+          19
+        ],
+        "locator": "§4.6 Fig.12",
+        "type": "runtime",
+        "claim_id": "C-B17-034",
+        "source_id": "E-B17-S047",
+        "claim_text_sha256": "a21ec39609e4e81d444fdb56a40482ba03151d8e62d628631402b893e808e4f0"
+      },
+      {
+        "text": "本版采用TCA固定协方差、三星和单次交会，时变不确定性、更大编队及多交会是未来扩展。",
+        "pages": [
+          4,
+          13,
+          20,
+          21
+        ],
+        "locator": "§2; §4 setup; §5 scope paragraph",
+        "type": "limitation",
+        "claim_id": "C-B17-035",
+        "source_id": "E-B17-S047",
+        "claim_text_sha256": "cb13804d5cb3d8de30f55ac9943f5c5c3686529b393d497658df11649bfabf3a"
+      }
+    ],
+    "adoption_status": "candidate_after_human_review",
+    "crossref": "S047_CROSSREF.json",
+    "canonical_url": "https://doi.org/10.3390/app16083707",
+    "visual_pages": [
+      8,
+      12,
+      14,
+      16,
+      19,
+      21
+    ]
+  },
+  {
+    "reading_id": "S048",
+    "actual_title": "In-orbit demonstration of propulsive and drag-based formation control using two 2U CubeSats under operational constraints",
+    "title_cn": "NanoFF双2U卫星推进与差分阻力分阶段在轨运行",
+    "authors": "Debdeep Roychowdhury; Sebastian Grau; Fynn Boyer; Sascha Kapitola; Alan Legenza; José Manuel Diez; Benjamin Palmer; Enrico Stoll",
+    "year": 2026,
+    "identifier": "10.1007/s12567-026-00702-6",
+    "actual_version": "CEAS Space Journal出版社开放PDF，共33页，2026年；2026-01-19接受；多项实验状态以2025-06-01为截止，不能视为2026-10现况。",
+    "evidence_role": "multi_spacecraft_flight_operations",
+    "body_pages": [
+      1,
+      30
+    ],
+    "question": "资源受限的双2U卫星如何在GNSS间歇、下传有限、食区姿态不可用和推进性能偏差下，以阶段性策略完成安全接近与构型维护。",
+    "inputs": "两颗NanoFF于2024-01部署，使用本星/地面GNSS与公开TLE估计ROE，部分阶段通过地面上传双方TLE。UHF星间链路在任务中存在，但文中更高精度状态自主交换和完整自主编队功能仍有后续计划。",
+    "decisions": "先小推力脉冲抑制约45 km/d漂移，再采用差分阻力降低相对沿轨距离；通过安全E/I几何安排近距交叉。法向脉冲依据日照、传感器可用性与推进剂均衡选择哪颗星何时动作。",
+    "mechanism": "这是空间/地面共同维护的运行闭环：动作后等待导航更新，比较目标与实际ROE，人工修正阻力/推进参数再规划。已在轨ADM根据ROE、内外阈值和电压调节姿态，核心逻辑约30 min执行；安全近距交叉自动化及预测控制仍属计划能力，不能与已演示ADM混为一谈。",
+    "validation": "七次沿轨漂移抑制机动总Δv约0.211 m/s；与GNSS可比较的仅3次，其TLE估计Δv差异小于3 mm/s。首个受控交叉约1.8 km径法向最小分离，TLE沿轨误差可到1.5 km，而径/法向小于0.25 km。ADM示例运行在约80 km沿轨间隔；2025-04-11因PCU相关问题停止。上述为作者公开飞行分析，并非本批获取原遥测独立复算。",
+    "limitations": [
+      "双星具体构型、误差方向性和安全裕度决定TLE可用性；不能写成TLE普遍替代GNSS，尤其米级交会。",
+      "所述近距交叉主要由地面组织；图20/36标注planned，完整推进/阻力联合AFF尚未在该文验证。",
+      "正文§6说明相对经度激活，而表10激活项为Drift，表文差异保留；采用时只引用可确认的阈值和实验区间。",
+      "法向收缩只达预期400 m的约72%，执行误差成因尚未完全分离。",
+      "数据声明“未产生/分析数据”与遥测分析叙述口径待作者澄清；未提供可复算遥测，不构造独立验证主张。"
+    ],
+    "use": "可重点用于3.6.1维护、3.6.3避碰恢复和工程约束段，说明采用更新需要等待信息、复核执行效果、满足姿态电量窗口。适合作为仿真方法的现实约束对照，不当作千星自主协同已实现的证据。",
+    "claims": [
+      {
+        "text": "七次沿轨机动总Δv约0.211 m/s；仅3次可作GNSS/TLE对照，Δv估计差异小于3 mm/s。",
+        "pages": [
+          11,
+          13,
+          14
+        ],
+        "locator": "§4.1 Tables4–5",
+        "type": "flight_observation",
+        "claim_id": "C-B17-036",
+        "source_id": "E-B17-S048",
+        "claim_text_sha256": "fa43e20404385cdfed793f24cb8273663a1fea19060480d39f62b88ed65a01cd"
+      },
+      {
+        "text": "机动间隔数天包含等待导航验证、地面站冲突和运行安排；参数修正仍由团队离线分析完成。",
+        "pages": [
+          14,
+          16
+        ],
+        "locator": "§4.1 spacing; §5.1 monitoring and refinement",
+        "type": "operations",
+        "claim_id": "C-B17-037",
+        "source_id": "E-B17-S048",
+        "claim_text_sha256": "395c4178d1a34c5f72236a44f37be7119ae48dd2e24dfeb01485429695cd7f34"
+      },
+      {
+        "text": "首个受控交叉的径法向最小分离约1.8 km；TLE沿轨位置误差可到1.5 km，径/法向误差小于0.25 km，安全结论依赖几何裕度。",
+        "pages": [
+          19,
+          22,
+          24
+        ],
+        "locator": "§5.2.1; Figs.24,27–28",
+        "type": "conditional_flight_safety",
+        "claim_id": "C-B17-038",
+        "source_id": "E-B17-S048",
+        "claim_text_sha256": "7ba49e9eeb029cf48a04d82f3d46d42da99e9915a985c46a3f6a92d02215553e"
+      },
+      {
+        "text": "ADM核心逻辑通常30 min执行，导航传播可500 ms更新，但TLE实际新信息仅每日4–5次，频率不能混为一谈。",
+        "pages": [
+          26
+        ],
+        "locator": "§6 timing and navigation paragraphs",
+        "type": "information_age",
+        "claim_id": "C-B17-039",
+        "source_id": "E-B17-S048",
+        "claim_text_sha256": "20723b20753133c34ec1c47303fdfe1a2856d3ecad5d09f0e7dea95c59f5b071"
+      },
+      {
+        "text": "ADM沿轨约80 km实验含0.8/1.6 km滞环、电压15.5/15.9 V阈值；图37说明PCU事件导致实验停止。",
+        "pages": [
+          28,
+          29
+        ],
+        "locator": "Table10; Fig.37; activation label conflict retained",
+        "type": "flight_observation",
+        "claim_id": "C-B17-040",
+        "source_id": "E-B17-S048",
+        "claim_text_sha256": "4ff23908ca9527055b4713edb27489c9d20e1a745fb30bf6402937a15152d2fc"
+      },
+      {
+        "text": "现有ADM调节阻力与计划的自主安全近距交叉不同，后者需进一步验证；图36明确是计划逻辑。",
+        "pages": [
+          26,
+          27,
+          28
+        ],
+        "locator": "§6; Fig.36 caption",
+        "type": "capability_boundary",
+        "claim_id": "C-B17-041",
+        "source_id": "E-B17-S048",
+        "claim_text_sha256": "5ab9c29fc3acb2f056a932d1004c3b377302ddc5c811d3c8498cf33a12b6410e"
+      }
+    ],
+    "adoption_status": "candidate_after_human_review",
+    "crossref": "S048_CROSSREF.json",
+    "appendix_scope": "No separate appendix; proof formulas read selectively, glossary pp31–32 and references pp32–33 skim; data statement p32 read",
+    "canonical_url": "https://doi.org/10.1007/s12567-026-00702-6",
+    "visual_pages": [
+      13,
+      19,
+      22,
+      26,
+      28,
+      29
+    ]
+  },
+  {
+    "reading_id": "S049",
+    "actual_title": "Predictive Control Barrier Functions for Online Safety Critical Control",
+    "title_cn": "通过名义轨迹前瞻构造预测屏障函数",
+    "authors": "Joseph Breeden; Dimitra Panagou",
+    "year": 2022,
+    "identifier": "arXiv:2204.00208v2",
+    "actual_version": "实际读取arXiv v2，2022-08-30，9页；相关正式CDC DOI仅校验书目，未逐字配对正式全文。",
+    "evidence_role": "single_spacecraft_predictive_safety_foundation",
+    "body_pages": [
+      1,
+      7
+    ],
+    "question": "传统CBF可能在当前间距接近危险时才强烈动作；是否可以仅前向传播名义轨迹，并把未来局部极值与首次不安全时间编码进当前控制约束。",
+    "inputs": "已知动力学、名义路径生成函数、安全集合未来构成及路径对当前状态的灵敏度；模型允许名义路径本身不安全，依靠实时校正维持另行构造的安全子集。",
+    "decisions": "每次仅优化当前控制而不是整条控制时序。预测安全函数使用路径安全值、首次危险时间和时间裕度；取首个未来极大值构造H*，由控制仿射条件求小维QP。",
+    "mechanism": "前瞻性来自沿指定名义路径传播，不是对所有可能轨迹求解。Theorem2依赖连续性、非零灵敏度及内积条件，并在证明中使用无界输入可行选择；将所有未来极值的约束同时叠加会有可行性冲突。",
+    "validation": "道路交叉双车与一受控卫星对已知轨道碎片两个案例。卫星采用两体动力学，预测触发约367 s开始小动作，较晚ECBF动作大得多。0.0034/0.050/0.98 s耗时对照属于道路例，不能搬作卫星星载耗时。",
+    "limitations": [
+      "不保证输入界，未直接支持采样数据控制，分布式多智能体扩展列为后续工作。",
+      "需知道障碍物未来构成；未知对方机动和协方差更新不在已证条件内。",
+      "仅首个极大值的H*有主要保证，多个Hi同时满足不能直接假设。",
+      "正式DOI与实际arXiv版本仅做身份关联，完整文本未配对。"
+    ],
+    "use": "可作为3.6.3预测干预时机与执行期限的基础对照。与B16采样/输入受限CBF并列时，强调本篇前瞻优势不自动补齐执行器、数字采样和多星协议条件。",
+    "claims": [
+      {
+        "text": "PCBF沿可不安全的名义路径搜索未来极大值和首次危险时间，再对当前输入施加控制仿射约束。",
+        "pages": [
+          2,
+          3,
+          4,
+          6
+        ],
+        "locator": "§III.A–C; Eq.(22)",
+        "type": "method",
+        "claim_id": "C-B17-042",
+        "source_id": "E-B17-S049",
+        "claim_text_sha256": "39a19ba85dbc191fd6f0f82ea38eb0039d52206639529b18cb13885408673820"
+      },
+      {
+        "text": "Theorem2证明使用无约束输入选择，文中明确尚不保证输入界及采样控制安全。",
+        "pages": [
+          1,
+          5,
+          7
+        ],
+        "locator": "Introduction; Theorem2 casesB2/B3; §V",
+        "type": "guarantee_boundary",
+        "claim_id": "C-B17-043",
+        "source_id": "E-B17-S049",
+        "claim_text_sha256": "b5f96cb0c5d1ee5c55f7b7c4817adc8914c4137dee7d107c4fa1c99026bb0e98"
+      },
+      {
+        "text": "卫星例为一颗受控星避让已知轨道碎片，PCBF约367 s开始动作；不是多个主动航天器协调案例。",
+        "pages": [
+          7
+        ],
+        "locator": "§IV.B Figs.5–6",
+        "type": "experiment",
+        "claim_id": "C-B17-044",
+        "source_id": "E-B17-S049",
+        "claim_text_sha256": "f329cd6d251350b773b23cbb4736b3a9ec44b2c56624da3b14329a04962e32c9"
+      },
+      {
+        "text": "0.0034/0.050/0.98 s的ECBF/PCBF/MPC耗时对照来自道路交叉案例；多个Hi约束亦可能冲突。",
+        "pages": [
+          6,
+          7
+        ],
+        "locator": "§III discussion; §IV.A",
+        "type": "negative_boundary",
+        "claim_id": "C-B17-045",
+        "source_id": "E-B17-S049",
+        "claim_text_sha256": "6bf211d08a86b5285a5445aaa3ebc0c9bc4cc762a5e9df58d61ce175e4e7323f"
+      }
+    ],
+    "adoption_status": "candidate_after_human_review",
+    "arxiv": "2204.00208v2",
+    "related_formal_doi": "10.1109/CDC51059.2022.9992926",
+    "related_formal_title": "Predictive Control Barrier Functions for Online Safety Critical Control",
+    "crossref": "S049_CROSSREF.json",
+    "appendix_scope": "Appendix proof of Lemma3 pp8–9 narrative and selected derivatives read; not independently reproved",
+    "canonical_url": "https://arxiv.org/abs/2204.00208v2",
+    "visual_pages": [
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "reading_id": "S050",
+    "actual_title": "A reinforcement learning training and testing framework for aerospace missions",
+    "title_cn": "连接避碰、遥感与星座任务规划的强化学习训练测试框架",
+    "authors": "Yiqin Cong; Xiaolei Ruan; Maxiu Cai; Tianxi Liu; Cheng Wei; Xibin Cao",
+    "year": 2026,
+    "identifier": "10.1007/s11431-025-3169-9",
+    "actual_version": "Science China Technological Sciences 69(1):1100305，2026-01-04在线，15页Science China出版社PDF；DOI后缀2025不等于出版年。",
+    "evidence_role": "general_space_mission_validation_framework",
+    "body_pages": [
+      1,
+      14
+    ],
+    "question": "怎样让轨道机动、遥感、任务分配和通信等不同模型通过统一接口进入RL训练测试，并保留动作、状态与回合日志以便评价。",
+    "inputs": "SpaceSim元模型含轨道、通信、导航、遥感，Python算法通过接口与C++仿真连接。每类任务自行定义状态、可执行指令和奖励；论文是方法框架，不提供一个跨任务通用安全策略。",
+    "decisions": "五类接口InitialAll/ResetAll/StepAll/Get/Command_ADD组织场景初始化、状态读取、指令与推进；流程明确每回合保存动作日志。用户要定制观测/动作/奖励，接口统一不消除不同任务的可比性问题。",
+    "mechanism": "四种算例分别是连续推力交会、单脉冲多威胁规避、规避与遥感耦合、星座移动目标任务规划。实际多威胁规避由单颗主动星SAC决策，不是威胁星共同避让；任务规划算例亦不能反证其安全控制有效。",
+    "validation": "表6给5个威胁星及本星轨道参数；表7单场景传统优化Δv4.75 m/s、耗时大于5 min，对照SAC5.07 m/s、20 s。遥感规避DDQN用130条不同拦截轨迹测试；星座规划比较改进DDQN、契约网和改进PSO，但详细实验指向既有工作。未见统一大量随机种子/误差条足以支持全场景优越。",
+    "limitations": [
+      "不是形式安全验证框架，奖励函数与安全距离展示不能代替可行域、碰撞概率及最坏情况证书。",
+      "作者明确后续仍需物理或硬件在环验证；仿真可视化不等于任务在轨成熟度。",
+      "表7对照是单个场景，基线求解配置和时间口径不足以推导普遍速度提升或训练总成本优势。",
+      "星座任务规划例与作者先前研究相关，不能当作完全独立重复证据。",
+      "本批不复用相关对抗任务来构造执行指导，只提取训练测试接口和任务效果评估方法。"
+    ],
+    "use": "补综述验证与采用更新部分：统一接口、回合动作留痕、按任务层级评价及物理验证链条。3.6可据此提出同时报告安全、机动代价和观察收益，避免只报避碰率；不将框架兼容性写成大星座安全证明。",
+    "claims": [
+      {
+        "text": "框架组合RL算法、接口、仿真元模型与可视化，五类核心接口负责重置、状态读取、动作指令与仿真推进。",
+        "pages": [
+          6,
+          7,
+          8
+        ],
+        "locator": "§4; Fig.3; five interface list",
+        "type": "framework",
+        "claim_id": "C-B17-046",
+        "source_id": "E-B17-S050",
+        "claim_text_sha256": "4b556958f11a1dcc8b7c2e354396fba104b6a8a7b8e12507fd44c425172f6f9a"
+      },
+      {
+        "text": "训练流程要求在回合完成或截止时保存动作日志，支持过程复核；这是流程能力，不代表公开了所有实验日志。",
+        "pages": [
+          9
+        ],
+        "locator": "Table2 step16",
+        "type": "provenance",
+        "claim_id": "C-B17-047",
+        "source_id": "E-B17-S050",
+        "claim_text_sha256": "a03b8d5399fc07ac64ebf373ea2b085390209cb81341683be11e41d69523a591"
+      },
+      {
+        "text": "四例覆盖交会、单主动星多威胁规避、规避与遥感、星座任务分配，分别对应不同决策层级。",
+        "pages": [
+          10,
+          11,
+          12,
+          13
+        ],
+        "locator": "Table4; §5.2 scenarios1–4",
+        "type": "scope",
+        "claim_id": "C-B17-048",
+        "source_id": "E-B17-S050",
+        "claim_text_sha256": "25fc1eee3927689a1f7a929abccd2053d389bdbc1f2b79dd511d813509baab81"
+      },
+      {
+        "text": "表7单场景传统优化4.75 m/s且大于5 min，SAC5.07 m/s且20 s，不能据此宣称同等最优或普遍更省燃料。",
+        "pages": [
+          12
+        ],
+        "locator": "Table7",
+        "type": "negative_boundary",
+        "claim_id": "C-B17-049",
+        "source_id": "E-B17-S050",
+        "claim_text_sha256": "6098c50eaab325412689d5106d2d750dd84e20d75501600d6a639795b42c4728"
+      },
+      {
+        "text": "正文要求训练后进一步开展物理或硬件在环试验，框架仿真本身未完成该验证层级。",
+        "pages": [
+          8
+        ],
+        "locator": "§4.3 final paragraph",
+        "type": "validation_boundary",
+        "claim_id": "C-B17-050",
+        "source_id": "E-B17-S050",
+        "claim_text_sha256": "e7652328d572f152682445e2c33f87dea74622040613acafb81f5850ffa014f9"
+      }
+    ],
+    "adoption_status": "candidate_after_human_review",
+    "crossref": "S050_CROSSREF.json",
+    "canonical_url": "https://doi.org/10.1007/s11431-025-3169-9",
+    "visual_pages": [
+      7,
+      10,
+      12,
+      13
+    ]
+  }
+]

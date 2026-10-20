@@ -1,0 +1,15 @@
+{
+  "title": "Collision Avoidance Verification of Multiagent Systems with Learned Policies",
+  "aliases": [],
+  "authors_as_read": "Zihao Dong; Shayegan Omidshafiei; Michael Everett",
+  "bibliographic_year": 2024,
+  "identifier": "arXiv:2403.03314v2",
+  "actual_arxiv_version": "2403.03314v2",
+  "actual_version": "arXiv v2，2024-04-25，共6页。",
+  "source_sha256": "a26c366432ca3c792163c9956026589f6b14345a0918e29ec1ad2fd0ab054911",
+  "source_format": "PDF",
+  "primary_url": "https://arxiv.org/abs/2403.03314v2",
+  "human_verified": false,
+  "formal_version_text_compared": false,
+  "adoption_status": "candidate_after_human_review"
+}
