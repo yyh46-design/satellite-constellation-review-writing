@@ -1,0 +1,497 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        7,
+        30
+      ]
+    ],
+    "date-time": "2026-07-30T22:51:48Z",
+    "timestamp": 1785451908824,
+    "version": "3.56.0"
+  },
+  "reference-count": 20,
+  "publisher": "Elsevier BV",
+  "issue": "3",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2025,
+            9,
+            1
+          ]
+        ],
+        "date-time": "2025-09-01T00:00:00Z",
+        "timestamp": 1756684800000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2025,
+            9,
+            1
+          ]
+        ],
+        "date-time": "2025-09-01T00:00:00Z",
+        "timestamp": 1756684800000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "https://www.elsevier.com/legal/tdmrep-license"
+    }
+  ],
+  "funder": [
+    {
+      "DOI": "10.13039/501100021856",
+      "name": "Ministero dell'Università e della Ricerca",
+      "doi-asserted-by": "publisher",
+      "award": [
+        "2024\\u20135-E.0"
+      ],
+      "award-info": [
+        {
+          "award-number": [
+            "2024\\u20135-E.0"
+          ]
+        }
+      ],
+      "id": [
+        {
+          "id": "10.13039/501100021856",
+          "id-type": "DOI",
+          "asserted-by": "publisher"
+        }
+      ]
+    },
+    {
+      "DOI": "10.13039/501100021856",
+      "name": "Ministero dell'Università e della Ricerca",
+      "doi-asserted-by": "publisher",
+      "award": [
+        "I53D24000060005"
+      ],
+      "award-info": [
+        {
+          "award-number": [
+            "I53D24000060005"
+          ]
+        }
+      ],
+      "id": [
+        {
+          "id": "10.13039/501100021856",
+          "id-type": "DOI",
+          "asserted-by": "publisher"
+        }
+      ]
+    },
+    {
+      "DOI": "10.13039/501100003407",
+      "name": "Ministero dell’Istruzione, dell’Università e della Ricerca",
+      "doi-asserted-by": "publisher",
+      "id": [
+        {
+          "id": "10.13039/501100003407",
+          "id-type": "DOI",
+          "asserted-by": "publisher"
+        }
+      ]
+    },
+    {
+      "DOI": "10.13039/501100000844",
+      "name": "European Space Agency",
+      "doi-asserted-by": "publisher",
+      "id": [
+        {
+          "id": "10.13039/501100000844",
+          "id-type": "DOI",
+          "asserted-by": "publisher"
+        }
+      ]
+    },
+    {
+      "DOI": "10.13039/501100003981",
+      "name": "Italian Space Agency",
+      "doi-asserted-by": "publisher",
+      "id": [
+        {
+          "id": "10.13039/501100003981",
+          "id-type": "DOI",
+          "asserted-by": "publisher"
+        }
+      ]
+    }
+  ],
+  "content-domain": {
+    "domain": [
+      "elsevier.com",
+      "sciencedirect.com"
+    ],
+    "crossmark-restriction": true
+  },
+  "short-container-title": [
+    "Journal of Space Safety Engineering"
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2025,
+        9
+      ]
+    ]
+  },
+  "DOI": "10.1016/j.jsse.2025.06.006",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2025,
+        7,
+        8
+      ]
+    ],
+    "date-time": "2025-07-08T16:08:10Z",
+    "timestamp": 1751990890000
+  },
+  "page": "532-541",
+  "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+  "source": "Crossref",
+  "is-referenced-by-count": 1,
+  "title": [
+    "A comparison of spacecraft collision detection strategies using a virtual conjunction dataset"
+  ],
+  "prefix": "10.1016",
+  "volume": "12",
+  "author": [
+    {
+      "ORCID": "https://orcid.org/0000-0001-6015-1538",
+      "authenticated-orcid": false,
+      "given": "Giacomo",
+      "family": "Curzi",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-1517-3938",
+      "authenticated-orcid": false,
+      "given": "Dario",
+      "family": "Modenini",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "member": "78",
+  "reference": [
+    {
+      "key": "10.1016/j.jsse.2025.06.006_bib0001",
+      "doi-asserted-by": "crossref",
+      "first-page": "1125",
+      "DOI": "10.2514/1.A35234",
+      "article-title": "Relations between collision probability, Mahalanobis distance, and confidence intervals for conjunction assessment",
+      "volume": "59",
+      "author": "Modenini",
+      "year": "2022",
+      "journal-title": "J. Spacecr. Rockets"
+    },
+    {
+      "key": "10.1016/j.jsse.2025.06.006_bib0002",
+      "doi-asserted-by": "crossref",
+      "first-page": "407",
+      "DOI": "10.2514/1.A35752",
+      "article-title": "Risk index for the optimal ranking of active debris removal targets",
+      "volume": "61",
+      "author": "Servadio",
+      "year": "2024",
+      "journal-title": "J. Spacecr. Rockets"
+    },
+    {
+      "key": "10.1016/j.jsse.2025.06.006_bib0003",
+      "doi-asserted-by": "crossref",
+      "first-page": "449",
+      "DOI": "10.1016/j.asr.2015.02.027",
+      "article-title": "The criticality of spacecraft index",
+      "volume": "56",
+      "author": "Rossi",
+      "year": "2015",
+      "journal-title": "Adv. Space Res."
+    },
+    {
+      "key": "10.1016/j.jsse.2025.06.006_bib0004",
+      "doi-asserted-by": "crossref",
+      "first-page": "348",
+      "DOI": "10.1016/j.actaastro.2019.05.003",
+      "article-title": "Application of a debris index for global evaluation of mitigation strategies",
+      "volume": "161",
+      "author": "Letizia",
+      "year": "2019",
+      "journal-title": "Acta Astronaut."
+    },
+    {
+      "key": "10.1016/j.jsse.2025.06.006_bib0005",
+      "series-title": "AAS/AIAA Astrodynamics Specialist Conference",
+      "article-title": "Relevance of the american statistical society’s warning on p-values for conjunction assessment",
+      "author": "Carpenter",
+      "year": "2017"
+    },
+    {
+      "key": "10.1016/j.jsse.2025.06.006_bib0006",
+      "doi-asserted-by": "crossref",
+      "first-page": "206",
+      "DOI": "10.1016/j.jsse.2020.07.020",
+      "article-title": "DRAMA 3.0 - upgrade of ESA’s debris risk assessment and mitigation analysis tool suite",
+      "volume": "7",
+      "author": "Braun",
+      "year": "2020",
+      "journal-title": "J. Space Safety Eng."
+    },
+    {
+      "key": "10.1016/j.jsse.2025.06.006_bib0007",
+      "first-page": "13",
+      "article-title": "Operating characteristic approach to effective satellite conjunction filtering",
+      "volume": "148",
+      "author": "Alfano",
+      "year": "2013",
+      "journal-title": "Adv. Astronaut. Sci."
+    },
+    {
+      "key": "10.1016/j.jsse.2025.06.006_bib0008",
+      "unstructured": "M.D. Hejduk, “Satellite conjunction assessment risk analysis for “Dilution region” events: issues and operational approaches,” UT Austin, Texas, USA, 2019."
+    },
+    {
+      "key": "10.1016/j.jsse.2025.06.006_bib0009",
+      "doi-asserted-by": "crossref",
+      "first-page": "318",
+      "DOI": "10.1016/j.jsse.2020.07.009",
+      "article-title": "Quantitative assessment of a threshold for risk mitigation actions",
+      "volume": "7",
+      "author": "Sweetser",
+      "year": "2020",
+      "journal-title": "J. Space Safety Eng."
+    },
+    {
+      "key": "10.1016/j.jsse.2025.06.006_bib0010",
+      "doi-asserted-by": "crossref",
+      "first-page": "301",
+      "DOI": "10.1016/j.actaastro.2018.04.023",
+      "article-title": "Probability of collision: valuation, variability, visualization, and validity",
+      "volume": "148",
+      "author": "Alfano",
+      "year": "2018",
+      "journal-title": "Acta Astronaut."
+    },
+    {
+      "key": "10.1016/j.jsse.2025.06.006_bib0011",
+      "series-title": "18th AIAA Non-Deterministic Approaches Conference",
+      "article-title": "A corrector for probability dilution in satellite conjunction analysis",
+      "author": "Balch",
+      "year": "2016"
+    },
+    {
+      "key": "10.1016/j.jsse.2025.06.006_bib0012",
+      "doi-asserted-by": "crossref",
+      "first-page": "694",
+      "DOI": "10.1016/j.actaastro.2020.08.004",
+      "article-title": "On the use of machine learning and evidence theory to improve collision risk management",
+      "volume": "181",
+      "author": "Fernández-Mellado",
+      "year": "2021",
+      "journal-title": "Acta Astronaut."
+    },
+    {
+      "key": "10.1016/j.jsse.2025.06.006_bib0013",
+      "doi-asserted-by": "crossref",
+      "first-page": "273",
+      "DOI": "10.1007/s40295-013-0017-2",
+      "article-title": "Sequential probability ratio test for collision avoidance maneuver decisions",
+      "volume": "59",
+      "author": "Carpenter",
+      "year": "2012",
+      "journal-title": "J. Astronaut. Sci."
+    },
+    {
+      "key": "10.1016/j.jsse.2025.06.006_bib0014",
+      "doi-asserted-by": "crossref",
+      "first-page": "467",
+      "DOI": "10.2514/1.G006709",
+      "article-title": "Exploring an alternative approach to the assessment of collision risk",
+      "volume": "46",
+      "author": "Delande",
+      "year": "2023",
+      "journal-title": "J. Guidance, Control, Dynamics"
+    },
+    {
+      "key": "10.1016/j.jsse.2025.06.006_bib0015",
+      "series-title": "A Mathematical Theory of Evidence",
+      "author": "Shafer",
+      "year": "1976"
+    },
+    {
+      "key": "10.1016/j.jsse.2025.06.006_bib0016",
+      "series-title": "75th International Astronautical Congress (IAC)",
+      "article-title": "A virtual conjunctions generator for testing spacecraft collision detection strategies",
+      "author": "Curzi",
+      "year": "2024"
+    },
+    {
+      "key": "10.1016/j.jsse.2025.06.006_bib0017",
+      "series-title": "Spacecraft Collision Probability",
+      "author": "Chan",
+      "year": "2008"
+    },
+    {
+      "key": "10.1016/j.jsse.2025.06.006_bib0018",
+      "unstructured": "A. Wald, Sequential Analysis, Dover publications, Mineola, New York, 1948."
+    },
+    {
+      "key": "10.1016/j.jsse.2025.06.006_bib0019",
+      "doi-asserted-by": "crossref",
+      "first-page": "1385",
+      "DOI": "10.2514/1.G000478",
+      "article-title": "Wald sequential probability ratio test for space object conjunction assessment",
+      "volume": "37",
+      "author": "Carpenter",
+      "year": "2014",
+      "journal-title": "J. Guidance, Control, dynamics"
+    },
+    {
+      "key": "10.1016/j.jsse.2025.06.006_bib0020",
+      "series-title": "IEEE 2000 Adaptive Systems for Signal Processing, Communications, and Control Symposium",
+      "article-title": "The unscented Kalman filter for nonlinear estimation",
+      "author": "Wan",
+      "year": "2000"
+    }
+  ],
+  "container-title": [
+    "Journal of Space Safety Engineering"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://api.elsevier.com/content/article/PII:S2468896725000722?httpAccept=text/xml",
+      "content-type": "text/xml",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://api.elsevier.com/content/article/PII:S2468896725000722?httpAccept=text/plain",
+      "content-type": "text/plain",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2025,
+        9,
+        18
+      ]
+    ],
+    "date-time": "2025-09-18T12:02:59Z",
+    "timestamp": 1758196979000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://linkinghub.elsevier.com/retrieve/pii/S2468896725000722"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        9
+      ]
+    ]
+  },
+  "references-count": 20,
+  "journal-issue": {
+    "issue": "3",
+    "published-print": {
+      "date-parts": [
+        [
+          2025,
+          9
+        ]
+      ]
+    }
+  },
+  "alternative-id": [
+    "S2468896725000722"
+  ],
+  "URL": "https://doi.org/10.1016/j.jsse.2025.06.006",
+  "relation": {},
+  "ISSN": [
+    "2468-8967"
+  ],
+  "issn-type": [
+    {
+      "value": "2468-8967",
+      "type": "print"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2025,
+        9
+      ]
+    ]
+  },
+  "assertion": [
+    {
+      "value": "Elsevier",
+      "name": "publisher",
+      "label": "This article is maintained by"
+    },
+    {
+      "value": "A comparison of spacecraft collision detection strategies using a virtual conjunction dataset",
+      "name": "articletitle",
+      "label": "Article Title"
+    },
+    {
+      "value": "Journal of Space Safety Engineering",
+      "name": "journaltitle",
+      "label": "Journal Title"
+    },
+    {
+      "value": "https://doi.org/10.1016/j.jsse.2025.06.006",
+      "name": "articlelink",
+      "label": "CrossRef DOI link to publisher maintained version"
+    },
+    {
+      "value": "article",
+      "name": "content_type",
+      "label": "Content Type"
+    },
+    {
+      "value": "© 2025 International Association for the Advancement of Space Safety. Published by Elsevier Ltd. All rights are reserved, including those for text and data mining, AI training, and similar technologies.",
+      "name": "copyright",
+      "label": "Copyright"
+    }
+  ]
+}

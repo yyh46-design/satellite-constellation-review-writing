@@ -1,0 +1,27 @@
+{
+  "source_id": "E-B20-L049",
+  "pool_id": "L049",
+  "title": "Optimization of Space Debris Collision Avoidance Maneuver for Formation Flying Satellites",
+  "actual_title_aliases": [],
+  "identifier": "10.5140/jass.2013.30.4.291",
+  "authors": "Jae-Dong Seong; Hae-Dong Kim",
+  "bibliographic_year": 2013,
+  "actual_version": "8-page 2013 publisher-layout article, JASS30(4):291–298; public PDF extraction has duplicate text layers on pp4–5",
+  "canonical_url": "https://doi.org/10.5140/jass.2013.30.4.291",
+  "acquisition_url": "https://www.researchgate.net/publication/260723716_Optimization_of_Space_Debris_Collision_Avoidance_Maneuver_for_Formation_Flying_Satellites/fulltext/69a9731f940e2d5e03cd68ed/Optimization-of-Space-Debris-Collision-Avoidance-Maneuver-for-Formation-Flying-Satellites.pdf",
+  "source_format": "REMOTE_PUBLIC_PDF_TEXT_CAPTURE",
+  "pdf_pages": 8,
+  "local_text_capture_sha256": "11ab02870ffd8588b16dbece9a28f383d7ed39e6fdf9f0bbc2bdd1d63a435b24",
+  "source_pdf_sha256": null,
+  "source_pdf_byte_identity_verified": false,
+  "adoption_status": "CANDIDATE_AFTER_HUMAN_REVIEW",
+  "human_verified": false,
+  "formal_version_text_compared": false,
+  "crossref_file": "L049_CROSSREF.json",
+  "source_limitations": [
+    "读者判断：该例把规避和后续维护联系起来，值得写入任务恢复讨论；三倍以上维护周期是特定算例结果，不能作为一般收益。",
+    "待核：正文与Table3的种群/代数设置不一致；结果处“总和4cm/s”与结论“各4cm/s”也有歧义。关键表格未做图像核对，暂不采用这些数值。",
+    "读者判断：有限惩罚项和一次成功仿真不构成硬安全证明；没有充分算法对照时，不据引言或结论泛称PSOGSA优于所有单算法。"
+  ],
+  "pool_title_preserved_in_original_register": "Optimization of Space Debris Collision Avoidance Maneuver for Formation Flying Satellites"
+}

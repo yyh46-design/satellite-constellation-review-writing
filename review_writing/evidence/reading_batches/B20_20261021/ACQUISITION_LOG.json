@@ -1,0 +1,103 @@
+{
+  "date": "2026-10-21",
+  "target_ids": [
+    "L019",
+    "L024",
+    "L042",
+    "L043",
+    "L049",
+    "L050",
+    "L063",
+    "L029",
+    "L052",
+    "L072"
+  ],
+  "completed_body_read_ids": [
+    "L019",
+    "L024",
+    "L042",
+    "L043",
+    "L049",
+    "L050",
+    "L063"
+  ],
+  "user_direction": "Try public full text as far as possible; leave trace when not found",
+  "source_access_method": "Public remote PDF text extraction through browsing tool",
+  "binary_download_attempts": [
+    {
+      "pool_id": "L024",
+      "url": "https://www.researchgate.net/profile/Jihe-Wang/publication/256935233_Optimal_satellite_formation_reconfiguration_strategy_based_on_relative_orbital_elements/links/5adfc91fa6fdcc29358fd9cb/Optimal-satellite-formation-reconfiguration-strategy-based-on-relative-orbital-elements.pdf",
+      "method": "urllib public download",
+      "pdf_archive_success": false,
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "pool_id": "L063",
+      "url": "https://www.researchgate.net/profile/Jihe-Wang/publication/304030214_Optimal_Satellite-Formation_Collision-Avoidance_Maneuver_Based_on_Relative_EI_Vectors/links/5a6848f44585159da0db01e6/Optimal-Satellite-Formation-Collision-Avoidance-Maneuver-Based-on-Relative-E-I-Vectors.pdf",
+      "method": "urllib public download",
+      "pdf_archive_success": false,
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "pool_id": "L019",
+      "url": "https://www.researchgate.net/profile/Jihe-Wang/publication/312252561_Satellite_formation_keeping_using_differential_lift_and_drag_under_J2_perturbation/links/5c3b35ada6fdccd6b5a8f795/Satellite-formation-keeping-using-differential-lift-and-drag-under-J2-perturbation.pdf",
+      "method": "urllib public download",
+      "pdf_archive_success": false,
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "pool_id": "L049",
+      "url": "https://www.researchgate.net/publication/260723716_Optimization_of_Space_Debris_Collision_Avoidance_Maneuver_for_Formation_Flying_Satellites/fulltext/69a9731f940e2d5e03cd68ed/Optimization-of-Space-Debris-Collision-Avoidance-Maneuver-for-Formation-Flying-Satellites.pdf",
+      "method": "urllib public download",
+      "pdf_archive_success": false,
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "pool_id": "L042",
+      "url": "https://www.researchgate.net/profile/Andrea_De_Vittori2/publication/393614728_Combined_Collision_Avoidance_and_Station-Keeping_Maneuvers_Optimization_by_Collision_Probability_Inversion/links/687149736e247f362b18b710/Combined-Collision-Avoidance-and-Station-Keeping-Maneuvers-Optimization-by-Collision-Probability-Inversion.pdf",
+      "method": "urllib public download",
+      "pdf_archive_success": false,
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "pool_id": "L050",
+      "url": "https://re.public.polimi.it/retrieve/61e91a18-bfc3-4ad3-84cd-52bef2c46d8f/DEVIA_OA_01-25.pdf",
+      "method": "urllib public download",
+      "pdf_archive_success": false,
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "pool_id": "L043",
+      "url": "https://re.public.polimi.it/bitstream/11311/1221750/11/DEVIA_OA_02-22.pdf",
+      "method": "urllib public download",
+      "pdf_archive_success": false,
+      "error": "HTTP Error 403: Forbidden"
+    }
+  ],
+  "unavailable_fulltext_record": "UNAVAILABLE_FULLTEXT.json",
+  "broader_attempts": [
+    {
+      "pool_id": "L051",
+      "url": "https://api.nva.unit.no/search/resources?searchAll=10.1016%2Fj.automatica.2011.02.014&aggregation=none&size=15&sort=relevance%2Cidentifier&from=0",
+      "outcome": "One DOI-matched metadata entry; filesStatus=noFiles, pendingOpenFileCount=0; not article body",
+      "local_file": "D:\\SKT727\\outputs\\constellation_review_B20_20261021\\L051_search.raw",
+      "sha256": "5e7f130147bfb775cb0187e48e9764756067bca1f5811567cdf2481a4cb0b0d2"
+    },
+    {
+      "pool_id": "L075",
+      "url": "https://rmit.figshare.com/articles/thesis/25903648",
+      "outcome": "Public repository/API route unavailable; in-app-browser creation and selection timed out. Thesis chapter described as published in part is not substituted for complete target article",
+      "counted": false
+    },
+    {
+      "pool_id": "L032",
+      "outcome": "Search located an article with DOI1.23509 about larger bodies, different from candidate DOI2.5127; excluded as identity mismatch",
+      "counted": false
+    }
+  ],
+  "selected_source_binary_download_success_count": 0,
+  "selected_pdf_binary_sha256_available_count": 0,
+  "selected_visual_pages_success_count": 0,
+  "source_archive_policy": "Original PDFs, full article transcriptions and failure HTML stay outside Git in local materials/outputs",
+  "no_access_control_bypass": true
+}

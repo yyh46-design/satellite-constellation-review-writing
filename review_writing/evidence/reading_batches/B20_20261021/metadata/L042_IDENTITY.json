@@ -1,0 +1,29 @@
+{
+  "source_id": "E-B20-L042",
+  "pool_id": "L042",
+  "title": "Combined Collision Avoidance and Station-Keeping Maneuver Optimization by Collision Probability Inversion",
+  "actual_title_aliases": [
+    "Combined Collision Avoidance and Station-Keeping Maneuvers Optimization by Collision Probability Inversion"
+  ],
+  "identifier": "10.2514/1.a36075",
+  "authors": "Andrea De Vittori; Gabriele Dani; Alexia Cantoni; Pierluigi Di Lizia; Roberto Armellin",
+  "bibliographic_year": 2026,
+  "actual_version": "40-page author preprint uploaded 2025-07-11; title uses Maneuvers plural; paired formal DOI1.A36075 has Maneuver singular, 2026 volume63(1):203–217; formal text not compared",
+  "canonical_url": "https://doi.org/10.2514/1.a36075",
+  "acquisition_url": "https://www.researchgate.net/profile/Andrea_De_Vittori2/publication/393614728_Combined_Collision_Avoidance_and_Station-Keeping_Maneuvers_Optimization_by_Collision_Probability_Inversion/links/687149736e247f362b18b710/Combined-Collision-Avoidance-and-Station-Keeping-Maneuvers-Optimization-by-Collision-Probability-Inversion.pdf",
+  "source_format": "REMOTE_PUBLIC_PDF_TEXT_CAPTURE",
+  "pdf_pages": 40,
+  "local_text_capture_sha256": "d9e770f75647f18f8fcfdaa2832e798d0aee265a4905ab1f2dbbb13bdec032ba",
+  "source_pdf_sha256": null,
+  "source_pdf_byte_identity_verified": false,
+  "adoption_status": "CANDIDATE_AFTER_HUMAN_REVIEW",
+  "human_verified": false,
+  "formal_version_text_compared": false,
+  "crossref_file": "L042_CROSSREF.json",
+  "source_limitations": [
+    "版本边界：本次读完的是2025年公开预印稿；Crossref正式卷期为2026年63(1):203–217，题名使用单数Maneuver。未逐字比较正式版，可追溯论点绑定所读稿物理页，正式引用前须核对1.A36075对应内容。",
+    "读者判断：稿件讨论二次方程负乘子分支（物理页20–21）；不能据此宣称对完整不等式约束获得普遍全局最优解。相关最优性表述暂缓采用。",
+    "读者判断：能量最优初值、推力可执行性、全程轨道框约束和多主动星协同是不同验证层级；这篇不能单独证明后面三项。"
+  ],
+  "pool_title_preserved_in_original_register": "Combined Collision Avoidance and Station-Keeping Maneuver Optimization by Collision Probability Inversion"
+}

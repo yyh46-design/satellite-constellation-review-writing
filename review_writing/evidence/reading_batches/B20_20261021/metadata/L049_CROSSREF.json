@@ -1,0 +1,182 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        4,
+        10
+      ]
+    ],
+    "date-time": "2026-04-10T21:33:07Z",
+    "timestamp": 1775856787747,
+    "version": "3.50.1"
+  },
+  "reference-count": 4,
+  "publisher": "The Korean Space Science Society",
+  "issue": "4",
+  "content-domain": {
+    "domain": [],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [
+    "Journal of Astronomy and Space Sciences"
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2013,
+        12,
+        15
+      ]
+    ]
+  },
+  "DOI": "10.5140/jass.2013.30.4.291",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2014,
+        1,
+        13
+      ]
+    ],
+    "date-time": "2014-01-13T21:21:59Z",
+    "timestamp": 1389648119000
+  },
+  "page": "291-298",
+  "source": "Crossref",
+  "is-referenced-by-count": 2,
+  "title": [
+    "Optimization of Space Debris Collision Avoidance Maneuver for Formation Flying Satellites"
+  ],
+  "prefix": "10.5140",
+  "volume": "30",
+  "author": [
+    {
+      "given": "Jae-Dong",
+      "family": "Seong",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    },
+    {
+      "given": "Hae-Dong",
+      "family": "Kim",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    }
+  ],
+  "member": "3077",
+  "reference": [
+    {
+      "key": "OJOOBS_2013_v30n4_291_001",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.asr.2003.01.015"
+    },
+    {
+      "key": "OJOOBS_2013_v30n4_291_007",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1155/2008/316145"
+    },
+    {
+      "key": "OJOOBS_2013_v30n4_291_008",
+      "first-page": "11",
+      "volume": "29",
+      "year": "2012",
+      "journal-title": "JASS"
+    },
+    {
+      "key": "OJOOBS_2013_v30n4_291_010",
+      "first-page": "156",
+      "volume": "5227",
+      "year": "2008",
+      "journal-title": "Advanced Intelligent Computing Theories and Applications"
+    }
+  ],
+  "container-title": [
+    "Journal of Astronomy and Space Sciences"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "http://ocean.kisti.re.kr/downfile/crosscheck/kosss/JAKO201300763571957.pdf",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2016,
+        12,
+        14
+      ]
+    ],
+    "date-time": "2016-12-14T21:21:17Z",
+    "timestamp": 1481750477000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "http://koreascience.or.kr/journal/view.jsp?kj=OJOOBS&py=2013&vnc=v30n4&sp=291"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2013,
+        12,
+        15
+      ]
+    ]
+  },
+  "references-count": 4,
+  "journal-issue": {
+    "issue": "4",
+    "published-print": {
+      "date-parts": [
+        [
+          2013,
+          12,
+          15
+        ]
+      ]
+    }
+  },
+  "URL": "https://doi.org/10.5140/jass.2013.30.4.291",
+  "relation": {},
+  "ISSN": [
+    "2093-5587"
+  ],
+  "issn-type": [
+    {
+      "value": "2093-5587",
+      "type": "print"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2013,
+        12,
+        15
+      ]
+    ]
+  }
+}

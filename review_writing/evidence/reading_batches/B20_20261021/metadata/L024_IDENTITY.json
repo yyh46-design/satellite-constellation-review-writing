@@ -1,0 +1,27 @@
+{
+  "source_id": "E-B20-L024",
+  "pool_id": "L024",
+  "title": "Optimal satellite formation reconfiguration strategy based on relative orbital elements",
+  "actual_title_aliases": [],
+  "identifier": "10.1016/j.actaastro.2012.02.015",
+  "authors": "Jihe Wang; Jinxiu Zhang; Xibin Cao; Feng Wang",
+  "bibliographic_year": 2012,
+  "actual_version": "2012 publisher-layout article publicly uploaded by coauthor, Acta Astronautica76:99–114",
+  "canonical_url": "https://doi.org/10.1016/j.actaastro.2012.02.015",
+  "acquisition_url": "https://www.researchgate.net/profile/Jihe-Wang/publication/256935233_Optimal_satellite_formation_reconfiguration_strategy_based_on_relative_orbital_elements/links/5adfc91fa6fdcc29358fd9cb/Optimal-satellite-formation-reconfiguration-strategy-based-on-relative-orbital-elements.pdf",
+  "source_format": "REMOTE_PUBLIC_PDF_TEXT_CAPTURE",
+  "pdf_pages": 16,
+  "local_text_capture_sha256": "2568b8c6d453683e64e1c2acf29cddc93cd29ff9ddd5efb8911784aca6c72b9f",
+  "source_pdf_sha256": null,
+  "source_pdf_byte_identity_verified": false,
+  "adoption_status": "CANDIDATE_AFTER_HUMAN_REVIEW",
+  "human_verified": false,
+  "formal_version_text_compared": false,
+  "crossref_file": "L024_CROSSREF.json",
+  "source_limitations": [
+    "读者判断：单星代价可供上层分配使用，但N!写法及四星算例不足以支持大星座可扩展性；下一轮写作应分别评价代价计算和组合分配。",
+    "读者判断：本文问题式没有建立覆盖整段转移的成对避碰约束；燃料最优、稳定终端轨道和转移全程安全必须分开陈述。",
+    "读者判断：开放时间、脉冲与线性相对轨道条件限制了与时限严格、推力有界任务的直接比较；不把Remark2直接当成工程低推力最优保证。"
+  ],
+  "pool_title_preserved_in_original_register": "Optimal satellite formation reconfiguration strategy based on relative orbital elements"
+}

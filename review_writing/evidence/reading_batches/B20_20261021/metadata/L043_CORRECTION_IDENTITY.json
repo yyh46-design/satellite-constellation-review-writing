@@ -1,0 +1,44 @@
+{
+  "source_id": "E-B20-L043-CORRECTION",
+  "parent_source_id": "E-B20-L043",
+  "identifier": "10.2514/1.g006630.c1",
+  "title": "Correction: Low-Thrust Collision Avoidance Maneuver Optimization",
+  "canonical_url": "https://doi.org/10.2514/1.g006630.c1",
+  "acquisition_url": "https://www.researchgate.net/profile/Andrea_De_Vittori2/publication/365356041_Correction_Low-Thrust_Collision_Avoidance_Maneuver_Optimization/links/6376226d54eb5f547cde650a/Correction-Low-Thrust-Collision-Avoidance-Maneuver-Optimization.pdf",
+  "physical_pages": 2,
+  "all_extracted_lines_read": 110,
+  "local_text_capture_path": "D:\\SKT727\\materials\\constellation_review_B20_20261021\\L043_CORRECTION_web_0.txt",
+  "local_text_capture_sha256": "1399f702d64574cb94ce90c8d19088c5a7ce178c50918e8fae888629b37d30ce",
+  "affected_original_equations": [
+    "35",
+    "36",
+    "41",
+    "42",
+    "64",
+    "74"
+  ],
+  "crossref_published_print": {
+    "date-parts": [
+      [
+        2023,
+        1
+      ]
+    ]
+  },
+  "crossref_correction_event": {
+    "date-parts": [
+      [
+        2022,
+        11,
+        13
+      ]
+    ],
+    "date-time": "2022-11-13T00:00:00Z",
+    "timestamp": 1668297600000
+  },
+  "date_interpretation": "2023 issue date and 2022 correction-event date retained separately",
+  "counted_as_additional_paper": false,
+  "source_pdf_sha256": null,
+  "source_fulltext_committed_to_git": false,
+  "human_verified": false
+}

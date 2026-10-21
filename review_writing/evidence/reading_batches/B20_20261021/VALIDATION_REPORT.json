@@ -1,0 +1,18 @@
+{
+  "batch": "B20_20261021",
+  "result": "PASS",
+  "scope": "File identity, evidence bindings, counts, baseline preservation; not scientific or visual approval",
+  "check_count": 2497,
+  "completed_sources": 7,
+  "uncompleted_fulltext": 3,
+  "new_claims": 35,
+  "prior_batch_files_verified": 660,
+  "frozen_files_verified": 664,
+  "local_provenance_files_verified": 56,
+  "local_provenance_files_unavailable": [],
+  "original_pool_completed": 37,
+  "original_pool_remaining": 43,
+  "supplement_completed": 60,
+  "human_verified": false,
+  "submission_ready": false
+}

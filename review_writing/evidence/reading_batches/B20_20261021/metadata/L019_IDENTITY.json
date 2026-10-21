@@ -1,0 +1,27 @@
+{
+  "source_id": "E-B20-L019",
+  "pool_id": "L019",
+  "title": "Satellite formation keeping using differential lift and drag under J2 perturbation",
+  "actual_title_aliases": [],
+  "identifier": "10.1108/aeat-06-2015-0168",
+  "authors": "Xiaowei Shao; Mingxuan Song; Jihe Wang; Dexin Zhang; Junli Chen",
+  "bibliographic_year": 2017,
+  "actual_version": "2017 publisher-layout copy publicly uploaded by coauthor; PDF p1 cover; article pp11–19",
+  "canonical_url": "https://doi.org/10.1108/aeat-06-2015-0168",
+  "acquisition_url": "https://www.researchgate.net/profile/Jihe-Wang/publication/312252561_Satellite_formation_keeping_using_differential_lift_and_drag_under_J2_perturbation/links/5c3b35ada6fdccd6b5a8f795/Satellite-formation-keeping-using-differential-lift-and-drag-under-J2-perturbation.pdf",
+  "source_format": "REMOTE_PUBLIC_PDF_TEXT_CAPTURE",
+  "pdf_pages": 10,
+  "local_text_capture_sha256": "2effccdd2a8c6ba45d181bdbdc9274778e1d8f43ad8f0e4797c9fdabadd88811",
+  "source_pdf_sha256": null,
+  "source_pdf_byte_identity_verified": false,
+  "adoption_status": "CANDIDATE_AFTER_HUMAN_REVIEW",
+  "human_verified": false,
+  "formal_version_text_compared": false,
+  "crossref_file": "L019_CROSSREF.json",
+  "source_limitations": [
+    "读者判断：本研究应作为物理可执行性筛选的基础材料；未建立通信拓扑、协商权限或多星避碰协议，不能归为大星群分布式安全控制验证。",
+    "读者判断：建模、拟合与执行之间的近似需要显式列出；厘米级误差和高度界限仅作该仿真条件下的报告，不作为可迁移性能承诺。",
+    "书目信息以Crossref和所读首页为准：正式卷期为2017年89(1):11–19；保留原候选表字节，不把DOI中的2015当作出版年。"
+  ],
+  "pool_title_preserved_in_original_register": "Satellite formation keeping using differential lift and drag under J2 perturbation"
+}

@@ -1,0 +1,28 @@
+{
+  "source_id": "E-B20-L043",
+  "pool_id": "L043",
+  "title": "Low-Thrust Collision Avoidance Maneuver Optimization",
+  "actual_title_aliases": [],
+  "identifier": "10.2514/1.g006630",
+  "authors": "Andrea De Vittori; Maria Francesca Palermo; Pierluigi Di Lizia; Roberto Armellin",
+  "bibliographic_year": 2022,
+  "actual_version": "16-page repository postprint including cover; paired with 2-page correction DOI1.G006630.c1 read in this batch",
+  "canonical_url": "https://doi.org/10.2514/1.g006630",
+  "acquisition_url": "https://re.public.polimi.it/bitstream/11311/1221750/11/DEVIA_OA_02-22.pdf",
+  "source_format": "REMOTE_PUBLIC_PDF_TEXT_CAPTURE",
+  "pdf_pages": 16,
+  "local_text_capture_sha256": "0f73a0d38d00847a971b5e237b51ef1f69993be0e2bd168ae72d8edbb05c634a",
+  "source_pdf_sha256": null,
+  "source_pdf_byte_identity_verified": false,
+  "adoption_status": "CANDIDATE_AFTER_HUMAN_REVIEW",
+  "human_verified": false,
+  "formal_version_text_compared": false,
+  "crossref_file": "L043_CROSSREF.json",
+  "source_limitations": [
+    "勘误文本已读，不计为额外一篇候选论文；原公式的图像核查与独立复现仍待完成。作者称结果有效性不受影响，不等于本次已独立验证。",
+    "读者判断：基于软件环境的计时是方法工程化的线索，不能写成已有星载实时运行证据；不把小推力与任意临近TCA时刻的可行性混为一谈。",
+    "读者判断：它解决单主动星对非合作目标的规避，缺少多主动星权限与策略协调机制。建议与多星论文对照，不能直接作为多星协同闭环案例。"
+  ],
+  "pool_title_preserved_in_original_register": "Low-Thrust Collision Avoidance Maneuver Optimization",
+  "paired_correction_record": "L043_CORRECTION_IDENTITY.json"
+}

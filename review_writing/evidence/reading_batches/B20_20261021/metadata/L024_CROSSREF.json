@@ -1,0 +1,484 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        9,
+        21
+      ]
+    ],
+    "date-time": "2026-09-21T17:23:53Z",
+    "timestamp": 1790011433099,
+    "version": "4.0.1"
+  },
+  "reference-count": 20,
+  "publisher": "Elsevier BV",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2012,
+            7,
+            1
+          ]
+        ],
+        "date-time": "2012-07-01T00:00:00Z",
+        "timestamp": 1341100800000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2012,
+            7,
+            1
+          ]
+        ],
+        "date-time": "2012-07-01T00:00:00Z",
+        "timestamp": 1341100800000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "https://www.elsevier.com/legal/tdmrep-license"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2012,
+            7,
+            1
+          ]
+        ],
+        "date-time": "2012-07-01T00:00:00Z",
+        "timestamp": 1341100800000
+      },
+      "content-version": "stm-asf",
+      "delay-in-days": 0,
+      "URL": "https://doi.org/10.15223/policy-017"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2012,
+            7,
+            1
+          ]
+        ],
+        "date-time": "2012-07-01T00:00:00Z",
+        "timestamp": 1341100800000
+      },
+      "content-version": "stm-asf",
+      "delay-in-days": 0,
+      "URL": "https://doi.org/10.15223/policy-037"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2012,
+            7,
+            1
+          ]
+        ],
+        "date-time": "2012-07-01T00:00:00Z",
+        "timestamp": 1341100800000
+      },
+      "content-version": "stm-asf",
+      "delay-in-days": 0,
+      "URL": "https://doi.org/10.15223/policy-012"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2012,
+            7,
+            1
+          ]
+        ],
+        "date-time": "2012-07-01T00:00:00Z",
+        "timestamp": 1341100800000
+      },
+      "content-version": "stm-asf",
+      "delay-in-days": 0,
+      "URL": "https://doi.org/10.15223/policy-029"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2012,
+            7,
+            1
+          ]
+        ],
+        "date-time": "2012-07-01T00:00:00Z",
+        "timestamp": 1341100800000
+      },
+      "content-version": "stm-asf",
+      "delay-in-days": 0,
+      "URL": "https://doi.org/10.15223/policy-004"
+    }
+  ],
+  "content-domain": {
+    "domain": [
+      "elsevier.com",
+      "sciencedirect.com"
+    ],
+    "crossmark-restriction": true
+  },
+  "short-container-title": [
+    "Acta Astronautica"
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2012,
+        7
+      ]
+    ]
+  },
+  "DOI": "10.1016/j.actaastro.2012.02.015",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2012,
+        3,
+        28
+      ]
+    ],
+    "date-time": "2012-03-28T08:00:44Z",
+    "timestamp": 1332921644000
+  },
+  "page": "99-114",
+  "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+  "source": "Crossref",
+  "is-referenced-by-count": 36,
+  "special_numbering": "C",
+  "title": [
+    "Optimal satellite formation reconfiguration strategy based on relative orbital elements"
+  ],
+  "prefix": "10.1016",
+  "volume": "76",
+  "author": [
+    {
+      "given": "Jihe",
+      "family": "Wang",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Jinxiu",
+      "family": "Zhang",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Xibin",
+      "family": "Cao",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Feng",
+      "family": "Wang",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "member": "78",
+  "reference": [
+    {
+      "issue": "1",
+      "key": "10.1016/j.actaastro.2012.02.015_bib1",
+      "doi-asserted-by": "crossref",
+      "first-page": "25",
+      "DOI": "10.1016/j.asr.2007.05.025",
+      "article-title": "LISA satellite formation control",
+      "volume": "40",
+      "author": "Bika",
+      "year": "2007",
+      "journal-title": "Adv. Space Res."
+    },
+    {
+      "key": "10.1016/j.actaastro.2012.02.015_bib2",
+      "doi-asserted-by": "crossref",
+      "unstructured": "R.P. Linfield, The ST3 mission, and its capabilities for be star observations, the be phenomenon in early-type stars, IAU colloquium 175, in: ASP Conference Proceedings, vol. 214, 2000, pp. 141–144.",
+      "DOI": "10.1017/S0252921100055755"
+    },
+    {
+      "key": "10.1016/j.actaastro.2012.02.015_bib3",
+      "doi-asserted-by": "crossref",
+      "unstructured": "J. How, R. Twiggs, D. Weidow, K. Hartman, F. Bauer, Orion: a low-cost demonstration of formation flying in space using GPS, in: AIAA Astrodynamics Specialists Conference, August 1998.",
+      "DOI": "10.2514/6.1998-4398"
+    },
+    {
+      "key": "10.1016/j.actaastro.2012.02.015_bib4",
+      "doi-asserted-by": "crossref",
+      "unstructured": "R. Burns et al., TechSat21: formation design, control, and simulation, in: Proceedings of the IEEE Aerospace Conference, 2000, pp. 19–25.",
+      "DOI": "10.1109/AERO.2000.879271"
+    },
+    {
+      "issue": "6",
+      "key": "10.1016/j.actaastro.2012.02.015_bib5",
+      "doi-asserted-by": "crossref",
+      "first-page": "777",
+      "DOI": "10.1109/87.960341",
+      "article-title": "A co-ordination architecture for spacecraft formation control",
+      "volume": "9",
+      "author": "Beard",
+      "year": "2001",
+      "journal-title": "IEEE Trans. Control Syst. Technol."
+    },
+    {
+      "key": "10.1016/j.actaastro.2012.02.015_bib6",
+      "unstructured": "S.R. Vadali, S.S. Vaddi, K. Naik, K.T. Alfried, Control of satellite formations, in: AIAA Guidance, Navigation, and Control Conference and Exhibit, August 2001."
+    },
+    {
+      "issue": "4",
+      "key": "10.1016/j.actaastro.2012.02.015_bib7",
+      "doi-asserted-by": "crossref",
+      "first-page": "755",
+      "DOI": "10.2514/2.4943",
+      "article-title": "Spacecraft trajectory planning with avoidance constraints using mixed-integer linear programming",
+      "volume": "25",
+      "author": "Schouwenaars",
+      "year": "2002",
+      "journal-title": "J. Guidance Control Dynam."
+    },
+    {
+      "key": "10.1016/j.actaastro.2012.02.015_bib8",
+      "doi-asserted-by": "crossref",
+      "first-page": "207",
+      "DOI": "10.1002/rnc.683",
+      "article-title": "Coordination and control of distributed spacecraft systems using convex optimization techniques",
+      "volume": "12",
+      "author": "Tillerson",
+      "year": "2002",
+      "journal-title": "J. Robust Nonlinear Control"
+    },
+    {
+      "key": "10.1016/j.actaastro.2012.02.015_bib9",
+      "unstructured": "G. Yang, Q.-S. Yang, V. Kapila, D. Palmer, R. Vaidynatham, Fuel-optimal maneuvers for multiple spacecraft formation reconfiguration using multi-agent optimization, in: Proceedings of the 40th IEEE Conference on Decision and Control, Orlando, Florida, USA, December, 2001."
+    },
+    {
+      "key": "10.1016/j.actaastro.2012.02.015_bib10",
+      "article-title": "Multiple Agent–Based Autonomy for Satellite Constellations",
+      "volume": "vol. 1882",
+      "author": "Schetter",
+      "year": "2000"
+    },
+    {
+      "key": "10.1016/j.actaastro.2012.02.015_bib11",
+      "unstructured": "M.J. Tillerson, Coordination and Control of Multiple Spacecraft Using Convex Optimization Techniques, MS Dissertation, Aeronautics and Astronautics Department, University of Texas at Austin, June 2000."
+    },
+    {
+      "key": "10.1016/j.actaastro.2012.02.015_bib12",
+      "unstructured": "M.E. Campbell, D. Zanon, J. Kulkarni, Cluster planning and control for spacecraft formations, in: 14th AIAA Space Flying Mechanics Conference, Hawaii, 2004."
+    },
+    {
+      "key": "10.1016/j.actaastro.2012.02.015_bib13",
+      "doi-asserted-by": "crossref",
+      "unstructured": "P.K.C. Wang, F.Y. Hadaegh, Optimal formation-reconfiguration for multiple spacecraft, in: Proceedings of the AIAA Guidance, Navigation, and Control Conference, AIAA, Reston, VA, 1998, pp. 686–696.",
+      "DOI": "10.2514/6.1998-4226"
+    },
+    {
+      "key": "10.1016/j.actaastro.2012.02.015_bib14",
+      "doi-asserted-by": "crossref",
+      "first-page": "1257",
+      "DOI": "10.1016/j.asr.2009.07.029",
+      "article-title": "Hybrid optimization for multiple-impulse reconfiguration trajectories of satellite formation flying",
+      "volume": "44",
+      "author": "Kim",
+      "year": "2009",
+      "journal-title": "Adv. Space Res."
+    },
+    {
+      "issue": "2",
+      "key": "10.1016/j.actaastro.2012.02.015_bib15",
+      "doi-asserted-by": "crossref",
+      "first-page": "262",
+      "DOI": "10.2514/1.6687",
+      "article-title": "Formation establishment and reconfiguration using impulsive control",
+      "volume": "28",
+      "author": "Vaddi",
+      "year": "2005",
+      "journal-title": "J. Guidance Control Dynam."
+    },
+    {
+      "issue": "4",
+      "key": "10.1016/j.actaastro.2012.02.015_bib16",
+      "doi-asserted-by": "crossref",
+      "first-page": "1014",
+      "DOI": "10.2514/1.32820",
+      "article-title": "Optimal impulsive relative orbit transfer along a circular orbit",
+      "volume": "31",
+      "author": "Ichimura",
+      "year": "2008",
+      "journal-title": "J. Guidance Control Dynam."
+    },
+    {
+      "key": "10.1016/j.actaastro.2012.02.015_bib17",
+      "first-page": "323",
+      "article-title": "Die Verhinderung von Kollisionen geostationaerer Satelliten im gleichen Toleranzfenster",
+      "volume": "12",
+      "author": "Eckstein",
+      "year": "1989",
+      "journal-title": "Z. Flugwiss, Weltraumforsch"
+    },
+    {
+      "issue": "3",
+      "key": "10.1016/j.actaastro.2012.02.015_bib18",
+      "doi-asserted-by": "crossref",
+      "first-page": "554",
+      "DOI": "10.2514/1.15114",
+      "article-title": "Proximity operations of formation-flying spacecraft using an eccentricity/inclination vector separation",
+      "volume": "29",
+      "author": "Simone D'Amico",
+      "year": "2006",
+      "journal-title": "J. Guidance Control Dynam."
+    },
+    {
+      "key": "10.1016/j.actaastro.2012.02.015_bib19",
+      "unstructured": "S. D'Amico, Relative Orbital Elements as Integration Constants of The Hill's Equations, DLR, TN 05-08, Cologne, Germany, 2005"
+    },
+    {
+      "key": "10.1016/j.actaastro.2012.02.015_bib20",
+      "unstructured": "P. Micheau, Orbit control techniques for Low Earth Orbiting (LEO) satellites, in: J.P. Carrou (Eds.), Spaceflight Dynamics, Cepadues-Editions, Toulouse, France, 1995 (Chapter 13)."
+    }
+  ],
+  "container-title": [
+    "Acta Astronautica"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://api.elsevier.com/content/article/PII:S0094576512000501?httpAccept=text/xml",
+      "content-type": "text/xml",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://api.elsevier.com/content/article/PII:S0094576512000501?httpAccept=text/plain",
+      "content-type": "text/plain",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2025,
+        9,
+        25
+      ]
+    ],
+    "date-time": "2025-09-25T14:39:48Z",
+    "timestamp": 1758811188000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0094576512000501"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2012,
+        7
+      ]
+    ]
+  },
+  "references-count": 20,
+  "alternative-id": [
+    "S0094576512000501"
+  ],
+  "URL": "https://doi.org/10.1016/j.actaastro.2012.02.015",
+  "relation": {},
+  "ISSN": [
+    "0094-5765"
+  ],
+  "issn-type": [
+    {
+      "value": "0094-5765",
+      "type": "print"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2012,
+        7
+      ]
+    ]
+  },
+  "assertion": [
+    {
+      "value": "Elsevier",
+      "name": "publisher",
+      "label": "This article is maintained by"
+    },
+    {
+      "value": "Optimal satellite formation reconfiguration strategy based on relative orbital elements",
+      "name": "articletitle",
+      "label": "Article Title"
+    },
+    {
+      "value": "Acta Astronautica",
+      "name": "journaltitle",
+      "label": "Journal Title"
+    },
+    {
+      "value": "https://doi.org/10.1016/j.actaastro.2012.02.015",
+      "name": "articlelink",
+      "label": "CrossRef DOI link to publisher maintained version"
+    },
+    {
+      "value": "article",
+      "name": "content_type",
+      "label": "Content Type"
+    },
+    {
+      "value": "Copyright © 2012 Elsevier Ltd. All rights reserved.",
+      "name": "copyright",
+      "label": "Copyright"
+    }
+  ]
+}

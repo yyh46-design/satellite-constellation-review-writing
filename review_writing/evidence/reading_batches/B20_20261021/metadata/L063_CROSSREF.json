@@ -1,0 +1,292 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        3,
+        6
+      ]
+    ],
+    "date-time": "2026-03-06T21:25:23Z",
+    "timestamp": 1772832323672,
+    "version": "3.50.1"
+  },
+  "reference-count": 11,
+  "publisher": "American Society of Civil Engineers (ASCE)",
+  "issue": "6",
+  "content-domain": {
+    "domain": [
+      "ascelibrary.org"
+    ],
+    "crossmark-restriction": true
+  },
+  "short-container-title": [
+    "J. Aerosp. Eng."
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2016,
+        11
+      ]
+    ]
+  },
+  "DOI": "10.1061/(asce)as.1943-5525.0000642",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2016,
+        6,
+        16
+      ]
+    ],
+    "date-time": "2016-06-16T16:16:12Z",
+    "timestamp": 1466093772000
+  },
+  "update-policy": "https://doi.org/10.1061/do.news.20190416.0001",
+  "source": "Crossref",
+  "is-referenced-by-count": 5,
+  "title": [
+    "Optimal Satellite-Formation Collision-Avoidance Maneuver Based on Relative E/I Vectors"
+  ],
+  "prefix": "10.1061",
+  "volume": "29",
+  "author": [
+    {
+      "given": "Xiaowei",
+      "family": "Shao",
+      "sequence": "first",
+      "affiliation": [
+        {
+          "name": "Associate Professor, School of Aeronautics and Astronautics, Shanghai Jiao Tong Univ., 800 Dong Chuan Rd., Min Hang District, Shanghai 200240, China (corresponding author)."
+        }
+      ],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    },
+    {
+      "given": "Jihe",
+      "family": "Wang",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Researcher, School of Aeronautics and Astronautics, Shanghai Jiao Tong Univ., 800 Dong Chuan Rd., Min Hang District, Shanghai 200240, China."
+        }
+      ],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    },
+    {
+      "given": "Dexin",
+      "family": "Zhang",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Lecturer, School of Aeronautics and Astronautics, Shanghai Jiao Tong Univ., 800 Dong Chuan Rd., Min Hang District, Shanghai 200240, China."
+        }
+      ],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    },
+    {
+      "given": "Junli",
+      "family": "Chen",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Postdoctor, School of Aeronautics and Astronautics, Shanghai Jiao Tong Univ., 800 Dong Chuan Rd., Min Hang District, Shanghai 200240, China."
+        }
+      ],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    }
+  ],
+  "member": "30",
+  "reference": [
+    {
+      "key": "e_1_3_2_2_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.actaastro.2013.06.025"
+    },
+    {
+      "key": "e_1_3_2_3_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.2514/1.55638"
+    },
+    {
+      "key": "e_1_3_2_4_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.2514/1.15114"
+    },
+    {
+      "key": "e_1_3_2_5_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.2514/1.G000189"
+    },
+    {
+      "key": "e_1_3_2_6_1",
+      "unstructured": "Larsson R. Mueller J. Thomas S. Jakobsson B. and Bodin P. (2008). “Orbit constellation safety on the PRISMA in-orbit formation flying testbed.” 3rd Int. Symp. on Formation Flying Missions and Technologies European Space Agency Noordwijk Netherlands."
+    },
+    {
+      "key": "e_1_3_2_7_1",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Min H. Guoqiang Z. and Junling S. (2010). “Optimal collision avoidance maneuver for formation flying satellites using relative orbital elements.” Int. Conf. on Mechatronics and Automation (ICMA) 2009–2012 IEEE New York.",
+      "DOI": "10.2514/6.2010-7714"
+    },
+    {
+      "key": "e_1_3_2_8_1",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Mueller J. B. (2009). “Onboard planning of collision avoidance maneuvers using robust optimization.” AIAA Infotech@Aerospace Conf. 2009–2051 American Institute of Aeronautics and Astronautics Reston VA.",
+      "DOI": "10.2514/6.2009-2051"
+    },
+    {
+      "key": "e_1_3_2_9_1",
+      "unstructured": "Mueller J. B. and Larsson R. (2008). “Collision avoidance maneuver planning with robust optimization.” Proc. 7th Int. Conf. on Guidance Navigation and Control Systems European Space Agency Tralee County Kerry Ireland."
+    },
+    {
+      "key": "e_1_3_2_10_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.2514/1.16812"
+    },
+    {
+      "key": "e_1_3_2_11_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.actaastro.2012.02.015"
+    },
+    {
+      "key": "e_1_3_2_12_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1108/00022661211272963"
+    }
+  ],
+  "container-title": [
+    "Journal of Aerospace Engineering"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://ascelibrary.org/doi/pdf/10.1061/%28ASCE%29AS.1943-5525.0000642",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2022,
+        6,
+        9
+      ]
+    ],
+    "date-time": "2022-06-09T17:02:32Z",
+    "timestamp": 1654794152000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://ascelibrary.org/doi/10.1061/%28ASCE%29AS.1943-5525.0000642"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2016,
+        11
+      ]
+    ]
+  },
+  "references-count": 11,
+  "journal-issue": {
+    "issue": "6",
+    "published-print": {
+      "date-parts": [
+        [
+          2016,
+          11
+        ]
+      ]
+    }
+  },
+  "alternative-id": [
+    "10.1061/(ASCE)AS.1943-5525.0000642"
+  ],
+  "URL": "https://doi.org/10.1061/(asce)as.1943-5525.0000642",
+  "relation": {},
+  "ISSN": [
+    "0893-1321",
+    "1943-5525"
+  ],
+  "issn-type": [
+    {
+      "value": "0893-1321",
+      "type": "print"
+    },
+    {
+      "value": "1943-5525",
+      "type": "electronic"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2016,
+        11
+      ]
+    ]
+  },
+  "assertion": [
+    {
+      "value": "2015-08-30",
+      "order": 0,
+      "name": "received",
+      "label": "Received",
+      "group": {
+        "name": "publication_history",
+        "label": "Publication History"
+      }
+    },
+    {
+      "value": "2016-03-28",
+      "order": 1,
+      "name": "accepted",
+      "label": "Accepted",
+      "group": {
+        "name": "publication_history",
+        "label": "Publication History"
+      }
+    },
+    {
+      "value": "2016-06-16",
+      "order": 2,
+      "name": "published",
+      "label": "Published",
+      "group": {
+        "name": "publication_history",
+        "label": "Publication History"
+      }
+    }
+  ],
+  "article-number": "04016048"
+}

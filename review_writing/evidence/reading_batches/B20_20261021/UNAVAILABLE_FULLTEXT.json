@@ -1,0 +1,53 @@
+[
+  {
+    "pool_id": "L029",
+    "title": "A comparison of spacecraft collision detection strategies using a virtual conjunction dataset",
+    "doi": "10.1016/j.jsse.2025.06.006",
+    "metadata_publication_year": 2025,
+    "landing_url": "https://cris.unibo.it/handle/11585/1039256",
+    "attempted_fulltext_url": "https://cris.unibo.it/retrieve/324d6ccd-495f-4b88-b4fd-efe2448412dd/Risk%20Metric%20Comparison%20Manuscript_R2.pdf",
+    "outcome": "机构库列有作者稿，但PDF请求返回HTTP403；ResearchGate入口也未提供可读取正文。",
+    "reading_status": "FULLTEXT_ACCESS_PENDING_NOT_COUNTED",
+    "body_read": false,
+    "counted_as_completed": false,
+    "claim_count": 0,
+    "register_reading_status": "NOT_CLOSE_READ",
+    "date": "2026-10-21",
+    "local_failure_capture": "D:\\SKT727\\materials\\constellation_review_B20_20261021\\L029_download.raw",
+    "local_failure_capture_sha256": "1ec059a9ce13185cba09e93dc12b190f9df1548fcb1390109f08a5f94ff6f2bf"
+  },
+  {
+    "pool_id": "L052",
+    "title": "Multi-maneuver algorithms for multi-risk collision avoidance via nonconvex quadratic optimization",
+    "doi": "10.1016/j.ifacol.2023.10.1094",
+    "metadata_publication_year": 2023,
+    "landing_url": "https://laas.hal.science/hal-03847541",
+    "attempted_fulltext_url": "https://laas.hal.science/hal-03847541/file/IFAC_WC23_submitted.pdf",
+    "outcome": "浏览工具未能打开HAL的PDF；作者实验室页面返回机器人验证页，出版商路径也未取得可读正文。",
+    "reading_status": "FULLTEXT_ACCESS_PENDING_NOT_COUNTED",
+    "body_read": false,
+    "counted_as_completed": false,
+    "claim_count": 0,
+    "register_reading_status": "NOT_CLOSE_READ",
+    "date": "2026-10-21",
+    "local_failure_capture": "D:\\SKT727\\outputs\\constellation_review_B20_20261021\\L052_lab.raw",
+    "local_failure_capture_sha256": "74b183d7477913a79447282ba749cd5975e5a7f31cbe0d4592e28f3dee9d6b2c"
+  },
+  {
+    "pool_id": "L072",
+    "title": "Decentralized Collision-Free Satellite Formation Reconfiguration with Control Barrier Functions",
+    "doi": "10.1016/j.ifacol.2026.01.070",
+    "metadata_publication_year": 2025,
+    "landing_url": "https://doi.org/10.1016/j.ifacol.2026.01.070",
+    "attempted_fulltext_url": "https://www.sciencedirect.com/science/article/pii/S2405896326000777/pdf",
+    "outcome": "出版商PDF返回HTTP403，ResearchGate仅提供请求全文入口；未找到可读的公开预印稿。",
+    "reading_status": "FULLTEXT_ACCESS_PENDING_NOT_COUNTED",
+    "body_read": false,
+    "counted_as_completed": false,
+    "claim_count": 0,
+    "register_reading_status": "NOT_CLOSE_READ",
+    "date": "2026-10-21",
+    "local_failure_capture": null,
+    "local_failure_capture_sha256": null
+  }
+]

@@ -1,0 +1,538 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        2,
+        9
+      ]
+    ],
+    "date-time": "2026-02-09T20:11:33Z",
+    "timestamp": 1770667893978,
+    "version": "3.49.0"
+  },
+  "reference-count": 30,
+  "publisher": "Elsevier BV",
+  "issue": "31",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2025,
+            1,
+            1
+          ]
+        ],
+        "date-time": "2025-01-01T00:00:00Z",
+        "timestamp": 1735689600000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2025,
+            1,
+            1
+          ]
+        ],
+        "date-time": "2025-01-01T00:00:00Z",
+        "timestamp": 1735689600000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "https://www.elsevier.com/legal/tdmrep-license"
+    }
+  ],
+  "content-domain": {
+    "domain": [
+      "elsevier.com",
+      "sciencedirect.com"
+    ],
+    "crossmark-restriction": true
+  },
+  "short-container-title": [
+    "IFAC-PapersOnLine"
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2025
+      ]
+    ]
+  },
+  "DOI": "10.1016/j.ifacol.2026.01.070",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2026,
+        2,
+        6
+      ]
+    ],
+    "date-time": "2026-02-06T08:29:04Z",
+    "timestamp": 1770366544000
+  },
+  "page": "109-114",
+  "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+  "source": "Crossref",
+  "is-referenced-by-count": 0,
+  "title": [
+    "Decentralized Collision-Free Satellite Formation Reconfiguration with Control Barrier Functions"
+  ],
+  "prefix": "10.1016",
+  "volume": "59",
+  "author": [
+    {
+      "given": "Jihyeok",
+      "family": "Kim",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    },
+    {
+      "given": "Hancheol",
+      "family": "Cho",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    }
+  ],
+  "member": "78",
+  "reference": [
+    {
+      "key": "10.1016/j.ifacol.2026.01.070_bib1",
+      "unstructured": "Alfriend, K., Vadali, S.R., Gurfil, P., How, J., and Breger, L. (2009). Spacecraft formation flying: Dynamics, control and navigation, volume 2. Elsevier."
+    },
+    {
+      "issue": "8",
+      "key": "10.1016/j.ifacol.2026.01.070_bib2",
+      "doi-asserted-by": "crossref",
+      "first-page": "3861",
+      "DOI": "10.1109/TAC.2016.2638961",
+      "article-title": "Control barrier function based quadratic programs for safety critical systems",
+      "volume": "62",
+      "author": "Ames",
+      "year": "2016",
+      "journal-title": "IEEE Transactions on Automatic Control"
+    },
+    {
+      "key": "10.1016/j.ifacol.2026.01.070_bib3",
+      "series-title": "Future-focused control barrier functions for autonomous vehicle control. In 2023 American Control Conference (ACC)",
+      "first-page": "3324",
+      "author": "Black",
+      "year": "2023"
+    },
+    {
+      "issue": "11",
+      "key": "10.1016/j.ifacol.2026.01.070_bib4",
+      "doi-asserted-by": "crossref",
+      "first-page": "1747",
+      "DOI": "10.1016/S0005-1098(99)00113-2",
+      "article-title": "Set invariance in control",
+      "volume": "35",
+      "author": "Blanchini",
+      "year": "1999",
+      "journal-title": "Automatica"
+    },
+    {
+      "issue": "27",
+      "key": "10.1016/j.ifacol.2026.01.070_bib5",
+      "doi-asserted-by": "crossref",
+      "first-page": "68",
+      "DOI": "10.1016/j.ifacol.2015.11.154",
+      "article-title": "Control barrier certificates for safe swarm behavior",
+      "volume": "48",
+      "author": "Borrmann",
+      "year": "2015",
+      "journal-title": "IFAC-PapersOnLine"
+    },
+    {
+      "key": "10.1016/j.ifacol.2026.01.070_bib6",
+      "doi-asserted-by": "crossref",
+      "first-page": "111109",
+      "DOI": "10.1016/j.automatica.2023.111109",
+      "article-title": "Robust control barrier functions under high relative degree and input constraints for satellite trajectories",
+      "volume": "155",
+      "author": "Breeden",
+      "year": "2023",
+      "journal-title": "Automatica"
+    },
+    {
+      "issue": "1",
+      "key": "10.1016/j.ifacol.2026.01.070_bib7",
+      "doi-asserted-by": "crossref",
+      "first-page": "161",
+      "DOI": "10.1016/j.ast.2012.01.005",
+      "article-title": "Analytical solution to optimal relocation of satellite formation flying in arbitrary elliptic orbits",
+      "volume": "25",
+      "author": "Cho",
+      "year": "2013",
+      "journal-title": "Aerospace Science and Technology"
+    },
+    {
+      "issue": "9",
+      "key": "10.1016/j.ifacol.2026.01.070_bib8",
+      "doi-asserted-by": "crossref",
+      "first-page": "653",
+      "DOI": "10.2514/8.8704",
+      "article-title": "Terminal guidance system for satellite rendezvous",
+      "volume": "27",
+      "author": "Clohessy",
+      "year": "1960",
+      "journal-title": "Journal of the aerospace sciences"
+    },
+    {
+      "issue": "4",
+      "key": "10.1016/j.ifacol.2026.01.070_bib9",
+      "doi-asserted-by": "crossref",
+      "first-page": "4604",
+      "DOI": "10.1109/TAES.2023.3245997",
+      "article-title": "Autonomous asteroid characterization through nanosatel-lite swarming",
+      "volume": "59",
+      "author": "Dennison",
+      "year": "2023",
+      "journal-title": "IEEE Transactions on Aerospace and Electronic Systems"
+    },
+    {
+      "issue": "12",
+      "key": "10.1016/j.ifacol.2026.01.070_bib10",
+      "doi-asserted-by": "crossref",
+      "first-page": "1398",
+      "DOI": "10.1002/rnc.2827",
+      "article-title": "Model predictive control approach for guidance of spacecraft rendezvous and proximity maneuvering",
+      "volume": "22",
+      "author": "Di Cairano",
+      "year": "2012",
+      "journal-title": "International Journal of Robust and Nonlinear Control"
+    },
+    {
+      "issue": "3",
+      "key": "10.1016/j.ifacol.2026.01.070_bib11",
+      "doi-asserted-by": "crossref",
+      "first-page": "671",
+      "DOI": "10.2514/1.23015",
+      "article-title": "Autonomous formation flying for the prisma mission",
+      "volume": "44",
+      "author": "Gill",
+      "year": "2007",
+      "journal-title": "Journal of Spacecraft and Rockets"
+    },
+    {
+      "issue": "5",
+      "key": "10.1016/j.ifacol.2026.01.070_bib12",
+      "doi-asserted-by": "crossref",
+      "first-page": "2197",
+      "DOI": "10.1016/j.asr.2021.12.015",
+      "article-title": "Collision avoidance control for formation flying of multiple spacecraft using artificial potential field",
+      "volume": "69",
+      "author": "Hwang",
+      "year": "2022",
+      "journal-title": "Advances in Space Research"
+    },
+    {
+      "issue": "2",
+      "key": "10.1016/j.ifacol.2026.01.070_bib13",
+      "doi-asserted-by": "crossref",
+      "first-page": "135",
+      "DOI": "10.3390/aerospace11020135",
+      "article-title": "Relative orbit control algorithms and scenarios for the inertial alignment hold demonstration mission by cubesat formation flying",
+      "volume": "11",
+      "author": "Jeon",
+      "year": "2024",
+      "journal-title": "Aerospace"
+    },
+    {
+      "key": "10.1016/j.ifacol.2026.01.070_bib14",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Kim, T. and Panagou, D. (2025). Visibility-aware rrt* for safety-critical navigation of perception-limited robots in unknown environments. IEEE Robotics and Automation Letters.",
+      "DOI": "10.1109/LRA.2025.3552295"
+    },
+    {
+      "key": "10.1016/j.ifacol.2026.01.070_bib15",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Kim, Y., Kim, P., Ryu, H.G., and Park, S.Y. (2024). Evaluating the on-orbit relative navigation performance of modified adaptive kalman filter with gps ambiguity resolution. In Proceedings of the 2024 International Technical Meeting of The Institute of Navigation, 658–676.",
+      "DOI": "10.33012/2024.19484"
+    },
+    {
+      "key": "10.1016/j.ifacol.2026.01.070_bib16",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.2514/6.2021-0423",
+      "article-title": "Formation flying orbit and control concept for the visors mission",
+      "volume": "0423",
+      "author": "Koenig",
+      "year": "2021",
+      "journal-title": "In AIAA Scitech 2021 Forum"
+    },
+    {
+      "issue": "4",
+      "key": "10.1016/j.ifacol.2026.01.070_bib17",
+      "doi-asserted-by": "crossref",
+      "first-page": "1097",
+      "DOI": "10.2514/1.52283",
+      "article-title": "Approximate analytical solutions to optimal reconfiguration problems in perturbed satellite relative motion",
+      "volume": "34",
+      "author": "Lee",
+      "year": "2011",
+      "journal-title": "Journal of Guidance, Control, and Dynamics"
+    },
+    {
+      "issue": "3",
+      "key": "10.1016/j.ifacol.2026.01.070_bib18",
+      "doi-asserted-by": "crossref",
+      "first-page": "440",
+      "DOI": "10.1109/JPROC.2018.2794879",
+      "article-title": "A survey on formation control of small satellites",
+      "volume": "106",
+      "author": "Liu",
+      "year": "2018",
+      "journal-title": "Proceedings of the IEEE"
+    },
+    {
+      "issue": "6",
+      "key": "10.1016/j.ifacol.2026.01.070_bib19",
+      "doi-asserted-by": "crossref",
+      "first-page": "596",
+      "DOI": "10.1109/TAC.1971.1099826",
+      "article-title": "An introduction to observers",
+      "volume": "16",
+      "author": "Luenberger",
+      "year": "2003",
+      "journal-title": "IEEE Transactions on automatic control"
+    },
+    {
+      "key": "10.1016/j.ifacol.2026.01.070_bib20",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Molnar, T.G., Kannan, S.K., Cunningham, J., Dunlap, K., Hobbs, K.L., and Ames, A.D. (2025). Collision avoidance and geofencing for fixed-wing aircraft with control barrier functions. IEEE Transactions on Control Systems Technology.",
+      "DOI": "10.1109/TCST.2025.3536215"
+    },
+    {
+      "issue": "3",
+      "key": "10.1016/j.ifacol.2026.01.070_bib21",
+      "doi-asserted-by": "crossref",
+      "first-page": "1073",
+      "DOI": "10.1109/TAC.2021.3059156",
+      "article-title": "Robust safety-critical control for dynamic robotics",
+      "volume": "67",
+      "author": "Nguyen",
+      "year": "2021",
+      "journal-title": "IEEE Transactions on Automatic Control"
+    },
+    {
+      "key": "10.1016/j.ifacol.2026.01.070_bib22",
+      "series-title": "Chance-constrained control for safe spacecraft autonomy: Convex programming approach. In 2024 American Control Conference (ACC)",
+      "first-page": "2318",
+      "author": "Oguri",
+      "year": "2024"
+    },
+    {
+      "issue": "4",
+      "key": "10.1016/j.ifacol.2026.01.070_bib23",
+      "doi-asserted-by": "crossref",
+      "first-page": "755",
+      "DOI": "10.2514/2.4943",
+      "article-title": "Spacecraft trajectory planning with avoidance constraints using mixed-integer linear programming",
+      "volume": "25",
+      "author": "Richards",
+      "year": "2002",
+      "journal-title": "Journal of Guidance, Control, and Dynamics"
+    },
+    {
+      "key": "10.1016/j.ifacol.2026.01.070_bib24",
+      "doi-asserted-by": "crossref",
+      "first-page": "148",
+      "DOI": "10.1016/j.actaastro.2021.05.013",
+      "article-title": "Spacecraft formation flying system design and controls for four nanosats mission",
+      "volume": "186",
+      "author": "Song",
+      "year": "2021",
+      "journal-title": "Acta Astronautica"
+    },
+    {
+      "issue": "2",
+      "key": "10.1016/j.ifacol.2026.01.070_bib25",
+      "doi-asserted-by": "crossref",
+      "first-page": "262",
+      "DOI": "10.2514/1.6687",
+      "article-title": "Formation establishment and reconfiguration using impulsive control",
+      "volume": "28",
+      "author": "Vaddi",
+      "year": "2005",
+      "journal-title": "Journal of Guidance, Control, and Dynamics"
+    },
+    {
+      "key": "10.1016/j.ifacol.2026.01.070_bib26",
+      "series-title": "Safety barrier certificates for heterogeneous multi-robot systems. In 2016 American control conference (ACC)",
+      "first-page": "5213",
+      "author": "Wang",
+      "year": "2016"
+    },
+    {
+      "issue": "3",
+      "key": "10.1016/j.ifacol.2026.01.070_bib27",
+      "doi-asserted-by": "crossref",
+      "first-page": "661",
+      "DOI": "10.1109/TRO.2017.2659727",
+      "article-title": "Safety barrier certificates for collisions-free multirobot systems",
+      "volume": "33",
+      "author": "Wang",
+      "year": "2017",
+      "journal-title": "IEEE Transactions on Robotics"
+    },
+    {
+      "key": "10.1016/j.ifacol.2026.01.070_bib28",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Xia, K., Zhang, Y., Wang, W., Zou, Y., and Zuo, Z. (2024). Collision-free configuration control of spacecraft systems using relative measurements. IEEE Transactions on Aerospace and Electronic Systems.",
+      "DOI": "10.1109/TAES.2024.3523277"
+    },
+    {
+      "issue": "27",
+      "key": "10.1016/j.ifacol.2026.01.070_bib29",
+      "doi-asserted-by": "crossref",
+      "first-page": "54",
+      "DOI": "10.1016/j.ifacol.2015.11.152",
+      "article-title": "Robustness of control barrier functions for safety critical control",
+      "volume": "48",
+      "author": "Xu",
+      "year": "2015",
+      "journal-title": "IFAC-PapersOnLine"
+    },
+    {
+      "issue": "6",
+      "key": "10.1016/j.ifacol.2026.01.070_bib30",
+      "doi-asserted-by": "crossref",
+      "first-page": "9539",
+      "DOI": "10.1109/TAES.2023.3321262",
+      "article-title": "Fully distributed formation flying control of multiple spacecraft by observer-based linear output protocols",
+      "volume": "59",
+      "author": "Zhang",
+      "year": "2023",
+      "journal-title": "IEEE Transactions on Aerospace and Electronic Systems"
+    }
+  ],
+  "container-title": [
+    "IFAC-PapersOnLine"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://api.elsevier.com/content/article/PII:S2405896326000777?httpAccept=text/xml",
+      "content-type": "text/xml",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://api.elsevier.com/content/article/PII:S2405896326000777?httpAccept=text/plain",
+      "content-type": "text/plain",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2026,
+        2,
+        6
+      ]
+    ],
+    "date-time": "2026-02-06T08:30:41Z",
+    "timestamp": 1770366641000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://linkinghub.elsevier.com/retrieve/pii/S2405896326000777"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2025
+      ]
+    ]
+  },
+  "references-count": 30,
+  "journal-issue": {
+    "issue": "31",
+    "published-print": {
+      "date-parts": [
+        [
+          2025
+        ]
+      ]
+    }
+  },
+  "alternative-id": [
+    "S2405896326000777"
+  ],
+  "URL": "https://doi.org/10.1016/j.ifacol.2026.01.070",
+  "relation": {},
+  "ISSN": [
+    "2405-8963"
+  ],
+  "issn-type": [
+    {
+      "value": "2405-8963",
+      "type": "print"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2025
+      ]
+    ]
+  },
+  "assertion": [
+    {
+      "value": "Elsevier",
+      "name": "publisher",
+      "label": "This article is maintained by"
+    },
+    {
+      "value": "Decentralized Collision-Free Satellite Formation Reconfiguration with Control Barrier Functions",
+      "name": "articletitle",
+      "label": "Article Title"
+    },
+    {
+      "value": "IFAC-PapersOnLine",
+      "name": "journaltitle",
+      "label": "Journal Title"
+    },
+    {
+      "value": "https://doi.org/10.1016/j.ifacol.2026.01.070",
+      "name": "articlelink",
+      "label": "CrossRef DOI link to publisher maintained version"
+    },
+    {
+      "value": "article",
+      "name": "content_type",
+      "label": "Content Type"
+    },
+    {
+      "value": "Copyright © 2025. The Authors. Peer review under responsibility of International Federation of Automatic Control.",
+      "name": "copyright",
+      "label": "Copyright"
+    }
+  ]
+}

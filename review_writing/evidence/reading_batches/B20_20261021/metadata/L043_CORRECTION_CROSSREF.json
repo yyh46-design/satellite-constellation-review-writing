@@ -1,0 +1,258 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2025,
+        12,
+        31
+      ]
+    ],
+    "date-time": "2025-12-31T17:13:03Z",
+    "timestamp": 1767201183769,
+    "version": "build-2238731810"
+  },
+  "update-to": [
+    {
+      "DOI": "10.2514/1.g006630",
+      "type": "correction",
+      "label": "Correction",
+      "source": "publisher",
+      "updated": {
+        "date-parts": [
+          [
+            2022,
+            11,
+            13
+          ]
+        ],
+        "date-time": "2022-11-13T00:00:00Z",
+        "timestamp": 1668297600000
+      }
+    }
+  ],
+  "reference-count": 0,
+  "publisher": "American Institute of Aeronautics and Astronautics (AIAA)",
+  "issue": "1",
+  "content-domain": {
+    "domain": [
+      "arc.aiaa.org"
+    ],
+    "crossmark-restriction": true
+  },
+  "short-container-title": [
+    "Journal of Guidance, Control, and Dynamics"
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2023,
+        1
+      ]
+    ]
+  },
+  "DOI": "10.2514/1.g006630.c1",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2022,
+        11,
+        13
+      ]
+    ],
+    "date-time": "2022-11-13T12:06:25Z",
+    "timestamp": 1668341185000
+  },
+  "page": "1-2",
+  "update-policy": "https://doi.org/10.2514/aiaa_crossmarkpolicy",
+  "source": "Crossref",
+  "is-referenced-by-count": 0,
+  "title": [
+    "Correction: Low-Thrust Collision Avoidance Maneuver Optimization"
+  ],
+  "prefix": "10.2514",
+  "volume": "46",
+  "author": [
+    {
+      "given": "Maria Francesca",
+      "family": "Palermo",
+      "sequence": "first",
+      "affiliation": [
+        {
+          "name": "Politecnico di Milano, 20156 Milano, Italy"
+        }
+      ],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-7882-5905",
+      "authenticated-orcid": false,
+      "given": "Andrea",
+      "family": "De Vittori",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Politecnico di Milano, 20156 Milano, Italy"
+        }
+      ],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0003-1692-3929",
+      "authenticated-orcid": false,
+      "given": "Pierluigi",
+      "family": "Di Lizia",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Politecnico di Milano, 20156 Milano, Italy"
+        }
+      ],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    },
+    {
+      "given": "Roberto",
+      "family": "Armellin",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "The University of Auckland, Auckland 1010, New Zealand"
+        }
+      ],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    }
+  ],
+  "member": "1387",
+  "container-title": [
+    "Journal of Guidance, Control, and Dynamics"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://arc.aiaa.org/doi/pdf/10.2514/1.G006630.c1",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2022,
+        12,
+        23
+      ]
+    ],
+    "date-time": "2022-12-23T12:18:15Z",
+    "timestamp": 1671797895000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://arc.aiaa.org/doi/10.2514/1.G006630.c1"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2023,
+        1
+      ]
+    ]
+  },
+  "references-count": 0,
+  "journal-issue": {
+    "issue": "1",
+    "published-print": {
+      "date-parts": [
+        [
+          2023,
+          1
+        ]
+      ]
+    }
+  },
+  "alternative-id": [
+    "10.2514/1.G006630.c1"
+  ],
+  "URL": "https://doi.org/10.2514/1.g006630.c1",
+  "relation": {},
+  "ISSN": [
+    "0731-5090",
+    "1533-3884"
+  ],
+  "issn-type": [
+    {
+      "value": "0731-5090",
+      "type": "print"
+    },
+    {
+      "value": "1533-3884",
+      "type": "electronic"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2023,
+        1
+      ]
+    ]
+  },
+  "assertion": [
+    {
+      "value": "2022-10-25",
+      "order": 0,
+      "name": "received",
+      "label": "Received",
+      "group": {
+        "name": "publication_history",
+        "label": "Publication History"
+      }
+    },
+    {
+      "value": "2022-10-25",
+      "order": 2,
+      "name": "accepted",
+      "label": "Accepted",
+      "group": {
+        "name": "publication_history",
+        "label": "Publication History"
+      }
+    },
+    {
+      "value": "2022-11-13",
+      "order": 3,
+      "name": "published",
+      "label": "Published",
+      "group": {
+        "name": "publication_history",
+        "label": "Publication History"
+      }
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "batch": "B20_20261021",
+  "base_commit": "51246eb38517c02c877f46e0e4463a494005d1cf",
+  "branch": "research/constellation-review-reading-b20-original-pool-20261021",
+  "batch_target": 10,
+  "completed_body_read_count": 7,
+  "close_read_ids": [
+    "L019",
+    "L024",
+    "L042",
+    "L043",
+    "L049",
+    "L050",
+    "L063"
+  ],
+  "unavailable_fulltext_ids": [
+    "L029",
+    "L052",
+    "L072"
+  ],
+  "unavailable_fulltext_not_counted": 3,
+  "original_pool_total": 80,
+  "original_pool_close_read_this_batch": 7,
+  "original_pool_close_read_cumulative": 37,
+  "original_pool_remaining": 43,
+  "remaining_status_breakdown": {
+    "NOT_CLOSE_READ": 42,
+    "PARTIAL_TEXT_READ_NOT_COUNTED": 1
+  },
+  "access_pending_subset_of_NOT_CLOSE_READ": [
+    "L029",
+    "L052",
+    "L072"
+  ],
+  "partial_read_not_counted": [
+    "L003"
+  ],
+  "topic_supplement_close_read_this_batch": 0,
+  "topic_supplement_close_read_cumulative": 60,
+  "B11_through_B20_close_read_records": 97,
+  "claim_count": 35,
+  "B11_through_B20_claim_records": 450,
+  "remote_public_pdf_text_read_count": 7,
+  "remote_pdf_total_pages": 140,
+  "associated_correction_pages": 2,
+  "associated_correction_counted_as_paper": false,
+  "pdf_binary_archived_count": 0,
+  "pdf_binary_identity_verified_count": 0,
+  "actual_visual_page_count": 0,
+  "visual_review_pending_ids": [
+    "L019",
+    "L024",
+    "L042",
+    "L043",
+    "L049",
+    "L050",
+    "L063"
+  ],
+  "candidate_after_human_review": 7,
+  "specific_statement_holds": [
+    "L042 formal-version content and universal optimality",
+    "L043 corrected-equation image verification and independent reproduction",
+    "L049 population/generation counts and total-versus-each delta-v ambiguity",
+    "L050 strong-correlation validation and continuous-time joint risk guarantee"
+  ],
+  "human_verified": false,
+  "submission_ready": false,
+  "manuscript_modified": false,
+  "historical_reading_totals_updated": false,
+  "stop_after_batch": true
+}

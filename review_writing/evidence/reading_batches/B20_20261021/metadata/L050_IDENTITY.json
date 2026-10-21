@@ -1,0 +1,29 @@
+{
+  "source_id": "E-B20-L050",
+  "pool_id": "L050",
+  "title": "Combined Long-Term Collision Avoidance and Stochastic Station-Keeping in Geostationary Earth Orbit",
+  "actual_title_aliases": [
+    "Combined Long-Term Collision Avoidance and Stochastic Station-Keeping in GEO"
+  ],
+  "identifier": "10.2514/1.g008629",
+  "authors": "Andrea De Vittori; Zeno Pavanello; Pierluigi Di Lizia; Jay McMahon; Roberto Armellin",
+  "bibliographic_year": 2025,
+  "actual_version": "40-page repository accepted manuscript including cover; title shortens formal Geostationary Earth Orbit to GEO; paired DOI1.G008629",
+  "canonical_url": "https://doi.org/10.2514/1.g008629",
+  "acquisition_url": "https://re.public.polimi.it/retrieve/61e91a18-bfc3-4ad3-84cd-52bef2c46d8f/DEVIA_OA_01-25.pdf",
+  "source_format": "REMOTE_PUBLIC_PDF_TEXT_CAPTURE",
+  "pdf_pages": 40,
+  "local_text_capture_sha256": "2da1096829f826c5223719206b2bef00aa504ad5f8bbe55d3d2257289e6d1283",
+  "source_pdf_sha256": null,
+  "source_pdf_byte_identity_verified": false,
+  "adoption_status": "CANDIDATE_AFTER_HUMAN_REVIEW",
+  "human_verified": false,
+  "formal_version_text_compared": false,
+  "crossref_file": "L050_CROSSREF.json",
+  "source_limitations": [
+    "读者判断：空间两维的联合约束不自动等于全时段联合风险保证；IPoC、框内概率、跨时段事故概率应分别列栏。",
+    "读者判断：原稿将IRA代价下降的一般性质与本问题的限制分开说明（物理页9–10、14）；不据此宣称本联合问题每次迭代必然节省燃料或全局收敛。",
+    "读者判断：合成OD展示了更新信息如何改变可行域，但未构成真实导航链路闭环或多主动星协商实验。把“可用于闭环”与“闭环已验证”分别记录。"
+  ],
+  "pool_title_preserved_in_original_register": "Combined Long-Term Collision Avoidance and Stochastic Station-Keeping in Geostationary Earth Orbit"
+}

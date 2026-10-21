@@ -1,0 +1,426 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        8,
+        1
+      ]
+    ],
+    "date-time": "2026-08-01T03:12:27Z",
+    "timestamp": 1785553947748,
+    "version": "3.56.0"
+  },
+  "reference-count": 16,
+  "publisher": "Elsevier BV",
+  "issue": "2",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2023,
+            1,
+            1
+          ]
+        ],
+        "date-time": "2023-01-01T00:00:00Z",
+        "timestamp": 1672531200000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2023,
+            1,
+            1
+          ]
+        ],
+        "date-time": "2023-01-01T00:00:00Z",
+        "timestamp": 1672531200000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "https://www.elsevier.com/legal/tdmrep-license"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2024,
+            11,
+            21
+          ]
+        ],
+        "date-time": "2024-11-21T00:00:00Z",
+        "timestamp": 1732147200000
+      },
+      "content-version": "am",
+      "delay-in-days": 690,
+      "URL": "http://www.elsevier.com/open-access/userlicense/1.0/"
+    }
+  ],
+  "content-domain": {
+    "domain": [
+      "elsevier.com",
+      "sciencedirect.com"
+    ],
+    "crossmark-restriction": true
+  },
+  "short-container-title": [
+    "IFAC-PapersOnLine"
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2023
+      ]
+    ]
+  },
+  "DOI": "10.1016/j.ifacol.2023.10.1094",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2023,
+        11,
+        22
+      ]
+    ],
+    "date-time": "2023-11-22T12:03:34Z",
+    "timestamp": 1700654614000
+  },
+  "page": "1995-2000",
+  "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+  "source": "Crossref",
+  "is-referenced-by-count": 7,
+  "title": [
+    "Multi-maneuver algorithms for multi-risk collision avoidance via nonconvex quadratic optimization"
+  ],
+  "prefix": "10.1016",
+  "volume": "56",
+  "author": [
+    {
+      "given": "Matthieu",
+      "family": "Masson",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Denis",
+      "family": "Arzelier",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Mioara",
+      "family": "Joldes",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Bruno",
+      "family": "Revelin",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Jérôme",
+      "family": "Thomassin",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "member": "78",
+  "reference": [
+    {
+      "key": "10.1016/j.ifacol.2023.10.1094_bib0001",
+      "doi-asserted-by": "crossref",
+      "first-page": "347",
+      "DOI": "10.1016/j.actaastro.2021.05.046",
+      "article-title": "Collision avoidance maneuver optimization with a multiple-impulse convex formulation",
+      "volume": "186",
+      "author": "Armellin",
+      "year": "2021",
+      "journal-title": "Acta Astronautica"
+    },
+    {
+      "issue": "6",
+      "key": "10.1016/j.ifacol.2023.10.1094_bib0002",
+      "doi-asserted-by": "crossref",
+      "first-page": "1039",
+      "DOI": "10.1287/opre.29.6.1039",
+      "article-title": "The ellipsoid method: A survey",
+      "volume": "29",
+      "author": "Bland",
+      "year": "1981",
+      "journal-title": "Operations research"
+    },
+    {
+      "issue": "2",
+      "key": "10.1016/j.ifacol.2023.10.1094_bib0003",
+      "first-page": "217",
+      "article-title": "Optimal impulsive collision avoidance in low Earth orbit",
+      "volume": "38",
+      "author": "Bombardelli",
+      "year": "2015",
+      "journal-title": "JGCD"
+    },
+    {
+      "key": "10.1016/j.ifacol.2023.10.1094_bib0004",
+      "series-title": "Proceedings of the AAS-AIAA Conference",
+      "article-title": "Optimal collision avoidance for multiple conjunction events",
+      "author": "Duncan",
+      "year": "2011"
+    },
+    {
+      "key": "10.1016/j.ifacol.2023.10.1094_bib0005",
+      "series-title": "The Palgrave Handbook of Operations Research",
+      "first-page": "237",
+      "article-title": "Interval tools in branch-and-bound methods for global optimization",
+      "author": "Fernández",
+      "year": "2022"
+    },
+    {
+      "key": "10.1016/j.ifacol.2023.10.1094_bib0006",
+      "doi-asserted-by": "crossref",
+      "first-page": "694",
+      "DOI": "10.1016/j.actaastro.2020.08.004",
+      "article-title": "On the use of machine learning and evidence theory to improve collision risk management",
+      "volume": "181",
+      "author": "Fernández-Mellado",
+      "year": "2021",
+      "journal-title": "Acta Astronautica"
+    },
+    {
+      "key": "10.1016/j.ifacol.2023.10.1094_bib0007",
+      "first-page": "217",
+      "article-title": "Quadratic optimization",
+      "volume": "2",
+      "author": "Floudas",
+      "year": "1995"
+    },
+    {
+      "key": "10.1016/j.ifacol.2023.10.1094_bib0008",
+      "series-title": "IEEE Symposium Series on Computational Intelligence",
+      "first-page": "1",
+      "article-title": "Fast approximators for optimal low-thrust hops between main belt asteroids",
+      "author": "Hennes",
+      "year": "2016"
+    },
+    {
+      "key": "10.1016/j.ifacol.2023.10.1094_bib0009",
+      "first-page": "11",
+      "article-title": "A study on the collision avoidance maneuver optimization with multiple space debris",
+      "volume": "1",
+      "author": "Kotz",
+      "year": "2012",
+      "journal-title": "Journal of Astronautical Sciences"
+    },
+    {
+      "key": "10.1016/j.ifacol.2023.10.1094_bib0010",
+      "series-title": "An Introduction to Polynomial and Semi-Algebraic Optimization",
+      "author": "Lasserre",
+      "year": "2015"
+    },
+    {
+      "issue": "3",
+      "key": "10.1016/j.ifacol.2023.10.1094_bib0011",
+      "doi-asserted-by": "crossref",
+      "first-page": "20",
+      "DOI": "10.1109/MSP.2010.936019",
+      "article-title": "Semidefinite relaxation of quadratic optimization problems",
+      "volume": "27",
+      "author": "Luo",
+      "year": "2010",
+      "journal-title": "IEEE Signal Processing Magazine"
+    },
+    {
+      "key": "10.1016/j.ifacol.2023.10.1094_bib0012",
+      "series-title": "International Conference on Mathematical Aspects of Computer and Information Sciences",
+      "first-page": "555",
+      "article-title": "Global optimization based on contractor programming: An overview of the ibex library",
+      "author": "Ninin",
+      "year": "2015"
+    },
+    {
+      "issue": "5",
+      "key": "10.1016/j.ifacol.2023.10.1094_bib0013",
+      "first-page": "1140",
+      "article-title": "Collision Avoidance for Satellites in Formation Flight",
+      "volume": "29",
+      "author": "Slater",
+      "year": "2006",
+      "journal-title": "JGCD"
+    },
+    {
+      "key": "10.1016/j.ifacol.2023.10.1094_bib0014",
+      "article-title": "Fundamentals of astrodynamics and applications",
+      "author": "Vallado",
+      "year": "2001",
+      "journal-title": "Space Technology Library"
+    },
+    {
+      "key": "10.1016/j.ifacol.2023.10.1094_bib0015",
+      "first-page": "27",
+      "article-title": "Complexity issues in global optimization: A survey",
+      "volume": "2",
+      "author": "Vavasis",
+      "year": "1995"
+    },
+    {
+      "issue": "1",
+      "key": "10.1016/j.ifacol.2023.10.1094_bib0016",
+      "first-page": "60",
+      "article-title": "New state transition matrix for relative motion on an arbitrary elliptical orbit",
+      "volume": "25",
+      "author": "Yamanaka",
+      "year": "2002",
+      "journal-title": "JGCD"
+    }
+  ],
+  "container-title": [
+    "IFAC-PapersOnLine"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://api.elsevier.com/content/article/PII:S2405896323014970?httpAccept=text/xml",
+      "content-type": "text/xml",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://api.elsevier.com/content/article/PII:S2405896323014970?httpAccept=text/plain",
+      "content-type": "text/plain",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2024,
+        10,
+        21
+      ]
+    ],
+    "date-time": "2024-10-21T14:44:42Z",
+    "timestamp": 1729521882000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://linkinghub.elsevier.com/retrieve/pii/S2405896323014970"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2023
+      ]
+    ]
+  },
+  "references-count": 16,
+  "journal-issue": {
+    "issue": "2",
+    "published-print": {
+      "date-parts": [
+        [
+          2023
+        ]
+      ]
+    }
+  },
+  "alternative-id": [
+    "S2405896323014970"
+  ],
+  "URL": "https://doi.org/10.1016/j.ifacol.2023.10.1094",
+  "relation": {},
+  "ISSN": [
+    "2405-8963"
+  ],
+  "issn-type": [
+    {
+      "value": "2405-8963",
+      "type": "print"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2023
+      ]
+    ]
+  },
+  "assertion": [
+    {
+      "value": "Elsevier",
+      "name": "publisher",
+      "label": "This article is maintained by"
+    },
+    {
+      "value": "Multi-maneuver algorithms for multi-risk collision avoidance via nonconvex quadratic optimization",
+      "name": "articletitle",
+      "label": "Article Title"
+    },
+    {
+      "value": "IFAC-PapersOnLine",
+      "name": "journaltitle",
+      "label": "Journal Title"
+    },
+    {
+      "value": "https://doi.org/10.1016/j.ifacol.2023.10.1094",
+      "name": "articlelink",
+      "label": "CrossRef DOI link to publisher maintained version"
+    },
+    {
+      "value": "article",
+      "name": "content_type",
+      "label": "Content Type"
+    },
+    {
+      "value": "Copyright © 2023. The Authors. Peer review under responsibility of International Federation of Automatic Control.",
+      "name": "copyright",
+      "label": "Copyright"
+    }
+  ]
+}

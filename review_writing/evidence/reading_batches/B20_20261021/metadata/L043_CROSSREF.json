@@ -1,0 +1,349 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        10,
+        1
+      ]
+    ],
+    "date-time": "2026-10-01T07:44:26Z",
+    "timestamp": 1790840666290,
+    "version": "4.1.0"
+  },
+  "reference-count": 12,
+  "publisher": "American Institute of Aeronautics and Astronautics (AIAA)",
+  "issue": "10",
+  "content-domain": {
+    "domain": [
+      "arc.aiaa.org"
+    ],
+    "crossmark-restriction": true
+  },
+  "short-container-title": [
+    "Journal of Guidance, Control, and Dynamics"
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2022,
+        10
+      ]
+    ]
+  },
+  "DOI": "10.2514/1.g006630",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2022,
+        8,
+        16
+      ]
+    ],
+    "date-time": "2022-08-16T09:33:37Z",
+    "timestamp": 1660642417000
+  },
+  "page": "1815-1829",
+  "update-policy": "https://doi.org/10.2514/aiaa_crossmarkpolicy",
+  "source": "Crossref",
+  "is-referenced-by-count": 37,
+  "title": [
+    "Low-Thrust Collision Avoidance Maneuver Optimization"
+  ],
+  "prefix": "10.2514",
+  "volume": "45",
+  "author": [
+    {
+      "ORCID": "https://orcid.org/0000-0002-7882-5905",
+      "authenticated-orcid": false,
+      "given": "Andrea",
+      "family": "De Vittori",
+      "sequence": "first",
+      "affiliation": [
+        {
+          "name": "Polytechnic University of Milan, 20156 Milan, Italy"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Maria Francesca",
+      "family": "Palermo",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Polytechnic University of Milan, 20156 Milan, Italy"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0003-1692-3929",
+      "authenticated-orcid": false,
+      "given": "Pierluigi Di",
+      "family": "Lizia",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Polytechnic University of Milan, 20156 Milan, Italy"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-3516-6428",
+      "authenticated-orcid": false,
+      "given": "Roberto",
+      "family": "Armellin",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "The University of Auckland, Auckland 1010, New Zealand"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "member": "1387",
+  "reference": [
+    {
+      "key": "r1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.2514/1.A33898"
+    },
+    {
+      "key": "r2",
+      "doi-asserted-by": "crossref",
+      "unstructured": "SalemmeG.ArmellinR.Di LiziaP. “Continuous-Thrust Collision Avoidance Manoeuvres Optimization,” AIAA Paper 2020-0231, 2020. 10.2514/6.2020-0231",
+      "DOI": "10.2514/6.2020-0231"
+    },
+    {
+      "key": "r3",
+      "unstructured": "SchiavoA. “Numerically Efficient Design of Low-Thrust Collision Avoidance Manoeuvre,” Master’s Thesis, School of Industrial and Information Engineering, Dept. of Aerospace Science and Technology, Politecnico di Milano, Milan, 2020."
+    },
+    {
+      "key": "r5",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.2514/1.G005547"
+    },
+    {
+      "issue": "31",
+      "key": "r6",
+      "first-page": "2470",
+      "volume": "41",
+      "author": "Belmonte Hernandez C.",
+      "year": "2021",
+      "journal-title": "31st Space Flight Mechanics Meeting"
+    },
+    {
+      "key": "r7",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.actaastro.2021.05.046"
+    },
+    {
+      "key": "r8",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.2514/4.989186"
+    },
+    {
+      "key": "r9",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1051/0004-6361:20031039"
+    },
+    {
+      "key": "r10",
+      "unstructured": "BrysonA., Applied Optimal Control: Optimization, Estimation and Control, Halsted Press Book, Taylor & Francis, London, 1975, pp. 47–55, https://books.google.it/books?id=P4TKxn7qW5kC."
+    },
+    {
+      "key": "r11",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1080/0305215X.2015.1025773"
+    },
+    {
+      "issue": "11",
+      "key": "r12",
+      "doi-asserted-by": "crossref",
+      "first-page": "1",
+      "DOI": "10.2514/1.G003604",
+      "volume": "41",
+      "author": "Taheri E.",
+      "year": "2018",
+      "journal-title": "Journal of Guidance, Control, and Dynamics"
+    },
+    {
+      "key": "r15",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.3390/aerospace8010022"
+    }
+  ],
+  "updated-by": [
+    {
+      "DOI": "10.2514/1.g006630.c1",
+      "type": "correction",
+      "label": "Correction",
+      "source": "publisher",
+      "updated": {
+        "date-parts": [
+          [
+            2022,
+            11,
+            13
+          ]
+        ],
+        "date-time": "2022-11-13T00:00:00Z",
+        "timestamp": 1668297600000
+      }
+    }
+  ],
+  "container-title": [
+    "Journal of Guidance, Control, and Dynamics"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://arc.aiaa.org/doi/pdf/10.2514/1.G006630",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2022,
+        10,
+        1
+      ]
+    ],
+    "date-time": "2022-10-01T16:40:07Z",
+    "timestamp": 1664642407000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://arc.aiaa.org/doi/10.2514/1.G006630"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2022,
+        10
+      ]
+    ]
+  },
+  "references-count": 12,
+  "journal-issue": {
+    "issue": "10",
+    "published-print": {
+      "date-parts": [
+        [
+          2022,
+          10
+        ]
+      ]
+    }
+  },
+  "alternative-id": [
+    "10.2514/1.G006630"
+  ],
+  "URL": "https://doi.org/10.2514/1.g006630",
+  "relation": {
+    "correction": [
+      {
+        "id-type": "doi",
+        "id": "10.2514/1.G006630.c1",
+        "asserted-by": "object"
+      }
+    ]
+  },
+  "ISSN": [
+    "0731-5090",
+    "1533-3884"
+  ],
+  "issn-type": [
+    {
+      "value": "0731-5090",
+      "type": "print"
+    },
+    {
+      "value": "1533-3884",
+      "type": "electronic"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2022,
+        10
+      ]
+    ]
+  },
+  "assertion": [
+    {
+      "value": "2021-12-13",
+      "order": 0,
+      "name": "received",
+      "label": "Received",
+      "group": {
+        "name": "publication_history",
+        "label": "Publication History"
+      }
+    },
+    {
+      "value": "2022-05-15",
+      "order": 1,
+      "name": "revised",
+      "label": "Revised",
+      "group": {
+        "name": "publication_history",
+        "label": "Publication History"
+      }
+    },
+    {
+      "value": "2022-05-21",
+      "order": 2,
+      "name": "accepted",
+      "label": "Accepted",
+      "group": {
+        "name": "publication_history",
+        "label": "Publication History"
+      }
+    },
+    {
+      "value": "2022-08-16",
+      "order": 3,
+      "name": "published",
+      "label": "Published",
+      "group": {
+        "name": "publication_history",
+        "label": "Publication History"
+      }
+    }
+  ]
+}

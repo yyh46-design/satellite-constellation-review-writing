@@ -1,0 +1,444 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        9,
+        4
+      ]
+    ],
+    "date-time": "2026-09-04T22:13:32Z",
+    "timestamp": 1788560012493,
+    "version": "build-2803163510"
+  },
+  "reference-count": 27,
+  "publisher": "American Institute of Aeronautics and Astronautics (AIAA)",
+  "issue": "4",
+  "content-domain": {
+    "domain": [
+      "arc.aiaa.org"
+    ],
+    "crossmark-restriction": true
+  },
+  "short-container-title": [
+    "Journal of Guidance, Control, and Dynamics"
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2025,
+        4
+      ]
+    ]
+  },
+  "abstract": "<jats:p>To limit the spread of space debris, space situational awareness (SSA) delineates guidelines to preserve current space assets. Developing effective collision avoidance maneuver (CAM) strategies is emerging as a global top priority among the considered countermeasures to debris-generating events. Despite most encounters happening over very short time frames, some conjunctions occur over a longer time window, such as in geostationary Earth orbit (GEO), where the involved objects may have small relative velocities. Besides, external perturbations, particularly the geopotential, lunisolar, and solar radiation pressure ones, exert forces on the spacecraft, causing it to deviate from its designated slot and potentially endanger neighboring satellites. This issue is compounded when considering state uncertainty. The presented work, therefore, introduces convex optimization approaches for long-term CAM and tailored stochastic station-leeping (SK) policy regarding longitude and latitude in this regime. The formulation enables continuous CAM and chance-constrained SK, ensuring satellite adherence to an assigned GEO slot with a given probability. Two kinds of chance constraints are devised: the first one does not consider the correlation between longitude and latitude, but the latter does.</jats:p>",
+  "DOI": "10.2514/1.g008629",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2025,
+        2,
+        26
+      ]
+    ],
+    "date-time": "2025-02-26T09:25:07Z",
+    "timestamp": 1740561907000
+  },
+  "page": "840-854",
+  "update-policy": "https://doi.org/10.2514/aiaa_crossmarkpolicy",
+  "source": "Crossref",
+  "is-referenced-by-count": 7,
+  "title": [
+    "Combined Long-Term Collision Avoidance and Stochastic Station-Keeping in Geostationary Earth Orbit"
+  ],
+  "prefix": "10.2514",
+  "volume": "48",
+  "author": [
+    {
+      "ORCID": "https://orcid.org/0000-0002-7882-5905",
+      "authenticated-orcid": false,
+      "given": "Andrea",
+      "family": "De Vittori",
+      "sequence": "first",
+      "affiliation": [
+        {
+          "name": "Polytechnic University of Milan"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0003-0808-781X",
+      "authenticated-orcid": false,
+      "given": "Zeno",
+      "family": "Pavanello",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "University of Auckland"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0003-1692-3929",
+      "authenticated-orcid": false,
+      "given": "Pierluigi",
+      "family": "Di Lizia",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Polytechnic University of Milan"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-1847-4795",
+      "authenticated-orcid": false,
+      "given": "Jay",
+      "family": "McMahon",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "University of Colorado Boulder"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-3516-6428",
+      "authenticated-orcid": false,
+      "given": "Roberto",
+      "family": "Armellin",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "University of Auckland"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "member": "1387",
+  "reference": [
+    {
+      "key": "r1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/s12567-024-00535-1"
+    },
+    {
+      "issue": "4",
+      "key": "r9",
+      "doi-asserted-by": "crossref",
+      "first-page": "676",
+      "DOI": "10.1007/s40295-014-0002-4",
+      "volume": "59",
+      "author": "Alfano S.",
+      "year": "2014",
+      "journal-title": "Journal of the Astronautical Sciences"
+    },
+    {
+      "issue": "3",
+      "key": "r10",
+      "doi-asserted-by": "crossref",
+      "first-page": "304",
+      "DOI": "10.1016/j.chinastron.2011.07.008",
+      "volume": "35",
+      "author": "Xu X.-l.",
+      "year": "2011",
+      "journal-title": "Chinese Astronomy and Astrophysics"
+    },
+    {
+      "key": "r11",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/s42064-021-0119-8"
+    },
+    {
+      "key": "r12",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.asr.2013.08.027"
+    },
+    {
+      "key": "r13",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.2514/1.G001027"
+    },
+    {
+      "key": "r14",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.2514/1.G004711"
+    },
+    {
+      "issue": "9",
+      "key": "r15",
+      "doi-asserted-by": "crossref",
+      "first-page": "1",
+      "DOI": "10.2514/1.G007839",
+      "volume": "47",
+      "author": "Pavanello Z.",
+      "year": "2024",
+      "journal-title": "Journal of Guidance, Control, and Dynamics"
+    },
+    {
+      "key": "r16",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.2514/1.G005744"
+    },
+    {
+      "key": "r18",
+      "doi-asserted-by": "crossref",
+      "first-page": "679",
+      "DOI": "10.1007/978-3-319-17518-8_39",
+      "volume-title": "Advances in Aerospace Guidance, Navigation and Control",
+      "author": "Serra R.",
+      "year": "2015"
+    },
+    {
+      "key": "r20",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1109/MCS.2022.3187542"
+    },
+    {
+      "issue": "2",
+      "key": "r21",
+      "doi-asserted-by": "crossref",
+      "first-page": "1",
+      "DOI": "10.2514/1.G007271",
+      "volume": "47",
+      "author": "Losacco M.",
+      "year": "2024",
+      "journal-title": "Journal of Guidance, Control, and Dynamics"
+    },
+    {
+      "issue": "4",
+      "key": "r22",
+      "doi-asserted-by": "crossref",
+      "first-page": "1",
+      "DOI": "10.1007/s42064-024-0200-1",
+      "volume": "8",
+      "author": "Bernardini N.",
+      "year": "2024",
+      "journal-title": "Astrodynamics"
+    },
+    {
+      "key": "r24",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1016/j.arcontrol.2024.100957",
+      "volume": "57",
+      "author": "Wang Z.",
+      "year": "2024",
+      "journal-title": "Annual Reviews in Control"
+    },
+    {
+      "key": "r25",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.actaastro.2021.05.046"
+    },
+    {
+      "key": "r28",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.actaastro.2022.05.038"
+    },
+    {
+      "key": "r29",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.2514/1.G005052"
+    },
+    {
+      "key": "r30",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1109/TAES.2023.3329476"
+    },
+    {
+      "key": "r31",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.2514/1.27553"
+    },
+    {
+      "key": "r32",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.2514/1.G002818"
+    },
+    {
+      "key": "r33",
+      "doi-asserted-by": "crossref",
+      "unstructured": "ChaiR.SavvarisA.TsourdosA.ChaiS., Stochastic Trajectory Optimization Problems with Chance Constraints, Springer Singapore, Singapore, 2020, pp. 163–191. 10.1007/978-981-13-9845-2_8",
+      "DOI": "10.1007/978-981-13-9845-2_8"
+    },
+    {
+      "key": "r34",
+      "doi-asserted-by": "crossref",
+      "unstructured": "ChaiR.ChenK.CuiL.ChaiS.InalhanG.TsourdosA., Fast Trajectory Optimization with Chance Constraints, Springer Nature Singapore, Singapore, 2023, pp. 107–130. 10.1007/978-981-99-4311-1_4",
+      "DOI": "10.1007/978-981-99-4311-1_4"
+    },
+    {
+      "key": "r35",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.2514/1.G006806"
+    },
+    {
+      "key": "r40",
+      "unstructured": "Van HessemD. H. “Stochastic Inequality Constrained Closed-Loop Model Predictive Control with Application to Chemical Process Operation,” Doctoral Thesis, Mechanical Maritime and Materials Engineering, Delft Univ. of Technology, June 2004, http://resolver.tudelft.nl/uuid:d51025a4-f349-45b8-9121-6bd67aad1297."
+    },
+    {
+      "key": "r43",
+      "volume-title": "Mixed Quadrature Rules for Numerical Integration of Functions, Paperback",
+      "author": "Dash P.",
+      "year": "2017"
+    },
+    {
+      "key": "r44",
+      "unstructured": "MathiasR. “Computation of Nodes and Weights of Gaussian Quadrature Rule by Using Jacobi Method,” Masters by Research (M.Phil.), School of Mathematics, Colleges (2008 Onwards) >College of Engineering & Physical Sciences, Univ. of Birmingham, 2010, http://etheses.bham.ac.uk/id/eprint/1352."
+    },
+    {
+      "issue": "3",
+      "key": "r45",
+      "doi-asserted-by": "crossref",
+      "first-page": "490",
+      "DOI": "10.1016/j.asr.2013.11.038",
+      "volume": "53",
+      "author": "Morselli A.",
+      "year": "2013",
+      "journal-title": "Advances in Space Research"
+    }
+  ],
+  "container-title": [
+    "Journal of Guidance, Control, and Dynamics"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://arc.aiaa.org/doi/pdf/10.2514/1.G008629",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2025,
+        5,
+        12
+      ]
+    ],
+    "date-time": "2025-05-12T08:46:47Z",
+    "timestamp": 1747039607000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://arc.aiaa.org/doi/10.2514/1.G008629"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        4
+      ]
+    ]
+  },
+  "references-count": 27,
+  "journal-issue": {
+    "issue": "4",
+    "published-print": {
+      "date-parts": [
+        [
+          2025,
+          4
+        ]
+      ]
+    }
+  },
+  "alternative-id": [
+    "10.2514/1.G008629"
+  ],
+  "URL": "https://doi.org/10.2514/1.g008629",
+  "relation": {},
+  "ISSN": [
+    "0731-5090",
+    "1533-3884"
+  ],
+  "issn-type": [
+    {
+      "value": "0731-5090",
+      "type": "print"
+    },
+    {
+      "value": "1533-3884",
+      "type": "electronic"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2025,
+        4
+      ]
+    ]
+  },
+  "assertion": [
+    {
+      "value": "2024-07-08",
+      "order": 0,
+      "name": "received",
+      "label": "Received",
+      "group": {
+        "name": "publication_history",
+        "label": "Publication History"
+      }
+    },
+    {
+      "value": "2024-10-27",
+      "order": 2,
+      "name": "accepted",
+      "label": "Accepted",
+      "group": {
+        "name": "publication_history",
+        "label": "Publication History"
+      }
+    },
+    {
+      "value": "2025-02-26",
+      "order": 3,
+      "name": "published",
+      "label": "Published",
+      "group": {
+        "name": "publication_history",
+        "label": "Publication History"
+      }
+    }
+  ]
+}

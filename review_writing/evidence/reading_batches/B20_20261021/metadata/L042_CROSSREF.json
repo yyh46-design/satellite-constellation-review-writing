@@ -1,0 +1,419 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        2,
+        17
+      ]
+    ],
+    "date-time": "2026-02-17T18:10:45Z",
+    "timestamp": 1771351845311,
+    "version": "3.50.1"
+  },
+  "reference-count": 34,
+  "publisher": "American Institute of Aeronautics and Astronautics (AIAA)",
+  "issue": "1",
+  "content-domain": {
+    "domain": [
+      "arc.aiaa.org"
+    ],
+    "crossmark-restriction": true
+  },
+  "short-container-title": [
+    "Journal of Spacecraft and Rockets"
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2026,
+        1
+      ]
+    ]
+  },
+  "abstract": "<jats:p>This work tackles the problem of combining collision avoidance maneuvers with station-keeping planning in the geostationary regime when dealing with low-thrust propulsion systems. Firstly, a fast and reliable algorithm inverts the Chan collision probability function for a given threshold to a square Mahalanobis distance constraint. An analytical solution to the maneuver design problem for short-term encounters is attained by adopting a three-point boundary value problem to satisfy conditions on the collision probability and final desired state. The dynamics are framed in equinoctial orbital elements encompassing the [Formula: see text] term. They are specifically tailored to the motion of objects in this region, enabling a more straightforward station-keeping terminal state targeting and reducing the overall computational burden.</jats:p>",
+  "DOI": "10.2514/1.a36075",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2025,
+        10,
+        1
+      ]
+    ],
+    "date-time": "2025-10-01T11:31:11Z",
+    "timestamp": 1759318271000
+  },
+  "page": "203-217",
+  "update-policy": "https://doi.org/10.2514/aiaa_crossmarkpolicy",
+  "source": "Crossref",
+  "is-referenced-by-count": 1,
+  "title": [
+    "Combined Collision Avoidance and Station-Keeping Maneuver Optimization by Collision Probability Inversion"
+  ],
+  "prefix": "10.2514",
+  "volume": "63",
+  "author": [
+    {
+      "ORCID": "https://orcid.org/0000-0002-7882-5905",
+      "authenticated-orcid": false,
+      "given": "Andrea",
+      "family": "De Vittori",
+      "sequence": "first",
+      "affiliation": [
+        {
+          "name": "Politecnico di Milano"
+        }
+      ],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    },
+    {
+      "given": "Gabriele",
+      "family": "Dani",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Politecnico di Milano"
+        }
+      ],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    },
+    {
+      "given": "Alexia",
+      "family": "Cantoni",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Politecnico di Milano"
+        }
+      ],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0003-1692-3929",
+      "authenticated-orcid": false,
+      "given": "Pierluigi",
+      "family": "Di Lizia",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Politecnico di Milano"
+        }
+      ],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-3516-6428",
+      "authenticated-orcid": false,
+      "given": "Roberto",
+      "family": "Armellin",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "University of Auckland"
+        }
+      ],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    }
+  ],
+  "member": "1387",
+  "reference": [
+    {
+      "key": "r1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/s12567-024-00535-1"
+    },
+    {
+      "key": "r2",
+      "unstructured": "OfficeE. S. D. “ESA’s Annual Space Environment Report,” 2025, https://www.sdo.esoc.esa.int/environment_report/Space_Environment_Report_latest.pdf [retrieved 26 May 2025]."
+    },
+    {
+      "key": "r3",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.2514/1.A33898"
+    },
+    {
+      "key": "r4",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.2514/1.G006630"
+    },
+    {
+      "key": "r5",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Pérez LópezD.De VittoriA.Di LiziaP.MortariD. “Exploring Functional Connections Theory and Linearized Approaches in Collision Avoidance Maneuver Design: A Comparative Study,” International Astronautical Congress (IAC), International Astronautical Federation, Paris, France, 2024, pp. 1–10.",
+      "DOI": "10.52202/078360-0162"
+    },
+    {
+      "key": "r6",
+      "unstructured": "De VittoriA.OmodeiM.Di LiziaP.ArmellinR.GagoP.Torras RibellM.AntónJ.AntónD. “Numerically Efficient Low-Thrust Fuel-Optimal Collision Avoidance Maneuvers with Tangential Firing,” 2023 AAS/AIAA Astrodynamics Specialist Conference, American Astronautical Soc., Springfiled, VA, Aug. 2023, pp. 1–11."
+    },
+    {
+      "key": "r7",
+      "unstructured": "De VittoriA.DaniG.Di LiziaP.ArmellinR. “Low-Thrust Collision Avoidance Design for LEO Missions with Return to Nominal Orbit,” 33rd AAS/AIAA Space Flight Mechanics Meeting, American Astronautical Soc., Springfiled, VA, 2023."
+    },
+    {
+      "key": "r8",
+      "unstructured": "De VittoriA.DaniG.Di LiziaP.ArmellinR. “Numerically Efficient Low-Thrust Collision Avoidance Maneuver Design in Geo Regime with Equinoctial Orbital Elements,” 2nd ESA NEO and Debris Detection Conference, European Space Agency, Darmstadt, Germany, 2023, pp. 1–10."
+    },
+    {
+      "key": "r9",
+      "unstructured": "Gonzalo GomezJ.ColomboC.Di LiziaP. “A Semi-Analytical Approach to Low-Thrust Collision Avoidance Manoeuvre Design,” 70th International Astronautical Congress (IAC 2019), International Astronautical Federation, Paris, France, 2019, pp. 1–9."
+    },
+    {
+      "key": "r10",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.2514/1.G005547"
+    },
+    {
+      "key": "r11",
+      "unstructured": "ChamarroÁ. M.Belmonte HernándezC.ArmellinR. “Design of Collision Avoidance Maneuvers Using Optimal Control Theory and Convex Optimization,” 31st Space Flight Mechanics Meeting, American Astronautical Soc., Springfield, VA, 2021, pp. 1–12."
+    },
+    {
+      "key": "r12",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.2514/6.2024-0845"
+    },
+    {
+      "key": "r13",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/s42064-024-0227-3"
+    },
+    {
+      "key": "r14",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.2514/1.G007839"
+    },
+    {
+      "key": "r15",
+      "unstructured": "ZolloA.PavanelloZ.ArmellinR.DíazJ.SchleppB.KahleR. “Validation of a Fuel-Efficient Collision Avoidance Manoeuvre Optimiser for the GRACE-FO Mission,” International Astronautical Congress (IAC) 2024, International Astronautical Federation, Paris, France, 2024, pp. 1–10."
+    },
+    {
+      "key": "r16",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.2514/1.G008629"
+    },
+    {
+      "key": "r17",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.actaastro.2025.05.002"
+    },
+    {
+      "issue": "2",
+      "key": "r18",
+      "first-page": "1",
+      "author": "Pavanello Z.",
+      "year": "2024",
+      "journal-title": "IEEE Transactions on Aerospace and Electronic Systems"
+    },
+    {
+      "key": "r19",
+      "volume-title": "5th European Conference on Space Debris, European Space Agency (ESA)",
+      "volume": "5",
+      "author": "Lorda L.",
+      "year": "2009"
+    },
+    {
+      "key": "r20",
+      "unstructured": "CantoniA.De VittoriA.Di LiziaP.ArmellinR. “Numerically Efficient Methods for Low-Thrust Collision Avoidance Maneuver Design in GEO Regime,” Proceedings of the International Astronautical Congress (IAC 2022), International Astronautical Federation, Paris, France, 2022, pp. 1–10."
+    },
+    {
+      "key": "r21",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.ifacol.2016.09.065"
+    },
+    {
+      "key": "r22",
+      "doi-asserted-by": "crossref",
+      "unstructured": "LosaD.LoveraM.DraiR.DargentT.AmalricJ. “Electric Station Keeping of Geostationary Satellites: A Differential Inclusion Approach,” 44th IEEE Conference on Decision and Control, Inst. of Electrical and Electronics Engineers, New York, 2005, pp. 7484–7489. 10.1109/CDC.2005.1583369",
+      "DOI": "10.1109/CDC.2005.1583369"
+    },
+    {
+      "key": "r23",
+      "unstructured": "ColomboC.De VittoriA.OmodeiM.GonzaloJ. L.MaestriniM.Di LiziaP.GagoP.Torras RibellM.GallegoA.EscobarD.et al. “Sensitivity Analysis of Collision Avoidance Maneuver with Low-Thrust Propulsion,” European Conference for Aeronautics and Space Sciences (EUCASS), 2023. 10.13009/EUCASS2023-061"
+    },
+    {
+      "key": "r24",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/s10569-013-9526-3"
+    },
+    {
+      "key": "r25",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.2514/1.G005547"
+    },
+    {
+      "key": "r26",
+      "unstructured": "ChanK. “Comparison of Methods for Spacecraft Collision Probability Computations,” Proceedings of the International Space Conference of Pacific-Basin Societies (ISCOPS), American Astronautical Soc., Springfield, VA, 2020."
+    },
+    {
+      "key": "r27",
+      "unstructured": "MontenbruckO.GillE., Satellite Orbits: Models, Methods and Applications, 1st ed., Springer–Verlag, Berlin, 2013, pp. 11–28. 10.1007/978-3-642-58351-3"
+    },
+    {
+      "key": "r28",
+      "unstructured": "GazzinoC. “Dynamics of a Geostationary Satellite,” Rapport LAAS No. 17432, Laboratoire d’Analyse et d’Architecture des Systèmes (LAAS), Centre National de la Recherche Scientifique (CNRS), Université de Toulouse, Toulouse, France, 2017, https://hal.archives-ouvertes.fr/hal-01644934."
+    },
+    {
+      "key": "r29",
+      "unstructured": "KhanM. A.WoollardG. P., A Review of the Perturbation Theory as Applied to the Determination of Geopotential (CR HIG-68-1), Hawaii Univ., 1968, p. 9, https://ntrs.nasa.gov/search.jsp?R=19680012308."
+    },
+    {
+      "key": "r30",
+      "unstructured": "SoopE., Handbook of Geostationary Orbits, 1st ed., Springer, Dordrecht, The Netherlands, Dec. 2010, pp. 286–287. 10.1007/978-90-481-4454-9"
+    },
+    {
+      "key": "r31",
+      "unstructured": "ChachuatB., Nonlinear and Dynamic Optimization: From Theory to Practice. Rapport IC-32, Laboratoire d’Automatique, École Polytechnique Fédérale de Lausanne (EPFL), Lausanne, Switzerland, 2007, http://lawww.epfl.ch/page4234.html."
+    },
+    {
+      "key": "r32",
+      "unstructured": "ESA, “Collision Avoidance Challenge,” https://kelvins.esa.int/collision-avoidance-challenge/data/ [retrieved 02-March-2021]."
+    },
+    {
+      "key": "r33",
+      "unstructured": "ArmellinR. “ Github,” 2020, https://github.com/arma1978/conjunction/."
+    },
+    {
+      "key": "r34",
+      "unstructured": "LaporteF. “JAC Software, Solving Conjunction Assessment Issues,” Proceedings of the Advanced Maui Optical and Space Surveillance Technologies Conference, edited by RyanS., Advanced Maui Optical and Space Surveillance Technologies Conference, Curran Assoc., Red Hook, NY, 2014, p. E4, https://amostech.com/TechnicalPapers/2014/Conjunction_Assessment/LAPORTE.pdf."
+    }
+  ],
+  "container-title": [
+    "Journal of Spacecraft and Rockets"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://arc.aiaa.org/doi/pdf/10.2514/1.A36075",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2026,
+        2,
+        17
+      ]
+    ],
+    "date-time": "2026-02-17T17:32:39Z",
+    "timestamp": 1771349559000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://arc.aiaa.org/doi/10.2514/1.A36075"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        1
+      ]
+    ]
+  },
+  "references-count": 34,
+  "journal-issue": {
+    "issue": "1",
+    "published-print": {
+      "date-parts": [
+        [
+          2026,
+          1
+        ]
+      ]
+    }
+  },
+  "alternative-id": [
+    "10.2514/1.A36075"
+  ],
+  "URL": "https://doi.org/10.2514/1.a36075",
+  "relation": {},
+  "ISSN": [
+    "0022-4650",
+    "1533-6794"
+  ],
+  "issn-type": [
+    {
+      "value": "0022-4650",
+      "type": "print"
+    },
+    {
+      "value": "1533-6794",
+      "type": "electronic"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2026,
+        1
+      ]
+    ]
+  },
+  "assertion": [
+    {
+      "value": "2024-03-22",
+      "order": 0,
+      "name": "received",
+      "label": "Received",
+      "group": {
+        "name": "publication_history",
+        "label": "Publication History"
+      }
+    },
+    {
+      "value": "2025-07-11",
+      "order": 2,
+      "name": "accepted",
+      "label": "Accepted",
+      "group": {
+        "name": "publication_history",
+        "label": "Publication History"
+      }
+    },
+    {
+      "value": "2025-10-01",
+      "order": 3,
+      "name": "published",
+      "label": "Published",
+      "group": {
+        "name": "publication_history",
+        "label": "Publication History"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "source_id": "E-B20-L063",
+  "pool_id": "L063",
+  "title": "Optimal Satellite-Formation Collision-Avoidance Maneuver Based on Relative E/I Vectors",
+  "actual_title_aliases": [],
+  "identifier": "10.1061/(asce)as.1943-5525.0000642",
+  "authors": "Xiaowei Shao; Jihe Wang; Dexin Zhang; Junli Chen",
+  "bibliographic_year": 2016,
+  "actual_version": "10-page 2016 publisher-layout article publicly uploaded by coauthor; J. Aerospace Engineering29(6):04016048",
+  "canonical_url": "https://doi.org/10.1061/(asce)as.1943-5525.0000642",
+  "acquisition_url": "https://www.researchgate.net/profile/Jihe-Wang/publication/304030214_Optimal_Satellite-Formation_Collision-Avoidance_Maneuver_Based_on_Relative_EI_Vectors/links/5a6848f44585159da0db01e6/Optimal-Satellite-Formation-Collision-Avoidance-Maneuver-Based-on-Relative-E-I-Vectors.pdf",
+  "source_format": "REMOTE_PUBLIC_PDF_TEXT_CAPTURE",
+  "pdf_pages": 10,
+  "local_text_capture_sha256": "986cf2fe7167ded8cba3d39157a3245a7d0c94d1fb0fd659ca1c0a0614641c9c",
+  "source_pdf_sha256": null,
+  "source_pdf_byte_identity_verified": false,
+  "adoption_status": "CANDIDATE_AFTER_HUMAN_REVIEW",
+  "human_verified": false,
+  "formal_version_text_compared": false,
+  "crossref_file": "L063_CROSSREF.json",
+  "source_limitations": [
+    "读者判断：安全参数属于终态被动相对轨道的几何性质，不是碰撞概率，也不是对整个机动区间全部距离的硬约束；终态安全与机动途中的安全需要分别检查。",
+    "读者判断：保持相对倾角向量不变、两体近似和两脉冲构造限制了最优性结论的适用范围；机动时间不是这里优化的决策变量，不能直接推出紧急时限可行。",
+    "读者判断：多星几何可行域的说明不等于已验证多主动星协商协议；数值案例不能作为大规模分布式安全控制的证据。公式与图形尚未图像核查，未独立复现Newton迭代。"
+  ],
+  "pool_title_preserved_in_original_register": "Optimal Satellite-Formation Collision-Avoidance Maneuver Based on Relative E/I Vectors"
+}
