@@ -1,0 +1,50 @@
+[
+  {
+    "source_id": "E082",
+    "title": "Satellite closest approach calculation through Chebyshev Proxy Polynomials",
+    "actual_version": "author_accepted_manuscript_public_HTML_2020-06-07",
+    "original_manifest": "review_writing/evidence/reading_batches/B07_20261016/SOURCE_MANIFEST_B07.json",
+    "reading_note": "review_writing/evidence/reading_batches/B07_20261016/READING_NOTES_082.md",
+    "source_url": "https://www.researchgate.net/publication/338609111_Satellite_Closest_Approach_Calculation_Through_Chebyshev_Proxy_Polynomials",
+    "local_original_path": null,
+    "sha256": null,
+    "current_scope": "Prior targeted body records reused; source identity and reading note checked; local PDF title page inspected where available; no new full-paper reading or version pairing",
+    "human_verified": false
+  },
+  {
+    "source_id": "E084",
+    "title": "Performance Investigation of the Conjunction Filter Methods and Enhancement of Computation Speed on Conjunction Assessment Analysis with CUDA Techniques",
+    "actual_version": "publisher_version_MDPI",
+    "original_manifest": "review_writing/evidence/reading_batches/B07_20261016/SOURCE_MANIFEST_B07.json",
+    "reading_note": "review_writing/evidence/reading_batches/B07_20261016/READING_NOTES_084.md",
+    "source_url": "https://www.mdpi.com/2226-4310/10/6/543",
+    "local_original_path": "D:\\SKT727\\materials\\constellation_review_B02_20261015\\084_local_existing.pdf",
+    "sha256": "0f359de7fc7eaf34b9e104716e0046584213ea3f0354a337ddaeb0dac66473c7",
+    "current_scope": "Prior targeted body records reused; source identity and reading note checked; local PDF title page inspected where available; no new full-paper reading or version pairing",
+    "human_verified": false
+  },
+  {
+    "source_id": "E086",
+    "title": "CAMmary: A review of spacecraft collision avoidance manoeuvre design methods",
+    "actual_version": "author_preprint_arxiv_2503.22555v1_2025-03-28",
+    "original_manifest": "review_writing/evidence/reading_batches/B07_20261016/SOURCE_MANIFEST_B07.json",
+    "reading_note": "review_writing/evidence/reading_batches/B07_20261016/READING_NOTES_086.md",
+    "source_url": "https://arxiv.org/pdf/2503.22555",
+    "local_original_path": "D:\\SKT727\\materials\\constellation_review_B04_20261015\\086_next.pdf",
+    "sha256": "9b2e1c032b9b99cfb88530ed54cbbfb47c4880f36740d24a1e5ddf2e91377a31",
+    "current_scope": "Prior targeted body records reused; source identity and reading note checked; local PDF title page inspected where available; no new full-paper reading or version pairing",
+    "human_verified": false
+  },
+  {
+    "source_id": "E087",
+    "title": "Spacecraft collision avoidance challenge: Design and results of a machine learning competition",
+    "actual_version": "author_preprint_requested_arxiv_v1_with_internal_date_mismatch",
+    "original_manifest": "review_writing/evidence/reading_batches/B07_20261016/SOURCE_MANIFEST_B07.json",
+    "reading_note": "review_writing/evidence/reading_batches/B07_20261016/READING_NOTES_087.md",
+    "source_url": "https://arxiv.org/pdf/2008.03069v1",
+    "local_original_path": "D:\\SKT727\\materials\\constellation_review_B02_20261015\\087_arxiv_v1.pdf",
+    "sha256": "85fb56bdc051d54976d4dd446bef0ed4d2198ddf1a1242878b364d53bc6d49fd",
+    "current_scope": "Prior targeted body records reused; source identity and reading note checked; local PDF title page inspected where available; no new full-paper reading or version pairing",
+    "human_verified": false
+  }
+]

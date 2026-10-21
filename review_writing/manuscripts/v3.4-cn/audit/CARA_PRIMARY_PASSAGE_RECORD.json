@@ -1,0 +1,41 @@
+{
+  "source_id": "E-CARA-PROCESS",
+  "resource_kind": "three official CARA process webpages grouped as one reference resource",
+  "access_date": "2026-10-21",
+  "method": "Live official webpage body read through web tool; NASA numeric thresholds not adopted as universal policy",
+  "original_files_or_raw_fulltext_committed": false,
+  "new_paper_read_count": 0,
+  "claims": [
+    {
+      "claim_id": "V34-CARA-001",
+      "source_id": "E-CARA-PROCESS",
+      "url": "https://www.nasa.gov/cara/step-1-conjunction-event-prediction/",
+      "locator": "Main body paragraphs 1-4",
+      "claim_text_sha256": "96e042ee1c3e29edd96488d2491d536ddf993cf5dd11fafdfffd3950bbe3cc76",
+      "author_paraphrase": "筛查与CDM提供预测接近提示，仍需后续风险评估。",
+      "verification_state": "AI_OFFICIAL_BODY_READ_HUMAN_PENDING",
+      "human_verified": false
+    },
+    {
+      "claim_id": "V34-CARA-002",
+      "source_id": "E-CARA-PROCESS",
+      "url": "https://www.nasa.gov/cara/step-2-close-approach-risk-assessment/",
+      "locator": "Main body paragraphs 1-2 and final paragraph",
+      "claim_text_sha256": "f1a4566e46cc0cec8e847365846d4603d9ec27576617cf996c86a9dcbc352e66",
+      "author_paraphrase": "风险评估区分几何接近与风险，使用预测不确定性并接入缓解规划。",
+      "verification_state": "AI_OFFICIAL_BODY_READ_HUMAN_PENDING",
+      "human_verified": false
+    },
+    {
+      "claim_id": "V34-CARA-003",
+      "source_id": "E-CARA-PROCESS",
+      "url": "https://www.nasa.gov/cara/step-3-close-approach-risk-mitigation/",
+      "locator": "Main body paragraphs 1-3, especially final paragraph",
+      "claim_text_sha256": "8dc34dc66fd1a45d27c837f9fec8cfc79df505cbc63e743912bc4d98267dd317",
+      "author_paraphrase": "提前动作、等待风险更新和承诺时刻有不同条件；拟定机动星历在执行前送目录筛查。",
+      "verification_state": "AI_OFFICIAL_BODY_READ_HUMAN_PENDING",
+      "human_verified": false
+    }
+  ],
+  "human_verified": false
+}

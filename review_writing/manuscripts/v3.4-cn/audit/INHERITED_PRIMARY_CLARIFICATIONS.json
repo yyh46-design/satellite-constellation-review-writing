@@ -1,0 +1,29 @@
+[
+  {
+    "observation_id": "R33-OBS-001",
+    "reading_id": "S011",
+    "source_id": "E-B14-S011",
+    "physical_pages": [
+      5,
+      6,
+      11
+    ],
+    "old_reading_claim_affected": "C-B14-003",
+    "finding": "The failure discussion concerns the multi-agent Sun/sensor keep-out constraint. Pairwise geometric collision separation is a separate constraint. Do not attribute every decentralized failure to pairwise collisions.",
+    "treatment": "Use C-B14-001/002 plus current primary-page clarification; exclude broad interpretation of C-B14-003 from revised prose",
+    "historical_note_modified": false,
+    "human_verified": false
+  },
+  {
+    "observation_id": "R33-OBS-002",
+    "reading_id": "S051",
+    "source_id": "E-B18-S051",
+    "physical_pages": [
+      29,
+      30
+    ],
+    "finding": "Engine-failure scenario assumes an alert message reaches chief and healthy deputy, triggering immediate response.",
+    "treatment": "Retain this information premise in3.6.3; no arbitrary loss-of-communication guarantee",
+    "human_verified": false
+  }
+]

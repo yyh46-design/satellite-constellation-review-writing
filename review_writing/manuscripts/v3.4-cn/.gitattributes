@@ -1,0 +1,3 @@
+* -text
+# Unified diff context lines begin with a space.
+audit/*.diff whitespace=-blank-at-eol

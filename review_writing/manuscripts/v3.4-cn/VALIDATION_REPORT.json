@@ -1,0 +1,109 @@
+{
+  "status": "PASS",
+  "date": "2026-10-21",
+  "scope": "Five-chapter structure, references, adoption accounting, provenance pointers and file integrity",
+  "human_verified": false,
+  "submission_ready": false,
+  "checks": [
+    {
+      "check": "agreed_structure",
+      "pass": true,
+      "detail": "Five chapters and agreed three-part orbital chain; algorithm foundation retained"
+    },
+    {
+      "check": "reference_register",
+      "pass": true,
+      "detail": "90 bibliography entries match unique stable IDs and exact text"
+    },
+    {
+      "check": "citation_order_and_coverage",
+      "pass": true,
+      "detail": "First appearance order 1..90, with no dangling or uncited bibliography entry"
+    },
+    {
+      "check": "reference_migration",
+      "pass": true,
+      "detail": "72 retained + 18 added = 90; eight V3.3 entries remain in history"
+    },
+    {
+      "check": "actual_reading_adoption",
+      "pass": true,
+      "detail": "97 recent reading records reconciled; 25 cited, including 13 newly used in this draft"
+    },
+    {
+      "check": "tables",
+      "pass": true,
+      "detail": "Eight consecutive table titles"
+    },
+    {
+      "check": "table_columns",
+      "pass": true,
+      "detail": "Eight complete Markdown tables with consistent columns"
+    },
+    {
+      "check": "inherited_figures",
+      "pass": true,
+      "detail": "Four inherited draft PNGs retain their bytes; scientific figure review remains open"
+    },
+    {
+      "check": "passage_evidence",
+      "pass": true,
+      "detail": {
+        "exact_passages": 44,
+        "errors": [],
+        "scope": "Text hashes, line pointers and existing source-bound claim IDs only"
+      }
+    },
+    {
+      "check": "revision_operations",
+      "pass": true,
+      "detail": "44 passage records and 47 distinct editorial/structural operations"
+    },
+    {
+      "check": "preserved_baselines",
+      "pass": true,
+      "detail": {
+        "files": 756,
+        "mismatches": []
+      }
+    },
+    {
+      "check": "available_primary_artifacts",
+      "pass": true,
+      "detail": {
+        "recent_sources": 25,
+        "errors": [],
+        "scope": "Local artifact hashes, not scientific sign-off or new readings"
+      }
+    },
+    {
+      "check": "honest_status",
+      "pass": true,
+      "detail": "Working draft; no human approval, new experiments, new independent reading or seven-chapter adoption claimed"
+    },
+    {
+      "check": "change_scope",
+      "pass": true,
+      "detail": "Only the new V3.4 directory is changed"
+    },
+    {
+      "check": "no_primary_fulltext_in_release",
+      "pass": true,
+      "detail": {
+        "forbidden_files": []
+      }
+    },
+    {
+      "check": "text_bytes",
+      "pass": true,
+      "detail": "LF bytes retained for stable evidence hashes"
+    },
+    {
+      "check": "local_markdown_links",
+      "pass": true,
+      "detail": {
+        "broken": []
+      }
+    }
+  ]
+}

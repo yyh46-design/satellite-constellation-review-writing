@@ -1,0 +1,1611 @@
+[
+  {
+    "record_id": "V34-P001",
+    "section": "版本",
+    "granularity": "change",
+    "reason": "依据最新共享讨论校正；V3.3保持不变",
+    "claim_ids": [],
+    "claim_kind": "EDITORIAL_OR_STRUCTURAL_CHANGE",
+    "human_verified": false,
+    "source_ids": [],
+    "after_text": "**v3.4-CN · 2026-10-21 · 轨道动力学与运行决策整合稿；作者审阅版**",
+    "after_text_sha256": "cf90661e3382ac311edc9029692dca555167575b748f308dd67f707a734c11c7",
+    "before_text_v33_or_stable_ids": "**v3.3-CN · 2026-10-21 · 多星协同安全与任务恢复增补稿；作者审阅版**",
+    "manuscript_start_line": 5
+  },
+  {
+    "record_id": "V34-P002",
+    "section": "3.6.1",
+    "granularity": "passage",
+    "claim_ids": [
+      "C-B20-006",
+      "C-B20-007",
+      "C-B20-008"
+    ],
+    "claim_kind": "SOURCE_BOUNDED_COMPARISON_WITH_INHERITED_E016",
+    "human_verified": false,
+    "source_ids": [
+      "E-B20-L024",
+      "E016"
+    ],
+    "after_text": "构型管理需要区分长期设计、正常维持和需求变化后的重构。部署感知设计[59]限定初始配置何时能够形成；运行中的维持与重构则根据当前轨道、目标几何和可用动作决定怎样调整。相同终态构型可以对应不同成员分配和转移代价，解析转移代价可作为上层分配的输入[29]，但开放时间脉冲模型中的分配结果仍需连接有时限、控制界及全程安全条件的执行检查。",
+    "after_text_sha256": "e566912e884a6afb5587fa17dceb8742a4c0060d1992f2d0706cee29231499e5",
+    "manuscript_start_line": 275
+  },
+  {
+    "record_id": "V34-P003",
+    "section": "3.6.1",
+    "granularity": "passage",
+    "claim_ids": [
+      "C-B11-001",
+      "C-B11-002",
+      "C-B11-006",
+      "C-B11-007",
+      "C-B11-008"
+    ],
+    "claim_kind": "SOURCE_BOUNDED_SYNTHESIS",
+    "human_verified": false,
+    "source_ids": [
+      "E-B11-L005",
+      "E-B11-L012"
+    ],
+    "after_text": "差异阻力通过改变迎风面积调整相对漂移，姿态同时影响发电和任务可用性。Kim和Yoon把阻力面积与发电投影面积共同纳入姿态选择，并根据电池状态及日照切换调相与充电；其验证单元是两星关键星对[21]。S-NET规划进一步把通信、值守和其他活动的影响归入运行可用率；多个星对共享参考星时，还需通过启动延迟同步高低阻力切换[8]。后者给出的是规划与未来演示建议，不能据真实星座名称将该新序列写成已完成的在轨控制。",
+    "after_text_sha256": "3ecfe115fe62bbe43a609d275bd8da72b69a304866af7e4690fbae7cfd43b772",
+    "manuscript_start_line": 277
+  },
+  {
+    "record_id": "V34-P004",
+    "section": "3.6.1",
+    "granularity": "passage",
+    "claim_ids": [
+      "C-B12-009",
+      "C-B12-010",
+      "C-B12-011",
+      "C-B12-012"
+    ],
+    "claim_kind": "SOURCE_BOUNDED_SYNTHESIS",
+    "human_verified": false,
+    "source_ids": [
+      "E-B12-L022"
+    ],
+    "after_text": "低推力重构还可以改变未来任务机会。McGrath和Macdonald先生成升降轨、滑行和恢复组成的候选，再根据响应时间、控制代价及地面目标距离选择参与卫星[7]。24星案例把轨道动作与观测需求联系起来，但燃料均衡会增加总控制代价和完成时间，恢复全局观测模式后也未完全恢复原有轨道面内几何。这说明应同时记录任务机会、成员消耗和保留的构型偏差，不能只按某项平均覆盖改善评价重构。",
+    "after_text_sha256": "35be979dd39a9b45a69e2694e96054312b7b9b45442be2f475a21668b0b905ad",
+    "manuscript_start_line": 279
+  },
+  {
+    "record_id": "V34-P005",
+    "section": "3.6.1",
+    "granularity": "passage",
+    "claim_ids": [
+      "C-B16-015",
+      "C-B16-016",
+      "C-B13-039",
+      "C-B13-040",
+      "C-B13-041",
+      "C-B13-043"
+    ],
+    "claim_kind": "SOURCE_BOUNDED_SYNTHESIS",
+    "human_verified": false,
+    "source_ids": [
+      "E-B13-S010",
+      "E-B16-S034"
+    ],
+    "after_text": "重构的分散求解需要明确共享的是当前状态还是未来轨迹。Pippia等用模型预测控制（model predictive control，MPC）比较两类邻星信息，在部分成员离轨后重新形成等间隔构型；其35星重构模型未加入避碰约束[49]。Pedari等则将任务构型、成员指派、轨迹与执行接管分层处理，10星闭环仿真与50星指派计算属于不同验证范围，终端通信可靠性也未被强制保持于整个机动过程[60]。两例分别支持信息组织和层间交接分析，不构成相同条件下的安全性或规模排名。",
+    "after_text_sha256": "2a0da7b16737323845fb249d3c65dac0cc3dd0373e9944738760904af714cef5",
+    "manuscript_start_line": 281
+  },
+  {
+    "record_id": "V34-P006",
+    "section": "3.6.2",
+    "granularity": "passage",
+    "claim_ids": [
+      "V34-CARA-001",
+      "V34-CARA-002"
+    ],
+    "claim_kind": "SOURCE_BOUNDED_SYNTHESIS",
+    "human_verified": false,
+    "source_ids": [
+      "E-CARA-PROCESS"
+    ],
+    "after_text": "接近处置首先要分清计算的产物。几何筛查产生需要进一步检查的对象或事件；最近接近时刻（TCA）及距离计算描述预测几何；风险评估再使用状态不确定性等信息判断碰撞可能性。NASA CARA流程明确区分接近提示、风险评估及后续缓解规划[22]。因此，目录中筛出一个近距离对象，不直接等于已达到机动条件；降低筛查耗时也不能直接表述为碰撞风险下降。",
+    "after_text_sha256": "ea6ed66d09fe145454a580508e87f9e288c4f93880e22738cfb6df50be97ae2c",
+    "manuscript_start_line": 285
+  },
+  {
+    "record_id": "V34-P007",
+    "section": "3.6.2",
+    "granularity": "passage",
+    "claim_ids": [
+      "B07-082-C01",
+      "B07-082-C04",
+      "B07-082-C06",
+      "B07-084-C01",
+      "B07-084-C02",
+      "B07-084-C03"
+    ],
+    "claim_kind": "SOURCE_BOUNDED_SYNTHESIS",
+    "human_verified": false,
+    "source_ids": [
+      "E082",
+      "E084"
+    ],
+    "after_text": "在几何计算环节，Denenberg用Chebyshev代理多项式定位TCA及相应距离，所读接受稿的评估采用SGP4传播，其产物仍是接近几何[61]。Saingyen等把多种筛查条件与CUDA计算的数据组织相结合，减少需要精算的候选并处理内存负担[62]。比较这类方法应保留传播模型、分段或步长、阈值及复核参照；同输入算法间的距离一致性不能替代真实轨道误差或概率风险校准。",
+    "after_text_sha256": "4bb26a8e0e57f51def722a12a5d605feeccf3d8cfb8737176a677e1a27bbe5c6",
+    "manuscript_start_line": 287
+  },
+  {
+    "record_id": "V34-P008",
+    "section": "3.6.2",
+    "granularity": "passage",
+    "claim_ids": [
+      "C-B11-013",
+      "C-B11-016",
+      "B07-087-C01",
+      "B07-087-C02",
+      "B07-087-C03"
+    ],
+    "claim_kind": "SOURCE_BOUNDED_SYNTHESIS",
+    "human_verified": false,
+    "source_ids": [
+      "E-B11-L025",
+      "E087"
+    ],
+    "after_text": "已有事件还可以分流。Henry等根据接近数据消息（CDM）的特征，以降维、聚类和集成投票剪除部分低风险事件；该算法没有生成机动，训练集中的危险事件浓度条件也未给出测试集假阴性上界[36]。ESA竞赛研究则提示，评分、稀有事件采样及临近接近时刻的风险变化都会影响预测评价[37]。运行决策需要把被保留的事件送往后续分析，并说明漏报和新信息怎样触发重新评估。",
+    "after_text_sha256": "efb6ec1e456efdb56891760843749513a34faa547fc667693aaa954c156c779e",
+    "manuscript_start_line": 289
+  },
+  {
+    "record_id": "V34-P009",
+    "section": "3.6.2",
+    "granularity": "passage",
+    "claim_ids": [
+      "C-B11-021",
+      "C-B11-022",
+      "C-B11-023",
+      "C-B12-018",
+      "C-B20-026",
+      "C-B11-038"
+    ],
+    "claim_kind": "SOURCE_BOUNDED_SYNTHESIS",
+    "human_verified": false,
+    "source_ids": [
+      "E-B11-L041",
+      "E-B11-L059",
+      "E-B12-L047",
+      "E-B20-L050"
+    ],
+    "after_text": "风险量还应与时间范围一起解释。Wen和Qiao在固定初始误差空间计算给定时间段内的碰撞事件，避免同一偏差轨迹重复计入；其当前数值方法受随机变量维数和线性确定性动力学限制[63]。长期机动研究采用的瞬时概率约束[27,64]以及多次接近研究在不相关事件假设下组合的风险[65]，处理的事件并不相同。综述可以比较这些定义和前提，不能跨时间范围移用同一阈值，也不能把逐节点瞬时量自动改名为全时段累计碰撞概率。",
+    "after_text_sha256": "10c938094d7b7113ff97e28e75d673b0d60fa3704bfea0bb628da3c689d23a45",
+    "manuscript_start_line": 291
+  },
+  {
+    "record_id": "V34-P010",
+    "section": "3.6.2",
+    "granularity": "passage",
+    "claim_ids": [
+      "V34-CARA-003"
+    ],
+    "claim_kind": "SOURCE_BOUNDED_OPERATIONAL_SYNTHESIS",
+    "human_verified": false,
+    "source_ids": [
+      "E-CARA-PROCESS"
+    ],
+    "after_text": "等待信息更新与提前采取措施也有代价差异。CARA流程讨论了提前机动的燃料机会、风险随信息更新下降的可能性，以及承诺执行前的再次判断[22]。据此，运行层应同时考虑风险信息时效、剩余动作能力和任务期限；“等待”只有在仍保留适用处置机会时才是候选行动。具体触发条件与批准权随任务确定，本文不提出适用于所有运营者的统一机动阈值。",
+    "after_text_sha256": "ae30fc31a43ca601055d7d263d4c109942364eb8e2f401e6e0e3f3e8e02f7bcd",
+    "manuscript_start_line": 293
+  },
+  {
+    "record_id": "V34-P011",
+    "section": "3.6.3",
+    "granularity": "passage",
+    "claim_ids": [
+      "C-B11-030",
+      "C-B11-031",
+      "C-B12-020",
+      "C-B12-021"
+    ],
+    "claim_kind": "SOURCE_BOUNDED_SYNTHESIS",
+    "human_verified": false,
+    "source_ids": [
+      "E-B11-L046",
+      "E-B12-L047"
+    ],
+    "after_text": "避碰方案的比较应先说明允许改变哪些动作。Pavanello等针对正在执行的低推力轨迹，分别改变关机时长、控制矢量偏差或方向夹角，部分策略通过终端软约束接回名义轨迹；关机策略的后续恢复求解不在该文范围内[66]。长期避碰与保持研究[64]将轨道框及名义状态目标接入连续控制优化，加入保持要求会改变控制方向和代价。恢复目标是否可松弛，以及剩余时间是否足以到位，应随控制代价一并报告。",
+    "after_text_sha256": "8d39344a86e7e5a4d64050203b2a142bec1341705aec1c23aa0b27d8aef0e62b",
+    "manuscript_start_line": 297
+  },
+  {
+    "record_id": "V34-P012",
+    "section": "3.6.3",
+    "granularity": "passage",
+    "claim_ids": [
+      "C-B20-011",
+      "C-B20-012",
+      "C-B20-015",
+      "C-B11-038",
+      "C-B11-040"
+    ],
+    "claim_kind": "VERSION_BOUNDED_COMPARISON",
+    "human_verified": false,
+    "source_ids": [
+      "E-B11-L059",
+      "E-B20-L042"
+    ],
+    "after_text": "短时避碰和后续保持也可以通过终态条件联结。De Vittori等所读作者稿将碰撞概率条件反演为几何约束，并联合处理接近与终态保持[67]。该稿一组GEO算例的文字说明报告，纬度在机动中途可能超过边界以匹配终态，提示终态恢复与全程在框内是不同要求；相关判断限于所读预印稿，不归作正式版已核结论。多次接近优化进一步让单次控制影响后续事件和风险预算，但其一主动星对多个被动目标的设置不提供多运营者责任协议[65]。",
+    "after_text_sha256": "a1b247eab1eda82baade782b9c4c190029e9e1e5cf63b2a2ff8dbf3cfa43eba0",
+    "manuscript_start_line": 299
+  },
+  {
+    "record_id": "V34-P013",
+    "section": "3.6.3",
+    "granularity": "passage",
+    "claim_ids": [
+      "C-B17-030",
+      "C-B17-031",
+      "C-B17-032",
+      "C-B14-006",
+      "C-B14-007"
+    ],
+    "claim_kind": "SOURCE_BOUNDED_SYNTHESIS",
+    "human_verified": false,
+    "source_ids": [
+      "E-B14-S012",
+      "E-B17-S047"
+    ],
+    "after_text": "多个主动成员则需要共同检查内部与外部安全。Błażejczyk和Zagórski在三星例中联合选择控制，同时约束碎片禁入区域、星间距离和终端构型，未直接受威胁的成员也可能需要配合[6]。预先分配被动相对轨道走廊的MPC[68]把部分冲突处理前移到任务设计阶段，其空间结构、采样和扰动条件与任意构型下在线联合求解不同。优化中分阶段加入约束是形成最终方案的求解过程，不是允许飞行先违反内部安全要求。",
+    "after_text_sha256": "ea97bd8f4c3647eda0977c6e38ea129c3d97946c881a6ff33304c13eebd9a04e",
+    "manuscript_start_line": 301
+  },
+  {
+    "record_id": "V34-P014",
+    "section": "3.6.3",
+    "granularity": "passage",
+    "claim_ids": [
+      "C-B13-026",
+      "C-B13-027",
+      "C-B18-001",
+      "C-B18-005",
+      "R33-OBS-002"
+    ],
+    "claim_kind": "SOURCE_BOUNDED_SYNTHESIS",
+    "human_verified": false,
+    "source_ids": [
+      "E-B13-S007",
+      "E-B18-S051"
+    ],
+    "after_text": "失去控制后的分离还需要单列。被动安全规划[28]为规定恢复窗口保留无控漂移间距；Scala等[69]则在一星失控后，由健康成员转入安全螺旋构型，且假定故障告警能够传到相关成员。它们分别处理等待接管的安全余量和健康成员的主动重构，不等于故障功能恢复，也不等于原观测基线已重新可用。恢复后的轨道和功能状态还须进入任务规划，才能评价原业务是否继续；具体运行证据见4.4。",
+    "after_text_sha256": "84cfd97a1c831ccd341d35b0eb202cdf925c76d51176b91e7b3020b15b70d215",
+    "manuscript_start_line": 303
+  },
+  {
+    "record_id": "V34-P015",
+    "section": "表5",
+    "granularity": "passage",
+    "claim_ids": [
+      "C-B11-001",
+      "C-B11-007",
+      "C-B12-009",
+      "C-B20-008",
+      "C-B16-015",
+      "B07-082-C06",
+      "B07-084-C01",
+      "C-B11-013",
+      "C-B11-021",
+      "C-B11-031",
+      "C-B12-020",
+      "C-B20-011",
+      "C-B11-038",
+      "C-B17-031",
+      "C-B13-026",
+      "C-B18-001"
+    ],
+    "claim_kind": "AUTHOR_COMPARISON_TABLE",
+    "human_verified": false,
+    "source_ids": [
+      "E-B11-L005",
+      "E-B11-L012",
+      "E-B11-L025",
+      "E-B11-L041",
+      "E-B11-L046",
+      "E-B11-L059",
+      "E-B12-L022",
+      "E-B12-L047",
+      "E-B13-S007",
+      "E-B16-S034",
+      "E-B17-S047",
+      "E-B18-S051",
+      "E-B20-L024",
+      "E-B20-L042",
+      "E082",
+      "E084"
+    ],
+    "after_text": "**表5 轨道运行决策链中的方法产物与交接条件**\n\n| 环节及代表证据 | 算法实际产生什么 | 下一环节需要什么 | 比较时保留的边界 |\n|---|---|---|---|\n| 维持与调相[8,21] | 姿态、高低阻力及切换安排 | 能源、姿态可用性与共同切换确认 | 星对仿真与未来演示规划分开 |\n| 重构及成员分配[7,29,49] | 参与卫星、目标位置、候选转移或相位控制 | 转移时限、控制界和全程安全检查 | 业务响应、代价计算和构型重构规模分别说明 |\n| 几何筛查及TCA[61,62] | 候选对象、接近时刻及距离 | 状态不确定性和后续风险评估 | 几何结果不是碰撞概率 |\n| 事件分流及风险判断[36,63] | 保留事件或给定定义下的风险量 | 更新信息、动作能力及触发规则 | 漏报、概率语义和时间范围分别说明 |\n| 机动与保持[64,66,67] | 控制序列、终态及可能的松弛残差 | 实际执行、转移复核及新的任务机会 | 软恢复目标、终端满足与全程约束分开 |\n| 多事件及多主动成员[6,65] | 多事件预算或联合成员控制 | 次生风险筛查、责任及方案共享 | 多被动目标不等于多主动运营者 |\n| 失控分离与重构[28,69] | 安全漂移窗口或健康成员新构型 | 接管、功能确认及业务重排 | 安全状态不等于原功能或任务完成 |",
+    "after_text_sha256": "1f3cd7e4077282e400387c0f849cbbd97bc3734f5e384d2578029ffb0c52077a",
+    "manuscript_start_line": 305
+  },
+  {
+    "record_id": "V34-P016",
+    "section": "3.6",
+    "granularity": "passage",
+    "claim_ids": [],
+    "claim_kind": "AUTHOR_SYNTHESIS_OF_BOUND_EVIDENCE",
+    "human_verified": false,
+    "source_ids": [],
+    "after_text": "表5把方法按输出和后续条件连接起来，是本文的比较组织。各行来自不同任务、模型和验证环境；所列方法共同说明接口需要检查什么，不构成一套已经完成系统验证的星座自治架构。",
+    "after_text_sha256": "26c729b424b554338749f27baf09da2f8b4e5580609b89d97257fbf0633c3303",
+    "manuscript_start_line": 317
+  },
+  {
+    "record_id": "V34-P017",
+    "section": "3.6",
+    "granularity": "change",
+    "reason": "按共享对话恢复完整的维持—风险—机动恢复链；原安全过滤内容移到协调与采用分析",
+    "claim_ids": [],
+    "claim_kind": "EDITORIAL_OR_STRUCTURAL_CHANGE",
+    "human_verified": false,
+    "source_ids": [
+      "E-B11-L005",
+      "E-B11-L012",
+      "E-B11-L025",
+      "E-B11-L041",
+      "E-B11-L046",
+      "E-B11-L059",
+      "E-B12-L022",
+      "E-B12-L047",
+      "E-B13-S007",
+      "E-B13-S010",
+      "E-B14-S012",
+      "E-B16-S034",
+      "E-B17-S047",
+      "E-B18-S051",
+      "E-B20-L024",
+      "E-B20-L042",
+      "E-B20-L050",
+      "E-CARA-PROCESS",
+      "E016",
+      "E082",
+      "E084",
+      "E087"
+    ],
+    "after_text": "### 3.6 轨道构型维持与自主避碰决策\n\n#### 3.6.1 轨道构型演化、维持与重构\n\n构型管理需要区分长期设计、正常维持和需求变化后的重构。部署感知设计[59]限定初始配置何时能够形成；运行中的维持与重构则根据当前轨道、目标几何和可用动作决定怎样调整。相同终态构型可以对应不同成员分配和转移代价，解析转移代价可作为上层分配的输入[29]，但开放时间脉冲模型中的分配结果仍需连接有时限、控制界及全程安全条件的执行检查。\n\n差异阻力通过改变迎风面积调整相对漂移，姿态同时影响发电和任务可用性。Kim和Yoon把阻力面积与发电投影面积共同纳入姿态选择，并根据电池状态及日照切换调相与充电；其验证单元是两星关键星对[21]。S-NET规划进一步把通信、值守和其他活动的影响归入运行可用率；多个星对共享参考星时，还需通过启动延迟同步高低阻力切换[8]。后者给出的是规划与未来演示建议，不能据真实星座名称将该新序列写成已完成的在轨控制。\n\n低推力重构还可以改变未来任务机会。McGrath和Macdonald先生成升降轨、滑行和恢复组成的候选，再根据响应时间、控制代价及地面目标距离选择参与卫星[7]。24星案例把轨道动作与观测需求联系起来，但燃料均衡会增加总控制代价和完成时间，恢复全局观测模式后也未完全恢复原有轨道面内几何。这说明应同时记录任务机会、成员消耗和保留的构型偏差，不能只按某项平均覆盖改善评价重构。\n\n重构的分散求解需要明确共享的是当前状态还是未来轨迹。Pippia等用模型预测控制（model predictive control，MPC）比较两类邻星信息，在部分成员离轨后重新形成等间隔构型；其35星重构模型未加入避碰约束[49]。Pedari等则将任务构型、成员指派、轨迹与执行接管分层处理，10星闭环仿真与50星指派计算属于不同验证范围，终端通信可靠性也未被强制保持于整个机动过程[60]。两例分别支持信息组织和层间交接分析，不构成相同条件下的安全性或规模排名。\n\n#### 3.6.2 接近筛查、风险评估与安全行动选择\n\n接近处置首先要分清计算的产物。几何筛查产生需要进一步检查的对象或事件；最近接近时刻（TCA）及距离计算描述预测几何；风险评估再使用状态不确定性等信息判断碰撞可能性。NASA CARA流程明确区分接近提示、风险评估及后续缓解规划[22]。因此，目录中筛出一个近距离对象，不直接等于已达到机动条件；降低筛查耗时也不能直接表述为碰撞风险下降。\n\n在几何计算环节，Denenberg用Chebyshev代理多项式定位TCA及相应距离，所读接受稿的评估采用SGP4传播，其产物仍是接近几何[61]。Saingyen等把多种筛查条件与CUDA计算的数据组织相结合，减少需要精算的候选并处理内存负担[62]。比较这类方法应保留传播模型、分段或步长、阈值及复核参照；同输入算法间的距离一致性不能替代真实轨道误差或概率风险校准。\n\n已有事件还可以分流。Henry等根据接近数据消息（CDM）的特征，以降维、聚类和集成投票剪除部分低风险事件；该算法没有生成机动，训练集中的危险事件浓度条件也未给出测试集假阴性上界[36]。ESA竞赛研究则提示，评分、稀有事件采样及临近接近时刻的风险变化都会影响预测评价[37]。运行决策需要把被保留的事件送往后续分析，并说明漏报和新信息怎样触发重新评估。\n\n风险量还应与时间范围一起解释。Wen和Qiao在固定初始误差空间计算给定时间段内的碰撞事件，避免同一偏差轨迹重复计入；其当前数值方法受随机变量维数和线性确定性动力学限制[63]。长期机动研究采用的瞬时概率约束[27,64]以及多次接近研究在不相关事件假设下组合的风险[65]，处理的事件并不相同。综述可以比较这些定义和前提，不能跨时间范围移用同一阈值，也不能把逐节点瞬时量自动改名为全时段累计碰撞概率。\n\n等待信息更新与提前采取措施也有代价差异。CARA流程讨论了提前机动的燃料机会、风险随信息更新下降的可能性，以及承诺执行前的再次判断[22]。据此，运行层应同时考虑风险信息时效、剩余动作能力和任务期限；“等待”只有在仍保留适用处置机会时才是候选行动。具体触发条件与批准权随任务确定，本文不提出适用于所有运营者的统一机动阈值。\n\n#### 3.6.3 避碰机动及机动后构型与任务恢复\n\n避碰方案的比较应先说明允许改变哪些动作。Pavanello等针对正在执行的低推力轨迹，分别改变关机时长、控制矢量偏差或方向夹角，部分策略通过终端软约束接回名义轨迹；关机策略的后续恢复求解不在该文范围内[66]。长期避碰与保持研究[64]将轨道框及名义状态目标接入连续控制优化，加入保持要求会改变控制方向和代价。恢复目标是否可松弛，以及剩余时间是否足以到位，应随控制代价一并报告。\n\n短时避碰和后续保持也可以通过终态条件联结。De Vittori等所读作者稿将碰撞概率条件反演为几何约束，并联合处理接近与终态保持[67]。该稿一组GEO算例的文字说明报告，纬度在机动中途可能超过边界以匹配终态，提示终态恢复与全程在框内是不同要求；相关判断限于所读预印稿，不归作正式版已核结论。多次接近优化进一步让单次控制影响后续事件和风险预算，但其一主动星对多个被动目标的设置不提供多运营者责任协议[65]。\n\n多个主动成员则需要共同检查内部与外部安全。Błażejczyk和Zagórski在三星例中联合选择控制，同时约束碎片禁入区域、星间距离和终端构型，未直接受威胁的成员也可能需要配合[6]。预先分配被动相对轨道走廊的MPC[68]把部分冲突处理前移到任务设计阶段，其空间结构、采样和扰动条件与任意构型下在线联合求解不同。优化中分阶段加入约束是形成最终方案的求解过程，不是允许飞行先违反内部安全要求。\n\n失去控制后的分离还需要单列。被动安全规划[28]为规定恢复窗口保留无控漂移间距；Scala等[69]则在一星失控后，由健康成员转入安全螺旋构型，且假定故障告警能够传到相关成员。它们分别处理等待接管的安全余量和健康成员的主动重构，不等于故障功能恢复，也不等于原观测基线已重新可用。恢复后的轨道和功能状态还须进入任务规划，才能评价原业务是否继续；具体运行证据见4.4。\n\n**表5 轨道运行决策链中的方法产物与交接条件**\n\n| 环节及代表证据 | 算法实际产生什么 | 下一环节需要什么 | 比较时保留的边界 |\n|---|---|---|---|\n| 维持与调相[8,21] | 姿态、高低阻力及切换安排 | 能源、姿态可用性与共同切换确认 | 星对仿真与未来演示规划分开 |\n| 重构及成员分配[7,29,49] | 参与卫星、目标位置、候选转移或相位控制 | 转移时限、控制界和全程安全检查 | 业务响应、代价计算和构型重构规模分别说明 |\n| 几何筛查及TCA[61,62] | 候选对象、接近时刻及距离 | 状态不确定性和后续风险评估 | 几何结果不是碰撞概率 |\n| 事件分流及风险判断[36,63] | 保留事件或给定定义下的风险量 | 更新信息、动作能力及触发规则 | 漏报、概率语义和时间范围分别说明 |\n| 机动与保持[64,66,67] | 控制序列、终态及可能的松弛残差 | 实际执行、转移复核及新的任务机会 | 软恢复目标、终端满足与全程约束分开 |\n| 多事件及多主动成员[6,65] | 多事件预算或联合成员控制 | 次生风险筛查、责任及方案共享 | 多被动目标不等于多主动运营者 |\n| 失控分离与重构[28,69] | 安全漂移窗口或健康成员新构型 | 接管、功能确认及业务重排 | 安全状态不等于原功能或任务完成 |\n\n表5把方法按输出和后续条件连接起来，是本文的比较组织。各行来自不同任务、模型和验证环境；所列方法共同说明接口需要检查什么，不构成一套已经完成系统验证的星座自治架构。\n\n",
+    "after_text_sha256": "c8b5209b8c76692e24ba0872f9284428500fb543c2c313833f77253c31166227",
+    "before_text_v33_or_stable_ids": "### 3.6 多星协同安全机动与恢复\n\n#### 3.6.1 从任务构型到联合机动\n\n任务构型规定成员应到达的位置或相对几何，联合机动还要决定成员如何在给定时间和控制能力内到达。Pedari等的作者稿把通信可靠性构型、成员指派、轨迹规划与快速执行分层处理，执行层在偏差或障碍触发后转入安全模式，并保持该模式直至上层提供新轨迹{@E-B13-S010}。其闭环数值例为10星，50星结果针对指派子问题的硬件计算；终端通信可靠性也未被强制保持于整个机动过程。该例说明分层可以分配职责，同时应保留层间尚未共同保证的条件。\n\n面对外部碎片时，动作范围不能只按“哪颗星受威胁”划定。Błażejczyk和Zagórski联合选择三星控制，将最近接近时刻（time of closest approach，TCA）的协方差转换为碎片禁入管，与星间最小距离、控制界和终端构型放入同一问题{@E-B17-S047}。其代表场景需要未直接受威胁的成员配合机动。求解中先处理外部约束、再加入内部约束，是产生最终候选的优化步骤，不是允许实际飞行先侵入内部安全区。该方法仍限于所设短时交会和固定TCA协方差，不能替代多运营者协商或执行误差下的验证。\n\n#### 3.6.2 安全修正、共同可行性与信息条件\n\n控制屏障函数（control barrier function，CBF）把允许状态转为对控制输入的限制，安全修正器据此尽量保留名义动作。Parikh等在目标附近的双服务模块换位问题中，分别约束模块与目标、模块与模块的相对运动；多个星对的约束与执行器限制可能使控制问题无解{@E-B13-S001}。因此，个体修正器能够处理一项约束，不表示群体同时存在满足全部限制的动作。该稿在使用估计状态和协方差缓冲时也明确不再保留原来的确定性安全保证，缓冲的作用应与状态准确时的理论结论分开。\n\n运行时保障（run-time assurance，RTA）研究进一步表明，分散执行与使用局部信息不是同一条件。Dunlap等比较的集中与分散过滤器均掌握所有成员状态，差别在于是否联合选择各星控制{@E-B14-S011}。在所设五星试验中，分散方案出现约束违反或二次规划无解，作者将失败联系到成员互相观测时传感器对太阳的视线禁入约束冲突。这个结果说明共同约束和控制责任需要协调，不能改写成所有失败都发生了实体碰撞，也不能仅归因于感知范围较小。\n\n另一条路线是先分配安全结构，再约束各星留在结构内。Marchesini等为巡检成员预分配有间隔的被动相对轨道走廊，并在模型预测控制（model predictive control，MPC）中加入与采样间隔和扰动界相关的高阶屏障条件{@E-B14-S012}。它将部分在线冲突处理转移到任务设计阶段，但安全依赖走廊已分配且可保持，所设兼容性采用离线数值检查。与一次只改一星的屏蔽机制{@E-B14-S015}相比，两者分别依赖空间预分配和动作更新顺序，不宜统一称为任意构型下的分布式安全控制。\n\n#### 3.6.3 失控后分离、故障接管与恢复条件\n\n被动安全将暂时无法重新规划或执行控制的后果纳入候选筛选。Guffanti和D’Amico用相对轨道的积分常数描述失控漂移，将规定恢复窗口内的分离要求及导航、执行和过程误差接入优化{@E-B13-S007}。其主要数值示例为双星任务，给定置信范围不能直接换算为任意任务的全时段碰撞概率。它的运行意义是为恢复保留时间，而不是证明失控成员能够自行恢复功能。\n\n任务构型与安全构型也可能不同。Scala等研究固定跨轨基线的三星编队，在一颗从星失控后，由主星和健康从星围绕故障成员转入安全螺旋构型{@E-B18-S051}。联合规划包括控制界和成对间距，并用更新状态修正剩余时间内的机动。故障场景假定告警能够传给健康成员并触发响应；这一信息前提需要随方法保留。转入安全构型首先解决分离问题，原有基线及观测能力是否恢复仍是另一项任务判断。\n\n故障接管还需要与实际执行序列一致。VISORS设计用模式和角色切换连接导航、安全预测及机动规划，计划中的脉冲按执行器限制拆分和缓存后才交付执行{@E-B15-S026}。其安全航点之间没有硬性的被动安全保证，另以在线检查和逃逸逻辑补充。该双星软件在环案例说明，安全终态、转移全程条件和可执行接管应分别给出，而不能由架构图中的“安全模式”一并代替。\n\n预先保留反馈备份可以降低对每次在线优化成功的依赖。Botelho等在单受控航天器交会中，先在安全且时间可弹性的等待点计算完整转移和线性校正策略，后续优化用于改进，而初解保留为备份{@E-B15-S029}。这种机制假定当前状态精确可得，并需模型内可行初解和反馈校正；状态估计及执行误差尚待扩展。它可为多星运行的超时处置提供方法参照，但不能直接作为多星共同备份已经验证的证据。\n\n**表5 协同安全机动的决策职责与采用前提**\n\n| 代表机制 | 实际修改的决定 | 信息或结构前提 | 验证范围与运行解释 |\n|---|---|---|---|\n| 联合碎片规避{@E-B17-S047} | 多星轨迹、控制及终端构型 | 固定交会协方差、成员状态和控制界 | 三星短时仿真；兼顾内外安全，不含分散协商协议 |\n| 安全过滤与RTA{@E-B13-S001,E-B14-S011} | 对名义控制的修正 | 状态、几何及联合可行输入；约束责任明确 | 双模块或五星仿真；估计缓冲、约束冲突分别评价 |\n| 走廊保持{@E-B14-S012} | 走廊内控制序列 | 预分配轨道、间隔、扰动界及采样条件 | 三星仿真；在线局部控制不替代走廊分配 |\n| 异步动作屏蔽{@E-B14-S015} | 当前一星的脉冲和漂移安排 | 已有安全轨道、一次仅一星更新 | 双星巡检；同时机动和延迟需另核 |\n| 故障后联合重构{@E-B18-S051} | 健康成员的安全终态和机动 | 故障成员预测、告警及可用控制 | 三星仿真；安全构型不等于原业务恢复 |\n| 模式切换与反馈备份{@E-B15-S026,E-B15-S029} | 角色、待命、逃逸或备份策略 | 导航及执行能力、切换条件、可行初解 | 双星软件在环或单星模型仿真；不构成大星群统一保证 |\n\n表5按决定和采用前提组织机制；不同研究没有在统一实例中比较。将这些机制用于运行管理，还需把机动占用、变化后的资源及可恢复能力传给任务规划，业务接续的评价见4.4.4。\n\n",
+    "manuscript_start_line": 271
+  },
+  {
+    "record_id": "V34-P018",
+    "section": "3.4",
+    "granularity": "passage",
+    "claim_ids": [
+      "C-B16-001",
+      "C-B16-002",
+      "C-B16-015",
+      "C-B16-016"
+    ],
+    "claim_kind": "SOURCE_BOUNDED_SYNTHESIS",
+    "human_verified": false,
+    "source_ids": [
+      "E-B16-S031",
+      "E-B16-S034"
+    ],
+    "after_text": "轨道动作的协调还包括共同计划与分散执行的关系。Kim等先离线生成双主动星联合策略，再按预测地面接触机会同步信息，各星依据本地状态概率估计选择动作[23]。这种半分散组织仍依赖共享的初始状态概率估计和共同生成的策略；其信息同步将传输与地面协调合并为理想事件，不能据此宣布任意时延或丢包下都可安全协同。Pippia等的构型重构[49]又区分邻星当前状态与上一时刻整段预测轨迹，说明“是否通信”不足以概括信息条件。",
+    "after_text_sha256": "17bdc33103403afe19ee1d8feca1cbc94d2cb6dc40a12d6711872bd627ec5f35",
+    "manuscript_start_line": 221
+  },
+  {
+    "record_id": "V34-P019",
+    "section": "3.4",
+    "granularity": "change",
+    "before_tokenized": "",
+    "reason": "补共同生成策略、间歇同步和预测共享，保持原任务协调方法",
+    "claim_ids": [],
+    "claim_kind": "EDITORIAL_OR_STRUCTURAL_CHANGE",
+    "human_verified": false,
+    "source_ids": [
+      "E-B16-S031",
+      "E-B16-S034"
+    ],
+    "after_text": "轨道动作的协调还包括共同计划与分散执行的关系。Kim等先离线生成双主动星联合策略，再按预测地面接触机会同步信息，各星依据本地状态概率估计选择动作[23]。这种半分散组织仍依赖共享的初始状态概率估计和共同生成的策略；其信息同步将传输与地面协调合并为理想事件，不能据此宣布任意时延或丢包下都可安全协同。Pippia等的构型重构[49]又区分邻星当前状态与上一时刻整段预测轨迹，说明“是否通信”不足以概括信息条件。",
+    "after_text_sha256": "17bdc33103403afe19ee1d8feca1cbc94d2cb6dc40a12d6711872bd627ec5f35",
+    "manuscript_start_line": 221
+  },
+  {
+    "record_id": "V34-P020",
+    "section": "3.4",
+    "granularity": "passage",
+    "claim_ids": [
+      "C-B13-002",
+      "C-B13-003",
+      "C-B14-001",
+      "C-B14-002",
+      "R33-OBS-001"
+    ],
+    "claim_kind": "SOURCE_BOUNDED_SYNTHESIS",
+    "human_verified": false,
+    "source_ids": [
+      "E-B13-S001",
+      "E-B14-S011"
+    ],
+    "after_text": "控制屏障函数（control barrier function，CBF）与运行时保障（run-time assurance，RTA）提供另一层协调：名义计划给出动作，过滤器按安全条件修正。Parikh等的多服务模块约束与执行器限制可能使控制问题无解，估计状态下的协方差缓冲也不保留原来的确定性保证[50]。Dunlap等的集中和分散实现都掌握全部成员状态，差别在于能否联合选择控制；其失败讨论涉及互相观测时的太阳/传感器视线禁入冲突[51]。共同可行性、信息范围和控制责任因而需要分别说明，不能将所有约束违反改写为实体碰撞。",
+    "after_text_sha256": "5a2ec0892df4f46b8044204bbba59045006522e7338ccd27b26712068065f81f",
+    "manuscript_start_line": 223
+  },
+  {
+    "record_id": "V34-P021",
+    "section": "3.4",
+    "granularity": "change",
+    "before_tokenized": "",
+    "reason": "把安全过滤放回多星协调职责；保留V3.3的S011原文澄清",
+    "claim_ids": [],
+    "claim_kind": "EDITORIAL_OR_STRUCTURAL_CHANGE",
+    "human_verified": false,
+    "source_ids": [
+      "E-B13-S001",
+      "E-B14-S011"
+    ],
+    "after_text": "控制屏障函数（control barrier function，CBF）与运行时保障（run-time assurance，RTA）提供另一层协调：名义计划给出动作，过滤器按安全条件修正。Parikh等的多服务模块约束与执行器限制可能使控制问题无解，估计状态下的协方差缓冲也不保留原来的确定性保证[50]。Dunlap等的集中和分散实现都掌握全部成员状态，差别在于能否联合选择控制；其失败讨论涉及互相观测时的太阳/传感器视线禁入冲突[51]。共同可行性、信息范围和控制责任因而需要分别说明，不能将所有约束违反改写为实体碰撞。",
+    "after_text_sha256": "5a2ec0892df4f46b8044204bbba59045006522e7338ccd27b26712068065f81f",
+    "manuscript_start_line": 223
+  },
+  {
+    "record_id": "V34-P022",
+    "section": "3.3",
+    "granularity": "change",
+    "reason": "风险小节恢复后更正协议交叉引用",
+    "claim_ids": [],
+    "claim_kind": "EDITORIAL_OR_STRUCTURAL_CHANGE",
+    "human_verified": false,
+    "source_ids": [],
+    "after_text": "其更新协议见3.4及4.3。",
+    "after_text_sha256": "deab0417c183e4728d683fe4b1cbba3244b79723a954104c92b7cd7c252b9a07",
+    "before_text_v33_or_stable_ids": "其更新协议见3.6.2。",
+    "manuscript_start_line": 196
+  },
+  {
+    "record_id": "V34-P023",
+    "section": "3.5.3",
+    "granularity": "passage",
+    "claim_ids": [],
+    "claim_kind": "AUTHOR_OPERATIONAL_SYNTHESIS",
+    "human_verified": false,
+    "source_ids": [],
+    "after_text": "任务状态与轨道状态的变化还会改变不同对象。载荷不可用主要撤销相应活动能力，轨道偏离则会改变未来窗口、允许机动和风险条件；前者不必每次求解轨迹，后者也不能只重排原有时间表。3.6分别讨论这些轨道变化怎样形成新候选，4.2—4.4再分析其与资源、权限及业务接续的联系。",
+    "after_text_sha256": "e0b454206fe0a2994267ece38c9c11bbbe02c17756bc4f58c9f1342d0a46373a",
+    "manuscript_start_line": 255
+  },
+  {
+    "record_id": "V34-P024",
+    "section": "3.5.3",
+    "granularity": "change",
+    "before_tokenized": "",
+    "reason": "将状态驱动决策明确接到轨道专节",
+    "claim_ids": [],
+    "claim_kind": "EDITORIAL_OR_STRUCTURAL_CHANGE",
+    "human_verified": false,
+    "source_ids": [],
+    "after_text": "任务状态与轨道状态的变化还会改变不同对象。载荷不可用主要撤销相应活动能力，轨道偏离则会改变未来窗口、允许机动和风险条件；前者不必每次求解轨迹，后者也不能只重排原有时间表。3.6分别讨论这些轨道变化怎样形成新候选，4.2—4.4再分析其与资源、权限及业务接续的联系。",
+    "after_text_sha256": "e0b454206fe0a2994267ece38c9c11bbbe02c17756bc4f58c9f1342d0a46373a",
+    "manuscript_start_line": 255
+  },
+  {
+    "record_id": "V34-P025",
+    "section": "3.1",
+    "granularity": "passage",
+    "claim_ids": [
+      "C-B20-006",
+      "C-B20-007",
+      "C-B20-008",
+      "C-B20-010"
+    ],
+    "claim_kind": "SOURCE_BOUNDED_SYNTHESIS",
+    "human_verified": false,
+    "source_ids": [
+      "E-B20-L024"
+    ],
+    "after_text": "轨道重构也包含离散分配与连续代价。Wang等先按相对轨道根数构造单星脉冲转移代价，再比较初始成员与终态位置的对应关系[29]。这使“哪颗星到哪个位置”和“怎样到达”相互关联；其四从星及开放时间算例不证明大规模组合分配性能，转移全程避碰也需另接约束。具体运行用途见3.6.1。",
+    "after_text_sha256": "fd2acca2c2d1b595013854c01d8f9cd4de416dc2fde59a61e9f884392ce20c27",
+    "manuscript_start_line": 150
+  },
+  {
+    "record_id": "V34-P026",
+    "section": "3.1",
+    "granularity": "change",
+    "before_tokenized": "",
+    "reason": "在优化机制中加入轨道决策实例，避免独立算法名录",
+    "claim_ids": [],
+    "claim_kind": "EDITORIAL_OR_STRUCTURAL_CHANGE",
+    "human_verified": false,
+    "source_ids": [
+      "E-B20-L024"
+    ],
+    "after_text": "轨道重构也包含离散分配与连续代价。Wang等先按相对轨道根数构造单星脉冲转移代价，再比较初始成员与终态位置的对应关系[29]。这使“哪颗星到哪个位置”和“怎样到达”相互关联；其四从星及开放时间算例不证明大规模组合分配性能，转移全程避碰也需另接约束。具体运行用途见3.6.1。",
+    "after_text_sha256": "fd2acca2c2d1b595013854c01d8f9cd4de416dc2fde59a61e9f884392ce20c27",
+    "manuscript_start_line": 150
+  },
+  {
+    "record_id": "V34-P027",
+    "section": "3.3",
+    "granularity": "passage",
+    "claim_ids": [
+      "C-B11-013",
+      "C-B11-016",
+      "B07-087-C01",
+      "B07-087-C03"
+    ],
+    "claim_kind": "SOURCE_BOUNDED_SYNTHESIS",
+    "human_verified": false,
+    "source_ids": [
+      "E-B11-L025",
+      "E087"
+    ],
+    "after_text": "轨道安全中的学习也可能只负责分析分流。接近数据消息（conjunction data message，CDM）事件剪枝[36]输出需要继续分析的事件集合，不输出控制命令；风险预测竞赛[37]评价的是预测与评分条件。将学习部署在这一位置时，应评价后续分析负担和危险事件漏报，并由独立流程完成风险判断及动作选择，详见3.6.2。",
+    "after_text_sha256": "a885daa5696eca999b52babd3bff4823de522f7d12381030dba85d5635ff2869",
+    "manuscript_start_line": 184
+  },
+  {
+    "record_id": "V34-P028",
+    "section": "3.3",
+    "granularity": "change",
+    "before_tokenized": "",
+    "reason": "补轨道安全的学习作用位置，不替没有全文的轨道RL论文补写方法",
+    "claim_ids": [],
+    "claim_kind": "EDITORIAL_OR_STRUCTURAL_CHANGE",
+    "human_verified": false,
+    "source_ids": [
+      "E-B11-L025",
+      "E087"
+    ],
+    "after_text": "轨道安全中的学习也可能只负责分析分流。接近数据消息（conjunction data message，CDM）事件剪枝[36]输出需要继续分析的事件集合，不输出控制命令；风险预测竞赛[37]评价的是预测与评分条件。将学习部署在这一位置时，应评价后续分析负担和危险事件漏报，并由独立流程完成风险判断及动作选择，详见3.6.2。",
+    "after_text_sha256": "a885daa5696eca999b52babd3bff4823de522f7d12381030dba85d5635ff2869",
+    "manuscript_start_line": 184
+  },
+  {
+    "record_id": "V34-P029",
+    "section": "4.1",
+    "granularity": "passage",
+    "claim_ids": [
+      "B07-084-C01",
+      "B07-084-C03",
+      "B07-084-C04",
+      "C-B11-013",
+      "C-B11-016"
+    ],
+    "claim_kind": "SOURCE_BOUNDED_CROSS_DOMAIN_SYNTHESIS",
+    "human_verified": false,
+    "source_ids": [
+      "E-B11-L025",
+      "E084"
+    ],
+    "after_text": "轨道安全增加了不同类型的工作：目录候选筛查、接近几何精算、风险信息更新及机动后的再筛查。CUDA筛查研究[62]通过计算与内存组织改变目录处理，事件剪枝[36]则在已有CDM事件中减少后续分析对象。它们分别影响候选生成和事件分流，不宜与观测排程加速百分比直接排名。完整评价还需保留传播、数据传输、精细复核及剩余响应时间；没有建立无漏报条件的缩减不能仅凭速度直接获准采用。",
+    "after_text_sha256": "4222f3c788ed3475f446003bf9de1cb508141cac1da7b9d327878b3624e6e5c3",
+    "manuscript_start_line": 329
+  },
+  {
+    "record_id": "V34-P030",
+    "section": "4.1",
+    "granularity": "change",
+    "before_tokenized": "",
+    "reason": "让规模分析覆盖轨道处理链",
+    "claim_ids": [],
+    "claim_kind": "EDITORIAL_OR_STRUCTURAL_CHANGE",
+    "human_verified": false,
+    "source_ids": [
+      "E-B11-L025",
+      "E084"
+    ],
+    "after_text": "轨道安全增加了不同类型的工作：目录候选筛查、接近几何精算、风险信息更新及机动后的再筛查。CUDA筛查研究[62]通过计算与内存组织改变目录处理，事件剪枝[36]则在已有CDM事件中减少后续分析对象。它们分别影响候选生成和事件分流，不宜与观测排程加速百分比直接排名。完整评价还需保留传播、数据传输、精细复核及剩余响应时间；没有建立无漏报条件的缩减不能仅凭速度直接获准采用。",
+    "after_text_sha256": "4222f3c788ed3475f446003bf9de1cb508141cac1da7b9d327878b3624e6e5c3",
+    "manuscript_start_line": 329
+  },
+  {
+    "record_id": "V34-P031",
+    "section": "表6",
+    "granularity": "change",
+    "reason": "在计算减负表内交叉比较轨道工作",
+    "claim_ids": [],
+    "claim_kind": "EDITORIAL_OR_STRUCTURAL_CHANGE",
+    "human_verified": false,
+    "source_ids": [
+      "E-B11-L025",
+      "E065",
+      "E084"
+    ],
+    "after_text": "| 每次活动选择成本高 | 策略复用[39] | 输入及动作条件仍适用 | 训练、上层分配、屏蔽及协调 |\n| 目录与事件分析负担 | 几何筛查与事件分流[36,62] | 阈值、时间步长及事件信息适用 | 候选漏失、传播、风险复核及响应时间 |",
+    "after_text_sha256": "616d5b36c46e4a6280626b244a9c446f511ee92aedc95a548318001f3db135e7",
+    "before_text_v33_or_stable_ids": "| 每次活动选择成本高 | 策略复用{@E065} | 输入及动作条件仍适用 | 训练、上层分配、屏蔽及协调 |",
+    "manuscript_start_line": 340
+  },
+  {
+    "record_id": "V34-P032",
+    "section": "4.2",
+    "granularity": "change",
+    "reason": "按原讨论明确轨道—任务共同决定范围",
+    "claim_ids": [],
+    "claim_kind": "EDITORIAL_OR_STRUCTURAL_CHANGE",
+    "human_verified": false,
+    "source_ids": [],
+    "after_text": "### 4.2 任务、资源与轨道机动应共同决定到什么范围",
+    "after_text_sha256": "aa57c860406ed4635825bec4d2120d92dbc6264fee9c5197efc315f4753caf0f",
+    "before_text_v33_or_stable_ids": "### 4.2 任务、资源与调整措施应共同决定到什么范围",
+    "manuscript_start_line": 349
+  },
+  {
+    "record_id": "V34-P033",
+    "section": "4.2",
+    "granularity": "passage",
+    "claim_ids": [
+      "C-B12-009",
+      "C-B12-012",
+      "C-B11-001",
+      "C-B11-006",
+      "C-B11-007"
+    ],
+    "claim_kind": "SOURCE_BOUNDED_CROSS_DOMAIN_SYNTHESIS",
+    "human_verified": false,
+    "source_ids": [
+      "E-B11-L005",
+      "E-B11-L012",
+      "E-B12-L022"
+    ],
+    "after_text": "轨道与任务的联系具有双向性。低推力响应[7]依据业务目标选择参与卫星和目标轨道，改变了未来可见机会；差异阻力调相[8,21]又受到发电、姿态及运行可用时段限制。因而可以区分三种决定范围：在给定轨道上安排任务；先选机动再按新轨道重排；在同一问题中联合选择部分机动与业务变量。后两者只有在相同业务目标、可用动作和安全要求下才可比较，扩大变量本身不保证限时求解得到更好的运行结果。",
+    "after_text_sha256": "8ca5945d7331687da786a0000187c1ec673b557f2989105584b3a2e013481562",
+    "manuscript_start_line": 355
+  },
+  {
+    "record_id": "V34-P034",
+    "section": "4.2",
+    "granularity": "change",
+    "before_tokenized": "",
+    "reason": "补任务改变轨道、轨道改变任务机会的双向论证",
+    "claim_ids": [],
+    "claim_kind": "EDITORIAL_OR_STRUCTURAL_CHANGE",
+    "human_verified": false,
+    "source_ids": [
+      "E-B11-L005",
+      "E-B11-L012",
+      "E-B12-L022"
+    ],
+    "after_text": "轨道与任务的联系具有双向性。低推力响应[7]依据业务目标选择参与卫星和目标轨道，改变了未来可见机会；差异阻力调相[8,21]又受到发电、姿态及运行可用时段限制。因而可以区分三种决定范围：在给定轨道上安排任务；先选机动再按新轨道重排；在同一问题中联合选择部分机动与业务变量。后两者只有在相同业务目标、可用动作和安全要求下才可比较，扩大变量本身不保证限时求解得到更好的运行结果。",
+    "after_text_sha256": "8ca5945d7331687da786a0000187c1ec673b557f2989105584b3a2e013481562",
+    "manuscript_start_line": 355
+  },
+  {
+    "record_id": "V34-P035",
+    "section": "4.2",
+    "granularity": "passage",
+    "claim_ids": [
+      "C-B11-031",
+      "C-B12-020",
+      "C-B12-021",
+      "C-B20-011",
+      "C-B20-027"
+    ],
+    "claim_kind": "AUTHOR_COMPARISON_RULE_GROUNDED_IN_SOURCES",
+    "human_verified": false,
+    "source_ids": [
+      "E-B11-L046",
+      "E-B12-L047",
+      "E-B20-L042",
+      "E-B20-L050"
+    ],
+    "after_text": "避碰与保持联合优化[27,64,66,67]已经表明，后续恢复目标会改变机动选择和代价，但其中的轨道终态或轨道框不能自动替代观测交付与通信服务指标。本文据此提出的业务耦合比较，应先固定任务适用的安全要求和可接受状态，再比较业务损失、控制代价及恢复时间。仅用有限权重惩罚风险而允许突破必须满足的约束，不属于相同安全条件下的收益改进。软恢复目标也需明确允许偏差，不能把它解释为安全要求同样可以任意放松。",
+    "after_text_sha256": "82da587283bd87024d2a0a63c24a01cdab07bd59805cc27ad1c85546d7f2b9fd",
+    "manuscript_start_line": 361
+  },
+  {
+    "record_id": "V34-P036",
+    "section": "4.2",
+    "granularity": "change",
+    "before_tokenized": "",
+    "reason": "明确联合优化中的安全要求与可松弛恢复目标",
+    "claim_ids": [],
+    "claim_kind": "EDITORIAL_OR_STRUCTURAL_CHANGE",
+    "human_verified": false,
+    "source_ids": [
+      "E-B11-L046",
+      "E-B12-L047",
+      "E-B20-L042",
+      "E-B20-L050"
+    ],
+    "after_text": "避碰与保持联合优化[27,64,66,67]已经表明，后续恢复目标会改变机动选择和代价，但其中的轨道终态或轨道框不能自动替代观测交付与通信服务指标。本文据此提出的业务耦合比较，应先固定任务适用的安全要求和可接受状态，再比较业务损失、控制代价及恢复时间。仅用有限权重惩罚风险而允许突破必须满足的约束，不属于相同安全条件下的收益改进。软恢复目标也需明确允许偏差，不能把它解释为安全要求同样可以任意放松。",
+    "after_text_sha256": "82da587283bd87024d2a0a63c24a01cdab07bd59805cc27ad1c85546d7f2b9fd",
+    "manuscript_start_line": 361
+  },
+  {
+    "record_id": "V34-P037",
+    "section": "4.3",
+    "granularity": "change",
+    "reason": "把轨道信息和责任写入原权限比较",
+    "claim_ids": [],
+    "claim_kind": "EDITORIAL_OR_STRUCTURAL_CHANGE",
+    "human_verified": false,
+    "source_ids": [],
+    "after_text": "### 4.3 安全信息、机动协调、权限与决定生效",
+    "after_text_sha256": "426dfcc13e49962fd70d8dac10d68b1fadfbe1f28307c7e1529c44ecc55c580e",
+    "before_text_v33_or_stable_ids": "### 4.3 信息、修改权限与决定生效",
+    "manuscript_start_line": 365
+  },
+  {
+    "record_id": "V34-P038",
+    "section": "4.3",
+    "granularity": "passage",
+    "claim_ids": [
+      "V34-CARA-003",
+      "C-B11-007",
+      "C-B16-001"
+    ],
+    "claim_kind": "SOURCE_BOUNDED_COORDINATION_SYNTHESIS",
+    "human_verified": false,
+    "source_ids": [
+      "E-B11-L012",
+      "E-B16-S031",
+      "E-CARA-PROCESS"
+    ],
+    "after_text": "机动方案还需区分生成、共享、筛查与最终承诺。NASA CARA流程要求把包含拟定机动的预测星历送往目录筛查，检查是否产生其他高风险事件，再在承诺点结合更新风险决定是否执行[22]。S-NET的共同切换[8]与半分散双星的地面窗口同步[23]分别处理共享动作和信息到达条件；它们不替代目录筛查，也不授予跨运营者的统一控制权。比较时应记录参与者实际交换的是状态、计划轨迹、任务意图还是执行结果，以及原方案何时失效。",
+    "after_text_sha256": "4320d05df21d112d5d697cea76b233392cc133d86aac8114190c60164e22b22b",
+    "manuscript_start_line": 377
+  },
+  {
+    "record_id": "V34-P039",
+    "section": "4.3",
+    "granularity": "change",
+    "before_tokenized": "",
+    "reason": "补拟定星历、次生风险筛查及承诺时刻",
+    "claim_ids": [],
+    "claim_kind": "EDITORIAL_OR_STRUCTURAL_CHANGE",
+    "human_verified": false,
+    "source_ids": [
+      "E-B11-L012",
+      "E-B16-S031",
+      "E-CARA-PROCESS"
+    ],
+    "after_text": "机动方案还需区分生成、共享、筛查与最终承诺。NASA CARA流程要求把包含拟定机动的预测星历送往目录筛查，检查是否产生其他高风险事件，再在承诺点结合更新风险决定是否执行[22]。S-NET的共同切换[8]与半分散双星的地面窗口同步[23]分别处理共享动作和信息到达条件；它们不替代目录筛查，也不授予跨运营者的统一控制权。比较时应记录参与者实际交换的是状态、计划轨迹、任务意图还是执行结果，以及原方案何时失效。",
+    "after_text_sha256": "4320d05df21d112d5d697cea76b233392cc133d86aac8114190c60164e22b22b",
+    "manuscript_start_line": 377
+  },
+  {
+    "record_id": "V34-P040",
+    "section": "表7",
+    "granularity": "change",
+    "reason": "在原条件比较表内纳入轨道决策",
+    "claim_ids": [],
+    "claim_kind": "EDITORIAL_OR_STRUCTURAL_CHANGE",
+    "human_verified": false,
+    "source_ids": [
+      "E-B11-L012",
+      "E-B16-S031",
+      "E-B16-S034",
+      "E-CARA-PROCESS",
+      "E037",
+      "E065"
+    ],
+    "after_text": "| 多星共享完成状态 | 是否还需任务归属和确认信息 | 机制对照[39,43] | 完成、分配和采用各有职责，跨研究不直接排名 |\n| 机动改变未来轨道 | 等待更新、执行候选或撤回 | CARA流程[22] | 拟定星历再筛查和承诺决定分开；不移用统一阈值 |\n| 多成员共享动作或预测 | 谁切换、何时同步及谁能修改 | 规划与重构[8,23,49] | 同步、预测及共同可行性分别检查，不组合成更强保证 |",
+    "after_text_sha256": "7224b5c96e428a7b190ae4a02a6dec80b131858eb825cd7c06a4e7e69e7d114b",
+    "before_text_v33_or_stable_ids": "| 多星共享完成状态 | 是否还需任务归属和确认信息 | 机制对照{@E065,E037} | 完成、分配和采用各有职责，跨研究不直接排名 |",
+    "manuscript_start_line": 396
+  },
+  {
+    "record_id": "V34-P041",
+    "section": "4.4.1",
+    "granularity": "passage",
+    "claim_ids": [
+      "V34-CARA-001",
+      "V34-CARA-002"
+    ],
+    "claim_kind": "COMPARISON_WITH_INHERITED_GNC_EVIDENCE",
+    "human_verified": false,
+    "source_ids": [
+      "E-CARA-PROCESS",
+      "E091",
+      "E092",
+      "E093",
+      "E095"
+    ],
+    "after_text": "近距离交会、编队内避碰和目录运营避碰还应分别使用。锥优化交会、群体MPC、机会约束交会和NRHO被动安全轨迹[76–79]可说明特定模型中的执行与安全条件；目录流程[22]关心新的对象接近和运营处置。前者的终端或相对运动性质不直接给出后者的目录覆盖、风险校准及机动责任，二者可以比较接口，不能合并为同类在轨实证。",
+    "after_text_sha256": "dd2dd48e77609438f2b0f629caee1f2657f5018c62d9323bc24e8df7679457ce",
+    "manuscript_start_line": 414
+  },
+  {
+    "record_id": "V34-P042",
+    "section": "4.4.1",
+    "granularity": "change",
+    "reason": "压缩ADRAS-J单事件消息，明确交会安全与运营避碰边界",
+    "claim_ids": [],
+    "claim_kind": "EDITORIAL_OR_STRUCTURAL_CHANGE",
+    "human_verified": false,
+    "source_ids": [
+      "E-CARA-PROCESS",
+      "E091",
+      "E092",
+      "E093",
+      "E095"
+    ],
+    "after_text": "近距离交会、编队内避碰和目录运营避碰还应分别使用。锥优化交会、群体MPC、机会约束交会和NRHO被动安全轨迹[76–79]可说明特定模型中的执行与安全条件；目录流程[22]关心新的对象接近和运营处置。前者的终端或相对运动性质不直接给出后者的目录覆盖、风险校准及机动责任，二者可以比较接口，不能合并为同类在轨实证。",
+    "after_text_sha256": "dd2dd48e77609438f2b0f629caee1f2657f5018c62d9323bc24e8df7679457ce",
+    "before_text_v33_or_stable_ids": "底层控制负责执行所需的姿态或轨道运动，本文分析的是何时选择相应行动、哪些业务因此受限，以及结果怎样改变后续计划。ADRAS-J公开的中止与后撤{@E097}说明安全退出的功能；原任务恢复仍需另外跟踪，不因退出成功就判定服务完成。",
+    "manuscript_start_line": 414
+  },
+  {
+    "record_id": "V34-P043",
+    "section": "4.4.2",
+    "granularity": "change",
+    "reason": "压缩重复工程入口，保留EO-1及Starling的独立论证职责",
+    "claim_ids": [],
+    "claim_kind": "EDITORIAL_OR_STRUCTURAL_CHANGE",
+    "human_verified": false,
+    "source_ids": [
+      "E109",
+      "E114",
+      "E115"
+    ],
+    "after_text": "EO-1的任务流程[80]由星上科学分析产生目标，规划与执行功能接续处理活动，同时保留地面职责。Starling官方资料[81,82]及阶段报告则应按实际功能区分：观测协商、轨道动作和网络资源配置不是同一项验证。",
+    "after_text_sha256": "f64315c9d0343ada6a340d416044a10841bdcd628f5f7a4ab9a1d63c174f876b",
+    "before_text_v33_or_stable_ids": "EO-1的任务流程{@E109}由星上科学分析产生目标，规划与执行功能接续处理活动，同时保留地面职责；IPEX官方资料{@E111}提供星上处理和持续规划的任务参照。Starling官方资料{@E114,E115}及阶段报告则应按实际功能区分：观测协商、轨道动作和网络资源配置不是同一项验证。",
+    "manuscript_start_line": 418
+  },
+  {
+    "record_id": "V34-P044",
+    "section": "4.4.2",
+    "granularity": "passage",
+    "claim_ids": [
+      "C-B18-036",
+      "C-B18-037",
+      "C-B18-031",
+      "C-B18-032"
+    ],
+    "claim_kind": "SOURCE_BOUNDED_SYNTHESIS",
+    "human_verified": false,
+    "source_ids": [
+      "E-B18-S057",
+      "E-B18-S058"
+    ],
+    "after_text": "Starling扩展报告记录了SV4一次由三次点火组成的自主维持机动，并明确这仍不足以代表可靠星群自主机动；报告还记录了网络建立、分片重传等资源执行功能[83]。其飞行动力学报告[84]则说明主要机动规划、交会筛查和运控批准中的地面职责。同一任务可以在不同功能和阶段具有不同自动化范围，多份报告应联合解释其进展，不能计成多个独立平台重复验证。",
+    "after_text_sha256": "8798f2e5be03a96511c36cb8bc7f5f74653c4503549deb384f01aa01af977723",
+    "manuscript_start_line": 420
+  },
+  {
+    "record_id": "V34-P045",
+    "section": "4.4.2",
+    "granularity": "change",
+    "reason": "精简Starling重复阶段书目，保留两份承担不同职责的报告",
+    "claim_ids": [],
+    "claim_kind": "EDITORIAL_OR_STRUCTURAL_CHANGE",
+    "human_verified": false,
+    "source_ids": [
+      "E-B18-S057",
+      "E-B18-S058"
+    ],
+    "after_text": "Starling扩展报告记录了SV4一次由三次点火组成的自主维持机动，并明确这仍不足以代表可靠星群自主机动；报告还记录了网络建立、分片重传等资源执行功能[83]。其飞行动力学报告[84]则说明主要机动规划、交会筛查和运控批准中的地面职责。同一任务可以在不同功能和阶段具有不同自动化范围，多份报告应联合解释其进展，不能计成多个独立平台重复验证。",
+    "after_text_sha256": "8798f2e5be03a96511c36cb8bc7f5f74653c4503549deb384f01aa01af977723",
+    "before_text_v33_or_stable_ids": "2024年Starling报告中，分布式观测试验有三星参与协商，而轨道维持机动仍设计为经地面交会筛查后获得Go/No-Go；导航滤波和命令时序使该阶段未达到完整自主机动成功条件{@E-B18-S054}。2025年后续报告记录了SV4一次由三次点火组成的自主维持机动，并明确这仍不足以代表可靠星群自主机动；扩展试验还验证了网络建立、分片重传等资源执行功能{@E-B18-S058}。两份报告应按同一任务的阶段进展使用，不能算成独立任务重复验证。",
+    "manuscript_start_line": 420
+  },
+  {
+    "record_id": "V34-P046",
+    "section": "4.4.2",
+    "granularity": "passage",
+    "claim_ids": [
+      "C-B17-037",
+      "C-B17-038",
+      "C-B17-039",
+      "C-B17-041"
+    ],
+    "claim_kind": "SOURCE_BOUNDED_SYNTHESIS",
+    "human_verified": false,
+    "source_ids": [
+      "E-B17-S048"
+    ],
+    "after_text": "NanoFF在轨报告[9]提供另一类现实约束：所述脉冲和接近阶段需要地面安排、等待导航核查，并根据实际效果修正模型；已演示的阻力调节与计划中的完整自主近距交叉不同。较快传播或优化并不意味着同样频率获得新测量，也不意味着下一次机动可立即执行。该双星任务可用于分析状态更新与采用时序，不能据此推定更小裕度或大星群的运行性能。",
+    "after_text_sha256": "d06a9bbf86ace2d7e916e23492ec4601f4e547e374a1313c60ca9945614b8e13",
+    "manuscript_start_line": 424
+  },
+  {
+    "record_id": "V34-P047",
+    "section": "4.4.2",
+    "granularity": "change",
+    "before_tokenized": "",
+    "reason": "增加与协同安全仿真相区别的真实运行约束",
+    "claim_ids": [],
+    "claim_kind": "EDITORIAL_OR_STRUCTURAL_CHANGE",
+    "human_verified": false,
+    "source_ids": [
+      "E-B17-S048"
+    ],
+    "after_text": "NanoFF在轨报告[9]提供另一类现实约束：所述脉冲和接近阶段需要地面安排、等待导航核查，并根据实际效果修正模型；已演示的阻力调节与计划中的完整自主近距交叉不同。较快传播或优化并不意味着同样频率获得新测量，也不意味着下一次机动可立即执行。该双星任务可用于分析状态更新与采用时序，不能据此推定更小裕度或大星群的运行性能。",
+    "after_text_sha256": "d06a9bbf86ace2d7e916e23492ec4601f4e547e374a1313c60ca9945614b8e13",
+    "manuscript_start_line": 424
+  },
+  {
+    "record_id": "V34-P048",
+    "section": "表8",
+    "granularity": "change",
+    "reason": "压缩重复新闻、平台入口，突出任务与轨道的实际采用证据",
+    "claim_ids": [],
+    "claim_kind": "EDITORIAL_OR_STRUCTURAL_CHANGE",
+    "human_verified": false,
+    "source_ids": [
+      "E-B17-S048",
+      "E-B18-S057",
+      "E-B18-S058",
+      "E050",
+      "E051",
+      "E078",
+      "E089",
+      "E102",
+      "E108",
+      "E109",
+      "E114",
+      "E115",
+      "E117",
+      "E119",
+      "E120"
+    ],
+    "after_text": "**表8 运行证据中的决定、采用及验证边界**\n\n| 资料或方法 | 已体现的决定或功能 | 采用与反馈的解释 | 不能据此推定的内容 |\n|---|---|---|---|\n| Planet、DSN[85,86] | 交付、安排和确认流程 | 决定及资源承诺对应具体事件 | 全部内部算法性能或无人工自治 |\n| Starlink及独立测量[87,88] | 处置流程与服务现象 | 运营说明、测量及解释分开 | 整个内部决策系统的验证 |\n| FDIR及Remote Agent[56,57] | 行动选择、结果反馈及规划衔接 | 保留原地面原型或单航天器环境 | 大型星座端到端恢复效果 |\n| EO-1[80] | 星上分析与后续活动 | 保留地面职责和原任务条件 | 所有业务与权限全自主 |\n| Starling任务线[81–84] | 观测、机动、网络及异常处置 | 各功能按实际参与星数和地面职责解释 | 多篇报告等于多个独立飞行任务 |\n| NanoFF[9] | 推进与阻力调节的分阶段运行 | 导航等待、人工修正与已飞功能分开 | 计划中的自主交叉已经完成 |\n| 受监督配置及形式化研究[71,89,90] | 配置、检查、批准或规格性质 | 软件对象及检查范围分别说明 | 完整星座业务的安全与服务保证 |\n\n",
+    "after_text_sha256": "4d3f1ac47ca4662f7f8cb9c7d56ab3fa5a46ca635094c2736ede5ba3dd93000b",
+    "before_text_v33_or_stable_ids": "**表8 运行证据中的决定、采用及验证边界**\n\n| 资料或方法 | 已体现的决定或功能 | 采用与反馈的解释 | 不能据此推定的内容 |\n|---|---|---|---|\n| Iridium备星{@E022} | 备用资产投入 | 可用能力发生变化 | 库存最优或业务恢复时间 |\n| Planet、AWS、DSN{@E052,E050,E051} | 交付、预约和确认流程 | 决定及资源承诺对应具体事件 | 内部算法性能或无人工自治 |\n| Starlink与独立测量{@E078,E089} | 处置流程和服务现象 | 运营说明、测量和解释分开 | 整个内部决策系统的验证 |\n| ADRAS-J{@E097} | 中止与安全后撤 | 特定事件的执行反馈 | 原服务任务已经恢复 |\n| FDIR规则原型{@E102} | 故障事实、措施及效果检查 | 失败后选择后续行动 | 在轨或大型星座恢复效果 |\n| Remote Agent{@E108} | 规划、执行和诊断连接 | 按原任务条件解释局部处置与重规划 | 通用星座规模性能 |\n| EO-1、IPEX{@E109,E111} | 星上分析与后续任务 | 保留原地面职责和事件范围 | 所有任务与权限全自主 |\n| Starling系列{@E114,E115}{@E-B18-S054,E-B18-S058,E-B18-S057} | 观测协商、机动与资源执行的阶段结果 | 四星任务；具体试验成员数及地面职责分别说明 | 多篇报告等于多次独立飞行验证，或巨型星座整体验证 |\n| 受监督配置{@E119} | 模型、候选、检查和部署 | 人工批准与平台采用独立于优化 | 自主星座业务部署 |\n| cFS、Basilisk、形式化研究{@E113,E116,E117,E120} | 组件、仿真或规格性质 | 支持不同的实现和检查对象 | 同一整系统服务保证 |\n\n",
+    "manuscript_start_line": 428
+  },
+  {
+    "record_id": "V34-P049",
+    "section": "4.4.3",
+    "granularity": "passage",
+    "claim_ids": [
+      "C-B20-015",
+      "C-B11-033",
+      "C-B12-019",
+      "C-B12-020"
+    ],
+    "claim_kind": "VERSION_BOUNDED_VALIDATION_SYNTHESIS",
+    "human_verified": false,
+    "source_ids": [
+      "E-B11-L046",
+      "E-B12-L047",
+      "E-B20-L042"
+    ],
+    "after_text": "终态与全程的比较也需要看原约束。L042所读作者稿的一组GEO案例在中途纬度超出目标范围，另一组改动场景则保持在范围内[67]；这类差异不宜改写为整个方法必然越界，也不能以终态满足掩盖转移要求。优化后用同一动力学前向传播可检查数值一致性[64,66]，独立扰动、估计和执行误差检验还承担不同职责。相关层级应分别记录，既不把同模型检查称为独立飞行验证，也不因没有在轨结果抹去模型内的贡献。",
+    "after_text_sha256": "bec2fd5272230e026f0542123c018eb19a1e19b934be33dfa3f5e7ccf3303705",
+    "manuscript_start_line": 448
+  },
+  {
+    "record_id": "V34-P050",
+    "section": "4.4.3",
+    "granularity": "change",
+    "before_tokenized": "",
+    "reason": "把原文反例和传播检查的意义接入科学综合",
+    "claim_ids": [],
+    "claim_kind": "EDITORIAL_OR_STRUCTURAL_CHANGE",
+    "human_verified": false,
+    "source_ids": [
+      "E-B11-L046",
+      "E-B12-L047",
+      "E-B20-L042"
+    ],
+    "after_text": "终态与全程的比较也需要看原约束。L042所读作者稿的一组GEO案例在中途纬度超出目标范围，另一组改动场景则保持在范围内[67]；这类差异不宜改写为整个方法必然越界，也不能以终态满足掩盖转移要求。优化后用同一动力学前向传播可检查数值一致性[64,66]，独立扰动、估计和执行误差检验还承担不同职责。相关层级应分别记录，既不把同模型检查称为独立飞行验证，也不因没有在轨结果抹去模型内的贡献。",
+    "after_text_sha256": "bec2fd5272230e026f0542123c018eb19a1e19b934be33dfa3f5e7ccf3303705",
+    "manuscript_start_line": 448
+  },
+  {
+    "record_id": "V34-P051",
+    "section": "4.4.4",
+    "granularity": "passage",
+    "claim_ids": [
+      "C-B11-031",
+      "C-B12-020",
+      "C-B20-011",
+      "C-B12-009",
+      "C-B12-010"
+    ],
+    "claim_kind": "AUTHOR_RECOVERY_COMPARISON_GROUNDED_IN_SOURCES",
+    "human_verified": false,
+    "source_ids": [
+      "E-B11-L046",
+      "E-B12-L022",
+      "E-B12-L047",
+      "E-B20-L042"
+    ],
+    "after_text": "返回原轨道、到达满足任务要求的其他轨道和留在机动后轨道，应先作为不同候选分别评价。已有名义轨迹软恢复[64,66]、终态保持[67]和任务响应重构[7]提供各自的模型基础，但不能据此概括任何任务都无需返回原轨道。本文的比较要求是：在同一安全要求下，分别检查候选的后续观测或通信机会、构型条件、恢复时间及资源消耗，再由任务重分配处理剩余需求。",
+    "after_text_sha256": "77aa4730e95e7eddbe9f343d94d02450a948ed6e768034622b83a93419fc2a41",
+    "manuscript_start_line": 454
+  },
+  {
+    "record_id": "V34-P052",
+    "section": "4.4.4",
+    "granularity": "change",
+    "before_tokenized": "",
+    "reason": "明确任务等效轨道是待比较候选而非既成普适结论",
+    "claim_ids": [],
+    "claim_kind": "EDITORIAL_OR_STRUCTURAL_CHANGE",
+    "human_verified": false,
+    "source_ids": [
+      "E-B11-L046",
+      "E-B12-L022",
+      "E-B12-L047",
+      "E-B20-L042"
+    ],
+    "after_text": "返回原轨道、到达满足任务要求的其他轨道和留在机动后轨道，应先作为不同候选分别评价。已有名义轨迹软恢复[64,66]、终态保持[67]和任务响应重构[7]提供各自的模型基础，但不能据此概括任何任务都无需返回原轨道。本文的比较要求是：在同一安全要求下，分别检查候选的后续观测或通信机会、构型条件、恢复时间及资源消耗，再由任务重分配处理剩余需求。",
+    "after_text_sha256": "77aa4730e95e7eddbe9f343d94d02450a948ed6e768034622b83a93419fc2a41",
+    "manuscript_start_line": 454
+  },
+  {
+    "record_id": "V34-P053",
+    "section": "4.5.1",
+    "granularity": "change",
+    "reason": "对齐原共享讨论的第一个研究问题",
+    "claim_ids": [],
+    "claim_kind": "EDITORIAL_OR_STRUCTURAL_CHANGE",
+    "human_verified": false,
+    "source_ids": [],
+    "after_text": "#### 4.5.1 有限预算内怎样组合任务、资源、构型与机动决定",
+    "after_text_sha256": "fb1cf8a92067d371fdc736c3d7e137ed8b52334ee9e58f70160eb71b59a89653",
+    "before_text_v33_or_stable_ids": "#### 4.5.1 有限预算内怎样组合任务、资源和调整决定",
+    "manuscript_start_line": 464
+  },
+  {
+    "record_id": "V34-P054",
+    "section": "4.5.1",
+    "granularity": "passage",
+    "claim_ids": [
+      "C-B12-009",
+      "C-B12-012",
+      "C-B12-020",
+      "C-B12-021"
+    ],
+    "claim_kind": "PROPOSED_COMPARISON_NOT_NEW_EXPERIMENT",
+    "human_verified": false,
+    "source_ids": [
+      "E-B12-L022",
+      "E-B12-L047"
+    ],
+    "after_text": "轨道部分可在相同预测、初态及控制界下，依次比较给定轨道排程、先选机动后重排，以及部分联合选择。保留相同安全检查，并记录重构对未来窗口、成员消耗和完整采用时间的影响；风险阈值或任务容差变化作为单独因素。L022的任务响应和L047的保持代价分别提示了需要控制的条件[7,64]，不为这些异质研究建立统一性能排名。",
+    "after_text_sha256": "e1e0c68d10659dea0ee409e71320d871c94e5cdda90be0d7c42bad619f86ebdf",
+    "manuscript_start_line": 470
+  },
+  {
+    "record_id": "V34-P055",
+    "section": "4.5.1",
+    "granularity": "change",
+    "before_tokenized": "",
+    "reason": "把未来比较落到轨道改变任务机会的具体变量",
+    "claim_ids": [],
+    "claim_kind": "EDITORIAL_OR_STRUCTURAL_CHANGE",
+    "human_verified": false,
+    "source_ids": [
+      "E-B12-L022",
+      "E-B12-L047"
+    ],
+    "after_text": "轨道部分可在相同预测、初态及控制界下，依次比较给定轨道排程、先选机动后重排，以及部分联合选择。保留相同安全检查，并记录重构对未来窗口、成员消耗和完整采用时间的影响；风险阈值或任务容差变化作为单独因素。L022的任务响应和L047的保持代价分别提示了需要控制的条件[7,64]，不为这些异质研究建立统一性能排名。",
+    "after_text_sha256": "e1e0c68d10659dea0ee409e71320d871c94e5cdda90be0d7c42bad619f86ebdf",
+    "manuscript_start_line": 470
+  },
+  {
+    "record_id": "V34-P056",
+    "section": "4.5.2",
+    "granularity": "change",
+    "reason": "对齐原共享讨论的第二个研究问题",
+    "claim_ids": [],
+    "claim_kind": "EDITORIAL_OR_STRUCTURAL_CHANGE",
+    "human_verified": false,
+    "source_ids": [],
+    "after_text": "#### 4.5.2 信息与授权限制下怎样协调安全行动",
+    "after_text_sha256": "49ea775e99e8fdbb099dbc885acb09ac8f0c91b43328630883781917dea6656a",
+    "before_text_v33_or_stable_ids": "#### 4.5.2 延迟信息与授权范围怎样影响更新",
+    "manuscript_start_line": 472
+  },
+  {
+    "record_id": "V34-P057",
+    "section": "4.5.2",
+    "granularity": "change",
+    "reason": "移除已压缩的AWS接口书目，保留直接支撑动态修复的来源",
+    "claim_ids": [],
+    "claim_kind": "EDITORIAL_OR_STRUCTURAL_CHANGE",
+    "human_verified": false,
+    "source_ids": [
+      "E034",
+      "E106",
+      "E121"
+    ],
+    "after_text": "固定请求、异常序列和已执行前缀，分别改变状态误差、消息延迟、承诺可撤回条件及批准时机，比较保留、局部修复和较大重规划[2,19,20]。",
+    "after_text_sha256": "a1b8b7b121b43f92ae7bc818829888a5c5a926b525375e862ed904b325cbeea9",
+    "before_text_v33_or_stable_ids": "固定请求、异常序列和已执行前缀，分别改变状态误差、消息延迟、承诺可撤回条件及批准时机，比较保留、局部修复和较大重规划{@E034,E052,E106,E121}。",
+    "manuscript_start_line": 474
+  },
+  {
+    "record_id": "V34-P058",
+    "section": "4.5.3",
+    "granularity": "change",
+    "reason": "对齐原共享讨论的第三个研究问题",
+    "claim_ids": [],
+    "claim_kind": "EDITORIAL_OR_STRUCTURAL_CHANGE",
+    "human_verified": false,
+    "source_ids": [],
+    "after_text": "#### 4.5.3 轨道调整后怎样恢复可接受的业务能力",
+    "after_text_sha256": "8adc2a9805f0bac5fb8e7b43fb9965c22170235a4474c1617cad7320228b5dc7",
+    "before_text_v33_or_stable_ids": "#### 4.5.3 恢复措施怎样连接业务接续",
+    "manuscript_start_line": 480
+  },
+  {
+    "record_id": "V34-P059",
+    "section": "2.1",
+    "granularity": "change",
+    "reason": "让轨道成为显式决策对象",
+    "claim_ids": [],
+    "claim_kind": "EDITORIAL_OR_STRUCTURAL_CHANGE",
+    "human_verified": false,
+    "source_ids": [],
+    "after_text": "### 2.1 任务、资源与轨道状态：已知条件和待作出的决定",
+    "after_text_sha256": "ca1f8475817ba55596989ecf5ef147cd57512103f6f2e0aef0fd688af18446d7",
+    "before_text_v33_or_stable_ids": "### 2.1 任务与资源安排：已知条件和待作出的决定",
+    "manuscript_start_line": 74
+  },
+  {
+    "record_id": "V34-P060",
+    "section": "2.1",
+    "granularity": "change",
+    "reason": "压缩AWS说明，将空间留给有明确机制证据的轨道动作",
+    "claim_ids": [],
+    "claim_kind": "EDITORIAL_OR_STRUCTURAL_CHANGE",
+    "human_verified": false,
+    "source_ids": [
+      "E106",
+      "E121"
+    ],
+    "after_text": "已经执行的成像不能撤销，已分配传输容量限制新请求[19]，新激光链路的建立时间限制路径何时可用[20]。",
+    "after_text_sha256": "e54ae8252d9745bcc92716b8de746da189eaf02c01beb2405a4c18930d55f92d",
+    "before_text_v33_or_stable_ids": "已经执行的成像不能撤销，地面站预约依规则修改{@E052}，已分配传输容量限制新请求{@E106}，新激光链路的建立时间限制路径何时可用{@E121}。",
+    "manuscript_start_line": 82
+  },
+  {
+    "record_id": "V34-P061",
+    "section": "2.1",
+    "granularity": "passage",
+    "claim_ids": [
+      "C-B12-009",
+      "C-B11-001",
+      "C-B11-005",
+      "C-B11-006"
+    ],
+    "claim_kind": "SOURCE_BOUNDED_PROBLEM_DEFINITION",
+    "human_verified": false,
+    "source_ids": [
+      "E-B11-L005",
+      "E-B11-L012",
+      "E-B12-L022"
+    ],
+    "after_text": "轨道状态既可以是规划输入，也可以因机动成为可改变的条件。轨道根数、相位和相对几何限定未来观测与接触机会；推力、推进剂、姿态、电池状态和可用时段则限制能够采取的动作。低推力任务响应[7]将目标需求转为轨道候选，差异阻力规划[8,21]将发电与运行可用性带入动作选择。本文因而区分正常维持、需求驱动重构和有风险时刻的安全处置，各自记录触发条件及响应时限。",
+    "after_text_sha256": "3dffa5696f251be8ef79b584911f0c822741f0f31dfa7c8ace7ff0a1cff26dd6",
+    "manuscript_start_line": 84
+  },
+  {
+    "record_id": "V34-P062",
+    "section": "2.1",
+    "granularity": "change",
+    "before_tokenized": "",
+    "reason": "明确轨道不是永远固定的外生输入",
+    "claim_ids": [],
+    "claim_kind": "EDITORIAL_OR_STRUCTURAL_CHANGE",
+    "human_verified": false,
+    "source_ids": [
+      "E-B11-L005",
+      "E-B11-L012",
+      "E-B12-L022"
+    ],
+    "after_text": "轨道状态既可以是规划输入，也可以因机动成为可改变的条件。轨道根数、相位和相对几何限定未来观测与接触机会；推力、推进剂、姿态、电池状态和可用时段则限制能够采取的动作。低推力任务响应[7]将目标需求转为轨道候选，差异阻力规划[8,21]将发电与运行可用性带入动作选择。本文因而区分正常维持、需求驱动重构和有风险时刻的安全处置，各自记录触发条件及响应时限。",
+    "after_text_sha256": "3dffa5696f251be8ef79b584911f0c822741f0f31dfa7c8ace7ff0a1cff26dd6",
+    "manuscript_start_line": 84
+  },
+  {
+    "record_id": "V34-P063",
+    "section": "表2",
+    "granularity": "change",
+    "reason": "在原表整合轨道对象，不新增重复概念表",
+    "claim_ids": [],
+    "claim_kind": "EDITORIAL_OR_STRUCTURAL_CHANGE",
+    "human_verified": false,
+    "source_ids": [],
+    "after_text": "| 决定采用 | 候选计划、当前状态、授权和生效时限 | 批准、拒绝、重新计算或维持仍有效的安排 | 执行系统已采用何版本，随后实际结果是什么 |\n| 构型维持与重构 | 当前轨道、相位、目标几何、摄动预测和控制能力 | 哪些成员何时调整，选择哪些目标位置及动作 | 构型偏差、到位时间、控制代价及转移安全 |\n| 接近风险处置 | 预测接近、状态不确定性、更新时间及动作余量 | 等待更新、采取何种安全措施及何时承诺 | 风险定义下的约束、次生接近及执行可行性 |\n| 机动后恢复 | 实际轨道、功能、剩余资源及未完成需求 | 返回、保持新轨道或转入任务可接受轨道，并重分配活动 | 后续风险、服务满足、恢复时间和成本 |",
+    "after_text_sha256": "73eaf4a6f6ba39c87655f4756887ed6c7e1b9a1c215fd43de40593a3f4099363",
+    "before_text_v33_or_stable_ids": "| 决定采用 | 候选计划、当前状态、授权和生效时限 | 批准、拒绝、重新计算或维持仍有效的安排 | 执行系统已采用何版本，随后实际结果是什么 |",
+    "manuscript_start_line": 95
+  },
+  {
+    "record_id": "V34-P064",
+    "section": "2.2",
+    "granularity": "passage",
+    "claim_ids": [
+      "V34-CARA-003",
+      "C-B16-001"
+    ],
+    "claim_kind": "SOURCE_BOUNDED_AUTHORITY_DEFINITION",
+    "human_verified": false,
+    "source_ids": [
+      "E-B16-S031",
+      "E-CARA-PROCESS"
+    ],
+    "after_text": "轨道动作还需区分候选生成权、机动责任、批准权和执行权。CARA流程[22]在规划机动后对拟定星历再筛查，并保留承诺时刻的风险判断；半分散策略[23]则可以共同生成后由成员依局部信息执行。因此，算法运行在星上、采用分散计算和具有独立机动权限是不同条件。",
+    "after_text_sha256": "d841c1d1a4fe12ce6407f463d912bcc59b602d6b7c635e0da7de2b7d100b42d5",
+    "manuscript_start_line": 110
+  },
+  {
+    "record_id": "V34-P065",
+    "section": "2.2",
+    "granularity": "change",
+    "before_tokenized": "",
+    "reason": "在计算与权限定义中正式纳入轨道动作",
+    "claim_ids": [],
+    "claim_kind": "EDITORIAL_OR_STRUCTURAL_CHANGE",
+    "human_verified": false,
+    "source_ids": [
+      "E-B16-S031",
+      "E-CARA-PROCESS"
+    ],
+    "after_text": "轨道动作还需区分候选生成权、机动责任、批准权和执行权。CARA流程[22]在规划机动后对拟定星历再筛查，并保留承诺时刻的风险判断；半分散策略[23]则可以共同生成后由成员依局部信息执行。因此，算法运行在星上、采用分散计算和具有独立机动权限是不同条件。",
+    "after_text_sha256": "d841c1d1a4fe12ce6407f463d912bcc59b602d6b7c635e0da7de2b7d100b42d5",
+    "manuscript_start_line": 110
+  },
+  {
+    "record_id": "V34-P066",
+    "section": "2.3",
+    "granularity": "change",
+    "reason": "保留原载荷情景并增加独立轨道说明情景",
+    "claim_ids": [],
+    "claim_kind": "EDITORIAL_OR_STRUCTURAL_CHANGE",
+    "human_verified": false,
+    "source_ids": [],
+    "after_text": "### 2.3 两个说明情景：载荷不可用与避碰后任务接续",
+    "after_text_sha256": "4f2c20e0e0430a13374b3d1b131edd2d8ef5f306caf7f9dbc4b8845f49e327c8",
+    "before_text_v33_or_stable_ids": "### 2.3 一个贯穿示例：载荷不可用后的任务接续",
+    "manuscript_start_line": 120
+  },
+  {
+    "record_id": "V34-P067",
+    "section": "2.3",
+    "granularity": "passage",
+    "claim_ids": [],
+    "claim_kind": "EXPLICIT_HYPOTHETICAL_EXAMPLE",
+    "human_verified": false,
+    "source_ids": [],
+    "after_text": "第二个情景假设一颗观测卫星收到新的潜在接近信息。系统先区分几何提示和风险判断，再在剩余响应时间及权限内选择等待更新或采取措施。若执行机动，就需按新轨道重新检查尚未执行的成像和下传机会；随后比较返回原轨道、维持可接受的新轨道或重新分配请求。即使载荷正常，原时间表也可能失效；即使原轨道尚未恢复，其他成员也可能接续部分需求。这个情景与前一个载荷情景均为本文说明，没有新增仿真或暗示任何所引系统已经完成全部环节。",
+    "after_text_sha256": "2dd63c39896a5dca9e8b0d6abb0734b8ae536f63c465db775a4bb80be6b1b9bd",
+    "manuscript_start_line": 128
+  },
+  {
+    "record_id": "V34-P068",
+    "section": "2.3",
+    "granularity": "change",
+    "reason": "建立独立避碰—恢复贯穿情景",
+    "claim_ids": [],
+    "claim_kind": "EDITORIAL_OR_STRUCTURAL_CHANGE",
+    "human_verified": false,
+    "source_ids": [],
+    "after_text": "第二个情景假设一颗观测卫星收到新的潜在接近信息。系统先区分几何提示和风险判断，再在剩余响应时间及权限内选择等待更新或采取措施。若执行机动，就需按新轨道重新检查尚未执行的成像和下传机会；随后比较返回原轨道、维持可接受的新轨道或重新分配请求。即使载荷正常，原时间表也可能失效；即使原轨道尚未恢复，其他成员也可能接续部分需求。这个情景与前一个载荷情景均为本文说明，没有新增仿真或暗示任何所引系统已经完成全部环节。",
+    "after_text_sha256": "2dd63c39896a5dca9e8b0d6abb0734b8ae536f63c465db775a4bb80be6b1b9bd",
+    "before_text_v33_or_stable_ids": "若该说明情景还伴随安全机动，替代安排就需使用机动后的轨道、姿态和资源状态重新检查窗口。原载荷仍不可用时，队形恢复也不能使原请求自动完成；反之，其他成员可能在故障星尚未恢复前接续部分业务。这里增加的是对决策依赖的说明，不是所引系统已经完成的联合实验。",
+    "manuscript_start_line": 128
+  },
+  {
+    "record_id": "V34-P069",
+    "section": "2.4",
+    "granularity": "passage",
+    "claim_ids": [],
+    "claim_kind": "AUTHOR_COMPARISON_FRAMEWORK",
+    "human_verified": false,
+    "source_ids": [],
+    "after_text": "轨道运行结果至少分列预测几何、所用风险量、机动执行偏差、构型状态和业务结果。时间范围、状态及协方差来源、动作能力和再筛查范围随指标记录；最近接近时刻（time of closest approach，TCA）的误差、最近距离、某一时刻的碰撞概率及按期产品交付不互相替代。第3.6给出不同方法的产物，第4章据此比较哪些状态与决定能够交接。",
+    "after_text_sha256": "bfc57ebb19e7921e98c23be0ba01b44fd976cc0487fd035ee47240949a786fac",
+    "manuscript_start_line": 140
+  },
+  {
+    "record_id": "V34-P070",
+    "section": "2.4",
+    "granularity": "change",
+    "before_tokenized": "",
+    "reason": "统一轨道运行结果与业务结果的比较口径",
+    "claim_ids": [],
+    "claim_kind": "EDITORIAL_OR_STRUCTURAL_CHANGE",
+    "human_verified": false,
+    "source_ids": [],
+    "after_text": "轨道运行结果至少分列预测几何、所用风险量、机动执行偏差、构型状态和业务结果。时间范围、状态及协方差来源、动作能力和再筛查范围随指标记录；最近接近时刻（time of closest approach，TCA）的误差、最近距离、某一时刻的碰撞概率及按期产品交付不互相替代。第3.6给出不同方法的产物，第4章据此比较哪些状态与决定能够交接。",
+    "after_text_sha256": "bfc57ebb19e7921e98c23be0ba01b44fd976cc0487fd035ee47240949a786fac",
+    "manuscript_start_line": 140
+  },
+  {
+    "record_id": "V34-P071",
+    "section": "1.1",
+    "granularity": "passage",
+    "claim_ids": [
+      "C-B12-009",
+      "C-B11-006",
+      "C-B11-007",
+      "C-B17-037",
+      "C-B17-039"
+    ],
+    "claim_kind": "SOURCE_BOUNDED_MOTIVATION",
+    "human_verified": false,
+    "source_ids": [
+      "E-B11-L012",
+      "E-B12-L022",
+      "E-B17-S048"
+    ],
+    "after_text": "轨道动力学还会使可用条件随时间演化，并允许系统主动改变这些条件。面向地面目标的低推力重构[7]把业务需求与新的轨道机会相连；S-NET规划和NanoFF报告[8,9]又表明，姿态、可用时段、导航等待和执行修正会限制调整。由此，本文同时分析在给定轨道上安排任务，以及通过维持、重构和安全处置改变后续任务条件的决定。",
+    "after_text_sha256": "dcc7250e9731a312ed08d605a951bed5adea1e47ef9b2d697b6d03ce9a576d0a",
+    "manuscript_start_line": 31
+  },
+  {
+    "record_id": "V34-P072",
+    "section": "1.1",
+    "granularity": "change",
+    "before_tokenized": "",
+    "reason": "补足航天动力学与智能运行的中心连接",
+    "claim_ids": [],
+    "claim_kind": "EDITORIAL_OR_STRUCTURAL_CHANGE",
+    "human_verified": false,
+    "source_ids": [
+      "E-B11-L012",
+      "E-B12-L022",
+      "E-B17-S048"
+    ],
+    "after_text": "轨道动力学还会使可用条件随时间演化，并允许系统主动改变这些条件。面向地面目标的低推力重构[7]把业务需求与新的轨道机会相连；S-NET规划和NanoFF报告[8,9]又表明，姿态、可用时段、导航等待和执行修正会限制调整。由此，本文同时分析在给定轨道上安排任务，以及通过维持、重构和安全处置改变后续任务条件的决定。",
+    "after_text_sha256": "dcc7250e9731a312ed08d605a951bed5adea1e47ef9b2d697b6d03ce9a576d0a",
+    "manuscript_start_line": 31
+  },
+  {
+    "record_id": "V34-P073",
+    "section": "1.2",
+    "granularity": "passage",
+    "claim_ids": [
+      "B07-086-C01",
+      "B07-086-C02",
+      "B07-086-C03",
+      "B07-086-C04"
+    ],
+    "claim_kind": "SOURCE_BOUNDED_REVIEW_POSITIONING",
+    "human_verified": false,
+    "source_ids": [
+      "E086"
+    ],
+    "after_text": "轨道安全也已有直接的综述基础。CAMmary[16]整理避碰机动设计及其模型和数值方法，并讨论操作约束、多次接近和风险近似。本文承接这类方法分类，进一步组织其与任务机会、资源占用、协同责任和机动后恢复的联系；同时包含调度和避碰、或讨论名义轨迹返回，并不单独构成新的综述贡献。",
+    "after_text_sha256": "2d861880ad3a292fbab025a7554ddbb0f556e555e13f7014d9015e3107df18b8",
+    "manuscript_start_line": 39
+  },
+  {
+    "record_id": "V34-P074",
+    "section": "1.2",
+    "granularity": "change",
+    "before_tokenized": "",
+    "reason": "恢复最近邻避碰综述，限定本文综合贡献",
+    "claim_ids": [],
+    "claim_kind": "EDITORIAL_OR_STRUCTURAL_CHANGE",
+    "human_verified": false,
+    "source_ids": [
+      "E086"
+    ],
+    "after_text": "轨道安全也已有直接的综述基础。CAMmary[16]整理避碰机动设计及其模型和数值方法，并讨论操作约束、多次接近和风险近似。本文承接这类方法分类，进一步组织其与任务机会、资源占用、协同责任和机动后恢复的联系；同时包含调度和避碰、或讨论名义轨迹返回，并不单独构成新的综述贡献。",
+    "after_text_sha256": "2d861880ad3a292fbab025a7554ddbb0f556e555e13f7014d9015e3107df18b8",
+    "manuscript_start_line": 39
+  },
+  {
+    "record_id": "V34-P075",
+    "section": "表1",
+    "granularity": "change",
+    "reason": "在已有综述对照中加入直接最近邻",
+    "claim_ids": [],
+    "claim_kind": "EDITORIAL_OR_STRUCTURAL_CHANGE",
+    "human_verified": false,
+    "source_ids": [
+      "E002",
+      "E086"
+    ],
+    "after_text": "| 空间物流 | [5] | 部署、补给与服务资源 | 能力到位怎样改变行动选择和业务接续 |\n| 避碰机动设计 | [16] | 风险模型、机动方法及运行约束 | 轨道变化如何接入任务、资源、协同及恢复判断 |",
+    "after_text_sha256": "763112e005ed8dac5db240cf5d18d3c8f37d1deaffe46bd6bc673f9f98052c81",
+    "before_text_v33_or_stable_ids": "| 空间物流 | {@E002} | 部署、补给与服务资源 | 能力到位怎样改变行动选择和业务接续 |",
+    "manuscript_start_line": 53
+  },
+  {
+    "record_id": "V34-P076",
+    "section": "1.2",
+    "granularity": "passage",
+    "claim_ids": [],
+    "claim_kind": "AUTHOR_REVIEW_QUESTION",
+    "human_verified": false,
+    "source_ids": [],
+    "after_text": "全文的中心问题是：大型卫星星座怎样在轨道演化、空间安全和有限资源条件下形成业务与轨道调整决定，通过多星及星地协调采用方案，并依据执行结果保持或恢复业务能力？其中，业务决定选择任务和资源，轨道与安全决定选择维持、重构及风险处置，协同与恢复决定处理相互影响的动作和后续接续。三类决定沿形成、协调、采用和更新展开，在第4章交叉比较；持续服务按各业务自身结果评价。",
+    "after_text_sha256": "16a39244125f47cde69ef33990a73e2204f4f42d5c8240c8cb41093a76798b13",
+    "manuscript_start_line": 56
+  },
+  {
+    "record_id": "V34-P077",
+    "section": "1.2",
+    "granularity": "change",
+    "reason": "按原共享讨论校正全文主线，而非改成七章平行专题",
+    "claim_ids": [],
+    "claim_kind": "EDITORIAL_OR_STRUCTURAL_CHANGE",
+    "human_verified": false,
+    "source_ids": [],
+    "after_text": "全文的中心问题是：大型卫星星座怎样在轨道演化、空间安全和有限资源条件下形成业务与轨道调整决定，通过多星及星地协调采用方案，并依据执行结果保持或恢复业务能力？其中，业务决定选择任务和资源，轨道与安全决定选择维持、重构及风险处置，协同与恢复决定处理相互影响的动作和后续接续。三类决定沿形成、协调、采用和更新展开，在第4章交叉比较；持续服务按各业务自身结果评价。",
+    "after_text_sha256": "16a39244125f47cde69ef33990a73e2204f4f42d5c8240c8cb41093a76798b13",
+    "before_text_v33_or_stable_ids": "全文围绕三项相连的问题展开。第一，如何根据任务、资源和运行状态形成安排或调整措施，解释优化、搜索、学习与规则的实际作用。第二，如何在地面与多颗卫星之间分配计算和权限，协调任务归属及共享资源。第三，如何把候选方案变成被采用的安排，并依据执行结果保持、修复或扩大重规划范围。持续服务用于检验这些决定是否转化为业务结果，不作为无中断保证或跨业务统一分数。",
+    "manuscript_start_line": 56
+  },
+  {
+    "record_id": "V34-P078",
+    "section": "1.3",
+    "granularity": "passage",
+    "claim_ids": [],
+    "claim_kind": "AUTHOR_SCOPE_ALIGNED_TO_SHARED_DISCUSSION",
+    "human_verified": false,
+    "source_ids": [],
+    "after_text": "技术主体为任务与资源规划、多星协调，以及轨道构型维持、自主避碰和恢复中的决定。初始设计与部署只说明长期能力及运行条件；底层控制按允许动作、占用时段、状态偏差和保证前提进入比较，不全面展开控制器或轨道优化推导。几何筛查、风险评估、行动选择和实际执行分别讨论，目录运营避碰与近距离交会证据分别解释。单星、编队及地面研究按其机制使用，不以局部验证代替大型星座规模。",
+    "after_text_sha256": "37ba116977510c5c18da97ac2f70b936569e9a48914732adc9368c4ac70e1491",
+    "manuscript_start_line": 64
+  },
+  {
+    "record_id": "V34-P079",
+    "section": "1.3",
+    "granularity": "change",
+    "reason": "明确轨道研究地位及任务域边界",
+    "claim_ids": [],
+    "claim_kind": "EDITORIAL_OR_STRUCTURAL_CHANGE",
+    "human_verified": false,
+    "source_ids": [],
+    "after_text": "技术主体为任务与资源规划、多星协调，以及轨道构型维持、自主避碰和恢复中的决定。初始设计与部署只说明长期能力及运行条件；底层控制按允许动作、占用时段、状态偏差和保证前提进入比较，不全面展开控制器或轨道优化推导。几何筛查、风险评估、行动选择和实际执行分别讨论，目录运营避碰与近距离交会证据分别解释。单星、编队及地面研究按其机制使用，不以局部验证代替大型星座规模。",
+    "after_text_sha256": "37ba116977510c5c18da97ac2f70b936569e9a48914732adc9368c4ac70e1491",
+    "before_text_v33_or_stable_ids": "技术主体为任务规划、资源配置、多星协调和运行变化后的调整。状态监测及诊断以事实、估计和不确定性进入决策；协同安全控制按联合动作、执行权限、机动占用、故障后分离及恢复条件解释。本文不全面分类控制器、姿轨动力学模型或认证体系，而是分析这些条件怎样限制运行计划。近距离编队用于揭示成员间耦合，单星及地面方法用于解释有限机制，均不直接代表大型星座的验证规模。",
+    "manuscript_start_line": 64
+  },
+  {
+    "record_id": "V34-P080",
+    "section": "第3章导语",
+    "granularity": "change",
+    "reason": "五章结构及3.1—3.3保留，轨道线贯穿而非另设平行章",
+    "claim_ids": [],
+    "claim_kind": "EDITORIAL_OR_STRUCTURAL_CHANGE",
+    "human_verified": false,
+    "source_ids": [],
+    "after_text": "本章保留任务和资源调度的算法深度。3.1—3.3解释优化、搜索和学习怎样形成候选，3.4分析多星组织及共同安全责任，3.5连接状态、措施与计划更新，3.6按维持、风险判断和机动恢复分析轨道决策。算法机制、计算组织和更新方式可以交叉；各方法的运行取舍统一在第4章比较。",
+    "after_text_sha256": "6bcbdba7d7393109915b17832ab9ac5f1bb21b90d8fb994a31662c972d705456",
+    "before_text_v33_or_stable_ids": "本章保留任务和资源调度的算法深度，再说明运行状态如何影响后续行动。3.1—3.3解释求解机制，3.4分析多星组织，3.5连接状态与计划调整，3.6讨论协同安全机动和恢复的决策接口。这些维度可以出现在同一方法中，不构成相互排斥的算法分类树。",
+    "manuscript_start_line": 144
+  },
+  {
+    "record_id": "V34-P081",
+    "section": "摘要",
+    "granularity": "passage",
+    "claim_ids": [],
+    "claim_kind": "AUTHOR_SYNTHESIS_OF_BODY",
+    "human_verified": false,
+    "source_ids": [],
+    "after_text": "大型卫星星座的智能运行管理既要在现有轨道上安排任务与资源，也要根据构型演化和接近风险选择轨道调整，并确认调整后业务能够继续。本文采用问题导向的叙述性综述，聚焦规划与协同决策层，以对地观测和通信为主要业务场景，联系业务安排、轨道与安全处置以及协同恢复三类决定。首先梳理优化、启发式、学习和规则形成候选的方法，再比较多星协调、状态驱动更新，以及构型维持、风险评估、避碰机动和恢复的机制。综合表明，候选缩减、局部协调和计划复用减少不同计算工作，其价值需结合候选损失与完整响应过程评价；轨道机动既消耗资源，也改变未来任务机会，联合决定的收益取决于可调变量、适用安全要求及计算预算；几何筛查、概率风险、共同控制可行性和执行验证具有不同对象，个体安全动作不能直接推出群体共同可行；终态恢复、全程约束、功能可用和业务满足应分别确认。本文据此讨论拟定轨迹共享、批准与承诺时机、执行偏差和任务再采用，提出有限预算下的决定组合、信息与授权限制下的安全协调，以及轨道调整后的业务恢复问题。所作比较保留各研究的模型、实际版本和验证环境，不将局部仿真或同一飞行任务的多份报告拼接为大型星座整体验证。",
+    "after_text_sha256": "d284c1dc3aa6df395b8f4ad9428db1d683020b799d68f015fcdd11b03605bfa8",
+    "manuscript_start_line": 9
+  },
+  {
+    "record_id": "V34-P082",
+    "section": "摘要",
+    "granularity": "change",
+    "reason": "正文完成后回修摘要，明确轨道改变任务条件",
+    "claim_ids": [],
+    "claim_kind": "EDITORIAL_OR_STRUCTURAL_CHANGE",
+    "human_verified": false,
+    "source_ids": [],
+    "after_text": "大型卫星星座的智能运行管理既要在现有轨道上安排任务与资源，也要根据构型演化和接近风险选择轨道调整，并确认调整后业务能够继续。本文采用问题导向的叙述性综述，聚焦规划与协同决策层，以对地观测和通信为主要业务场景，联系业务安排、轨道与安全处置以及协同恢复三类决定。首先梳理优化、启发式、学习和规则形成候选的方法，再比较多星协调、状态驱动更新，以及构型维持、风险评估、避碰机动和恢复的机制。综合表明，候选缩减、局部协调和计划复用减少不同计算工作，其价值需结合候选损失与完整响应过程评价；轨道机动既消耗资源，也改变未来任务机会，联合决定的收益取决于可调变量、适用安全要求及计算预算；几何筛查、概率风险、共同控制可行性和执行验证具有不同对象，个体安全动作不能直接推出群体共同可行；终态恢复、全程约束、功能可用和业务满足应分别确认。本文据此讨论拟定轨迹共享、批准与承诺时机、执行偏差和任务再采用，提出有限预算下的决定组合、信息与授权限制下的安全协调，以及轨道调整后的业务恢复问题。所作比较保留各研究的模型、实际版本和验证环境，不将局部仿真或同一飞行任务的多份报告拼接为大型星座整体验证。",
+    "after_text_sha256": "d284c1dc3aa6df395b8f4ad9428db1d683020b799d68f015fcdd11b03605bfa8",
+    "before_text_v33_or_stable_ids": "大型卫星星座的智能运行管理，需要形成任务与资源安排，协调多个决策主体，并在运行状态变化后确认调整措施能够投入执行。本文采用问题导向的叙述性综述，将范围限定于规划与协同决策层，以对地观测和通信为主要业务场景，沿决定形成、跨星协调以及采用与更新组织代表研究。任务分配、活动安排和资源优化构成主要算法内容，规则推理、计划修复及协同安全机动用于分析状态变化怎样影响后续行动。比较表明，候选缩减、局部协调、计划复用和预计算减少不同类型的工作，其价值取决于保留的选择和完整运行成本；多星安全过滤、联合机动和预分配安全结构依赖不同的信息、控制权限及可行性条件，不能由个体安全输入推定群体约束共同满足；避碰、失效接管和轨道恢复还须接续导航更新、任务重分配及执行确认，才能评价业务恢复。本文按模型性质、实际运行环节和验证规模组织证据，区分正常机动与失控漂移、节点检查与连续执行，以及仿真、软件在环和在轨任务报告。由此提出有限预算下的决策组合、延迟信息与动作权限、恢复措施与业务接续的比较问题，为大型星座运行决策方法的选取和衔接提供有条件的依据。",
+    "manuscript_start_line": 9
+  },
+  {
+    "record_id": "V34-P083",
+    "section": "Abstract",
+    "granularity": "passage",
+    "claim_ids": [],
+    "claim_kind": "AUTHOR_SYNTHESIS_OF_BODY",
+    "human_verified": false,
+    "source_ids": [],
+    "after_text": "Intelligent operations management of large satellite constellations must schedule tasks and resources on existing orbits, select orbital adjustments as formations evolve or conjunction risks emerge, and establish whether service can continue afterward. This problem-driven narrative review focuses on planning and coordinated decision-making, using Earth observation and communications as the principal service domains. It connects service planning, orbital and safety decisions, and coordinated recovery. Optimization, heuristics, learning, and rules are examined alongside multi-spacecraft coordination, state-dependent replanning, formation maintenance, risk assessment, avoidance maneuvers, and recovery. The synthesis identifies four conditional findings. Candidate reduction, local coordination, and plan reuse reduce different workloads and must be assessed against lost choices and the complete response process. Maneuvers consume resources and alter future task opportunities, so the value of joint decisions depends on adjustable variables, applicable safety requirements, and computational budgets. Geometric screening, probabilistic risk, joint control feasibility, and execution validation address different objects; individually admissible actions do not establish joint feasibility. Terminal recovery, constraints throughout a transfer, functional availability, and service fulfillment require separate confirmation. These distinctions support comparisons of planned-trajectory sharing, approval and commitment timing, execution deviations, and plan adoption. The resulting research questions concern decision coupling under limited budgets, safe coordination under information and authority constraints, and service recovery after orbital changes. Conclusions remain bounded by the models, source versions, and validation environments; local simulations and multiple reports from one flight mission do not constitute integrated large-constellation validation.",
+    "after_text_sha256": "78444193d8649ee2b097f5ded8de26ec8b6b2570e022f60926cf94030d03d139",
+    "manuscript_start_line": 15
+  },
+  {
+    "record_id": "V34-P084",
+    "section": "Abstract",
+    "granularity": "change",
+    "reason": "同步英文摘要，不生成完整英文正文",
+    "claim_ids": [],
+    "claim_kind": "EDITORIAL_OR_STRUCTURAL_CHANGE",
+    "human_verified": false,
+    "source_ids": [],
+    "after_text": "Intelligent operations management of large satellite constellations must schedule tasks and resources on existing orbits, select orbital adjustments as formations evolve or conjunction risks emerge, and establish whether service can continue afterward. This problem-driven narrative review focuses on planning and coordinated decision-making, using Earth observation and communications as the principal service domains. It connects service planning, orbital and safety decisions, and coordinated recovery. Optimization, heuristics, learning, and rules are examined alongside multi-spacecraft coordination, state-dependent replanning, formation maintenance, risk assessment, avoidance maneuvers, and recovery. The synthesis identifies four conditional findings. Candidate reduction, local coordination, and plan reuse reduce different workloads and must be assessed against lost choices and the complete response process. Maneuvers consume resources and alter future task opportunities, so the value of joint decisions depends on adjustable variables, applicable safety requirements, and computational budgets. Geometric screening, probabilistic risk, joint control feasibility, and execution validation address different objects; individually admissible actions do not establish joint feasibility. Terminal recovery, constraints throughout a transfer, functional availability, and service fulfillment require separate confirmation. These distinctions support comparisons of planned-trajectory sharing, approval and commitment timing, execution deviations, and plan adoption. The resulting research questions concern decision coupling under limited budgets, safe coordination under information and authority constraints, and service recovery after orbital changes. Conclusions remain bounded by the models, source versions, and validation environments; local simulations and multiple reports from one flight mission do not constitute integrated large-constellation validation.",
+    "after_text_sha256": "78444193d8649ee2b097f5ded8de26ec8b6b2570e022f60926cf94030d03d139",
+    "before_text_v33_or_stable_ids": "Intelligent operations management of large satellite constellations requires task and resource plans, coordination among decision makers, and confirmation that revised actions can be executed after operational changes. This problem-driven narrative review focuses on planning and coordinated decision-making, using Earth observation and communications as the principal service domains. Representative studies are organized around decision formation, multi-satellite coordination, and decision adoption and updating. Task allocation, activity scheduling, and resource optimization provide the algorithmic foundation; rule-based reasoning, plan repair, and coordinated safety maneuvers explain how changing states affect subsequent actions. The synthesis distinguishes workloads reduced by candidate filtering, local coordination, plan reuse, and precomputation, relating their value to retained choices and total operational cost. Multi-spacecraft safety filters, joint maneuver planning, and preassigned safe structures rely on different information, control authority, and feasibility conditions; individually admissible inputs do not establish joint satisfaction of the formation constraints. Collision avoidance, fault response, and orbital recovery must also connect to navigation updates, task reassignment, and execution confirmation before service recovery can be assessed. Evidence is organized by model properties, functions actually evaluated, and validation scale, separating nominal maneuvers from uncontrolled drift, node-wise checks from continuous execution, and simulation from software-in-the-loop and flight reports. The resulting research questions concern decision coupling under limited budgets, delayed information and action authority, and the connection between recovery measures and service resumption. These conditional comparisons support method selection without claiming integrated large-constellation autonomy.",
+    "manuscript_start_line": 15
+  },
+  {
+    "record_id": "V34-P085",
+    "section": "关键词",
+    "granularity": "change",
+    "reason": "对齐实际主线",
+    "claim_ids": [],
+    "claim_kind": "EDITORIAL_OR_STRUCTURAL_CHANGE",
+    "human_verified": false,
+    "source_ids": [],
+    "after_text": "**关键词：** 大型卫星星座；智能运行管理；协同决策；任务规划；构型维持；自主避碰；业务恢复",
+    "after_text_sha256": "d9c5ce94bd5cdc08f3c044001826d1c0c963d8f53faf4b744d82a0372b9c7007",
+    "before_text_v33_or_stable_ids": "**关键词：** 大型卫星星座；智能运行管理；任务规划；协同决策；资源配置；安全控制；任务恢复",
+    "manuscript_start_line": 11
+  },
+  {
+    "record_id": "V34-P086",
+    "section": "Keywords",
+    "granularity": "change",
+    "reason": "中英文关键词同步",
+    "claim_ids": [],
+    "claim_kind": "EDITORIAL_OR_STRUCTURAL_CHANGE",
+    "human_verified": false,
+    "source_ids": [],
+    "after_text": "**Keywords:** large satellite constellations; intelligent operations management; coordinated decision-making; mission planning; formation maintenance; autonomous collision avoidance; service recovery",
+    "after_text_sha256": "52202ae00ec50217ca7f52f811a8e0681f4cc54c3245ff1587d500fd06e1836b",
+    "before_text_v33_or_stable_ids": "**Keywords:** large satellite constellations; intelligent operations management; mission planning; coordinated decision-making; resource allocation; safety control; mission recovery",
+    "manuscript_start_line": 17
+  },
+  {
+    "record_id": "V34-P087",
+    "section": "5",
+    "granularity": "passage",
+    "claim_ids": [],
+    "claim_kind": "AUTHOR_SYNTHESIS_OF_BODY",
+    "human_verified": false,
+    "source_ids": [],
+    "after_text": "本文聚焦大型卫星星座智能运行管理中的规划与协同决策，联系业务安排、轨道与安全处置，以及协同和恢复决定。优化、搜索、学习与规则解释候选怎样形成，多星组织和状态更新解释决定怎样协调并进入运行。轨道既提供任务机会，也会被维持、重构或避碰改变；因此，运行管理需要在轨道演化、安全和资源条件下持续评价后续活动。",
+    "after_text_sha256": "5c088825cdef11aedb5506d5ada88b79702afcda082ec71c053d8e5895308eae",
+    "manuscript_start_line": 490
+  },
+  {
+    "record_id": "V34-P088",
+    "section": "5",
+    "granularity": "passage",
+    "claim_ids": [],
+    "claim_kind": "AUTHOR_SYNTHESIS_OF_BODY",
+    "human_verified": false,
+    "source_ids": [],
+    "after_text": "现有材料支持四项有条件的认识。第一，候选筛减、局部协调、复用与预计算减少不同工作，应连同候选损失、信息更新和完整采用时间评价。第二，任务安排和轨道动作存在双向影响；联合模型的价值取决于允许改变的内容、业务目标和适用安全要求，不能仅按变量更多或局部燃料更少判断。第三，几何接近、概率风险、联合控制可行性和实际执行各有不同前提；多个局部保证不能叠加成更强的群体保证。第四，安全退出与终态到位还须接续全程约束核查、功能确认、计划采用和业务结果，才能判断恢复完成到哪一层。",
+    "after_text_sha256": "6706a8502694f0924e1e4b3d637ead8f955d6819d36b80f24c613f04190badc3",
+    "manuscript_start_line": 492
+  },
+  {
+    "record_id": "V34-P089",
+    "section": "5",
+    "granularity": "passage",
+    "claim_ids": [],
+    "claim_kind": "AUTHOR_SYNTHESIS_OF_BODY",
+    "human_verified": false,
+    "source_ids": [],
+    "after_text": "构型维持、风险评估和避碰恢复已有各自的理论、仿真及运行研究。本文的综合重点是比较它们的决定范围与交接条件，不以覆盖多个环节本身主张新架构，也不把任务等效轨道当作所有业务均可采用的恢复策略。单星或少量成员模型、目录运营流程、软件检查和在轨任务各支持不同认识；同一任务线的多篇报告保持关联，人工与地面职责按实际记录保留。",
+    "after_text_sha256": "9c53cb360985d3aa05cbf81735116700d28238caaa3f12711e6daea7bd52d8e1",
+    "manuscript_start_line": 494
+  },
+  {
+    "record_id": "V34-P090",
+    "section": "5",
+    "granularity": "passage",
+    "claim_ids": [],
+    "claim_kind": "PROPOSED_RESEARCH_SYNTHESIS",
+    "human_verified": false,
+    "source_ids": [],
+    "after_text": "后续研究可在共同任务、动力学、信息、控制和授权条件下，检验有限预算中应联合哪些决定、信息与权限怎样影响安全协调，以及轨道调整后怎样以可接受成本恢复业务。评价应同时记录风险与约束残差、控制和协调代价、恢复状态、未满足需求及新计划的实际采用。上述接口的联合验证仍需按任务与规模开展，本文不由所选文献的覆盖不足断言整个领域缺少相应研究。",
+    "after_text_sha256": "5232935dc46d88457485024c21900039a872df29ff2ba85760775abb93f6d6f6",
+    "manuscript_start_line": 496
+  },
+  {
+    "record_id": "V34-P091",
+    "section": "5",
+    "granularity": "change",
+    "reason": "结论回到轨道、业务、安全及执行反馈的具体认识",
+    "claim_ids": [],
+    "claim_kind": "EDITORIAL_OR_STRUCTURAL_CHANGE",
+    "human_verified": false,
+    "source_ids": [],
+    "after_text": "## 5 结论\n\n本文聚焦大型卫星星座智能运行管理中的规划与协同决策，联系业务安排、轨道与安全处置，以及协同和恢复决定。优化、搜索、学习与规则解释候选怎样形成，多星组织和状态更新解释决定怎样协调并进入运行。轨道既提供任务机会，也会被维持、重构或避碰改变；因此，运行管理需要在轨道演化、安全和资源条件下持续评价后续活动。\n\n现有材料支持四项有条件的认识。第一，候选筛减、局部协调、复用与预计算减少不同工作，应连同候选损失、信息更新和完整采用时间评价。第二，任务安排和轨道动作存在双向影响；联合模型的价值取决于允许改变的内容、业务目标和适用安全要求，不能仅按变量更多或局部燃料更少判断。第三，几何接近、概率风险、联合控制可行性和实际执行各有不同前提；多个局部保证不能叠加成更强的群体保证。第四，安全退出与终态到位还须接续全程约束核查、功能确认、计划采用和业务结果，才能判断恢复完成到哪一层。\n\n构型维持、风险评估和避碰恢复已有各自的理论、仿真及运行研究。本文的综合重点是比较它们的决定范围与交接条件，不以覆盖多个环节本身主张新架构，也不把任务等效轨道当作所有业务均可采用的恢复策略。单星或少量成员模型、目录运营流程、软件检查和在轨任务各支持不同认识；同一任务线的多篇报告保持关联，人工与地面职责按实际记录保留。\n\n后续研究可在共同任务、动力学、信息、控制和授权条件下，检验有限预算中应联合哪些决定、信息与权限怎样影响安全协调，以及轨道调整后怎样以可接受成本恢复业务。评价应同时记录风险与约束残差、控制和协调代价、恢复状态、未满足需求及新计划的实际采用。上述接口的联合验证仍需按任务与规模开展，本文不由所选文献的覆盖不足断言整个领域缺少相应研究。\n\n",
+    "after_text_sha256": "334b13432ea9a5774a33ef88b4644f7ae6a76f9b4757267684c6263866374a14",
+    "before_text_v33_or_stable_ids": "## 5 结论\n\n本文将大型卫星星座智能运行管理的分析范围限定在规划与协同决策层，沿决定形成、跨星协调以及采用和更新组织研究。任务与资源调度提供具体算法基础，状态驱动的策略与恢复行动说明变化怎样成为新的决定，执行监督和批准条件说明候选如何进入实际运行。观测和通信分别保留交付与持续服务指标，不用同一分数替代不同任务要求。\n\n现有证据支持四项有条件的认识。第一，候选压缩、局部协调、计划复用、预计算与学习分别改变不同工作，收益须与状态适用性和完整采用成本一起评价。第二，计算位置、决策范围与修改权限不同，更多联合变量或更快局部动作不能代替跨节点冲突处理及授权。第三，多星安全动作依赖联合控制可行性、信息及更新协议；正常参考、失控漂移、离散检查和实际执行需要分别说明。第四，安全退出、能力恢复、计划采用和业务满足是不同结果，反馈的价值取决于状态更新能否继续改变后续任务与资源安排。\n\n优化、启发式、学习和规则并非相互替代的智能等级。它们可以分别承担资源权衡、搜索、策略选择、行动生成及结果处理，组合效果仍需在明确的信息、约束和权限条件下验证。单星、地面原型、软件任务和特定多星飞行案例提供不同范围的证据，不能扩展为已完成巨型星座自主运行验证。\n\n后续应围绕有限预算下的决策组合、延迟信息与动作权限，以及安全措施和业务接续开展受控比较。本文的贡献是把算法机制与运行职责、采用条件及证据范围相联系；各类局部证据仍不足以确认一个统一的大型星座恢复系统。其结论受所选来源、实际版本和原研究验证范围限制。\n\n",
+    "manuscript_start_line": 488
+  }
+]
