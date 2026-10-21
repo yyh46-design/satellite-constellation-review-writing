@@ -1,0 +1,215 @@
+{
+  "date": "2026-10-21",
+  "selected_ids": [
+    "L004",
+    "L008",
+    "L014",
+    "L015",
+    "L018",
+    "L030",
+    "L033",
+    "L034",
+    "L036",
+    "L071"
+  ],
+  "source_access_method": "Public remote PDF text extraction via browsing tool",
+  "selected_source_binary_download_success_count": 0,
+  "selected_pdf_binary_sha256_available_count": 0,
+  "selected_visual_pages_success_count": 0,
+  "failed_or_metadata_attempts": [
+    {
+      "id": "L004",
+      "url": "https://dspace.mit.edu/bitstreams/66fe80f1-1f0a-47c7-901c-717a83227f63/download",
+      "status": "failed",
+      "error": "curl: (22) The requested URL returned error: 429\n"
+    },
+    {
+      "id": "L014",
+      "url": "https://arpi.unipi.it/retrieve/e0d6c930-940a-fcf8-e053-d805fe0aa794/%5B2020%5D%20Electric%20sail%20phasing%20maneuvers%20for%20constellation%20deployment.pdf",
+      "status": "failed",
+      "error": "curl: (22) The requested URL returned error: 403\n"
+    },
+    {
+      "id": "L030",
+      "url": "https://www.researchgate.net/profile/Salvatore-Alfano/publication/245432708_Satellite_Collision_Probability_Enhancements/links/5473bf6b0cf29afed60f5a3f/Satellite-Collision-Probability-Enhancements.pdf",
+      "status": "failed",
+      "error": "curl: (43) A libcurl function was given a bad argument\n"
+    },
+    {
+      "id": "L051_landing",
+      "url": "https://hdl.handle.net/11250/4702886",
+      "status": "failed",
+      "error": "curl: (43) A libcurl function was given a bad argument\n"
+    },
+    {
+      "id": "L052_meta",
+      "url": "https://api.archives-ouvertes.fr/search/?q=halId_s:hal-03847541&fl=*&wt=json",
+      "status": "non_pdf",
+      "bytes": 117056,
+      "sha256": "d9df9817e0813bad1202c468398a8a1f9e68945a5e4717edd0890f492efaa6ac",
+      "files": [
+        {
+          "docid": "3847541",
+          "en_title_s": [
+            "Multi-maneuvers algorithms for multi-risk collision avoidance via nonconvex quadratic optimization"
+          ],
+          "title_s": [
+            "Multi-maneuvers algorithms for multi-risk collision avoidance via nonconvex quadratic optimization"
+          ],
+          "conferenceTitle_s": "IFAC World Congress 2023",
+          "europeanProjectTitle_s": [
+            "Automatisation et système bord autonome pour la gestion des risques de collision"
+          ],
+          "europeanProjectIdTitle_fs": [
+            "727334_FacetSep_Automatisation et système bord autonome pour la gestion des risques de collision"
+          ],
+          "europeanProjectTitleId_fs": [
+            "Automatisation et système bord autonome pour la gestion des risques de collision_FacetSep_727334"
+          ],
+          "uri_s": "https://laas.hal.science/hal-03847541v1",
+          "fileMain_s": "https://laas.hal.science/hal-03847541/document",
+          "files_s": [
+            "https://laas.hal.science/hal-03847541/file/IFAC_WC23_submitted.pdf"
+          ],
+          "fileLicenses_s": [
+            "https://about.hal.science/hal-authorisation-v1/"
+          ],
+          "fileType_s": [
+            "file"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "L052_xml",
+      "url": "https://api.elsevier.com/content/article/doi/10.1016/j.ifacol.2023.10.1094?httpAccept=text/xml",
+      "resolved_url": "https://api.elsevier.com/content/article/doi/10.1016/j.ifacol.2023.10.1094?httpAccept=text/xml",
+      "bytes": 1836,
+      "sha256": "ccde514d73fddbb6d69cf16aea2efd0720149dd970054898581ec9e684bfbcaa",
+      "status": "non_pdf",
+      "head": "<full-text-retrieval-response xmlns=\"http://www.elsevier.com/xml/svapi/article/dtd\" xmlns:bk=\"http:/",
+      "body_chars": 0
+    },
+    {
+      "id": "L058_xml",
+      "url": "https://api.elsevier.com/content/article/doi/10.1016/j.cja.2025.103814?httpAccept=text/xml",
+      "resolved_url": "https://api.elsevier.com/content/article/doi/10.1016/j.cja.2025.103814?httpAccept=text/xml",
+      "bytes": 1972,
+      "sha256": "caf5813fb6f458c5293166e289d2c2303376a245f5dfdb1b915a413b2645480d",
+      "status": "non_pdf",
+      "head": "<full-text-retrieval-response xmlns=\"http://www.elsevier.com/xml/svapi/article/dtd\" xmlns:bk=\"http:/",
+      "body_chars": 0
+    },
+    {
+      "id": "L067",
+      "url": "https://ieeexplore.ieee.org/ielx8/6221036/10807684/10756224.pdf",
+      "status": "failed",
+      "error": "curl: (22) The requested URL returned error: 418\n"
+    },
+    {
+      "id": "L069_xml",
+      "url": "https://api.elsevier.com/content/article/doi/10.1016/j.ast.2022.107917?httpAccept=text/xml",
+      "resolved_url": "https://api.elsevier.com/content/article/doi/10.1016/j.ast.2022.107917?httpAccept=text/xml",
+      "bytes": 1861,
+      "sha256": "533a364aadaeb41d4050563a36366d54e0e1ab7d05893d03e7a76639a904a67c",
+      "status": "non_pdf",
+      "head": "<full-text-retrieval-response xmlns=\"http://www.elsevier.com/xml/svapi/article/dtd\" xmlns:bk=\"http:/",
+      "body_chars": 0
+    },
+    {
+      "id": "L070_xml",
+      "url": "https://api.elsevier.com/content/article/doi/10.1016/j.actaastro.2023.01.017?httpAccept=text/xml",
+      "resolved_url": "https://api.elsevier.com/content/article/doi/10.1016/j.actaastro.2023.01.017?httpAccept=text/xml",
+      "bytes": 1869,
+      "sha256": "8befd92b9fc78de7854db1afa2c19376ceb77c9e6794c617711da2973a9ad8ad",
+      "status": "non_pdf",
+      "head": "<full-text-retrieval-response xmlns=\"http://www.elsevier.com/xml/svapi/article/dtd\" xmlns:bk=\"http:/",
+      "body_chars": 0
+    },
+    {
+      "id": "L072",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2405896326000777/pdf",
+      "status": "failed",
+      "error": "curl: (43) A libcurl function was given a bad argument\n"
+    },
+    {
+      "id": "L072_xml",
+      "url": "https://api.elsevier.com/content/article/doi/10.1016/j.ifacol.2026.01.070?httpAccept=text/xml",
+      "resolved_url": "https://api.elsevier.com/content/article/doi/10.1016/j.ifacol.2026.01.070?httpAccept=text/xml",
+      "bytes": 2092,
+      "sha256": "02fbea3022916d795751385b0a1d79df1eb3fed23d9f1c60286936789a451d82",
+      "status": "non_pdf",
+      "head": "<full-text-retrieval-response xmlns=\"http://www.elsevier.com/xml/svapi/article/dtd\" xmlns:bk=\"http:/",
+      "body_chars": 0
+    },
+    {
+      "id": "L075_meta2",
+      "url": "https://api.figshare.com/v2/articles/25903648/versions/1",
+      "status": "failed",
+      "error": "curl: (22) The requested URL returned error: 403\n"
+    },
+    {
+      "id": "L075_meta",
+      "url": "https://api.figshare.com/v2/articles/25903648",
+      "status": "failed",
+      "error": "curl: (22) The requested URL returned error: 403\n"
+    },
+    {
+      "id": "L078_landing",
+      "url": "https://hal.science/hal-05410521v1",
+      "resolved_url": "https://hal.science/hal-05410521v1",
+      "bytes": 12507,
+      "sha256": "d8ce742f6e806d29de9141571e48d16096154e78d0ef526cbe78a7e1d9fbbd88",
+      "status": "non_pdf",
+      "head": "<!doctype html><html lang=\"en\"><head><title>Making sure you&#39;re not a bot!</title><link rel=\"styl",
+      "links": []
+    },
+    {
+      "id": "L078_meta2",
+      "url": "https://api.archives-ouvertes.fr/search/?q=halId_s:hal-05410521&fl=*&wt=json",
+      "status": "non_pdf",
+      "bytes": 51322,
+      "sha256": "9ad3e3192e6620e190839db653651b259e5c7326efbac816268b9146212a0846",
+      "files": [
+        {
+          "docid": "5410521",
+          "en_title_s": [
+            "An On-Orbit Servicing Framework for Satellite Collision Avoidance: Autonomous Mission Planning with Reinforcement Learning"
+          ],
+          "title_s": [
+            "An On-Orbit Servicing Framework for Satellite Collision Avoidance: Autonomous Mission Planning with Reinforcement Learning"
+          ],
+          "journalTitle_s": "Advances in Space Research",
+          "journalIdTitle_fs": "10237_FacetSep_Advances in Space Research",
+          "journalTitleId_fs": "Advances in Space Research_FacetSep_10237",
+          "journalTitleAbbr_s": "Adv. Space Res.",
+          "anrProjectTitle_s": [
+            "Planification et gestion résilientes et durables de la future infrastructure de l'industrie spatiale avec des services en orbite"
+          ],
+          "anrProjectIdTitle_fs": [
+            "103266_FacetSep_Planification et gestion résilientes et durables de la future infrastructure de l'industrie spatiale avec des services en orbite"
+          ],
+          "anrProjectTitleId_fs": [
+            "Planification et gestion résilientes et durables de la future infrastructure de l'industrie spatiale avec des services en orbite_FacetSep_103266"
+          ],
+          "uri_s": "https://hal.science/hal-05410521v1",
+          "fileMain_s": "https://hal.science/hal-05410521/document",
+          "files_s": [
+            "https://hal.science/hal-05410521/file/1-s2.0-S0273117725014322-main.pdf"
+          ],
+          "fileLicenses_s": [
+            "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+          ],
+          "fileType_s": [
+            "file"
+          ]
+        }
+      ]
+    }
+  ],
+  "visual_attempt_outcome": "Screenshot calls returned textual references or disabled/no image results; no visual-review credit",
+  "source_archive_policy": "No source PDF or full extracted article text committed to Git",
+  "partial_not_counted": [
+    "L003"
+  ]
+}

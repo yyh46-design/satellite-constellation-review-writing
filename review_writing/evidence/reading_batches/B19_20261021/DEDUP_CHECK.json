@@ -1,0 +1,92 @@
+{
+  "registers": [
+    {
+      "path": "D:\\SKT727\\worktrees\\constellation_review_b19_20261021\\review_writing\\literature\\literature_index_148.csv",
+      "sha256": "bd867890b780e0ddbfe07bbcb171a167e69e691421e619806c6c556e3d9c2f18"
+    },
+    {
+      "path": "D:\\SKT727\\worktrees\\constellation_review_b19_20261021\\review_writing\\manuscripts\\v3.2-cn\\references\\SOURCE_LIBRARY_95_BASELINE_v3.1.csv",
+      "sha256": "4396379b0e5e53a45cb5aded3c787748722f87981ec4a592e1cea729a9aba73c"
+    },
+    {
+      "path": "D:\\SKT727\\outputs\\constellation_review_literature_pool_20261020\\LITERATURE_POOL.json",
+      "sha256": "54bb868cf5233d8e865d2649471e795988fad39787d18f276c22bef617ee6206"
+    },
+    {
+      "path": "D:\\SKT727\\worktrees\\constellation_review_b19_20261021\\review_writing\\evidence\\reading_inventory_20261013\\READING_LEDGER_121.json",
+      "sha256": "0c38dca7302e00e3b608bcd92943cabc3c325b4c46b4b94c4521c3967090fea8"
+    }
+  ],
+  "register_matches": [
+    {
+      "pool_id": "L004",
+      "register": "D:\\SKT727\\outputs\\constellation_review_literature_pool_20261020\\LITERATURE_POOL.json",
+      "interpretation": "Expected candidate/register hit; does not by itself establish prior body reading"
+    },
+    {
+      "pool_id": "L008",
+      "register": "D:\\SKT727\\outputs\\constellation_review_literature_pool_20261020\\LITERATURE_POOL.json",
+      "interpretation": "Expected candidate/register hit; does not by itself establish prior body reading"
+    },
+    {
+      "pool_id": "L014",
+      "register": "D:\\SKT727\\outputs\\constellation_review_literature_pool_20261020\\LITERATURE_POOL.json",
+      "interpretation": "Expected candidate/register hit; does not by itself establish prior body reading"
+    },
+    {
+      "pool_id": "L015",
+      "register": "D:\\SKT727\\outputs\\constellation_review_literature_pool_20261020\\LITERATURE_POOL.json",
+      "interpretation": "Expected candidate/register hit; does not by itself establish prior body reading"
+    },
+    {
+      "pool_id": "L018",
+      "register": "D:\\SKT727\\outputs\\constellation_review_literature_pool_20261020\\LITERATURE_POOL.json",
+      "interpretation": "Expected candidate/register hit; does not by itself establish prior body reading"
+    },
+    {
+      "pool_id": "L030",
+      "register": "D:\\SKT727\\outputs\\constellation_review_literature_pool_20261020\\LITERATURE_POOL.json",
+      "interpretation": "Expected candidate/register hit; does not by itself establish prior body reading"
+    },
+    {
+      "pool_id": "L033",
+      "register": "D:\\SKT727\\outputs\\constellation_review_literature_pool_20261020\\LITERATURE_POOL.json",
+      "interpretation": "Expected candidate/register hit; does not by itself establish prior body reading"
+    },
+    {
+      "pool_id": "L034",
+      "register": "D:\\SKT727\\outputs\\constellation_review_literature_pool_20261020\\LITERATURE_POOL.json",
+      "interpretation": "Expected candidate/register hit; does not by itself establish prior body reading"
+    },
+    {
+      "pool_id": "L036",
+      "register": "D:\\SKT727\\outputs\\constellation_review_literature_pool_20261020\\LITERATURE_POOL.json",
+      "interpretation": "Expected candidate/register hit; does not by itself establish prior body reading"
+    },
+    {
+      "pool_id": "L071",
+      "register": "D:\\SKT727\\outputs\\constellation_review_literature_pool_20261020\\LITERATURE_POOL.json",
+      "interpretation": "Expected candidate/register hit; does not by itself establish prior body reading"
+    }
+  ],
+  "register_matches_are_expected": true,
+  "prior_B11_through_B18_source_records_checked": 80,
+  "prior_body_read_matches": [],
+  "selected_original_pool_ids": [
+    "L004",
+    "L008",
+    "L014",
+    "L015",
+    "L018",
+    "L030",
+    "L033",
+    "L034",
+    "L036",
+    "L071"
+  ],
+  "new_supplement_count": 0,
+  "partial_not_counted": [
+    "L003"
+  ],
+  "scope": "Identifier and normalized-title comparison; candidate discovery is not counted as close reading"
+}

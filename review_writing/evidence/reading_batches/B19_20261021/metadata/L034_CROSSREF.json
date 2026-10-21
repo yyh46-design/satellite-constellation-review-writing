@@ -1,0 +1,385 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        9,
+        29
+      ]
+    ],
+    "date-time": "2026-09-29T18:08:22Z",
+    "timestamp": 1790705302588,
+    "version": "4.1.0"
+  },
+  "reference-count": 29,
+  "publisher": "American Institute of Aeronautics and Astronautics (AIAA)",
+  "issue": "3",
+  "content-domain": {
+    "domain": [
+      "arc.aiaa.org"
+    ],
+    "crossmark-restriction": true
+  },
+  "short-container-title": [
+    "Journal of Guidance, Control, and Dynamics"
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2014,
+        5
+      ]
+    ]
+  },
+  "DOI": "10.2514/1.62308",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2014,
+        2,
+        12
+      ]
+    ],
+    "date-time": "2014-02-12T17:06:48Z",
+    "timestamp": 1392224808000
+  },
+  "page": "979-985",
+  "update-policy": "https://doi.org/10.2514/aiaa_crossmarkpolicy",
+  "source": "Crossref",
+  "is-referenced-by-count": 57,
+  "title": [
+    "Collision Probability with Gaussian Mixture Orbit Uncertainty"
+  ],
+  "prefix": "10.2514",
+  "volume": "37",
+  "author": [
+    {
+      "given": "Kyle J.",
+      "family": "DeMars",
+      "sequence": "first",
+      "affiliation": [
+        {
+          "name": "Department of Mechanical and Aerospace Engineering, Missouri University of Science and Technology, Rolla, Missouri 65409"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Yang",
+      "family": "Cheng",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Department of Aerospace Engineering, Mississippi State University, Mississippi State, Mississippi 39762"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Moriba K.",
+      "family": "Jah",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "U.S. Air Force Research Laboratory, Kirtland Air Force Base, New Mexico 87117"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "member": "1387",
+  "reference": [
+    {
+      "issue": "2",
+      "key": "r3",
+      "first-page": "143",
+      "volume": "42",
+      "author": "Alfano S.",
+      "year": "1994",
+      "journal-title": "Journal of the Astronautical Sciences",
+      "ISSN": "https://id.crossref.org/issn/0021-9142",
+      "issn-type": "print"
+    },
+    {
+      "key": "r6",
+      "volume-title": "Proceedings of the 23rd International Symposium on Space Flight Dynamics",
+      "author": "Carpenter J. R.",
+      "year": "2012"
+    },
+    {
+      "key": "r7",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.2514/1.24067"
+    },
+    {
+      "key": "r8",
+      "unstructured": "FosterJ. L.EstesH. S. “Parametric Analysis of Orbital Debris Collision Probability and Maneuver Rate for Space Vehicles,” NASA TR-JSC-25898, Aug. 1992."
+    },
+    {
+      "key": "r9",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1023/A:1010056509803"
+    },
+    {
+      "key": "r10",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/0273-1177(90)90376-B"
+    },
+    {
+      "key": "r13",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.2514/3.26232"
+    },
+    {
+      "key": "r15",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/0273-1177(91)90544-T"
+    },
+    {
+      "key": "r18",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/0019-1035(81)90151-2"
+    },
+    {
+      "key": "r19",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/0094-5765(96)00059-8"
+    },
+    {
+      "key": "r20",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/BF03546397"
+    },
+    {
+      "key": "r21",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.2514/6.2006-6760"
+    },
+    {
+      "key": "r23",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.2514/6.2006-6295"
+    },
+    {
+      "key": "r24",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/S0273-1177(99)00009-5"
+    },
+    {
+      "key": "r26",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.2514/2.4771"
+    },
+    {
+      "key": "r29",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.2514/2.4967"
+    },
+    {
+      "key": "r31",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.2514/2.4611"
+    },
+    {
+      "key": "r33",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.2514/1.15523"
+    },
+    {
+      "key": "r34",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.2514/2.5127"
+    },
+    {
+      "key": "r36",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.2514/4.989186"
+    },
+    {
+      "key": "r37",
+      "unstructured": "DeMarsK. J., Nonlinear Orbit Uncertainty Prediction and Rectification for Space Situational Awareness, Ph.D. Thesis, Univ. of Texas, Austin, TX, 2010."
+    },
+    {
+      "key": "r38",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.2514/1.53793"
+    },
+    {
+      "key": "r40",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.2514/1.58987"
+    },
+    {
+      "key": "r41",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.2514/1.36398"
+    },
+    {
+      "key": "r42",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.2514/1.59844"
+    },
+    {
+      "issue": "3",
+      "key": "r45",
+      "first-page": "477",
+      "volume": "59",
+      "author": "Lebedev V.",
+      "year": "1999",
+      "journal-title": "Doklady Mathematics",
+      "ISSN": "https://id.crossref.org/issn/1064-5624",
+      "issn-type": "print"
+    },
+    {
+      "key": "r46",
+      "unstructured": "PressW. H.TeukolskyS. A.VetterlingW. T.FlanneryB. P., Numerical Recipes: The Art of Scientific Computing, 3rd ed., Cambridge Univ. Press, New York, 2007, pp. 156–162."
+    },
+    {
+      "key": "r47",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1109/JPROC.2003.823141"
+    },
+    {
+      "key": "r48",
+      "unstructured": "van der MerweR., Sigma-Point Kalman Filters for Probabilistic Inference in Dynamic State-Space Models, Ph.D. Thesis, Oregon Health and Science Univ., Portland, OR, 2004."
+    }
+  ],
+  "container-title": [
+    "Journal of Guidance, Control, and Dynamics"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "http://arc.aiaa.org/doi/pdf/10.2514/1.62308",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2021,
+        3,
+        1
+      ]
+    ],
+    "date-time": "2021-03-01T00:22:35Z",
+    "timestamp": 1614558155000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://arc.aiaa.org/doi/10.2514/1.62308"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2014,
+        5
+      ]
+    ]
+  },
+  "references-count": 29,
+  "journal-issue": {
+    "issue": "3",
+    "published-print": {
+      "date-parts": [
+        [
+          2014,
+          5
+        ]
+      ]
+    }
+  },
+  "alternative-id": [
+    "10.2514/1.62308"
+  ],
+  "URL": "https://doi.org/10.2514/1.62308",
+  "relation": {},
+  "ISSN": [
+    "0731-5090",
+    "1533-3884"
+  ],
+  "issn-type": [
+    {
+      "value": "0731-5090",
+      "type": "print"
+    },
+    {
+      "value": "1533-3884",
+      "type": "electronic"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2014,
+        5
+      ]
+    ]
+  },
+  "assertion": [
+    {
+      "value": "2013-03-06",
+      "order": 0,
+      "name": "received",
+      "label": "Received",
+      "group": {
+        "name": "publication_history",
+        "label": "Publication History"
+      }
+    },
+    {
+      "value": "2013-06-17",
+      "order": 1,
+      "name": "revised",
+      "label": "Revised",
+      "group": {
+        "name": "publication_history",
+        "label": "Publication History"
+      }
+    },
+    {
+      "value": "2013-06-19",
+      "order": 2,
+      "name": "accepted",
+      "label": "Accepted",
+      "group": {
+        "name": "publication_history",
+        "label": "Publication History"
+      }
+    },
+    {
+      "value": "2014-04-25",
+      "order": 3,
+      "name": "published",
+      "label": "Published",
+      "group": {
+        "name": "publication_history",
+        "label": "Publication History"
+      }
+    }
+  ]
+}

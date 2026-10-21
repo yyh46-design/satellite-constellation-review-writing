@@ -1,0 +1,384 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        8,
+        30
+      ]
+    ],
+    "date-time": "2026-08-30T02:19:39Z",
+    "timestamp": 1788056379269,
+    "version": "build-2784847793"
+  },
+  "reference-count": 29,
+  "publisher": "American Institute of Aeronautics and Astronautics (AIAA)",
+  "issue": "9",
+  "content-domain": {
+    "domain": [
+      "arc.aiaa.org"
+    ],
+    "crossmark-restriction": true
+  },
+  "short-container-title": [
+    "Journal of Guidance, Control, and Dynamics"
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2020,
+        9
+      ]
+    ]
+  },
+  "DOI": "10.2514/1.g004711",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2020,
+        6,
+        22
+      ]
+    ],
+    "date-time": "2020-06-22T06:19:00Z",
+    "timestamp": 1592806740000
+  },
+  "page": "1757-1763",
+  "update-policy": "https://doi.org/10.2514/aiaa_crossmarkpolicy",
+  "source": "Crossref",
+  "is-referenced-by-count": 14,
+  "title": [
+    "Satellite Instantaneous Collision Probability Computation Using Equivalent Volume Cuboids"
+  ],
+  "prefix": "10.2514",
+  "volume": "43",
+  "author": [
+    {
+      "given": "Shuo",
+      "family": "Zhang",
+      "sequence": "first",
+      "affiliation": [
+        {
+          "name": "Beijing Institute of Technology, 100081 Beijing, People’s Republic of China"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Tuo",
+      "family": "Fu",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Beijing Institute of Technology, 100081 Beijing, People’s Republic of China"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Defeng",
+      "family": "Chen",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Beijing Institute of Technology, 100081 Beijing, People’s Republic of China"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Huawei",
+      "family": "Cao",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Beijing Institute of Technology, 100081 Beijing, People’s Republic of China"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "member": "1387",
+  "reference": [
+    {
+      "key": "r1",
+      "volume-title": "19th AAS/AIAA Space Flight Mechanics Meeting",
+      "author": "Alfano S.",
+      "year": "2009"
+    },
+    {
+      "key": "r4",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/BF03546397"
+    },
+    {
+      "key": "r5",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.2514/2.4771"
+    },
+    {
+      "key": "r6",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.2514/2.4967"
+    },
+    {
+      "key": "r7",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.2514/1.14526"
+    },
+    {
+      "key": "r8",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.2514/1.G001353"
+    },
+    {
+      "key": "r9",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.2514/1.G001754"
+    },
+    {
+      "key": "r10",
+      "volume-title": "22nd AAS/AIAA Space Flight Mechanics Meeting",
+      "author": "Coppola V.",
+      "year": "2012"
+    },
+    {
+      "key": "r11",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.2514/1.62308"
+    },
+    {
+      "key": "r12",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.2514/1.G001610"
+    },
+    {
+      "key": "r13",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.asr.2012.05.011"
+    },
+    {
+      "key": "r14",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.asr.2013.11.038"
+    },
+    {
+      "key": "r15",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.asr.2014.09.003"
+    },
+    {
+      "key": "r16",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.2514/4.989186"
+    },
+    {
+      "key": "r18",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.asr.2013.08.027"
+    },
+    {
+      "key": "r19",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.2514/1.G001027"
+    },
+    {
+      "key": "r20",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/s40295-014-0002-4"
+    },
+    {
+      "key": "r21",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1109/TAC.2011.2142610"
+    },
+    {
+      "key": "r22",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.2514/1.53793"
+    },
+    {
+      "key": "r23",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1109/TAC.1972.1100034"
+    },
+    {
+      "key": "r24",
+      "volume-title": "23rd AAS/AIAA Spaceflight Mechanics Meeting",
+      "author": "Vittaldev V.",
+      "year": "2013"
+    },
+    {
+      "issue": "1",
+      "key": "r25",
+      "first-page": "83",
+      "volume": "111",
+      "author": "Vittaldev V.",
+      "year": "2016",
+      "journal-title": "Computer Modelling in Engineering & Sciences"
+    },
+    {
+      "key": "r26",
+      "unstructured": "TamW. “Tracking Filters for Radar Systems,” Master’s Thesis, Univ. of Toronto, Toronto, 1997."
+    },
+    {
+      "key": "r27",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.2514/6.2008-7472"
+    },
+    {
+      "key": "r28",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.2514/1.36247"
+    },
+    {
+      "key": "r29",
+      "unstructured": "DeMarsK. “Nonlinear Orbit Uncertainty Prediction and Rectification for Space Situational Awareness,” Ph.D. Thesis, Univ. of Texas, Austin, TX, 2010."
+    },
+    {
+      "key": "r31",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1109/9.847726"
+    },
+    {
+      "key": "r32",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1109/JPROC.2003.823141"
+    },
+    {
+      "key": "r34",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1137/S0097539797315306"
+    }
+  ],
+  "container-title": [
+    "Journal of Guidance, Control, and Dynamics"
+  ],
+  "original-title": [],
+  "language": "en",
+  "deposited": {
+    "date-parts": [
+      [
+        2021,
+        3,
+        1
+      ]
+    ],
+    "date-time": "2021-03-01T02:17:30Z",
+    "timestamp": 1614565050000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://arc.aiaa.org/doi/10.2514/1.G004711"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2020,
+        9
+      ]
+    ]
+  },
+  "references-count": 29,
+  "journal-issue": {
+    "issue": "9",
+    "published-print": {
+      "date-parts": [
+        [
+          2020,
+          9
+        ]
+      ]
+    }
+  },
+  "alternative-id": [
+    "10.2514/1.G004711"
+  ],
+  "URL": "https://doi.org/10.2514/1.g004711",
+  "relation": {},
+  "ISSN": [
+    "1533-3884"
+  ],
+  "issn-type": [
+    {
+      "value": "1533-3884",
+      "type": "electronic"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2020,
+        9
+      ]
+    ]
+  },
+  "assertion": [
+    {
+      "value": "2019-07-12",
+      "order": 0,
+      "name": "received",
+      "label": "Received",
+      "group": {
+        "name": "publication_history",
+        "label": "Publication History"
+      }
+    },
+    {
+      "value": "2020-05-05",
+      "order": 1,
+      "name": "revised",
+      "label": "Revised",
+      "group": {
+        "name": "publication_history",
+        "label": "Publication History"
+      }
+    },
+    {
+      "value": "2020-05-12",
+      "order": 2,
+      "name": "accepted",
+      "label": "Accepted",
+      "group": {
+        "name": "publication_history",
+        "label": "Publication History"
+      }
+    },
+    {
+      "value": "2020-06-21",
+      "order": 3,
+      "name": "published",
+      "label": "Published",
+      "group": {
+        "name": "publication_history",
+        "label": "Publication History"
+      }
+    }
+  ]
+}

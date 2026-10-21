@@ -1,0 +1,25 @@
+{
+  "source_id": "E-B19-L015",
+  "pool_id": "L015",
+  "title": "Covariance analysis of differential drag-based satellite cluster flight",
+  "actual_title_aliases": [],
+  "identifier": "10.1016/j.actaastro.2015.12.035",
+  "authors": "Ohad Ben-Yaacov; Anatoly Ivantsov; Pini Gurfil",
+  "actual_version": "作者公开的10页正式版；Acta Astronautica 123 (2016) 387–396",
+  "canonical_url": "https://doi.org/10.1016/j.actaastro.2015.12.035",
+  "acquisition_url": "https://www.researchgate.net/profile/Pini-Gurfil/publication/288992957_Covariance_Analysis_of_Differential_Drag-Based_Satellite_Cluster_Flight/links/59f041070f7e9baeb26adf5e/Covariance-Analysis-of-Differential-Drag-Based-Satellite-Cluster-Flight.pdf",
+  "source_format": "REMOTE_PUBLIC_PDF_TEXT_CAPTURE",
+  "pdf_pages": 10,
+  "local_text_capture_sha256": "48ec5f17fc649c3de2aea3641f9e79a713b2489c4674ac5ba548b377ec193fd6",
+  "source_pdf_sha256": null,
+  "source_pdf_byte_identity_verified": false,
+  "adoption_status": "candidate_after_human_review",
+  "human_verified": false,
+  "formal_version_text_compared": false,
+  "crossref_file": "L015_CROSSREF.json",
+  "source_limitations": [
+    "白噪声、零均值及局部线性化限制外推；不可代替所有大气误差模型。",
+    "多星控制律可以扩展，不等于本文已完成任意星数的协方差验证。",
+    "3σ曲线是统计描述，不能写成硬安全边界或极小碰撞概率证书。"
+  ]
+}

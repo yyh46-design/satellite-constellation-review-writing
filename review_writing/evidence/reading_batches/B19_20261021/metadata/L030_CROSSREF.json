@@ -1,0 +1,267 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        10,
+        5
+      ]
+    ],
+    "date-time": "2026-10-05T02:55:30Z",
+    "timestamp": 1791168930257,
+    "version": "4.1.0"
+  },
+  "reference-count": 15,
+  "publisher": "American Institute of Aeronautics and Astronautics (AIAA)",
+  "issue": "3",
+  "content-domain": {
+    "domain": [
+      "arc.aiaa.org"
+    ],
+    "crossmark-restriction": true
+  },
+  "short-container-title": [
+    "Journal of Guidance, Control, and Dynamics"
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2006,
+        5
+      ]
+    ]
+  },
+  "DOI": "10.2514/1.15523",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2008,
+        3,
+        12
+      ]
+    ],
+    "date-time": "2008-03-12T18:29:43Z",
+    "timestamp": 1205346583000
+  },
+  "page": "588-592",
+  "update-policy": "https://doi.org/10.2514/aiaa_crossmarkpolicy",
+  "source": "Crossref",
+  "is-referenced-by-count": 34,
+  "title": [
+    "Satellite Collision Probability Enhancements"
+  ],
+  "prefix": "10.2514",
+  "volume": "29",
+  "author": [
+    {
+      "given": "Salvatore",
+      "family": "Alfano",
+      "sequence": "first",
+      "affiliation": [
+        {
+          "name": "Center for Space Standards and Innovation, Colorado Springs, Colorado 80920-6522"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "member": "1387",
+  "reference": [
+    {
+      "key": "p_1",
+      "volume-title": "NASA JSC",
+      "author": "Foster J. L.",
+      "year": "1992"
+    },
+    {
+      "key": "p_2",
+      "first-page": "491",
+      "volume-title": "Proceedings of the First European Conference on Space Debris, ESA SD-01",
+      "author": "Khutorovsky Z. N.",
+      "year": "1993"
+    },
+    {
+      "issue": "4",
+      "key": "p_3",
+      "first-page": "349",
+      "volume": "12",
+      "author": "Carlton-Wippern K. C.",
+      "year": "1993",
+      "journal-title": "Journal of Space Power"
+    },
+    {
+      "key": "p_4",
+      "first-page": "1033",
+      "volume": "96",
+      "author": "Chan K. F.",
+      "year": "1997",
+      "journal-title": "Advances in the Astronautical Sciences"
+    },
+    {
+      "key": "p_5",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/S0273-1177(99)00009-5"
+    },
+    {
+      "key": "p_6",
+      "volume-title": "International Astronautical Congress",
+      "author": "Oltrogge D.",
+      "year": "1999"
+    },
+    {
+      "key": "p_7",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.2514/2.4611"
+    },
+    {
+      "key": "p_8",
+      "volume-title": "Improved Analytical Expressions for Computing Spacecraft Collision Probabilities",
+      "author": "Chan K. F.",
+      "year": "2003"
+    },
+    {
+      "key": "p_9",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.2514/2.4771"
+    },
+    {
+      "key": "p_10",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.2514/2.5127"
+    },
+    {
+      "issue": "1",
+      "key": "p_11",
+      "first-page": "767",
+      "volume": "116",
+      "author": "Chan K. F.",
+      "year": "2003",
+      "journal-title": "Advances in the Astronautical Sciences"
+    },
+    {
+      "key": "p_12",
+      "volume-title": "AIAA Paper",
+      "author": "Chan K. F.",
+      "year": "2004"
+    },
+    {
+      "key": "p_13",
+      "volume-title": "Orbit Determination Accuracy Requirements for Collision Avoidance",
+      "author": "Gottlieb R. G.",
+      "year": "2001"
+    },
+    {
+      "issue": "1",
+      "key": "p_14",
+      "first-page": "757",
+      "volume": "116",
+      "author": "Alfano S.",
+      "year": "2003",
+      "journal-title": "Advances in the Astronautical Sciences"
+    },
+    {
+      "key": "p_15",
+      "volume-title": "NASA JSC DM33",
+      "author": "Foster J. L.",
+      "year": "1998"
+    }
+  ],
+  "container-title": [
+    "Journal of Guidance, Control, and Dynamics"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "http://arc.aiaa.org/doi/pdf/10.2514/1.15523",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2021,
+        2,
+        28
+      ]
+    ],
+    "date-time": "2021-02-28T21:57:52Z",
+    "timestamp": 1614549472000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://arc.aiaa.org/doi/10.2514/1.15523"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2006,
+        5
+      ]
+    ]
+  },
+  "references-count": 15,
+  "journal-issue": {
+    "issue": "3",
+    "published-print": {
+      "date-parts": [
+        [
+          2006,
+          5
+        ]
+      ]
+    }
+  },
+  "alternative-id": [
+    "10.2514/1.15523"
+  ],
+  "URL": "https://doi.org/10.2514/1.15523",
+  "relation": {},
+  "ISSN": [
+    "0731-5090",
+    "1533-3884"
+  ],
+  "issn-type": [
+    {
+      "value": "0731-5090",
+      "type": "print"
+    },
+    {
+      "value": "1533-3884",
+      "type": "electronic"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2006,
+        5
+      ]
+    ]
+  },
+  "assertion": [
+    {
+      "value": "2012-05-23",
+      "order": 3,
+      "name": "published",
+      "label": "Published",
+      "group": {
+        "name": "publication_history",
+        "label": "Publication History"
+      }
+    }
+  ]
+}

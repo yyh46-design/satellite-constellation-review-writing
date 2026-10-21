@@ -1,0 +1,813 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        4,
+        27
+      ]
+    ],
+    "date-time": "2026-04-27T07:49:05Z",
+    "timestamp": 1777276145475,
+    "version": "3.51.4"
+  },
+  "reference-count": 52,
+  "publisher": "Elsevier BV",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2020,
+            12,
+            1
+          ]
+        ],
+        "date-time": "2020-12-01T00:00:00Z",
+        "timestamp": 1606780800000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2020,
+            12,
+            1
+          ]
+        ],
+        "date-time": "2020-12-01T00:00:00Z",
+        "timestamp": 1606780800000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "https://www.elsevier.com/legal/tdmrep-license"
+    }
+  ],
+  "funder": [
+    {
+      "DOI": "10.13039/501100007514",
+      "name": "Università di Pisa",
+      "doi-asserted-by": "publisher",
+      "id": [
+        {
+          "id": "10.13039/501100007514",
+          "id-type": "DOI",
+          "asserted-by": "publisher"
+        }
+      ]
+    }
+  ],
+  "content-domain": {
+    "domain": [
+      "elsevier.com",
+      "sciencedirect.com"
+    ],
+    "crossmark-restriction": true
+  },
+  "short-container-title": [
+    "Acta Astronautica"
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2020,
+        12
+      ]
+    ]
+  },
+  "DOI": "10.1016/j.actaastro.2019.12.003",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2019,
+        12,
+        5
+      ]
+    ],
+    "date-time": "2019-12-05T21:15:21Z",
+    "timestamp": 1575580521000
+  },
+  "page": "853-861",
+  "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+  "source": "Crossref",
+  "is-referenced-by-count": 8,
+  "special_numbering": "C",
+  "title": [
+    "Electric sail phasing maneuvers for constellation deployment"
+  ],
+  "prefix": "10.1016",
+  "volume": "177",
+  "author": [
+    {
+      "ORCID": "https://orcid.org/0000-0003-3143-2589",
+      "authenticated-orcid": false,
+      "given": "Lorenzo",
+      "family": "Niccolai",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0003-2151-1128",
+      "authenticated-orcid": false,
+      "given": "Andrea",
+      "family": "Caruso",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    },
+    {
+      "given": "Alessandro A.",
+      "family": "Quarta",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    },
+    {
+      "given": "Giovanni",
+      "family": "Mengali",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    }
+  ],
+  "member": "78",
+  "reference": [
+    {
+      "issue": "1",
+      "key": "10.1016/j.actaastro.2019.12.003_bib1",
+      "doi-asserted-by": "crossref",
+      "first-page": "7",
+      "DOI": "10.1016/0038-092X(65)90155-6",
+      "article-title": "The solar constant and spectral distribution of solar radiant flux",
+      "volume": "9",
+      "author": "Thekaekara",
+      "year": "1965",
+      "journal-title": "Sol. Energy"
+    },
+    {
+      "issue": "4",
+      "key": "10.1016/j.actaastro.2019.12.003_bib2",
+      "doi-asserted-by": "crossref",
+      "first-page": "461",
+      "DOI": "10.1007/BF00177091",
+      "article-title": "Absolute intensity measurements in the extreme ultraviolet spectrum of solar radiation",
+      "volume": "4",
+      "author": "Hinteregger",
+      "year": "1965",
+      "journal-title": "Space Sci. Rev."
+    },
+    {
+      "issue": "10",
+      "key": "10.1016/j.actaastro.2019.12.003_bib3",
+      "doi-asserted-by": "crossref",
+      "first-page": "829",
+      "DOI": "10.1038/s41550-018-0580-3",
+      "article-title": "Flying into the Sun",
+      "volume": "2",
+      "author": "Szabo",
+      "year": "2018",
+      "journal-title": "Nat. Astron."
+    },
+    {
+      "issue": "5",
+      "key": "10.1016/j.actaastro.2019.12.003_bib4",
+      "first-page": "184",
+      "article-title": "Project helios, Spaceflight",
+      "volume": "17",
+      "author": "Howard",
+      "year": "1975"
+    },
+    {
+      "key": "10.1016/j.actaastro.2019.12.003_bib5",
+      "first-page": "256",
+      "article-title": "Overview of NASA solar physics programs",
+      "volume": "184",
+      "author": "Chipman",
+      "year": "1979"
+    },
+    {
+      "issue": "5082",
+      "key": "10.1016/j.actaastro.2019.12.003_bib6",
+      "doi-asserted-by": "crossref",
+      "first-page": "618",
+      "DOI": "10.1126/science.258.5082.618",
+      "article-title": "The yohkoh mission for high-energy solar physics",
+      "volume": "258",
+      "author": "Acton",
+      "year": "1992",
+      "journal-title": "Science"
+    },
+    {
+      "issue": "4",
+      "key": "10.1016/j.actaastro.2019.12.003_bib7",
+      "doi-asserted-by": "crossref",
+      "first-page": "25",
+      "DOI": "10.1016/0273-1177(89)90089-6",
+      "article-title": "Ulysses: the first high-latitude heliospheric mission",
+      "volume": "9",
+      "author": "Wenzel",
+      "year": "1989",
+      "journal-title": "Adv. Space Res."
+    },
+    {
+      "issue": "23",
+      "key": "10.1016/j.actaastro.2019.12.003_bib8",
+      "doi-asserted-by": "crossref",
+      "first-page": "3301",
+      "DOI": "10.1029/95GL03094",
+      "article-title": "Ulysses solar wind plasma observation from pole to pole",
+      "volume": "22",
+      "author": "Phillips",
+      "year": "1995",
+      "journal-title": "Geophys. Res. Lett."
+    },
+    {
+      "key": "10.1016/j.actaastro.2019.12.003_bib9",
+      "first-page": "1263",
+      "article-title": "Long term mission at the Sun-Earth libration point L1: ACE, SOHO, and WIND",
+      "volume": "142",
+      "author": "Roberts",
+      "year": "2012",
+      "journal-title": "Adv. Astronaut. Sci."
+    },
+    {
+      "issue": "1–4",
+      "key": "10.1016/j.actaastro.2019.12.003_bib10",
+      "doi-asserted-by": "crossref",
+      "first-page": "1",
+      "DOI": "10.1023/A:1005082526237",
+      "article-title": "The advanced composition explorer",
+      "volume": "86",
+      "author": "Stone",
+      "year": "1998",
+      "journal-title": "Space Sci. Rev."
+    },
+    {
+      "key": "10.1016/j.actaastro.2019.12.003_bib11",
+      "series-title": "AIAA/AAS Astrodynamics Specialist Conference and Exhibit, Boston, MA, USA",
+      "article-title": "WIND nominal mission performance and extended mission design",
+      "author": "Franz",
+      "year": "1998"
+    },
+    {
+      "key": "10.1016/j.actaastro.2019.12.003_bib12",
+      "series-title": "43rd International Astronautical Congress, Washington, DC, USA",
+      "article-title": "Transfer trajectory design for the SOHO libration-point mission",
+      "author": "Dunham",
+      "year": "1992"
+    },
+    {
+      "key": "10.1016/j.actaastro.2019.12.003_bib13",
+      "doi-asserted-by": "crossref",
+      "first-page": "113",
+      "DOI": "10.1016/j.actaastro.2017.07.042",
+      "article-title": "Coronal Mass Ejection early-warning mission by solar-photon sailcraft",
+      "volume": "140",
+      "author": "Vulpetti",
+      "year": "2017",
+      "journal-title": "Acta Astronaut."
+    },
+    {
+      "key": "10.1016/j.actaastro.2019.12.003_bib14",
+      "doi-asserted-by": "crossref",
+      "first-page": "503",
+      "DOI": "10.1016/j.actaastro.2016.10.036",
+      "article-title": "Electric sail elliptic displaced orbit with advanced thrust model",
+      "volume": "138",
+      "author": "Niccolai",
+      "year": "2017",
+      "journal-title": "Acta Astronaut."
+    },
+    {
+      "issue": "3",
+      "key": "10.1016/j.actaastro.2019.12.003_bib15",
+      "doi-asserted-by": "crossref",
+      "first-page": "423",
+      "DOI": "10.1177/0954410016679195",
+      "article-title": "Electric sail-based displaced orbits with a refined thrust model",
+      "volume": "232",
+      "author": "Niccolai",
+      "year": "2018",
+      "journal-title": "Proc. Inst. Mech. Eng. G J. Aerosp. Eng."
+    },
+    {
+      "issue": "8",
+      "key": "10.1016/j.actaastro.2019.12.003_bib16",
+      "doi-asserted-by": "crossref",
+      "first-page": "1483",
+      "DOI": "10.1016/j.asr.2004.12.066",
+      "article-title": "The STEREO mission: an overview",
+      "volume": "36",
+      "author": "Kaiser",
+      "year": "2005",
+      "journal-title": "Adv. Space Res."
+    },
+    {
+      "issue": "7",
+      "key": "10.1016/j.actaastro.2019.12.003_bib17",
+      "doi-asserted-by": "crossref",
+      "first-page": "506",
+      "DOI": "10.1016/j.ast.2007.12.003",
+      "article-title": "In-orbit repositioning of multiple solar sail spacecraft",
+      "volume": "12",
+      "author": "Mengali",
+      "year": "2008",
+      "journal-title": "Aero. Sci. Technol."
+    },
+    {
+      "key": "10.1016/j.actaastro.2019.12.003_bib18",
+      "doi-asserted-by": "crossref",
+      "first-page": "474",
+      "DOI": "10.1016/j.actaastro.2016.06.033",
+      "article-title": "Heliocentric phasing performance of electric sail spacecraft",
+      "volume": "127",
+      "author": "Mengali",
+      "year": "2016",
+      "journal-title": "Acta Astronaut."
+    },
+    {
+      "issue": "4",
+      "key": "10.1016/j.actaastro.2019.12.003_bib19",
+      "doi-asserted-by": "crossref",
+      "first-page": "763",
+      "DOI": "10.2514/1.8580",
+      "article-title": "Electric sail for spacecraft propulsion",
+      "volume": "20",
+      "author": "Janhunen",
+      "year": "2004",
+      "journal-title": "J. Propuls. Power"
+    },
+    {
+      "key": "10.1016/j.actaastro.2019.12.003_bib20",
+      "doi-asserted-by": "crossref",
+      "first-page": "160",
+      "DOI": "10.1016/j.actaastro.2017.11.048",
+      "article-title": "Fixed-axis electric sail deployment dynamics analysis using hub-mounted momentum control",
+      "volume": "144",
+      "author": "Fulton",
+      "year": "2018",
+      "journal-title": "Acta Astronaut."
+    },
+    {
+      "key": "10.1016/j.actaastro.2019.12.003_bib21",
+      "doi-asserted-by": "crossref",
+      "first-page": "268",
+      "DOI": "10.1016/j.actaastro.2018.05.009",
+      "article-title": "Electric sail space flight dynamics and controls",
+      "volume": "148",
+      "author": "Montalvo",
+      "year": "2018",
+      "journal-title": "Acta Astronaut."
+    },
+    {
+      "issue": "4",
+      "key": "10.1016/j.actaastro.2019.12.003_bib22",
+      "doi-asserted-by": "crossref",
+      "first-page": "1439",
+      "DOI": "10.5194/angeo-27-1439-2009",
+      "article-title": "On the feasibility of a negative polarity electric sail",
+      "volume": "27",
+      "author": "Janhunen",
+      "year": "2009",
+      "journal-title": "Ann. Geophys."
+    },
+    {
+      "issue": "10",
+      "key": "10.1016/j.actaastro.2019.12.003_bib23",
+      "doi-asserted-by": "crossref",
+      "first-page": "1207",
+      "DOI": "10.5194/angeo-32-1207-2014",
+      "article-title": "Simulation study of the plasma-brake effect",
+      "volume": "32",
+      "author": "Janhunen",
+      "year": "2014",
+      "journal-title": "Ann. Geophys."
+    },
+    {
+      "key": "10.1016/j.actaastro.2019.12.003_bib24",
+      "series-title": "67th International Astronautical Congress, Guadalajara, Mexico",
+      "article-title": "Estcube-2 mission analysis: plasma brake experiment for deorbiting",
+      "author": "Iakubivsky",
+      "year": "2016"
+    },
+    {
+      "key": "10.1016/j.actaastro.2019.12.003_bib25",
+      "doi-asserted-by": "crossref",
+      "first-page": "297",
+      "DOI": "10.1016/j.actaastro.2017.12.048",
+      "article-title": "Plasma brake model for preliminary mission analysis",
+      "volume": "144",
+      "author": "Orsini",
+      "year": "2018",
+      "journal-title": "Acta Astronaut."
+    },
+    {
+      "issue": "2",
+      "key": "10.1016/j.actaastro.2019.12.003_bib26",
+      "doi-asserted-by": "crossref",
+      "first-page": "139",
+      "DOI": "10.1007/s42496-019-00012-7",
+      "article-title": "Possible trajectories for electric solar wind sail validation",
+      "volume": "98",
+      "author": "Niccolai",
+      "year": "2019",
+      "journal-title": "Aerotecnica Missili & Spazio"
+    },
+    {
+      "key": "10.1016/j.actaastro.2019.12.003_bib27",
+      "doi-asserted-by": "crossref",
+      "first-page": "734",
+      "DOI": "10.2514/1.G003169",
+      "article-title": "Electric sail thrust model from a geometrical perspective",
+      "volume": "41",
+      "author": "Huo",
+      "year": "2018",
+      "journal-title": "J. Guid. Control Dyn."
+    },
+    {
+      "key": "10.1016/j.actaastro.2019.12.003_bib28",
+      "doi-asserted-by": "crossref",
+      "first-page": "653",
+      "DOI": "10.2514/8.8704",
+      "article-title": "Terminal guidance system for satellite rendezvous",
+      "volume": "270",
+      "author": "Clohessy",
+      "year": "1960",
+      "journal-title": "J. Aerosp. Sci."
+    },
+    {
+      "issue": "4",
+      "key": "10.1016/j.actaastro.2019.12.003_bib29",
+      "doi-asserted-by": "crossref",
+      "first-page": "1009",
+      "DOI": "10.2514/1.G003088",
+      "article-title": "Relative motion of Sun-pointing Smart Dust in circular heliocentric orbits",
+      "volume": "41",
+      "author": "Mengali",
+      "year": "2018",
+      "journal-title": "J. Guid. Control Dyn."
+    },
+    {
+      "key": "10.1016/j.actaastro.2019.12.003_bib30",
+      "doi-asserted-by": "crossref",
+      "first-page": "419",
+      "DOI": "10.1016/j.ast.2016.06.020",
+      "article-title": "Minimum-time trajectories of electric sail with advanced thrust model",
+      "volume": "55",
+      "author": "Quarta",
+      "year": "2016",
+      "journal-title": "Aero. Sci. Technol."
+    },
+    {
+      "key": "10.1016/j.actaastro.2019.12.003_bib31",
+      "series-title": "Orbital Mechanics",
+      "first-page": "152",
+      "author": "Chobotov",
+      "year": "2002"
+    },
+    {
+      "key": "10.1016/j.actaastro.2019.12.003_bib32",
+      "series-title": "Orbital Mechanics for Engineering Students",
+      "first-page": "312",
+      "author": "Curtis",
+      "year": "2014"
+    },
+    {
+      "issue": "7–8",
+      "key": "10.1016/j.actaastro.2019.12.003_bib33",
+      "doi-asserted-by": "crossref",
+      "first-page": "900",
+      "DOI": "10.1016/j.actaastro.2010.05.012",
+      "article-title": "Short rendezvous mission for advanced Russian human spacecraft",
+      "volume": "67",
+      "author": "Murtazin",
+      "year": "2010",
+      "journal-title": "Acta Astronaut."
+    },
+    {
+      "key": "10.1016/j.actaastro.2019.12.003_bib34",
+      "doi-asserted-by": "crossref",
+      "first-page": "400",
+      "DOI": "10.1016/j.actaastro.2013.07.015",
+      "article-title": "Optimal scheduling of GEO debris removing based on hybrid optimal control theory",
+      "volume": "93",
+      "author": "Yu",
+      "year": "2014",
+      "journal-title": "Acta Astronaut."
+    },
+    {
+      "key": "10.1016/j.actaastro.2019.12.003_bib35",
+      "doi-asserted-by": "crossref",
+      "first-page": "278",
+      "DOI": "10.1016/j.actaastro.2018.03.036",
+      "article-title": "Optimal in-orbit repositioning of sun-pointing smart dust",
+      "volume": "154",
+      "author": "Quarta",
+      "year": "2019",
+      "journal-title": "Acta Astronaut."
+    },
+    {
+      "issue": "4",
+      "key": "10.1016/j.actaastro.2019.12.003_bib36",
+      "doi-asserted-by": "crossref",
+      "first-page": "662",
+      "DOI": "10.2514/2.5098",
+      "article-title": "Azimuthal repositioning of payloads in heliocentric orbit using solar sails",
+      "volume": "26",
+      "author": "McInnes",
+      "year": "2003",
+      "journal-title": "J. Guid. Control Dyn."
+    },
+    {
+      "issue": "6",
+      "key": "10.1016/j.actaastro.2019.12.003_bib37",
+      "doi-asserted-by": "crossref",
+      "first-page": "1821",
+      "DOI": "10.2514/1.59372",
+      "article-title": "Optimal solar sail phasing trajectories for circular orbit",
+      "volume": "36",
+      "author": "Quarta",
+      "year": "2013",
+      "journal-title": "J. Guid. Control Dyn."
+    },
+    {
+      "key": "10.1016/j.actaastro.2019.12.003_bib38",
+      "doi-asserted-by": "crossref",
+      "first-page": "1",
+      "DOI": "10.1016/j.paerosci.2019.01.003",
+      "article-title": "A review of smart dust architecture, dynamics, and mission applications",
+      "volume": "106",
+      "author": "Niccolai",
+      "year": "2019",
+      "journal-title": "Prog. Aerosp. Sci."
+    },
+    {
+      "key": "10.1016/j.actaastro.2019.12.003_bib39",
+      "doi-asserted-by": "crossref",
+      "first-page": "38",
+      "DOI": "10.1016/j.ast.2018.08.032",
+      "article-title": "Impact of solar wind fluctuations on electric sail mission design",
+      "author": "Niccolai",
+      "year": "2018",
+      "journal-title": "Aero. Sci. Technol."
+    },
+    {
+      "issue": "1",
+      "key": "10.1016/j.actaastro.2019.12.003_bib40",
+      "doi-asserted-by": "crossref",
+      "first-page": "61",
+      "DOI": "10.5194/astra-5-61-2009",
+      "article-title": "Electric sailing under observed solar wind conditions",
+      "volume": "5",
+      "author": "Toivanen",
+      "year": "2009",
+      "journal-title": "Astrophys. Space Sci. Trans."
+    },
+    {
+      "key": "10.1016/j.actaastro.2019.12.003_bib41",
+      "doi-asserted-by": "crossref",
+      "first-page": "563",
+      "DOI": "10.1016/j.actaastro.2019.06.037",
+      "article-title": "Electric sail displaced orbit control with solar wind uncertainties",
+      "volume": "162",
+      "author": "Niccolai",
+      "year": "2019",
+      "journal-title": "Acta Astronaut"
+    },
+    {
+      "key": "10.1016/j.actaastro.2019.12.003_bib42",
+      "doi-asserted-by": "crossref",
+      "first-page": "134",
+      "DOI": "10.1016/j.actaastro.2018.02.035",
+      "article-title": "Thrust and torque vector characteristics of axially-symmetric e-sail",
+      "volume": "146",
+      "author": "Bassetto",
+      "year": "2018",
+      "journal-title": "Acta Astronaut."
+    },
+    {
+      "issue": "2",
+      "key": "10.1016/j.actaastro.2019.12.003_bib43",
+      "doi-asserted-by": "crossref",
+      "first-page": "425",
+      "DOI": "10.2514/1.G003788",
+      "article-title": "Stability and control of spinning elecric solar wind sail in heliostationary orbit",
+      "volume": "42",
+      "author": "Bassetto",
+      "year": "2019",
+      "journal-title": "J. Guid. Control Dyn."
+    },
+    {
+      "key": "10.1016/j.actaastro.2019.12.003_bib44",
+      "first-page": "79",
+      "article-title": "Study on orbital maneuvers for electric sail with on-off thrust control",
+      "volume": "12",
+      "author": "Yamaguchi",
+      "year": "2013",
+      "journal-title": "Aerosp. Technol. Jpn."
+    },
+    {
+      "key": "10.1016/j.actaastro.2019.12.003_bib45",
+      "article-title": "The electric solar wind sail status report",
+      "volume": "vol. 5",
+      "author": "Janhunen",
+      "year": "2010"
+    },
+    {
+      "key": "10.1016/j.actaastro.2019.12.003_bib46",
+      "doi-asserted-by": "crossref",
+      "first-page": "111",
+      "DOI": "10.1016/j.actaastro.2014.10.031",
+      "article-title": "Electric sail control mode for amplified transverse thrust",
+      "volume": "106",
+      "author": "Toivanen",
+      "year": "2015",
+      "journal-title": "Acta Astronaut."
+    },
+    {
+      "key": "10.1016/j.actaastro.2019.12.003_bib47",
+      "doi-asserted-by": "crossref",
+      "first-page": "250",
+      "DOI": "10.1016/j.actaastro.2019.03.064",
+      "article-title": "Attitude dynamics of an electric sail model with a realistic shape",
+      "volume": "159",
+      "author": "Bassetto",
+      "year": "2019",
+      "journal-title": "Acta Astronaut."
+    },
+    {
+      "key": "10.1016/j.actaastro.2019.12.003_bib48",
+      "series-title": "Applied Optimal Control",
+      "first-page": "71",
+      "author": "Bryson",
+      "year": "1975"
+    },
+    {
+      "key": "10.1016/j.actaastro.2019.12.003_bib49",
+      "series-title": "Optimal Trajectories for Space Navigation",
+      "first-page": "54",
+      "author": "Lawden",
+      "year": "1963"
+    },
+    {
+      "key": "10.1016/j.actaastro.2019.12.003_bib50",
+      "series-title": "Computer Solution of Ordinary Differential Equations: the Initial Value Problem",
+      "isbn-type": "print",
+      "author": "Shampine",
+      "year": "1975",
+      "ISBN": "https://id.crossref.org/isbn/0716704617"
+    },
+    {
+      "issue": "1",
+      "key": "10.1016/j.actaastro.2019.12.003_bib51",
+      "doi-asserted-by": "crossref",
+      "first-page": "1",
+      "DOI": "10.1137/S1064827594276424",
+      "article-title": "The MATLAB ODE suite",
+      "volume": "18",
+      "author": "Shampine",
+      "year": "1997",
+      "journal-title": "SIAM J. Sci. Comput."
+    },
+    {
+      "issue": "1",
+      "key": "10.1016/j.actaastro.2019.12.003_bib52",
+      "doi-asserted-by": "crossref",
+      "first-page": "85",
+      "DOI": "10.5194/gi-2-85-2013",
+      "article-title": "Electric solar wind sail mass budget model",
+      "volume": "2",
+      "author": "Janhunen",
+      "year": "2013",
+      "journal-title": "Geosci. Instrum., Methods Data Syst."
+    }
+  ],
+  "container-title": [
+    "Acta Astronautica"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://api.elsevier.com/content/article/PII:S0094576519314365?httpAccept=text/xml",
+      "content-type": "text/xml",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://api.elsevier.com/content/article/PII:S0094576519314365?httpAccept=text/plain",
+      "content-type": "text/plain",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2025,
+        9,
+        25
+      ]
+    ],
+    "date-time": "2025-09-25T14:54:26Z",
+    "timestamp": 1758812066000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0094576519314365"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2020,
+        12
+      ]
+    ]
+  },
+  "references-count": 52,
+  "alternative-id": [
+    "S0094576519314365"
+  ],
+  "URL": "https://doi.org/10.1016/j.actaastro.2019.12.003",
+  "relation": {},
+  "ISSN": [
+    "0094-5765"
+  ],
+  "issn-type": [
+    {
+      "value": "0094-5765",
+      "type": "print"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2020,
+        12
+      ]
+    ]
+  },
+  "assertion": [
+    {
+      "value": "Elsevier",
+      "name": "publisher",
+      "label": "This article is maintained by"
+    },
+    {
+      "value": "Electric sail phasing maneuvers for constellation deployment",
+      "name": "articletitle",
+      "label": "Article Title"
+    },
+    {
+      "value": "Acta Astronautica",
+      "name": "journaltitle",
+      "label": "Journal Title"
+    },
+    {
+      "value": "https://doi.org/10.1016/j.actaastro.2019.12.003",
+      "name": "articlelink",
+      "label": "CrossRef DOI link to publisher maintained version"
+    },
+    {
+      "value": "article",
+      "name": "content_type",
+      "label": "Content Type"
+    },
+    {
+      "value": "© 2019 IAA. Published by Elsevier Ltd. All rights reserved.",
+      "name": "copyright",
+      "label": "Copyright"
+    }
+  ]
+}

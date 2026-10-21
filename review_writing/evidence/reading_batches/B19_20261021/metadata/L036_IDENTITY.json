@@ -1,0 +1,25 @@
+{
+  "source_id": "E-B19-L036",
+  "pool_id": "L036",
+  "title": "Satellite Instantaneous Collision Probability Computation Using Equivalent Volume Cuboids",
+  "actual_title_aliases": [],
+  "identifier": "10.2514/1.g004711",
+  "authors": "Shuo Zhang; Tuo Fu; Defeng Chen; Huawei Cao",
+  "actual_version": "作者公开的19页带行号稿；接受状态未在稿内确认，正式文献2020",
+  "canonical_url": "https://doi.org/10.2514/1.g004711",
+  "acquisition_url": "https://www.researchgate.net/profile/Shuo-Zhang-120/publication/342355766_Satellite_Instantaneous_Collision_Probability_Computation_Using_Equivalent_Volume_Cuboids/links/5ef0a4b2299bf1faac6cad26/Satellite-Instantaneous-Collision-Probability-Computation-Using-Equivalent-Volume-Cuboids.pdf",
+  "source_format": "REMOTE_PUBLIC_PDF_TEXT_CAPTURE",
+  "pdf_pages": 19,
+  "local_text_capture_sha256": "a770535d235d94f5f77f49e7b479f4ad59246d290780cd1c26383f4f69b1815b",
+  "source_pdf_sha256": null,
+  "source_pdf_byte_identity_verified": false,
+  "adoption_status": "candidate_after_human_review",
+  "human_verified": false,
+  "formal_version_text_compared": false,
+  "crossref_file": "L036_CROSSREF.json",
+  "source_limitations": [
+    "瞬时概率曲线不能直接求和当作累计交会概率。",
+    "等体积并不保留概率质量，因此不能把近似值默认作为保守上界。",
+    "13%来自正文报告，图像与正式版数字未终核；不纳入跨论文数值排行榜。"
+  ]
+}

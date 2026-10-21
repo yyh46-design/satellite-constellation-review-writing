@@ -1,0 +1,25 @@
+{
+  "source_id": "E-B19-L033",
+  "pool_id": "L033",
+  "title": "General Method for Calculating Satellite Collision Probability",
+  "actual_title_aliases": [],
+  "identifier": "10.2514/2.4771",
+  "authors": "Russell P. Patera",
+  "actual_version": "作者公开的7页正式版；JGCD 24(4), 2001, 716–722",
+  "canonical_url": "https://doi.org/10.2514/2.4771",
+  "acquisition_url": "https://www.researchgate.net/profile/Russell-Patera/publication/239414978_General_Method_for_Calculating_Satellite_Collision_Probability/links/55b7715308ae092e9657161b/General-Method-for-Calculating-Satellite-Collision-Probability.pdf",
+  "source_format": "REMOTE_PUBLIC_PDF_TEXT_CAPTURE",
+  "pdf_pages": 7,
+  "local_text_capture_sha256": "7e29cdc7727cc8faaf0ac7b82bd0b797e8b83ac0fe43dfb5c51a7a2dc52a356a",
+  "source_pdf_sha256": null,
+  "source_pdf_byte_identity_verified": false,
+  "adoption_status": "candidate_after_human_review",
+  "human_verified": false,
+  "formal_version_text_compared": false,
+  "crossref_file": "L033_CROSSREF.json",
+  "source_limitations": [
+    "“general”不能理解为已处理任意非高斯、长时非线性交会。",
+    "形状调整改变估计概率，不等于已给出可执行、可靠的姿态避碰策略。",
+    "不把历史约20倍速度结果当作现代通用性能指标。"
+  ]
+}

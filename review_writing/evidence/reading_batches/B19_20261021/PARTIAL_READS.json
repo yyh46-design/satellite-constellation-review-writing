@@ -1,0 +1,15 @@
+[
+  {
+    "pool_id": "L003",
+    "title": "Long-Term Formation Keeping of Satellite Constellation Using Linear-Quadratic Controller",
+    "doi": "10.2514/2.4204",
+    "reading_status": "PARTIAL_TEXT_READ_NOT_COUNTED",
+    "counted_as_completed": false,
+    "scope": "PDF physical pp3–8 narrative and selected equations; p1 is journal contents; p2 has no extracted body text and image unavailable",
+    "reason": "Missing first article-page text and no usable PDF screenshot; replaced by L018 for completed ten",
+    "local_text_capture_path": "D:\\SKT727\\materials\\constellation_review_B19_20261021\\L003_web_lines.json",
+    "local_text_capture_sha256": "9e8edd48e377ece0f1cce787899aedc730f79106aaa1ba6f6bb6a59945e82be3",
+    "source_pdf_sha256": null,
+    "human_verified": false
+  }
+]

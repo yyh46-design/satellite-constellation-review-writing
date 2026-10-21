@@ -1,0 +1,25 @@
+{
+  "source_id": "E-B19-L014",
+  "pool_id": "L014",
+  "title": "Electric sail phasing maneuvers for constellation deployment",
+  "actual_title_aliases": [],
+  "identifier": "10.1016/j.actaastro.2019.12.003",
+  "authors": "Lorenzo Niccolai; Andrea Caruso; Alessandro A. Quarta; Giovanni Mengali",
+  "actual_version": "比萨大学公开的15页作者稿；页脚标明正式DOI与2020卷页",
+  "canonical_url": "https://doi.org/10.1016/j.actaastro.2019.12.003",
+  "acquisition_url": "https://arpi.unipi.it/retrieve/e0d6c930-940a-fcf8-e053-d805fe0aa794/%5B2020%5D%20Electric%20sail%20phasing%20maneuvers%20for%20constellation%20deployment.pdf",
+  "source_format": "REMOTE_PUBLIC_PDF_TEXT_CAPTURE",
+  "pdf_pages": 15,
+  "local_text_capture_sha256": "d002650dd9ebce15c9f30cbd217a54874270373c5ba38ecc3e6a0620eb52846a",
+  "source_pdf_sha256": null,
+  "source_pdf_byte_identity_verified": false,
+  "adoption_status": "context_only_outside_core_LEO_scope",
+  "human_verified": false,
+  "formal_version_text_compared": false,
+  "crossref_file": "L014_CROSSREF.json",
+  "source_limitations": [
+    "与近地星座维持、碎片避碰和地面任务重调度的适用环境差别很大。",
+    "无显式两两避碰、导航误差或多运营方协同约束。",
+    "仅作为原候选池范围筛选记录；不把日心算例直接迁入主体结论。"
+  ]
+}

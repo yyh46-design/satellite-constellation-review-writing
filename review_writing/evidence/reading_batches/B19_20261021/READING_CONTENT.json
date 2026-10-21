@@ -1,0 +1,918 @@
+[
+  {
+    "reading_id": "L004",
+    "actual_version": "作者公开的IEEE正式版，2020，13:307–317，11页",
+    "body_pages": [
+      1,
+      9
+    ],
+    "evidence_role": "multi_spacecraft_mission_maintenance",
+    "question": "观测构型的空间分离需求怎样受推进能力和寿命约束？",
+    "mechanism": "输入为轨道倾角差、RAAN容差、最大加速度和总ΔV；用半长轴调整配合轨道法向机动保持构型。",
+    "validation": "理论模型与STK、GMAT轨道仿真；并非在轨维持演示。",
+    "claims": [
+      {
+        "text": "不同倾角造成差异节点退行，单独匹配平均运动不足以维持构型。",
+        "pages": [
+          2,
+          3,
+          4
+        ],
+        "locator": "Sec.III, Eqs.(1)–(4)",
+        "kind": "method",
+        "claim_id": "C-B19-001",
+        "source_id": "E-B19-L004",
+        "claim_text_sha256": "358c4e2e9b086e38b32946f2807e7c1e1a8ff9cc16c7e7edbf835607ca67e908"
+      },
+      {
+        "text": "维持规则由RAAN偏差阈值触发，并在最大、最小纬度附近成对机动。",
+        "pages": [
+          5,
+          6
+        ],
+        "locator": "Sec.V station-keeping rules",
+        "kind": "method",
+        "claim_id": "C-B19-002",
+        "source_id": "E-B19-L004",
+        "claim_text_sha256": "1d59beefdfb1905cf996d5e58caa9cb05be254513d4228d6d136fae9ce4a20cd"
+      },
+      {
+        "text": "最大加速度与总ΔV分别限制可维持的分离程度和任务持续时间。",
+        "pages": [
+          7,
+          8
+        ],
+        "locator": "Fig.6 discussion; Sec.VI",
+        "kind": "result",
+        "claim_id": "C-B19-003",
+        "source_id": "E-B19-L004",
+        "claim_text_sha256": "7f382a0e17140c86557dbc551603706b73ebd9b93d5935cbd85c1e2c9ff32092"
+      },
+      {
+        "text": "寿命计算未计入最初部署所需推进量。",
+        "pages": [
+          7
+        ],
+        "locator": "Sec.V immediately after Fig.6",
+        "kind": "boundary",
+        "claim_id": "C-B19-004",
+        "source_id": "E-B19-L004",
+        "claim_text_sha256": "4eb7d8d694af5e2712504296134228eacdd114de0c8348d2f301f7cfc3cd9d79"
+      },
+      {
+        "text": "长时间推进会与掩星测量所需定轨精度冲突，形成任务可用时间约束。",
+        "pages": [
+          9
+        ],
+        "locator": "Sec.VI, Eq.(18) discussion",
+        "kind": "boundary",
+        "claim_id": "C-B19-005",
+        "source_id": "E-B19-L004",
+        "claim_text_sha256": "8b1a1a36163f588f38da231575a154785e9d482619443cf3b0db91f2893e64af"
+      }
+    ],
+    "limitations": [
+      "BIT-3的推进器分类需另核实，暂不沿用文中所有“electrospray”标签。",
+      "图6没有完成图像核查，型号数值和曲线差异暂不用于定量比较。",
+      "阅读了附录A的构型几何说明，未逐式复核或复现轨道传播。"
+    ],
+    "writing_use": "建议新增3.6.1时，用它连接观测几何、推进资源与维持调度；4.4讨论任务执行窗口与轨道修复的耦合。",
+    "adoption_status": "candidate_after_human_review",
+    "human_verified": false,
+    "title": "Orbital Maintenance of a Constellation of CubeSats for Internal Gravity Wave Tomography",
+    "title_cn": "面向内重力波层析探测的立方星星座轨道维持",
+    "identifier": "10.1109/jstars.2019.2961084",
+    "authors": "Stephen Leroy; Riley Fitzgerald; Kerri Cahoy; James Abel; James Clark",
+    "source_id": "E-B19-L004",
+    "pdf_pages": 11,
+    "canonical_url": "https://doi.org/10.1109/jstars.2019.2961084",
+    "actual_source_url": "https://www.researchgate.net/profile/Stephen-Leroy-2/publication/339220232_Orbital_Maintenance_of_a_Constellation_of_CubeSats_for_Internal_Gravity_Wave_Tomography/links/5e46c789458515072d9dab44/Orbital-Maintenance-of-a-Constellation-of-CubeSats-for-Internal-Gravity-Wave-Tomography.pdf"
+  },
+  {
+    "reading_id": "L008",
+    "actual_version": "作者上传的28页稿，2018；与期刊正式排版未逐页比对",
+    "body_pages": [
+      1,
+      26
+    ],
+    "evidence_role": "two_spacecraft_aerodynamic_control",
+    "question": "LQR期望控制怎样转成实际可执行的差异升阻力？",
+    "mechanism": "由两星相对状态求LQR力，再反解帆板姿态；不可行时按轴优先实现替代控制。",
+    "validation": "线性模型与含J2、GOST大气和参数误差的数值试验。",
+    "claims": [
+      {
+        "text": "差异升阻力的可达集合取决于两星姿态与气体表面作用参数。",
+        "pages": [
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "locator": "Sec.1, Figs.3–5",
+        "kind": "method",
+        "claim_id": "C-B19-006",
+        "source_id": "E-B19-L008",
+        "claim_text_sha256": "a84fb5004132f2cc2dbb58e67841e666120624f3b8f87e5d6cdbd27a04abe6a8"
+      },
+      {
+        "text": "姿态反解可能没有解；所需力分量各自未超界仍不保证联合可行。",
+        "pages": [
+          10,
+          11
+        ],
+        "locator": "Sec.2.2, Eq.(14)",
+        "kind": "method",
+        "claim_id": "C-B19-007",
+        "source_id": "E-B19-L008",
+        "claim_text_sha256": "b5b909f62cd9092abb2eee5909dfdaf3c16d54cb99bbbffe6f8ed3718ec86b6c"
+      },
+      {
+        "text": "外包圆柱只是可达集合近似，内部仍有无法实现的控制。",
+        "pages": [
+          12,
+          13
+        ],
+        "locator": "Sec.2.3, Fig.7 discussion",
+        "kind": "boundary",
+        "claim_id": "C-B19-008",
+        "source_id": "E-B19-L008",
+        "claim_text_sha256": "c0ec10a307d177fccefd9168b7e92d6f52b6c4d0205502ef08099238c41885a7"
+      },
+      {
+        "text": "作者以1000个初始偏差试验检查替代控制下的收敛。",
+        "pages": [
+          24
+        ],
+        "locator": "Sec.3.3, Figs.21–22 discussion",
+        "kind": "result",
+        "claim_id": "C-B19-009",
+        "source_id": "E-B19-L008",
+        "claim_text_sha256": "5370662e4e5711bf1011ca83c66183c8b6699db977a85e7685b56f2b9b98f78e"
+      },
+      {
+        "text": "大气密度设定偏差会改变收敛，文中也展示发散情形。",
+        "pages": [
+          25,
+          26
+        ],
+        "locator": "Sec.3.3, Figs.23–24; Conclusion",
+        "kind": "boundary",
+        "claim_id": "C-B19-010",
+        "source_id": "E-B19-L008",
+        "claim_text_sha256": "e22b08dfaddf32cc3d62e0f6b4dae28f3f21531c3359d54ebf23232ec52ee3e5"
+      }
+    ],
+    "limitations": [
+      "没有显式碰撞概率约束，不可把构型跟踪收敛写成避碰认证。",
+      "所读稿含图号复用；按章节、公式和PDF物理页联合定位。",
+      "状态可准确取得及姿态执行近似是假设；真实传感误差、执行时延仍需补证。"
+    ],
+    "writing_use": "用于建议3.6.1及4.4说明“规划给出的动作”还要经过执行可行性检查；外包可行域带来的遗漏应作为局限写出。",
+    "adoption_status": "candidate_after_human_review",
+    "human_verified": false,
+    "title": "Study of satellite formation flying control using differential lift and drag",
+    "title_cn": "利用差异升力与阻力的卫星编队飞行控制研究",
+    "identifier": "10.1016/j.actaastro.2018.07.047",
+    "authors": "D. Ivanov; M. Kushniruk; M. Ovchinnikov",
+    "source_id": "E-B19-L008",
+    "pdf_pages": 28,
+    "canonical_url": "https://doi.org/10.1016/j.actaastro.2018.07.047",
+    "actual_source_url": "https://www.researchgate.net/profile/Danil-Ivanov-2/publication/326572095_Study_of_Satellite_Formation_Flying_Control_Using_Differential_Lift_and_Drag/links/5b56dedc45851507a7c43eb3/Study-of-Satellite-Formation-Flying-Control-Using-Differential-Lift-and-Drag.pdf"
+  },
+  {
+    "reading_id": "L014",
+    "actual_version": "比萨大学公开的15页作者稿；页脚标明正式DOI与2020卷页",
+    "body_pages": [
+      1,
+      14
+    ],
+    "evidence_role": "heliocentric_deployment_boundary_case",
+    "question": "题名中的星座部署是否属于本文的近地大型星座问题？",
+    "mechanism": "电太阳风帆在日心圆轨道上调相；部署器逐次释放卫星，以帆姿态和通断状态最小化时间。",
+    "validation": "间接最优控制和数值积分；不含实际部署验证。",
+    "claims": [
+      {
+        "text": "研究对象为日心圆形工作轨道，而非地球低轨星座。",
+        "pages": [
+          3,
+          7,
+          8
+        ],
+        "locator": "Sec.2; Sec.3",
+        "kind": "scope",
+        "claim_id": "C-B19-011",
+        "source_id": "E-B19-L014",
+        "claim_text_sha256": "22a63d100c65a539f1a699e64f958544f6078ba6cc72cb4b32b4589d11b2b100"
+      },
+      {
+        "text": "推力模型对帆姿态施加方向限制，并近似忽略太阳风变化。",
+        "pages": [
+          7
+        ],
+        "locator": "Sec.3, Eq.(1) discussion",
+        "kind": "boundary",
+        "claim_id": "C-B19-012",
+        "source_id": "E-B19-L014",
+        "claim_text_sha256": "47023299de60a843c8893c48e2a82cf804d7157f657ba786503b2d46289e36f3"
+      },
+      {
+        "text": "优化同时选择帆俯仰角与电子枪通断，允许开普勒滑行弧。",
+        "pages": [
+          7,
+          8,
+          9,
+          10
+        ],
+        "locator": "Eqs.(1)–(19)",
+        "kind": "method",
+        "claim_id": "C-B19-013",
+        "source_id": "E-B19-L014",
+        "claim_text_sha256": "53dddfddbac58cf10d6a433134d7661b7cf7ab979505fa032158b593975763e3"
+      },
+      {
+        "text": "释放卫星后的质量变化使后续轨道弧的特征加速度改变。",
+        "pages": [
+          11,
+          12
+        ],
+        "locator": "Sec.4.2, Eqs.(22)–(24)",
+        "kind": "method",
+        "claim_id": "C-B19-014",
+        "source_id": "E-B19-L014",
+        "claim_text_sha256": "b1566224cdca44e07fb5b545bc7b5704db88301aad26da7d433207bcddcabf3c"
+      },
+      {
+        "text": "部署总时间由逐段调相累加，结果高度依赖帆的性能假设。",
+        "pages": [
+          12,
+          13,
+          14
+        ],
+        "locator": "Tables1–2; Conclusion",
+        "kind": "boundary",
+        "claim_id": "C-B19-015",
+        "source_id": "E-B19-L014",
+        "claim_text_sha256": "8cf08ad81f04c5266334cdf76223b7f0dc3a11afbf973bcb1c8e44344c563f6c"
+      }
+    ],
+    "limitations": [
+      "与近地星座维持、碎片避碰和地面任务重调度的适用环境差别很大。",
+      "无显式两两避碰、导航误差或多运营方协同约束。",
+      "仅作为原候选池范围筛选记录；不把日心算例直接迁入主体结论。"
+    ],
+    "writing_use": "保留为边界案例，提醒按轨道环境和控制资源筛文献；本轮不建议作为综述主干补强证据。",
+    "adoption_status": "context_only_outside_core_LEO_scope",
+    "human_verified": false,
+    "title": "Electric sail phasing maneuvers for constellation deployment",
+    "title_cn": "用于星座部署的电帆调相机动",
+    "identifier": "10.1016/j.actaastro.2019.12.003",
+    "authors": "Lorenzo Niccolai; Andrea Caruso; Alessandro A. Quarta; Giovanni Mengali",
+    "source_id": "E-B19-L014",
+    "pdf_pages": 15,
+    "canonical_url": "https://doi.org/10.1016/j.actaastro.2019.12.003",
+    "actual_source_url": "https://arpi.unipi.it/retrieve/e0d6c930-940a-fcf8-e053-d805fe0aa794/%5B2020%5D%20Electric%20sail%20phasing%20maneuvers%20for%20constellation%20deployment.pdf"
+  },
+  {
+    "reading_id": "L015",
+    "actual_version": "作者公开的10页正式版；Acta Astronautica 123 (2016) 387–396",
+    "body_pages": [
+      1,
+      9
+    ],
+    "evidence_role": "two_spacecraft_closed_loop_uncertainty",
+    "question": "怎样同时评估估计器、控制器和阻力不确定性对保持距离的影响？",
+    "mechanism": "在无噪声标称轨迹附近线性化，联合传播真实状态与滤波误差的协方差，再计算相对轨道量的方差。",
+    "validation": "两星协方差分析，对照400次、50天Monte Carlo仿真。",
+    "claims": [
+      {
+        "text": "估计器输出平均轨道根数，为差异阻力反馈控制提供输入。",
+        "pages": [
+          3,
+          4,
+          5
+        ],
+        "locator": "Secs.3.1–3.3",
+        "kind": "method",
+        "claim_id": "C-B19-016",
+        "source_id": "E-B19-L015",
+        "claim_text_sha256": "68913dc11038f5f982ba836763f2f2469c3acc6169aac57e01759951b4ca8fc8"
+      },
+      {
+        "text": "增广协方差保留真实状态与估计误差的耦合。",
+        "pages": [
+          6,
+          7
+        ],
+        "locator": "Sec.3.4, Algorithm1",
+        "kind": "method",
+        "claim_id": "C-B19-017",
+        "source_id": "E-B19-L015",
+        "claim_text_sha256": "74b90f3946b0893ff02a87af1408fcbbdf4e907f67a2b958230164ca1eda3406"
+      },
+      {
+        "text": "相对半长轴方差包含两星交叉协方差项。",
+        "pages": [
+          6,
+          7
+        ],
+        "locator": "Eq.(36)",
+        "kind": "method",
+        "claim_id": "C-B19-018",
+        "source_id": "E-B19-L015",
+        "claim_text_sha256": "b1a9f364697f8111410c670b59c2b528dc304b753cb37198a1fb9499e7fc073d"
+      },
+      {
+        "text": "验证使用400次、50天仿真，包含多种摄动和设定噪声。",
+        "pages": [
+          7
+        ],
+        "locator": "Sec.4.1",
+        "kind": "result",
+        "claim_id": "C-B19-019",
+        "source_id": "E-B19-L015",
+        "claim_text_sha256": "df27dd8321322bd5e4319867dcdf7cc695768f0333f802a4b57d287f6951343a"
+      },
+      {
+        "text": "部分估计量和纬度幅角误差上，线性协方差结果并不总保守。",
+        "pages": [
+          8,
+          9
+        ],
+        "locator": "Secs.4.2–4.3",
+        "kind": "boundary",
+        "claim_id": "C-B19-020",
+        "source_id": "E-B19-L015",
+        "claim_text_sha256": "bc17bf3a4778ec3bdd1374945c9e2a61f88f8f0ff268eb53d4525521cb796bfe"
+      }
+    ],
+    "limitations": [
+      "白噪声、零均值及局部线性化限制外推；不可代替所有大气误差模型。",
+      "多星控制律可以扩展，不等于本文已完成任意星数的协方差验证。",
+      "3σ曲线是统计描述，不能写成硬安全边界或极小碰撞概率证书。"
+    ],
+    "writing_use": "用于4.4把状态估计质量接到动作执行评估；建议3.6中区别协方差传播、碰撞概率与闭环安全验证。",
+    "adoption_status": "candidate_after_human_review",
+    "human_verified": false,
+    "title": "Covariance analysis of differential drag-based satellite cluster flight",
+    "title_cn": "基于差异阻力的卫星集群飞行协方差分析",
+    "identifier": "10.1016/j.actaastro.2015.12.035",
+    "authors": "Ohad Ben-Yaacov; Anatoly Ivantsov; Pini Gurfil",
+    "source_id": "E-B19-L015",
+    "pdf_pages": 10,
+    "canonical_url": "https://doi.org/10.1016/j.actaastro.2015.12.035",
+    "actual_source_url": "https://www.researchgate.net/profile/Pini-Gurfil/publication/288992957_Covariance_Analysis_of_Differential_Drag-Based_Satellite_Cluster_Flight/links/59f041070f7e9baeb26adf5e/Covariance-Analysis-of-Differential-Drag-Based-Satellite-Cluster-Flight.pdf"
+  },
+  {
+    "reading_id": "L018",
+    "actual_version": "作者公开的26页正式版；ASR 60 (2017) 2021–2046",
+    "body_pages": [
+      1,
+      26
+    ],
+    "evidence_role": "two_spacecraft_inter_satellite_link_tracking",
+    "question": "相对轨道预测如何服务星间链路指向，载荷自由度怎样改变执行代价？",
+    "mechanism": "先用含J2的球面几何生成相对指向及角速度参考，再设计本体或载荷跟踪的滑模控制。",
+    "validation": "一颗基准星与三种目标轨道的数值比较；控制器与PID、LQR作算例比较。",
+    "claims": [
+      {
+        "text": "几何相对运动模型为链路指向提供角速度和角加速度参考。",
+        "pages": [
+          4,
+          5,
+          6
+        ],
+        "locator": "Secs.2.1–2.2, Eqs.(30)–(31)",
+        "kind": "method",
+        "claim_id": "C-B19-021",
+        "source_id": "E-B19-L018",
+        "claim_text_sha256": "823001f2787d933b0f1808a4e7e3d8d80eb725edfe9c6d2dcea55e91690dc9f6"
+      },
+      {
+        "text": "论文区分本体跟踪与载荷跟踪，并比较载荷有无转动自由度。",
+        "pages": [
+          6,
+          7,
+          12,
+          16,
+          17
+        ],
+        "locator": "Secs.4.1–4.3",
+        "kind": "method",
+        "claim_id": "C-B19-022",
+        "source_id": "E-B19-L018",
+        "claim_text_sha256": "4a15cf3a59bf9fdd8143bbdf6e073f5c07fad830cd96a90f5b18b513f1e85401"
+      },
+      {
+        "text": "无载荷自由度的算例未实现所需参考跟踪。",
+        "pages": [
+          16
+        ],
+        "locator": "Sec.4.2 discussion of Figs.13–15",
+        "kind": "result",
+        "claim_id": "C-B19-023",
+        "source_id": "E-B19-L018",
+        "claim_text_sha256": "71be097a80f8ecfb0b85fe17ad2d44442521e2f2aaef04ebd2a79d1573e211de"
+      },
+      {
+        "text": "有载荷自由度的设计在作者算例中降低了所需控制力矩。",
+        "pages": [
+          19,
+          20,
+          26
+        ],
+        "locator": "Sec.4.3 and Conclusion",
+        "kind": "result",
+        "claim_id": "C-B19-024",
+        "source_id": "E-B19-L018",
+        "claim_text_sha256": "00c2c4ab1e21d49035afa041f10f20893304009ff33b12b65817b88bf3e58800"
+      },
+      {
+        "text": "模糊切换增益用于改善滑模控制的抖振。",
+        "pages": [
+          20,
+          21,
+          22
+        ],
+        "locator": "Sec.4.4",
+        "kind": "method",
+        "claim_id": "C-B19-025",
+        "source_id": "E-B19-L018",
+        "claim_text_sha256": "06a60301fb5290707b4b3c46d9e1a68f99b8cf157bbd592f114e22492dd96196"
+      }
+    ],
+    "limitations": [
+      "“large-scale”指相对运动范围，不能据此声称大规模星数验证。",
+      "不研究两两避碰、碰撞概率或网络任务分配；仅是链路建立的控制基础。",
+      "正文存在7/6秒及500/600秒等表述差异；这些数值不采用。",
+      "几何模型误差的极小数值说法和商用软件对照误差并列，须另查定义；本批不采用精度优越性结论。"
+    ],
+    "writing_use": "可补4.4对“协同需要通信，但通信也需要姿态与载荷资源”的讨论，避免把星间链路当成零代价前提。",
+    "adoption_status": "candidate_after_human_review",
+    "human_verified": false,
+    "title": "Relative tracking control of constellation satellites considering inter-satellite link",
+    "title_cn": "考虑星间链路的星座卫星相对跟踪控制",
+    "identifier": "10.1016/j.asr.2017.07.012",
+    "authors": "M. Fakoor; F. Amozegary; M. Bakhtiari; K. Daneshjou",
+    "source_id": "E-B19-L018",
+    "pdf_pages": 26,
+    "canonical_url": "https://doi.org/10.1016/j.asr.2017.07.012",
+    "actual_source_url": "https://www.researchgate.net/profile/Fatemeh-Amozegary/publication/318448926_Relative_Tracking_Control_of_Constellation_Satellites_Considering_Inter-Satellite_Link/links/644d0f7d5762c95ac3605cc2/Relative-Tracking-Control-of-Constellation-Satellites-Considering-Inter-Satellite-Link.pdf"
+  },
+  {
+    "reading_id": "L030",
+    "actual_version": "作者公开的5页正式版；JGCD 29(3), 2006, 588–592",
+    "body_pages": [
+      1,
+      5
+    ],
+    "evidence_role": "pairwise_collision_risk_foundation",
+    "question": "缺少姿态信息或协方差尺度不可靠时，风险估计应怎样表达保守性？",
+    "mechanism": "构造矩形物体的保守投影，在给定协方差形状条件下搜索姿态、尺度等变量对应的最大概率。",
+    "validation": "参数化数值测试与一组历史SOCRATES配对的宽度因子统计。",
+    "claims": [
+      {
+        "text": "碰撞平面计算依赖短时、近线性相对运动等假设。",
+        "pages": [
+          1,
+          2,
+          5
+        ],
+        "locator": "Simplified formulation; Conclusions",
+        "kind": "boundary",
+        "claim_id": "C-B19-026",
+        "source_id": "E-B19-L030",
+        "claim_text_sha256": "68d0ff48bad414285b61b3b766cc0ff1768c9df03e4a7c1ffb859150f9d3c587"
+      },
+      {
+        "text": "未知姿态时，构造覆盖可能接触区域的投影再搜索方位。",
+        "pages": [
+          2,
+          3
+        ],
+        "locator": "Unknown orientation formulation",
+        "kind": "method",
+        "claim_id": "C-B19-027",
+        "source_id": "E-B19-L030",
+        "claim_text_sha256": "75d33d1fe5740a50584da9e3bf9bac7cbea51096eb248ed22f9476cada31b638"
+      },
+      {
+        "text": "最大概率计算保持投影协方差轴比固定。",
+        "pages": [
+          3
+        ],
+        "locator": "Maximum probability formulation",
+        "kind": "boundary",
+        "claim_id": "C-B19-028",
+        "source_id": "E-B19-L030",
+        "claim_text_sha256": "4597c92b0dbc71ba76c0d0fcb616f1b96a69c9347c73614ba63d3782d1c3cf57"
+      },
+      {
+        "text": "最大概率对应的协方差尺度可用于提示需要更准确的轨道信息。",
+        "pages": [
+          2,
+          3,
+          5
+        ],
+        "locator": "Maximum probability and data sufficiency discussion",
+        "kind": "method",
+        "claim_id": "C-B19-029",
+        "source_id": "E-B19-L030",
+        "claim_text_sha256": "78f0c52a532b4b7435f156ac44b162a5a53a71ff649306861a4b9219cfecd832"
+      },
+      {
+        "text": "数值测试覆盖物体尺度、错失距离、轴比与方位的变化。",
+        "pages": [
+          3,
+          4
+        ],
+        "locator": "Numerical Testing",
+        "kind": "result",
+        "claim_id": "C-B19-030",
+        "source_id": "E-B19-L030",
+        "claim_text_sha256": "9aa27440b3a455595ddaba8c168b6cdf75bfb050548299bf8e379d49a871e0b9"
+      }
+    ],
+    "limitations": [
+      "最大概率是指定模型与固定轴比下的结果，不是所有分布不确定性的统一上界。",
+      "历史样本及计算条件不能作为当前运营数据。",
+      "纸面扫描公式的OCR较差，精确实现与数值采用均待图像复核。"
+    ],
+    "writing_use": "建议3.6.2区别名义Pc、条件最大Pc和数据是否足以支撑决策；4.3讨论观测更新而非立即机动的选择。",
+    "adoption_status": "candidate_after_human_review",
+    "human_verified": false,
+    "title": "Satellite Collision Probability Enhancements",
+    "title_cn": "卫星碰撞概率计算的改进",
+    "identifier": "10.2514/1.15523",
+    "authors": "Salvatore Alfano",
+    "source_id": "E-B19-L030",
+    "pdf_pages": 5,
+    "canonical_url": "https://doi.org/10.2514/1.15523",
+    "actual_source_url": "https://www.researchgate.net/profile/Salvatore-Alfano/publication/245432708_Satellite_Collision_Probability_Enhancements/links/5473bf6b0cf29afed60f5a3f/Satellite-Collision-Probability-Enhancements.pdf"
+  },
+  {
+    "reading_id": "L033",
+    "actual_version": "作者公开的7页正式版；JGCD 24(4), 2001, 716–722",
+    "body_pages": [
+      1,
+      7
+    ],
+    "evidence_role": "pairwise_collision_risk_foundation",
+    "question": "怎样把碰撞平面的概率积分转为便于重复计算的形式？",
+    "mechanism": "旋转和缩放概率分布，再沿硬体投影边界做闭合路径积分；另处理原点被硬体包围的情形。",
+    "validation": "与既有NASA相关程序比较，并用非球形发射器算例展示几何影响。",
+    "claims": [
+      {
+        "text": "主要推导假设交会段相对速度近似不变，并使用高斯位置误差。",
+        "pages": [
+          2
+        ],
+        "locator": "Methodology Overview",
+        "kind": "boundary",
+        "claim_id": "C-B19-031",
+        "source_id": "E-B19-L033",
+        "claim_text_sha256": "6acd94cb02df2d22a84274dae1bc2b54f7cda98be5f51dd0306300244de97df8"
+      },
+      {
+        "text": "旋转与缩放将碰撞平面面积积分转成闭合轮廓积分。",
+        "pages": [
+          2,
+          3,
+          4
+        ],
+        "locator": "Eqs.(10)–(26)",
+        "kind": "method",
+        "claim_id": "C-B19-032",
+        "source_id": "E-B19-L033",
+        "claim_text_sha256": "9c70476980ecccb06ace8408774c341ff6f9377aaddda8a8c93ea92055e0106f"
+      },
+      {
+        "text": "硬体区域包含与不包含概率分布原点时采用不同表达。",
+        "pages": [
+          4
+        ],
+        "locator": "Eqs.(26a),(26b)",
+        "kind": "method",
+        "claim_id": "C-B19-033",
+        "source_id": "E-B19-L033",
+        "claim_text_sha256": "f77c6870104d8e0277f13842d374d9e05f97d20a480f9eb7a1575edcd2529570"
+      },
+      {
+        "text": "非球形物体以投影多边形边界表示，再累计各面的贡献。",
+        "pages": [
+          5,
+          6
+        ],
+        "locator": "Asymmetric space objects; Eq.(38)",
+        "kind": "method",
+        "claim_id": "C-B19-034",
+        "source_id": "E-B19-L033",
+        "claim_text_sha256": "5f9436c7a7b6647d72c00f7477dbcb999eb9254067d12c89f14905aac2e5d35c"
+      },
+      {
+        "text": "算例的速度优势取决于积分步数、比较程序和当时硬件。",
+        "pages": [
+          4,
+          5
+        ],
+        "locator": "CPU timings and 400/27-step comparison",
+        "kind": "boundary",
+        "claim_id": "C-B19-035",
+        "source_id": "E-B19-L033",
+        "claim_text_sha256": "24500f4ac6e8bde137b70f4653d0820c0b5ed892f78922bec285df41b709d05d"
+      }
+    ],
+    "limitations": [
+      "“general”不能理解为已处理任意非高斯、长时非线性交会。",
+      "形状调整改变估计概率，不等于已给出可执行、可靠的姿态避碰策略。",
+      "不把历史约20倍速度结果当作现代通用性能指标。"
+    ],
+    "writing_use": "作为建议3.6.2的基础方法；用它与L034、L036比较不同风险量及假设，不把计算速度和安全效果混为一谈。",
+    "adoption_status": "candidate_after_human_review",
+    "human_verified": false,
+    "title": "General Method for Calculating Satellite Collision Probability",
+    "title_cn": "卫星碰撞概率计算的一般方法",
+    "identifier": "10.2514/2.4771",
+    "authors": "Russell P. Patera",
+    "source_id": "E-B19-L033",
+    "pdf_pages": 7,
+    "canonical_url": "https://doi.org/10.2514/2.4771",
+    "actual_source_url": "https://www.researchgate.net/profile/Russell-Patera/publication/239414978_General_Method_for_Calculating_Satellite_Collision_Probability/links/55b7715308ae092e9657161b/General-Method-for-Calculating-Satellite-Collision-Probability.pdf"
+  },
+  {
+    "reading_id": "L034",
+    "actual_version": "作者公开的17页接受稿；正式文献为JGCD 37(3), 2014, 979–985",
+    "body_pages": [
+      1,
+      14
+    ],
+    "evidence_role": "pairwise_non_gaussian_collision_risk",
+    "question": "稀疏观测导致非高斯状态分布时，怎样计算时间区间内风险？",
+    "mechanism": "把两对象状态表示成高斯混合，以进入硬体表面的概率通量计算概率率，再随时间积分。",
+    "validation": "弱观测对象与良好跟踪对象的交会算例，并与Monte Carlo结果比较。",
+    "claims": [
+      {
+        "text": "累计碰撞概率与某一瞬时位于硬体内的概率通常不相等。",
+        "pages": [
+          3,
+          4,
+          5
+        ],
+        "locator": "Sec.II, Eqs.(1)–(4)",
+        "kind": "method",
+        "claim_id": "C-B19-036",
+        "source_id": "E-B19-L034",
+        "claim_text_sha256": "c63c26b0e2af4cb68e6a9414e3b0ae4425a2ee02801e269dd4bcd053b15e9112"
+      },
+      {
+        "text": "概率率积分的适用性包含单次穿越条件。",
+        "pages": [
+          4
+        ],
+        "locator": "Sec.II, discussion after Eq.(3)",
+        "kind": "boundary",
+        "claim_id": "C-B19-037",
+        "source_id": "E-B19-L034",
+        "claim_text_sha256": "23b3ee73fb26a592223b6aeb28530d5f9b230a4ab54e6b35cc8f45bef2405e00"
+      },
+      {
+        "text": "两个对象的独立状态分布形成分量两两组合的相对分布。",
+        "pages": [
+          5,
+          6
+        ],
+        "locator": "Sec.III, Eqs.(5)–(11)",
+        "kind": "method",
+        "claim_id": "C-B19-038",
+        "source_id": "E-B19-L034",
+        "claim_text_sha256": "167089794473bd83ce1b0638d3b4096126d41f20ad19d886563a84c4e2565c77"
+      },
+      {
+        "text": "计算包含速度不确定性，并对球面及时间积分使用数值求积。",
+        "pages": [
+          7,
+          8
+        ],
+        "locator": "Sec.III, Eqs.(12)–(13)",
+        "kind": "method",
+        "claim_id": "C-B19-039",
+        "source_id": "E-B19-L034",
+        "claim_text_sha256": "323ea7ebacd7d44bc61aa9149885051a2e9edd6e8dbcca52acdc4c3a4467bdde"
+      },
+      {
+        "text": "验证例以2500万次Monte Carlo与高斯混合计算对照。",
+        "pages": [
+          11,
+          12,
+          13
+        ],
+        "locator": "Sec.IV, Figs.2–4",
+        "kind": "result",
+        "claim_id": "C-B19-040",
+        "source_id": "E-B19-L034",
+        "claim_text_sha256": "d7b176c501abdeac9e202d87a5e312bc3592efae4b8c12dd063c8e12a2255c6c"
+      }
+    ],
+    "limitations": [
+      "“两对象独立”不等于位置与速度相互独立。",
+      "相对状态定义与Eq.(8)中均值符号表述需对照正式版，精确公式采用HOLD。",
+      "一次算例的吻合不能推出所有稀有事件都已校准，也不能把重复穿越累加当作概率。"
+    ],
+    "writing_use": "建议3.6.2解释长期、低相对速度和稀疏观测为何需要额外假设检查；4.4引入估计更新和风险重算接口。",
+    "adoption_status": "candidate_after_human_review",
+    "human_verified": false,
+    "title": "Collision Probability with Gaussian Mixture Orbit Uncertainty",
+    "title_cn": "高斯混合轨道不确定性下的碰撞概率",
+    "identifier": "10.2514/1.62308",
+    "authors": "Kyle J. DeMars; Yang Cheng; Moriba K. Jah",
+    "source_id": "E-B19-L034",
+    "pdf_pages": 17,
+    "canonical_url": "https://doi.org/10.2514/1.62308",
+    "actual_source_url": "https://www.researchgate.net/profile/Yang-Cheng-25/publication/259293060_Collision_Probability_with_Gaussian_Mixture_Orbit_Uncertainty/links/02e7e52acef1ea312c000000/Collision-Probability-with-Gaussian-Mixture-Orbit-Uncertainty.pdf"
+  },
+  {
+    "reading_id": "L036",
+    "actual_version": "作者公开的19页带行号稿；接受状态未在稿内确认，正式文献2020",
+    "body_pages": [
+      1,
+      16
+    ],
+    "evidence_role": "pairwise_instantaneous_collision_risk",
+    "question": "怎样用较低代价近似计算非高斯相对位置的瞬时碰撞概率？",
+    "mechanism": "先分裂并传播高斯混合；将每项积分区域变换成椭球，再用等体积长方体近似，分解为一维积分。",
+    "validation": "GEO和LEO两个数值案例，与数值积分、Monte Carlo及等体积球近似比较。",
+    "claims": [
+      {
+        "text": "本文主要风险量是固定时刻位于合成硬体内的概率。",
+        "pages": [
+          1,
+          3
+        ],
+        "locator": "Sec.II, Eq.(1)",
+        "kind": "scope",
+        "claim_id": "C-B19-041",
+        "source_id": "E-B19-L036",
+        "claim_text_sha256": "828dd03f559c14e2423f85106bf29b2dcee3fead7923a4f030aa83b3315b450c"
+      },
+      {
+        "text": "分裂方向按线性传播的位置不确定性影响选择。",
+        "pages": [
+          5,
+          6
+        ],
+        "locator": "Sec.III.A, Eqs.(5)–(10)",
+        "kind": "method",
+        "claim_id": "C-B19-042",
+        "source_id": "E-B19-L036",
+        "claim_text_sha256": "a425fccdb120c1e434a67cd264a0111141e0b7c88613f5fa6905c13a4df687c1"
+      },
+      {
+        "text": "等体积长方体把三维积分近似为三个一维积分的乘积。",
+        "pages": [
+          9,
+          10,
+          11,
+          12,
+          13
+        ],
+        "locator": "Sec.IV, Eqs.(28)–(38)",
+        "kind": "method",
+        "claim_id": "C-B19-043",
+        "source_id": "E-B19-L036",
+        "claim_text_sha256": "8831648a2c30aaff6b1512a551f9bfb3640f9dcdca7450c6edaa5bc15436452a"
+      },
+      {
+        "text": "作者报告的LEO算例中，峰值概率存在约13%的低估。",
+        "pages": [
+          15
+        ],
+        "locator": "Sec.V.B discussion of Fig.4",
+        "kind": "result",
+        "claim_id": "C-B19-044",
+        "source_id": "E-B19-L036",
+        "claim_text_sha256": "8793ece9ebc769e9e702479a84913699faee881a1183cece5c00c3e7e2e8fd71"
+      },
+      {
+        "text": "论文明确指出该几何近似的误差难以解析估计。",
+        "pages": [
+          16
+        ],
+        "locator": "Sec.VI final paragraph",
+        "kind": "boundary",
+        "claim_id": "C-B19-045",
+        "source_id": "E-B19-L036",
+        "claim_text_sha256": "e50db5d11e4f36b813c1593d963a05c3bd9ec6be05ecc1bce45a99818894a5da"
+      }
+    ],
+    "limitations": [
+      "瞬时概率曲线不能直接求和当作累计交会概率。",
+      "等体积并不保留概率质量，因此不能把近似值默认作为保守上界。",
+      "13%来自正文报告，图像与正式版数字未终核；不纳入跨论文数值排行榜。"
+    ],
+    "writing_use": "建议3.6.2明确瞬时与累计概率的区别；4.4说明近似误差可能影响阈值判断，需要校准和回退。",
+    "adoption_status": "candidate_after_human_review",
+    "human_verified": false,
+    "title": "Satellite Instantaneous Collision Probability Computation Using Equivalent Volume Cuboids",
+    "title_cn": "利用等体积长方体计算卫星瞬时碰撞概率",
+    "identifier": "10.2514/1.g004711",
+    "authors": "Shuo Zhang; Tuo Fu; Defeng Chen; Huawei Cao",
+    "source_id": "E-B19-L036",
+    "pdf_pages": 19,
+    "canonical_url": "https://doi.org/10.2514/1.g004711",
+    "actual_source_url": "https://www.researchgate.net/profile/Shuo-Zhang-120/publication/342355766_Satellite_Instantaneous_Collision_Probability_Computation_Using_Equivalent_Volume_Cuboids/links/5ef0a4b2299bf1faac6cad26/Satellite-Instantaneous-Collision-Probability-Computation-Using-Equivalent-Volume-Cuboids.pdf"
+  },
+  {
+    "reading_id": "L071",
+    "actual_version": "作者公开的34页接受稿，题名Spacecraft；正式题名Satellite，2018",
+    "body_pages": [
+      1,
+      26
+    ],
+    "evidence_role": "multi_spacecraft_formation_containment_safety",
+    "question": "配置形成与跟随星包容能否同时进行，并独立感知碰撞危险？",
+    "mechanism": "领航星形成目标构型，跟随星进入其凸包；协同状态经通信图交换，斥力通过近距测距触发。",
+    "validation": "六颗领航星与四颗跟随星的平面、三棱柱数值例；附有Lyapunov分析。",
+    "claims": [
+      {
+        "text": "配置通信与近距离避碰测距在架构上分开。",
+        "pages": [
+          6,
+          8,
+          9,
+          26
+        ],
+        "locator": "Secs.II.B and V",
+        "kind": "method",
+        "claim_id": "C-B19-046",
+        "source_id": "E-B19-L071",
+        "claim_text_sha256": "395c5d6a62cbe391ad21a8d39e01a71beb181242ad824443ece4404790baa1dc"
+      },
+      {
+        "text": "假设领航图连通，跟随星可由领航星到达，且跟随子图无向。",
+        "pages": [
+          12,
+          15
+        ],
+        "locator": "Assumptions1–3",
+        "kind": "boundary",
+        "claim_id": "C-B19-047",
+        "source_id": "E-B19-L071",
+        "claim_text_sha256": "399a2c5c077131f989a1d4f3482d89529e0221f134fd9fff7461c5d013a1314a"
+      },
+      {
+        "text": "目标构型与最终包容位置须能容纳规定的安全距离。",
+        "pages": [
+          11
+        ],
+        "locator": "Remark2",
+        "kind": "boundary",
+        "claim_id": "C-B19-048",
+        "source_id": "E-B19-L071",
+        "claim_text_sha256": "abc62c519309e350424e95d712c0163e8ab3058bf3db6944b4b4d803a5e0be25"
+      },
+      {
+        "text": "控制组合速度匹配、动力学补偿、吸引项和斥力项。",
+        "pages": [
+          13,
+          16,
+          17
+        ],
+        "locator": "Eqs.(15),(41)",
+        "kind": "method",
+        "claim_id": "C-B19-049",
+        "source_id": "E-B19-L071",
+        "claim_text_sha256": "51c2ebf4927ac1400fb918ccbc98a51bac9c475fefdb710751bdef4e15874876"
+      },
+      {
+        "text": "验证例包含六颗领航星和四颗跟随星。",
+        "pages": [
+          17,
+          18,
+          23
+        ],
+        "locator": "Sec.IV, Cases1–2",
+        "kind": "result",
+        "claim_id": "C-B19-050",
+        "source_id": "E-B19-L071",
+        "claim_text_sha256": "a8b4d5115db1a9d9d882e025cff5040f767730f8357ee44c19d15a734abf554d"
+      }
+    ],
+    "limitations": [
+      "Crossref登记后续澄清10.2514/1.I010588.c1；澄清正文尚未获得，科学采用暂HOLD。",
+      "不把凸包内部自动等同于任意外部障碍下的安全区域。",
+      "有限算例中的控制力大小不构成输入饱和下的统一可行性证明。",
+      "附录A仅阅读证明结构与收敛说明，未独立复证明；局部极小点等强断言不采用。"
+    ],
+    "writing_use": "先留作3.4协同结构与建议3.6.3的对照候选；澄清未核实前不向v3.2写入安全定理。",
+    "adoption_status": "HOLD_pending_clarification_full_text",
+    "human_verified": false,
+    "title": "Satellite Formation-Containment Flying Control with Collision Avoidance",
+    "title_cn": "考虑碰撞避免的卫星编队—包容飞行控制",
+    "identifier": "10.2514/1.i010588",
+    "authors": "Liangming Chen; Yanning Guo; Chuanjiang Li; Jing Huang",
+    "source_id": "E-B19-L071",
+    "pdf_pages": 34,
+    "canonical_url": "https://doi.org/10.2514/1.i010588",
+    "actual_source_url": "https://www.researchgate.net/profile/Liangming-Chen-2/publication/321781469_Satellite_Formation-Containment_Flying_Control_with_Collision_Avoidance/links/5f64b15e299bf1b53ede0834/Satellite-Formation-Containment-Flying-Control-with-Collision-Avoidance.pdf"
+  }
+]

@@ -1,0 +1,25 @@
+{
+  "source_id": "E-B19-L008",
+  "pool_id": "L008",
+  "title": "Study of satellite formation flying control using differential lift and drag",
+  "actual_title_aliases": [],
+  "identifier": "10.1016/j.actaastro.2018.07.047",
+  "authors": "D. Ivanov; M. Kushniruk; M. Ovchinnikov",
+  "actual_version": "作者上传的28页稿，2018；与期刊正式排版未逐页比对",
+  "canonical_url": "https://doi.org/10.1016/j.actaastro.2018.07.047",
+  "acquisition_url": "https://www.researchgate.net/profile/Danil-Ivanov-2/publication/326572095_Study_of_Satellite_Formation_Flying_Control_Using_Differential_Lift_and_Drag/links/5b56dedc45851507a7c43eb3/Study-of-Satellite-Formation-Flying-Control-Using-Differential-Lift-and-Drag.pdf",
+  "source_format": "REMOTE_PUBLIC_PDF_TEXT_CAPTURE",
+  "pdf_pages": 28,
+  "local_text_capture_sha256": "35b465a0e3ef2666f0fe0ff0a1b33ebeb6a3cf75a5a84f35fb4620a036efce50",
+  "source_pdf_sha256": null,
+  "source_pdf_byte_identity_verified": false,
+  "adoption_status": "candidate_after_human_review",
+  "human_verified": false,
+  "formal_version_text_compared": false,
+  "crossref_file": "L008_CROSSREF.json",
+  "source_limitations": [
+    "没有显式碰撞概率约束，不可把构型跟踪收敛写成避碰认证。",
+    "所读稿含图号复用；按章节、公式和PDF物理页联合定位。",
+    "状态可准确取得及姿态执行近似是假设；真实传感误差、执行时延仍需补证。"
+  ]
+}

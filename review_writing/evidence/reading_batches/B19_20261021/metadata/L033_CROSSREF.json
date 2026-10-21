@@ -1,0 +1,230 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        10,
+        5
+      ]
+    ],
+    "date-time": "2026-10-05T02:55:30Z",
+    "timestamp": 1791168930260,
+    "version": "4.1.0"
+  },
+  "reference-count": 10,
+  "publisher": "American Institute of Aeronautics and Astronautics (AIAA)",
+  "issue": "4",
+  "content-domain": {
+    "domain": [
+      "arc.aiaa.org"
+    ],
+    "crossmark-restriction": true
+  },
+  "short-container-title": [
+    "Journal of Guidance, Control, and Dynamics"
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2001,
+        7
+      ]
+    ]
+  },
+  "DOI": "10.2514/2.4771",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2008,
+        8,
+        13
+      ]
+    ],
+    "date-time": "2008-08-13T09:15:25Z",
+    "timestamp": 1218618925000
+  },
+  "page": "716-722",
+  "update-policy": "https://doi.org/10.2514/aiaa_crossmarkpolicy",
+  "source": "Crossref",
+  "is-referenced-by-count": 160,
+  "title": [
+    "General Method for Calculating Satellite Collision Probability"
+  ],
+  "prefix": "10.2514",
+  "volume": "24",
+  "author": [
+    {
+      "given": "Russell P.",
+      "family": "Patera",
+      "sequence": "first",
+      "affiliation": [
+        {
+          "name": "The Aerospace Corporation, El Segundo, California 90245-4691"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "member": "1387",
+  "reference": [
+    {
+      "key": "p_1",
+      "unstructured": "Committee on Space Shuttle Meteoroid/Debris Risk Management, “Protecting the Space Shuttle from Meteoroids and Orbital Debris,” National Academy Press, Washington, DC, 1997, pp.36-41."
+    },
+    {
+      "key": "p_2",
+      "volume-title": "Determination of Close Approach for Earth Fixed Launch Trajectories",
+      "author": "Woodburn J.",
+      "year": "1998"
+    },
+    {
+      "key": "p_3",
+      "first-page": "23",
+      "volume-title": "Proceedings of the 1998 Space Control Conference, Lincoln Lab., Massachusetts Inst. of Technology",
+      "author": "Gist R. G.",
+      "year": "1998"
+    },
+    {
+      "key": "p_4",
+      "volume-title": "Monitoring of On-Orbit Collision Risk",
+      "author": "Alby F.",
+      "year": "1997"
+    },
+    {
+      "key": "p_5",
+      "first-page": "1033",
+      "volume-title": "Advances in the Astronautical Sciences",
+      "volume": "96",
+      "author": "Chan K.",
+      "year": "1997"
+    },
+    {
+      "key": "p_6",
+      "volume-title": "Orbital Mechanics",
+      "author": "Chobotov V. A.",
+      "year": "1996",
+      "edition": "2"
+    },
+    {
+      "key": "p_7",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1023/A:1010056509803"
+    },
+    {
+      "key": "p_8",
+      "first-page": "85",
+      "volume-title": "Proceedings of the 2000 Space Control Conference, Lincoln Lab., Massachusetts Inst. of Technology",
+      "author": "LeClair R. A.",
+      "year": "2000"
+    },
+    {
+      "key": "p_9",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/S0273-1177(99)00009-5"
+    },
+    {
+      "key": "p_10",
+      "volume-title": "Collision Vision: Covariance Modeling and Intersection Detection for Spacecraft Situational Awareness",
+      "author": "Gist R. G.",
+      "year": "1999"
+    }
+  ],
+  "container-title": [
+    "Journal of Guidance, Control, and Dynamics"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "http://arc.aiaa.org/doi/pdf/10.2514/2.4771",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2021,
+        2,
+        28
+      ]
+    ],
+    "date-time": "2021-02-28T19:22:54Z",
+    "timestamp": 1614540174000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://arc.aiaa.org/doi/10.2514/2.4771"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2001,
+        7
+      ]
+    ]
+  },
+  "references-count": 10,
+  "journal-issue": {
+    "issue": "4",
+    "published-print": {
+      "date-parts": [
+        [
+          2001,
+          7
+        ]
+      ]
+    }
+  },
+  "alternative-id": [
+    "10.2514/2.4771"
+  ],
+  "URL": "https://doi.org/10.2514/2.4771",
+  "relation": {},
+  "ISSN": [
+    "0731-5090",
+    "1533-3884"
+  ],
+  "issn-type": [
+    {
+      "value": "0731-5090",
+      "type": "print"
+    },
+    {
+      "value": "1533-3884",
+      "type": "electronic"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2001,
+        7
+      ]
+    ]
+  },
+  "assertion": [
+    {
+      "value": "2012-05-23",
+      "order": 3,
+      "name": "published",
+      "label": "Published",
+      "group": {
+        "name": "publication_history",
+        "label": "Publication History"
+      }
+    }
+  ]
+}

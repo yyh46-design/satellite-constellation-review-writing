@@ -1,0 +1,25 @@
+{
+  "source_id": "E-B19-L004",
+  "pool_id": "L004",
+  "title": "Orbital Maintenance of a Constellation of CubeSats for Internal Gravity Wave Tomography",
+  "actual_title_aliases": [],
+  "identifier": "10.1109/jstars.2019.2961084",
+  "authors": "Stephen Leroy; Riley Fitzgerald; Kerri Cahoy; James Abel; James Clark",
+  "actual_version": "作者公开的IEEE正式版，2020，13:307–317，11页",
+  "canonical_url": "https://doi.org/10.1109/jstars.2019.2961084",
+  "acquisition_url": "https://www.researchgate.net/profile/Stephen-Leroy-2/publication/339220232_Orbital_Maintenance_of_a_Constellation_of_CubeSats_for_Internal_Gravity_Wave_Tomography/links/5e46c789458515072d9dab44/Orbital-Maintenance-of-a-Constellation-of-CubeSats-for-Internal-Gravity-Wave-Tomography.pdf",
+  "source_format": "REMOTE_PUBLIC_PDF_TEXT_CAPTURE",
+  "pdf_pages": 11,
+  "local_text_capture_sha256": "3b420a3fd4d143a145af4c0bed2bc03db4a9b63083686e3b47383adec5695040",
+  "source_pdf_sha256": null,
+  "source_pdf_byte_identity_verified": false,
+  "adoption_status": "candidate_after_human_review",
+  "human_verified": false,
+  "formal_version_text_compared": false,
+  "crossref_file": "L004_CROSSREF.json",
+  "source_limitations": [
+    "BIT-3的推进器分类需另核实，暂不沿用文中所有“electrospray”标签。",
+    "图6没有完成图像核查，型号数值和曲线差异暂不用于定量比较。",
+    "阅读了附录A的构型几何说明，未逐式复核或复现轨道传播。"
+  ]
+}

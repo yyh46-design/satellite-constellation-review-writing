@@ -1,0 +1,25 @@
+{
+  "source_id": "E-B19-L034",
+  "pool_id": "L034",
+  "title": "Collision Probability with Gaussian Mixture Orbit Uncertainty",
+  "actual_title_aliases": [],
+  "identifier": "10.2514/1.62308",
+  "authors": "Kyle J. DeMars; Yang Cheng; Moriba K. Jah",
+  "actual_version": "作者公开的17页接受稿；正式文献为JGCD 37(3), 2014, 979–985",
+  "canonical_url": "https://doi.org/10.2514/1.62308",
+  "acquisition_url": "https://www.researchgate.net/profile/Yang-Cheng-25/publication/259293060_Collision_Probability_with_Gaussian_Mixture_Orbit_Uncertainty/links/02e7e52acef1ea312c000000/Collision-Probability-with-Gaussian-Mixture-Orbit-Uncertainty.pdf",
+  "source_format": "REMOTE_PUBLIC_PDF_TEXT_CAPTURE",
+  "pdf_pages": 17,
+  "local_text_capture_sha256": "386c80ee521e50ef88e38a36996e621bae193a18212464f5f6440e090aebe377",
+  "source_pdf_sha256": null,
+  "source_pdf_byte_identity_verified": false,
+  "adoption_status": "candidate_after_human_review",
+  "human_verified": false,
+  "formal_version_text_compared": false,
+  "crossref_file": "L034_CROSSREF.json",
+  "source_limitations": [
+    "“两对象独立”不等于位置与速度相互独立。",
+    "相对状态定义与Eq.(8)中均值符号表述需对照正式版，精确公式采用HOLD。",
+    "一次算例的吻合不能推出所有稀有事件都已校准，也不能把重复穿越累加当作概率。"
+  ]
+}

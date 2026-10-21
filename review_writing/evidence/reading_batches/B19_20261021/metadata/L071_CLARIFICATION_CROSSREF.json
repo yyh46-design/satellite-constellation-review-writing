@@ -1,0 +1,249 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2025,
+        12,
+        31
+      ]
+    ],
+    "date-time": "2025-12-31T17:00:43Z",
+    "timestamp": 1767200443727,
+    "version": "build-2238731810"
+  },
+  "update-to": [
+    {
+      "DOI": "10.2514/1.i010588",
+      "type": "correction",
+      "label": "Correction",
+      "source": "publisher",
+      "updated": {
+        "date-parts": [
+          [
+            2018,
+            3,
+            1
+          ]
+        ],
+        "date-time": "2018-03-01T00:00:00Z",
+        "timestamp": 1519862400000
+      }
+    }
+  ],
+  "reference-count": 0,
+  "publisher": "American Institute of Aeronautics and Astronautics (AIAA)",
+  "issue": "11",
+  "content-domain": {
+    "domain": [
+      "arc.aiaa.org"
+    ],
+    "crossmark-restriction": true
+  },
+  "short-container-title": [
+    "Journal of Aerospace Information Systems"
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2020,
+        11
+      ]
+    ]
+  },
+  "DOI": "10.2514/1.i010588.c1",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2018,
+        3,
+        1
+      ]
+    ],
+    "date-time": "2018-03-01T05:57:27Z",
+    "timestamp": 1519883847000
+  },
+  "page": "AU1-AU1",
+  "update-policy": "https://doi.org/10.2514/aiaa_crossmarkpolicy",
+  "source": "Crossref",
+  "is-referenced-by-count": 1,
+  "title": [
+    "Clarification: Satellite Formation-Containment Flying Control with Collision Avoidance"
+  ],
+  "prefix": "10.2514",
+  "volume": "17",
+  "author": [
+    {
+      "given": "Liangming",
+      "family": "Chen",
+      "sequence": "first",
+      "affiliation": [
+        {
+          "name": "Harbin Institute of Technology, Harbin, Heilongjiang 150001, China"
+        }
+      ],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    },
+    {
+      "given": "Yanning",
+      "family": "Guo",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Harbin Institute of Technology, Harbin, Heilongjiang 150001, China"
+        }
+      ],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    },
+    {
+      "given": "Chuanjiang",
+      "family": "Li",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Harbin Institute of Technology, Harbin, Heilongjiang 150001, China"
+        }
+      ],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    },
+    {
+      "given": "Jing",
+      "family": "Huang",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Shanghai Institute of Spaceflight Control Technology, Shanghai 201109, China"
+        }
+      ],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    }
+  ],
+  "member": "1387",
+  "container-title": [
+    "Journal of Aerospace Information Systems"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://arc.aiaa.org/doi/pdf/10.2514/1.I010588.c1",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2021,
+        3,
+        1
+      ]
+    ],
+    "date-time": "2021-03-01T02:40:20Z",
+    "timestamp": 1614566420000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://arc.aiaa.org/doi/10.2514/1.I010588.c1"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2020,
+        11
+      ]
+    ]
+  },
+  "references-count": 0,
+  "journal-issue": {
+    "issue": "11",
+    "published-print": {
+      "date-parts": [
+        [
+          2020,
+          11
+        ]
+      ]
+    }
+  },
+  "alternative-id": [
+    "10.2514/1.I010588.c1"
+  ],
+  "URL": "https://doi.org/10.2514/1.i010588.c1",
+  "relation": {},
+  "ISSN": [
+    "2327-3097"
+  ],
+  "issn-type": [
+    {
+      "value": "2327-3097",
+      "type": "electronic"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2020,
+        11
+      ]
+    ]
+  },
+  "assertion": [
+    {
+      "value": "2018-02-16",
+      "order": 0,
+      "name": "received",
+      "label": "Received",
+      "group": {
+        "name": "publication_history",
+        "label": "Publication History"
+      }
+    },
+    {
+      "value": "2018-02-16",
+      "order": 2,
+      "name": "accepted",
+      "label": "Accepted",
+      "group": {
+        "name": "publication_history",
+        "label": "Publication History"
+      }
+    },
+    {
+      "value": "2018-03-01",
+      "order": 3,
+      "name": "published",
+      "label": "Published",
+      "group": {
+        "name": "publication_history",
+        "label": "Publication History"
+      }
+    }
+  ]
+}

@@ -1,0 +1,571 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2025,
+        12,
+        31
+      ]
+    ],
+    "date-time": "2025-12-31T16:58:51Z",
+    "timestamp": 1767200331047,
+    "version": "build-2238731810"
+  },
+  "reference-count": 46,
+  "publisher": "American Institute of Aeronautics and Astronautics (AIAA)",
+  "issue": "5",
+  "funder": [
+    {
+      "DOI": "10.13039/501100001809",
+      "name": "National Natural Science Foundation of China",
+      "doi-asserted-by": "publisher",
+      "award": [
+        "61403103"
+      ],
+      "award-info": [
+        {
+          "award-number": [
+            "61403103"
+          ]
+        }
+      ],
+      "id": [
+        {
+          "id": "10.13039/501100001809",
+          "id-type": "DOI",
+          "asserted-by": "publisher"
+        }
+      ]
+    },
+    {
+      "DOI": "10.13039/501100001809",
+      "name": "National Natural Science Foundation of China",
+      "doi-asserted-by": "publisher",
+      "award": [
+        "61603114"
+      ],
+      "award-info": [
+        {
+          "award-number": [
+            "61603114"
+          ]
+        }
+      ],
+      "id": [
+        {
+          "id": "10.13039/501100001809",
+          "id-type": "DOI",
+          "asserted-by": "publisher"
+        }
+      ]
+    },
+    {
+      "DOI": "10.13039/501100001809",
+      "name": "National Natural Science Foundation of China",
+      "doi-asserted-by": "publisher",
+      "award": [
+        "61673135"
+      ],
+      "award-info": [
+        {
+          "award-number": [
+            "61673135"
+          ]
+        }
+      ],
+      "id": [
+        {
+          "id": "10.13039/501100001809",
+          "id-type": "DOI",
+          "asserted-by": "publisher"
+        }
+      ]
+    }
+  ],
+  "content-domain": {
+    "domain": [
+      "arc.aiaa.org"
+    ],
+    "crossmark-restriction": true
+  },
+  "short-container-title": [
+    "Journal of Aerospace Information Systems"
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2018,
+        5
+      ]
+    ]
+  },
+  "DOI": "10.2514/1.i010588",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2018,
+        1,
+        24
+      ]
+    ],
+    "date-time": "2018-01-24T04:58:30Z",
+    "timestamp": 1516769910000
+  },
+  "page": "253-270",
+  "update-policy": "https://doi.org/10.2514/aiaa_crossmarkpolicy",
+  "source": "Crossref",
+  "is-referenced-by-count": 20,
+  "title": [
+    "Satellite Formation-Containment Flying Control with Collision Avoidance"
+  ],
+  "prefix": "10.2514",
+  "volume": "15",
+  "author": [
+    {
+      "given": "Liangming",
+      "family": "Chen",
+      "sequence": "first",
+      "affiliation": [
+        {
+          "name": "Harbin Institute of Technology, 150001 Harbin, People’s Republic of China"
+        }
+      ],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    },
+    {
+      "given": "Yanning",
+      "family": "Guo",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Harbin Institute of Technology, 150001 Harbin, People’s Republic of China"
+        }
+      ],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    },
+    {
+      "given": "Chuanjiang",
+      "family": "Li",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Harbin Institute of Technology, 150001 Harbin, People’s Republic of China"
+        }
+      ],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    },
+    {
+      "given": "Jing",
+      "family": "Huang",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Shanghai Institute of Spaceflight Control Technology, 201109 Shanghai, People’s Republic of China"
+        }
+      ],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    }
+  ],
+  "member": "1387",
+  "reference": [
+    {
+      "key": "r1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.2514/1.I010497"
+    },
+    {
+      "key": "r2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.2514/1.48212"
+    },
+    {
+      "key": "r3",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.actaastro.2013.03.008"
+    },
+    {
+      "key": "r4",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.2514/1.53126"
+    },
+    {
+      "key": "r5",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.asr.2015.10.038"
+    },
+    {
+      "key": "r6",
+      "volume-title": "Satellite Formation Flying for an Interferometry Missions",
+      "author": "Roberts J. A.",
+      "year": "2005"
+    },
+    {
+      "key": "r7",
+      "volume-title": "Spacecraft Formation Flying: Dynamics, Control and Navigation",
+      "author": "Alfriend T.",
+      "year": "2009"
+    },
+    {
+      "key": "r8",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.2514/1.9287"
+    },
+    {
+      "key": "r9",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.2514/1.I010531"
+    },
+    {
+      "key": "r10",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.2514/1.I010474"
+    },
+    {
+      "key": "r11",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.2514/1.25629"
+    },
+    {
+      "key": "r12",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.2514/1.G001396"
+    },
+    {
+      "key": "r13",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.2514/1.56352"
+    },
+    {
+      "key": "r14",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.2514/1.55218"
+    },
+    {
+      "key": "r15",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1109/87.960341"
+    },
+    {
+      "key": "r16",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.2514/1.55590"
+    },
+    {
+      "key": "r17",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.2514/1.G000334"
+    },
+    {
+      "key": "r18",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1109/TNNLS.2014.2359955"
+    },
+    {
+      "key": "r19",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1109/TCYB.2013.2288980"
+    },
+    {
+      "key": "r20",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1109/TCST.2010.2053542"
+    },
+    {
+      "issue": "3",
+      "key": "r21",
+      "first-page": "1",
+      "volume": "47",
+      "author": "Yue S. W. D.",
+      "year": "2014",
+      "journal-title": "International Journal of Systems Science",
+      "ISSN": "https://id.crossref.org/issn/0020-7721",
+      "issn-type": "print"
+    },
+    {
+      "key": "r22",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.jfranklin.2015.05.008"
+    },
+    {
+      "key": "r23",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1002/rnc.2933"
+    },
+    {
+      "key": "r25",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1080/00207721.2015.1107148"
+    },
+    {
+      "key": "r26",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.automatica.2015.11.025"
+    },
+    {
+      "key": "r27",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1109/TAC.2015.2444131"
+    },
+    {
+      "key": "r28",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1109/TCYB.2016.2597100"
+    },
+    {
+      "key": "r29",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1115/1.2764510"
+    },
+    {
+      "key": "r30",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.actaastro.2015.11.004"
+    },
+    {
+      "key": "r31",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.2514/1.G000101"
+    },
+    {
+      "key": "r32",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1109/TAC.2008.2010897"
+    },
+    {
+      "key": "r33",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1109/TAC.2007.895948"
+    },
+    {
+      "key": "r34",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.isatra.2015.12.010"
+    },
+    {
+      "key": "r37",
+      "volume-title": "Convergence and Collision Avoidance in Formation Control: A Survey of the Artificial Potential Functions Approach",
+      "author": "Hernadez-MartiNez E. G.",
+      "year": "2011"
+    },
+    {
+      "key": "r39",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.2514/1.44397"
+    },
+    {
+      "key": "r40",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.2514/1.50996"
+    },
+    {
+      "key": "r41",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.2514/1.G000459"
+    },
+    {
+      "key": "r43",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.sysconle.2011.09.006"
+    },
+    {
+      "key": "r45",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1109/MGRS.2013.2248301"
+    },
+    {
+      "key": "r46",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.2514/1.49170"
+    },
+    {
+      "key": "r47",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.2514/1.37261"
+    },
+    {
+      "key": "r48",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/978-1-4471-5574-4"
+    },
+    {
+      "key": "r49",
+      "volume-title": "Nonlinear Systems",
+      "author": "Khalil H. K.",
+      "year": "2002",
+      "edition": "3"
+    },
+    {
+      "key": "r50",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.automatica.2008.03.013"
+    },
+    {
+      "key": "r51",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.jfranklin.2017.01.021"
+    },
+    {
+      "key": "r52",
+      "author": "Sun Y.",
+      "year": "2017",
+      "journal-title": "Journal of Aerospace Engineering"
+    }
+  ],
+  "updated-by": [
+    {
+      "DOI": "10.2514/1.i010588.c1",
+      "type": "correction",
+      "label": "Correction",
+      "source": "publisher",
+      "updated": {
+        "date-parts": [
+          [
+            2018,
+            3,
+            1
+          ]
+        ],
+        "date-time": "2018-03-01T00:00:00Z",
+        "timestamp": 1519862400000
+      }
+    }
+  ],
+  "container-title": [
+    "Journal of Aerospace Information Systems"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://arc.aiaa.org/doi/pdf/10.2514/1.I010588",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2021,
+        3,
+        1
+      ]
+    ],
+    "date-time": "2021-03-01T02:33:44Z",
+    "timestamp": 1614566024000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://arc.aiaa.org/doi/10.2514/1.I010588"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2018,
+        5
+      ]
+    ]
+  },
+  "references-count": 46,
+  "journal-issue": {
+    "issue": "5",
+    "published-print": {
+      "date-parts": [
+        [
+          2018,
+          5
+        ]
+      ]
+    }
+  },
+  "alternative-id": [
+    "10.2514/1.I010588"
+  ],
+  "URL": "https://doi.org/10.2514/1.i010588",
+  "relation": {},
+  "ISSN": [
+    "2327-3097"
+  ],
+  "issn-type": [
+    {
+      "value": "2327-3097",
+      "type": "electronic"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2018,
+        5
+      ]
+    ]
+  },
+  "assertion": [
+    {
+      "value": "2017-06-26",
+      "order": 0,
+      "name": "received",
+      "label": "Received",
+      "group": {
+        "name": "publication_history",
+        "label": "Publication History"
+      }
+    },
+    {
+      "value": "2017-12-11",
+      "order": 1,
+      "name": "revised",
+      "label": "Revised",
+      "group": {
+        "name": "publication_history",
+        "label": "Publication History"
+      }
+    },
+    {
+      "value": "2017-12-12",
+      "order": 2,
+      "name": "accepted",
+      "label": "Accepted",
+      "group": {
+        "name": "publication_history",
+        "label": "Publication History"
+      }
+    },
+    {
+      "value": "2018-01-24",
+      "order": 3,
+      "name": "published",
+      "label": "Published",
+      "group": {
+        "name": "publication_history",
+        "label": "Publication History"
+      }
+    }
+  ]
+}

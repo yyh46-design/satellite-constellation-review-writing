@@ -1,0 +1,585 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        8,
+        17
+      ]
+    ],
+    "date-time": "2026-08-17T16:24:55Z",
+    "timestamp": 1786983895187,
+    "version": "build-2736575974"
+  },
+  "reference-count": 34,
+  "publisher": "Elsevier BV",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2018,
+            11,
+            1
+          ]
+        ],
+        "date-time": "2018-11-01T00:00:00Z",
+        "timestamp": 1541030400000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+    }
+  ],
+  "funder": [
+    {
+      "DOI": "10.13039/501100002261",
+      "name": "Russian Foundation for Basic Research",
+      "doi-asserted-by": "publisher",
+      "award": [
+        "17-01-00449"
+      ],
+      "award-info": [
+        {
+          "award-number": [
+            "17-01-00449"
+          ]
+        }
+      ],
+      "id": [
+        {
+          "id": "10.13039/501100002261",
+          "id-type": "DOI",
+          "asserted-by": "publisher"
+        }
+      ]
+    }
+  ],
+  "content-domain": {
+    "domain": [
+      "elsevier.com",
+      "sciencedirect.com"
+    ],
+    "crossmark-restriction": true
+  },
+  "short-container-title": [
+    "Acta Astronautica"
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2018,
+        11
+      ]
+    ]
+  },
+  "DOI": "10.1016/j.actaastro.2018.07.047",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2018,
+        7,
+        25
+      ]
+    ],
+    "date-time": "2018-07-25T12:59:47Z",
+    "timestamp": 1532523587000
+  },
+  "page": "88-100",
+  "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+  "source": "Crossref",
+  "is-referenced-by-count": 54,
+  "special_numbering": "C",
+  "title": [
+    "Study of satellite formation flying control using differential lift and drag"
+  ],
+  "prefix": "10.1016",
+  "volume": "152",
+  "author": [
+    {
+      "ORCID": "https://orcid.org/0000-0002-8253-7092",
+      "authenticated-orcid": false,
+      "given": "D.",
+      "family": "Ivanov",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "M.",
+      "family": "Kushniruk",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "M.",
+      "family": "Ovchinnikov",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "member": "78",
+  "reference": [
+    {
+      "key": "10.1016/j.actaastro.2018.07.047_bib1",
+      "first-page": "263",
+      "article-title": "Spacecrat formation flying using lorentz forces",
+      "volume": "60",
+      "author": "Peck",
+      "year": "2007",
+      "journal-title": "J. Br. Interplanet. Soc. (JBIS)"
+    },
+    {
+      "key": "10.1016/j.actaastro.2018.07.047_bib2",
+      "doi-asserted-by": "crossref",
+      "first-page": "169",
+      "DOI": "10.1007/BF03546427",
+      "article-title": "Challenges and prospects of coulomb spacecraft formation control",
+      "volume": "52",
+      "author": "Schaub",
+      "year": "2004",
+      "journal-title": "J. Astronaut. Sci."
+    },
+    {
+      "key": "10.1016/j.actaastro.2018.07.047_bib3",
+      "first-page": "103",
+      "article-title": "Spacecraft formation flying using inter-vehicle coulomb forces",
+      "author": "King",
+      "year": "2002",
+      "journal-title": "NASA tech. rep. NASA/NIAC"
+    },
+    {
+      "issue": "2",
+      "key": "10.1016/j.actaastro.2018.07.047_bib4",
+      "doi-asserted-by": "crossref",
+      "first-page": "424",
+      "DOI": "10.2514/1.31979",
+      "article-title": "Stationary configurations of a tetrahedral tethered satellite formation",
+      "volume": "31",
+      "author": "Guerman",
+      "year": "2008",
+      "journal-title": "J. Guid. Contr. Dynam."
+    },
+    {
+      "key": "10.1016/j.actaastro.2018.07.047_bib5",
+      "doi-asserted-by": "crossref",
+      "first-page": "392",
+      "DOI": "10.1016/j.actaastro.2014.02.028",
+      "article-title": "Satellite formation flying control by mass exchange",
+      "volume": "102",
+      "author": "Ivanov",
+      "year": "2014",
+      "journal-title": "Acta Astronaut."
+    },
+    {
+      "key": "10.1016/j.actaastro.2018.07.047_bib6",
+      "series-title": "Influence of Aerodynamic Forces on Satellites Attitude Motion",
+      "first-page": "187",
+      "author": "Beletsky",
+      "year": "1984"
+    },
+    {
+      "key": "10.1016/j.actaastro.2018.07.047_bib7",
+      "first-page": "763",
+      "article-title": "Satellite station-keeping of the ORBCOMM constellation via active control of atmospheric drag: operations, constraints, and performance",
+      "volume": "120",
+      "author": "Maclay",
+      "year": "2005",
+      "journal-title": "Adv. Astronaut. Sci."
+    },
+    {
+      "key": "10.1016/j.actaastro.2018.07.047_bib8",
+      "series-title": "Proc. 9th Int. Work. Satell",
+      "first-page": "19",
+      "article-title": "Differential drag control scheme for large constellation of Planet satellites and on-orbit results",
+      "author": "Foster",
+      "year": "2004"
+    },
+    {
+      "key": "10.1016/j.actaastro.2018.07.047_bib9",
+      "series-title": "Formation Keeping of Spacecraft via Differential Drag",
+      "author": "Leonard",
+      "year": "1986"
+    },
+    {
+      "key": "10.1016/j.actaastro.2018.07.047_bib10",
+      "series-title": "Proc. AIAA Guid. Navig. Control Conf. Exhib. AIAA Pap. No.2008-6469, Honolulu, Hawaii",
+      "article-title": "Control approach to maneuver spacecraft in a formation with differential drag",
+      "author": "Kumar",
+      "year": "2008"
+    },
+    {
+      "key": "10.1016/j.actaastro.2018.07.047_bib11",
+      "doi-asserted-by": "crossref",
+      "first-page": "164",
+      "DOI": "10.1016/j.actaastro.2012.02.024",
+      "article-title": "Relative orbit estimation and formation keeping control of satellite formations in low earth orbits",
+      "volume": "76",
+      "author": "Zeng",
+      "year": "2012",
+      "journal-title": "Acta Astronaut."
+    },
+    {
+      "issue": "5",
+      "key": "10.1016/j.actaastro.2018.07.047_bib12",
+      "doi-asserted-by": "crossref",
+      "first-page": "1678",
+      "DOI": "10.2514/1.G000191",
+      "article-title": "Lyapunov-based adaptive feedback for spacecraft planar relative maneuvering via differential drag",
+      "volume": "37",
+      "author": "Pérez",
+      "year": "2014",
+      "journal-title": "J. Guid. Control. Dyn."
+    },
+    {
+      "key": "10.1016/j.actaastro.2018.07.047_bib13",
+      "doi-asserted-by": "crossref",
+      "first-page": "196",
+      "DOI": "10.1016/j.actaastro.2012.09.005",
+      "article-title": "Differential drag spacecraft rendezvous using an adaptive Lyapunov control strategy",
+      "volume": "83",
+      "author": "Pérez",
+      "year": "2013",
+      "journal-title": "Acta Astronaut."
+    },
+    {
+      "key": "10.1016/j.actaastro.2018.07.047_bib14",
+      "doi-asserted-by": "crossref",
+      "first-page": "341",
+      "DOI": "10.1016/j.actaastro.2014.05.001",
+      "article-title": "Maintenance of satellite formations using environmental forces",
+      "volume": "102",
+      "author": "Kumar",
+      "year": "2014",
+      "journal-title": "Acta Astronaut."
+    },
+    {
+      "key": "10.1016/j.actaastro.2018.07.047_bib15",
+      "doi-asserted-by": "crossref",
+      "first-page": "112",
+      "DOI": "10.1016/j.actaastro.2015.01.011",
+      "article-title": "Optimal propellantless rendez-vous using differential drag",
+      "volume": "109",
+      "author": "Dellelce",
+      "year": "2015",
+      "journal-title": "Acta Astronaut."
+    },
+    {
+      "issue": "6",
+      "key": "10.1016/j.actaastro.2018.07.047_bib16",
+      "doi-asserted-by": "crossref",
+      "first-page": "1731",
+      "DOI": "10.2514/1.61496",
+      "article-title": "Long-term cluster flight of multiple satellites using differential drag",
+      "volume": "36",
+      "author": "Ben-Yaacov",
+      "year": "2013",
+      "journal-title": "J. Guid. Contr. Dynam."
+    },
+    {
+      "key": "10.1016/j.actaastro.2018.07.047_bib17",
+      "doi-asserted-by": "crossref",
+      "first-page": "68",
+      "DOI": "10.1016/j.actaastro.2011.08.013",
+      "article-title": "Implementation and performance of formation flying using differential drag",
+      "volume": "71",
+      "author": "Lambert",
+      "year": "2012",
+      "journal-title": "Acta Astronaut."
+    },
+    {
+      "key": "10.1016/j.actaastro.2018.07.047_bib18",
+      "doi-asserted-by": "crossref",
+      "first-page": "387",
+      "DOI": "10.1016/j.actaastro.2015.12.035",
+      "article-title": "Covariance analysis of differential drag-based satellite cluster flight",
+      "volume": "123",
+      "author": "Ben-Yaacov",
+      "year": "2016",
+      "journal-title": "Acta Astronaut."
+    },
+    {
+      "issue": "8",
+      "key": "10.1016/j.actaastro.2018.07.047_bib19",
+      "doi-asserted-by": "crossref",
+      "first-page": "1721",
+      "DOI": "10.2514/1.G001785",
+      "article-title": "Rendezvous via differential drag with uncertainties in the drag model",
+      "volume": "39",
+      "author": "Mazal",
+      "year": "2016",
+      "journal-title": "J. Guid. Contr. Dynam."
+    },
+    {
+      "key": "10.1016/j.actaastro.2018.07.047_bib20",
+      "series-title": "2018 Sp. Flight Mech. Meet. Reston",
+      "article-title": "Linear coupled attitude-orbit control through aerodynamic forces",
+      "author": "Harris",
+      "year": "2018"
+    },
+    {
+      "key": "10.1016/j.actaastro.2018.07.047_bib21",
+      "doi-asserted-by": "crossref",
+      "first-page": "6",
+      "DOI": "10.1016/j.actaastro.2015.04.014",
+      "article-title": "Differential-drag-based roto-translational control for propellant-less spacecraft",
+      "volume": "114",
+      "author": "Pastorelli",
+      "year": "2015",
+      "journal-title": "Acta Astronaut."
+    },
+    {
+      "issue": "2",
+      "key": "10.1016/j.actaastro.2018.07.047_bib22",
+      "doi-asserted-by": "crossref",
+      "first-page": "445",
+      "DOI": "10.2514/1.57327",
+      "article-title": "Small satellite rendezvous using differential lift and drag",
+      "volume": "36",
+      "author": "Horsley",
+      "year": "2013",
+      "journal-title": "J. Guid. Contr. Dynam."
+    },
+    {
+      "key": "10.1016/j.actaastro.2018.07.047_bib23",
+      "first-page": "1567",
+      "article-title": "Comparison of the exact and approximate methods for predicting free molecule aerodynamic coefficients",
+      "volume": "31",
+      "author": "Sentman",
+      "year": "1961",
+      "journal-title": "ARS J."
+    },
+    {
+      "issue": "10",
+      "key": "10.1016/j.actaastro.2018.07.047_bib24",
+      "doi-asserted-by": "crossref",
+      "first-page": "2680",
+      "DOI": "10.2514/1.G002537",
+      "article-title": "Investigation into the practicability of differential lift-based spacecraft rendezvous",
+      "volume": "40",
+      "author": "Smith",
+      "year": "2017",
+      "journal-title": "J. Guid. Contr. Dynam."
+    },
+    {
+      "key": "10.1016/j.actaastro.2018.07.047_bib25",
+      "first-page": "1",
+      "article-title": "Neural-network-based sliding-mode adaptive control for spacecraft formation using aerodynamic forces",
+      "author": "Sun",
+      "year": "2017",
+      "journal-title": "J. Guid. Contr. Dynam."
+    },
+    {
+      "key": "10.1016/j.actaastro.2018.07.047_bib26",
+      "first-page": "1",
+      "article-title": "Neural network-based sliding mode control for atmospheric-actuated spacecraft formation using switching strategy",
+      "author": "Sun",
+      "year": "2017",
+      "journal-title": "Adv. Sp. Res. COSPAR"
+    },
+    {
+      "issue": "1",
+      "key": "10.1016/j.actaastro.2018.07.047_bib27",
+      "doi-asserted-by": "crossref",
+      "first-page": "11",
+      "DOI": "10.1108/AEAT-06-2015-0168",
+      "article-title": "Satellite formation keeping using differential lift and drag under J2 perturbation",
+      "volume": "89",
+      "author": "Shao",
+      "year": "2017",
+      "journal-title": "Aircraft Eng. Aero. Technol."
+    },
+    {
+      "key": "10.1016/j.actaastro.2018.07.047_bib28",
+      "doi-asserted-by": "crossref",
+      "first-page": "5",
+      "DOI": "10.2307/2369430",
+      "article-title": "Researches in lunar theory",
+      "volume": "1",
+      "author": "Hill",
+      "year": "1878",
+      "journal-title": "Am. J. Math."
+    },
+    {
+      "issue": "6",
+      "key": "10.1016/j.actaastro.2018.07.047_bib29",
+      "doi-asserted-by": "crossref",
+      "first-page": "1073",
+      "DOI": "10.2514/2.4986",
+      "article-title": "High-fidelity linearized J2 model for satellite formation flight",
+      "volume": "25",
+      "author": "Schweighart",
+      "year": "2002",
+      "journal-title": "J. Guid. Contr. Dynam."
+    },
+    {
+      "issue": "4",
+      "key": "10.1016/j.actaastro.2018.07.047_bib30",
+      "first-page": "365",
+      "article-title": "Satellite relative motion determination during separation using image processing",
+      "volume": "2",
+      "author": "Ivanov",
+      "year": "2014",
+      "journal-title": "Int. J. Sports Sci. Eng."
+    },
+    {
+      "key": "10.1016/j.actaastro.2018.07.047_bib31",
+      "doi-asserted-by": "crossref",
+      "first-page": "339",
+      "DOI": "10.1016/j.actaastro.2015.07.001",
+      "article-title": "Analytical study of microsatellite attitude determination algorithms",
+      "volume": "116",
+      "author": "Ivanov",
+      "year": "2015",
+      "journal-title": "Acta Astronaut."
+    },
+    {
+      "key": "10.1016/j.actaastro.2018.07.047_bib32",
+      "doi-asserted-by": "crossref",
+      "first-page": "23",
+      "DOI": "10.1016/j.actaastro.2013.06.030",
+      "article-title": "Development, integrated investigation, laboratory and in-flight testing of Chibis-M microsatellite ADCS",
+      "volume": "93",
+      "author": "Ovchinnikov",
+      "year": "2014",
+      "journal-title": "Acta Astronaut."
+    },
+    {
+      "key": "10.1016/j.actaastro.2018.07.047_bib33",
+      "doi-asserted-by": "crossref",
+      "first-page": "367",
+      "DOI": "10.1016/j.actaastro.2014.01.002",
+      "article-title": "A near-optimal guidance for cooperative docking maneuvers",
+      "volume": "102",
+      "author": "Ciarci",
+      "year": "2014",
+      "journal-title": "Acta Astronaut."
+    },
+    {
+      "key": "10.1016/j.actaastro.2018.07.047_bib34",
+      "series-title": "Fundamentals of Astrodynamics and Applications",
+      "first-page": "958",
+      "year": "2001"
+    }
+  ],
+  "container-title": [
+    "Acta Astronautica"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://api.elsevier.com/content/article/PII:S009457651830540X?httpAccept=text/xml",
+      "content-type": "text/xml",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://api.elsevier.com/content/article/PII:S009457651830540X?httpAccept=text/plain",
+      "content-type": "text/plain",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2020,
+        11,
+        6
+      ]
+    ],
+    "date-time": "2020-11-06T13:12:19Z",
+    "timestamp": 1604668339000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://linkinghub.elsevier.com/retrieve/pii/S009457651830540X"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2018,
+        11
+      ]
+    ]
+  },
+  "references-count": 34,
+  "alternative-id": [
+    "S009457651830540X"
+  ],
+  "URL": "https://doi.org/10.1016/j.actaastro.2018.07.047",
+  "relation": {},
+  "ISSN": [
+    "0094-5765"
+  ],
+  "issn-type": [
+    {
+      "value": "0094-5765",
+      "type": "print"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2018,
+        11
+      ]
+    ]
+  },
+  "assertion": [
+    {
+      "value": "Elsevier",
+      "name": "publisher",
+      "label": "This article is maintained by"
+    },
+    {
+      "value": "Study of satellite formation flying control using differential lift and drag",
+      "name": "articletitle",
+      "label": "Article Title"
+    },
+    {
+      "value": "Acta Astronautica",
+      "name": "journaltitle",
+      "label": "Journal Title"
+    },
+    {
+      "value": "https://doi.org/10.1016/j.actaastro.2018.07.047",
+      "name": "articlelink",
+      "label": "CrossRef DOI link to publisher maintained version"
+    },
+    {
+      "value": "article",
+      "name": "content_type",
+      "label": "Content Type"
+    },
+    {
+      "value": "© 2018 IAA. Published by Elsevier Ltd. All rights reserved.",
+      "name": "copyright",
+      "label": "Copyright"
+    }
+  ]
+}

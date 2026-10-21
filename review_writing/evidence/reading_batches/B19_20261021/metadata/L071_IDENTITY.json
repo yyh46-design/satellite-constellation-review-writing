@@ -1,0 +1,31 @@
+{
+  "source_id": "E-B19-L071",
+  "pool_id": "L071",
+  "title": "Satellite Formation-Containment Flying Control with Collision Avoidance",
+  "actual_title_aliases": [
+    "Spacecraft Formation-containment Flying Control with Collision Avoidance"
+  ],
+  "identifier": "10.2514/1.i010588",
+  "authors": "Liangming Chen; Yanning Guo; Chuanjiang Li; Jing Huang",
+  "actual_version": "作者公开的34页接受稿，题名Spacecraft；正式题名Satellite，2018",
+  "canonical_url": "https://doi.org/10.2514/1.i010588",
+  "acquisition_url": "https://www.researchgate.net/profile/Liangming-Chen-2/publication/321781469_Satellite_Formation-Containment_Flying_Control_with_Collision_Avoidance/links/5f64b15e299bf1b53ede0834/Satellite-Formation-Containment-Flying-Control-with-Collision-Avoidance.pdf",
+  "source_format": "REMOTE_PUBLIC_PDF_TEXT_CAPTURE",
+  "pdf_pages": 34,
+  "local_text_capture_sha256": "210450a036d1b194f993a36a5c548325f32c60a05d9cefe660e8925a98ab0bd1",
+  "source_pdf_sha256": null,
+  "source_pdf_byte_identity_verified": false,
+  "adoption_status": "HOLD_pending_clarification_full_text",
+  "human_verified": false,
+  "formal_version_text_compared": false,
+  "crossref_file": "L071_CROSSREF.json",
+  "source_limitations": [
+    "Crossref登记后续澄清10.2514/1.I010588.c1；澄清正文尚未获得，科学采用暂HOLD。",
+    "不把凸包内部自动等同于任意外部障碍下的安全区域。",
+    "有限算例中的控制力大小不构成输入饱和下的统一可行性证明。",
+    "附录A仅阅读证明结构与收敛说明，未独立复证明；局部极小点等强断言不采用。"
+  ],
+  "clarification_doi": "10.2514/1.I010588.c1",
+  "clarification_full_text_read": false,
+  "clarification_date_conflict": "Crossref print2020-11; correction-event2018-03-01; no silent date resolution"
+}

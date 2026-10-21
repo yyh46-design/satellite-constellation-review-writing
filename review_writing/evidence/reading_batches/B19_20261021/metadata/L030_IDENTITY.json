@@ -1,0 +1,25 @@
+{
+  "source_id": "E-B19-L030",
+  "pool_id": "L030",
+  "title": "Satellite Collision Probability Enhancements",
+  "actual_title_aliases": [],
+  "identifier": "10.2514/1.15523",
+  "authors": "Salvatore Alfano",
+  "actual_version": "作者公开的5页正式版；JGCD 29(3), 2006, 588–592",
+  "canonical_url": "https://doi.org/10.2514/1.15523",
+  "acquisition_url": "https://www.researchgate.net/profile/Salvatore-Alfano/publication/245432708_Satellite_Collision_Probability_Enhancements/links/5473bf6b0cf29afed60f5a3f/Satellite-Collision-Probability-Enhancements.pdf",
+  "source_format": "REMOTE_PUBLIC_PDF_TEXT_CAPTURE",
+  "pdf_pages": 5,
+  "local_text_capture_sha256": "d585328ff9c19767fc4b0e827163b2801673c7e41b1b73d650eff213a83ab1a7",
+  "source_pdf_sha256": null,
+  "source_pdf_byte_identity_verified": false,
+  "adoption_status": "candidate_after_human_review",
+  "human_verified": false,
+  "formal_version_text_compared": false,
+  "crossref_file": "L030_CROSSREF.json",
+  "source_limitations": [
+    "最大概率是指定模型与固定轴比下的结果，不是所有分布不确定性的统一上界。",
+    "历史样本及计算条件不能作为当前运营数据。",
+    "纸面扫描公式的OCR较差，精确实现与数值采用均待图像复核。"
+  ]
+}

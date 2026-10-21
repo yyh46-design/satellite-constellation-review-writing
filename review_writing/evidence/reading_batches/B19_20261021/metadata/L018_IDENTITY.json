@@ -1,0 +1,26 @@
+{
+  "source_id": "E-B19-L018",
+  "pool_id": "L018",
+  "title": "Relative tracking control of constellation satellites considering inter-satellite link",
+  "actual_title_aliases": [],
+  "identifier": "10.1016/j.asr.2017.07.012",
+  "authors": "M. Fakoor; F. Amozegary; M. Bakhtiari; K. Daneshjou",
+  "actual_version": "作者公开的26页正式版；ASR 60 (2017) 2021–2046",
+  "canonical_url": "https://doi.org/10.1016/j.asr.2017.07.012",
+  "acquisition_url": "https://www.researchgate.net/profile/Fatemeh-Amozegary/publication/318448926_Relative_Tracking_Control_of_Constellation_Satellites_Considering_Inter-Satellite_Link/links/644d0f7d5762c95ac3605cc2/Relative-Tracking-Control-of-Constellation-Satellites-Considering-Inter-Satellite-Link.pdf",
+  "source_format": "REMOTE_PUBLIC_PDF_TEXT_CAPTURE",
+  "pdf_pages": 26,
+  "local_text_capture_sha256": "ba745c13aa490c33e25cf9dd593f9d9c952d55c7fef264614702d4416f4e8e89",
+  "source_pdf_sha256": null,
+  "source_pdf_byte_identity_verified": false,
+  "adoption_status": "candidate_after_human_review",
+  "human_verified": false,
+  "formal_version_text_compared": false,
+  "crossref_file": "L018_CROSSREF.json",
+  "source_limitations": [
+    "“large-scale”指相对运动范围，不能据此声称大规模星数验证。",
+    "不研究两两避碰、碰撞概率或网络任务分配；仅是链路建立的控制基础。",
+    "正文存在7/6秒及500/600秒等表述差异；这些数值不采用。",
+    "几何模型误差的极小数值说法和商用软件对照误差并列，须另查定义；本批不采用精度优越性结论。"
+  ]
+}

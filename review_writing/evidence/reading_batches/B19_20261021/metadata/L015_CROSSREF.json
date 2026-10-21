@@ -1,0 +1,581 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        5,
+        13
+      ]
+    ],
+    "date-time": "2026-05-13T04:34:49Z",
+    "timestamp": 1778646889032,
+    "version": "3.51.4"
+  },
+  "reference-count": 39,
+  "publisher": "Elsevier BV",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2016,
+            6,
+            1
+          ]
+        ],
+        "date-time": "2016-06-01T00:00:00Z",
+        "timestamp": 1464739200000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+    }
+  ],
+  "funder": [
+    {
+      "name": "European Research Council Starting Independent Researcher",
+      "award": [
+        "278231"
+      ],
+      "award-info": [
+        {
+          "award-number": [
+            "278231"
+          ]
+        }
+      ]
+    }
+  ],
+  "content-domain": {
+    "domain": [
+      "elsevier.com",
+      "sciencedirect.com"
+    ],
+    "crossmark-restriction": true
+  },
+  "short-container-title": [
+    "Acta Astronautica"
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2016,
+        6
+      ]
+    ]
+  },
+  "DOI": "10.1016/j.actaastro.2015.12.035",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2016,
+        1,
+        1
+      ]
+    ],
+    "date-time": "2016-01-01T09:32:09Z",
+    "timestamp": 1451640729000
+  },
+  "page": "387-396",
+  "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+  "source": "Crossref",
+  "is-referenced-by-count": 21,
+  "special_numbering": "C",
+  "title": [
+    "Covariance analysis of differential drag-based satellite cluster flight"
+  ],
+  "prefix": "10.1016",
+  "volume": "123",
+  "author": [
+    {
+      "given": "Ohad",
+      "family": "Ben-Yaacov",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    },
+    {
+      "given": "Anatoly",
+      "family": "Ivantsov",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    },
+    {
+      "given": "Pini",
+      "family": "Gurfil",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    }
+  ],
+  "member": "78",
+  "reference": [
+    {
+      "key": "10.1016/j.actaastro.2015.12.035_bib1",
+      "unstructured": "C.L. Leonard, Formationkeeping of spacecraft via differential drag (Master׳s thesis), Massachusetts Institute of Technology, 1986."
+    },
+    {
+      "issue": "9",
+      "key": "10.1016/j.actaastro.2015.12.035_bib2",
+      "first-page": "653",
+      "article-title": "Terminal guidance system for satellite rendezvous",
+      "volume": "27",
+      "author": "Clohessy",
+      "year": "1960",
+      "journal-title": "J. Astronaut. Sci."
+    },
+    {
+      "issue": "1",
+      "key": "10.1016/j.actaastro.2015.12.035_bib3",
+      "doi-asserted-by": "crossref",
+      "first-page": "108",
+      "DOI": "10.2514/3.20374",
+      "article-title": "Orbital formationkeeping with differential drag",
+      "volume": "12",
+      "author": "Leonard",
+      "year": "1989",
+      "journal-title": "J. Guid."
+    },
+    {
+      "key": "10.1016/j.actaastro.2015.12.035_bib4",
+      "unstructured": "B.H. Blake, Satellite formation control using atmospheric drag (Master׳s thesis), Air Force Institute of Technology, 2007."
+    },
+    {
+      "issue": "2",
+      "key": "10.1016/j.actaastro.2015.12.035_bib5",
+      "doi-asserted-by": "crossref",
+      "first-page": "1125",
+      "DOI": "10.1109/TAES.2011.5751247",
+      "article-title": "Differential drag as a means of spacecraft formation control",
+      "volume": "47",
+      "author": "Kumar",
+      "year": "2011",
+      "journal-title": "IEEE Trans. Aerosp. Electron. Syst."
+    },
+    {
+      "issue": "6",
+      "key": "10.1016/j.actaastro.2015.12.035_bib6",
+      "doi-asserted-by": "crossref",
+      "first-page": "1731",
+      "DOI": "10.2514/1.61496",
+      "article-title": "Long-term cluster flight of multiple satellites using differential drag",
+      "volume": "36",
+      "author": "Ben-Yaacov",
+      "year": "2013",
+      "journal-title": "J. Guid. Control Dyn."
+    },
+    {
+      "key": "10.1016/j.actaastro.2015.12.035_bib7",
+      "first-page": "1",
+      "article-title": "Stability and performance of orbital elements feedback for cluster keeping using differential drag",
+      "author": "Ben-Yaacov",
+      "year": "2014",
+      "journal-title": "J. Astronaut. Sci."
+    },
+    {
+      "issue": "5",
+      "key": "10.1016/j.actaastro.2015.12.035_bib8",
+      "doi-asserted-by": "crossref",
+      "first-page": "1678",
+      "DOI": "10.2514/1.G000191",
+      "article-title": "Lyapunov-based adaptive feedback for spacecraft planar relative maneuvering via differential drag",
+      "volume": "37",
+      "author": "Pérez",
+      "year": "2014",
+      "journal-title": "J. Guid. Control Dyn."
+    },
+    {
+      "key": "10.1016/j.actaastro.2015.12.035_bib9",
+      "doi-asserted-by": "crossref",
+      "first-page": "341",
+      "DOI": "10.1016/j.actaastro.2014.05.001",
+      "article-title": "Maintenance of satellite formations using environmental forces",
+      "volume": "102",
+      "author": "Kumar",
+      "year": "2014",
+      "journal-title": "Acta Astronaut."
+    },
+    {
+      "issue": "6",
+      "key": "10.1016/j.actaastro.2015.12.035_bib10",
+      "doi-asserted-by": "crossref",
+      "first-page": "1595",
+      "DOI": "10.2514/1.36362",
+      "article-title": "Rendezvous maneuvers of multiple spacecraft using differential drag under j2 perturbation",
+      "volume": "31",
+      "author": "Bevilacqua",
+      "year": "2008",
+      "journal-title": "J. Guid. Control Dyn."
+    },
+    {
+      "issue": "1",
+      "key": "10.1016/j.actaastro.2015.12.035_bib11",
+      "doi-asserted-by": "crossref",
+      "first-page": "69",
+      "DOI": "10.1007/s10569-009-9240-3",
+      "article-title": "Multiple spacecraft rendezvous maneuvers by differential drag and low thrust engines",
+      "volume": "106",
+      "author": "Bevilacqua",
+      "year": "2010",
+      "journal-title": "Celest. Mech. Dyn. Astron."
+    },
+    {
+      "issue": "2",
+      "key": "10.1016/j.actaastro.2015.12.035_bib12",
+      "doi-asserted-by": "crossref",
+      "first-page": "365",
+      "DOI": "10.2514/1.61505",
+      "article-title": "Minimum time rendezvous of multiple spacecraft using differential drag",
+      "volume": "37",
+      "author": "Harris",
+      "year": "2014",
+      "journal-title": "J. Guid. Control Dyn."
+    },
+    {
+      "key": "10.1016/j.actaastro.2015.12.035_bib13",
+      "doi-asserted-by": "crossref",
+      "first-page": "112",
+      "DOI": "10.1016/j.actaastro.2015.01.011",
+      "article-title": "Optimal propellant less rendezvous using differential drag",
+      "volume": "109",
+      "author": "Dell׳Elce",
+      "year": "2015",
+      "journal-title": "Acta Astronaut."
+    },
+    {
+      "key": "10.1016/j.actaastro.2015.12.035_bib14",
+      "doi-asserted-by": "crossref",
+      "unstructured": "L. Dell׳Elce, G. Kerschen, Orbital rendezvous using differential drag in the QB50 constellation, in: AIAA-AAS Astrodynamics Specialists Conference, Minneapolis, Minnesota, 2012.",
+      "DOI": "10.2514/6.2012-4884"
+    },
+    {
+      "key": "10.1016/j.actaastro.2015.12.035_bib15",
+      "unstructured": "L. Dell׳Elce, G. Kerschen, Comparison between analytical and optimal control techniques in the differential drag based rendezvous, in: Proceedings of the 5th International Conference on Spacecraft Formation Flying Missions and Technologies, Munich, Germany, 2013."
+    },
+    {
+      "issue": "5",
+      "key": "10.1016/j.actaastro.2015.12.035_bib16",
+      "doi-asserted-by": "crossref",
+      "first-page": "938",
+      "DOI": "10.2514/1.43205",
+      "article-title": "Improved method for the estimation of spacecraft free-molecular aerodynamic properties",
+      "volume": "46",
+      "author": "Fuller",
+      "year": "2009",
+      "journal-title": "J. Spacecr. Rocket."
+    },
+    {
+      "issue": "4",
+      "key": "10.1016/j.actaastro.2015.12.035_bib17",
+      "doi-asserted-by": "crossref",
+      "first-page": "367",
+      "DOI": "10.2514/3.28061",
+      "article-title": "Procedure for obtaining aerodynamic properties of spacecraft",
+      "volume": "18",
+      "author": "Fredo",
+      "year": "1981",
+      "journal-title": "J. Spacecr. Rocket."
+    },
+    {
+      "issue": "8",
+      "key": "10.1016/j.actaastro.2015.12.035_bib18",
+      "doi-asserted-by": "crossref",
+      "first-page": "565",
+      "DOI": "10.2514/3.61744",
+      "article-title": "Atmospheric drag cross section of spacecraft solar arrays",
+      "volume": "9",
+      "author": "Williams",
+      "year": "1972",
+      "journal-title": "J. Spacecr. Rocket."
+    },
+    {
+      "issue": "2",
+      "key": "10.1016/j.actaastro.2015.12.035_bib19",
+      "doi-asserted-by": "crossref",
+      "first-page": "143",
+      "DOI": "10.6028/jres.111.014",
+      "article-title": "Evaluation of aerodynamic drag and torque for external tanks in low earth orbit",
+      "volume": "111",
+      "author": "Stone",
+      "year": "2006",
+      "journal-title": "J. Res. – Natl. Inst. Stand. Technol."
+    },
+    {
+      "issue": "2",
+      "key": "10.1016/j.actaastro.2015.12.035_bib20",
+      "doi-asserted-by": "crossref",
+      "first-page": "205",
+      "DOI": "10.1016/j.asr.2015.04.004",
+      "article-title": "Analytical technique for satellite projected cross-sectional area calculation",
+      "volume": "56",
+      "author": "Ben-Yaacov",
+      "year": "2015",
+      "journal-title": "Adv. Space Res."
+    },
+    {
+      "key": "10.1016/j.actaastro.2015.12.035_bib21",
+      "series-title": "Optimal Estimation of Dynamic Systems",
+      "author": "Crassidis",
+      "year": "2011"
+    },
+    {
+      "key": "10.1016/j.actaastro.2015.12.035_bib22",
+      "volume": "Vol. 1",
+      "author": "Maybeck",
+      "year": "1982"
+    },
+    {
+      "key": "10.1016/j.actaastro.2015.12.035_bib23",
+      "doi-asserted-by": "crossref",
+      "unstructured": "R. Park, P. Chodas, I. Roundhill, Covariance analysis of Cassini Titan flyby using sar and altimetry data, in: AIAA-2006-6398, AIAA-AAS Astrodynamics Specialist Conference, Keystone, Colorado, August 2006.",
+      "DOI": "10.2514/6.2006-6398"
+    },
+    {
+      "key": "10.1016/j.actaastro.2015.12.035_bib24",
+      "doi-asserted-by": "crossref",
+      "unstructured": "R. Ionasescu, Orbit Determination covariance analysis for the Cassini Solstice Mission, AIAA-2010-8264, AIAA-AAS Astrodynamics Specialists Conference, Toronto, Ontario, 2010.",
+      "DOI": "10.2514/6.2010-8264"
+    },
+    {
+      "key": "10.1016/j.actaastro.2015.12.035_bib25",
+      "doi-asserted-by": "crossref",
+      "unstructured": "N.B. Stastny, R.A. Bettinger, F.R. Chavez, Lincov analysis of an automated celestial inertial navigation approach for geo satellites, in: AIAA-2008-6756, AIAA-AAS Astrodynamics Specialist Conference and Exhibit, Honolulu, Hawaii, August 2008.",
+      "DOI": "10.2514/6.2008-6756"
+    },
+    {
+      "issue": "1",
+      "key": "10.1016/j.actaastro.2015.12.035_bib26",
+      "doi-asserted-by": "crossref",
+      "first-page": "73",
+      "DOI": "10.2514/3.56142",
+      "article-title": "Gravity model performance in inertial navigation",
+      "volume": "5",
+      "author": "Edwards",
+      "year": "1982",
+      "journal-title": "J. Guid. Control Dyn."
+    },
+    {
+      "issue": "3",
+      "key": "10.1016/j.actaastro.2015.12.035_bib27",
+      "doi-asserted-by": "crossref",
+      "first-page": "704",
+      "DOI": "10.2514/1.15368",
+      "article-title": "Precision free-inertial navigation with gravity compensation by an onboard gradiometer",
+      "volume": "29",
+      "author": "Jekeli",
+      "year": "2006",
+      "journal-title": "J. Guid. Control Dyn."
+    },
+    {
+      "issue": "2",
+      "key": "10.1016/j.actaastro.2015.12.035_bib28",
+      "doi-asserted-by": "crossref",
+      "first-page": "156",
+      "DOI": "10.2514/3.20084",
+      "article-title": "Attitude determination covariance analysis for geostationary transfer orbits",
+      "volume": "9",
+      "author": "Van der Ha",
+      "year": "1986",
+      "journal-title": "J. Guid. Control Dyn."
+    },
+    {
+      "key": "10.1016/j.actaastro.2015.12.035_bib29",
+      "unstructured": "I.Y. Bar-Itzhack, R.R. Harman, True covariance simulation of the euve update filter, in: Flight Mechanics Estimation Theory Symposium, NASA Conference Publication 3050, 2008, pp. 223–236."
+    },
+    {
+      "issue": "6",
+      "key": "10.1016/j.actaastro.2015.12.035_bib30",
+      "doi-asserted-by": "crossref",
+      "first-page": "1404",
+      "DOI": "10.2514/1.19447",
+      "article-title": "Linear covariance techniques for orbital rendezvous analysis and autonomous onboard mission planning",
+      "volume": "29",
+      "author": "Geller",
+      "year": "2006",
+      "journal-title": "J. Guid. Control Dyn."
+    },
+    {
+      "key": "10.1016/j.actaastro.2015.12.035_bib31",
+      "unstructured": "D.C. Woffinden, Angles-only navigation for autonomous orbital rendezvous (Ph.D. thesis), Utah State University, 2008."
+    },
+    {
+      "key": "10.1016/j.actaastro.2015.12.035_bib32",
+      "unstructured": "T.J. Moesser, Guidance and navigation linear covariance analysis for lunar powered descent (Ph.D. thesis), Utah State University, 2010."
+    },
+    {
+      "key": "10.1016/j.actaastro.2015.12.035_bib33",
+      "doi-asserted-by": "crossref",
+      "unstructured": "M.B. Rose, D.K. Geller, Linear covariance techniques for powered ascent, AIAA-2010-8175, AIAA Guidance, Navigation, and Control Conference, Toronto, Ontario, 2010.",
+      "DOI": "10.2514/6.2010-8175"
+    },
+    {
+      "issue": "1",
+      "key": "10.1016/j.actaastro.2015.12.035_bib34",
+      "doi-asserted-by": "crossref",
+      "first-page": "44",
+      "DOI": "10.1177/0954410012467717",
+      "article-title": "Linear covariance techniques for closed-loop guidance navigation and control system design and analysis",
+      "volume": "228",
+      "author": "Christensen",
+      "year": "2014",
+      "journal-title": "Proc. Inst. Mech. Eng. Part G: J. Aerosp. Eng."
+    },
+    {
+      "key": "10.1016/j.actaastro.2015.12.035_bib35",
+      "unstructured": "R.H. Battin, An Introduction to the Mathematics and Methods of Astrodynamics, AIAA Education Series, 1987, pp. 495–508 (Chapter 10)."
+    },
+    {
+      "key": "10.1016/j.actaastro.2015.12.035_bib36",
+      "series-title": "Satellite Orbits in an Atmosphere: Theory and Application",
+      "first-page": "44",
+      "author": "King-Hele",
+      "year": "1987"
+    },
+    {
+      "key": "10.1016/j.actaastro.2015.12.035_bib37",
+      "doi-asserted-by": "crossref",
+      "first-page": "555",
+      "DOI": "10.1086/109179",
+      "article-title": "Small eccentricities or inclinations in the Brouwer theory of the artificial satellite",
+      "volume": "68",
+      "author": "Lyddane",
+      "year": "1963",
+      "journal-title": "Astron. J."
+    },
+    {
+      "key": "10.1016/j.actaastro.2015.12.035_bib38",
+      "unstructured": "P. Gurfil, J. Herscovitz, M. Pariente, The SAMSON project—cluster flight and geolocation with three autonomous nano-satellites, in: 26th AIAA/USU Conference on Small Satellites, Salt Lake City, UT, USA, August 2012 (Paper SSC12-VII-2)."
+    },
+    {
+      "issue": "6",
+      "key": "10.1016/j.actaastro.2015.12.035_bib39",
+      "doi-asserted-by": "crossref",
+      "first-page": "1624",
+      "DOI": "10.2514/1.60701",
+      "article-title": "Mean orbital elements estimation for autonomous satellite guidance and orbit control",
+      "volume": "36",
+      "author": "Zhong",
+      "year": "2013",
+      "journal-title": "J. Guid. Control Dyn."
+    }
+  ],
+  "container-title": [
+    "Acta Astronautica"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://api.elsevier.com/content/article/PII:S0094576515004749?httpAccept=text/xml",
+      "content-type": "text/xml",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://api.elsevier.com/content/article/PII:S0094576515004749?httpAccept=text/plain",
+      "content-type": "text/plain",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2019,
+        9,
+        2
+      ]
+    ],
+    "date-time": "2019-09-02T23:55:15Z",
+    "timestamp": 1567468515000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0094576515004749"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2016,
+        6
+      ]
+    ]
+  },
+  "references-count": 39,
+  "alternative-id": [
+    "S0094576515004749"
+  ],
+  "URL": "https://doi.org/10.1016/j.actaastro.2015.12.035",
+  "relation": {},
+  "ISSN": [
+    "0094-5765"
+  ],
+  "issn-type": [
+    {
+      "value": "0094-5765",
+      "type": "print"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2016,
+        6
+      ]
+    ]
+  },
+  "assertion": [
+    {
+      "value": "Elsevier",
+      "name": "publisher",
+      "label": "This article is maintained by"
+    },
+    {
+      "value": "Covariance analysis of differential drag-based satellite cluster flight",
+      "name": "articletitle",
+      "label": "Article Title"
+    },
+    {
+      "value": "Acta Astronautica",
+      "name": "journaltitle",
+      "label": "Journal Title"
+    },
+    {
+      "value": "https://doi.org/10.1016/j.actaastro.2015.12.035",
+      "name": "articlelink",
+      "label": "CrossRef DOI link to publisher maintained version"
+    },
+    {
+      "value": "article",
+      "name": "content_type",
+      "label": "Content Type"
+    },
+    {
+      "value": "© 2015 IAA. Published by Elsevier Ltd. All rights reserved.",
+      "name": "copyright",
+      "label": "Copyright"
+    }
+  ]
+}

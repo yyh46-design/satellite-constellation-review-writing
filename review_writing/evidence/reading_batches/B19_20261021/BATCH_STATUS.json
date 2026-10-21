@@ -1,0 +1,73 @@
+{
+  "batch": "B19_20261021",
+  "base_commit": "7d571aa88aec73a2c57aa4888c69b2f1fe272f7d",
+  "branch": "research/constellation-review-reading-b19-original-pool-20261021",
+  "batch_limit": 10,
+  "close_read_ids": [
+    "L004",
+    "L008",
+    "L014",
+    "L015",
+    "L018",
+    "L030",
+    "L033",
+    "L034",
+    "L036",
+    "L071"
+  ],
+  "original_pool_total": 80,
+  "original_pool_close_read_this_batch": 10,
+  "original_pool_close_read_cumulative": 30,
+  "original_pool_remaining": 50,
+  "remaining_status_breakdown": {
+    "NOT_CLOSE_READ": 49,
+    "PARTIAL_TEXT_READ_NOT_COUNTED": 1
+  },
+  "partial_read_not_counted": [
+    "L003"
+  ],
+  "topic_supplement_close_read_this_batch": 0,
+  "topic_supplement_close_read_cumulative": 60,
+  "B11_through_B19_close_read_records": 90,
+  "claim_count": 50,
+  "B11_through_B19_claim_records": 415,
+  "remote_public_pdf_text_read_count": 10,
+  "remote_pdf_total_pages": 172,
+  "pdf_binary_archived_count": 0,
+  "pdf_binary_identity_verified_count": 0,
+  "actual_visual_page_count": 0,
+  "visual_review_pending_ids": [
+    "L004",
+    "L008",
+    "L014",
+    "L015",
+    "L018",
+    "L030",
+    "L033",
+    "L034",
+    "L036",
+    "L071"
+  ],
+  "candidate_after_human_review": 8,
+  "context_only_outside_core_scope": [
+    "L014"
+  ],
+  "held_from_scientific_adoption": [
+    "L071"
+  ],
+  "specific_statement_holds": [
+    "L004 propulsion-type taxonomy and Fig.6 numbers",
+    "L008 outer-cylinder exact feasibility and figure numbering",
+    "L015 LCA universal conservatism",
+    "L018 timing/precision superiority",
+    "L030 exact scanned equations",
+    "L033 general-model applicability and portable speedup",
+    "L034 mean-sign convention and repeated crossings",
+    "L036 conservative-bound interpretation"
+  ],
+  "human_verified": false,
+  "submission_ready": false,
+  "manuscript_modified": false,
+  "historical_reading_totals_updated": false,
+  "stop_after_batch": true
+}
