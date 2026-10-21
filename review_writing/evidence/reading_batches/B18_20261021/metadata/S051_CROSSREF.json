@@ -1,0 +1,617 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        1,
+        7
+      ]
+    ],
+    "date-time": "2026-01-07T14:48:26Z",
+    "timestamp": 1767797306285,
+    "version": "3.49.0"
+  },
+  "reference-count": 59,
+  "publisher": "American Institute of Aeronautics and Astronautics (AIAA)",
+  "issue": "1",
+  "funder": [
+    {
+      "DOI": "10.13039/501100000781",
+      "name": "European Research Council",
+      "doi-asserted-by": "publisher",
+      "award": [
+        "Starting Grant DRITUCS - 101076275"
+      ],
+      "award-info": [
+        {
+          "award-number": [
+            "Starting Grant DRITUCS - 101076275"
+          ]
+        }
+      ],
+      "id": [
+        {
+          "id": "10.13039/501100000781",
+          "id-type": "DOI",
+          "asserted-by": "publisher"
+        }
+      ]
+    }
+  ],
+  "content-domain": {
+    "domain": [
+      "arc.aiaa.org"
+    ],
+    "crossmark-restriction": true
+  },
+  "short-container-title": [
+    "Journal of Guidance, Control, and Dynamics"
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2026,
+        1
+      ]
+    ]
+  },
+  "abstract": "<jats:p>The concept of multiple satellites in formation brings a significant advancement in enhancing the performance of single-pass synthetic aperture radar interferometry. Maintaining a constant baseline is vital to enhance interferometric acquisition and poses significant challenges to the safety conditions of the vehicles. This study presents a motion planning strategy specifically designed to address safety procedures in the event of anomalous onboard conditions for a fast reconfiguration to a safe mode. The research examines two approaches: the linear quadratic regulator (LQR) and the model predictive control (MPC). It investigates the capability of different controllers for fast formation reconfiguration in terms of minimum propellant consumption and passive safety. We demonstrate that the MPC controller can autonomously plan and implement an optimal maneuver in less than one orbital period. On the other hand, the LQR can benefit from an automatic tuning of the gains to track an optimal reference trajectory. As a practical implication, this research provides solutions to maintaining a safe formation with constant baselines, proposing different control schemes.</jats:p>",
+  "DOI": "10.2514/1.g009169",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2025,
+        9,
+        22
+      ]
+    ],
+    "date-time": "2025-09-22T05:43:36Z",
+    "timestamp": 1758519816000
+  },
+  "page": "114-129",
+  "update-policy": "https://doi.org/10.2514/aiaa_crossmarkpolicy",
+  "source": "Crossref",
+  "is-referenced-by-count": 0,
+  "title": [
+    "Motion Planning Strategies for Safety Procedure of Multisatellite Formation-Flying Systems"
+  ],
+  "prefix": "10.2514",
+  "volume": "49",
+  "author": [
+    {
+      "ORCID": "https://orcid.org/0000-0001-9642-1755",
+      "authenticated-orcid": false,
+      "given": "Francesca",
+      "family": "Scala",
+      "sequence": "first",
+      "affiliation": [
+        {
+          "name": "DLR, German Aerospace Center"
+        }
+      ],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    },
+    {
+      "given": "Mateus Silva",
+      "family": "Borges",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Technological Institute of Aeronautics"
+        }
+      ],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    },
+    {
+      "given": "Michelangelo",
+      "family": "Villano",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "DLR, German Aerospace Center"
+        }
+      ],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    }
+  ],
+  "member": "1387",
+  "reference": [
+    {
+      "issue": "4",
+      "key": "r1",
+      "doi-asserted-by": "crossref",
+      "first-page": "441",
+      "DOI": "10.1029/97RG03139",
+      "volume": "36",
+      "author": "Massonnet D.",
+      "year": "1998",
+      "journal-title": "Reviews of Geophysics"
+    },
+    {
+      "issue": "3",
+      "key": "r2",
+      "doi-asserted-by": "crossref",
+      "first-page": "473",
+      "DOI": "10.1016/j.actaastro.2004.05.044",
+      "volume": "55",
+      "author": "Gill E.",
+      "year": "2004",
+      "journal-title": "Acta Astronautica"
+    },
+    {
+      "key": "r3",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1109/JPROC.2009.2038948"
+    },
+    {
+      "key": "r4",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1109/MGRS.2013.2248301"
+    },
+    {
+      "key": "r5",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1109/TGRS.2007.900693"
+    },
+    {
+      "issue": "3",
+      "key": "r6",
+      "doi-asserted-by": "crossref",
+      "first-page": "506",
+      "DOI": "10.1109/36.911109",
+      "volume": "39",
+      "author": "Massonnet D.",
+      "year": "2001",
+      "journal-title": "IEEE Transactions on Geoscience and Remote Sensing"
+    },
+    {
+      "key": "r7",
+      "doi-asserted-by": "crossref",
+      "first-page": "1000",
+      "DOI": "10.1109/IGARSS.2004.1368578",
+      "volume": "2",
+      "author": "Moreira A.",
+      "year": "2004",
+      "journal-title": "IGARSS 2004, 2004 IEEE International Geoscience and Remote Sensing Symposium"
+    },
+    {
+      "key": "r8",
+      "first-page": "1",
+      "volume": "60",
+      "author": "Mittermayer J.",
+      "year": "2022",
+      "journal-title": "IEEE Transactions on Geoscience and Remote Sensing"
+    },
+    {
+      "key": "r9",
+      "unstructured": "ScalaF.KriegerG.VillanoM. “Investigation of Fixed Across-Track Baselines for Distributed Spaceborne SAR Systems,” EUSAR 2024; 15th European Conference on Synthetic Aperture Radar, VDE VERLAG GMBH, Berlin, 2024, pp. 32–37, https://elib.dlr.de/204285/."
+    },
+    {
+      "key": "r10",
+      "doi-asserted-by": "crossref",
+      "unstructured": "ScalaF.KriegerG.VillanoM. “Investigation of Multiple-Satellite Formation Configurations for Single-Pass Synthetic Aperture Radar Interferometry, 75th International Astronautical Congress (IAC), International Astronautical Federation, Paris, France, Oct. 2024, pp. 1–6. 10.52202/078362-0082",
+      "DOI": "10.52202/078362-0082"
+    },
+    {
+      "key": "r11",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.2514/1.15114"
+    },
+    {
+      "key": "r12",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.2514/1.G008407"
+    },
+    {
+      "key": "r13",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.2514/1.G003249"
+    },
+    {
+      "key": "r14",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.asr.2020.01.033"
+    },
+    {
+      "key": "r15",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.asr.2021.09.030"
+    },
+    {
+      "key": "r16",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.asr.2022.09.043"
+    },
+    {
+      "key": "r17",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.asr.2023.07.051"
+    },
+    {
+      "key": "r18",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.2514/4.860119"
+    },
+    {
+      "key": "r19",
+      "volume-title": "Applied Optimal Control",
+      "author": "Bryson A. E.",
+      "year": "1975"
+    },
+    {
+      "key": "r20",
+      "doi-asserted-by": "crossref",
+      "unstructured": "StarinS.YedavalliR.SparksA. “Design of a LQR Controller of Reduced Inputs for Multiple Spacecraft Formation Flying,” Proceedings of the 2001 American Control Conference (Cat. No. 01CH37148), Vol. 2, Inst. of Electrical and Electronics Engineers, New York, 2001, pp. 1327–1332. 10.1109/ACC.2001.945908",
+      "DOI": "10.1109/ACC.2001.945908"
+    },
+    {
+      "key": "r21",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.2514/6.2001-4029"
+    },
+    {
+      "issue": "3",
+      "key": "r22",
+      "first-page": "29",
+      "volume": "20",
+      "author": "Rasheed L. T.",
+      "year": "2020",
+      "journal-title": "Iraqi Journal of Computers, Communications, Control and System Engineering"
+    },
+    {
+      "key": "r23",
+      "unstructured": "HassaniK.Lee.W.S. “Optimal Tuning of Linear Quadratic Regulators Using Quantum Particle Swarm Optimization,” Proceedings of the International Conference on Control, Dynamic Systems, and Robotics (CDSR’14), International ASET Inc., Orleans, Canada, 2014, p. 15, https://api.semanticscholar.org/CorpusID:18284120."
+    },
+    {
+      "key": "r24",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.2514/1.G002507"
+    },
+    {
+      "key": "r25",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.2514/6.2006-6070"
+    },
+    {
+      "key": "r26",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.2514/1.G000218"
+    },
+    {
+      "key": "r27",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1109/TCST.2014.2379639"
+    },
+    {
+      "key": "r28",
+      "unstructured": "ScalaF.KriegerG.VillanoM. “Design of Safety Procedures for a Multi-Satellite Formation Using a Continuous Control Scheme,” 2024 AAS/AIAA Astrodynamics Specialist Conference, AIAA, Reston, VA, Aug. 2024, https://elib.dlr.de/204683/."
+    },
+    {
+      "key": "r29",
+      "unstructured": "D’AmicoS. “Autonomous Formation Flying in Low Earth Orbit,” Ph.D. Thesis, Doctoral Dissertation, TU Delft, Delft, The Netherlands, 2010, https://elib.dlr.de/63481/."
+    },
+    {
+      "key": "r30",
+      "unstructured": "SpiridonovaS.KirschnerM.HugentoblerU. “Precise Mean Orbital Elements Determination for LEO Monitoring and Maintenance,” 24th International Symposium on Space Flight Dynamics, ISSFD and Johns Hopkins Univ., Applied Physics Lab., Howard County, MD, 2014, https://elib.dlr.de/103814/1/Spiridonova_ISSFD_2014_upd.pdf."
+    },
+    {
+      "key": "r31",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.2514/1.G004716"
+    },
+    {
+      "key": "r32",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.2514/1.G002409"
+    },
+    {
+      "key": "r33",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/s10569-015-9643-2"
+    },
+    {
+      "key": "r34",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.2307/2369430"
+    },
+    {
+      "key": "r35",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.2514/8.8704"
+    },
+    {
+      "key": "r36",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1086/107958"
+    },
+    {
+      "key": "r37",
+      "unstructured": "SteindorfL. M.D’AmicoS.ScharnaglJ.KempfF.SchillingK. “Constrained Low-Thrust Satellite Formation-Flying Using Relative Orbit Elements,” 27th AAS/AIAA Space Flight Mechanics Meeting, Vol. 160, Univelt Inc., CA, 2017, pp. 3563–3583, https://www.researchgate.net/publication/332072543_Constrained_Low-Thrust_Satellite_Formation-Flying_Using_Relative_Orbit_Elements."
+    },
+    {
+      "key": "r38",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1017/CBO9780511804441"
+    },
+    {
+      "key": "r39",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/978-1-84800-155-8_7"
+    },
+    {
+      "issue": "83",
+      "key": "r40",
+      "first-page": "1",
+      "volume": "17",
+      "author": "Diamond S.",
+      "year": "2016",
+      "journal-title": "Journal of Machine Learning Research"
+    },
+    {
+      "key": "r41",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/s11071-022-08214-8"
+    },
+    {
+      "key": "r42",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1515/phys-2017-0043"
+    },
+    {
+      "key": "r43",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.actaastro.2016.01.016"
+    },
+    {
+      "key": "r44",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.2514/1.34790"
+    },
+    {
+      "issue": "2",
+      "key": "r45",
+      "first-page": "11",
+      "volume": "6",
+      "author": "Abdulla A.",
+      "year": "2017",
+      "journal-title": "International Journal of Engineering and Innovative Technology"
+    },
+    {
+      "key": "r46",
+      "doi-asserted-by": "crossref",
+      "unstructured": "MarcoA.HennigP.BohgJ.SchaalS.TrimpeS. “Automatic LQR Tuning Based on Gaussian Process Global Optimization,” 2016 IEEE International Conference on Robotics and Automation (ICRA), Inst. of Electrical and Electronics Engineers, New York, 2016, pp. 270–277. 10.1109/ICRA.2016.7487144",
+      "DOI": "10.1109/ICRA.2016.7487144"
+    },
+    {
+      "key": "r47",
+      "doi-asserted-by": "crossref",
+      "unstructured": "DengX.SunX.LiuR.WeiW. “Optimal Analysis of the Weighted Matrices in LQR Based on the Differential Evolution Algorithm,” 2017 29th Chinese Control and Decision Conference (CCDC), Inst. of Electrical and Electronics Engineers, New York, 2017, pp. 832–836. 10.1109/CCDC.2017.7978635",
+      "DOI": "10.1109/CCDC.2017.7978635"
+    },
+    {
+      "issue": "2",
+      "key": "r48",
+      "doi-asserted-by": "crossref",
+      "first-page": "201",
+      "DOI": "10.1109/TEVC.2022.3155533",
+      "volume": "27",
+      "author": "Liang J.",
+      "year": "2023",
+      "journal-title": "IEEE Transactions on Evolutionary Computation"
+    },
+    {
+      "key": "r49",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.ejor.2005.12.026"
+    },
+    {
+      "issue": "2",
+      "key": "r50",
+      "doi-asserted-by": "crossref",
+      "first-page": "303",
+      "DOI": "10.1109/JAS.2021.1003817",
+      "volume": "8",
+      "author": "Hua Y.",
+      "year": "2021",
+      "journal-title": "IEEE/CAA Journal of Automatica Sinica"
+    },
+    {
+      "key": "r51",
+      "unstructured": "BiscaniF.IzzoD.JakobW.AcciariniG.MartensM.MeretaA. “esa/pagmo2:pagmo 2.17.0 (v2.17.0),” Zenodo, European Organization for Nuclear Research CERN, Geneve, Switzerland, 2017. 10.5281/zenodo.4585131"
+    },
+    {
+      "issue": "1",
+      "key": "r52",
+      "doi-asserted-by": "crossref",
+      "first-page": "1025",
+      "DOI": "10.1038/srep01025",
+      "volume": "3",
+      "author": "Wang C.",
+      "year": "2013",
+      "journal-title": "Scientific Reports"
+    },
+    {
+      "key": "r53",
+      "doi-asserted-by": "crossref",
+      "first-page": "125029",
+      "DOI": "10.1016/j.eswa.2024.125029",
+      "volume": "257",
+      "author": "He W.",
+      "year": "2024",
+      "journal-title": "Expert Systems with Applications"
+    },
+    {
+      "issue": "1",
+      "key": "r54",
+      "doi-asserted-by": "crossref",
+      "first-page": "60",
+      "DOI": "10.2514/2.4875",
+      "volume": "25",
+      "author": "Yamanaka K.",
+      "year": "2002",
+      "journal-title": "AIAA Guidance, Navigation, and Control Conference"
+    },
+    {
+      "key": "r55",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/s00190-017-1090-2"
+    },
+    {
+      "key": "r56",
+      "first-page": "1",
+      "volume": "73",
+      "author": "Li X.",
+      "year": "2024",
+      "journal-title": "IEEE Transactions on Instrumentation and Measurement"
+    },
+    {
+      "key": "r57",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.isatra.2023.09.013"
+    },
+    {
+      "key": "r58",
+      "doi-asserted-by": "crossref",
+      "unstructured": "BennM.JørgensenJ. L.TimmermanL.JørgensenP. S.DenverT.PedersenD. A.RougeotR.SerranoD. “Intersatellite Synchronization Module for Optical Sync and Data Between Formation Flying Spacecraft,” 2024 IEEE Aerospace Conference, Inst. of Electrical and Electronics Engineers, New York, 2024, pp. 1–8, https://orbit.dtu.dk/en/publications/intersatellite-synchronization-module-for-optical-sync-and-data-b.",
+      "DOI": "10.1109/AERO58975.2024.10521377"
+    },
+    {
+      "issue": "2",
+      "key": "r59",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.14429/dsj.20413",
+      "volume": "75",
+      "author": "Ramarao G.",
+      "year": "2025",
+      "journal-title": "Defence Science Journal"
+    }
+  ],
+  "container-title": [
+    "Journal of Guidance, Control, and Dynamics"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://arc.aiaa.org/doi/pdf/10.2514/1.G009169",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2026,
+        1,
+        7
+      ]
+    ],
+    "date-time": "2026-01-07T11:55:43Z",
+    "timestamp": 1767786943000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://arc.aiaa.org/doi/10.2514/1.G009169"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        1
+      ]
+    ]
+  },
+  "references-count": 59,
+  "journal-issue": {
+    "issue": "1",
+    "published-print": {
+      "date-parts": [
+        [
+          2026,
+          1
+        ]
+      ]
+    }
+  },
+  "alternative-id": [
+    "10.2514/1.G009169"
+  ],
+  "URL": "https://doi.org/10.2514/1.g009169",
+  "relation": {},
+  "ISSN": [
+    "0731-5090",
+    "1533-3884"
+  ],
+  "issn-type": [
+    {
+      "value": "0731-5090",
+      "type": "print"
+    },
+    {
+      "value": "1533-3884",
+      "type": "electronic"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2026,
+        1
+      ]
+    ]
+  },
+  "assertion": [
+    {
+      "value": "2025-03-11",
+      "order": 0,
+      "name": "received",
+      "label": "Received",
+      "group": {
+        "name": "publication_history",
+        "label": "Publication History"
+      }
+    },
+    {
+      "value": "2025-06-26",
+      "order": 2,
+      "name": "accepted",
+      "label": "Accepted",
+      "group": {
+        "name": "publication_history",
+        "label": "Publication History"
+      }
+    },
+    {
+      "value": "2025-09-21",
+      "order": 3,
+      "name": "published",
+      "label": "Published",
+      "group": {
+        "name": "publication_history",
+        "label": "Publication History"
+      }
+    }
+  ]
+}

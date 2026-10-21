@@ -1,0 +1,414 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        10,
+        12
+      ]
+    ],
+    "date-time": "2026-10-12T18:28:17Z",
+    "timestamp": 1791829697737,
+    "version": "4.3.4"
+  },
+  "reference-count": 27,
+  "publisher": "MDPI AG",
+  "issue": "3",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2026,
+            2,
+            24
+          ]
+        ],
+        "date-time": "2026-02-24T00:00:00Z",
+        "timestamp": 1771891200000
+      },
+      "content-version": "vor",
+      "delay-in-days": 0,
+      "URL": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  ],
+  "funder": [
+    {
+      "name": "Thales Alenia Space Italia",
+      "award": [
+        "1520116016"
+      ],
+      "award-info": [
+        {
+          "award-number": [
+            "1520116016"
+          ]
+        }
+      ]
+    }
+  ],
+  "content-domain": {
+    "domain": [],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [
+    "Aerospace"
+  ],
+  "abstract": "<jats:p>In recent years, the trend toward spacecraft miniaturization has led to the widespread adoption of micro- and nanosatellites, driven by their reduced development costs and simplified launch logistics. Operating these platforms in coordinated fleets, or swarms, represents a promising approach to overcoming the inherent limitations of individual spacecraft by distributing sensing and processing capabilities across multiple units. For systems of this scale, decentralized guidance and control architectures based on so-called behavioral strategies offer an attractive solution. These approaches are inspired by biological swarms, which exhibit remarkable robustness and adaptability through simple local interactions, minimal information exchange, and the absence of centralized supervision, but their application to space scenarios is limited, if not negligible. This work investigates the feasibility of autonomous swarm maintenance subject to orbital forces, under the stringent actuation, sensing, and computational constraints typical of nanosatellite platforms. Each spacecraft is assumed to carry a single monocular camera aligned with the along-track direction. The proposed behavioral control framework enables decentralized formation keeping without ground intervention or centralized coordination. Since control actions rely on the relative motion of neighboring satellites, a lightweight relative navigation capability is required. The results indicate that complex vision pipelines can be replaced by simple blob-based image processing, although a (rough) reconstruction of elative parameters remains essential to avoid unnecessary control effort arising from suboptimal guidance decisions.</jats:p>",
+  "DOI": "10.3390/aerospace13030207",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2026,
+        2,
+        24
+      ]
+    ],
+    "date-time": "2026-02-24T13:53:20Z",
+    "timestamp": 1771941200000
+  },
+  "page": "207",
+  "update-policy": "https://doi.org/10.3390/mdpi_crossmark_policy",
+  "source": "Crossref",
+  "is-referenced-by-count": 1,
+  "title": [
+    "Autonomous Control of Satellite Swarms Using Minimal Vision-Based Behavioral Control"
+  ],
+  "prefix": "10.3390",
+  "volume": "13",
+  "author": [
+    {
+      "ORCID": "https://orcid.org/0000-0002-2403-848X",
+      "authenticated-orcid": false,
+      "given": "Marco",
+      "family": "Sabatini",
+      "sequence": "first",
+      "affiliation": [
+        {
+          "name": "School of Aerospace Engineering, Sapienza University of Rome, Via Salaria 851, 00138 Rome, Italy"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "member": "1968",
+  "published-online": {
+    "date-parts": [
+      [
+        2026,
+        2,
+        24
+      ]
+    ]
+  },
+  "reference": [
+    {
+      "key": "ref_1",
+      "unstructured": "Desai, J.P., Ostrowski, J.P., and Kumar, V. (1998, January 20). Controlling formations of multiple mobile robots. Proceedings of the 1998 IEEE International Conference on Robotics & Automation, Leuven, Belgium."
+    },
+    {
+      "key": "ref_2",
+      "unstructured": "Gazi, V. (2003, January 9–12). Swarm aggregations using artificial potentials and sliding mode control. Proceedings of the 42nd IEEE Conference on Decision and Control, Maui, HI, USA."
+    },
+    {
+      "key": "ref_3",
+      "doi-asserted-by": "crossref",
+      "first-page": "692",
+      "DOI": "10.1109/TAC.2003.809765",
+      "article-title": "Stability analysis of swarm",
+      "volume": "48",
+      "author": "Gazi",
+      "year": "2003",
+      "journal-title": "IEEE Trans. Autom. Control"
+    },
+    {
+      "key": "ref_4",
+      "doi-asserted-by": "crossref",
+      "first-page": "223",
+      "DOI": "10.1023/B:AURO.0000033973.24945.f3",
+      "article-title": "Evolving self-organized behaviours for a swarm-bot",
+      "volume": "17",
+      "author": "Dorigo",
+      "year": "2004",
+      "journal-title": "Auton. Robot."
+    },
+    {
+      "key": "ref_5",
+      "unstructured": "Ayre, M., Izzo, D., and Pettazzi, L. (2005). Self-assembly in space using behaviour-based intelligent components. Towards Autonomous Robotic Systems (TAROS), Imperial College."
+    },
+    {
+      "key": "ref_6",
+      "doi-asserted-by": "crossref",
+      "first-page": "449",
+      "DOI": "10.2514/1.22736",
+      "article-title": "Autonomous and distributed motion planning for satellite swarm",
+      "volume": "30",
+      "author": "Izzo",
+      "year": "2007",
+      "journal-title": "J. Guid. Control Dyn."
+    },
+    {
+      "key": "ref_7",
+      "unstructured": "Clark, P.E., Curtis, S.A., and Rilee, M.L. (2002, January 20–21). ANTS: Applying a new paradigm for lunar and planetary exploration. Proceedings of the Solar System Remote Sensing Symposium, Pittsburgh, PA, USA."
+    },
+    {
+      "key": "ref_8",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Vane, D., and Stephens, G.L. (2008, January 1–8). The CloudSat mission and the A-Train: A revolutionary approach to observing Earth’s atmosphere. Proceedings of the IEEE Aerospace Conference, Big Sky, MT, USA.",
+      "DOI": "10.1109/AERO.2008.4526260"
+    },
+    {
+      "key": "ref_9",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Sabatini, M., Reali, F., and Palmerini, G.B. (2009, January 7–14). Autonomous behavioral strategy and optimal centralized guidance for on-orbit self-assembly. Proceedings of the IEEE Aerospace Conference, Big Sky, MT, USA.",
+      "DOI": "10.1109/AERO.2009.4839582"
+    },
+    {
+      "key": "ref_10",
+      "doi-asserted-by": "crossref",
+      "first-page": "229",
+      "DOI": "10.1007/s10569-009-9183-8",
+      "article-title": "Collective control of spacecraft swarms for space exploration",
+      "volume": "105",
+      "author": "Sabatini",
+      "year": "2009",
+      "journal-title": "Celest. Mech. Dyn. Astron."
+    },
+    {
+      "key": "ref_11",
+      "doi-asserted-by": "crossref",
+      "first-page": "620",
+      "DOI": "10.1016/j.actaastro.2025.12.058",
+      "article-title": "Orbit maneuver planning of earth observation satellite swarm for unreachable targets",
+      "volume": "241",
+      "author": "Sun",
+      "year": "2026",
+      "journal-title": "Acta Astronaut."
+    },
+    {
+      "key": "ref_12",
+      "doi-asserted-by": "crossref",
+      "first-page": "166",
+      "DOI": "10.1016/j.actaastro.2025.01.016",
+      "article-title": "Assembly and reconfiguration of space structure using heterogeneous satellite swarms",
+      "volume": "229",
+      "author": "Liao",
+      "year": "2025",
+      "journal-title": "Acta Astronaut."
+    },
+    {
+      "key": "ref_13",
+      "doi-asserted-by": "crossref",
+      "first-page": "25",
+      "DOI": "10.1145/37402.37406",
+      "article-title": "Flocks, herds, & schools: A distributed behavioural model",
+      "volume": "21",
+      "author": "Reynolds",
+      "year": "1987",
+      "journal-title": "Comput. Graph."
+    },
+    {
+      "key": "ref_14",
+      "doi-asserted-by": "crossref",
+      "first-page": "401",
+      "DOI": "10.1109/TAC.2005.864190",
+      "article-title": "Flocking for multi-agent dynamic systems: Algorithms and theory",
+      "volume": "51",
+      "year": "2006",
+      "journal-title": "IEEE Trans. Autom. Control"
+    },
+    {
+      "key": "ref_15",
+      "doi-asserted-by": "crossref",
+      "first-page": "419",
+      "DOI": "10.1016/j.actaastro.2025.05.009",
+      "article-title": "Bioinspired consensus-based spacecraft swarm control for autonomous capture of uncooperative targets",
+      "volume": "234",
+      "author": "Zhu",
+      "year": "2025",
+      "journal-title": "Acta Astronaut."
+    },
+    {
+      "key": "ref_16",
+      "doi-asserted-by": "crossref",
+      "first-page": "49",
+      "DOI": "10.1016/j.actaastro.2023.06.003",
+      "article-title": "Communication area estimation for decentralized control of nanosatellites swarm",
+      "volume": "211",
+      "author": "Monakhova",
+      "year": "2023",
+      "journal-title": "Acta Astronaut."
+    },
+    {
+      "key": "ref_17",
+      "unstructured": "Kruger, J., Hwang, S.S., and D’Amico, S. (2024, January 3–8). Starling Formation-Flying Optical Experiment: Initial operations and flight results. Proceedings of the 38th Small Satellite Conference, Logan, UT, USA."
+    },
+    {
+      "key": "ref_18",
+      "doi-asserted-by": "crossref",
+      "first-page": "1576",
+      "DOI": "10.2514/1.59236",
+      "article-title": "Noncooperative rendezvous using angles-only optical navigation: System design and flight results",
+      "volume": "36",
+      "author": "Ardaens",
+      "year": "2013",
+      "journal-title": "J. Guid. Control Dyn."
+    },
+    {
+      "key": "ref_19",
+      "doi-asserted-by": "crossref",
+      "first-page": "1337",
+      "DOI": "10.2514/1.G003239",
+      "article-title": "Flight demonstration of autonomous noncooperative rendezvous in low Earth orbit",
+      "volume": "41",
+      "author": "Gaias",
+      "year": "2017",
+      "journal-title": "J. Guid. Control Dyn."
+    },
+    {
+      "key": "ref_20",
+      "doi-asserted-by": "crossref",
+      "first-page": "6",
+      "DOI": "10.2514/1.A35598",
+      "article-title": "Starling Formation-Flying Optical Experiment (StarFOX): System design and preflight verification",
+      "volume": "60",
+      "author": "Kruger",
+      "year": "2023",
+      "journal-title": "J. Spacecr. Rocket."
+    },
+    {
+      "key": "ref_21",
+      "doi-asserted-by": "crossref",
+      "first-page": "411",
+      "DOI": "10.1007/s10569-015-9643-2",
+      "article-title": "Model of J2 perturbed satellite relative motion with time-varying differential drag",
+      "volume": "123",
+      "author": "Gaias",
+      "year": "2015",
+      "journal-title": "Celest. Mech. Dyn. Astron."
+    },
+    {
+      "key": "ref_22",
+      "unstructured": "Steindorf, L.M., D’Amico, S., Scharnagl, J., Kempf, F., and Schilling, K. (2017). Constrained low-thrust satellite formation-flying using relative orbit elements. Adv. Astronaut. Sci., 160."
+    },
+    {
+      "key": "ref_23",
+      "unstructured": "Sabatini, M., Palmerini, G.B., and Gasbarri, P. (2014, January 12–14). Control laws for defective swarming systems. Proceedings of the Dynamics and Control of Space Systems (DyCoSS), Rome, Italy."
+    },
+    {
+      "key": "ref_24",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Lewis, F.L., Vrabie, D.L., and Syrmos, V.L. (2012). Optimal Control, John Wiley & Sons. [3rd ed.]. Chapter 3.",
+      "DOI": "10.1002/9781118122631"
+    },
+    {
+      "key": "ref_25",
+      "first-page": "3",
+      "article-title": "Proximity operations of formation-flying spacecraft using an eccentricity/inclination vector separation",
+      "volume": "29",
+      "author": "Montenbruck",
+      "year": "2006",
+      "journal-title": "J. Guid. Control Dyn."
+    },
+    {
+      "key": "ref_26",
+      "doi-asserted-by": "crossref",
+      "first-page": "323",
+      "DOI": "10.1016/j.actaastro.2020.03.015",
+      "article-title": "Centralized visual-based navigation and control of a swarm of satellites for on-orbit servicing",
+      "volume": "171",
+      "author": "Sabatini",
+      "year": "2020",
+      "journal-title": "Acta Astronaut."
+    },
+    {
+      "key": "ref_27",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Sturm, P. (2014). Pinhole camera model. Computer Vision, Springer.",
+      "DOI": "10.1007/978-0-387-31439-6_472"
+    }
+  ],
+  "container-title": [
+    "Aerospace"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://www.mdpi.com/2226-4310/13/3/207/pdf",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2026,
+        2,
+        24
+      ]
+    ],
+    "date-time": "2026-02-24T14:21:48Z",
+    "timestamp": 1771942908000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://www.mdpi.com/2226-4310/13/3/207"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        2,
+        24
+      ]
+    ]
+  },
+  "references-count": 27,
+  "journal-issue": {
+    "issue": "3",
+    "published-online": {
+      "date-parts": [
+        [
+          2026,
+          3
+        ]
+      ]
+    }
+  },
+  "alternative-id": [
+    "aerospace13030207"
+  ],
+  "URL": "https://doi.org/10.3390/aerospace13030207",
+  "relation": {},
+  "ISSN": [
+    "2226-4310"
+  ],
+  "issn-type": [
+    {
+      "value": "2226-4310",
+      "type": "electronic"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2026,
+        2,
+        24
+      ]
+    ]
+  }
+}

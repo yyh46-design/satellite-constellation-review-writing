@@ -1,0 +1,22 @@
+{
+  "title": "ELVO-Based Autonomous Satellite Collision Avoidance with Multiple Debris",
+  "aliases": [],
+  "identifier_aliases": [],
+  "authors_as_read": "Ziyao Li; Hongchao Li; Chanying Li",
+  "bibliographic_year": 2025,
+  "identifier": "10.3390/aerospace12050402",
+  "actual_arxiv_version": null,
+  "actual_version": "Aerospace 12(5):402，2025-05-01出版，21物理页。",
+  "source_sha256": "77d44a6f9f2f9acd6a88871456c3655b14635aa0ec54141a8a186818cad3b3b3",
+  "source_format": "PDF",
+  "primary_url": "https://doi.org/10.3390/aerospace12050402",
+  "human_verified": false,
+  "formal_version_text_compared": false,
+  "adoption_status": "candidate_after_human_review",
+  "source_issues": [
+    "reference8 dairy-yield forecasting unrelated to optical debris sensing",
+    "Gaussian-tail confidence margins not deterministic bounded errors"
+  ],
+  "source_issues_resolved": false,
+  "crossref_file": "S056_CROSSREF.json"
+}

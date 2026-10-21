@@ -1,0 +1,31 @@
+{
+  "title": "NASA’s Starling Mission and Space Situational Awareness Implications",
+  "aliases": [],
+  "identifier_aliases": [],
+  "authors_as_read": "Roger C. Hunter; Elwood F. Agasid; Samson Phan; Nathan A. Benz; Scott T. Miller; Caleb A. Adams; Brian C. Kempa; Jeremy D. Frank; Michael J. Iatauro; Justin Kruger; Simone D’Amico; Julianna L. Fishman; Sasha V. Weston",
+  "bibliographic_year": 2025,
+  "identifier": "AMOS2025:Starling-SSA",
+  "actual_arxiv_version": null,
+  "actual_version": "AMOS 2025会议论文，由作者Justin Kruger网站提供18页PDF；正文以各试验截止日为准，不作2026年任务最新状态。",
+  "source_sha256": "eaf946d16eb7e2e090eddd586e453d98efdc2525a164e93e6ae1b89bb1e7e4d3",
+  "source_format": "PDF",
+  "primary_url": "https://justin.zone/starling_amos_2025.pdf",
+  "human_verified": false,
+  "formal_version_text_compared": false,
+  "adoption_status": "candidate_after_human_review",
+  "source_issues": [
+    "13 of16 versus stated86.7percent denominator unexplained",
+    "2024 completion summary versus November2024 one-spacecraft maneuver",
+    "p12-13 correct/incorrect match inequality overlap",
+    "DSA summary trajectory claim stronger than channel/hardware evidence"
+  ],
+  "source_issues_resolved": false,
+  "research_line": "Starling",
+  "related_batch_records": [
+    "S054",
+    "S057",
+    "S058"
+  ],
+  "relation_note": "Three distinct reports of one mission; overlapping data and demonstrations must not be pooled as independent trials",
+  "independent_mission_lines_among_reports": 1
+}

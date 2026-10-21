@@ -1,0 +1,275 @@
+{
+  "selected_source_ids": [
+    "S051",
+    "S052",
+    "S053",
+    "S054",
+    "S055",
+    "S056",
+    "S057",
+    "S058",
+    "S059",
+    "S060"
+  ],
+  "successful_or_last_attempt_records": [
+    {
+      "id": "S051",
+      "status": "pdf_acquired",
+      "url": "https://elib.dlr.de/217352/1/manuscript_accepted.pdf",
+      "path": "D:\\SKT727\\materials\\constellation_review_B18_20261021\\S051.pdf",
+      "acquisition_note": "Validated complete PDF saved in initial acquisition; initial multi-download process interrupted after these complete files were saved. HTTP response headers were not retained.",
+      "sha256": "bbce4e1de543a4d6499d60597fa54f343c44fdca3c155c8e2e3678436953e72d",
+      "pages": 36,
+      "bytes": 3176380,
+      "characters": 89188,
+      "extracted_pages_path": "D:\\SKT727\\materials\\constellation_review_B18_20261021\\S051_pages.json",
+      "extracted_pages_sha256": "f4ac46e77d5301bcd5f2b596dbdaf56a73bf0b35c8b20b2d32db3700ca9109ff"
+    },
+    {
+      "id": "S052",
+      "status": "pdf_acquired",
+      "url": "https://mdpi-res.com/d_attachment/aerospace/aerospace-13-00207/article_deploy/aerospace-13-00207.pdf",
+      "path": "D:\\SKT727\\materials\\constellation_review_B18_20261021\\S052.pdf",
+      "sha256": "4877f9de344851fae86e39b9386b6fd52d4d9924bc576d98502c786c99b1d954",
+      "bytes": 12205973,
+      "pages": 26,
+      "characters": 52061,
+      "acquisition_note": "initial transfer timed out after 150s at 5537792/12205973 bytes; public HTTP range resume completed",
+      "attempts": [],
+      "extracted_pages_path": "D:\\SKT727\\materials\\constellation_review_B18_20261021\\S052_pages.json",
+      "extracted_pages_sha256": "ed6c3f9bee34f9431f9c1a74bfd1467948a0d7b06b5ca71c67d2fb134e0a374f"
+    },
+    {
+      "id": "S053",
+      "status": "pdf_acquired",
+      "url": "https://proceedings.nips.cc/paper_files/paper/2025/file/47390393b2dfa57d9b3b55466d27bad8-Paper-Conference.pdf",
+      "path": "D:\\SKT727\\materials\\constellation_review_B18_20261021\\S053.pdf",
+      "sha256": "41b0b063cbc197ee1eebde91d8299d2e1b23510f7ed2a4cf10e95b10a268fb90",
+      "bytes": 2441270,
+      "pages": 73,
+      "characters": 206275,
+      "elapsed_seconds": 73.1,
+      "attempts": [],
+      "extracted_pages_path": "D:\\SKT727\\materials\\constellation_review_B18_20261021\\S053_pages.json",
+      "extracted_pages_sha256": "aaba2edfe64b6c0a96432b0a1f753b641d72d78d58fe8d739fca27f93deaff9e"
+    },
+    {
+      "id": "S054",
+      "status": "pdf_acquired",
+      "url": "https://ntrs.nasa.gov/api/citations/20240006994/downloads/SSC24_Starling_Swarm_Flight_Results.pdf",
+      "path": "D:\\SKT727\\materials\\constellation_review_B18_20261021\\S054.pdf",
+      "acquisition_note": "Validated complete PDF saved in initial acquisition; initial multi-download process interrupted after these complete files were saved. HTTP response headers were not retained.",
+      "sha256": "59d276712b31cfd8d3af07d9c182c90bc25d402b1541a168fdc3292d36c70256",
+      "pages": 13,
+      "bytes": 1349011,
+      "characters": 50081,
+      "extracted_pages_path": "D:\\SKT727\\materials\\constellation_review_B18_20261021\\S054_pages.json",
+      "extracted_pages_sha256": "bbc1dba99c76a1ed7b44b8843342fc1d9edc0f3258a62c13e24665447c92918a"
+    },
+    {
+      "id": "S055",
+      "status": "pdf_acquired",
+      "url": "https://mdpi-res.com/d_attachment/sensors/sensors-25-05606/article_deploy/sensors-25-05606.pdf",
+      "path": "D:\\SKT727\\materials\\constellation_review_B18_20261021\\S055.pdf",
+      "sha256": "650a2ad909a783d37bf35bf1099f392171bc848fcadaca91075b8dbfa4bed31d",
+      "bytes": 2714763,
+      "pages": 30,
+      "characters": 71392,
+      "elapsed_seconds": 69.5,
+      "attempts": [],
+      "extracted_pages_path": "D:\\SKT727\\materials\\constellation_review_B18_20261021\\S055_pages.json",
+      "extracted_pages_sha256": "f32ae3e255bd35238fa5e1e4b09866bacd4a9478a7828963a227b1845caf7e33"
+    },
+    {
+      "id": "S056",
+      "status": "pdf_acquired",
+      "url": "https://mdpi-res.com/d_attachment/aerospace/aerospace-12-00402/article_deploy/aerospace-12-00402.pdf",
+      "path": "D:\\SKT727\\materials\\constellation_review_B18_20261021\\S056.pdf",
+      "sha256": "77d44a6f9f2f9acd6a88871456c3655b14635aa0ec54141a8a186818cad3b3b3",
+      "bytes": 847279,
+      "pages": 21,
+      "characters": 53226,
+      "elapsed_seconds": 6.9,
+      "attempts": [],
+      "extracted_pages_path": "D:\\SKT727\\materials\\constellation_review_B18_20261021\\S056_pages.json",
+      "extracted_pages_sha256": "7d73d00f508f128774b37a80468c620767319162f24692e1c716408f32ec7b6b"
+    },
+    {
+      "id": "S057",
+      "status": "pdf_acquired",
+      "url": "https://ntrs.nasa.gov/api/citations/20250007355/downloads/MissionDesign_FlightDynamicsOps_Starling_AS_2025.pdf",
+      "path": "D:\\SKT727\\materials\\constellation_review_B18_20261021\\S057.pdf",
+      "acquisition_note": "Validated complete PDF saved in initial acquisition; initial multi-download process interrupted after these complete files were saved. HTTP response headers were not retained.",
+      "sha256": "bd1ffd361905395bb15c1aeac40fda51f1e177b0116d182533cdeb79386ff7a2",
+      "pages": 15,
+      "bytes": 910322,
+      "characters": 31651,
+      "extracted_pages_path": "D:\\SKT727\\materials\\constellation_review_B18_20261021\\S057_pages.json",
+      "extracted_pages_sha256": "529bac32ceab20273f25c917c87af2a5bc534e8880f982b89597aca44aa08327"
+    },
+    {
+      "id": "S058",
+      "status": "pdf_acquired",
+      "url": "https://justin.zone/starling_amos_2025.pdf",
+      "path": "D:\\SKT727\\materials\\constellation_review_B18_20261021\\S058.pdf",
+      "sha256": "eaf946d16eb7e2e090eddd586e453d98efdc2525a164e93e6ae1b89bb1e7e4d3",
+      "bytes": 3201441,
+      "pages": 18,
+      "characters": 63088,
+      "elapsed_seconds": 90.7,
+      "attempts": [],
+      "extracted_pages_path": "D:\\SKT727\\materials\\constellation_review_B18_20261021\\S058_pages.json",
+      "extracted_pages_sha256": "71029a2614ed0daf3662c4897c720e11a88c8cec7899eeaafcce7a101f3924ed"
+    },
+    {
+      "id": "S059",
+      "status": "pdf_acquired",
+      "url": "https://mdpi-res.com/d_attachment/aerospace/aerospace-12-00067/article_deploy/aerospace-12-00067.pdf",
+      "path": "D:\\SKT727\\materials\\constellation_review_B18_20261021\\S059.pdf",
+      "sha256": "ed215ff9ad3827e57cc43e16d10f4098fda20418c1af92e0fee0d80a01a6b823",
+      "bytes": 11997743,
+      "pages": 23,
+      "characters": 105807,
+      "acquisition_note": "initial transfer timed out after 150s at 6307840/11997743 bytes; public HTTP range resume completed",
+      "attempts": [],
+      "extracted_pages_path": "D:\\SKT727\\materials\\constellation_review_B18_20261021\\S059_pages.json",
+      "extracted_pages_sha256": "3024a468a6509800ec3a532d9657a535a97d371d2cda6dfab11db9c31c3f8449"
+    },
+    {
+      "id": "S060",
+      "status": "pdf_acquired",
+      "url": "https://arxiv.org/pdf/2603.25835",
+      "path": "D:\\SKT727\\materials\\constellation_review_B18_20261021\\S060.pdf",
+      "sha256": "e61e8af62d8cb737fdacaefb2f0d0507bfe4dfe173ebc2ed4d0531cd13392031",
+      "bytes": 3328058,
+      "pages": 16,
+      "characters": 58577,
+      "elapsed_seconds": 30.9,
+      "attempts": [],
+      "extracted_pages_path": "D:\\SKT727\\materials\\constellation_review_B18_20261021\\S060_pages.json",
+      "extracted_pages_sha256": "f34fb3f52bc5b7ce845a36a41fb9398021ab823fd9e9b81d0e1c700ad1dc2e7a"
+    }
+  ],
+  "metadata_attempts": [
+    {
+      "id": "S051",
+      "status": "acquired",
+      "url": "https://api.crossref.org/works/10.2514/1.G009169",
+      "kind": "CROSSREF",
+      "file": "S051_CROSSREF.json"
+    },
+    {
+      "id": "S052",
+      "status": "acquired",
+      "url": "https://api.crossref.org/works/10.3390/aerospace13030207",
+      "kind": "CROSSREF",
+      "file": "S052_CROSSREF.json"
+    },
+    {
+      "id": "S054",
+      "status": "failed",
+      "url": "https://api.crossref.org/works/10.26077/6H4F-R354",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "id": "S055",
+      "status": "acquired",
+      "url": "https://api.crossref.org/works/10.3390/s25175606",
+      "kind": "CROSSREF",
+      "file": "S055_CROSSREF.json"
+    },
+    {
+      "id": "S056",
+      "status": "acquired",
+      "url": "https://api.crossref.org/works/10.3390/aerospace12050402",
+      "kind": "CROSSREF",
+      "file": "S056_CROSSREF.json"
+    },
+    {
+      "id": "S059",
+      "status": "acquired",
+      "url": "https://api.crossref.org/works/10.3390/aerospace12010067",
+      "kind": "CROSSREF",
+      "file": "S059_CROSSREF.json"
+    },
+    {
+      "id": "S054",
+      "status": "acquired",
+      "url": "https://ntrs.nasa.gov/api/citations/20240006994",
+      "kind": "NASA",
+      "file": "S054_NASA.json"
+    },
+    {
+      "id": "S057",
+      "status": "acquired",
+      "url": "https://ntrs.nasa.gov/api/citations/20250007355",
+      "kind": "NASA",
+      "file": "S057_NASA.json"
+    }
+  ],
+  "unselected_candidates": [
+    {
+      "candidate_key": "L004_initial_candidate",
+      "status": "failed",
+      "attempts": [
+        {
+          "url": "https://dspace.mit.edu/bitstream/handle/1721.1/135979/08995735.pdf",
+          "error": "curl: (22) The requested URL returned error: 429"
+        }
+      ],
+      "note": "Initial temporary candidate labels are not final supplement identifiers"
+    },
+    {
+      "candidate_key": "L043_initial_candidate",
+      "status": "failed",
+      "attempts": [
+        {
+          "url": "https://re.public.polimi.it/bitstream/11311/1221750/11/DEVIA_OA_02-22.pdf",
+          "error": "curl: (22) The requested URL returned error: 403"
+        }
+      ],
+      "note": "Initial temporary candidate labels are not final supplement identifiers"
+    },
+    {
+      "candidate_key": "S055_initial_candidate",
+      "status": "failed",
+      "attempts": [
+        {
+          "url": "https://digitalcommons.usu.edu/cgi/viewcontent.cgi?article=6268&context=smallsat",
+          "error": "curl: (22) The requested URL returned error: 403"
+        }
+      ],
+      "note": "Initial temporary candidate labels are not final supplement identifiers"
+    },
+    {
+      "candidate_key": "S056_initial_candidate",
+      "status": "failed",
+      "attempts": [
+        {
+          "url": "https://www.sciencedirect.com/science/article/pii/S0094576525002383/pdf",
+          "error": "curl: (22) The requested URL returned error: 403"
+        }
+      ],
+      "note": "Initial temporary candidate labels are not final supplement identifiers"
+    },
+    {
+      "candidate_key": "L049_cached_HTML",
+      "status": "invalid_source",
+      "path": "D:\\SKT727\\materials\\constellation_review_B12_20261020\\L049.pdf",
+      "note": "Header is HTML, not PDF; no close-reading credit"
+    },
+    {
+      "candidate_key": "SNET_prior_read",
+      "status": "duplicate_excluded",
+      "prior_source_id": "E-B11-L012",
+      "doi": "10.1007/s12567-025-00630-x"
+    }
+  ],
+  "notes": [
+    "All10 selected files validated as complete PDFs,271 physical pages; narrative scope per source.",
+    "30s/150s partial downloads were not counted; S052/S059 completed by ordinary public HTTP range resumption.",
+    "Initial S055 label referred to blocked Starling1.5 paper; final S055 is Sensors DOI paper. Initial S056 BEESAT candidate was blocked; final S056 is ELVO. Candidate labels are not version substitutions.",
+    "S051/S054 initial downloader was interrupted after complete files were saved; no lost HTTP headers reconstructed.",
+    "Source PDFs/extractions/page images remain outside Git; original Chinese notes/locators/metadata/hashes are committed."
+  ]
+}

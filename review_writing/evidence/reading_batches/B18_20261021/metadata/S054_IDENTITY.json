@@ -1,0 +1,33 @@
+{
+  "title": "Starling CubeSat Swarm Technology Demonstration Flight Results",
+  "aliases": [],
+  "identifier_aliases": [
+    "SSC24-I-06",
+    "10.26077/6H4F-R354"
+  ],
+  "authors_as_read": "Scott Miller; Caleb Adams; Nahum Alem; Howard Cannon; Randy Grashuis; Ted Hendriks; Soon Hwang; Michael Iatauro; Craig Pires; Justin Kruger; Simone D’Amico",
+  "bibliographic_year": 2024,
+  "identifier": "NASA:20240006994",
+  "actual_arxiv_version": null,
+  "actual_version": "NASA NTRS会议稿SSC24-I-06，38th Annual Small Satellite Conference，13物理页。",
+  "source_sha256": "59d276712b31cfd8d3af07d9c182c90bc25d402b1541a168fdc3292d36c70256",
+  "source_format": "PDF",
+  "primary_url": "https://ntrs.nasa.gov/citations/20240006994",
+  "human_verified": false,
+  "formal_version_text_compared": false,
+  "adoption_status": "candidate_after_human_review",
+  "source_issues": [
+    "Mode4 ground replay versus broad all-mode flight wording",
+    "p11 date conflict in 2024 conference report"
+  ],
+  "source_issues_resolved": false,
+  "institution_metadata_file": "S054_NASA.json",
+  "research_line": "Starling",
+  "related_batch_records": [
+    "S054",
+    "S057",
+    "S058"
+  ],
+  "relation_note": "Three distinct reports of one mission; overlapping data and demonstrations must not be pooled as independent trials",
+  "independent_mission_lines_among_reports": 1
+}

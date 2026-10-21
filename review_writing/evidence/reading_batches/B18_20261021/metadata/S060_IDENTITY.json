@@ -1,0 +1,26 @@
+{
+  "title": "Starlink Constellation: Deployment, Configuration, and Dynamics",
+  "aliases": [],
+  "identifier_aliases": [],
+  "authors_as_read": "Muaz Ali; Utkarsh Upadhyay; Sean McCormick; Joseph Hill; Beichuan Zhang",
+  "bibliographic_year": 2026,
+  "identifier": "arXiv:2603.25835v1",
+  "actual_arxiv_version": "2603.25835v1",
+  "actual_version": "arXiv v1，2026-03-26，16物理页；末页为空白。",
+  "source_sha256": "e61e8af62d8cb737fdacaefb2f0d0507bfe4dfe173ebc2ed4d0531cd13392031",
+  "source_format": "PDF",
+  "primary_url": "https://arxiv.org/abs/2603.25835v1",
+  "human_verified": false,
+  "formal_version_text_compared": false,
+  "adoption_status": "candidate_after_human_review",
+  "source_issues": [
+    "TLE deorbit events do not isolate hardware failures",
+    "conjunction-window association not confirmed maneuver intent",
+    "p11 delay-increase percentage denominator inconsistent"
+  ],
+  "source_issues_resolved": false,
+  "unversioned_acquisition_url": true,
+  "actual_version_pinned_from_PDF_header": "2603.25835v1",
+  "failure_rate_adoption": "HOLD",
+  "causal_avoidance_fraction_adoption": "HOLD"
+}

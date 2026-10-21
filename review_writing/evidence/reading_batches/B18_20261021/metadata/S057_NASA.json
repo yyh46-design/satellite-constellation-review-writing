@@ -1,0 +1,212 @@
+{
+  "copyright": {
+    "disclosedInvention": false,
+    "submissionId": 20250007355,
+    "containsThirdPartyMaterial": false,
+    "containsIndication": false,
+    "belongsToPublisher": false,
+    "id": "6ae75132eb6e4412b716960cb14c9af9",
+    "belongsToUsGov": false,
+    "determinationType": "PUBLIC_USE_PERMITTED",
+    "thirdPartyContentCondition": "NOT_SET",
+    "belongsToContractor": false,
+    "belongsToAuthors": false
+  },
+  "subjectCategories": [
+    "Astrodynamics"
+  ],
+  "exportControl": {
+    "isExportControl": "NO",
+    "submissionId": 20250007355,
+    "ear": "NO",
+    "id": "8273674efe8f43f189ddabc295c428c2",
+    "itar": "NO"
+  },
+  "distributionDate": "2025-08-10T07:00:00.0000000+00:00",
+  "fundingNumbers": [
+    {
+      "number": "875293.07.11.01.21",
+      "submissionId": 20250007355,
+      "id": "dd0bf51a90574ff48f6d39c19b41db40",
+      "type": "WBS"
+    }
+  ],
+  "title": "Mission Design and Flight Dynamics Operations for the Starling Swarm Technology Demonstration",
+  "stiType": "CONFERENCE_PAPER",
+  "distribution": "PUBLIC",
+  "submittedDate": "2025-07-23T16:30:43.7271660+00:00",
+  "authorAffiliations": [
+    {
+      "organizationId": "7f9c4cf9cb6f517db6b0fb40eb584c03",
+      "sequence": 0,
+      "submissionId": 20250007355,
+      "meta": {
+        "author": {
+          "orcidId": "",
+          "name": "Nahum Alem"
+        },
+        "organization": {
+          "name": "Ames Research Center",
+          "location": "Mountain View, United States"
+        }
+      },
+      "id": "522ba21a1a694d3c9475b063a2f1bc58",
+      "userType": "CIVIL",
+      "userId": "dd1d9a4992914d03b67b767d9489fb0b"
+    },
+    {
+      "organizationId": "89d60f38643941adb3616883e9c4644b",
+      "sequence": 1,
+      "submissionId": 20250007355,
+      "meta": {
+        "author": {
+          "orcidId": "",
+          "name": "Theodore G Hendriks"
+        },
+        "organization": {
+          "name": "Metis Technology Solutions, Inc.",
+          "location": "Albuquerque, NM"
+        }
+      },
+      "id": "b16b25943c5143a18c3e9b761af33c2b",
+      "userType": "CONTRACTOR_GRANTEE",
+      "userId": "c4d5d1749168489cbb98f954377f5356"
+    },
+    {
+      "organizationId": "a18459769ae047c9b78cefccef328263",
+      "sequence": 2,
+      "submissionId": 20250007355,
+      "meta": {
+        "author": {
+          "orcidId": "",
+          "name": "Jose L Alvarellos"
+        },
+        "organization": {
+          "name": "ASRC Federal Data Solutions, LLC",
+          "location": "Mountain View, CA, USA"
+        }
+      },
+      "id": "da6c81cb05784aa5ba9ee47d9ef9b973",
+      "userType": "CONTRACTOR_GRANTEE",
+      "userId": "b2d8a9af29564661ab153b28487d44ea"
+    },
+    {
+      "organizationId": "7f9c4cf9cb6f517db6b0fb40eb584c03",
+      "sequence": 3,
+      "submissionId": 20250007355,
+      "meta": {
+        "author": {
+          "name": "Paul G Levinson-Muth"
+        },
+        "organization": {
+          "name": "Ames Research Center",
+          "location": "Mountain View, United States"
+        }
+      },
+      "id": "24c616870c95412aa019f39298cd25b2",
+      "userType": "CIVIL",
+      "userId": "24b2f63263e94baca87e5a4c4978a5de"
+    },
+    {
+      "organizationId": "808efd1df76143cebae047a83092199f",
+      "sequence": 4,
+      "submissionId": 20250007355,
+      "meta": {
+        "author": {
+          "orcidId": "",
+          "name": "Andres Dono"
+        },
+        "organization": {
+          "name": "Astrion (United States)",
+          "location": "Washington, United States"
+        }
+      },
+      "id": "44c8219d2ceb4a2bb5791c9783a493e8",
+      "userType": "CONTRACTOR_GRANTEE",
+      "userId": "bfb531467d354911a539b4a7e628e5d3"
+    }
+  ],
+  "stiTypeDetails": "Conference Paper",
+  "technicalReviewType": "NASA_PEER_COMMITTEE",
+  "modified": "2025-08-31T18:39:21.7150190+00:00",
+  "id": 20250007355,
+  "created": "2025-07-23T16:20:26.8028010+00:00",
+  "center": {
+    "code": "ARC",
+    "name": "Ames Research Center",
+    "id": "4540cd94d24c4bf29f8773a27faf96b2"
+  },
+  "onlyAbstract": false,
+  "sensitiveInformation": 2,
+  "abstract": "The NASA Starling mission, launched in July 2023, represents a significant advancement in demonstrating the capabilities of small satellite swarms to operate autonomously in low Earth orbit (LEO). Starling, which consists of four 6U CubeSats, has validated critical technologies necessary for future multi-satellite missions, including autonomous formation flying and optical-based navigation. The mission successfully maintained precise formations using GPS-based orbit determination and the Starling Flight Dynamics System (FDS) to manage maneuvers and ensure operational success. This abstract provides a comprehensive overview of the Starling’s flight dynamics, covering formation requirements, orbit determination, maneuver planning, and operational tools.",
+  "isLessonsLearned": true,
+  "disseminated": "DOCUMENT_AND_METADATA",
+  "cui": {
+    "isCui": false,
+    "submissionId": 20250007355,
+    "id": "d8023a17cf6841e58e1dbd4f768b130e"
+  },
+  "meetings": [
+    {
+      "country": "US",
+      "submissionId": 20250007355,
+      "endDate": "2025-08-14T07:00:00.0000000+00:00",
+      "sponsors": [
+        {
+          "organizationId": "71fb4af96d4a59b5a0a2084db7b4ce35",
+          "meta": {
+            "organization": {
+              "name": "American Institute of Aeronautics and Astronautics",
+              "location": "Reston, United States"
+            }
+          },
+          "meetingId": "a42b10e5a5c04900b1b920efbe848944",
+          "id": "8349e8df3b7d45d7afc04a55a31e3264"
+        },
+        {
+          "organizationId": "8f0b2d06f40f562aa1db2c42c5c2f80d",
+          "meta": {
+            "organization": {
+              "name": "American Astronautical Society",
+              "location": "Springfield, United States"
+            }
+          },
+          "meetingId": "a42b10e5a5c04900b1b920efbe848944",
+          "id": "09aff28d2d5d43a69488c152aff37b42"
+        }
+      ],
+      "name": "AAS/AIAA Astrodynamics Specialist Conference",
+      "location": "Boston, MA",
+      "id": "a42b10e5a5c04900b1b920efbe848944",
+      "url": "https://www.space-flight.org/docs/2025_summer/2025_summer.html",
+      "startDate": "2025-08-10T07:00:00.0000000+00:00"
+    }
+  ],
+  "status": "CURATED",
+  "related": [
+    {
+      "disseminated": "DOCUMENT_AND_METADATA",
+      "id": 20250003735,
+      "type": "SEE_ALSO",
+      "title": "Mission Design and Flight Dynamics Operations for the Starling Swarm Technology Demonstration",
+      "stiType": "EXTENDED_ABSTRACT",
+      "distribution": "PUBLIC",
+      "status": "CURATED"
+    }
+  ],
+  "downloads": [
+    {
+      "draft": false,
+      "mimetype": "application/pdf",
+      "name": "MissionDesign_FlightDynamicsOps_Starling_AS_2025.pdf",
+      "type": "STI",
+      "links": {
+        "original": "/api/citations/20250007355/downloads/MissionDesign_FlightDynamicsOps_Starling_AS_2025.pdf",
+        "pdf": "/api/citations/20250007355/downloads/MissionDesign_FlightDynamicsOps_Starling_AS_2025.pdf",
+        "fulltext": "/api/citations/20250007355/downloads/MissionDesign_FlightDynamicsOps_Starling_AS_2025.pdf.txt"
+      }
+    }
+  ],
+  "downloadsAvailable": true,
+  "index": "submissions-2026-10-15-05-24"
+}

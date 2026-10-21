@@ -1,0 +1,23 @@
+{
+  "title": "Autonomous Control of Satellite Swarms Using Minimal Vision-Based Behavioral Control",
+  "aliases": [],
+  "identifier_aliases": [],
+  "authors_as_read": "Marco Sabatini",
+  "bibliographic_year": 2026,
+  "identifier": "10.3390/aerospace13030207",
+  "actual_arxiv_version": null,
+  "actual_version": "Aerospace 13(3):207，2026-02-24出版，26物理页。",
+  "source_sha256": "4877f9de344851fae86e39b9386b6fd52d4d9924bc576d98502c786c99b1d954",
+  "source_format": "PDF",
+  "primary_url": "https://doi.org/10.3390/aerospace13030207",
+  "human_verified": false,
+  "formal_version_text_compared": false,
+  "adoption_status": "candidate_after_human_review",
+  "source_issues": [
+    "p23 30percent versus Fig31 35percent noise",
+    "20-spacecraft setup versus ten-spacecraft figure captions",
+    "visible-pair transient plot does not support blanket always-100m claim"
+  ],
+  "source_issues_resolved": false,
+  "crossref_file": "S052_CROSSREF.json"
+}

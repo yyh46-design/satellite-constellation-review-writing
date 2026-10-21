@@ -1,0 +1,328 @@
+{
+  "copyright": {
+    "thirdPartyPermissionsProduced": false,
+    "disclosedToPublic": false,
+    "containsIndication": false,
+    "publisherPermissionOrRightsToDistribute": false,
+    "belongsToUsGov": false,
+    "determinationType": "GOV_PERMITTED",
+    "thirdPartyContentCondition": "NOT_SET",
+    "belongsToContractor": false,
+    "disclosedInvention": false,
+    "submissionId": 20240006994,
+    "containsThirdPartyMaterial": false,
+    "belongsToPublisher": false,
+    "id": "25b15160ab4e430a804f9625ee1fa050",
+    "belongsToAuthors": false
+  },
+  "subjectCategories": [
+    "Spacecraft Design, Testing and Performance"
+  ],
+  "keywords": [
+    "distributed systems",
+    "swarms",
+    "technology demonstration"
+  ],
+  "exportControl": {
+    "isExportControl": "NO",
+    "submissionId": 20240006994,
+    "ear": "NO",
+    "id": "5f4bc6216ba44116a5ac4b46a13c13ea",
+    "itar": "NO"
+  },
+  "distributionDate": "2024-08-03T07:00:00.0000000+00:00",
+  "otherReportNumbers": [
+    "SSC24-I-06"
+  ],
+  "fundingNumbers": [
+    {
+      "number": "80NSSC18M0058",
+      "submissionId": 20240006994,
+      "id": "9b94b7bea53b448abe7cfb4173018839",
+      "type": "CONTRACT_GRANT"
+    },
+    {
+      "number": "80ARC020D0010",
+      "submissionId": 20240006994,
+      "id": "10914fec6db542a3be00c2218d03c7c4",
+      "type": "CONTRACT_GRANT"
+    },
+    {
+      "number": "80ARC021D0001",
+      "submissionId": 20240006994,
+      "id": "471b254327784117a7725ff72c0c1f1a",
+      "type": "CONTRACT_GRANT"
+    }
+  ],
+  "submittedDate": "2024-06-05T06:07:34.1680770+00:00",
+  "title": "Smallsat 2024 - Starling Cubesat Swarm Technology Demonstration Flight Results",
+  "stiType": "CONFERENCE_PAPER",
+  "distribution": "PUBLIC",
+  "authorAffiliations": [
+    {
+      "organizationId": "7f9c4cf9cb6f517db6b0fb40eb584c03",
+      "sequence": 0,
+      "submissionId": 20240006994,
+      "meta": {
+        "author": {
+          "name": "Scott Miller"
+        },
+        "organization": {
+          "name": "Ames Research Center",
+          "location": "Mountain View, United States"
+        }
+      },
+      "id": "226fd33166b548318263cdea7d23e2a8",
+      "userType": "OTHER"
+    },
+    {
+      "organizationId": "7f9c4cf9cb6f517db6b0fb40eb584c03",
+      "sequence": 1,
+      "submissionId": 20240006994,
+      "meta": {
+        "author": {
+          "name": "Caleb Adams"
+        },
+        "organization": {
+          "name": "Ames Research Center",
+          "location": "Mountain View, United States"
+        }
+      },
+      "id": "2e157022ccf041829a720eb76941ce93",
+      "userType": "CIVIL",
+      "userId": "b5ea0d4c87dd474e866f881ef80aa7f4"
+    },
+    {
+      "organizationId": "7f9c4cf9cb6f517db6b0fb40eb584c03",
+      "sequence": 2,
+      "submissionId": 20240006994,
+      "meta": {
+        "author": {
+          "orcidId": "",
+          "name": "Nahum Alem"
+        },
+        "organization": {
+          "name": "Ames Research Center",
+          "location": "Mountain View, United States"
+        }
+      },
+      "id": "4230d771866d4613b946355c4a66f635",
+      "userType": "CIVIL",
+      "userId": "dd1d9a4992914d03b67b767d9489fb0b"
+    },
+    {
+      "organizationId": "7f9c4cf9cb6f517db6b0fb40eb584c03",
+      "sequence": 3,
+      "submissionId": 20240006994,
+      "meta": {
+        "author": {
+          "orcidId": "",
+          "name": "Howard Cannon"
+        },
+        "organization": {
+          "name": "Ames Research Center",
+          "location": "Mountain View, United States"
+        }
+      },
+      "id": "865d6e6e3e0044dcbd9f697d26e93a44",
+      "userType": "CIVIL",
+      "userId": "8fa51c5b7a6048f9b56cd59fab845876"
+    },
+    {
+      "organizationId": "00a2a0542f9451ffac4b0aa2053787b3",
+      "sequence": 4,
+      "submissionId": 20240006994,
+      "meta": {
+        "author": {
+          "orcidId": "",
+          "name": "Randy Grashuis"
+        },
+        "organization": {
+          "name": "Wyle (United States)",
+          "location": "El Segundo, California, United States"
+        }
+      },
+      "id": "38627cfaf93b44e3b22800c7d54dd764",
+      "userType": "CONTRACTOR_GRANTEE",
+      "userId": "ea75869aa0d5489b833a5b68d36dfdc3"
+    },
+    {
+      "organizationId": "5a078aec66f45971ad414409688d6379",
+      "sequence": 5,
+      "submissionId": 20240006994,
+      "meta": {
+        "author": {
+          "orcidId": "",
+          "name": "Ted Hendriks"
+        },
+        "organization": {
+          "name": "Millennium Engineering and Integration (United States)",
+          "location": "Arlington, Virginia, United States"
+        }
+      },
+      "id": "3465ae7ce4684007affeaaf3173010a8",
+      "userType": "CONTRACTOR_GRANTEE",
+      "userId": "c4d5d1749168489cbb98f954377f5356"
+    },
+    {
+      "organizationId": "7f9c4cf9cb6f517db6b0fb40eb584c03",
+      "sequence": 6,
+      "submissionId": 20240006994,
+      "meta": {
+        "author": {
+          "orcidId": "",
+          "name": "Soon Hwang"
+        },
+        "organization": {
+          "name": "Ames Research Center",
+          "location": "Mountain View, United States"
+        }
+      },
+      "id": "6b766c692b3740648cf02a77252ea449",
+      "userType": "CIVIL",
+      "userId": "1320ee33f319448cb5c8d4109e7ee426"
+    },
+    {
+      "organizationId": "7f9c4cf9cb6f517db6b0fb40eb584c03",
+      "sequence": 7,
+      "submissionId": 20240006994,
+      "meta": {
+        "author": {
+          "orcidId": "",
+          "name": "Michael Iatauro"
+        },
+        "organization": {
+          "name": "Ames Research Center",
+          "location": "Mountain View, United States"
+        }
+      },
+      "id": "8e7ca887afd8453ca1d0cb7ee3e99702",
+      "userType": "CIVIL",
+      "userId": "3a9fe90aab8e42269d5b81069c50a42a"
+    },
+    {
+      "organizationId": "7f9c4cf9cb6f517db6b0fb40eb584c03",
+      "sequence": 8,
+      "submissionId": 20240006994,
+      "meta": {
+        "author": {
+          "orcidId": "",
+          "name": "Craig Pires"
+        },
+        "organization": {
+          "name": "Ames Research Center",
+          "location": "Mountain View, United States"
+        }
+      },
+      "id": "9676e948cfdb47929f873c8cbf3c2951",
+      "userType": "CIVIL",
+      "userId": "22d77ddfea2745f0824ae3df3c1bc3b0"
+    },
+    {
+      "organizationId": "3ec768e8aaa45b4fb0f550314046db80",
+      "sequence": 9,
+      "submissionId": 20240006994,
+      "meta": {
+        "author": {
+          "name": "Justin Kruger"
+        },
+        "organization": {
+          "name": "Stanford University",
+          "location": "Stanford, United States"
+        }
+      },
+      "id": "963b2fccd5f8480a80ae091ebbdaca2e",
+      "userType": "OTHER",
+      "userId": "d1b1174debee47219479e5add74db506"
+    },
+    {
+      "organizationId": "3ec768e8aaa45b4fb0f550314046db80",
+      "sequence": 10,
+      "submissionId": 20240006994,
+      "meta": {
+        "author": {
+          "name": "Simone D' Amico"
+        },
+        "organization": {
+          "name": "Stanford University",
+          "location": "Stanford, United States"
+        }
+      },
+      "id": "255719db700e4c939e110e45fb72fb75",
+      "userType": "OTHER"
+    }
+  ],
+  "stiTypeDetails": "Conference Paper",
+  "technicalReviewType": "NASA_PEER_COMMITTEE",
+  "modified": "2025-08-31T18:39:21.7150190+00:00",
+  "id": 20240006994,
+  "created": "2024-05-30T20:47:07.8964670+00:00",
+  "center": {
+    "code": "ARC",
+    "name": "Ames Research Center",
+    "id": "4540cd94d24c4bf29f8773a27faf96b2"
+  },
+  "onlyAbstract": false,
+  "sensitiveInformation": 2,
+  "abstract": "The Starling swarm of four 6U CubeSats launched in July 2023 to test four key technologies to enable future swarm missions:\n1) Mobile Ad-Hoc Networking (MANET) over a crosslink radio network\n2) Autonomous onboard decision-making for operations\n3) Optical-based absolute and relative navigation\n4) Autonomous maneuver planning and execution\nThe Starling team implemented the Better Approach to Mobile Ad-hoc Networking (B.A.T.M.A.N.) protocol to automatically manage the crosslink network of four satellites. The B.A.T.M.A.N. protocol uses a decentralized approach to managing a multi-hop mesh network of devices, in this case, a satellite swarm. The four satellites were able to successfully establish a network at multiple data rates and demonstrate file transfer and command issuance between spacecraft over the network.\nStarling incorporated Distributed Spacecraft Autonomy's (DSA) software to demonstrate onboard decision-making. The DSA software takes L1/L2 band GPS measurements and uses them to estimate the relative Total Electron Count (TEC) in the ionosphere. The onboard software then determines if there are any features of interest and provides that information to the other satellites over the crosslink network. The swarm of satellites then reaches a consensus on the optimal TEC observation strategy and adjusts its measurement collection tactics autonomously.\nThe Starling Formation-Flying Optical Experiment (StarFOX), produced by Stanford's Space Rendezvous Laboratory, uses the onboard star trackers to collect images of the other swarm spacecraft and produce angles-only navigation estimates. This system is envisioned to be valuable in applications in which Global Navigation Satellite Systems (GNSS) are not available, such as in cis-lunar or deep space. StarFOX successfully applied its algorithms to multiple simultaneous spacecraft targets using the star tracker imagery.\nFinally, Starling used Emergent Space's Cluster Flight Application (CFA) software suite for the Reconfiguration and Orbit Maintenance Experiments Onboard (ROMEO) demonstration of autonomously planning and executing propulsive maneuvers. Large swarms will need to be able to maintain formation requirements with minimal operator involvement, especially as the size of the swarm scales up. Results from the ROMEO experiment are presented.\nStarling is funded by the Small Spacecraft Technology (SST) program out of NASA's Space Technology Mission Directorate (STMD).",
+  "isLessonsLearned": false,
+  "disseminated": "DOCUMENT_AND_METADATA",
+  "cui": {
+    "isCui": false,
+    "submissionId": 20240006994,
+    "id": "811e8ad7ff0340bda4eaecda25e09d86"
+  },
+  "meetings": [
+    {
+      "country": "US",
+      "submissionId": 20240006994,
+      "endDate": "2024-08-08T07:00:00.0000000+00:00",
+      "sponsors": [
+        {
+          "organizationId": "985c4ef7f20157459c93bed7a92b0dbe",
+          "meta": {
+            "organization": {
+              "name": "Utah State University",
+              "location": "Logan, United States"
+            }
+          },
+          "meetingId": "32612b40fc794718a11ddff064d9f1bc",
+          "id": "3ca2ee877b984db4b82c8ba203b26869"
+        }
+      ],
+      "name": "38th Annual Small Satellite Conference",
+      "location": "Logan, UT",
+      "id": "32612b40fc794718a11ddff064d9f1bc",
+      "url": "https://smallsat.org/",
+      "startDate": "2024-08-03T07:00:00.0000000+00:00"
+    }
+  ],
+  "status": "CURATED",
+  "publications": [
+    {
+      "volume": "SSC24",
+      "submissionId": 20240006994,
+      "publisher": "Small Satellite Conference",
+      "id": "f1e0f60a3f2b40fb81df89fa6830d72a",
+      "publicationName": "Proceedings of the 38th Annual Small Satellite Conference",
+      "publicationDate": "2024-06-10T07:00:00.0000000+00:00",
+      "url": "https://digitalcommons.usu.edu/smallsat/"
+    }
+  ],
+  "related": [],
+  "downloads": [
+    {
+      "draft": false,
+      "mimetype": "application/pdf",
+      "name": "SSC24_Starling_Swarm_Flight_Results.pdf",
+      "type": "STI",
+      "links": {
+        "original": "/api/citations/20240006994/downloads/SSC24_Starling_Swarm_Flight_Results.pdf",
+        "pdf": "/api/citations/20240006994/downloads/SSC24_Starling_Swarm_Flight_Results.pdf",
+        "fulltext": "/api/citations/20240006994/downloads/SSC24_Starling_Swarm_Flight_Results.pdf.txt"
+      }
+    }
+  ],
+  "downloadsAvailable": true,
+  "index": "submissions-2026-10-15-05-24"
+}

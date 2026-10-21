@@ -1,0 +1,27 @@
+{
+  "title": "OrbitZoo: Real Orbital Systems Challenges for Reinforcement Learning",
+  "aliases": [],
+  "identifier_aliases": [
+    "2504.04160"
+  ],
+  "authors_as_read": "Alexandre Oliveira; Katarina Dyreby; Francisco Caldas; Cláudia Soares",
+  "bibliographic_year": 2025,
+  "identifier": "NeurIPS2025:47390393b2dfa57d9b3b55466d27bad8",
+  "actual_arxiv_version": null,
+  "actual_version": "NeurIPS 2025正式会议PDF，73物理页含附录和检查表；关联arXiv:2504.04160各版本未逐页比较。",
+  "source_sha256": "41b0b063cbc197ee1eebde91d8299d2e1b23510f7ed2a4cf10e95b10a268fb90",
+  "source_format": "PDF",
+  "primary_url": "https://proceedings.nips.cc/paper_files/paper/2025/file/47390393b2dfa57d9b3b55466d27bad8-Paper-Conference.pdf",
+  "human_verified": false,
+  "formal_version_text_compared": false,
+  "adoption_status": "candidate_after_human_review",
+  "source_issues": [
+    "ephemeris parameter fitting is not independent orbital truth validation",
+    "10000-body propagation benchmark versus four-agent GEO policies",
+    "abstract MAPE versus body grouped RMSE"
+  ],
+  "source_issues_resolved": false,
+  "actual_body_read": "formal NeurIPS proceedings PDF",
+  "related_arxiv_base_id": "2504.04160",
+  "arxiv_versions_text_compared": false
+}

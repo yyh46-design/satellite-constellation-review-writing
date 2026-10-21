@@ -1,0 +1,27 @@
+{
+  "status": "PASS",
+  "batch": "B18_20261021",
+  "sources": 10,
+  "claims": 50,
+  "pdf_pages": 271,
+  "local_original_source_hashes_checked": 10,
+  "local_visual_hashes_checked": 46,
+  "missing_local_files": [],
+  "original80_pool_after_batch": {
+    "close_read": 20,
+    "not_close_read": 60
+  },
+  "separate_topic_supplements_cumulative": 60,
+  "B11_through_B18_close_read_records": 80,
+  "prior_B11_through_B17_inherited_files_unchanged": 270,
+  "prior_source_records_rechecked": 70,
+  "dedup_register_hashes_rechecked": 4,
+  "dedup_registers_not_available": [],
+  "held_from_scientific_adoption": [],
+  "specific_statement_holds_preserved": true,
+  "shared_flight_research_line_preserved": true,
+  "manuscript_sha256_unchanged": "c9d1af6f12d412897a1434ddf082101b2db7491274fb0425896a3f01c7db5a15",
+  "outside_batch_tracked_changes": [],
+  "human_verified": false,
+  "scope": "File identity, locators, links, counting and change scope only; no scientific correctness, formal proof or experiment reproduction certificate"
+}

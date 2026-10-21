@@ -1,0 +1,30 @@
+{
+  "title": "Mission Design and Flight Dynamics Operations for the Starling Swarm Technology Demonstration",
+  "aliases": [],
+  "identifier_aliases": [],
+  "authors_as_read": "Nahum Alem; Theodore G. Hendriks; Jose L. Alvarellos; Paul G. Levinson-Muth; Andres Dono",
+  "bibliographic_year": 2025,
+  "identifier": "NASA:20250007355",
+  "actual_arxiv_version": null,
+  "actual_version": "NASA NTRS会议稿，2025 AAS/AIAA Astrodynamics Specialist Conference，15物理页。",
+  "source_sha256": "bd1ffd361905395bb15c1aeac40fda51f1e177b0116d182533cdeb79386ff7a2",
+  "source_format": "PDF",
+  "primary_url": "https://ntrs.nasa.gov/citations/20250007355",
+  "human_verified": false,
+  "formal_version_text_compared": false,
+  "adoption_status": "candidate_after_human_review",
+  "source_issues": [
+    "May Fig4c versus July prose reference",
+    "ODTK6.6.1 versus 6.0 in different sections"
+  ],
+  "source_issues_resolved": false,
+  "institution_metadata_file": "S057_NASA.json",
+  "research_line": "Starling",
+  "related_batch_records": [
+    "S054",
+    "S057",
+    "S058"
+  ],
+  "relation_note": "Three distinct reports of one mission; overlapping data and demonstrations must not be pooled as independent trials",
+  "independent_mission_lines_among_reports": 1
+}

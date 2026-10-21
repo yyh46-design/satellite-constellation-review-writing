@@ -1,0 +1,22 @@
+{
+  "title": "Close-Proximity Operations Design, Analysis, and Validation for Non-Cooperative Targets with an Application to the ClearSpace-1 Mission",
+  "aliases": [],
+  "identifier_aliases": [],
+  "authors_as_read": "José Vasconcelos; Serena Gaggi; Tiago Amaral; Charles Bakouche; Adina Cotuna; Ana Friaças",
+  "bibliographic_year": 2025,
+  "identifier": "10.3390/aerospace12010067",
+  "actual_arxiv_version": null,
+  "actual_version": "Aerospace 12(1):67，2025-01-18出版，23物理页；以VESPA案例设计为准，不把该旧案例当作当前CS-1任务状态。",
+  "source_sha256": "ed215ff9ad3827e57cc43e16d10f4098fda20418c1af92e0fee0d80a01a6b823",
+  "source_format": "PDF",
+  "primary_url": "https://doi.org/10.3390/aerospace12010067",
+  "human_verified": false,
+  "formal_version_text_compared": false,
+  "adoption_status": "candidate_after_human_review",
+  "source_issues": [
+    "embedded old24-page artwork text duplicates actual23-page document text",
+    "2025 VESPA case not current mission status"
+  ],
+  "source_issues_resolved": false,
+  "crossref_file": "S059_CROSSREF.json"
+}

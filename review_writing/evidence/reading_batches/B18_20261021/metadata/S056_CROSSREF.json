@@ -1,0 +1,541 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        5,
+        12
+      ]
+    ],
+    "date-time": "2026-05-12T17:53:01Z",
+    "timestamp": 1778608381260,
+    "version": "3.51.4"
+  },
+  "reference-count": 32,
+  "publisher": "MDPI AG",
+  "issue": "5",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2025,
+            5,
+            1
+          ]
+        ],
+        "date-time": "2025-05-01T00:00:00Z",
+        "timestamp": 1746057600000
+      },
+      "content-version": "vor",
+      "delay-in-days": 0,
+      "URL": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  ],
+  "funder": [
+    {
+      "DOI": "10.13039/501100001809",
+      "name": "National Natural Science Foundation of China",
+      "doi-asserted-by": "publisher",
+      "award": [
+        "U21B6001"
+      ],
+      "award-info": [
+        {
+          "award-number": [
+            "U21B6001"
+          ]
+        }
+      ],
+      "id": [
+        {
+          "id": "10.13039/501100001809",
+          "id-type": "DOI",
+          "asserted-by": "publisher"
+        }
+      ]
+    },
+    {
+      "DOI": "10.13039/501100001809",
+      "name": "National Natural Science Foundation of China",
+      "doi-asserted-by": "publisher",
+      "award": [
+        "11925109"
+      ],
+      "award-info": [
+        {
+          "award-number": [
+            "11925109"
+          ]
+        }
+      ],
+      "id": [
+        {
+          "id": "10.13039/501100001809",
+          "id-type": "DOI",
+          "asserted-by": "publisher"
+        }
+      ]
+    }
+  ],
+  "content-domain": {
+    "domain": [],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [
+    "Aerospace"
+  ],
+  "abstract": "<jats:p>The frequent occurrence of space debris collision incidents has made research on autonomous satellite avoidance necessary. Against this backdrop, the paper presents a short-term autonomous space debris avoidance algorithm based on the Equivalent Linear Velocity Obstacle (ELVO) paradigm, which addresses the challenges of multiple debris scenarios and real-time decision-making. Error analysis and compensating terms are provided to enhance the algorithm’s accuracy. Simulations are proposed to validate the algorithm, and the simplified design reduces the online computational load, demonstrating its feasibility for future on-orbit usage.</jats:p>",
+  "DOI": "10.3390/aerospace12050402",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2025,
+        5,
+        1
+      ]
+    ],
+    "date-time": "2025-05-01T09:16:12Z",
+    "timestamp": 1746090972000
+  },
+  "page": "402",
+  "update-policy": "https://doi.org/10.3390/mdpi_crossmark_policy",
+  "source": "Crossref",
+  "is-referenced-by-count": 2,
+  "title": [
+    "ELVO-Based Autonomous Satellite Collision Avoidance with Multiple Debris"
+  ],
+  "prefix": "10.3390",
+  "volume": "12",
+  "author": [
+    {
+      "given": "Ziyao",
+      "family": "Li",
+      "sequence": "first",
+      "affiliation": [
+        {
+          "name": "State Key Laboratory of Mathematical Sciences, Academy of Mathematics and Systems Science, Chinese Academy of Sciences, Beijing 100190, China"
+        },
+        {
+          "name": "School of Mathematical Sciences, University of Chinese Academy of Sciences, Beijing 100049, China"
+        }
+      ],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    },
+    {
+      "given": "Hongchao",
+      "family": "Li",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "State Key Laboratory of Mathematical Sciences, Academy of Mathematics and Systems Science, Chinese Academy of Sciences, Beijing 100190, China"
+        },
+        {
+          "name": "School of Mathematical Sciences, University of Chinese Academy of Sciences, Beijing 100049, China"
+        }
+      ],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-2765-144X",
+      "authenticated-orcid": false,
+      "given": "Chanying",
+      "family": "Li",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "State Key Laboratory of Mathematical Sciences, Academy of Mathematics and Systems Science, Chinese Academy of Sciences, Beijing 100190, China"
+        },
+        {
+          "name": "School of Mathematical Sciences, University of Chinese Academy of Sciences, Beijing 100049, China"
+        }
+      ],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    }
+  ],
+  "member": "1968",
+  "published-online": {
+    "date-parts": [
+      [
+        2025,
+        5,
+        1
+      ]
+    ]
+  },
+  "reference": [
+    {
+      "key": "ref_1",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Bigdeli, M., Srivastava, R., and Scaraggi, M. (2025). Mechanics of space debris removal: A review. Aerospace, 12.",
+      "DOI": "10.3390/aerospace12040277"
+    },
+    {
+      "key": "ref_2",
+      "first-page": "128",
+      "article-title": "Detecting, tracking and imaging space debris",
+      "volume": "109",
+      "author": "Mehrholz",
+      "year": "2002",
+      "journal-title": "ESA Bull."
+    },
+    {
+      "key": "ref_3",
+      "doi-asserted-by": "crossref",
+      "first-page": "41",
+      "DOI": "10.1007/s00159-006-0003-9",
+      "article-title": "Optical surveys for space debris",
+      "volume": "14",
+      "author": "Schildknecht",
+      "year": "2007",
+      "journal-title": "Astron. Astrophys. Rev."
+    },
+    {
+      "key": "ref_4",
+      "unstructured": "Kessler, D., and Johnson, N. (2010, January 5–10). The Kessler syndrome: Implications to future space operations. Proceedings of the 33rd Annual AAS Guidance and Control Conference, Breckinridge, CO, USA."
+    },
+    {
+      "key": "ref_5",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Muntoni, G., Montisci, G., Pisanu, T., Andronico, P., and Valente, G. (2021). Crowded space: A review on radar measurements for space debris monitoring and tracking. Appl. Sci., 11.",
+      "DOI": "10.3390/app11041364"
+    },
+    {
+      "key": "ref_6",
+      "doi-asserted-by": "crossref",
+      "first-page": "16625",
+      "DOI": "10.1109/JSTARS.2024.3406155",
+      "article-title": "Advancements in on-board processing of synthetic aperture radar (SAR) data: Enhancing efficiency and real-time capabilities",
+      "volume": "17",
+      "author": "Garcia",
+      "year": "2024",
+      "journal-title": "IEEE J. Sel. Top. Appl. Earth Obs. Remote Sens."
+    },
+    {
+      "key": "ref_7",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Burroni, T., Husain, S., Servidia, P., Thangavel, K., and Sabatini, R. (2024, January 14–18). Constellation of formations for autonomous resident space objects detection using star trackers. Proceedings of the 74th International Astronautical Congress (IAC), Milan, Italy.",
+      "DOI": "10.52202/078372-0038"
+    },
+    {
+      "key": "ref_8",
+      "unstructured": "Srinithi, B., Sruthi, N.S.R., Senthil Kumar, T., Somasundaram, K., and Ramasamy, M. (2025, January 18–20). Enhancing milk yield forecasting in dairy farming using an interpretable machine learning framework. Proceedings of the 2025 4th International Conference on Sentiment Analysis and Deep Learning (ICSADL), Janakpur, Nepal."
+    },
+    {
+      "key": "ref_9",
+      "doi-asserted-by": "crossref",
+      "first-page": "11",
+      "DOI": "10.5140/JASS.2012.29.1.011",
+      "article-title": "A study on the collision avoidance maneuver optimization with multiple space debris",
+      "volume": "29",
+      "author": "Kim",
+      "year": "2012",
+      "journal-title": "J. Astron. Space Sci."
+    },
+    {
+      "key": "ref_10",
+      "doi-asserted-by": "crossref",
+      "first-page": "2860",
+      "DOI": "10.1016/j.asr.2022.04.013",
+      "article-title": "Autonomous obstacle avoidance strategies in the mission of large space debris removal using potential function",
+      "volume": "72",
+      "author": "Wang",
+      "year": "2023",
+      "journal-title": "Adv. Space Res."
+    },
+    {
+      "key": "ref_11",
+      "doi-asserted-by": "crossref",
+      "first-page": "109",
+      "DOI": "10.1016/j.ast.2024.109131",
+      "article-title": "Autonomous spacecraft collision avoidance with a variable number of space debris based on safe reinforcement learning",
+      "volume": "149",
+      "author": "Mu",
+      "year": "2024",
+      "journal-title": "Aerosp. Sci. Technol."
+    },
+    {
+      "key": "ref_12",
+      "doi-asserted-by": "crossref",
+      "first-page": "4115",
+      "DOI": "10.1109/TAES.2024.3496415",
+      "article-title": "Mission planning on autonomous avoidance for spacecraft confronting orbital debris",
+      "volume": "61",
+      "author": "Chen",
+      "year": "2025",
+      "journal-title": "IEEE Trans. Aerosp. Electron. Syst."
+    },
+    {
+      "key": "ref_13",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Yang, H., Xie, Z., Zhao, X., and Jin, M. (2015, January 6–9). Ground micro-gravity emulation system for space robot capturing the target satellite. Proceedings of the 2015 IEEE International Conference on Robotics and Biomimetics (ROBIO), Zhuhai, China.",
+      "DOI": "10.1109/ROBIO.2015.7419729"
+    },
+    {
+      "key": "ref_14",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Artigas, J., De Stefano, M., Rackl, W., Lampariello, R., Brunner, B., Bertleff, W., Burger, R., Porges, O., Giordano, A., and Borst, C. (2015, January 26–30). The OOS-SIM: An on-ground simulation facility for on-orbit servicing robotic operations. Proceedings of the 2015 IEEE International Conference on Robotics and Automation (ICRA), Seattle, WA, USA.",
+      "DOI": "10.1109/ICRA.2015.7139588"
+    },
+    {
+      "key": "ref_15",
+      "doi-asserted-by": "crossref",
+      "first-page": "509",
+      "DOI": "10.1016/j.jsse.2023.09.003",
+      "article-title": "Zero-G Lab: A multi-purpose facility for emulating space operations",
+      "volume": "10",
+      "author": "Makhdoomi",
+      "year": "2023",
+      "journal-title": "J. Space Saf. Eng."
+    },
+    {
+      "key": "ref_16",
+      "unstructured": "Schlotterer, M., Edlerman, E., Fumenti, F., Gurfil, P., Theil, S., and Zhang, H. (2015, January 8–10). On-ground testing of autonomous guidance for multiple satellites in a cluster. Proceedings of the 8th International Workshop on Satellite Constellations and Formation Flying, Delft, The Netherlands."
+    },
+    {
+      "key": "ref_17",
+      "doi-asserted-by": "crossref",
+      "first-page": "760",
+      "DOI": "10.1177/027836499801700706",
+      "article-title": "Motion planning in dynamic environments using velocity obstacles",
+      "volume": "17",
+      "author": "Fiorini",
+      "year": "1998",
+      "journal-title": "Int. J. Robot. Res."
+    },
+    {
+      "key": "ref_18",
+      "doi-asserted-by": "crossref",
+      "first-page": "104645",
+      "DOI": "10.1016/j.robot.2024.104645",
+      "article-title": "A survey on Velocity Obstacle paradigm",
+      "volume": "174",
+      "author": "Vesentini",
+      "year": "2024",
+      "journal-title": "Robot. Auton. Syst."
+    },
+    {
+      "key": "ref_19",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Van Den Berg, J., Lin, M., and Manocha, D. (2008, January 19–23). Reciprocal velocity obstacles for real-time multi-agent navigation. Proceedings of the 2008 IEEE International Conference on Robotics and Automation, Pasadena, CA, USA.",
+      "DOI": "10.1109/ROBOT.2008.4543489"
+    },
+    {
+      "key": "ref_20",
+      "unstructured": "Van Den Berg, J., Guy, S.J., Lin, M., and Manocha, D. Reciprocal n-body collision avoidance. Proceedings of the Robotics Research: The 14th International Symposium ISRR."
+    },
+    {
+      "key": "ref_21",
+      "doi-asserted-by": "crossref",
+      "first-page": "104011",
+      "DOI": "10.1016/j.robot.2021.104011",
+      "article-title": "Uncertain moving obstacles avoiding method in 3D arbitrary path planning for a spherical underwater robot",
+      "volume": "151",
+      "author": "An",
+      "year": "2022",
+      "journal-title": "Robot. Auton. Syst."
+    },
+    {
+      "key": "ref_22",
+      "doi-asserted-by": "crossref",
+      "first-page": "121120",
+      "DOI": "10.1016/j.oceaneng.2025.121120",
+      "article-title": "A moving obstacle avoidance strategy-based collaborative formation for the bionic multi-underwater spherical robot control system",
+      "volume": "329",
+      "author": "Li",
+      "year": "2025",
+      "journal-title": "Ocean. Eng."
+    },
+    {
+      "key": "ref_23",
+      "unstructured": "Shiller, Z., Large, F., and Sekhavat, S. (2001, January 21–26). Motion planning in dynamic environments: Obstacles moving along arbitrary trajectories. Proceedings of the 2001 IEEE International Conference on Robotics and Automation, Seoul, Republic of Korea."
+    },
+    {
+      "key": "ref_24",
+      "doi-asserted-by": "crossref",
+      "first-page": "2312",
+      "DOI": "10.2514/1.G001715",
+      "article-title": "Three-dimensional velocity obstacle method for uncoordinated avoidance maneuvers of unmanned aerial vehicles",
+      "volume": "39",
+      "author": "Jenie",
+      "year": "2016",
+      "journal-title": "J. Guid. Control. Dyn."
+    },
+    {
+      "key": "ref_25",
+      "doi-asserted-by": "crossref",
+      "first-page": "577",
+      "DOI": "10.1007/s10846-019-01037-7",
+      "article-title": "Fast 3D collision avoidance algorithm for fixed wing UAS",
+      "volume": "97",
+      "author": "Lin",
+      "year": "2020",
+      "journal-title": "J. Intell. Robot. Syst."
+    },
+    {
+      "key": "ref_26",
+      "doi-asserted-by": "crossref",
+      "first-page": "1837",
+      "DOI": "10.2514/1.G002309",
+      "article-title": "Comprehensive survey and assessment of spacecraft relative motion dynamics models",
+      "volume": "40",
+      "author": "Sullivan",
+      "year": "2017",
+      "journal-title": "J. Guid. Control. Dyn."
+    },
+    {
+      "key": "ref_27",
+      "doi-asserted-by": "crossref",
+      "first-page": "1",
+      "DOI": "10.1016/S0169-7439(99)00047-7",
+      "article-title": "The mahalanobis distance",
+      "volume": "50",
+      "author": "Massart",
+      "year": "2000",
+      "journal-title": "Chemom. Intell. Lab. Syst."
+    },
+    {
+      "key": "ref_28",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Leleux, D., Spencer, R., Zimmerman, P., Propst, C., Frisbee, J., Wortham, M., and Heilman, W. (2002, January 9–12). Probability-based space shuttle collision avoidance. Proceedings of the SpaceOps 2002 Conference, Houston, TX, USA.",
+      "DOI": "10.2514/6.2002-T3-50"
+    },
+    {
+      "key": "ref_29",
+      "doi-asserted-by": "crossref",
+      "first-page": "615",
+      "DOI": "10.2514/2.5089",
+      "article-title": "Solution of the elliptic rendezvous problem with the time as independent variable",
+      "volume": "26",
+      "author": "Broucke",
+      "year": "2003",
+      "journal-title": "J. Guid. Control. Dyn."
+    },
+    {
+      "key": "ref_30",
+      "doi-asserted-by": "crossref",
+      "first-page": "469",
+      "DOI": "10.2514/1.G005398",
+      "article-title": "Analytical framework for space debris collision avoidance maneuver design",
+      "volume": "44",
+      "author": "Gonzalo",
+      "year": "2021",
+      "journal-title": "J. Guid. Control. Dyn."
+    },
+    {
+      "key": "ref_31",
+      "doi-asserted-by": "crossref",
+      "first-page": "95",
+      "DOI": "10.1007/s42064-021-0125-x",
+      "article-title": "A review of space-object collision probability computation methods",
+      "volume": "6",
+      "author": "Li",
+      "year": "2022",
+      "journal-title": "Astrodynamics"
+    },
+    {
+      "key": "ref_32",
+      "doi-asserted-by": "crossref",
+      "first-page": "716",
+      "DOI": "10.2514/2.4771",
+      "article-title": "General method for calculating satellite collision probability",
+      "volume": "24",
+      "author": "Patera",
+      "year": "2001",
+      "journal-title": "J. Guid. Control. Dyn."
+    }
+  ],
+  "container-title": [
+    "Aerospace"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://www.mdpi.com/2226-4310/12/5/402/pdf",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2025,
+        10,
+        9
+      ]
+    ],
+    "date-time": "2025-10-09T17:25:55Z",
+    "timestamp": 1760030755000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://www.mdpi.com/2226-4310/12/5/402"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        5,
+        1
+      ]
+    ]
+  },
+  "references-count": 32,
+  "journal-issue": {
+    "issue": "5",
+    "published-online": {
+      "date-parts": [
+        [
+          2025,
+          5
+        ]
+      ]
+    }
+  },
+  "alternative-id": [
+    "aerospace12050402"
+  ],
+  "URL": "https://doi.org/10.3390/aerospace12050402",
+  "relation": {},
+  "ISSN": [
+    "2226-4310"
+  ],
+  "issn-type": [
+    {
+      "value": "2226-4310",
+      "type": "electronic"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2025,
+        5,
+        1
+      ]
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "title": "Motion Planning Strategies for Safety Procedure of Multi-Satellite Formation Flying Systems",
+  "aliases": [
+    "Motion Planning Strategies for Safety Procedure of Multisatellite Formation-Flying Systems"
+  ],
+  "identifier_aliases": [],
+  "authors_as_read": "Francesca Scala; Mateus Silva Borges; Michelangelo Villano",
+  "bibliographic_year": 2026,
+  "identifier": "10.2514/1.G009169",
+  "actual_arxiv_version": null,
+  "actual_version": "DLR接受稿，36物理页；2025年在线、2026年卷期；正式题名采用Multisatellite Formation-Flying拼写，正文未与出版版逐页比较。",
+  "source_sha256": "bbce4e1de543a4d6499d60597fa54f343c44fdca3c155c8e2e3678436953e72d",
+  "source_format": "PDF",
+  "primary_url": "https://doi.org/10.2514/1.G009169",
+  "human_verified": false,
+  "formal_version_text_compared": false,
+  "adoption_status": "candidate_after_human_review",
+  "source_issues": [
+    "p26 prose/Table2 different semi-major-axis initial-error sigma",
+    "Table5 terminal errors are 1sigma and runtime units are minutes",
+    "p27 receding wording versus p16 shrinking horizon"
+  ],
+  "source_issues_resolved": false,
+  "crossref_file": "S051_CROSSREF.json",
+  "online_year": 2025,
+  "issue_year": 2026,
+  "formal_title": "Motion Planning Strategies for Safety Procedure of Multisatellite Formation-Flying Systems",
+  "formal_volume": "49",
+  "formal_issue": "1",
+  "formal_pages": "114-129",
+  "repository_author_name_variant": "Mateus Silvia Borges versus actual PDF and Crossref Mateus Silva Borges",
+  "conference_predecessor_not_counted": "AAS24-385"
+}

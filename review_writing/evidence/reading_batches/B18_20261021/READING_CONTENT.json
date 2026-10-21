@@ -1,0 +1,1033 @@
+[
+  {
+    "reading_id": "S051",
+    "actual_title": "Motion Planning Strategies for Safety Procedure of Multi-Satellite Formation Flying Systems",
+    "title_cn": "固定基线三卫星编队故障后的协同安全重构",
+    "authors": "Francesca Scala; Mateus Silva Borges; Michelangelo Villano",
+    "year": 2026,
+    "identifier": "10.2514/1.G009169",
+    "actual_version": "DLR接受稿，36物理页；2025年在线、2026年卷期；正式题名采用Multisatellite Formation-Flying拼写，正文未与出版版逐页比较。",
+    "evidence_role": "multi_spacecraft_fault_reconfiguration",
+    "body_pages": [
+      1,
+      31
+    ],
+    "question": "载荷要求固定跨轨基线时，编队无法一直使用被动安全构型；一旦异常发生，如何在有限推力和预定时间内转入安全螺旋构型，并让健康成员绕开失控成员。",
+    "inputs": "初末相对轨道根数、各星控制能力和星间禁入距离已知。参考轨迹用无摄动线性相对模型，闭环传播加入J2和差分阻力；故障情形假设故障星能发送告警并及时触发其他成员。",
+    "decisions": "先联合计算满足推力和成对距离约束的参考重构轨迹，再比较缩短时域MPC、手调LQR及进化算法调权的aLQR。aLQR中的adaptive主要指权重优化，不等于任意未知故障的在线自适应安全证书。",
+    "mechanism": "顺序凸规划以先前轨迹构造仿射分离约束，初次忽略避碰得到种子再加入约束；MPC逐次更新状态及剩余固定终止时间。LQR跟踪预先生成的参考，不能像MPC一样直接重规划异常情形。式28为所选分离方向的安全充分约束，不能将其与完整非凸距离约束理解成同一可行域。",
+    "validation": "主要为一主星加两从星的数值仿真；名义重构0.8轨道周期，并进行100初态Monte Carlo试验。表5给MPC约12/7 mm/s、约4分钟，aLQR调参约45或65分钟；这些是所述桌面平台的算法运行时间，不是每步星载时延。故障例让主星及健康从星围绕失控从星重构，采用10 m禁入距离。",
+    "limitations": [
+      "仅三卫星算例、近圆近距模型及有限初态扰动；无实际在轨或硬件在环验证。",
+      "表5终端误差标注1σ，不能改写成所有扰动下的最大误差硬保证。",
+      "p26正文只称相对经度50 cm、其余10 cm，表2却将半长轴差也列为50 cm；本记录保留冲突。",
+      "p27将MPC称为receding horizon，与p16明确采用shrinking horizon不同；按算法固定终止时间理解，不替作者统一措辞。",
+      "接受稿和正式题名为同一DOI；2024会议前身不另外计数。"
+    ],
+    "use": "补3.6.1/3.6.3：任务构型、故障触发、联合重构、闭环纠偏和安全终态应接在一起。可与在轨报告对照执行依赖；不据桌面耗时宣称满足星载实时要求。",
+    "claims": [
+      {
+        "text": "顺序凸规划将所有成员的轨迹、推力界与成对禁入距离联合处理，并用先前迭代轨迹构造仿射分离约束。",
+        "pages": [
+          12,
+          14,
+          15
+        ],
+        "locator": "§III.A Eqs.(25)–(28), Algorithm1",
+        "type": "method",
+        "claim_id": "C-B18-001",
+        "source_id": "E-B18-S051",
+        "claim_text_sha256": "b3972ff5337112601aadd657e99c82a4827ee821b2d82587d0fdd0df47506e59"
+      },
+      {
+        "text": "MPC采用固定末端时间的缩短时域，并在闭环传播中纳入J2及差分阻力。",
+        "pages": [
+          16,
+          17
+        ],
+        "locator": "§III.B Fig.3 and Algorithm2",
+        "type": "method",
+        "claim_id": "C-B18-002",
+        "source_id": "E-B18-S051",
+        "claim_text_sha256": "62ecbe99ab5aa0f2f34563d58d58fe625bcdc4b98a65c37fdd82e611d8e9584b"
+      },
+      {
+        "text": "名义算例使用三卫星、0.8轨道周期重构时间；MPC的初态扰动检查包含100个样本。",
+        "pages": [
+          23,
+          26
+        ],
+        "locator": "Table1; §IV.C Table2",
+        "type": "experiment",
+        "claim_id": "C-B18-003",
+        "source_id": "E-B18-S051",
+        "claim_text_sha256": "99924f9628c839ea6d52972ffa37168884f58a3e7bb722e58af1b5f0bb5be450"
+      },
+      {
+        "text": "表5中的MPC算法时间约4分钟，aLQR全控制及无径向控制分别约45和65分钟；终端误差列采用1σ口径。",
+        "pages": [
+          28,
+          29
+        ],
+        "locator": "§IV.D Table5, units in column headers",
+        "type": "metric_boundary",
+        "claim_id": "C-B18-004",
+        "source_id": "E-B18-S051",
+        "claim_text_sha256": "8f8950536e34ce71931d3797e9dc673e3f3653f8c27fbb70752fee5e31a17515"
+      },
+      {
+        "text": "失控从星场景由主星及健康从星共同机动，围绕失控成员转入螺旋构型，仿真采用10 m禁入距离。",
+        "pages": [
+          29,
+          30,
+          31
+        ],
+        "locator": "§IV.E Fig.12",
+        "type": "fault_recovery",
+        "claim_id": "C-B18-005",
+        "source_id": "E-B18-S051",
+        "claim_text_sha256": "db0966452a705c46895f9a5490d4597f96d70ae35502924929feca7ebd9e646e"
+      }
+    ],
+    "adoption_status": "candidate_after_human_review",
+    "crossref": "S051_CROSSREF.json",
+    "aliases": [
+      "Motion Planning Strategies for Safety Procedure of Multisatellite Formation-Flying Systems"
+    ],
+    "version_class": "accepted_author_manuscript",
+    "formal_year": 2026,
+    "online_year": 2025,
+    "canonical_url": "https://doi.org/10.2514/1.G009169",
+    "visual_pages": [
+      1,
+      14,
+      26,
+      29,
+      30
+    ]
+  },
+  {
+    "reading_id": "S052",
+    "actual_title": "Autonomous Control of Satellite Swarms Using Minimal Vision-Based Behavioral Control",
+    "title_cn": "局部单目感知与行为规则下的卫星群安全维持",
+    "authors": "Marco Sabatini",
+    "year": 2026,
+    "identifier": "10.3390/aerospace13030207",
+    "actual_version": "Aerospace 13(3):207，2026-02-24出版，26物理页。",
+    "evidence_role": "multi_spacecraft_local_vision",
+    "body_pages": [
+      1,
+      25
+    ],
+    "question": "没有集中协调和星间通信时，局部可见邻星的粗略相对状态能否支持吸引、对齐和排斥规则，使群体既不漂散也不进入危险相对构型。",
+    "inputs": "相机沿航迹指向、姿态理想控制；感知由视场及500 m探测距离截断，图为有向图。主仿真仅使用Kepler动力学，不能因模型章节讨论J2/阻力便认定实际仿真已包含。",
+    "decisions": "用相对轨道根数而非瞬时欧氏距离选择行为；把可见邻星对应的LQR控制贡献叠加，以调整漂移、相对椭圆尺度及偏心率/倾角向量平行性。",
+    "mechanism": "排斥优先扩大不安全间距，对齐抑制漂移并兼顾视场，吸引避免邻星丢失。协调通过局部感知产生；弱连通图用于观察群体完整性，并非网络永不失联或任意初态安全的证明。",
+    "validation": "先展示双星行为，再给20星、24小时定性仿真。理想相对状态和简化像素估计的总ΔV分别11.42和12.84 m/s；这里为20成员总和。后者仍理想测得像素面积及中心，主要误差来自相邻图像有限差分。加入根数比例噪声后控制成本增加且群体可能断裂。",
+    "limitations": [
+      "只显示少数代表结果，未给足以估计可靠失败概率的重复次数和统计区间。",
+      "无通信依赖仍有可见性、初始连接和导航要求；初始完全隔离成员会漂走。",
+      "正文p23称30%噪声失去完整性，Fig.31标题为35%；不采用确定的30%导航容许上界。",
+      "p21的始终满足100 m措辞需结合Fig.25初始瞬态低于100 m的曲线解释；不作全时全星对间距保证。",
+      "主算例20星，但Fig.12–14部分图注写ten；不按图注另计十星实验。",
+      "无高保真动力学、真实图像渲染和实测视觉链验证；结论是定性可行性。"
+    ],
+    "use": "补3.6协同信息与动态约束：无需星间通信并不消除感知资源、状态估计和群体连接约束。应与S046角度控制、Starling实际视觉导航相互对照。",
+    "claims": [
+      {
+        "text": "行为判据以相对根数描述相对轨迹几何，并仅叠加视场及探测距离内邻星的控制贡献。",
+        "pages": [
+          4,
+          6,
+          7
+        ],
+        "locator": "§3.1, §3.3–3.4",
+        "type": "method",
+        "claim_id": "C-B18-006",
+        "source_id": "E-B18-S052",
+        "claim_text_sha256": "31a6acc99925bc4eb6b020f005a11db28b8e6933c2f33de30e1b6a0a027abcab"
+      },
+      {
+        "text": "所展示主试验为20颗卫星、24小时仿真；作者明确要求有利初始连接，并说明孤立成员会漂散。",
+        "pages": [
+          11,
+          12,
+          13
+        ],
+        "locator": "§4 Simulation Set-Up and §4.1–4.2",
+        "type": "scope",
+        "claim_id": "C-B18-007",
+        "source_id": "E-B18-S052",
+        "claim_text_sha256": "895a6f3b24312fe94c9d952cbd13f41dc45406158be96c62268bd50bc2864dc8"
+      },
+      {
+        "text": "简化图像试验总ΔV为20成员合计12.84 m/s，理想状态试验为11.42 m/s。",
+        "pages": [
+          21
+        ],
+        "locator": "§5, paragraph before Fig.25",
+        "type": "experiment",
+        "claim_id": "C-B18-008",
+        "source_id": "E-B18-S052",
+        "claim_text_sha256": "1708320cd210c54ab23d01be4ba34dbecc61b2317767adace02671d786ad57b0"
+      },
+      {
+        "text": "简化成像例仍假设像素面积和中心理想测得，且未用真实成像渲染模拟光学伪影。",
+        "pages": [
+          23,
+          25
+        ],
+        "locator": "§5 last paragraphs; §6 Final Remarks",
+        "type": "limitation",
+        "claim_id": "C-B18-009",
+        "source_id": "E-B18-S052",
+        "claim_text_sha256": "f218a543c70f97320bb5b780c2ea00f04a9e670c1d39429a6f9e1305ee502878"
+      },
+      {
+        "text": "正文称30%噪声使群体断裂，Fig.31图注却写35%；不能据此给出已核实的统一导航误差上界。",
+        "pages": [
+          23,
+          24
+        ],
+        "locator": "§5; Figs.30–31 original-page check",
+        "type": "source_issue",
+        "claim_id": "C-B18-010",
+        "source_id": "E-B18-S052",
+        "claim_text_sha256": "ab4ca258951bfc8d4343e2c5312570258af1525887659422fef405ce8fabc959"
+      }
+    ],
+    "adoption_status": "candidate_after_human_review",
+    "crossref": "S052_CROSSREF.json",
+    "version_class": "publisher_PDF",
+    "canonical_url": "https://doi.org/10.3390/aerospace13030207",
+    "visual_pages": [
+      1,
+      8,
+      11,
+      21,
+      24
+    ]
+  },
+  {
+    "reading_id": "S053",
+    "actual_title": "OrbitZoo: Real Orbital Systems Challenges for Reinforcement Learning",
+    "title_cn": "轨道多智能体学习框架的动力学验证与安全证据分层",
+    "authors": "Alexandre Oliveira; Katarina Dyreby; Francisco Caldas; Cláudia Soares",
+    "year": 2025,
+    "identifier": "NeurIPS2025:47390393b2dfa57d9b3b55466d27bad8",
+    "actual_version": "NeurIPS 2025正式会议PDF，73物理页含附录和检查表；关联arXiv:2504.04160各版本未逐页比较。",
+    "evidence_role": "general_orbital_learning_benchmark",
+    "body_pages": [
+      1,
+      10
+    ],
+    "question": "如何在可复用的多智能体环境中组织轨道传播、推力模型、部分观测和奖励，以减少各学习研究重复构建简化仿真器的成本；重点核查平台验证是否足以支撑策略安全。",
+    "inputs": "Orekit动力学、PettingZoo多智能体接口、不同星体及推力参数；可启用摄动、状态不确定度和碰撞概率指标。具体算例所启用模型各不相同，框架支持不等于所有训练都使用最高保真度。",
+    "decisions": "研究者定义任务、观测及奖励；示例包括单星转移与避碰、四星GEO均匀间隔。联邦训练平均critic参数，可由地面服务器实施，不能写成无需全局信息的在轨实时协商。",
+    "mechanism": "传播层与决策层分离：真实演化可使用更完整摄动，避碰内部风险预测仍用简化Newton模型。GEO每星观测包括其他成员相位，独立训练并不意味着不需要他星状态。安全指标进入奖励，而非外加形式安全过滤。",
+    "validation": "31颗Starlink星历用于调参和16.6小时传播比较；表3为低、中、高误差组均值24.14、83.75、1924.90 m，不是所有单星误差的极值。一万对象测速仅为传播。四星GEO用30组匹配初态Monte Carlo比较联邦/独立策略；部分初始构型改善有限。",
+    "limitations": [
+      "73页完整原文已保存；正文1–10精读，附录D、E.6、E.7和G定向深读，不声称73页逐页精读。",
+      "星历本身包含预测并在校准中被拟合；相邻预测残差不能独立证明真实轨道误差，也不能证明策略在轨安全。",
+      "摘要0.16% MAPE与正文分组RMSE不是同一指标；本批不据摘要数值给统一精度结论。",
+      "单星CAM无多主动成员协商；四星GEO靠奖励改善间距，没有任意初态无碰撞证书。",
+      "未下载运行代码或重做训练；代码公开与本批复现完成分开。"
+    ],
+    "use": "作为证据质量和方法评测的补充，支撑在规划—执行接口分别检查传播精度、计算开销、决策质量、风险和恢复成本；与S050框架文献比较而非作为千星协同安全实证。",
+    "claims": [
+      {
+        "text": "一万对象实验测试轨道传播速度；多智能体GEO决策算例仅四颗星，规模口径必须分开。",
+        "pages": [
+          26,
+          27,
+          48
+        ],
+        "locator": "Appendix D.2 Fig.10; E.7.2",
+        "type": "scalability_boundary",
+        "claim_id": "C-B18-011",
+        "source_id": "E-B18-S053",
+        "claim_text_sha256": "6ea6395422773d4d7b778c40e75fb7c6f610577249e5798a88840617f19f5c44"
+      },
+      {
+        "text": "31颗Starlink星历比较中，表3的24.14、83.75和1924.90 m为三组平均RMSE，传播区间16.6小时。",
+        "pages": [
+          9,
+          10
+        ],
+        "locator": "§5.4 Table3",
+        "type": "metric_boundary",
+        "claim_id": "C-B18-012",
+        "source_id": "E-B18-S053",
+        "claim_text_sha256": "861e9fe3fabf915a131fcc28e62acafd618c305308884e6a6b90a038781b004b"
+      },
+      {
+        "text": "单受控星CAM在环境演化与星内预测中采用不同保真度，后者使用仅Newton引力的简化预测。",
+        "pages": [
+          8,
+          44,
+          45
+        ],
+        "locator": "§5.2; Appendix E.6.2–3",
+        "type": "model_assumption",
+        "claim_id": "C-B18-013",
+        "source_id": "E-B18-S053",
+        "claim_text_sha256": "3436cbc683d839201c8911dc200708d412a7693db41200643609525afdd5c836"
+      },
+      {
+        "text": "四星GEO联邦学习比较采用30次Monte Carlo评估，但有些初始构型间距惩罚改善有限。",
+        "pages": [
+          48,
+          49,
+          50
+        ],
+        "locator": "Appendix E.7 Fig.31 and E.7.4",
+        "type": "negative_boundary",
+        "claim_id": "C-B18-014",
+        "source_id": "E-B18-S053",
+        "claim_text_sha256": "341b95048603e9c0df1c85e08dfa8deac7123daae0abe3ad39ca1d151676b01c"
+      },
+      {
+        "text": "星历比较先用Bayesian优化调整物理参数，并讨论初始星历误差、预测方法未知及相邻文件差异。",
+        "pages": [
+          59,
+          60
+        ],
+        "locator": "Appendix G introduction and G.2",
+        "type": "validation_boundary",
+        "claim_id": "C-B18-015",
+        "source_id": "E-B18-S053",
+        "claim_text_sha256": "2c682adb299014c1eee6f38b2977dad1913826d67693185642bd63d395bc0433"
+      }
+    ],
+    "adoption_status": "candidate_after_human_review",
+    "canonical_url": "https://proceedings.nips.cc/paper_files/paper/2025/file/47390393b2dfa57d9b3b55466d27bad8-Paper-Conference.pdf",
+    "identifier_aliases": [
+      "2504.04160"
+    ],
+    "version_class": "conference_PDF",
+    "appendix_scope": "正文1–10；定向深读D pp26–28、E.6 pp43–48、E.7 pp48–50、G pp59–66；附录目录/页结构扫描，基础公式/其他单星任务附录未全读，refs/checklist未逐项核验。",
+    "visual_pages": [
+      1,
+      10,
+      27,
+      49,
+      60
+    ]
+  },
+  {
+    "reading_id": "S054",
+    "actual_title": "Starling CubeSat Swarm Technology Demonstration Flight Results",
+    "title_cn": "Starling早期在轨协商、导航与自主机动失效边界",
+    "authors": "Scott Miller; Caleb Adams; Nahum Alem; Howard Cannon; Randy Grashuis; Ted Hendriks; Soon Hwang; Michael Iatauro; Craig Pires; Justin Kruger; Simone D’Amico",
+    "year": 2024,
+    "identifier": "NASA:20240006994",
+    "actual_version": "NASA NTRS会议稿SSC24-I-06，38th Annual Small Satellite Conference，13物理页。",
+    "evidence_role": "multi_spacecraft_flight_report",
+    "body_pages": [
+      1,
+      12
+    ],
+    "question": "四颗CubeSat的网络、观测协商、视觉导航和自主机动是否都完成同一层次的在轨闭环；实际平台问题如何打断计划采用和执行。",
+    "inputs": "BATMAN跨星网络、GPS双频数据、星敏感器影像和地面精密定轨。DSA实际只有三颗加入软件网络；Starling-1上行/更新异常导致其未参加该项试验。",
+    "decisions": "DSA各星用MILP求GPS信道分配；StarFOX估计绝对/相对轨道；ROMEO生成队形维持机动，仍设计由地面完成交会筛查和最终Go/No-Go。",
+    "mechanism": "网络提供状态/奖励交换，各星独立构造同一分配问题、取出本地部分执行。协商一致是同一计划，不保证持续一致，更不等于轨道避碰安全。机动链中导航滤波、推进剂限制和命令时序各自能阻止执行。",
+    "validation": "四星在轨技术演示；DSA三星在选定时段再一致平均2.04 s、最慢46 s，但并非全时一致。MANET演示多跳和多速率，超过50 KB文件传输不可靠。ROMEO在本报告截止阶段未完成完整机动成功条件；StarFOX部分模式用飞行数据在地面后处理验证。",
+    "limitations": [
+      "同一Starling任务的阶段报告，与S057/S058共享数据和平台，不能当三次独立复验。",
+      "StarFOX p9概述四模式已演示，p10明确模式4在轨尝试受硬件阻碍后由地面数字孪生演示；采用后者的具体层级。",
+      "报告中的Starling 1.5跨运营者交通协调是后续计划，不能据此认定已经实现。",
+      "p11实验日期出现2025年份与2024会议截点不协调，保留原文问题，不拿该日期建立进度结论。",
+      "结果为任务方报告，未取得原始全量遥测做独立核验。"
+    ],
+    "use": "优先补“形成—协调—采用更新”的实证链：观测计划能自主协商，并不保证自主机动链已打通；失败原因也应是综述的重要证据。",
+    "claims": [
+      {
+        "text": "MANET在轨测试实现多跳传输，但超过50 KB文件的可靠接收存在持续问题。",
+        "pages": [
+          4,
+          5
+        ],
+        "locator": "MANET Flight Results",
+        "type": "flight_evidence",
+        "claim_id": "C-B18-016",
+        "source_id": "E-B18-S054",
+        "claim_text_sha256": "586ffcf1c716aae41f8f3defb6e40fa9f73e60d052189d532be088d2c7f8d50f"
+      },
+      {
+        "text": "ROMEO计划被设计为地面筛查后发出Go/No-Go，48小时实验窗中约前半用于生成和筛查。",
+        "pages": [
+          5
+        ],
+        "locator": "ROMEO Flight Results, 48-hour workflow",
+        "type": "adoption_gate",
+        "claim_id": "C-B18-017",
+        "source_id": "E-B18-S054",
+        "claim_text_sha256": "732629da45c1a638f945e7aec4302db7f0aebfa0a078fec34d3a3bbf90d90c89"
+      },
+      {
+        "text": "该版ROMEO因导航滤波和命令时间问题，未能规划并执行满足完整成功条件的机动。",
+        "pages": [
+          5,
+          6,
+          12
+        ],
+        "locator": "ROMEO Flight Results; Summary",
+        "type": "negative_flight_evidence",
+        "claim_id": "C-B18-018",
+        "source_id": "E-B18-S054",
+        "claim_text_sha256": "aa267480270a5a9c73a84d30d69b021ef9bfd17a9ec4dd9cd3031e3d30d7877e"
+      },
+      {
+        "text": "DSA实际为三颗星的信道协商；选定时段平均再一致2.04 s，最大离群值46 s。",
+        "pages": [
+          7,
+          8
+        ],
+        "locator": "DSA Flight Results, Figs.8–10",
+        "type": "flight_evidence",
+        "claim_id": "C-B18-019",
+        "source_id": "E-B18-S054",
+        "claim_text_sha256": "9a638fae554a082e7c5722a7d31fcc85545ebb61608697932992556a0fc9e09a"
+      },
+      {
+        "text": "模式4在轨尝试受硬件问题阻碍，随后采用飞行影像及模拟跨星测量在地面数字孪生中验证。",
+        "pages": [
+          10,
+          11
+        ],
+        "locator": "StarFOX Navigation Mode4 detailed result",
+        "type": "validation_boundary",
+        "claim_id": "C-B18-020",
+        "source_id": "E-B18-S054",
+        "claim_text_sha256": "f8d9e1c8c62d889690b72c5eebda46693514a34a9246cc30d29af753e0b93c47"
+      }
+    ],
+    "adoption_status": "candidate_after_human_review",
+    "canonical_url": "https://ntrs.nasa.gov/citations/20240006994",
+    "identifier_aliases": [
+      "SSC24-I-06",
+      "10.26077/6H4F-R354"
+    ],
+    "version_class": "conference_PDF",
+    "metadata_file": "S054_NASA.json",
+    "research_line": "Starling",
+    "visual_pages": [
+      1,
+      5,
+      8,
+      10
+    ]
+  },
+  {
+    "reading_id": "S055",
+    "actual_title": "In-Orbit Optimal Safe Formation Control for Surrounding an Unknown Huge Target with Specific Structure by Using Relative Sensors Only",
+    "title_cn": "已知结构包络与领航星共享下的多星安全环绕",
+    "authors": "Bosong Wei; Cong Li; Zhaohui Dang; Xiaokui Yue",
+    "year": 2025,
+    "identifier": "10.3390/s25175606",
+    "actual_version": "Sensors 25(17):5606，2025-09-08出版，30物理页。",
+    "evidence_role": "multi_spacecraft_structural_safety",
+    "body_pages": [
+      1,
+      27
+    ],
+    "question": "未知目标动力学和控制动作时，如何把领航星目标跟踪、各服务星构型跟踪及不规则结构避碰分解，同时保留协同代价耦合。",
+    "inputs": "领航星准确测量目标相对位置速度及几何形状；目标推力未知但有界。结构姿态忽略，形状包络由领航星离线分割后及时广播；各星从无碰撞初态出发且假设始终存在可行通路。",
+    "decisions": "领航星使用arctan变换和无初始误差依赖的性能边界跟踪目标，并共享跟踪控制。服务星叠加各自构型控制，通过非零和微分博弈处理他星与目标结构的避碰代价。",
+    "mechanism": "ACSB以立方分割的外接球并集覆盖不规则结构，用奇异碰撞代价描述接近。构造带动态辅助变量的近似值函数及Nash策略；定理中的近似最优性有原点邻域等条件，不能改写成任意初态全局最优。",
+    "validation": "一领航星加六服务星环绕目标的300 s仿真，步长0.1 s；对照CCRB，在相同共享控制和包络下比较控制代价及平均最小距离。领航星60 kg/180 N、服务星50 kg/20 N属于作者算例设置；不与毫牛级近距编队直接作成本比较。部分初始时段控制饱和。",
+    "limitations": [
+      "“仅相对传感”和“未知目标”仍依赖准确相对测量、已知形状、忽略目标姿态及无延迟共享。",
+      "无初始条件依赖针对TT性能边界；初始无碰撞及存在可行通路的Assumption3–4仍保留。",
+      "没有通信时延/丢包、结构估计误差或大规模群体失效试验；未知扰动和不确定性列为未来工作。",
+      "表4所谓燃料指标ATFC单位为m/s，应按控制/ΔV代理指标理解，不作推进剂质量结论。",
+      "表4六星中部分结构最小距离并非OCSS全部优于CCRB；不照抄所有安全指标全面占优。"
+    ],
+    "use": "补3.6.1/3.6.3的结构化安全与异构协同：把“谁感知、谁计算、共享什么、何时可用”写清；可作为小规模方法证据，不能替代大星座交通协调。",
+    "claims": [
+      {
+        "text": "领航星测量目标并共享跟踪控制；服务星的构型控制与共同目标跟踪分开设计。",
+        "pages": [
+          4,
+          5,
+          6
+        ],
+        "locator": "§2.1 Eqs.(2)–(6), Remark1–2",
+        "type": "coordination",
+        "claim_id": "C-B18-021",
+        "source_id": "E-B18-S055",
+        "claim_text_sha256": "b1e79a91a44407f7617d0a7e4d43bbe9eee91bb0dba92b93e2e05f64e6ec2008"
+      },
+      {
+        "text": "ACSB以外接球覆盖结构；目标姿态可忽略、参数准确且无时延共享均为显式假设。",
+        "pages": [
+          7,
+          8,
+          9
+        ],
+        "locator": "§2.2 Assumption2, Remark4",
+        "type": "model_assumption",
+        "claim_id": "C-B18-022",
+        "source_id": "E-B18-S055",
+        "claim_text_sha256": "007463bfdc995f2adaedaf8b7028a36af0e586cf07e8a452d6873e9651682dab"
+      },
+      {
+        "text": "无初始依赖的跟踪边界没有取消初始无碰撞和始终存在可行通路的Assumption3–4。",
+        "pages": [
+          8,
+          11
+        ],
+        "locator": "Assumptions3–4; §3 Eq.(15), Remark6",
+        "type": "guarantee_boundary",
+        "claim_id": "C-B18-023",
+        "source_id": "E-B18-S055",
+        "claim_text_sha256": "715e0e3a8c45e86cd8fa6ccb08bc43f4c3e69433a4a39300a18c0590a7cf8d0a"
+      },
+      {
+        "text": "构型控制通过近似值函数与动态辅助变量构造Nash策略，相关近似最优性条件涉及原点邻域。",
+        "pages": [
+          12,
+          13,
+          14
+        ],
+        "locator": "Theorem1 and Remark7",
+        "type": "guarantee_boundary",
+        "claim_id": "C-B18-024",
+        "source_id": "E-B18-S055",
+        "claim_text_sha256": "d9e883d89fc32d83ce7dbcb2cd11513d63ef007b315667b964b34285eebf7965"
+      },
+      {
+        "text": "主要算例是一领航星加六服务星、300 s仿真；控制图显示初段饱和，表4控制代价以m/s计。",
+        "pages": [
+          18,
+          25,
+          26
+        ],
+        "locator": "§5 setup; Fig.16; Table4",
+        "type": "experiment",
+        "claim_id": "C-B18-025",
+        "source_id": "E-B18-S055",
+        "claim_text_sha256": "e98521d7b5c2deb9fc3d6c45934e1d97bfcc4a97fce8ef1a48eefc6b86038a5f"
+      }
+    ],
+    "adoption_status": "candidate_after_human_review",
+    "crossref": "S055_CROSSREF.json",
+    "version_class": "publisher_PDF",
+    "appendix_scope": "正文与定理条件阅读；证明pp13–17作结构/结论审读，未逐式复证明；参考文献略读。",
+    "canonical_url": "https://doi.org/10.3390/s25175606",
+    "visual_pages": [
+      1,
+      8,
+      18,
+      26
+    ]
+  },
+  {
+    "reading_id": "S056",
+    "actual_title": "ELVO-Based Autonomous Satellite Collision Avoidance with Multiple Debris",
+    "title_cn": "多碎片短时速度障碍避碰及启用时机选择",
+    "authors": "Ziyao Li; Hongchao Li; Chanying Li",
+    "year": 2025,
+    "identifier": "10.3390/aerospace12050402",
+    "actual_version": "Aerospace 12(5):402，2025-05-01出版，21物理页。",
+    "evidence_role": "single_spacecraft_multi_debris",
+    "body_pages": [
+      1,
+      19
+    ],
+    "question": "单颗受控星接近多个碎片时，如何快速选择避碰速度，并补偿轨迹曲率、有限推力与测量误差；何时可以等近距高精度观测，何时必须提前规避。",
+    "inputs": "碎片在传感范围内、各相对状态及不确定度可更新，参考轨道采用时变线性相对动力学。只有一颗星主动机动，碎片无协商能力，不能按多个碎片数量认定为多主动星协同。",
+    "decisions": "优化满足所有ELVO障碍约束的最小速度增量；有限加速度将该增量在给定时窗内执行并滚动更新。额外约束可保持轨道面，长期框架还选择提前或短时避碰。",
+    "mechanism": "把非直线运动转成虚拟线性障碍，并给安全距离加入三类误差补偿。观测误差来自Gaussian分布和尾概率界，TCA偏移需远小于1 s；保证受模型、补偿有效及推力可实现等条件约束。PInev衡量等到进入视场后已来不及避碰的概率，再用Pc×Δv的期望燃料代理比较早晚动作。",
+    "validation": "场景1对2至10片碎片的每种配置各100个测试；场景2一个样例，先提前避开高速目标，再应对三个近距低速碎片。作者报告这些样本全部成功；场景2总Δv为1.53 m/s、高速目标最小距离超过8 km，低速对象超过100 m。仍为仿真，没有在轨演示。",
+    "limitations": [
+      "Gaussian尾部无界；按置信裕度构造的保证不能写成任意测量误差下必然安全，也未见整个多对象多时窗联合风险预算。",
+      "TCA小偏移、线性相对模型和足够机动能力是适用条件；高速目标可能无法等近距观测后再规避。",
+      "没有多主动运营者意图交互、责任分配或受控队形联合重构。",
+      "表1自称Theoretical Guarantees必须连同上述条件引用；100%样本成功不是普适成功率。",
+      "p2用参考文献[7,8]支持星敏感器碎片感知，p20的[8]却是奶牛产奶预测论文；不采用该引文支撑传感器能力。",
+      "代码地址可追溯，但本批没有运行源码；安全距离公式与数值参数未独立复证明。"
+    ],
+    "use": "补3.6.2到3.6.3的“能否等待新信息”决策接口，并与多星联合规划对照：同一颗星同时避多个对象仍缺群体内部协调。",
+    "claims": [
+      {
+        "text": "算法控制单颗卫星并同时约束多个被动碎片，使用时变线性相对运动模型。",
+        "pages": [
+          3,
+          4,
+          5
+        ],
+        "locator": "§2 Eqs.(1)–(4); §3",
+        "type": "scope",
+        "claim_id": "C-B18-026",
+        "source_id": "E-B18-S056",
+        "claim_text_sha256": "8f83d91c6c79bfb6bd606e9010fac288ea04f14504c6404853a962ccbb8e7a23"
+      },
+      {
+        "text": "补偿距离同时考虑观测、TCA偏移及有限推力近似误差，命题1要求TCA偏移远小于1 s。",
+        "pages": [
+          8,
+          9,
+          10,
+          11
+        ],
+        "locator": "§3.3 Eq.(13), Proposition1",
+        "type": "guarantee_boundary",
+        "claim_id": "C-B18-027",
+        "source_id": "E-B18-S056",
+        "claim_text_sha256": "f76e2a2d634dd2dfff2d8e81f94a2478fe10abf700727567688ec509b952c01e"
+      },
+      {
+        "text": "长期/短时动作选择除Pc外，还评估等进入视场后不可避免的风险，并比较期望燃料代理。",
+        "pages": [
+          13,
+          14
+        ],
+        "locator": "§4 Definitions2–3; Fig.5",
+        "type": "decision_interface",
+        "claim_id": "C-B18-028",
+        "source_id": "E-B18-S056",
+        "claim_text_sha256": "aea726b1c3b751ef519072a94f0b374c2dfa2f533d36cf56aa44f11c9e6a191b"
+      },
+      {
+        "text": "2至10碎片每配置100例及一个混合场景都在作者仿真中成功；场景2先期规避与三个近距对象避让共同处理。",
+        "pages": [
+          15,
+          16,
+          18
+        ],
+        "locator": "§5.1–5.2; Tables4–7; Scenario2 results",
+        "type": "experiment",
+        "claim_id": "C-B18-029",
+        "source_id": "E-B18-S056",
+        "claim_text_sha256": "8c9095f2e6670897087df3b9586bed8356a68e8bcdd731e29244dd5f7a444632"
+      },
+      {
+        "text": "正文用于星敏感器感知的引文[8]在书目中却对应奶牛产奶预测，故相关传感器能力引述暂不采用。",
+        "pages": [
+          2,
+          20
+        ],
+        "locator": "Introduction reference[8]; bibliography[8]",
+        "type": "source_issue",
+        "claim_id": "C-B18-030",
+        "source_id": "E-B18-S056",
+        "claim_text_sha256": "bb8f9e7e18d474a45f83c27cc6b5b678b1b601d1b15e78a5ca3947f58e67ba12"
+      }
+    ],
+    "adoption_status": "candidate_after_human_review",
+    "crossref": "S056_CROSSREF.json",
+    "version_class": "publisher_PDF",
+    "canonical_url": "https://doi.org/10.3390/aerospace12050402",
+    "visual_pages": [
+      1,
+      11,
+      16,
+      20
+    ]
+  },
+  {
+    "reading_id": "S057",
+    "actual_title": "Mission Design and Flight Dynamics Operations for the Starling Swarm Technology Demonstration",
+    "title_cn": "Starling地面飞行动力学、避碰后恢复与故障重调度",
+    "authors": "Nahum Alem; Theodore G. Hendriks; Jose L. Alvarellos; Paul G. Levinson-Muth; Andres Dono",
+    "year": 2025,
+    "identifier": "NASA:20250007355",
+    "actual_version": "NASA NTRS会议稿，2025 AAS/AIAA Astrodynamics Specialist Conference，15物理页。",
+    "evidence_role": "multi_spacecraft_flight_operations",
+    "body_pages": [
+      1,
+      15
+    ],
+    "question": "在实际推进故障、测量缺口、进入安全模式和外部高风险交会下，群体队形的维持与任务恢复如何被组织进日常运控闭环。",
+    "inputs": "四颗星GPS导航解、地面ODTK联合滤波和平滑、空间天气及地球定向数据；输出轨道与协方差用于队形监测、机动设计和外部交会筛查。",
+    "decisions": "地面FD团队按需在每周节奏内分配维持与队形调整机动；推进泄漏后让其他成员补偿Starling-1漂移。外部碰撞规避打破原有间距时，随后安排队形恢复。",
+    "mechanism": "先更新状态与协方差，再生成/审查机动、CARA筛查、运控批准和执行，后续重建机动表现。平台安全模式会丢失既有活动且改变阻力，形成状态更新、资源变化与重新采用计划的耦合。",
+    "validation": "基于实际四星任务的运行报告。CARA每日多次返回未来七天交会；GPS中断对应沿轨位置3σ不确定度接近70 m。安全模式恢复多数24小时内，少数到一周；高阻姿态改变后续漂移。另有推进异常期间的数天至数周差分阻力操作。",
+    "limitations": [
+      "主要机动规划明确在地面执行，不能因摘要使用autonomous概述就认定这套FDS是全星载自主系统。",
+      "p4通常将差分阻力视为扰动，p13异常运行又使用差分阻力控制，两者按工况区分。",
+      "p10将Fig.4c误称July曲线，而图注和日期为May，July对应Fig.5；ODTK版本段落也不完全一致。保留来源冲突。",
+      "所述恢复时间和SEU频率是该任务报告，不外推所有CubeSat的失效率。",
+      "与S054/S058同一任务线，未取得原始GPS/控制日志独立验证。"
+    ],
+    "use": "优先补3.6.3避碰—恢复—任务再采用：安全动作的次生队形偏差、推进状态和地面接触机会会决定何时能恢复原计划；提供实际运行链而非只列控制算法。",
+    "claims": [
+      {
+        "text": "地面联合处理四星GPS进行定轨，再把轨道与协方差送CARA，接收未来七天的交会分析。",
+        "pages": [
+          7,
+          8
+        ],
+        "locator": "Orbit Determination section",
+        "type": "flight_workflow",
+        "claim_id": "C-B18-031",
+        "source_id": "E-B18-S057",
+        "claim_text_sha256": "d7bbf32bcb06d649cb918f57fdbd1a50828f9ac494ef172288bb895ece3b90c6"
+      },
+      {
+        "text": "主要机动规划由地面飞行动力学团队实施，包含审查、CARA筛查和运控批准，通常以周为节奏。",
+        "pages": [
+          11,
+          12
+        ],
+        "locator": "Maneuver Planning; Table2",
+        "type": "adoption_gate",
+        "claim_id": "C-B18-032",
+        "source_id": "E-B18-S057",
+        "claim_text_sha256": "57f78f017a800f36a9c9e6920193591594c1b11e1a83453bfd6521275a41cf81"
+      },
+      {
+        "text": "安全模式会丢失后续已排活动，恢复后重规划；该模式阻力面积约为名义六倍。",
+        "pages": [
+          12,
+          13
+        ],
+        "locator": "Off-Nominal Operations",
+        "type": "recovery_coupling",
+        "claim_id": "C-B18-033",
+        "source_id": "E-B18-S057",
+        "claim_text_sha256": "9fb1292b62ddee1de03bf7274df5c8acceae3e38a6278d9bd49ee24fc1c02476"
+      },
+      {
+        "text": "外部碰撞规避虽降低交会风险，却引入群内漂移，需要后续队形维持机动纠正。",
+        "pages": [
+          13
+        ],
+        "locator": "Off-Nominal Operations, COLA paragraph",
+        "type": "flight_evidence",
+        "claim_id": "C-B18-034",
+        "source_id": "E-B18-S057",
+        "claim_text_sha256": "fe6a5b401b68fc885cfe5df36a9854fc490914341cd761dfa3cb1186244f0a81"
+      },
+      {
+        "text": "GPS数据缺口对应Fig.4c沿轨位置3σ不确定度接近70 m；该图为May，July示例另在Fig.5。",
+        "pages": [
+          8,
+          10,
+          11
+        ],
+        "locator": "OD discussion; Figs.4c and5",
+        "type": "metric_boundary",
+        "claim_id": "C-B18-035",
+        "source_id": "E-B18-S057",
+        "claim_text_sha256": "863cd0bd5736c2d8f650e8bc06efe724bc1f1326e432f59317a2dbd37267fe17"
+      }
+    ],
+    "adoption_status": "candidate_after_human_review",
+    "canonical_url": "https://ntrs.nasa.gov/citations/20250007355",
+    "version_class": "conference_PDF",
+    "metadata_file": "S057_NASA.json",
+    "research_line": "Starling",
+    "visual_pages": [
+      1,
+      10,
+      12,
+      13
+    ]
+  },
+  {
+    "reading_id": "S058",
+    "actual_title": "NASA’s Starling Mission and Space Situational Awareness Implications",
+    "title_cn": "Starling扩展任务的执行链补强及光学态势感知边界",
+    "authors": "Roger C. Hunter; Elwood F. Agasid; Samson Phan; Nathan A. Benz; Scott T. Miller; Caleb A. Adams; Brian C. Kempa; Jeremy D. Frank; Michael J. Iatauro; Justin Kruger; Simone D’Amico; Julianna L. Fishman; Sasha V. Weston",
+    "year": 2025,
+    "identifier": "AMOS2025:Starling-SSA",
+    "actual_version": "AMOS 2025会议论文，由作者Justin Kruger网站提供18页PDF；正文以各试验截止日为准，不作2026年任务最新状态。",
+    "evidence_role": "multi_spacecraft_flight_extension",
+    "body_pages": [
+      1,
+      17
+    ],
+    "question": "Starling早期平台/执行短板在后续软件更新中改善到哪一步，分布式观测决策、网络资源控制和光学态势感知分别有哪些实际结果与未完成环节。",
+    "inputs": "三星DSA观测与奖励交换、星敏感器影像、星上TLE目标目录；目标目录由地面更新上传，跨星通信和可见性均是能力前提。",
+    "decisions": "每星1 Hz构造同一MILP并抽取本地GPS信道计划；扩展试验通过本地执行代理控制跨星电台开关、网络重建及分片重传。StarFOX+则作目标识别和快速初始定轨。",
+    "mechanism": "计划一致、目标覆盖和重配置时延分别定义。观测奖励变化可触发重分配，网络资源执行也进入自治环节；这比只在软件内算计划更接近采用闭环，但不等于整个星群可靠自主机动。",
+    "validation": "报告2024年11月SV4完成三次点火的一次自主维持机动；DSA1.5重复传输10 MB文件并跨网络中断重传。StarFOX+报告2025年4–7月识别591个不同对象，表2综合正确匹配81.3%。快速合作定轨仍以地面运行飞行软件处理历史飞行数据验证，8次初始化中部分误差不被采样不确定度良好覆盖。",
+    "limitations": [
+      "与S054/S057共享Starling任务，仅是新阶段/专题报告，不能视作独立任务验证。",
+      "p6写16次运行中13次成功或半成功，却随后称86.7%；13/16为81.25%，分母口径未解释，本批不采用86.7%。",
+      "p16称2024完成所有技术目标，与p3将一次自主机动定在2024年11月且承认星群可靠机动不足存在张力；以具体结果限定结论。",
+      "p17将DSA成果概述成队形/轨迹重构强于信道及硬件调度证据，不沿用该升级表述。",
+      "p12–13正确/错误识别阈值的印刷不等号范围重叠；表2匹配率作为任务方报告而非独立核实精度。",
+      "快速初始定轨在正文中仍为地面验证及计划在轨测试，不能因会议较晚便自动视作已在轨成功。"
+    ],
+    "use": "补计划采用和资源执行：共享状态、共同求解、计划一致、执行代理、传输校验与状态更新逐层成立。保留早期失败到后续局部成功的时间线，不用总结性口号覆盖具体限制。",
+    "claims": [
+      {
+        "text": "2025报告记载2024年11月SV4完成三次点火的自主维持机动，同时明确可靠星群自主机动仍不足。",
+        "pages": [
+          3
+        ],
+        "locator": "§3.2 ROMEO",
+        "type": "flight_progress",
+        "claim_id": "C-B18-036",
+        "source_id": "E-B18-S058",
+        "claim_text_sha256": "0b5f72efd8be674fd5a3396e44197ad8052dc5766cea2f29a7a84ddd93a7cabb"
+      },
+      {
+        "text": "DSA各星以1 Hz求同一信道MILP；计划一致、覆盖和反应时延是不同指标。",
+        "pages": [
+          5,
+          6,
+          7
+        ],
+        "locator": "§4.2–4.4",
+        "type": "coordination_metrics",
+        "claim_id": "C-B18-037",
+        "source_id": "E-B18-S058",
+        "claim_text_sha256": "bebb2027827420c661483da4f0e861b28f7829ccfdbb34841ced40f6c839c9e6"
+      },
+      {
+        "text": "DSA1.5在轨演示按环境/位置建立和拆建网络，并通过分片重传重复完成10 MB文件传输。",
+        "pages": [
+          9
+        ],
+        "locator": "§4.6, local autonomy and LFT results",
+        "type": "execution_evidence",
+        "claim_id": "C-B18-038",
+        "source_id": "E-B18-S058",
+        "claim_text_sha256": "e030619cc9deae3f7255b7f59e6d720c9c7ae707e295889c1dd563fd1fa2bc05"
+      },
+      {
+        "text": "StarFOX+任务方报告识别591个不同对象，表2综合正确匹配81.3%；不等于591个对象状态全部精确恢复。",
+        "pages": [
+          12,
+          13,
+          14
+        ],
+        "locator": "§5.4.1; Table2",
+        "type": "flight_evidence",
+        "claim_id": "C-B18-039",
+        "source_id": "E-B18-S058",
+        "claim_text_sha256": "c19e3fad18a87a14c0565f44b0158404f8e152e91917ba28e58cfa39bafd30ea"
+      },
+      {
+        "text": "快速合作初始定轨结果来自地面飞行软件回放，8次初始化中最大沿轨误差约18 km且不确定度包络欠佳。",
+        "pages": [
+          15,
+          16
+        ],
+        "locator": "§5.4.2 Fig.15, Table3",
+        "type": "negative_boundary",
+        "claim_id": "C-B18-040",
+        "source_id": "E-B18-S058",
+        "claim_text_sha256": "6464a7b0744b337a5c9f462e728f00494d116f35a3df494dacc078022e34d140"
+      }
+    ],
+    "adoption_status": "candidate_after_human_review",
+    "canonical_url": "https://justin.zone/starling_amos_2025.pdf",
+    "version_class": "author_hosted_conference_PDF",
+    "research_line": "Starling",
+    "visual_pages": [
+      1,
+      3,
+      6,
+      12,
+      14,
+      15
+    ]
+  },
+  {
+    "reading_id": "S059",
+    "actual_title": "Close-Proximity Operations Design, Analysis, and Validation for Non-Cooperative Targets with an Application to the ClearSpace-1 Mission",
+    "title_cn": "近距操作的分区准入、取消/中止与安全验证链",
+    "authors": "José Vasconcelos; Serena Gaggi; Tiago Amaral; Charles Bakouche; Adina Cotuna; Ana Friaças",
+    "year": 2025,
+    "identifier": "10.3390/aerospace12010067",
+    "actual_version": "Aerospace 12(1):67，2025-01-18出版，23物理页；以VESPA案例设计为准，不把该旧案例当作当前CS-1任务状态。",
+    "evidence_role": "single_spacecraft_operational_safety",
+    "body_pages": [
+      1,
+      21
+    ],
+    "question": "在逼近非合作目标时，如何把区间、准入门槛、被动安全、主动撤离及恢复组合成可验证的运行逻辑，而不只优化一条标称无碰撞轨迹。",
+    "inputs": "目标/服务星几何、姿态与相对状态估计，光照与视场条件，推进/控制能力及故障模型；使用相机、雷达及分阶段导航滤波，不是纯位置几何问题。",
+    "decisions": "定义AZ/KOZ、Approach/Abort走廊、不可返回点和分阶段Go/No-Go；根据导航、执行器与资源可用性选择继续、Cancel撤回可恢复点或Abort转安全轨迹。",
+    "mechanism": "远距离ROE轨迹通过相对偏心率/倾角向量共线构造被动安全，近距离依靠6DOF控制与FDIR。以快速模型先找困难初态，再在高保真模型中围绕其做定向Monte Carlo；导航还用合成成像及地面光学台架补充。",
+    "validation": "单服务星对单非合作目标的任务设计与MIL仿真。给AZ半径1 km、KOZ半径6 m等案例参数；推进器失效触发Abort，Cancel停止跳跃失败仍保持远离目标。未见足以独立复现全部风险统计的完整样本数和参数分布。",
+    "limitations": [
+      "这是设计、分析及地面验证文献，不是CS-1已在轨捕获或多星协商演示。",
+      "Go for AZ及KOZ由地面发令，捕获Go可自主；结尾说面向全自主并未取消现有地面准入点。",
+      "区域与走廊尺寸依任务缩放，1 km/6 m/50%裕度不是所有任务或法规统一数值。",
+      "所列标准/指南为文章的2025引用背景；本批未核对其当前法规版本，不给合规认证意见。",
+      "抽取夹有图形嵌入的旧版页眉/重复文字，视觉页显示正式23页；均按实际PDF物理页定位，不按嵌入的24页号。"
+    ],
+    "use": "作为3.6.3及采用更新的工程基础：安全撤离与可恢复撤回是不同决策，执行前须验证状态和执行链可用性。向多星推广时还缺其他主动成员和次生交会约束。",
+    "claims": [
+      {
+        "text": "AZ、KOZ和捕获入口各有准入条件，AZ/KOZ的Go由地面发出，捕获Go可自主。",
+        "pages": [
+          6,
+          7,
+          8
+        ],
+        "locator": "§3.2–3.3; Fig.5",
+        "type": "adoption_gate",
+        "claim_id": "C-B18-041",
+        "source_id": "E-B18-S059",
+        "claim_text_sha256": "bd1857c2ef4bbea8a564790a536dcb1a26bca4e339229cac699d7adce2efebdf"
+      },
+      {
+        "text": "Cancel用于中断不满足接近条件的操作并保留恢复机会，Abort用于安全受威胁时进入被动安全轨迹。",
+        "pages": [
+          8,
+          9
+        ],
+        "locator": "§3.4; Fig.6",
+        "type": "recovery_logic",
+        "claim_id": "C-B18-042",
+        "source_id": "E-B18-S059",
+        "claim_text_sha256": "1c4643973f4060263fb7c6e8a0abb1fafab9d111eda28016541e73fae1bcea57"
+      },
+      {
+        "text": "远距离以ROE共线构造被动安全，近距则依赖控制和FDIR补充主动安全。",
+        "pages": [
+          14,
+          15,
+          16
+        ],
+        "locator": "§4.3–4.4; Figs.13,15",
+        "type": "safety_architecture",
+        "claim_id": "C-B18-043",
+        "source_id": "E-B18-S059",
+        "claim_text_sha256": "f109e7400fc181847c85ff08ed9c50fa5a2b5980ecf922c3c4b2c6784f3aee0e"
+      },
+      {
+        "text": "故障中止用快速仿真定位困难条件，再用高保真模型作定向Monte Carlo，并测试Cancel停止跳跃失效。",
+        "pages": [
+          18,
+          19,
+          20
+        ],
+        "locator": "§5.4–5.5; Figs.21–23",
+        "type": "validation_method",
+        "claim_id": "C-B18-044",
+        "source_id": "E-B18-S059",
+        "claim_text_sha256": "8e3d4e2d864a025019698d3c0a8beb0d7fd72c94cdbaaac7786c98afd1f8047f"
+      },
+      {
+        "text": "论文的验证为设计/分析/MIL及地面光学试验，地面仍参与监控和决策点，并期待飞行经验后减少地面控制。",
+        "pages": [
+          18,
+          21
+        ],
+        "locator": "§5.3; §6 Conclusions",
+        "type": "validation_boundary",
+        "claim_id": "C-B18-045",
+        "source_id": "E-B18-S059",
+        "claim_text_sha256": "3503ec866fd9e93c56cf1614ff6cbfdff3d41a34d726417a773344cc61af02d5"
+      }
+    ],
+    "adoption_status": "candidate_after_human_review",
+    "crossref": "S059_CROSSREF.json",
+    "version_class": "publisher_PDF",
+    "canonical_url": "https://doi.org/10.3390/aerospace12010067",
+    "visual_pages": [
+      1,
+      7,
+      8,
+      19,
+      21
+    ]
+  },
+  {
+    "reading_id": "S060",
+    "actual_title": "Starlink Constellation: Deployment, Configuration, and Dynamics",
+    "title_cn": "大型星座持续更新的TLE观测证据与归因边界",
+    "authors": "Muaz Ali; Utkarsh Upadhyay; Sean McCormick; Joseph Hill; Beichuan Zhang",
+    "year": 2026,
+    "identifier": "arXiv:2603.25835v1",
+    "actual_version": "arXiv v1，2026-03-26，16物理页；末页为空白。",
+    "evidence_role": "general_constellation_empirical_context",
+    "body_pages": [
+      1,
+      13
+    ],
+    "question": "实际星座部署、退役和机动如何偏离静态均匀模型；这些变化可为综述动态闭环提供什么证据，哪些功能归因超出了公开轨道数据本身。",
+    "inputs": "2019–2025年Space-Track TLE与卫星目录，另加2026年1月TLE作运动检测，辅以CelesTrak交会报告。缺测日可用附近TLE补齐，数据既非连续真值也不含内部决策指令。",
+    "decisions": "DBSCAN识别壳层/轨道面，壳层相位对齐后，用单星相对群体中位数的日间变化和5σ阈值检测运动，再按交会报告时间邻近关系分类；这些是观察算法而非实际控制策略。",
+    "mechanism": "把星座当作持续演化、具有异构成员及非均匀间距的系统。识别常规骨干与近邻成簇成员可提示运行冗余，但备用功能只是假设。网络案例按轨道几何构造pGrid以展示模型敏感性，不能视作Starlink实际路由测量。",
+    "validation": "五个主要壳层174天检测45,945次运动记录；连续日变化可能组成一个长期调整，因此记录不等同点火次数。作者用一日窗和最大Pc门限关联避碰标签；未取得运营者逐次机动指令验证因果。退轨/寿命分析将目录事件解释为失效，早期日失效率的实际硬件归因不足。",
+    "limitations": [
+      "预印本；本批主要采用“部署状态动态变化”的问题背景，不用其网络性能讨论代替多星控制证据。",
+      "作者按TLE出现/离开和退轨事件推断运行状态，没有充分区分计划退役、数据缺口、主动撤离和真实故障。0.0128%不作为已确认硬件日失效率。",
+      "交会报告邻近匹配只能支持关联标签，不能将74.6%运动被标为避碰写成运营者确认的因果占比。",
+      "p11从60.6到73.7 ms却称增加17.8%；按60.6作基准为约21.6%，本批不采用17.8%提升口径。",
+      "twins/triads充当备用节点是作者假说，缺少内部状态/任务指派证据。",
+      "数据和检测代码未独立取得并复算；观测记录次数不等于独立机动事件数。"
+    ],
+    "use": "只为综述问题边界及动态更新动机提供观察性背景：任务和资源状态、队形与可用成员并非静态。具体安全控制依据仍用S051/S052/S055及在轨运行报告。",
+    "claims": [
+      {
+        "text": "数据管线使用2019–2025年TLE/目录，并加入2026年1月作运动检测，缺测可用附近记录补齐。",
+        "pages": [
+          3
+        ],
+        "locator": "§2.3 Dataset and Analysis Pipeline",
+        "type": "data_scope",
+        "claim_id": "C-B18-046",
+        "source_id": "E-B18-S060",
+        "claim_text_sha256": "e0b92daaf10d53ae322d5f1d359b2921a2d5b787582af4a2c7cc912d2119b1d6"
+      },
+      {
+        "text": "运动检测比较壳层对齐后的相位、高度及RAAN日间变化，按中位数与5σ阈值识别偏离。",
+        "pages": [
+          9,
+          10
+        ],
+        "locator": "§3.4.1 Movement Detection",
+        "type": "method",
+        "claim_id": "C-B18-047",
+        "source_id": "E-B18-S060",
+        "claim_text_sha256": "13f54a82322572c0943c0d78e0e0875f85295570a19301320da9f737f1d137c1"
+      },
+      {
+        "text": "五壳层174天共45,945次运动检测记录，连续检测可组成多日过程，不能直接计为45,945次独立点火。",
+        "pages": [
+          10
+        ],
+        "locator": "§3.4.1–3.4.2",
+        "type": "counting_boundary",
+        "claim_id": "C-B18-048",
+        "source_id": "E-B18-S060",
+        "claim_text_sha256": "25bfe5b7f7e3193d4d10f5cd2d8ff726d60a387003b2a4c65164fa2c8ab7186c"
+      },
+      {
+        "text": "避碰标签由交会报告与一日时间窗匹配产生；这种关联不是运营者逐次确认的机动原因。",
+        "pages": [
+          10,
+          11
+        ],
+        "locator": "§3.4.3 classification rule; reader inference",
+        "type": "inference_boundary",
+        "claim_id": "C-B18-049",
+        "source_id": "E-B18-S060",
+        "claim_text_sha256": "b22e36d0832a10fdec138571611fd07dd5ae60ceea6b27b2c1ce11903f8a8b10"
+      },
+      {
+        "text": "作者用TLE/退轨事件估计寿命及早期日失效概率，但未充分区分计划退役和真实硬件故障，本批暂不采用该失效率作可靠性参数。",
+        "pages": [
+          8,
+          9
+        ],
+        "locator": "§3.3 Lifecycle/Survival; reader assessment",
+        "type": "adoption_boundary",
+        "claim_id": "C-B18-050",
+        "source_id": "E-B18-S060",
+        "claim_text_sha256": "9f700b1693bb992012b304ee6bd4a5c141907685018fda79a91632d0fda58f8d"
+      }
+    ],
+    "adoption_status": "candidate_after_human_review",
+    "canonical_url": "https://arxiv.org/abs/2603.25835v1",
+    "arxiv": "2603.25835v1",
+    "version_class": "arxiv_preprint",
+    "appendix_scope": "正文1–13精读；参考文献13–14略读；附图15按结构扫描，末页16为空白；未做原始TLE复算。",
+    "visual_pages": [
+      1,
+      9,
+      10,
+      11
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+{
+  "title": "In-Orbit Optimal Safe Formation Control for Surrounding an Unknown Huge Target with Specific Structure by Using Relative Sensors Only",
+  "aliases": [],
+  "identifier_aliases": [],
+  "authors_as_read": "Bosong Wei; Cong Li; Zhaohui Dang; Xiaokui Yue",
+  "bibliographic_year": 2025,
+  "identifier": "10.3390/s25175606",
+  "actual_arxiv_version": null,
+  "actual_version": "Sensors 25(17):5606，2025-09-08出版，30物理页。",
+  "source_sha256": "650a2ad909a783d37bf35bf1099f392171bc848fcadaca91075b8dbfa4bed31d",
+  "source_format": "PDF",
+  "primary_url": "https://doi.org/10.3390/s25175606",
+  "human_verified": false,
+  "formal_version_text_compared": false,
+  "adoption_status": "candidate_after_human_review",
+  "source_issues": [
+    "accurate geometry and zero-delay sharing are assumptions",
+    "initial-collision-free and feasible-path assumptions remain",
+    "ATFC unit is m/s"
+  ],
+  "source_issues_resolved": false,
+  "crossref_file": "S055_CROSSREF.json"
+}
