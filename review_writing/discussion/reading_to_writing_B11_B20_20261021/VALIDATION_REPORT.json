@@ -1,0 +1,16 @@
+{
+  "result": "PASS",
+  "scope": "Overview counts, existing claim-ID bindings, relative links and unchanged source files; not scientific approval",
+  "evidence_base_commit": "0376dd6615f705045762a14a4e37ec87f558183b",
+  "completed_source_records": 97,
+  "claim_records": 450,
+  "batches": 10,
+  "writing_map_rows": 10,
+  "all_map_claim_ids_exist": true,
+  "input_files_hash_verified": 34,
+  "historical_reading_and_manuscript_files_unchanged": 704,
+  "historical_snapshot_sha256": "bebf7f41eb39ad715af5722d26ded43385e920c35bd569ddeea2e5a7a634f368",
+  "manuscript_sha256": "c9d1af6f12d412897a1434ddf082101b2db7491274fb0425896a3f01c7db5a15",
+  "human_verified": false,
+  "manuscript_modified": false
+}

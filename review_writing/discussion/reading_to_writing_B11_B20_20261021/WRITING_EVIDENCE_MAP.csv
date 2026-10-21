@@ -1,0 +1,11 @@
+﻿writing_row_id,topic,target_sections,reading_ids,claim_ids,proposed_writing_use,required_boundary,adoption_status
+W01,执行能力与任务资源,2.1;4.2;4.4,L005;L019,C-B11-001;C-B11-004;C-B20-004;C-B20-005,将姿态、电量、控制能力作为动作可用性的条件,双星或特定模型结果，不能外推任意高度与规模,CANDIDATE_HUMAN_REVIEW_PENDING
+W02,构型候选与成员分配,3.1;3.4,L017;L024;L063,C-B11-009;C-B20-008;C-B20-031;C-B20-032,把末态构型、槽位分配、转移与安全验收分开,末态被动安全不等于转移全程安全,CANDIDATE_HUMAN_REVIEW_PENDING
+W03,风险定义与判断,2.4;4.4;拟增3.6.2,L040;L041;L059;L036,C-B11-017;C-B11-021;C-B11-038;C-B19-041,比较概率或置信量之前，先列时间范围和假设,各类风险指标不能移用同一阈值或拼成统一保证,CANDIDATE_HUMAN_REVIEW_PENDING
+W04,群体安全责任与联合可行性,3.4;4.3,S001;S011;S030;S047,C-B13-002;C-B14-001;C-B14-003;C-B15-042;C-B17-030,区分单星安全过滤、多星联合控制及责任协商,机器人基础、单星基础和多星轨道证据分别标注,CANDIDATE_HUMAN_REVIEW_PENDING
+W05,信息时效与修改权限,3.4;4.3,S022;S031;S034,C-B15-006;C-B15-007;C-B16-001;C-B16-016,写清共享当前状态还是预测、何时更新及谁能改计划,时延补偿实验不能直接作为任意丢包断连保证,CANDIDATE_HUMAN_REVIEW_PENDING
+W06,采样执行与全程约束,4.4,S012;S038;L050,C-B14-007;C-B16-033;C-B20-028,分别评价节点约束、采样裕量和实际连续执行,节点安全不自动延伸到节点之间,CANDIDATE_HUMAN_REVIEW_PENDING
+W07,学习与安全层的职责,3.3;4.4,S014;S043,C-B14-016;C-B14-017;C-B17-011;C-B17-015,比较策略规模迁移与安全层的信息和验证需求,通用模型验证不可称为多星在轨认证,CANDIDATE_HUMAN_REVIEW_PENDING
+W08,失效漂移、备份与接管,3.5;4.4,S007;S026;S051,C-B13-026;C-B15-023;C-B15-024;C-B18-001,把失效后的可恢复状态与接管条件纳入采用接口,构型切换仿真、软件在环和在轨结果分层使用,CANDIDATE_HUMAN_REVIEW_PENDING
+W09,避碰后恢复与信息更新,3.5;4.4,L046;L050;S048;S057,C-B11-030;C-B20-029;C-B17-036;C-B18-031,连接规避、导航更新、队形恢复与任务重新安排,轨道恢复不等于业务恢复；合成OD不是实际测量,CANDIDATE_HUMAN_REVIEW_PENDING
+W10,工程案例与证据成熟度,4.4;4.5,S054;S057;S058,C-B18-016;C-B18-031;C-B18-036,按任务线记录计划协商、机动执行和后续进展,三篇Starling报告共享任务平台，不是三次独立验证,CANDIDATE_HUMAN_REVIEW_PENDING

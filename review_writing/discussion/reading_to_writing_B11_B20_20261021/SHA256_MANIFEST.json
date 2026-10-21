@@ -1,0 +1,11 @@
+{
+  "algorithm": "SHA256",
+  "files": {
+    ".gitattributes": "705fd4d6451a31d36b3df7de96f83f30ac976c9b4a6d1e51671d8e2f33e2d0da",
+    "READING_PROGRESS_SNAPSHOT.json": "f5696a6dd66e5cd9414b860054ae7daa6debfcd19a3d450076dcef9eab72de13",
+    "README_CN.md": "3bccc725929d4be3d5f353a02fe677f2aac1a03827ad7ae7a46c40c44bc00819",
+    "VALIDATION_REPORT.json": "62728fa9955b09daf36f8c763b25c5a5b7ba9604ea2a51a130052c0678a34e71",
+    "WRITING_EVIDENCE_MAP.csv": "113fe0f5cae21ac4e176bc1c7f9cf63bf626bbbf786fc8b0273b07c6dcf4f0d7"
+  },
+  "scope": "All overview files except this manifest"
+}
