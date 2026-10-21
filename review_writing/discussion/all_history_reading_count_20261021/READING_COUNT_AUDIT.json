@@ -1,0 +1,3188 @@
+{
+  "earlier_original": 77,
+  "earlier_external": 10,
+  "earlier_total": 87,
+  "B11_through_B20": 97,
+  "raw_records": 184,
+  "exact_identity_duplicate_links": [],
+  "unique_identity_clusters": 184,
+  "duplicate_clusters": [],
+  "fuzzy_review_candidates": [
+    {
+      "a": "S006",
+      "b": "S004",
+      "similarity": 0.8396,
+      "title_a": "Connectivity preservation and collision avoidance control for spacecraft formation flying in the presence of multiple obstacles",
+      "title_b": "Connectivity Preservation and Collision Avoidance Control for Spacecraft Formation Flying with Bounded Actuation"
+    },
+    {
+      "a": "S005",
+      "b": "S004",
+      "similarity": 0.8173,
+      "title_a": "Leader-Following Connectivity Preservation and Collision Avoidance Control for Multiple Spacecraft with Bounded Actuation",
+      "title_b": "Connectivity Preservation and Collision Avoidance Control for Spacecraft Formation Flying with Bounded Actuation"
+    },
+    {
+      "a": "REF6",
+      "b": "REF1",
+      "similarity": 0.8022,
+      "title_a": "Towards the automated operations of large distributed satellite systems. Part 2: Classifications and tools",
+      "title_b": "Towards the automated operations of large distributed satellite systems. Part 1: Review and paradigm shifts"
+    },
+    {
+      "a": "L017",
+      "b": "REF11",
+      "similarity": 0.75,
+      "title_a": "Uniform Satellite Constellation Reconfiguration",
+      "title_b": "Optimization of satellite constellation reconfiguration maneuvers"
+    },
+    {
+      "a": "L022",
+      "b": "REF11",
+      "similarity": 0.7432,
+      "title_a": "General Perturbation Method for Satellite Constellation Reconfiguration Using Low-Thrust Maneuvers",
+      "title_b": "Optimization of satellite constellation reconfiguration maneuvers"
+    },
+    {
+      "a": "L059",
+      "b": "L048",
+      "similarity": 0.7347,
+      "title_a": "Collision Avoidance Maneuvers Optimization in the Presence of Multiple Encounters",
+      "title_b": "Collision avoidance maneuver optimization with a multiple-impulse convex formulation"
+    }
+  ],
+  "records": [
+    {
+      "record_id": "REF1",
+      "group": "EARLIER_ORIGINAL",
+      "reference_number": 1,
+      "keys": [
+        "doi:10.1016/j.asr.2020.08.009",
+        "title:towardstheautomatedoperationsoflargedistributedsatellitesystemspart1reviewandparadigmshifts"
+      ],
+      "titles": [
+        "Towards the automated operations of large distributed satellite systems. Part 1: Review and paradigm shifts"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_inventory_20261013/READING_LEDGER_121.json",
+        "review_writing/evidence/reading_batches/B10_20261016/CUMULATIVE_READING_STATUS.json",
+        "review_writing/evidence/reading_batches/B06_20261016/SOURCE_MANIFEST_B06.json"
+      ]
+    },
+    {
+      "record_id": "REF2",
+      "group": "EARLIER_ORIGINAL",
+      "reference_number": 2,
+      "keys": [
+        "arxiv:2306.01107",
+        "doi:10.2514/1.a35982",
+        "title:spacelogisticsmodelingandoptimizationreviewofthestateoftheart"
+      ],
+      "titles": [
+        "Space Logistics Modeling and Optimization: Review of the State of the Art"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_inventory_20261013/READING_LEDGER_121.json",
+        "review_writing/evidence/reading_batches/B10_20261016/CUMULATIVE_READING_STATUS.json",
+        "review_writing/evidence/reading_batches/B04_20261015/SOURCE_MANIFEST_B04.json"
+      ]
+    },
+    {
+      "record_id": "REF3",
+      "group": "EARLIER_ORIGINAL",
+      "reference_number": 3,
+      "keys": [
+        "arxiv:2003.06169",
+        "doi:10.1109/jsyst.2020.2997050",
+        "title:agileearthobservationsatelliteschedulingover20yearsformulationsmethodsandfuturedirections"
+      ],
+      "titles": [
+        "Agile Earth Observation Satellite Scheduling Over 20 Years: Formulations, Methods, and Future Directions"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_inventory_20261013/READING_LEDGER_121.json",
+        "review_writing/evidence/reading_batches/B10_20261016/CUMULATIVE_READING_STATUS.json",
+        "review_writing/evidence/reading_batches/B05_20261016/SOURCE_MANIFEST_B05.json"
+      ]
+    },
+    {
+      "record_id": "REF4",
+      "group": "EARLIER_ORIGINAL",
+      "reference_number": 4,
+      "keys": [
+        "doi:10.1016/j.cor.2024.106875",
+        "title:satelliteschedulingproblemsasurveyofapplicationsinearthandouterspaceobservation"
+      ],
+      "titles": [
+        "Satellite Scheduling Problems: A survey of applications in Earth and outer space observation"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_inventory_20261013/READING_LEDGER_121.json",
+        "review_writing/evidence/reading_batches/B10_20261016/CUMULATIVE_READING_STATUS.json",
+        "review_writing/evidence/reading_batches/B05_20261016/SOURCE_MANIFEST_B05.json"
+      ]
+    },
+    {
+      "record_id": "REF5",
+      "group": "EARLIER_ORIGINAL",
+      "reference_number": 5,
+      "keys": [
+        "doi:10.1016/j.actaastro.2025.10.018",
+        "title:agentbasedapproachesfordistributedspacesystemsandmissionmanagementmethodologiescurrentpracticesandchallenges"
+      ],
+      "titles": [
+        "Agent-based approaches for distributed space systems and mission management: Methodologies, current practices and challenges"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_inventory_20261013/READING_LEDGER_121.json",
+        "review_writing/evidence/reading_batches/B10_20261016/CUMULATIVE_READING_STATUS.json",
+        "review_writing/evidence/reading_batches/B04_20261015/SOURCE_MANIFEST_B04.json"
+      ]
+    },
+    {
+      "record_id": "REF6",
+      "group": "EARLIER_ORIGINAL",
+      "reference_number": 6,
+      "keys": [
+        "doi:10.1016/j.asr.2020.08.018",
+        "title:towardstheautomatedoperationsoflargedistributedsatellitesystemspart2classificationsandtools"
+      ],
+      "titles": [
+        "Towards the automated operations of large distributed satellite systems. Part 2: Classifications and tools"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_inventory_20261013/READING_LEDGER_121.json",
+        "review_writing/evidence/reading_batches/B10_20261016/CUMULATIVE_READING_STATUS.json",
+        "review_writing/evidence/reading_batches/B05_20261016/SOURCE_MANIFEST_B05.json"
+      ]
+    },
+    {
+      "record_id": "REF7",
+      "group": "EARLIER_ORIGINAL",
+      "reference_number": 7,
+      "keys": [
+        "doi:10.7527/s1000-6893.2026.32935",
+        "title:asurveyofintelligentnetworkingtechnologiesforleomegaconstellations"
+      ],
+      "titles": [
+        "A Survey of Intelligent Networking Technologies for LEO Mega-Constellations",
+        "低轨巨型星座智能组网技术综述"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_inventory_20261013/READING_LEDGER_121.json",
+        "review_writing/evidence/reading_batches/B10_20261016/CUMULATIVE_READING_STATUS.json",
+        "review_writing/evidence/reading_batches/B04_20261015/SOURCE_MANIFEST_B04.json"
+      ]
+    },
+    {
+      "record_id": "REF8",
+      "group": "EARLIER_ORIGINAL",
+      "reference_number": 8,
+      "keys": [
+        "doi:10.3873/j.issn.1000-1328.2026.02.002",
+        "doi:10.3873/j.issn.1000-1328.2026.02.002.pdf",
+        "title:reviewonresourcemanagementandoptimizationtechnologiesforleocommunicationsatelliteconstellationnetworks",
+        "title:低轨通信卫星星座网络资源管控与优化技术综述"
+      ],
+      "titles": [
+        "Review on Resource Management and Optimization Technologies for LEO Communication Satellite Constellation Networks",
+        "低轨通信卫星星座网络资源管控与优化技术综述"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_inventory_20261013/READING_LEDGER_121.json",
+        "review_writing/evidence/reading_batches/B10_20261016/CUMULATIVE_READING_STATUS.json",
+        "review_writing/evidence/reading_batches/B04_20261015/SOURCE_MANIFEST_B04.json"
+      ]
+    },
+    {
+      "record_id": "REF9",
+      "group": "EARLIER_ORIGINAL",
+      "reference_number": 9,
+      "keys": [
+        "doi:10.3390/technologies13080312",
+        "title:towardintegratedsatelliteoperationsandnetworkmanagementareviewandnovelframework"
+      ],
+      "titles": [
+        "Toward Integrated Satellite Operations and Network Management: A Review and Novel Framework"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_inventory_20261013/READING_LEDGER_121.json",
+        "review_writing/evidence/reading_batches/B10_20261016/CUMULATIVE_READING_STATUS.json"
+      ]
+    },
+    {
+      "record_id": "REF10",
+      "group": "EARLIER_ORIGINAL",
+      "reference_number": 10,
+      "keys": [
+        "doi:10.34133/space.0248",
+        "title:dynamicmanagementtopologyconstructionevolutionandmaintenanceoflowearthorbitmegaconstellation"
+      ],
+      "titles": [
+        "Dynamic Management Topology Construction, Evolution, and Maintenance of Low Earth Orbit Mega-Constellation"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_inventory_20261013/READING_LEDGER_121.json",
+        "review_writing/evidence/reading_batches/B10_20261016/CUMULATIVE_READING_STATUS.json",
+        "review_writing/evidence/reading_batches/B06_20261016/SOURCE_MANIFEST_B06.json"
+      ]
+    },
+    {
+      "record_id": "REF11",
+      "group": "EARLIER_ORIGINAL",
+      "reference_number": 11,
+      "keys": [
+        "doi:10.1016/j.actaastro.2014.02.016",
+        "title:optimizationofsatelliteconstellationreconfigurationmaneuvers"
+      ],
+      "titles": [
+        "Optimization of satellite constellation reconfiguration maneuvers"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_inventory_20261013/READING_LEDGER_121.json",
+        "review_writing/evidence/reading_batches/B10_20261016/CUMULATIVE_READING_STATUS.json",
+        "review_writing/evidence/reading_batches/B05_20261016/SOURCE_MANIFEST_B05.json"
+      ]
+    },
+    {
+      "record_id": "REF12",
+      "group": "EARLIER_ORIGINAL",
+      "reference_number": 12,
+      "keys": [
+        "arxiv:2206.02910",
+        "doi:10.2514/1.a35685",
+        "title:regionalconstellationreconfigurationproblemintegerlinearprogrammingformulationandlagrangianheuristicmethod"
+      ],
+      "titles": [
+        "Regional Constellation Reconfiguration Problem: Integer Linear Programming Formulation and Lagrangian Heuristic Method"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_inventory_20261013/READING_LEDGER_121.json",
+        "review_writing/evidence/reading_batches/B10_20261016/CUMULATIVE_READING_STATUS.json",
+        "review_writing/evidence/reading_batches/B03_20261015/SOURCE_MANIFEST_B03.json"
+      ]
+    },
+    {
+      "record_id": "REF13",
+      "group": "EARLIER_ORIGINAL",
+      "reference_number": 13,
+      "keys": [
+        "arxiv:2401.11567",
+        "doi:10.2514/1.a35990",
+        "title:deterministicmultistageconstellationreconfigurationusingintegerprogrammingandsequentialdecisionmakingmethods"
+      ],
+      "titles": [
+        "Deterministic Multistage Constellation Reconfiguration Using Integer Programming and Sequential Decision-Making Methods"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_inventory_20261013/READING_LEDGER_121.json",
+        "review_writing/evidence/reading_batches/B10_20261016/CUMULATIVE_READING_STATUS.json",
+        "review_writing/evidence/reading_batches/B03_20261015/SOURCE_MANIFEST_B03.json"
+      ]
+    },
+    {
+      "record_id": "REF14",
+      "group": "EARLIER_ORIGINAL",
+      "reference_number": 14,
+      "keys": [
+        "arxiv:1910.00672",
+        "doi:10.2514/1.a34657",
+        "title:satelliteconstellationpatternoptimizationforcomplexregionalcoverage"
+      ],
+      "titles": [
+        "Satellite Constellation Pattern Optimization for Complex Regional Coverage"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_inventory_20261013/READING_LEDGER_121.json",
+        "review_writing/evidence/reading_batches/B10_20261016/CUMULATIVE_READING_STATUS.json",
+        "review_writing/evidence/reading_batches/B03_20261015/SOURCE_MANIFEST_B03.json"
+      ]
+    },
+    {
+      "record_id": "REF15",
+      "group": "EARLIER_ORIGINAL",
+      "reference_number": 15,
+      "keys": [
+        "doi:10.1016/j.actaastro.2018.03.054",
+        "title:optimizationofsatelliteconstellationdeploymentstrategyconsideringuncertainareasofinterest"
+      ],
+      "titles": [
+        "Optimization of satellite constellation deployment strategy considering uncertain areas of interest"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_inventory_20261013/READING_LEDGER_121.json",
+        "review_writing/evidence/reading_batches/B10_20261016/CUMULATIVE_READING_STATUS.json",
+        "review_writing/evidence/reading_batches/B05_20261016/SOURCE_MANIFEST_B05.json"
+      ]
+    },
+    {
+      "record_id": "REF16",
+      "group": "EARLIER_ORIGINAL",
+      "reference_number": 16,
+      "keys": [
+        "doi:10.1007/s42405-026-01298-1",
+        "doi:10.1007/s42405-026-01298-1.pdf",
+        "title:twostageframeworkfordeploymentawareoptimizationofsatelliteconstellationpatterndesign"
+      ],
+      "titles": [
+        "Two-Stage Framework for Deployment-Aware Optimization of Satellite Constellation Pattern Design"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_inventory_20261013/READING_LEDGER_121.json",
+        "review_writing/evidence/reading_batches/B10_20261016/CUMULATIVE_READING_STATUS.json",
+        "review_writing/evidence/reading_batches/B04_20261015/SOURCE_MANIFEST_B04.json",
+        "review_writing/evidence/reading_batches/B05_20261016/SOURCE_MANIFEST_B05.json"
+      ]
+    },
+    {
+      "record_id": "REF17",
+      "group": "EARLIER_ORIGINAL",
+      "reference_number": 17,
+      "keys": [
+        "doi:10.1016/j.comnet.2024.110942",
+        "title:jointsatelliteplatformandconstellationsizingforinstantaneousbeamhoppingin5g6gnonterrestrialnetworks"
+      ],
+      "titles": [
+        "Joint satellite platform and constellation sizing for instantaneous beam-hopping in 5G/6G Non-Terrestrial Networks"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_inventory_20261013/READING_LEDGER_121.json",
+        "review_writing/evidence/reading_batches/B10_20261016/CUMULATIVE_READING_STATUS.json",
+        "review_writing/evidence/reading_batches/B02_20261015/SOURCE_MANIFEST_B02.json",
+        "review_writing/evidence/reading_batches/B07_20261016/SOURCE_MANIFEST_B07.json"
+      ]
+    },
+    {
+      "record_id": "REF18",
+      "group": "EARLIER_ORIGINAL",
+      "reference_number": 18,
+      "keys": [
+        "doi:10.2514/1.a34387",
+        "title:optimalsatelliteconstellationsparestrategyusingmultiecheloninventorycontrol"
+      ],
+      "titles": [
+        "Optimal Satellite Constellation Spare Strategy Using Multi-Echelon Inventory Control"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_inventory_20261013/READING_LEDGER_121.json",
+        "review_writing/evidence/reading_batches/B10_20261016/CUMULATIVE_READING_STATUS.json"
+      ]
+    },
+    {
+      "record_id": "REF19",
+      "group": "EARLIER_ORIGINAL",
+      "reference_number": 19,
+      "keys": [
+        "arxiv:2408.09696",
+        "doi:10.2514/1.a36281",
+        "title:replenishmentstrategyforsatelliteconstellationwithdualsupplymodes"
+      ],
+      "titles": [
+        "Replenishment Strategy for Satellite Constellation with Dual Supply Modes"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_inventory_20261013/READING_LEDGER_121.json",
+        "review_writing/evidence/reading_batches/B10_20261016/CUMULATIVE_READING_STATUS.json",
+        "review_writing/evidence/reading_batches/B04_20261015/SOURCE_MANIFEST_B04.json"
+      ]
+    },
+    {
+      "record_id": "REF20",
+      "group": "EARLIER_ORIGINAL",
+      "reference_number": 20,
+      "keys": [
+        "arxiv:2509.09957",
+        "doi:10.2514/1.a36599",
+        "title:sparestrategyanalysisanddesignformegasatelliteconstellationsusingmarkovchain"
+      ],
+      "titles": [
+        "Spare Strategy Analysis and Design for Mega Satellite Constellations Using Markov Chain"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_inventory_20261013/READING_LEDGER_121.json",
+        "review_writing/evidence/reading_batches/B10_20261016/CUMULATIVE_READING_STATUS.json",
+        "review_writing/evidence/reading_batches/B03_20261015/SOURCE_MANIFEST_B03.json",
+        "review_writing/evidence/reading_batches/B07_20261016/SOURCE_MANIFEST_B07.json"
+      ]
+    },
+    {
+      "record_id": "REF21",
+      "group": "EARLIER_ORIGINAL",
+      "reference_number": 21,
+      "keys": [
+        "arxiv:2605.20875",
+        "doi:10.1016/j.actaastro.2026.06.020",
+        "title:sparestrategyforlargescalesatelliteconstellationsunderdualresupplychannelsusingmarkovchain"
+      ],
+      "titles": [
+        "Spare strategy for large-scale satellite constellations under dual resupply channels using Markov chain"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_inventory_20261013/READING_LEDGER_121.json",
+        "review_writing/evidence/reading_batches/B10_20261016/CUMULATIVE_READING_STATUS.json",
+        "review_writing/evidence/reading_batches/B03_20261015/SOURCE_MANIFEST_B03.json",
+        "review_writing/evidence/reading_batches/B07_20261016/SOURCE_MANIFEST_B07.json"
+      ]
+    },
+    {
+      "record_id": "REF23",
+      "group": "EARLIER_ORIGINAL",
+      "reference_number": 23,
+      "keys": [
+        "arxiv:2512.18985",
+        "doi:10.2514/1.a36684",
+        "title:onorbitservicingintegratedmaintenancestrategyforasatelliteconstellation"
+      ],
+      "titles": [
+        "On-Orbit Servicing-Integrated Maintenance Strategy for a Satellite Constellation"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_inventory_20261013/READING_LEDGER_121.json",
+        "review_writing/evidence/reading_batches/B10_20261016/CUMULATIVE_READING_STATUS.json",
+        "review_writing/evidence/reading_batches/B02_20261015/SOURCE_MANIFEST_B02.json",
+        "review_writing/evidence/reading_batches/B06_20261016/SOURCE_MANIFEST_B06.json"
+      ]
+    },
+    {
+      "record_id": "REF24",
+      "group": "EARLIER_ORIGINAL",
+      "reference_number": 24,
+      "keys": [
+        "arxiv:2302.12191",
+        "doi:10.2514/1.a35691",
+        "title:orbitalfacilitylocationproblemforsatelliteconstellationservicingdepots"
+      ],
+      "titles": [
+        "Orbital Facility Location Problem for Satellite Constellation Servicing Depots"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_inventory_20261013/READING_LEDGER_121.json",
+        "review_writing/evidence/reading_batches/B10_20261016/CUMULATIVE_READING_STATUS.json",
+        "review_writing/evidence/reading_batches/B03_20261015/SOURCE_MANIFEST_B03.json",
+        "review_writing/evidence/reading_batches/B07_20261016/SOURCE_MANIFEST_B07.json"
+      ]
+    },
+    {
+      "record_id": "REF25",
+      "group": "EARLIER_ORIGINAL",
+      "reference_number": 25,
+      "keys": [
+        "arxiv:2502.15914",
+        "doi:10.2514/1.a36386",
+        "title:orbitaldepotlocationoptimizationforsatelliteconstellationservicingwithlowthrusttransfers"
+      ],
+      "titles": [
+        "Orbital Depot Location Optimization for Satellite Constellation Servicing with Low-Thrust Transfers"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_inventory_20261013/READING_LEDGER_121.json",
+        "review_writing/evidence/reading_batches/B10_20261016/CUMULATIVE_READING_STATUS.json",
+        "review_writing/evidence/reading_batches/B03_20261015/SOURCE_MANIFEST_B03.json",
+        "review_writing/evidence/reading_batches/B07_20261016/SOURCE_MANIFEST_B07.json"
+      ]
+    },
+    {
+      "record_id": "REF26",
+      "group": "EARLIER_ORIGINAL",
+      "reference_number": 26,
+      "keys": [
+        "doi:10.1155/2021/6644339",
+        "title:deploymentofonorbitservicevehiclesusingafuzzyadaptiveparticleswarmoptimizationalgorithm"
+      ],
+      "titles": [
+        "Deployment of On-Orbit Service Vehicles Using a Fuzzy Adaptive Particle Swarm Optimization Algorithm"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_inventory_20261013/READING_LEDGER_121.json",
+        "review_writing/evidence/reading_batches/B10_20261016/CUMULATIVE_READING_STATUS.json",
+        "review_writing/evidence/reading_batches/B04_20261015/SOURCE_MANIFEST_B04.json"
+      ]
+    },
+    {
+      "record_id": "REF27",
+      "group": "EARLIER_ORIGINAL",
+      "reference_number": 27,
+      "keys": [
+        "arxiv:2103.08962",
+        "doi:10.2514/1.a34978",
+        "title:frameworkformodelingandoptimizationofonorbitservicingoperationsunderdemanduncertainties"
+      ],
+      "titles": [
+        "Framework for Modeling and Optimization of On-Orbit Servicing Operations Under Demand Uncertainties"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_inventory_20261013/READING_LEDGER_121.json",
+        "review_writing/evidence/reading_batches/B10_20261016/CUMULATIVE_READING_STATUS.json",
+        "review_writing/evidence/reading_batches/B02_20261015/SOURCE_MANIFEST_B02.json",
+        "review_writing/evidence/reading_batches/B06_20261016/SOURCE_MANIFEST_B06.json"
+      ]
+    },
+    {
+      "record_id": "REF28",
+      "group": "EARLIER_ORIGINAL",
+      "reference_number": 28,
+      "keys": [
+        "arxiv:2103.08963",
+        "doi:10.2514/1.a35094",
+        "title:onorbitservicingoptimizationframeworkwithhighandlowthrustpropulsiontradeoff"
+      ],
+      "titles": [
+        "On-Orbit Servicing Optimization Framework with High- and Low-Thrust Propulsion Tradeoff"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_inventory_20261013/READING_LEDGER_121.json",
+        "review_writing/evidence/reading_batches/B10_20261016/CUMULATIVE_READING_STATUS.json",
+        "review_writing/evidence/reading_batches/B02_20261015/SOURCE_MANIFEST_B02.json",
+        "review_writing/evidence/reading_batches/B07_20261016/SOURCE_MANIFEST_B07.json"
+      ]
+    },
+    {
+      "record_id": "REF30",
+      "group": "EARLIER_ORIGINAL",
+      "reference_number": 30,
+      "keys": [
+        "doi:10.1016/s1270-9638(02)01173-2",
+        "title:selectingandschedulingobservationsofagilesatellites"
+      ],
+      "titles": [
+        "Selecting and scheduling observations of agile satellites"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_inventory_20261013/READING_LEDGER_121.json",
+        "review_writing/evidence/reading_batches/B10_20261016/CUMULATIVE_READING_STATUS.json",
+        "review_writing/evidence/reading_batches/B04_20261015/SOURCE_MANIFEST_B04.json"
+      ]
+    },
+    {
+      "record_id": "REF34",
+      "group": "EARLIER_ORIGINAL",
+      "reference_number": 34,
+      "keys": [
+        "doi:10.2514/1.i011215",
+        "title:decentralizedobservationallocationforalargescaleconstellation"
+      ],
+      "titles": [
+        "Decentralized Observation Allocation for a Large-Scale Constellation"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_inventory_20261013/READING_LEDGER_121.json",
+        "review_writing/evidence/reading_batches/B10_20261016/CUMULATIVE_READING_STATUS.json",
+        "review_writing/evidence/reading_batches/B02_20261015/SOURCE_MANIFEST_B02.json",
+        "review_writing/evidence/reading_batches/B06_20261016/SOURCE_MANIFEST_B06.json"
+      ]
+    },
+    {
+      "record_id": "REF35",
+      "group": "EARLIER_ORIGINAL",
+      "reference_number": 35,
+      "keys": [
+        "doi:10.1613/jair.1.16997",
+        "title:decentralizeddecompositionbasedobservationschedulingforalargescalesatelliteconstellation"
+      ],
+      "titles": [
+        "Decentralized, Decomposition-Based Observation Scheduling for a Large-Scale Satellite Constellation"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_inventory_20261013/READING_LEDGER_121.json",
+        "review_writing/evidence/reading_batches/B10_20261016/CUMULATIVE_READING_STATUS.json"
+      ]
+    },
+    {
+      "record_id": "REF36",
+      "group": "EARLIER_ORIGINAL",
+      "reference_number": 36,
+      "keys": [
+        "doi:10.1007/s10951-024-00816-x",
+        "doi:10.1007/s10951-024-00816-x.pdf",
+        "title:schedulingofearthobservingsatellitesusingdistributedconstraintoptimization"
+      ],
+      "titles": [
+        "Scheduling of Earth observing satellites using distributed constraint optimization"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_inventory_20261013/READING_LEDGER_121.json",
+        "review_writing/evidence/reading_batches/B10_20261016/CUMULATIVE_READING_STATUS.json",
+        "review_writing/evidence/reading_batches/B03_20261015/SOURCE_MANIFEST_B03.json",
+        "review_writing/evidence/reading_batches/B06_20261016/SOURCE_MANIFEST_B06.json"
+      ]
+    },
+    {
+      "record_id": "REF37",
+      "group": "EARLIER_ORIGINAL",
+      "reference_number": 37,
+      "keys": [
+        "doi:10.1109/tro.2009.2022423",
+        "title:consensusbaseddecentralizedauctionsforrobusttaskallocation"
+      ],
+      "titles": [
+        "Consensus-Based Decentralized Auctions for Robust Task Allocation"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_inventory_20261013/READING_LEDGER_121.json",
+        "review_writing/evidence/reading_batches/B10_20261016/CUMULATIVE_READING_STATUS.json",
+        "review_writing/evidence/reading_batches/B05_20261016/SOURCE_MANIFEST_B05.json"
+      ]
+    },
+    {
+      "record_id": "REF39",
+      "group": "EARLIER_ORIGINAL",
+      "reference_number": 39,
+      "keys": [
+        "doi:10.1109/jsee.2016.00066",
+        "title:distributedcooperativetaskplanningalgorithmformultiplesatellitesindelayedcommunicationenvironment"
+      ],
+      "titles": [
+        "Distributed cooperative task planning algorithm for multiple satellites in delayed communication environment"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_inventory_20261013/READING_LEDGER_121.json",
+        "review_writing/evidence/reading_batches/B10_20261016/CUMULATIVE_READING_STATUS.json",
+        "review_writing/evidence/reading_batches/B04_20261015/SOURCE_MANIFEST_B04.json"
+      ]
+    },
+    {
+      "record_id": "REF41",
+      "group": "EARLIER_ORIGINAL",
+      "reference_number": 41,
+      "keys": [
+        "doi:10.24963/ijcai.2023/30",
+        "title:asynchronouscommunicationawaremultiagenttaskallocation"
+      ],
+      "titles": [
+        "Asynchronous Communication Aware Multi-Agent Task Allocation"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_inventory_20261013/READING_LEDGER_121.json",
+        "review_writing/evidence/reading_batches/B10_20261016/CUMULATIVE_READING_STATUS.json",
+        "review_writing/evidence/reading_batches/B03_20261015/SOURCE_MANIFEST_B03.json",
+        "review_writing/evidence/reading_batches/B05_20261016/SOURCE_MANIFEST_B05.json"
+      ]
+    },
+    {
+      "record_id": "REF42",
+      "group": "EARLIER_ORIGINAL",
+      "reference_number": 42,
+      "keys": [
+        "doi:10.1109/tmc.2021.3076088",
+        "title:jointobservationandtransmissionschedulinginagilesatellitenetworks"
+      ],
+      "titles": [
+        "Joint Observation and Transmission Scheduling in Agile Satellite Networks"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_inventory_20261013/READING_LEDGER_121.json",
+        "review_writing/evidence/reading_batches/B10_20261016/CUMULATIVE_READING_STATUS.json",
+        "review_writing/evidence/reading_batches/B01_20261014/SOURCE_MANIFEST_B01.json"
+      ]
+    },
+    {
+      "record_id": "REF44",
+      "group": "EARLIER_ORIGINAL",
+      "reference_number": 44,
+      "keys": [
+        "doi:10.1016/j.cor.2025.107212",
+        "title:theintegratedagileearthobservationsatelliteschedulingproblem"
+      ],
+      "titles": [
+        "The integrated agile Earth observation satellite scheduling problem"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_inventory_20261013/READING_LEDGER_121.json",
+        "review_writing/evidence/reading_batches/B10_20261016/CUMULATIVE_READING_STATUS.json",
+        "review_writing/evidence/reading_batches/B01_20261014/SOURCE_MANIFEST_B01.json"
+      ]
+    },
+    {
+      "record_id": "REF47",
+      "group": "EARLIER_ORIGINAL",
+      "reference_number": 47,
+      "keys": [
+        "doi:10.1023/b:josh.0000013053.32600.3c",
+        "title:schedulingspacegroundcommunicationsfortheairforcesatellitecontrolnetwork"
+      ],
+      "titles": [
+        "Scheduling Space–Ground Communications for the Air Force Satellite Control Network"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_inventory_20261013/READING_LEDGER_121.json",
+        "review_writing/evidence/reading_batches/B10_20261016/CUMULATIVE_READING_STATUS.json",
+        "review_writing/evidence/reading_batches/B03_20261015/SOURCE_MANIFEST_B03.json",
+        "review_writing/evidence/reading_batches/B07_20261016/SOURCE_MANIFEST_B07.json"
+      ]
+    },
+    {
+      "record_id": "REF48",
+      "group": "EARLIER_ORIGINAL",
+      "reference_number": 48,
+      "keys": [
+        "doi:10.1016/j.omega.2015.01.001",
+        "title:satellitedownlinkschedulingproblemacasestudy"
+      ],
+      "titles": [
+        "Satellite downlink scheduling problem: A case study"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_inventory_20261013/READING_LEDGER_121.json",
+        "review_writing/evidence/reading_batches/B10_20261016/CUMULATIVE_READING_STATUS.json",
+        "review_writing/evidence/reading_batches/B03_20261015/SOURCE_MANIFEST_B03.json",
+        "review_writing/evidence/reading_batches/B07_20261016/SOURCE_MANIFEST_B07.json"
+      ]
+    },
+    {
+      "record_id": "REF49",
+      "group": "EARLIER_ORIGINAL",
+      "reference_number": 49,
+      "keys": [
+        "doi:10.1109/access.2021.3064928",
+        "title:deepspacenetworkschedulingviamixedintegerlinearprogramming"
+      ],
+      "titles": [
+        "Deep Space Network Scheduling via Mixed-Integer Linear Programming"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_inventory_20261013/READING_LEDGER_121.json",
+        "review_writing/evidence/reading_batches/B10_20261016/CUMULATIVE_READING_STATUS.json",
+        "review_writing/evidence/reading_batches/B03_20261015/SOURCE_MANIFEST_B03.json",
+        "review_writing/evidence/reading_batches/B05_20261016/SOURCE_MANIFEST_B05.json"
+      ]
+    },
+    {
+      "record_id": "REF50",
+      "group": "EARLIER_ORIGINAL",
+      "reference_number": 50,
+      "keys": [
+        "doi:10.1609/aimag.v35i4.2552",
+        "title:automatedschedulingfornasasdeepspacenetwork"
+      ],
+      "titles": [
+        "Automated Scheduling for NASA's Deep Space Network"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_inventory_20261013/READING_LEDGER_121.json",
+        "review_writing/evidence/reading_batches/B10_20261016/CUMULATIVE_READING_STATUS.json",
+        "review_writing/evidence/reading_batches/B03_20261015/SOURCE_MANIFEST_B03.json"
+      ]
+    },
+    {
+      "record_id": "REF53",
+      "group": "EARLIER_ORIGINAL",
+      "reference_number": 53,
+      "keys": [
+        "doi:10.1002/sat.70082",
+        "title:edgeintelligenceforsatellitebasedearthobservationschedulingimageacquisitionandprocessing"
+      ],
+      "titles": [
+        "Edge Intelligence for Satellite-Based Earth Observation: Scheduling Image Acquisition and Processing",
+        "Edge Intelligence for Satellite‐Based Earth Observation: Scheduling Image Acquisition and Processing"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_inventory_20261013/READING_LEDGER_121.json",
+        "review_writing/evidence/reading_batches/B10_20261016/CUMULATIVE_READING_STATUS.json",
+        "review_writing/evidence/reading_batches/B01_20261014/SOURCE_MANIFEST_B01.json"
+      ]
+    },
+    {
+      "record_id": "REF57",
+      "group": "EARLIER_ORIGINAL",
+      "reference_number": 57,
+      "keys": [
+        "doi:10.1007/s10586-025-05663-9",
+        "doi:10.1007/s10586-025-05663-9.pdf",
+        "title:orbitawaretaskschedulinginsatelliteedgecomputing"
+      ],
+      "titles": [
+        "Orbit-aware task scheduling in satellite edge computing"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_inventory_20261013/READING_LEDGER_121.json",
+        "review_writing/evidence/reading_batches/B10_20261016/CUMULATIVE_READING_STATUS.json",
+        "review_writing/evidence/reading_batches/B04_20261015/SOURCE_MANIFEST_B04.json",
+        "review_writing/evidence/reading_batches/B05_20261016/SOURCE_MANIFEST_B05.json"
+      ]
+    },
+    {
+      "record_id": "REF58",
+      "group": "EARLIER_ORIGINAL",
+      "reference_number": 58,
+      "keys": [
+        "doi:10.1145/3582016.3582043",
+        "title:kodanaddressingthecomputationalbottleneckinspace"
+      ],
+      "titles": [
+        "Kodan: Addressing the Computational Bottleneck in Space"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_inventory_20261013/READING_LEDGER_121.json",
+        "review_writing/evidence/reading_batches/B10_20261016/CUMULATIVE_READING_STATUS.json",
+        "review_writing/evidence/reading_batches/B03_20261015/SOURCE_MANIFEST_B03.json",
+        "review_writing/evidence/reading_batches/B07_20261016/SOURCE_MANIFEST_B07.json"
+      ]
+    },
+    {
+      "record_id": "REF61",
+      "group": "EARLIER_ORIGINAL",
+      "reference_number": 61,
+      "keys": [
+        "doi:10.1109/taes.2019.2947978",
+        "title:robustearthobservationsatelliteschedulingwithuncertaintyofcloudcoverage"
+      ],
+      "titles": [
+        "Robust Earth Observation Satellite Scheduling With Uncertainty of Cloud Coverage"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_inventory_20261013/READING_LEDGER_121.json",
+        "review_writing/evidence/reading_batches/B10_20261016/CUMULATIVE_READING_STATUS.json",
+        "review_writing/evidence/reading_batches/B04_20261015/SOURCE_MANIFEST_B04.json",
+        "review_writing/evidence/reading_batches/B05_20261016/SOURCE_MANIFEST_B05.json"
+      ]
+    },
+    {
+      "record_id": "REF62",
+      "group": "EARLIER_ORIGINAL",
+      "reference_number": 62,
+      "keys": [
+        "doi:10.1016/j.ejor.2018.11.043",
+        "title:mixedintegerprogrammingmodelsforoptimalconstellationschedulinggivencloudcoveruncertainty"
+      ],
+      "titles": [
+        "Mixed-integer programming models for optimal constellation scheduling given cloud cover uncertainty"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_inventory_20261013/READING_LEDGER_121.json",
+        "review_writing/evidence/reading_batches/B10_20261016/CUMULATIVE_READING_STATUS.json",
+        "review_writing/evidence/reading_batches/B04_20261015/SOURCE_MANIFEST_B04.json",
+        "review_writing/evidence/reading_batches/B05_20261016/SOURCE_MANIFEST_B05.json"
+      ]
+    },
+    {
+      "record_id": "REF65",
+      "group": "EARLIER_ORIGINAL",
+      "reference_number": 65,
+      "keys": [
+        "doi:10.2514/1.a35736",
+        "title:singleagentreinforcementlearningforscalableearthobservingsatelliteconstellationoperations"
+      ],
+      "titles": [
+        "Single-Agent Reinforcement Learning for Scalable Earth-Observing Satellite Constellation Operations"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_inventory_20261013/READING_LEDGER_121.json",
+        "review_writing/evidence/reading_batches/B10_20261016/CUMULATIVE_READING_STATUS.json",
+        "review_writing/evidence/reading_batches/B02_20261015/SOURCE_MANIFEST_B02.json",
+        "review_writing/evidence/reading_batches/B06_20261016/SOURCE_MANIFEST_B06.json"
+      ]
+    },
+    {
+      "record_id": "REF66",
+      "group": "EARLIER_ORIGINAL",
+      "reference_number": 66,
+      "keys": [
+        "doi:10.3389/frspt.2023.1263489",
+        "doi:10.3389/frspt.2023.1263489/full",
+        "title:acomparativeanalysisofreinforcementlearningalgorithmsforearthobservingsatellitescheduling"
+      ],
+      "titles": [
+        "A comparative analysis of reinforcement learning algorithms for earth-observing satellite scheduling"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_inventory_20261013/READING_LEDGER_121.json",
+        "review_writing/evidence/reading_batches/B10_20261016/CUMULATIVE_READING_STATUS.json"
+      ]
+    },
+    {
+      "record_id": "REF71",
+      "group": "EARLIER_ORIGINAL",
+      "reference_number": 71,
+      "keys": [
+        "doi:10.1007/s40295-026-00580-4",
+        "title:lowthrustpropulsionanddriftorbitoptimizationformulticlientservicingmissionsinlowearthorbit"
+      ],
+      "titles": [
+        "Low-Thrust Propulsion and Drift Orbit Optimization for Multi-Client Servicing Missions in Low Earth Orbit"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_inventory_20261013/READING_LEDGER_121.json",
+        "review_writing/evidence/reading_batches/B10_20261016/CUMULATIVE_READING_STATUS.json"
+      ]
+    },
+    {
+      "record_id": "REF72",
+      "group": "EARLIER_ORIGINAL",
+      "reference_number": 72,
+      "keys": [
+        "doi:10.1007/s40295-025-00487-6",
+        "doi:10.1007/s40295-025-00487-6.pdf",
+        "title:optimalmulticlienttrajectoryplanningforalowthrustservicingsatelliteinthepresenceofperturbations"
+      ],
+      "titles": [
+        "Optimal Multi-Client Trajectory Planning for A Low-Thrust Servicing Satellite in the Presence of Perturbations"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_inventory_20261013/READING_LEDGER_121.json",
+        "review_writing/evidence/reading_batches/B10_20261016/CUMULATIVE_READING_STATUS.json",
+        "review_writing/evidence/reading_batches/B04_20261015/SOURCE_MANIFEST_B04.json",
+        "review_writing/evidence/reading_batches/B07_20261016/SOURCE_MANIFEST_B07.json"
+      ]
+    },
+    {
+      "record_id": "REF73",
+      "group": "EARLIER_ORIGINAL",
+      "reference_number": 73,
+      "keys": [
+        "doi:10.3390/aerospace11030191",
+        "title:ahybridforecastingmodelforselfsimilartrafficinleomegaconstellationnetworks"
+      ],
+      "titles": [
+        "A Hybrid Forecasting Model for Self-Similar Traffic in LEO Mega-Constellation Networks"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_inventory_20261013/READING_LEDGER_121.json",
+        "review_writing/evidence/reading_batches/B10_20261016/CUMULATIVE_READING_STATUS.json"
+      ]
+    },
+    {
+      "record_id": "REF74",
+      "group": "EARLIER_ORIGINAL",
+      "reference_number": 74,
+      "keys": [
+        "doi:10.23919/jcc.ja.2022-0864",
+        "title:jointbeamschedulingandpoweroptimizationforbeamhoppingleosatellitesystems"
+      ],
+      "titles": [
+        "Joint Beam Scheduling and Power Optimization for Beam Hopping LEO Satellite Systems"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_inventory_20261013/READING_LEDGER_121.json",
+        "review_writing/evidence/reading_batches/B10_20261016/CUMULATIVE_READING_STATUS.json",
+        "review_writing/evidence/reading_batches/B01_20261014/SOURCE_MANIFEST_B01.json"
+      ]
+    },
+    {
+      "record_id": "REF76",
+      "group": "EARLIER_ORIGINAL",
+      "reference_number": 76,
+      "keys": [
+        "doi:10.1109/twc.2025.3545745",
+        "title:demandawarebeamhoppingandpowerallocationforloadbalancingindigitaltwinempoweredleosatellitenetworks"
+      ],
+      "titles": [
+        "Demand-Aware Beam Hopping and Power Allocation for Load Balancing in Digital Twin Empowered LEO Satellite Networks"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_inventory_20261013/READING_LEDGER_121.json",
+        "review_writing/evidence/reading_batches/B10_20261016/CUMULATIVE_READING_STATUS.json",
+        "review_writing/evidence/reading_batches/B01_20261014/SOURCE_MANIFEST_B01.json"
+      ]
+    },
+    {
+      "record_id": "REF78",
+      "group": "EARLIER_ORIGINAL",
+      "reference_number": 78,
+      "keys": [
+        "doi:10.1145/3589334.3645328",
+        "title:amultifacetedlookatstarlinkperformance"
+      ],
+      "titles": [
+        "A Multifaceted Look at Starlink Performance"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_inventory_20261013/READING_LEDGER_121.json",
+        "review_writing/evidence/reading_batches/B10_20261016/CUMULATIVE_READING_STATUS.json"
+      ]
+    },
+    {
+      "record_id": "REF81",
+      "group": "EARLIER_ORIGINAL",
+      "reference_number": 81,
+      "keys": [
+        "doi:10.3390/s25030902",
+        "title:hierarchicalresourcemanagementformegaleosatelliteconstellation"
+      ],
+      "titles": [
+        "Hierarchical Resource Management for Mega-LEO Satellite Constellation"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_inventory_20261013/READING_LEDGER_121.json",
+        "review_writing/evidence/reading_batches/B10_20261016/CUMULATIVE_READING_STATUS.json"
+      ]
+    },
+    {
+      "record_id": "REF82",
+      "group": "EARLIER_ORIGINAL",
+      "reference_number": 82,
+      "keys": [
+        "doi:10.1016/j.actaastro.2020.01.020",
+        "title:satelliteclosestapproachcalculationthroughchebyshevproxypolynomials"
+      ],
+      "titles": [
+        "Satellite closest approach calculation through Chebyshev Proxy Polynomials"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_inventory_20261013/READING_LEDGER_121.json",
+        "review_writing/evidence/reading_batches/B10_20261016/CUMULATIVE_READING_STATUS.json",
+        "review_writing/evidence/reading_batches/B07_20261016/SOURCE_MANIFEST_B07.json"
+      ]
+    },
+    {
+      "record_id": "REF84",
+      "group": "EARLIER_ORIGINAL",
+      "reference_number": 84,
+      "keys": [
+        "doi:10.3390/aerospace10060543",
+        "title:performanceinvestigationoftheconjunctionfiltermethodsandenhancementofcomputationspeedonconjunctionassessmentanalysiswithcudatechniques"
+      ],
+      "titles": [
+        "Performance Investigation of the Conjunction Filter Methods and Enhancement of Computation Speed on Conjunction Assessment Analysis with CUDA Techniques"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_inventory_20261013/READING_LEDGER_121.json",
+        "review_writing/evidence/reading_batches/B10_20261016/CUMULATIVE_READING_STATUS.json",
+        "review_writing/evidence/reading_batches/B02_20261015/SOURCE_MANIFEST_B02.json",
+        "review_writing/evidence/reading_batches/B07_20261016/SOURCE_MANIFEST_B07.json"
+      ]
+    },
+    {
+      "record_id": "REF85",
+      "group": "EARLIER_ORIGINAL",
+      "reference_number": 85,
+      "keys": [
+        "doi:10.1007/s12567-022-00471-y",
+        "title:simulationofsatellitesandconstellationsfortheassessmentofcollisionavoidanceoperations"
+      ],
+      "titles": [
+        "Simulation of satellites and constellations for the assessment of collision avoidance operations"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_inventory_20261013/READING_LEDGER_121.json",
+        "review_writing/evidence/reading_batches/B10_20261016/CUMULATIVE_READING_STATUS.json",
+        "review_writing/evidence/reading_batches/B02_20261015/SOURCE_MANIFEST_B02.json"
+      ]
+    },
+    {
+      "record_id": "REF86",
+      "group": "EARLIER_ORIGINAL",
+      "reference_number": 86,
+      "keys": [
+        "arxiv:2503.22555",
+        "doi:10.1016/j.actaastro.2025.07.027",
+        "title:cammaryareviewofspacecraftcollisionavoidancemanoeuvredesignmethods"
+      ],
+      "titles": [
+        "CAMmary: A review of spacecraft collision avoidance manoeuvre design methods"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_inventory_20261013/READING_LEDGER_121.json",
+        "review_writing/evidence/reading_batches/B10_20261016/CUMULATIVE_READING_STATUS.json",
+        "review_writing/evidence/reading_batches/B04_20261015/SOURCE_MANIFEST_B04.json",
+        "review_writing/evidence/reading_batches/B07_20261016/SOURCE_MANIFEST_B07.json"
+      ]
+    },
+    {
+      "record_id": "REF87",
+      "group": "EARLIER_ORIGINAL",
+      "reference_number": 87,
+      "keys": [
+        "arxiv:2008.03069",
+        "doi:10.1007/s42064-021-0101-5",
+        "title:spacecraftcollisionavoidancechallengedesignandresultsofamachinelearningcompetition"
+      ],
+      "titles": [
+        "Spacecraft collision avoidance challenge: Design and results of a machine learning competition"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_inventory_20261013/READING_LEDGER_121.json",
+        "review_writing/evidence/reading_batches/B10_20261016/CUMULATIVE_READING_STATUS.json",
+        "review_writing/evidence/reading_batches/B02_20261015/SOURCE_MANIFEST_B02.json",
+        "review_writing/evidence/reading_batches/B07_20261016/SOURCE_MANIFEST_B07.json"
+      ]
+    },
+    {
+      "record_id": "REF91",
+      "group": "EARLIER_ORIGINAL",
+      "reference_number": 91,
+      "keys": [
+        "doi:10.2514/1.58436",
+        "title:autonomoustrajectoryplanningforrendezvousandproximityoperationsbyconicoptimization"
+      ],
+      "titles": [
+        "Autonomous Trajectory Planning for Rendezvous and Proximity Operations by Conic Optimization"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_inventory_20261013/READING_LEDGER_121.json",
+        "review_writing/evidence/reading_batches/B10_20261016/CUMULATIVE_READING_STATUS.json",
+        "review_writing/evidence/reading_batches/B05_20261016/SOURCE_MANIFEST_B05.json"
+      ]
+    },
+    {
+      "record_id": "REF92",
+      "group": "EARLIER_ORIGINAL",
+      "reference_number": 92,
+      "keys": [
+        "doi:10.2514/1.g000218",
+        "title:modelpredictivecontrolofswarmsofspacecraftusingsequentialconvexprogramming"
+      ],
+      "titles": [
+        "Model Predictive Control of Swarms of Spacecraft Using Sequential Convex Programming"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_inventory_20261013/READING_LEDGER_121.json",
+        "review_writing/evidence/reading_batches/B10_20261016/CUMULATIVE_READING_STATUS.json",
+        "review_writing/evidence/reading_batches/B04_20261015/SOURCE_MANIFEST_B04.json",
+        "review_writing/evidence/reading_batches/B05_20261016/SOURCE_MANIFEST_B05.json"
+      ]
+    },
+    {
+      "record_id": "REF93",
+      "group": "EARLIER_ORIGINAL",
+      "reference_number": 93,
+      "keys": [
+        "doi:10.1016/j.conengprac.2011.09.006",
+        "title:chanceconstrainedmodelpredictivecontrolforspacecraftrendezvouswithdisturbanceestimation"
+      ],
+      "titles": [
+        "Chance-constrained model predictive control for spacecraft rendezvous with disturbance estimation"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_inventory_20261013/READING_LEDGER_121.json",
+        "review_writing/evidence/reading_batches/B10_20261016/CUMULATIVE_READING_STATUS.json",
+        "review_writing/evidence/reading_batches/B06_20261016/SOURCE_MANIFEST_B06.json"
+      ]
+    },
+    {
+      "record_id": "REF95",
+      "group": "EARLIER_ORIGINAL",
+      "reference_number": 95,
+      "keys": [
+        "doi:10.2514/6.2026-2446",
+        "title:continuoustimesuccessiveconvexificationforpassivelysafespacecraftrendezvousonanearrectilinearhaloorbit"
+      ],
+      "titles": [
+        "Continuous-Time Successive Convexification for Passively-Safe Spacecraft Rendezvous on a Near Rectilinear Halo Orbit"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_inventory_20261013/READING_LEDGER_121.json",
+        "review_writing/evidence/reading_batches/B10_20261016/CUMULATIVE_READING_STATUS.json",
+        "review_writing/evidence/reading_batches/B02_20261015/SOURCE_MANIFEST_B02.json",
+        "review_writing/evidence/reading_batches/B06_20261016/SOURCE_MANIFEST_B06.json"
+      ]
+    },
+    {
+      "record_id": "REF96",
+      "group": "EARLIER_ORIGINAL",
+      "reference_number": 96,
+      "keys": [
+        "doi:10.1007/s40295-026-00631-w",
+        "title:twoapproachestoautonomousspacecraftinspectionshieldedreinforcementlearningversusprobabilisticroadmaps"
+      ],
+      "titles": [
+        "Two Approaches to Autonomous Spacecraft Inspection: Shielded Reinforcement Learning versus Probabilistic Roadmaps"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_inventory_20261013/READING_LEDGER_121.json",
+        "review_writing/evidence/reading_batches/B10_20261016/CUMULATIVE_READING_STATUS.json"
+      ]
+    },
+    {
+      "record_id": "REF98",
+      "group": "EARLIER_ORIGINAL",
+      "reference_number": 98,
+      "keys": [
+        "arxiv:1802.04431",
+        "doi:10.1145/3219819.3219845",
+        "title:detectingspacecraftanomaliesusinglstmsandnonparametricdynamicthresholding"
+      ],
+      "titles": [
+        "Detecting Spacecraft Anomalies Using LSTMs and Nonparametric Dynamic Thresholding"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_inventory_20261013/READING_LEDGER_121.json",
+        "review_writing/evidence/reading_batches/B10_20261016/CUMULATIVE_READING_STATUS.json",
+        "review_writing/evidence/reading_batches/B02_20261015/SOURCE_MANIFEST_B02.json",
+        "review_writing/evidence/reading_batches/B06_20261016/SOURCE_MANIFEST_B06.json"
+      ]
+    },
+    {
+      "record_id": "REF101",
+      "group": "EARLIER_ORIGINAL",
+      "reference_number": 101,
+      "keys": [
+        "doi:10.1007/s12567-023-00529-5",
+        "doi:10.1007/s12567-023-00529-5.pdf",
+        "title:unmaskingoverestimationareevaluationofdeepanomalydetectioninspacecrafttelemetry"
+      ],
+      "titles": [
+        "Unmasking overestimation: a re-evaluation of deep anomaly detection in spacecraft telemetry"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_inventory_20261013/READING_LEDGER_121.json",
+        "review_writing/evidence/reading_batches/B10_20261016/CUMULATIVE_READING_STATUS.json",
+        "review_writing/evidence/reading_batches/B06_20261016/SOURCE_MANIFEST_B06.json"
+      ]
+    },
+    {
+      "record_id": "REF102",
+      "group": "EARLIER_ORIGINAL",
+      "reference_number": 102,
+      "keys": [
+        "doi:10.1007/s12567-025-00651-6",
+        "doi:10.1007/s12567-025-00651-6.pdf",
+        "title:knowledgebasedsatellitefailuredetectionisolationandrecoveryfdir"
+      ],
+      "titles": [
+        "Knowledge-based satellite failure detection, isolation and recovery (FDIR)"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_inventory_20261013/READING_LEDGER_121.json",
+        "review_writing/evidence/reading_batches/B10_20261016/CUMULATIVE_READING_STATUS.json",
+        "review_writing/evidence/reading_batches/B06_20261016/SOURCE_MANIFEST_B06.json"
+      ]
+    },
+    {
+      "record_id": "REF105",
+      "group": "EARLIER_ORIGINAL",
+      "reference_number": 105,
+      "keys": [
+        "doi:10.1016/j.paerosci.2023.100960",
+        "title:artificialintelligencefortrustedautonomoussatelliteoperations"
+      ],
+      "titles": [
+        "Artificial Intelligence for Trusted Autonomous Satellite Operations"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_inventory_20261013/READING_LEDGER_121.json",
+        "review_writing/evidence/reading_batches/B10_20261016/CUMULATIVE_READING_STATUS.json",
+        "review_writing/evidence/reading_batches/B05_20261016/SOURCE_MANIFEST_B05.json"
+      ]
+    },
+    {
+      "record_id": "REF106",
+      "group": "EARLIER_ORIGINAL",
+      "reference_number": 106,
+      "keys": [
+        "doi:10.1016/j.adhoc.2023.103289",
+        "title:adelaytolerantnetworkapproachtosatellitepickupanddeliveryscheduling"
+      ],
+      "titles": [
+        "A delay-tolerant network approach to satellite pickup and delivery scheduling"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_inventory_20261013/READING_LEDGER_121.json",
+        "review_writing/evidence/reading_batches/B10_20261016/CUMULATIVE_READING_STATUS.json"
+      ]
+    },
+    {
+      "record_id": "REF107",
+      "group": "EARLIER_ORIGINAL",
+      "reference_number": 107,
+      "keys": [
+        "doi:10.3390/rs15061577",
+        "title:reasoningbasedschedulingmethodforagileearthobservationsatellitewithmultisubsystemcoupling"
+      ],
+      "titles": [
+        "Reasoning-Based Scheduling Method for Agile Earth Observation Satellite with Multi-Subsystem Coupling"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_inventory_20261013/READING_LEDGER_121.json",
+        "review_writing/evidence/reading_batches/B10_20261016/CUMULATIVE_READING_STATUS.json"
+      ]
+    },
+    {
+      "record_id": "REF108",
+      "group": "EARLIER_ORIGINAL",
+      "reference_number": 108,
+      "keys": [
+        "doi:10.1016/s0004-3702(98)00068-x",
+        "title:remoteagenttoboldlygowherenoaisystemhasgonebefore"
+      ],
+      "titles": [
+        "Remote Agent: to boldly go where no AI system has gone before"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_inventory_20261013/READING_LEDGER_121.json",
+        "review_writing/evidence/reading_batches/B10_20261016/CUMULATIVE_READING_STATUS.json",
+        "review_writing/evidence/reading_batches/B02_20261015/SOURCE_MANIFEST_B02.json",
+        "review_writing/evidence/reading_batches/B06_20261016/SOURCE_MANIFEST_B06.json"
+      ]
+    },
+    {
+      "record_id": "REF109",
+      "group": "EARLIER_ORIGINAL",
+      "reference_number": 109,
+      "keys": [
+        "doi:10.1109/smc-it.2006.48",
+        "title:missionoperationsofearthobserving1withonboardautonomy"
+      ],
+      "titles": [
+        "Mission Operations of Earth Observing-1 with Onboard Autonomy"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_inventory_20261013/READING_LEDGER_121.json",
+        "review_writing/evidence/reading_batches/B10_20261016/CUMULATIVE_READING_STATUS.json",
+        "review_writing/evidence/reading_batches/B02_20261015/SOURCE_MANIFEST_B02.json"
+      ]
+    },
+    {
+      "record_id": "REF116",
+      "group": "EARLIER_ORIGINAL",
+      "reference_number": 116,
+      "keys": [
+        "doi:10.2514/1.i010762",
+        "title:basiliskaflexiblescalableandmodularastrodynamicssimulationframework"
+      ],
+      "titles": [
+        "Basilisk: A Flexible, Scalable and Modular Astrodynamics Simulation Framework"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_inventory_20261013/READING_LEDGER_121.json",
+        "review_writing/evidence/reading_batches/B10_20261016/CUMULATIVE_READING_STATUS.json",
+        "review_writing/evidence/reading_batches/B03_20261015/SOURCE_MANIFEST_B03.json",
+        "review_writing/evidence/reading_batches/B07_20261016/SOURCE_MANIFEST_B07.json"
+      ]
+    },
+    {
+      "record_id": "REF117",
+      "group": "EARLIER_ORIGINAL",
+      "reference_number": 117,
+      "keys": [
+        "doi:10.1007/978-3-031-06773-0_1",
+        "title:formalmethodsfortrustedspaceautonomyboonorbane"
+      ],
+      "titles": [
+        "Formal Methods for Trusted Space Autonomy: Boon or Bane?"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_inventory_20261013/READING_LEDGER_121.json",
+        "review_writing/evidence/reading_batches/B10_20261016/CUMULATIVE_READING_STATUS.json",
+        "review_writing/evidence/reading_batches/B02_20261015/SOURCE_MANIFEST_B02.json",
+        "review_writing/evidence/reading_batches/B06_20261016/SOURCE_MANIFEST_B06.json"
+      ]
+    },
+    {
+      "record_id": "REF119",
+      "group": "EARLIER_ORIGINAL",
+      "reference_number": 119,
+      "keys": [
+        "doi:10.1007/s10270-026-01426-1",
+        "title:amodeldrivenframeworkforsupervisedreconfigurationofsatelliteschedulers"
+      ],
+      "titles": [
+        "A model-driven framework for supervised reconfiguration of satellite schedulers"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_inventory_20261013/READING_LEDGER_121.json",
+        "review_writing/evidence/reading_batches/B10_20261016/CUMULATIVE_READING_STATUS.json"
+      ]
+    },
+    {
+      "record_id": "REF120",
+      "group": "EARLIER_ORIGINAL",
+      "reference_number": 120,
+      "keys": [
+        "doi:10.1007/s10270-025-01281-6",
+        "title:modelcheckingofspacecraftoperationaldesignsascalabilityanalysis"
+      ],
+      "titles": [
+        "Model checking of spacecraft operational designs: a scalability analysis"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_inventory_20261013/READING_LEDGER_121.json",
+        "review_writing/evidence/reading_batches/B10_20261016/CUMULATIVE_READING_STATUS.json",
+        "review_writing/evidence/reading_batches/B02_20261015/SOURCE_MANIFEST_B02.json",
+        "review_writing/evidence/reading_batches/B06_20261016/SOURCE_MANIFEST_B06.json"
+      ]
+    },
+    {
+      "record_id": "REF121",
+      "group": "EARLIER_ORIGINAL",
+      "reference_number": 121,
+      "keys": [
+        "doi:10.1109/taes.2024.3415571",
+        "title:ondemandroutinginleomegaconstellationswithdynamiclaserintersatellitelinks"
+      ],
+      "titles": [
+        "On-Demand Routing in LEO Mega-Constellations With Dynamic Laser Inter-Satellite Links"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_inventory_20261013/READING_LEDGER_121.json",
+        "review_writing/evidence/reading_batches/B10_20261016/CUMULATIVE_READING_STATUS.json",
+        "review_writing/evidence/reading_batches/B01_20261014/SOURCE_MANIFEST_B01.json"
+      ]
+    },
+    {
+      "record_id": "ALT01",
+      "group": "EARLIER_EXTERNAL",
+      "keys": [
+        "doi:10.3390/s22103715",
+        "title:anenergyawaretaskschedulingforqualityofserviceassuranceinconstellationsofnanosatellites"
+      ],
+      "titles": [
+        "An Energy-Aware Task Scheduling for Quality-of-Service Assurance in Constellations of Nanosatellites"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_batches/B10_20261016/SOURCE_MANIFEST_B10.json"
+      ]
+    },
+    {
+      "record_id": "ALT02",
+      "group": "EARLIER_EXTERNAL",
+      "keys": [
+        "doi:10.1016/j.swevo.2023.101236",
+        "title:rlgaareinforcementlearningbasedgeneticalgorithmforelectromagneticdetectionsatelliteschedulingproblem"
+      ],
+      "titles": [
+        "RL-GA: A Reinforcement Learning-based Genetic Algorithm for Electromagnetic Detection Satellite Scheduling Problem"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_batches/B10_20261016/SOURCE_MANIFEST_B10.json"
+      ]
+    },
+    {
+      "record_id": "ALT03",
+      "group": "EARLIER_EXTERNAL",
+      "keys": [
+        "doi:10.1109/twc.2023.3342975",
+        "title:handoverprotocollearningforleosatellitenetworksaccessdelayandcollisionminimization"
+      ],
+      "titles": [
+        "Handover Protocol Learning for LEO Satellite Networks: Access Delay and Collision Minimization"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_batches/B10_20261016/SOURCE_MANIFEST_B10.json"
+      ]
+    },
+    {
+      "record_id": "ALT04",
+      "group": "EARLIER_EXTERNAL",
+      "keys": [
+        "arxiv:2404.08967",
+        "doi:10.48550/arxiv.2404.08967",
+        "title:beammanagementinlowearthorbitsatellitecommunicationwithhandoverfrequencycontrolandsatelliteterrestrialspectrumsharing"
+      ],
+      "titles": [
+        "Beam Management in Low Earth Orbit Satellite Communication With Handover Frequency Control and Satellite-Terrestrial Spectrum Sharing"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_batches/B10_20261016/SOURCE_MANIFEST_B10.json"
+      ]
+    },
+    {
+      "record_id": "ALT05",
+      "group": "EARLIER_EXTERNAL",
+      "keys": [
+        "arxiv:2501.02309",
+        "doi:10.48550/arxiv.2501.02309",
+        "title:multisatellitebeamhoppingandpowerallocationusingdeepreinforcementlearning"
+      ],
+      "titles": [
+        "Multi-Satellite Beam Hopping and Power Allocation Using Deep Reinforcement Learning"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_batches/B10_20261016/SOURCE_MANIFEST_B10.json"
+      ]
+    },
+    {
+      "record_id": "ALT06",
+      "group": "EARLIER_EXTERNAL",
+      "keys": [
+        "doi:10.1145/3365609.3365859",
+        "title:usinggroundrelaysforlowlatencywidearearoutinginmegaconstellations"
+      ],
+      "titles": [
+        "Using ground relays for low-latency wide-area routing in megaconstellations"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_batches/B10_20261016/SOURCE_MANIFEST_B10.json"
+      ]
+    },
+    {
+      "record_id": "ALT07",
+      "group": "EARLIER_EXTERNAL",
+      "keys": [
+        "arxiv:2411.19679",
+        "doi:10.48550/arxiv.2411.19679",
+        "title:alightweightandscalabledesignofsegmentroutinginbroadbandleoconstellationsusinglandmarkbasedskeletongraphs"
+      ],
+      "titles": [
+        "A Lightweight and Scalable Design of Segment Routing in Broadband LEO Constellations Using Landmark-Based Skeleton Graphs"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_batches/B10_20261016/SOURCE_MANIFEST_B10.json"
+      ]
+    },
+    {
+      "record_id": "ALT09",
+      "group": "EARLIER_EXTERNAL",
+      "keys": [
+        "arxiv:2411.10926",
+        "doi:10.1109/tnse.2024.3498042",
+        "doi:10.48550/arxiv.2411.10926",
+        "title:linkidentifiedroutingarchitectureinspace"
+      ],
+      "titles": [
+        "Link-Identified Routing Architecture in Space",
+        "Link-identified Routing Architecture in Space"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_batches/B10_20261016/SOURCE_MANIFEST_B10.json"
+      ]
+    },
+    {
+      "record_id": "ALT10",
+      "group": "EARLIER_EXTERNAL",
+      "keys": [
+        "doi:10.1155/2013/304047",
+        "title:adynamicschedulingmethodofearthobservingsatellitesbyemployingrollinghorizonstrategy"
+      ],
+      "titles": [
+        "A Dynamic Scheduling Method of Earth-Observing Satellites by Employing Rolling Horizon Strategy",
+        "A Dynamic Scheduling Method of Earth‐Observing Satellites by Employing Rolling Horizon Strategy"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_batches/B10_20261016/SOURCE_MANIFEST_B10.json"
+      ]
+    },
+    {
+      "record_id": "ALT11",
+      "group": "EARLIER_EXTERNAL",
+      "keys": [
+        "doi:10.1109/lnet.2025.3605531",
+        "title:multiagentddpgbasedjointbeamhoppingandresourceallocationforcognitivegeoleosatellitenetworks"
+      ],
+      "titles": [
+        "Multi-Agent DDPG-Based Joint Beam Hopping and Resource Allocation for Cognitive GEO-LEO Satellite Networks"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_batches/B10_20261016/SOURCE_MANIFEST_B10.json"
+      ]
+    },
+    {
+      "record_id": "L005",
+      "group": "B11_B20",
+      "source_id": "E-B11-L005",
+      "keys": [
+        "doi:10.1007/s42405-025-01071-w",
+        "title:apitchrollattitudestrategyforleoconstellationphasingwithdifferentialdragunderpowerconstraints"
+      ],
+      "titles": [
+        "A Pitch-Roll Attitude Strategy for LEO Constellation Phasing with Differential Drag Under Power Constraints"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_batches/B11_20261020/SOURCE_MANIFEST_B11.json"
+      ]
+    },
+    {
+      "record_id": "L012",
+      "group": "B11_B20",
+      "source_id": "E-B11-L012",
+      "keys": [
+        "doi:10.1007/s12567-025-00630-x",
+        "title:operationalizingdifferentialdragcontrolaplanningroutineforthesnetsatelliteformation"
+      ],
+      "titles": [
+        "Operationalizing differential drag control: a planning routine for the S-NET satellite formation"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_batches/B11_20261020/SOURCE_MANIFEST_B11.json"
+      ]
+    },
+    {
+      "record_id": "L017",
+      "group": "B11_B20",
+      "source_id": "E-B11-L017",
+      "keys": [
+        "arxiv:2110.07817",
+        "doi:10.2514/1.g006514",
+        "doi:10.48550/arxiv.2110.07817",
+        "title:onthetheoryofuniformsatelliteconstellationreconfiguration",
+        "title:uniformsatelliteconstellationreconfiguration"
+      ],
+      "titles": [
+        "On the Theory of Uniform Satellite Constellation Reconfiguration",
+        "Uniform Satellite Constellation Reconfiguration"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_batches/B11_20261020/SOURCE_MANIFEST_B11.json"
+      ]
+    },
+    {
+      "record_id": "L025",
+      "group": "B11_B20",
+      "source_id": "E-B11-L025",
+      "keys": [
+        "doi:10.1007/s42064-023-0165-5",
+        "title:safeeventpruninginspacecraftconjunctionmanagement"
+      ],
+      "titles": [
+        "Safe-event pruning in spacecraft conjunction management"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_batches/B11_20261020/SOURCE_MANIFEST_B11.json"
+      ]
+    },
+    {
+      "record_id": "L040",
+      "group": "B11_B20",
+      "source_id": "E-B11-L040",
+      "keys": [
+        "doi:10.3390/e27040329",
+        "title:overcomingdilutionofcollisionprobabilityinsatelliteconjunctionanalysisviaconfidencedistribution"
+      ],
+      "titles": [
+        "Overcoming Dilution of Collision Probability in Satellite Conjunction Analysis via Confidence Distribution"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_batches/B11_20261020/SOURCE_MANIFEST_B11.json"
+      ]
+    },
+    {
+      "record_id": "L041",
+      "group": "B11_B20",
+      "source_id": "E-B11-L041",
+      "keys": [
+        "doi:10.1007/s42064-021-0119-8",
+        "title:calculatingcollisionprobabilityforlongtermsatelliteencountersthroughthereachabledomainmethod"
+      ],
+      "titles": [
+        "Calculating collision probability for long-term satellite encounters through the reachable domain method"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_batches/B11_20261020/SOURCE_MANIFEST_B11.json"
+      ]
+    },
+    {
+      "record_id": "L045",
+      "group": "B11_B20",
+      "source_id": "E-B11-L045",
+      "keys": [
+        "doi:10.1016/j.asej.2024.103145",
+        "title:milpmpcforplannedmaneuverstationkeepingandcollisionavoidanceofgeosatellitesusingonoffchemicalthrusters"
+      ],
+      "titles": [
+        "MILP-MPC for planned maneuver station-keeping and collision avoidance of GEO satellites using on-off chemical thrusters"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_batches/B11_20261020/SOURCE_MANIFEST_B11.json"
+      ]
+    },
+    {
+      "record_id": "L046",
+      "group": "B11_B20",
+      "source_id": "E-B11-L046",
+      "keys": [
+        "doi:10.1007/s42064-024-0227-3",
+        "title:collisionavoidancemaneuveroptimizationduringlowthrustpropelledtrajectories"
+      ],
+      "titles": [
+        "Collision avoidance maneuver optimization during low-thrust propelled trajectories"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_batches/B11_20261020/SOURCE_MANIFEST_B11.json"
+      ]
+    },
+    {
+      "record_id": "L048",
+      "group": "B11_B20",
+      "source_id": "E-B11-L048",
+      "keys": [
+        "arxiv:2101.07403",
+        "doi:10.1016/j.actaastro.2021.05.046",
+        "doi:10.48550/arxiv.2101.07403",
+        "title:collisionavoidancemaneuveroptimizationwithamultipleimpulseconvexformulation"
+      ],
+      "titles": [
+        "Collision avoidance maneuver optimization with a multiple-impulse convex formulation"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_batches/B11_20261020/SOURCE_MANIFEST_B11.json"
+      ]
+    },
+    {
+      "record_id": "L059",
+      "group": "B11_B20",
+      "source_id": "E-B11-L059",
+      "keys": [
+        "arxiv:2406.03654",
+        "doi:10.2514/1.g008332",
+        "doi:10.48550/arxiv.2406.03654",
+        "title:collisionavoidancemaneuversoptimizationinthepresenceofmultipleencounters"
+      ],
+      "titles": [
+        "Collision Avoidance Maneuvers Optimization in the Presence of Multiple Encounters"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_batches/B11_20261020/SOURCE_MANIFEST_B11.json"
+      ]
+    },
+    {
+      "record_id": "L007",
+      "group": "B11_B20",
+      "source_id": "E-B12-L007",
+      "keys": [
+        "doi:10.2514/1.g004219",
+        "title:outputregulationcontrolforsatelliteformationflyingusingdifferentialdrag"
+      ],
+      "titles": [
+        "Output Regulation Control for Satellite Formation Flying Using Differential Drag"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_batches/B12_20261020/SOURCE_MANIFEST_B12.json"
+      ]
+    },
+    {
+      "record_id": "L020",
+      "group": "B11_B20",
+      "source_id": "E-B12-L020",
+      "keys": [
+        "doi:10.1007/s12567-019-00254-y",
+        "title:ontheexploitationofdifferentialaerodynamicliftanddragasameanstocontrolsatelliteformationflight"
+      ],
+      "titles": [
+        "On the exploitation of differential aerodynamic lift and drag as a means to control satellite formation flight"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_batches/B12_20261020/SOURCE_MANIFEST_B12.json"
+      ]
+    },
+    {
+      "record_id": "L022",
+      "group": "B11_B20",
+      "source_id": "E-B12-L022",
+      "keys": [
+        "doi:10.2514/1.g003739",
+        "title:generalperturbationmethodforsatelliteconstellationreconfigurationusinglowthrustmaneuvers"
+      ],
+      "titles": [
+        "General Perturbation Method for Satellite Constellation Reconfiguration Using Low-Thrust Maneuvers"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_batches/B12_20261020/SOURCE_MANIFEST_B12.json"
+      ]
+    },
+    {
+      "record_id": "L038",
+      "group": "B11_B20",
+      "source_id": "E-B12-L038",
+      "keys": [
+        "arxiv:2205.15774",
+        "doi:10.1016/j.asr.2022.07.055",
+        "title:analyticalmodelforcollisionprobabilityassessmentswithlargesatelliteconstellations"
+      ],
+      "titles": [
+        "Analytical model for collision probability assessments with large satellite constellations"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_batches/B12_20261020/SOURCE_MANIFEST_B12.json"
+      ]
+    },
+    {
+      "record_id": "L047",
+      "group": "B11_B20",
+      "source_id": "E-B12-L047",
+      "keys": [
+        "arxiv:2307.06004",
+        "doi:10.2514/1.g007839",
+        "title:longtermfueloptimalcollisionavoidancemaneuverswithstationkeepingconstraints"
+      ],
+      "titles": [
+        "Long-Term Fuel-Optimal Collision Avoidance Maneuvers with Station-Keeping Constraints"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_batches/B12_20261020/SOURCE_MANIFEST_B12.json"
+      ]
+    },
+    {
+      "record_id": "L053",
+      "group": "B11_B20",
+      "source_id": "E-B12-L053",
+      "keys": [
+        "doi:10.5140/jass.2012.29.1.011",
+        "title:astudyonthecollisionavoidancemaneuveroptimizationwithmultiplespacedebris"
+      ],
+      "titles": [
+        "A Study on the Collision Avoidance Maneuver Optimization with Multiple Space Debris"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_batches/B12_20261020/SOURCE_MANIFEST_B12.json"
+      ]
+    },
+    {
+      "record_id": "L057",
+      "group": "B11_B20",
+      "source_id": "E-B12-L057",
+      "keys": [
+        "arxiv:2406.01949",
+        "doi:10.1109/taes.2024.3480041",
+        "title:recursivepolynomialmethodforfastcollisionavoidancemaneuverdesign"
+      ],
+      "titles": [
+        "Recursive Polynomial Method for Fast Collision Avoidance Maneuver Design"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_batches/B12_20261020/SOURCE_MANIFEST_B12.json"
+      ]
+    },
+    {
+      "record_id": "L062",
+      "group": "B11_B20",
+      "source_id": "E-B12-L062",
+      "keys": [
+        "doi:10.2514/1.g000742",
+        "title:optimalimpulsivecollisionavoidanceinlowearthorbit"
+      ],
+      "titles": [
+        "Optimal Impulsive Collision Avoidance in Low Earth Orbit"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_batches/B12_20261020/SOURCE_MANIFEST_B12.json"
+      ]
+    },
+    {
+      "record_id": "L066",
+      "group": "B11_B20",
+      "source_id": "E-B12-L066",
+      "keys": [
+        "doi:10.1177/0036850419884432",
+        "title:optimalcooperativecontrolforformationflyingspacecraftwithcollisionavoidance"
+      ],
+      "titles": [
+        "Optimal cooperative control for formation flying spacecraft with collision avoidance"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_batches/B12_20261020/SOURCE_MANIFEST_B12.json"
+      ]
+    },
+    {
+      "record_id": "L074",
+      "group": "B11_B20",
+      "source_id": "E-B12-L074",
+      "keys": [
+        "doi:10.1007/s42496-024-00202-y",
+        "title:fastreconfigurationmaneuversofamicrosatelliteconstellationbasedonahybridrocketengine"
+      ],
+      "titles": [
+        "Fast Reconfiguration Maneuvers of a Micro-satellite Constellation Based on a Hybrid Rocket Engine"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_batches/B12_20261020/SOURCE_MANIFEST_B12.json"
+      ]
+    },
+    {
+      "record_id": "S001",
+      "group": "B11_B20",
+      "source_id": "E-B13-S001",
+      "keys": [
+        "arxiv:2502.10480",
+        "title:safemultiagentsatelliteservicingwithcontrolbarrierfunctions"
+      ],
+      "titles": [
+        "Safe Multi-agent Satellite Servicing with Control Barrier Functions"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_batches/B13_20261020/SOURCE_MANIFEST_B13.json"
+      ]
+    },
+    {
+      "record_id": "S002",
+      "group": "B11_B20",
+      "source_id": "E-B13-S002",
+      "keys": [
+        "arxiv:2609.26593",
+        "title:decentralizedguidanceandcontrolforrendezvousanddockingwithatumblingtargetusingmultipleservicers"
+      ],
+      "titles": [
+        "Decentralized Guidance and Control for Rendezvous and Docking with a Tumbling Target using Multiple Servicers"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_batches/B13_20261020/SOURCE_MANIFEST_B13.json"
+      ]
+    },
+    {
+      "record_id": "S003",
+      "group": "B11_B20",
+      "source_id": "E-B13-S003",
+      "keys": [
+        "doi:10.23919/chicc.2019.8866017",
+        "title:distributedconnectivitymaintenanceandcollisionavoidancecontrolofspacecraftformationflying"
+      ],
+      "titles": [
+        "Distributed Connectivity Maintenance and Collision Avoidance Control of Spacecraft Formation Flying"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_batches/B13_20261020/SOURCE_MANIFEST_B13.json"
+      ]
+    },
+    {
+      "record_id": "S004",
+      "group": "B11_B20",
+      "source_id": "E-B13-S004",
+      "keys": [
+        "doi:10.1007/978-981-15-8155-7_307",
+        "title:connectivitypreservationandcollisionavoidancecontrolforspacecraftformationflyingwithboundedactuation"
+      ],
+      "titles": [
+        "Connectivity Preservation and Collision Avoidance Control for Spacecraft Formation Flying with Bounded Actuation"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_batches/B13_20261020/SOURCE_MANIFEST_B13.json"
+      ]
+    },
+    {
+      "record_id": "S005",
+      "group": "B11_B20",
+      "source_id": "E-B13-S005",
+      "keys": [
+        "doi:10.3390/aerospace11080612",
+        "title:leaderfollowingconnectivitypreservationandcollisionavoidancecontrolformultiplespacecraftwithboundedactuation"
+      ],
+      "titles": [
+        "Leader-Following Connectivity Preservation and Collision Avoidance Control for Multiple Spacecraft with Bounded Actuation"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_batches/B13_20261020/SOURCE_MANIFEST_B13.json"
+      ]
+    },
+    {
+      "record_id": "S006",
+      "group": "B11_B20",
+      "source_id": "E-B13-S006",
+      "keys": [
+        "doi:10.1016/j.asr.2020.05.036",
+        "title:connectivitypreservationandcollisionavoidancecontrolforspacecraftformationflyinginthepresenceofmultipleobstacles"
+      ],
+      "titles": [
+        "Connectivity preservation and collision avoidance control for spacecraft formation flying in the presence of multiple obstacles"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_batches/B13_20261020/SOURCE_MANIFEST_B13.json"
+      ]
+    },
+    {
+      "record_id": "S007",
+      "group": "B11_B20",
+      "source_id": "E-B13-S007",
+      "keys": [
+        "doi:10.23919/acc53348.2022.9867216",
+        "title:robustpassivelysafespacecraftswarmingviaclosedformandoptimizationbasedcontrolapproaches"
+      ],
+      "titles": [
+        "Robust Passively Safe Spacecraft Swarming via Closed-form and Optimization-based Control Approaches"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_batches/B13_20261020/SOURCE_MANIFEST_B13.json"
+      ]
+    },
+    {
+      "record_id": "S008",
+      "group": "B11_B20",
+      "source_id": "E-B13-S008",
+      "keys": [
+        "arxiv:2504.20386",
+        "title:safeandoptimalnspacecraftswarmreconfigurationinnonkepleriancislunarorbits"
+      ],
+      "titles": [
+        "Safe and Optimal N-Spacecraft Swarm Reconfiguration in Non-Keplerian Cislunar Orbits"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_batches/B13_20261020/SOURCE_MANIFEST_B13.json"
+      ]
+    },
+    {
+      "record_id": "S009",
+      "group": "B11_B20",
+      "source_id": "E-B13-S009",
+      "keys": [
+        "title:cooperativeplatooningandservicingforspacecraftformationflyingusingmodelpredictivecontrol"
+      ],
+      "titles": [
+        "Cooperative Platooning and Servicing for Spacecraft Formation Flying using Model Predictive Control"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_batches/B13_20261020/SOURCE_MANIFEST_B13.json"
+      ]
+    },
+    {
+      "record_id": "S010",
+      "group": "B11_B20",
+      "source_id": "E-B13-S010",
+      "keys": [
+        "title:ahierarchicalcontrolarchitectureforoptimalguidanceandnavigationofsatelliteformations"
+      ],
+      "titles": [
+        "A Hierarchical Control Architecture for Optimal Guidance and Navigation of Satellite Formations"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_batches/B13_20261020/SOURCE_MANIFEST_B13.json"
+      ]
+    },
+    {
+      "record_id": "S011",
+      "group": "B11_B20",
+      "source_id": "E-B14-S011",
+      "keys": [
+        "arxiv:2302.02885",
+        "title:runtimeassuranceforautonomousspacecraftinspection"
+      ],
+      "titles": [
+        "Run Time Assurance for Autonomous Spacecraft Inspection"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_batches/B14_20261020/SOURCE_MANIFEST_B14.json"
+      ]
+    },
+    {
+      "record_id": "S012",
+      "group": "B11_B20",
+      "source_id": "E-B14-S012",
+      "keys": [
+        "arxiv:2402.17596",
+        "doi:10.1109/cdc49753.2023.10383291",
+        "title:corridormpcformultiagentinspectionoforbitingstructures"
+      ],
+      "titles": [
+        "Corridor MPC for Multi-Agent Inspection of Orbiting Structures"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_batches/B14_20261020/SOURCE_MANIFEST_B14.json"
+      ]
+    },
+    {
+      "record_id": "S013",
+      "group": "B11_B20",
+      "source_id": "E-B14-S013",
+      "keys": [
+        "arxiv:2307.08602",
+        "doi:10.1109/cdc49753.2023.10383600",
+        "title:cartcertifiedsafetyandrobusttrackinginlearningbasedmotionplanningformultiagentsystems"
+      ],
+      "titles": [
+        "CaRT: Certified Safety and Robust Tracking in Learning-based Motion Planning for Multi-Agent Systems"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_batches/B14_20261020/SOURCE_MANIFEST_B14.json"
+      ]
+    },
+    {
+      "record_id": "S014",
+      "group": "B11_B20",
+      "source_id": "E-B14-S014",
+      "keys": [
+        "arxiv:2412.10530",
+        "title:deepreinforcementlearningforscalablemultiagentspacecraftinspection"
+      ],
+      "titles": [
+        "Deep Reinforcement Learning for Scalable Multiagent Spacecraft Inspection"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_batches/B14_20261020/SOURCE_MANIFEST_B14.json"
+      ]
+    },
+    {
+      "record_id": "S015",
+      "group": "B11_B20",
+      "source_id": "E-B14-S015",
+      "keys": [
+        "doi:10.64861/dauc8213",
+        "title:safeautonomousmultiagentinspectionofspaceobjectsleveragingrelativeorbitdynamics"
+      ],
+      "titles": [
+        "Safe, Autonomous Multi-Agent Inspection of Space Objects Leveraging Relative Orbit Dynamics"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_batches/B14_20261020/SOURCE_MANIFEST_B14.json"
+      ]
+    },
+    {
+      "record_id": "S016",
+      "group": "B11_B20",
+      "source_id": "E-B14-S016",
+      "keys": [
+        "doi:10.2514/6.2025-0183",
+        "title:robustreplanningformultiagentsmallsatinspectioninfailurescenarios"
+      ],
+      "titles": [
+        "Robust Replanning for Multi-Agent SmallSat Inspection in Failure Scenarios"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_batches/B14_20261020/SOURCE_MANIFEST_B14.json"
+      ]
+    },
+    {
+      "record_id": "S017",
+      "group": "B11_B20",
+      "source_id": "E-B14-S017",
+      "keys": [
+        "doi:10.31224/5877",
+        "title:multiagentspacecraftdockingwithreinforcementlearning"
+      ],
+      "titles": [
+        "Multi-Agent Spacecraft Docking with Reinforcement Learning"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_batches/B14_20261020/SOURCE_MANIFEST_B14.json"
+      ]
+    },
+    {
+      "record_id": "S018",
+      "group": "B11_B20",
+      "source_id": "E-B14-S018",
+      "keys": [
+        "arxiv:2209.01120",
+        "doi:10.23919/acc55779.2023.10156439",
+        "title:auniversalframeworkforgeneralizedruntimeassurancewithjaxautomaticdifferentiation"
+      ],
+      "titles": [
+        "A Universal Framework for Generalized Run Time Assurance with JAX Automatic Differentiation"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_batches/B14_20261020/SOURCE_MANIFEST_B14.json"
+      ]
+    },
+    {
+      "record_id": "S019",
+      "group": "B11_B20",
+      "source_id": "E-B14-S019",
+      "keys": [
+        "doi:10.23919/acc60939.2024.10644961",
+        "title:guaranteedsafesatelliteguidanceandnavigationusingreachabilitybasedswitchingcontrollers"
+      ],
+      "titles": [
+        "Guaranteed Safe Satellite Guidance and Navigation Using Reachability Based Switching Controllers"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_batches/B14_20261020/SOURCE_MANIFEST_B14.json"
+      ]
+    },
+    {
+      "record_id": "S020",
+      "group": "B11_B20",
+      "source_id": "E-B14-S020",
+      "keys": [
+        "arxiv:2107.04094",
+        "doi:10.1016/j.automatica.2023.111109",
+        "title:robustcontrolbarrierfunctionsunderhighrelativedegreeandinputconstraintsforsatellitetrajectories"
+      ],
+      "titles": [
+        "Robust Control Barrier Functions under High Relative Degree and Input Constraints for Satellite Trajectories"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_batches/B14_20261020/SOURCE_MANIFEST_B14.json"
+      ]
+    },
+    {
+      "record_id": "S021",
+      "group": "B11_B20",
+      "source_id": "E-B15-S021",
+      "keys": [
+        "doi:10.1016/j.actaastro.2025.02.048",
+        "title:lowthrustunderactuatedsatelliteformationguidanceandcontrolstrategies"
+      ],
+      "titles": [
+        "Low-thrust under-actuated satellite formation guidance and control strategies"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_batches/B15_20261020/SOURCE_MANIFEST_B15.json"
+      ]
+    },
+    {
+      "record_id": "S022",
+      "group": "B11_B20",
+      "source_id": "E-B15-S022",
+      "keys": [
+        "arxiv:2402.09382",
+        "doi:10.1109/tvt.2025.3546857",
+        "title:safedistributedcontrolofmultirobotsystemswithcommunicationdelays"
+      ],
+      "titles": [
+        "Safe Distributed Control of Multi-Robot Systems With Communication Delays"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_batches/B15_20261020/SOURCE_MANIFEST_B15.json"
+      ]
+    },
+    {
+      "record_id": "S023",
+      "group": "B11_B20",
+      "source_id": "E-B15-S023",
+      "keys": [
+        "doi:10.1109/cdc57313.2025.11312059",
+        "title:safecontrolofmultiagentsystemswithminimalcommunication"
+      ],
+      "titles": [
+        "Safe Control of Multi-Agent Systems with Minimal Communication"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_batches/B15_20261020/SOURCE_MANIFEST_B15.json"
+      ]
+    },
+    {
+      "record_id": "S024",
+      "group": "B11_B20",
+      "source_id": "E-B15-S024",
+      "keys": [
+        "doi:10.1016/j.eng.2026.04.014",
+        "title:behaviorinspiredeventtriggeredcontrolofspacecraftswarmsforautonomouscaptureofuncooperativetargets"
+      ],
+      "titles": [
+        "Behavior-Inspired Event-Triggered Control of Spacecraft Swarms for Autonomous Capture of Uncooperative Targets"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_batches/B15_20261020/SOURCE_MANIFEST_B15.json"
+      ]
+    },
+    {
+      "record_id": "S025",
+      "group": "B11_B20",
+      "source_id": "E-B15-S025",
+      "keys": [
+        "doi:10.82124/ceas-gnc-2026-020",
+        "title:aswitchingstrategyforeventtriggercontrolofspacecraftrendezvous"
+      ],
+      "titles": [
+        "A Switching Strategy for Event-Trigger Control of Spacecraft Rendezvous"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_batches/B15_20261020/SOURCE_MANIFEST_B15.json"
+      ]
+    },
+    {
+      "record_id": "S026",
+      "group": "B11_B20",
+      "source_id": "E-B15-S026",
+      "keys": [
+        "arxiv:2309.16698",
+        "title:autonomousguidancenavigationandcontrolofthevisorsformationflyingmission"
+      ],
+      "titles": [
+        "Autonomous Guidance Navigation and Control of the VISORS Formation-Flying Mission"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_batches/B15_20261020/SOURCE_MANIFEST_B15.json"
+      ]
+    },
+    {
+      "record_id": "S027",
+      "group": "B11_B20",
+      "source_id": "E-B15-S027",
+      "keys": [
+        "arxiv:2204.13251",
+        "doi:10.1109/icra46639.2022.9811875",
+        "title:simultaneouscontrolandtrajectoryestimationforcollisionavoidanceofautonomousroboticspacecraftsystems"
+      ],
+      "titles": [
+        "Simultaneous Control and Trajectory Estimation for Collision Avoidance of Autonomous Robotic Spacecraft Systems"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_batches/B15_20261020/SOURCE_MANIFEST_B15.json"
+      ]
+    },
+    {
+      "record_id": "S028",
+      "group": "B11_B20",
+      "source_id": "E-B15-S028",
+      "keys": [
+        "doi:10.3390/aerospace9100556",
+        "title:researchintoaconsistencycooperativecontrolmethodforattitudeorbitcouplingofsarsatelliteformationsundercommunicationconstraints"
+      ],
+      "titles": [
+        "Research into a Consistency Cooperative Control Method for Attitude Orbit Coupling of SAR Satellite Formations under Communication Constraints"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_batches/B15_20261020/SOURCE_MANIFEST_B15.json"
+      ]
+    },
+    {
+      "record_id": "S029",
+      "group": "B11_B20",
+      "source_id": "E-B15-S029",
+      "keys": [
+        "doi:10.82124/ceas-gnc-2026-069",
+        "title:robustmodelpredictivecontrolforrendezvouswithrelativeorbitalelementsandsystemlevelsynthesis"
+      ],
+      "titles": [
+        "Robust Model Predictive Control for Rendezvous with Relative Orbital Elements and System Level Synthesis"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_batches/B15_20261020/SOURCE_MANIFEST_B15.json"
+      ]
+    },
+    {
+      "record_id": "S030",
+      "group": "B11_B20",
+      "source_id": "E-B15-S030",
+      "keys": [
+        "arxiv:2410.03885",
+        "title:collaborativesafetycriticalformationcontrolwithobstacleavoidance"
+      ],
+      "titles": [
+        "Collaborative Safety-Critical Formation Control with Obstacle Avoidance"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_batches/B15_20261020/SOURCE_MANIFEST_B15.json"
+      ]
+    },
+    {
+      "record_id": "S031",
+      "group": "B11_B20",
+      "source_id": "E-B16-S031",
+      "keys": [
+        "arxiv:2607.26570",
+        "title:semidecentralizedmultispacecraftcollisionavoidanceundercommunicationconstraints"
+      ],
+      "titles": [
+        "Semi-Decentralized Multi-Spacecraft Collision Avoidance under Communication Constraints"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_batches/B16_20261020/SOURCE_MANIFEST_B16.json"
+      ]
+    },
+    {
+      "record_id": "S032",
+      "group": "B11_B20",
+      "source_id": "E-B16-S032",
+      "keys": [
+        "doi:10.3390/app15073751",
+        "title:safetycontrolforsatelliteformationflyingviahighordercontrolbarrierfunctions"
+      ],
+      "titles": [
+        "Safety Control for Satellite Formation Flying via High-Order Control Barrier Functions"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_batches/B16_20261020/SOURCE_MANIFEST_B16.json"
+      ]
+    },
+    {
+      "record_id": "S033",
+      "group": "B11_B20",
+      "source_id": "E-B16-S033",
+      "keys": [
+        "arxiv:2504.00225",
+        "title:distributedmodelpredictivecontrolfordynamiccooperationofmultiagentsystems"
+      ],
+      "titles": [
+        "Distributed Model Predictive Control for Dynamic Cooperation of Multi-Agent Systems"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_batches/B16_20261020/SOURCE_MANIFEST_B16.json"
+      ]
+    },
+    {
+      "record_id": "S034",
+      "group": "B11_B20",
+      "source_id": "E-B16-S034",
+      "keys": [
+        "arxiv:2201.10399",
+        "title:reconfigurationofasatelliteconstellationincircularformationorbitwithdecentralizedmodelpredictivecontrol"
+      ],
+      "titles": [
+        "Reconfiguration of a satellite constellation in circular formation orbit with decentralized model predictive control"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_batches/B16_20261020/SOURCE_MANIFEST_B16.json"
+      ]
+    },
+    {
+      "record_id": "S035",
+      "group": "B11_B20",
+      "source_id": "E-B16-S035",
+      "keys": [
+        "arxiv:1707.01185",
+        "title:attitudecontrolofspacecraftformationssubjecttodistributedcommunicationdelays"
+      ],
+      "titles": [
+        "Attitude Control of Spacecraft Formations Subject To Distributed Communication Delays"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_batches/B16_20261020/SOURCE_MANIFEST_B16.json"
+      ]
+    },
+    {
+      "record_id": "S036",
+      "group": "B11_B20",
+      "source_id": "E-B16-S036",
+      "keys": [
+        "arxiv:2309.08050",
+        "title:robustcontrolbarrierfunctionsforsampleddatasystems"
+      ],
+      "titles": [
+        "Robust Control Barrier Functions for Sampled-Data Systems"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_batches/B16_20261020/SOURCE_MANIFEST_B16.json"
+      ]
+    },
+    {
+      "record_id": "S037",
+      "group": "B11_B20",
+      "source_id": "E-B16-S037",
+      "keys": [
+        "doi:10.1109/tcst.2007.903389",
+        "title:amodelpredictivedecentralizedcontrolschemewithreducedcommunicationrequirementforspacecraftformation",
+        "title:spacecraftformationcontrolindeepspacewithreducedcommunicationrequirement"
+      ],
+      "titles": [
+        "A Model Predictive Decentralized Control Scheme With Reduced Communication Requirement for Spacecraft Formation",
+        "Spacecraft Formation Control in Deep Space with Reduced Communication Requirement"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_batches/B16_20261020/SOURCE_MANIFEST_B16.json"
+      ]
+    },
+    {
+      "record_id": "S038",
+      "group": "B11_B20",
+      "source_id": "E-B16-S038",
+      "keys": [
+        "doi:10.5755/j01.itc.41.2.854",
+        "title:optimalspacecraftformationreconfigurationwithcollisionavoidanceusingparticleswarmoptimization"
+      ],
+      "titles": [
+        "Optimal Spacecraft Formation Reconfiguration with Collision Avoidance Using Particle Swarm Optimization"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_batches/B16_20261020/SOURCE_MANIFEST_B16.json"
+      ]
+    },
+    {
+      "record_id": "S039",
+      "group": "B11_B20",
+      "source_id": "E-B16-S039",
+      "keys": [
+        "doi:10.1007/s11432-011-4191-1",
+        "title:formationcontrolfornetworkedspacecraftindeepspacewithorwithoutcommunicationdelaysandwithswitchingtopology"
+      ],
+      "titles": [
+        "Formation control for networked spacecraft in deep space: with or without communication delays and with switching topology"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_batches/B16_20261020/SOURCE_MANIFEST_B16.json"
+      ]
+    },
+    {
+      "record_id": "S040",
+      "group": "B11_B20",
+      "source_id": "E-B16-S040",
+      "keys": [
+        "arxiv:2103.12614",
+        "title:decentralizedconnectivitymaintenancewithtimedelaysusingcontrolbarrierfunctions"
+      ],
+      "titles": [
+        "Decentralized Connectivity Maintenance with Time Delays using Control Barrier Functions"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_batches/B16_20261020/SOURCE_MANIFEST_B16.json"
+      ]
+    },
+    {
+      "record_id": "S041",
+      "group": "B11_B20",
+      "source_id": "E-B17-S041",
+      "keys": [
+        "arxiv:2211.03658",
+        "title:satellitenavigationandcoordinationwithlimitedinformationsharing"
+      ],
+      "titles": [
+        "Satellite Navigation and Coordination with Limited Information Sharing"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_batches/B17_20261021/SOURCE_MANIFEST_B17.json"
+      ]
+    },
+    {
+      "record_id": "S042",
+      "group": "B11_B20",
+      "source_id": "E-B17-S042",
+      "keys": [
+        "arxiv:2311.09439",
+        "title:learninghyperplanesformultiagentcollisionavoidanceinspace",
+        "title:learninghyperplanesformultirobotcollisionavoidanceinspace"
+      ],
+      "titles": [
+        "Learning Hyperplanes for Multi-Agent Collision Avoidance in Space",
+        "Learning Hyperplanes for Multi-Robot Collision Avoidance in Space"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_batches/B17_20261021/SOURCE_MANIFEST_B17.json"
+      ]
+    },
+    {
+      "record_id": "S043",
+      "group": "B11_B20",
+      "source_id": "E-B17-S043",
+      "keys": [
+        "arxiv:2403.03314",
+        "title:collisionavoidanceverificationofmultiagentsystemswithlearnedpolicies"
+      ],
+      "titles": [
+        "Collision Avoidance Verification of Multiagent Systems with Learned Policies"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_batches/B17_20261021/SOURCE_MANIFEST_B17.json"
+      ]
+    },
+    {
+      "record_id": "S044",
+      "group": "B11_B20",
+      "source_id": "E-B17-S044",
+      "keys": [
+        "arxiv:2510.19058",
+        "title:convexmaneuverplanningforspacecraftcollisionavoidance"
+      ],
+      "titles": [
+        "Convex Maneuver Planning for Spacecraft Collision Avoidance"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_batches/B17_20261021/SOURCE_MANIFEST_B17.json"
+      ]
+    },
+    {
+      "record_id": "S045",
+      "group": "B11_B20",
+      "source_id": "E-B17-S045",
+      "keys": [
+        "arxiv:2605.20138",
+        "title:hamiltonjacobireachabilityforspacecraftcollisionavoidance"
+      ],
+      "titles": [
+        "Hamilton–Jacobi Reachability for Spacecraft Collision Avoidance"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_batches/B17_20261021/SOURCE_MANIFEST_B17.json"
+      ]
+    },
+    {
+      "record_id": "S046",
+      "group": "B11_B20",
+      "source_id": "E-B17-S046",
+      "keys": [
+        "doi:10.1109/taes.2022.3200345",
+        "title:satelliteformationflyingcontrolbyusingonlyanglemeasurements"
+      ],
+      "titles": [
+        "Satellite Formation Flying Control by Using Only Angle Measurements"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_batches/B17_20261021/SOURCE_MANIFEST_B17.json"
+      ]
+    },
+    {
+      "record_id": "S047",
+      "group": "B11_B20",
+      "source_id": "E-B17-S047",
+      "keys": [
+        "doi:10.3390/app16083707",
+        "title:sequentialconvextrajectoryplanningforspacedebrisconjunctionmitigationinsatelliteformations"
+      ],
+      "titles": [
+        "Sequential Convex Trajectory Planning for Space-Debris Conjunction Mitigation in Satellite Formations"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_batches/B17_20261021/SOURCE_MANIFEST_B17.json"
+      ]
+    },
+    {
+      "record_id": "S048",
+      "group": "B11_B20",
+      "source_id": "E-B17-S048",
+      "keys": [
+        "doi:10.1007/s12567-026-00702-6",
+        "title:inorbitdemonstrationofpropulsiveanddragbasedformationcontrolusingtwo2ucubesatsunderoperationalconstraints"
+      ],
+      "titles": [
+        "In-orbit demonstration of propulsive and drag-based formation control using two 2U CubeSats under operational constraints"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_batches/B17_20261021/SOURCE_MANIFEST_B17.json"
+      ]
+    },
+    {
+      "record_id": "S049",
+      "group": "B11_B20",
+      "source_id": "E-B17-S049",
+      "keys": [
+        "arxiv:2204.00208",
+        "doi:10.1109/cdc51059.2022.9992926",
+        "title:predictivecontrolbarrierfunctionsforonlinesafetycriticalcontrol"
+      ],
+      "titles": [
+        "Predictive Control Barrier Functions for Online Safety Critical Control"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_batches/B17_20261021/SOURCE_MANIFEST_B17.json"
+      ]
+    },
+    {
+      "record_id": "S050",
+      "group": "B11_B20",
+      "source_id": "E-B17-S050",
+      "keys": [
+        "doi:10.1007/s11431-025-3169-9",
+        "title:areinforcementlearningtrainingandtestingframeworkforaerospacemissions"
+      ],
+      "titles": [
+        "A reinforcement learning training and testing framework for aerospace missions"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_batches/B17_20261021/SOURCE_MANIFEST_B17.json"
+      ]
+    },
+    {
+      "record_id": "S051",
+      "group": "B11_B20",
+      "source_id": "E-B18-S051",
+      "keys": [
+        "doi:10.2514/1.g009169",
+        "title:motionplanningstrategiesforsafetyprocedureofmultisatelliteformationflyingsystems"
+      ],
+      "titles": [
+        "Motion Planning Strategies for Safety Procedure of Multi-Satellite Formation Flying Systems",
+        "Motion Planning Strategies for Safety Procedure of Multisatellite Formation-Flying Systems"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_batches/B18_20261021/SOURCE_MANIFEST_B18.json"
+      ]
+    },
+    {
+      "record_id": "S052",
+      "group": "B11_B20",
+      "source_id": "E-B18-S052",
+      "keys": [
+        "doi:10.3390/aerospace13030207",
+        "title:autonomouscontrolofsatelliteswarmsusingminimalvisionbasedbehavioralcontrol"
+      ],
+      "titles": [
+        "Autonomous Control of Satellite Swarms Using Minimal Vision-Based Behavioral Control"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_batches/B18_20261021/SOURCE_MANIFEST_B18.json"
+      ]
+    },
+    {
+      "record_id": "S053",
+      "group": "B11_B20",
+      "source_id": "E-B18-S053",
+      "keys": [
+        "arxiv:2504.04160",
+        "title:orbitzoorealorbitalsystemschallengesforreinforcementlearning"
+      ],
+      "titles": [
+        "OrbitZoo: Real Orbital Systems Challenges for Reinforcement Learning"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_batches/B18_20261021/SOURCE_MANIFEST_B18.json"
+      ]
+    },
+    {
+      "record_id": "S054",
+      "group": "B11_B20",
+      "source_id": "E-B18-S054",
+      "keys": [
+        "doi:10.26077/6h4f-r354",
+        "title:starlingcubesatswarmtechnologydemonstrationflightresults"
+      ],
+      "titles": [
+        "Starling CubeSat Swarm Technology Demonstration Flight Results"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_batches/B18_20261021/SOURCE_MANIFEST_B18.json"
+      ]
+    },
+    {
+      "record_id": "S055",
+      "group": "B11_B20",
+      "source_id": "E-B18-S055",
+      "keys": [
+        "doi:10.3390/s25175606",
+        "title:inorbitoptimalsafeformationcontrolforsurroundinganunknownhugetargetwithspecificstructurebyusingrelativesensorsonly"
+      ],
+      "titles": [
+        "In-Orbit Optimal Safe Formation Control for Surrounding an Unknown Huge Target with Specific Structure by Using Relative Sensors Only"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_batches/B18_20261021/SOURCE_MANIFEST_B18.json"
+      ]
+    },
+    {
+      "record_id": "S056",
+      "group": "B11_B20",
+      "source_id": "E-B18-S056",
+      "keys": [
+        "doi:10.3390/aerospace12050402",
+        "title:elvobasedautonomoussatellitecollisionavoidancewithmultipledebris"
+      ],
+      "titles": [
+        "ELVO-Based Autonomous Satellite Collision Avoidance with Multiple Debris"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_batches/B18_20261021/SOURCE_MANIFEST_B18.json"
+      ]
+    },
+    {
+      "record_id": "S057",
+      "group": "B11_B20",
+      "source_id": "E-B18-S057",
+      "keys": [
+        "title:missiondesignandflightdynamicsoperationsforthestarlingswarmtechnologydemonstration"
+      ],
+      "titles": [
+        "Mission Design and Flight Dynamics Operations for the Starling Swarm Technology Demonstration"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_batches/B18_20261021/SOURCE_MANIFEST_B18.json"
+      ]
+    },
+    {
+      "record_id": "S058",
+      "group": "B11_B20",
+      "source_id": "E-B18-S058",
+      "keys": [
+        "title:nasasstarlingmissionandspacesituationalawarenessimplications"
+      ],
+      "titles": [
+        "NASA’s Starling Mission and Space Situational Awareness Implications"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_batches/B18_20261021/SOURCE_MANIFEST_B18.json"
+      ]
+    },
+    {
+      "record_id": "S059",
+      "group": "B11_B20",
+      "source_id": "E-B18-S059",
+      "keys": [
+        "doi:10.3390/aerospace12010067",
+        "title:closeproximityoperationsdesignanalysisandvalidationfornoncooperativetargetswithanapplicationtotheclearspace1mission"
+      ],
+      "titles": [
+        "Close-Proximity Operations Design, Analysis, and Validation for Non-Cooperative Targets with an Application to the ClearSpace-1 Mission"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_batches/B18_20261021/SOURCE_MANIFEST_B18.json"
+      ]
+    },
+    {
+      "record_id": "S060",
+      "group": "B11_B20",
+      "source_id": "E-B18-S060",
+      "keys": [
+        "arxiv:2603.25835",
+        "title:starlinkconstellationdeploymentconfigurationanddynamics"
+      ],
+      "titles": [
+        "Starlink Constellation: Deployment, Configuration, and Dynamics"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_batches/B18_20261021/SOURCE_MANIFEST_B18.json"
+      ]
+    },
+    {
+      "record_id": "L004",
+      "group": "B11_B20",
+      "source_id": "E-B19-L004",
+      "keys": [
+        "doi:10.1109/jstars.2019.2961084",
+        "title:orbitalmaintenanceofaconstellationofcubesatsforinternalgravitywavetomography"
+      ],
+      "titles": [
+        "Orbital Maintenance of a Constellation of CubeSats for Internal Gravity Wave Tomography"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_batches/B19_20261021/SOURCE_MANIFEST_B19.json"
+      ]
+    },
+    {
+      "record_id": "L008",
+      "group": "B11_B20",
+      "source_id": "E-B19-L008",
+      "keys": [
+        "doi:10.1016/j.actaastro.2018.07.047",
+        "title:studyofsatelliteformationflyingcontrolusingdifferentialliftanddrag"
+      ],
+      "titles": [
+        "Study of satellite formation flying control using differential lift and drag"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_batches/B19_20261021/SOURCE_MANIFEST_B19.json"
+      ]
+    },
+    {
+      "record_id": "L014",
+      "group": "B11_B20",
+      "source_id": "E-B19-L014",
+      "keys": [
+        "doi:10.1016/j.actaastro.2019.12.003",
+        "title:electricsailphasingmaneuversforconstellationdeployment"
+      ],
+      "titles": [
+        "Electric sail phasing maneuvers for constellation deployment"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_batches/B19_20261021/SOURCE_MANIFEST_B19.json"
+      ]
+    },
+    {
+      "record_id": "L015",
+      "group": "B11_B20",
+      "source_id": "E-B19-L015",
+      "keys": [
+        "doi:10.1016/j.actaastro.2015.12.035",
+        "title:covarianceanalysisofdifferentialdragbasedsatelliteclusterflight"
+      ],
+      "titles": [
+        "Covariance analysis of differential drag-based satellite cluster flight"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_batches/B19_20261021/SOURCE_MANIFEST_B19.json"
+      ]
+    },
+    {
+      "record_id": "L018",
+      "group": "B11_B20",
+      "source_id": "E-B19-L018",
+      "keys": [
+        "doi:10.1016/j.asr.2017.07.012",
+        "title:relativetrackingcontrolofconstellationsatellitesconsideringintersatellitelink"
+      ],
+      "titles": [
+        "Relative tracking control of constellation satellites considering inter-satellite link"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_batches/B19_20261021/SOURCE_MANIFEST_B19.json"
+      ]
+    },
+    {
+      "record_id": "L030",
+      "group": "B11_B20",
+      "source_id": "E-B19-L030",
+      "keys": [
+        "doi:10.2514/1.15523",
+        "title:satellitecollisionprobabilityenhancements"
+      ],
+      "titles": [
+        "Satellite Collision Probability Enhancements"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_batches/B19_20261021/SOURCE_MANIFEST_B19.json"
+      ]
+    },
+    {
+      "record_id": "L033",
+      "group": "B11_B20",
+      "source_id": "E-B19-L033",
+      "keys": [
+        "doi:10.2514/2.4771",
+        "title:generalmethodforcalculatingsatellitecollisionprobability"
+      ],
+      "titles": [
+        "General Method for Calculating Satellite Collision Probability"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_batches/B19_20261021/SOURCE_MANIFEST_B19.json"
+      ]
+    },
+    {
+      "record_id": "L034",
+      "group": "B11_B20",
+      "source_id": "E-B19-L034",
+      "keys": [
+        "doi:10.2514/1.62308",
+        "title:collisionprobabilitywithgaussianmixtureorbituncertainty"
+      ],
+      "titles": [
+        "Collision Probability with Gaussian Mixture Orbit Uncertainty"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_batches/B19_20261021/SOURCE_MANIFEST_B19.json"
+      ]
+    },
+    {
+      "record_id": "L036",
+      "group": "B11_B20",
+      "source_id": "E-B19-L036",
+      "keys": [
+        "doi:10.2514/1.g004711",
+        "title:satelliteinstantaneouscollisionprobabilitycomputationusingequivalentvolumecuboids"
+      ],
+      "titles": [
+        "Satellite Instantaneous Collision Probability Computation Using Equivalent Volume Cuboids"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_batches/B19_20261021/SOURCE_MANIFEST_B19.json"
+      ]
+    },
+    {
+      "record_id": "L071",
+      "group": "B11_B20",
+      "source_id": "E-B19-L071",
+      "keys": [
+        "doi:10.2514/1.i010588",
+        "title:satelliteformationcontainmentflyingcontrolwithcollisionavoidance",
+        "title:spacecraftformationcontainmentflyingcontrolwithcollisionavoidance"
+      ],
+      "titles": [
+        "Satellite Formation-Containment Flying Control with Collision Avoidance",
+        "Spacecraft Formation-containment Flying Control with Collision Avoidance"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_batches/B19_20261021/SOURCE_MANIFEST_B19.json"
+      ]
+    },
+    {
+      "record_id": "L019",
+      "group": "B11_B20",
+      "source_id": "E-B20-L019",
+      "keys": [
+        "doi:10.1108/aeat-06-2015-0168",
+        "title:satelliteformationkeepingusingdifferentialliftanddragunderj2perturbation"
+      ],
+      "titles": [
+        "Satellite formation keeping using differential lift and drag under J2 perturbation"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_batches/B20_20261021/SOURCE_MANIFEST_B20.json"
+      ]
+    },
+    {
+      "record_id": "L024",
+      "group": "B11_B20",
+      "source_id": "E-B20-L024",
+      "keys": [
+        "doi:10.1016/j.actaastro.2012.02.015",
+        "title:optimalsatelliteformationreconfigurationstrategybasedonrelativeorbitalelements"
+      ],
+      "titles": [
+        "Optimal satellite formation reconfiguration strategy based on relative orbital elements"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_batches/B20_20261021/SOURCE_MANIFEST_B20.json"
+      ]
+    },
+    {
+      "record_id": "L042",
+      "group": "B11_B20",
+      "source_id": "E-B20-L042",
+      "keys": [
+        "doi:10.2514/1.a36075",
+        "title:combinedcollisionavoidanceandstationkeepingmaneuveroptimizationbycollisionprobabilityinversion",
+        "title:combinedcollisionavoidanceandstationkeepingmaneuversoptimizationbycollisionprobabilityinversion"
+      ],
+      "titles": [
+        "Combined Collision Avoidance and Station-Keeping Maneuver Optimization by Collision Probability Inversion",
+        "Combined Collision Avoidance and Station-Keeping Maneuvers Optimization by Collision Probability Inversion"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_batches/B20_20261021/SOURCE_MANIFEST_B20.json"
+      ]
+    },
+    {
+      "record_id": "L043",
+      "group": "B11_B20",
+      "source_id": "E-B20-L043",
+      "keys": [
+        "doi:10.2514/1.g006630",
+        "title:lowthrustcollisionavoidancemaneuveroptimization"
+      ],
+      "titles": [
+        "Low-Thrust Collision Avoidance Maneuver Optimization"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_batches/B20_20261021/SOURCE_MANIFEST_B20.json"
+      ]
+    },
+    {
+      "record_id": "L049",
+      "group": "B11_B20",
+      "source_id": "E-B20-L049",
+      "keys": [
+        "doi:10.5140/jass.2013.30.4.291",
+        "title:optimizationofspacedebriscollisionavoidancemaneuverforformationflyingsatellites"
+      ],
+      "titles": [
+        "Optimization of Space Debris Collision Avoidance Maneuver for Formation Flying Satellites"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_batches/B20_20261021/SOURCE_MANIFEST_B20.json"
+      ]
+    },
+    {
+      "record_id": "L050",
+      "group": "B11_B20",
+      "source_id": "E-B20-L050",
+      "keys": [
+        "doi:10.2514/1.g008629",
+        "title:combinedlongtermcollisionavoidanceandstochasticstationkeepingingeo",
+        "title:combinedlongtermcollisionavoidanceandstochasticstationkeepingingeostationaryearthorbit"
+      ],
+      "titles": [
+        "Combined Long-Term Collision Avoidance and Stochastic Station-Keeping in GEO",
+        "Combined Long-Term Collision Avoidance and Stochastic Station-Keeping in Geostationary Earth Orbit"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_batches/B20_20261021/SOURCE_MANIFEST_B20.json"
+      ]
+    },
+    {
+      "record_id": "L063",
+      "group": "B11_B20",
+      "source_id": "E-B20-L063",
+      "keys": [
+        "doi:10.1061/(asce)as.1943-5525.0000642",
+        "title:optimalsatelliteformationcollisionavoidancemaneuverbasedonrelativeeivectors"
+      ],
+      "titles": [
+        "Optimal Satellite-Formation Collision-Avoidance Maneuver Based on Relative E/I Vectors"
+      ],
+      "basis_paths": [
+        "review_writing/evidence/reading_batches/B20_20261021/SOURCE_MANIFEST_B20.json"
+      ]
+    }
+  ],
+  "as_of": "2026-10-21 Asia/Shanghai",
+  "evidence_base_commit": "4203498ec434c90b5395abdb2da4708fa7bde3f0",
+  "count_interpretation": "184 different paper records with targeted body reading or body close reading; not184 uniformly full-paper/all-proof completions",
+  "earlier_reading_scope": "77 original-catalog targeted body records plus10 external candidate targeted body records; preexisting rereads already excluded",
+  "newer_reading_scope": "97 B11-B20 AI narrative body close-reading records",
+  "fuzzy_review_resolutions": [
+    {
+      "a": "S006",
+      "b": "S004",
+      "similarity": 0.8396,
+      "title_a": "Connectivity preservation and collision avoidance control for spacecraft formation flying in the presence of multiple obstacles",
+      "title_b": "Connectivity Preservation and Collision Avoidance Control for Spacecraft Formation Flying with Bounded Actuation",
+      "identifiers_a": [
+        "doi:10.1016/j.asr.2020.05.036"
+      ],
+      "identifiers_b": [
+        "doi:10.1007/978-981-15-8155-7_307"
+      ],
+      "decision": "KEEP_AS_DISTINCT_PAPERS",
+      "reason": "Related research line, but bounded actuation, leader-following and obstacles are distinct papers; not independent replications",
+      "human_verified": false
+    },
+    {
+      "a": "S005",
+      "b": "S004",
+      "similarity": 0.8173,
+      "title_a": "Leader-Following Connectivity Preservation and Collision Avoidance Control for Multiple Spacecraft with Bounded Actuation",
+      "title_b": "Connectivity Preservation and Collision Avoidance Control for Spacecraft Formation Flying with Bounded Actuation",
+      "identifiers_a": [
+        "doi:10.3390/aerospace11080612"
+      ],
+      "identifiers_b": [
+        "doi:10.1007/978-981-15-8155-7_307"
+      ],
+      "decision": "KEEP_AS_DISTINCT_PAPERS",
+      "reason": "Related research line, but bounded actuation, leader-following and obstacles are distinct papers; not independent replications",
+      "human_verified": false
+    },
+    {
+      "a": "REF6",
+      "b": "REF1",
+      "similarity": 0.8022,
+      "title_a": "Towards the automated operations of large distributed satellite systems. Part 2: Classifications and tools",
+      "title_b": "Towards the automated operations of large distributed satellite systems. Part 1: Review and paradigm shifts",
+      "identifiers_a": [
+        "doi:10.1016/j.asr.2020.08.018"
+      ],
+      "identifiers_b": [
+        "doi:10.1016/j.asr.2020.08.009"
+      ],
+      "decision": "KEEP_AS_DISTINCT_PAPERS",
+      "reason": "Part1 and Part2 have distinct titles and DOIs",
+      "human_verified": false
+    },
+    {
+      "a": "L017",
+      "b": "REF11",
+      "similarity": 0.75,
+      "title_a": "Uniform Satellite Constellation Reconfiguration",
+      "title_b": "Optimization of satellite constellation reconfiguration maneuvers",
+      "identifiers_a": [
+        "arxiv:2110.07817",
+        "doi:10.2514/1.g006514",
+        "doi:10.48550/arxiv.2110.07817"
+      ],
+      "identifiers_b": [
+        "doi:10.1016/j.actaastro.2014.02.016"
+      ],
+      "decision": "KEEP_AS_DISTINCT_PAPERS",
+      "reason": "Distinct titles and DOI identities in stored source records; same topic is not merged",
+      "human_verified": false
+    },
+    {
+      "a": "L022",
+      "b": "REF11",
+      "similarity": 0.7432,
+      "title_a": "General Perturbation Method for Satellite Constellation Reconfiguration Using Low-Thrust Maneuvers",
+      "title_b": "Optimization of satellite constellation reconfiguration maneuvers",
+      "identifiers_a": [
+        "doi:10.2514/1.g003739"
+      ],
+      "identifiers_b": [
+        "doi:10.1016/j.actaastro.2014.02.016"
+      ],
+      "decision": "KEEP_AS_DISTINCT_PAPERS",
+      "reason": "Distinct titles and DOI identities in stored source records; same topic is not merged",
+      "human_verified": false
+    },
+    {
+      "a": "L059",
+      "b": "L048",
+      "similarity": 0.7347,
+      "title_a": "Collision Avoidance Maneuvers Optimization in the Presence of Multiple Encounters",
+      "title_b": "Collision avoidance maneuver optimization with a multiple-impulse convex formulation",
+      "identifiers_a": [
+        "arxiv:2406.03654",
+        "doi:10.2514/1.g008332",
+        "doi:10.48550/arxiv.2406.03654"
+      ],
+      "identifiers_b": [
+        "arxiv:2101.07403",
+        "doi:10.1016/j.actaastro.2021.05.046",
+        "doi:10.48550/arxiv.2101.07403"
+      ],
+      "decision": "KEEP_AS_DISTINCT_PAPERS",
+      "reason": "Distinct titles and DOI identities in stored source records; same topic is not merged",
+      "human_verified": false
+    }
+  ],
+  "normalization": "Unicode NFKC and alphanumeric title normalization; DOI case folding; arXiv version stripping; known formal and preprint aliases",
+  "input_file_sha256": {
+    "review_writing/discussion/reading_to_writing_B11_B20_20261021/READING_PROGRESS_SNAPSHOT.json": "f5696a6dd66e5cd9414b860054ae7daa6debfcd19a3d450076dcef9eab72de13",
+    "review_writing/evidence/reading_batches/B01_20261014/SOURCE_MANIFEST_B01.json": "9330750a23ecee731cd376285387cabc43cf81c0ca1d7ab32b05452b97634ba9",
+    "review_writing/evidence/reading_batches/B02_20261015/SOURCE_MANIFEST_B02.json": "6b6ca902f075717dcebc7922a063c0c178cbb94fd1ae1c576198b69fb7b0f5fa",
+    "review_writing/evidence/reading_batches/B03_20261015/SOURCE_MANIFEST_B03.json": "284f18a27862303720a41c4bc36390ba684ea3f0c42ee260e127029fade65d10",
+    "review_writing/evidence/reading_batches/B04_20261015/SOURCE_MANIFEST_B04.json": "c09e38f2666a4147bd8c2e44deb091c5f558f80749c2e043f51ceb9b307dbe51",
+    "review_writing/evidence/reading_batches/B05_20261016/SOURCE_MANIFEST_B05.json": "d18e822743da4b46193f43c046dead47a21a357670d75b3b4973dde02dc56a5c",
+    "review_writing/evidence/reading_batches/B06_20261016/SOURCE_MANIFEST_B06.json": "c9c9f4f1d5ce1e58e653a6fc9a2a3caa292fe3c94bec239631232174181dbeb3",
+    "review_writing/evidence/reading_batches/B07_20261016/SOURCE_MANIFEST_B07.json": "2458c5f7c7aeb0987f00fc5ec6a07efcceeed06654e9557ca7ac7b226498c90b",
+    "review_writing/evidence/reading_batches/B10_20261016/CUMULATIVE_READING_STATUS.json": "25139d4500a4773c6767d86eed5e2a3efbb6dd5b906e279d58fba4ffd4770711",
+    "review_writing/evidence/reading_batches/B10_20261016/SOURCE_MANIFEST_B10.json": "bf9a648619d13ef5708fb4885cfea4c904032c372f24b8d333b0ab221e3060d2",
+    "review_writing/evidence/reading_batches/B11_20261020/SOURCE_MANIFEST_B11.json": "8848ce3290742f8504bf6cd074ac1fd057133672befe0eec46e6a9f31245fc80",
+    "review_writing/evidence/reading_batches/B12_20261020/SOURCE_MANIFEST_B12.json": "81dfce461fd4058c3a07573f8fa96a3d95e42d4549f2682471b7828481609436",
+    "review_writing/evidence/reading_batches/B13_20261020/SOURCE_MANIFEST_B13.json": "84b19701d42375a7f5d6b4edd82e3c8fbb7ced38eac445ebe594349461889328",
+    "review_writing/evidence/reading_batches/B14_20261020/SOURCE_MANIFEST_B14.json": "f2798ef4416ed158ee753d6ecdefeec023f329b7d9aa4489b28a7bebeec9c651",
+    "review_writing/evidence/reading_batches/B15_20261020/SOURCE_MANIFEST_B15.json": "1133847b04999dc2cb73f2e5108d175d8bfb2b69b98f6adc247ae7ee107351d2",
+    "review_writing/evidence/reading_batches/B16_20261020/SOURCE_MANIFEST_B16.json": "7367aad9ca80511f031cb37b6bff60c7b5e77f2f0f0db465e8d3e70075362082",
+    "review_writing/evidence/reading_batches/B17_20261021/SOURCE_MANIFEST_B17.json": "152cc267d428f605e61b5ece6367a4f9dc084bb0fb873a8271b9fcb6fb9432c2",
+    "review_writing/evidence/reading_batches/B18_20261021/SOURCE_MANIFEST_B18.json": "63afd476c6cdcf8a6c47c383ddbbf3cf8f36668e300d7d3f3a9480c890834d27",
+    "review_writing/evidence/reading_batches/B19_20261021/SOURCE_MANIFEST_B19.json": "cc949dd47a54e41e41c182b6087bce0d19f8ea6f340c33c418c6e07e4665772f",
+    "review_writing/evidence/reading_batches/B20_20261021/SOURCE_MANIFEST_B20.json": "8db81a267855dd442dab4e152d92b394daa5ac9e2b510251bf9301c783755224",
+    "review_writing/evidence/reading_inventory_20261013/READING_LEDGER_121.json": "0c38dca7302e00e3b608bcd92943cabc3c325b4c46b4b94c4521c3967090fea8"
+  },
+  "excluded_from_count": {
+    "engineering_and_standard_records_from_original_catalog": 10,
+    "B10_repeated_existing_ref119_ALT08": 1,
+    "B00_B08_B09_new_unique_paper_increment": 0,
+    "partial_or_unavailable_B20": [
+      "L003",
+      "L029",
+      "L052",
+      "L072"
+    ],
+    "extra_versions_and_associated_corrections_counted_as_new_papers": false
+  },
+  "manuscript_modified": false,
+  "old_ledgers_modified": false,
+  "human_verified": false,
+  "submission_ready": false
+}

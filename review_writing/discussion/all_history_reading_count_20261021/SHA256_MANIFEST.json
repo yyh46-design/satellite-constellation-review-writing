@@ -1,0 +1,9 @@
+{
+  "algorithm": "SHA256",
+  "files": {
+    ".gitattributes": "705fd4d6451a31d36b3df7de96f83f30ac976c9b4a6d1e51671d8e2f33e2d0da",
+    "READING_COUNT_AUDIT.json": "274ae77511f2e32ea35b411ce64df30635d436df1ecf2a3334c95ba1ab27b250",
+    "README_CN.md": "35930682666751c43e8e113261bcbcf0c247b65355fb84026917946c4428f73d"
+  },
+  "scope": "All audit files except this manifest"
+}
