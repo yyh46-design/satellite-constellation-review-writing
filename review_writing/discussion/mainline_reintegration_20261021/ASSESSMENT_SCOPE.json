@@ -1,0 +1,32 @@
+{
+  "date": "2026-10-21",
+  "base_commit": "263cf7397f189c182deaf07df858df42bd61aaed",
+  "assessment": "V3.3 provides useful local additions; recent readings have not yet driven a complete reorganization",
+  "scope": "Structure and citation-use assessment of the saved V3.3 manuscript against B11-B20 reading records; not a new manuscript or new primary-source reading",
+  "recent_readings": 97,
+  "currently_cited_from_recent_readings": 14,
+  "not_yet_cited_from_recent_readings": 83,
+  "prior_writing_topics_with_zero_designated_candidates_cited": 5,
+  "priority_additional_candidates": 28,
+  "recent_priority_integration_queue_including_existing": 42,
+  "candidate_status_counts": {
+    "PRIORITY_CANDIDATE_RECHECK_BEFORE_DRAFT": 28,
+    "RESERVE_SELECTION_UNDECIDED": 52,
+    "SCIENTIFIC_ADOPTION_HOLD": 2,
+    "SCOPE_COMPARISON_ONLY": 1,
+    "V33_CITED_REORGANIZE": 14
+  },
+  "final_new_manuscript_reference_count": null,
+  "new_independent_paper_reads": 0,
+  "new_scientific_experiments": 0,
+  "v34_body_written": false,
+  "existing_manuscripts_modified": false,
+  "human_verified": false,
+  "submission_ready": false,
+  "input_sha256": {
+    "review_writing/discussion/reading_to_writing_B11_B20_20261021/READING_PROGRESS_SNAPSHOT.json": "f5696a6dd66e5cd9414b860054ae7daa6debfcd19a3d450076dcef9eab72de13",
+    "review_writing/discussion/reading_to_writing_B11_B20_20261021/WRITING_EVIDENCE_MAP.csv": "113fe0f5cae21ac4e176bc1c7f9cf63bf626bbbf786fc8b0273b07c6dcf4f0d7",
+    "review_writing/manuscripts/v3.3-cn/REVIEW_CN_v3.3.md": "d2fb8dfcd04234dfa8c64c5c7684eedd500c75549dfca2351941276f6ad99bdc",
+    "review_writing/manuscripts/v3.3-cn/references/REFERENCE_REGISTER_v3.3.csv": "15c05df5f054b33d52ed8a02b993db5707da1396ea231dfa69e3a64484155462"
+  }
+}
