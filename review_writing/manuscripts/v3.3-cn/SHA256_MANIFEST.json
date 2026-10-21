@@ -1,0 +1,28 @@
+{
+  "algorithm": "SHA-256",
+  "files": {
+    ".gitattributes": "1abdad75fc6dcea04c1fe0c0c02c10ad1d31b6db72beea7a811350d605c90758",
+    "assets/fig1_service_framework_ai_v2.png": "effe0beaf31879d0afe19b3cb9cc88b82eaab36e14333b7ead88373d05f19555",
+    "assets/fig2_scale_mechanisms_ai_v2.png": "bdee66400ea1e8ad1f57885373d6c018b439f4766585c23b63387f21c35b2e33",
+    "assets/fig3_decision_timing_ai_v2.png": "7bf416c6163d0662bfdb50a709bf6e3f3b6e7cf81f1cfd2bbfae4c3d3ee4a1e3",
+    "assets/fig4_conditional_comparisons_ai_v2.png": "619701d7d1167bffc82218ff1dfe5da4f0dd2ce3f34e89bf29481ec97a1738c7",
+    "audit/ADDED_PASSAGES_WITH_EVIDENCE_CN.md": "d48bf47344bcebb65c7e967901b0d7eac763587ee242a750fe7dac60657312b9",
+    "audit/CLAIM_EVIDENCE_BINDINGS.csv": "f25a171b10a3cf087a6b756ef0208fa60868db64ec00be733d6d985b981c2641",
+    "audit/FROZEN_INPUTS.json": "73c6d277eacf2ce18d8113dab7a035e22d539cf1474b0ce49f57b6a2c6c7f1bf",
+    "audit/PRIMARY_SOURCE_CLARIFICATIONS.json": "e09de166ecd7af9413d35727ac3cd977e4b2fc46963982a1bb13c8a7a447ba56",
+    "audit/PRIMARY_SOURCE_CLARIFICATIONS_CN.md": "0732ef5a82218f031d0311bacf7080d1935fa1ba61783e59c33add4a00084c00",
+    "audit/RELEASE_STATUS.json": "808330a22ec8b62485a50b5f3cbe73c8681d8ed61509c865ba49f782224b2362",
+    "audit/REVISION_RECORDS.json": "dd20775bddb7228d6f498a19a5d25a04aa1485de67201d209af1a060308e901f",
+    "audit/SOURCE_RECHECK.json": "3fdba6db7fa2682a2a46eb01418ebe83e7a8d5cbc4fc451c62fb78ee1b8473c3",
+    "audit/V3.2_TO_V3.3.diff": "dc395233f559549c99b20d5c5b75c3966456743a95474b98d6d85c7df474e2a0",
+    "OPEN_ITEMS_CN.md": "e436fc709fef3b1b1b9076370967eb302230010939e51264d23a47ac51bb10d3",
+    "README_CN.md": "a62bafb94eb1c8d96c7d41b060d0fab566d24938e83495801fb0a4c25b750444",
+    "references/ADDED_SOURCE_MANIFEST.json": "892b5c5f7553c115050e2d4d73dc3163eafe3553213b6d5529881a7d6ec24739",
+    "references/REFERENCE_NUMBER_MAP_v3.2_to_v3.3.csv": "0d02f7b28368734b858adafec980b54c34d39e53c4e534acf554bf31eec0a1d0",
+    "references/REFERENCE_REGISTER_v3.3.csv": "15c05df5f054b33d52ed8a02b993db5707da1396ea231dfa69e3a64484155462",
+    "REVIEW_CN_v3.3.md": "d2fb8dfcd04234dfa8c64c5c7684eedd500c75549dfca2351941276f6ad99bdc",
+    "REVISION_GUIDE_CN.md": "0d35e956a660d7cb686e288b89d8d7137632c784990a97e9f5c5c8244a935521",
+    "tools/verify_v33.py": "014ace72187dbe4c5fdc44778c220d9c73b0646da11626138b3724df1eb30022",
+    "VALIDATION_REPORT.json": "b42aed16c22a7fe5db493d3ce1e5e2b259cbbbf41fab4b3ba1e9d268418453cd"
+  }
+}

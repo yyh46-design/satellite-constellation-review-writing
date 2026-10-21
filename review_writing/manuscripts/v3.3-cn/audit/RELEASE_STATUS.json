@@ -1,0 +1,33 @@
+{
+  "version": "v3.3-cn",
+  "base_commit": "54a01aab1970ef9a1be20787fef7733e9ad47933",
+  "branch": "writing/constellation-review-v3-3-safety-recovery-20261021",
+  "manuscript": "REVIEW_CN_v3.3.md",
+  "working_draft": true,
+  "human_verified": false,
+  "submission_ready": false,
+  "authorization": "User explicitly requested body revision based onV3.2 and readings, prioritizing collaborative safety and task recovery, with trace and GitHub push",
+  "new_independent_paper_reads": 0,
+  "historical_targeted_or_body_read_records": 184,
+  "B11_B20_completed_body_read_records": 97,
+  "original_pool_completed": 37,
+  "original_pool_remaining": 43,
+  "reference_count": 80,
+  "old_references_retained": 66,
+  "new_references": 14,
+  "table_count": 8,
+  "figure_count": 4,
+  "original_images_changed": false,
+  "primary_sources_reused": 14,
+  "source_recheck_format_counts": {
+    "PDF": 13,
+    "REMOTE_PDF_TEXT_CAPTURE": 1
+  },
+  "figure_visual_scope": "Four inherited PNGs opened and inspected for visible text/citation numbering; no embedded bibliography numbers observed; not scientific sign-off or publication-policy clearance",
+  "docx_generated": false,
+  "full_english_body_generated": false,
+  "formal_version_pairs_closed": 0,
+  "new_scientific_experiments": 0,
+  "manuscript_changes": 42,
+  "evidence_bound_passages": 25
+}

@@ -1,0 +1,92 @@
+{
+  "status": "PASS",
+  "date": "2026-10-21",
+  "scope": "Document structure, reference consistency, evidence locators, preserved baseline and file integrity only",
+  "human_verified": false,
+  "submission_ready": false,
+  "checks": [
+    {
+      "check": "reference_register",
+      "pass": true,
+      "detail": "80 numbered entries match unique stable IDs and exact bibliography text"
+    },
+    {
+      "check": "citation_order_and_coverage",
+      "pass": true,
+      "detail": "First appearance is 1..80; no uncited or dangling reference"
+    },
+    {
+      "check": "old_bibliography_preserved",
+      "pass": true,
+      "detail": "All 66 original reference entries retained verbatim; numeric citations remapped"
+    },
+    {
+      "check": "new_sources",
+      "pass": true,
+      "detail": "14 reused readings have existing notes and prior source manifests"
+    },
+    {
+      "check": "structure",
+      "pass": true,
+      "detail": "Five chapters, eight consecutive tables, and added safety/recovery subsections"
+    },
+    {
+      "check": "inherited_figures",
+      "pass": true,
+      "detail": "Four inherited PNGs retain original bytes; no publication or scientific sign-off implied"
+    },
+    {
+      "check": "markdown_tables",
+      "pass": true,
+      "detail": "Eight tables have consistent column counts"
+    },
+    {
+      "check": "revision_records",
+      "pass": true,
+      "detail": "42 unique revisions retain exact adopted text and hashes"
+    },
+    {
+      "check": "evidence_bindings",
+      "pass": true,
+      "detail": "25 exact manuscript passages match lines/hashes and existing claim or clarification IDs; broad old S011 claim excluded"
+    },
+    {
+      "check": "frozen_inputs",
+      "pass": true,
+      "detail": {
+        "preserved_files": 731,
+        "mismatches": []
+      }
+    },
+    {
+      "check": "local_primary_artifacts",
+      "pass": true,
+      "detail": {
+        "sources": 14,
+        "mismatches": [],
+        "unavailable_on_this_machine": [],
+        "scope": "Hashes of locally available original artifacts and selected passages; absence on another machine is reported, not a reading claim"
+      }
+    },
+    {
+      "check": "honest_release_status",
+      "pass": true,
+      "detail": "Working draft; no new independent reading, science experiment or author sign-off credited"
+    },
+    {
+      "check": "change_scope",
+      "pass": true,
+      "detail": "All changes confined to the new V3.3 directory"
+    },
+    {
+      "check": "no_primary_fulltext_committed",
+      "pass": true,
+      "detail": "No original PDFs or full source extraction included in release directory"
+    },
+    {
+      "check": "text_line_endings",
+      "pass": true,
+      "detail": "Text files retain LF bytes for stable evidence hashes"
+    }
+  ]
+}

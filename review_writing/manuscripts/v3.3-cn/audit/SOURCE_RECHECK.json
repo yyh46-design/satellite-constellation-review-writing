@@ -1,0 +1,301 @@
+[
+  {
+    "reading_id": "S001",
+    "source_id": "E-B13-S001",
+    "manifest_path": "review_writing/evidence/reading_batches/B13_20261020/SOURCE_MANIFEST_B13.json",
+    "local_original_path": "D:\\SKT727\\materials\\constellation_review_B13_20261020\\S001.pdf",
+    "source_format": "PDF",
+    "sha256": "bf53cc5d7b8298ecf47908929f801ddf1e32341ca366ca925cb60dfe37268afe",
+    "pdf_pages": 20,
+    "physical_pages_text_extracted": [
+      1,
+      11,
+      15,
+      17
+    ],
+    "recheck_method": "Cited prose passages inspected within selected extracted pages; no all-page or visual-review credit",
+    "local_selected_text_path": "D:\\SKT727\\materials\\constellation_review_v33_20261021\\S001_selected_original_pages.txt",
+    "selected_text_sha256": "f91aa14c8ed3aa7e43786d266f2400fdde1e18818458e4f87a4e3decd30e0ff6",
+    "human_verified": false,
+    "independent_reproduction": false
+  },
+  {
+    "reading_id": "S007",
+    "source_id": "E-B13-S007",
+    "manifest_path": "review_writing/evidence/reading_batches/B13_20261020/SOURCE_MANIFEST_B13.json",
+    "local_original_path": "D:\\SKT727\\materials\\constellation_review_B13_20261020\\S007.pdf",
+    "source_format": "PDF",
+    "sha256": "c341490a940e3eb45969c5047200b5b6714bd18d25481d4b36b3d41b380db590",
+    "pdf_pages": 8,
+    "physical_pages_text_extracted": [
+      1,
+      2,
+      3,
+      6
+    ],
+    "recheck_method": "Cited prose passages inspected within selected extracted pages; no all-page or visual-review credit",
+    "local_selected_text_path": "D:\\SKT727\\materials\\constellation_review_v33_20261021\\S007_selected_original_pages.txt",
+    "selected_text_sha256": "1fd604b3f5625a5327309e4ae97c3b8ad946ff57bf9f140308c2c83e43fa90dd",
+    "human_verified": false,
+    "independent_reproduction": false
+  },
+  {
+    "reading_id": "S010",
+    "source_id": "E-B13-S010",
+    "manifest_path": "review_writing/evidence/reading_batches/B13_20261020/SOURCE_MANIFEST_B13.json",
+    "local_original_path": "D:\\SKT727\\materials\\constellation_review_B13_20261020\\S010.pdf",
+    "source_format": "PDF",
+    "sha256": "9519e443b3dd80f6b33057de516adc78c76fb5e976ed0d9d980289e8ba89be70",
+    "pdf_pages": 45,
+    "physical_pages_text_extracted": [
+      1,
+      7,
+      19,
+      22,
+      24,
+      30,
+      35,
+      36,
+      38
+    ],
+    "recheck_method": "Cited prose passages inspected within selected extracted pages; no all-page or visual-review credit",
+    "local_selected_text_path": "D:\\SKT727\\materials\\constellation_review_v33_20261021\\S010_selected_original_pages.txt",
+    "selected_text_sha256": "1be4d95dac42f9a23b65d11e4d9f2ba18258bec3d9a33ec2a49e6406c981a084",
+    "human_verified": false,
+    "independent_reproduction": false
+  },
+  {
+    "reading_id": "S011",
+    "source_id": "E-B14-S011",
+    "manifest_path": "review_writing/evidence/reading_batches/B14_20261020/SOURCE_MANIFEST_B14.json",
+    "local_original_path": "D:\\SKT727\\materials\\constellation_review_B14_20261020\\S011.pdf",
+    "source_format": "PDF",
+    "sha256": "236afa60b6da31a142168fa1f2c1b1d3ca66cb2e5b1e8571bec22982282449b9",
+    "pdf_pages": 17,
+    "physical_pages_text_extracted": [
+      1,
+      5,
+      6,
+      8,
+      9,
+      10,
+      11
+    ],
+    "recheck_method": "Cited prose passages inspected within selected extracted pages; no all-page or visual-review credit",
+    "local_selected_text_path": "D:\\SKT727\\materials\\constellation_review_v33_20261021\\S011_selected_original_pages.txt",
+    "selected_text_sha256": "fbdda3e2b60474f6f81ea374b31ade7fdb3f6361ec63eeb681e8ec4150ec6ffc",
+    "human_verified": false,
+    "independent_reproduction": false
+  },
+  {
+    "reading_id": "S012",
+    "source_id": "E-B14-S012",
+    "manifest_path": "review_writing/evidence/reading_batches/B14_20261020/SOURCE_MANIFEST_B14.json",
+    "local_original_path": "D:\\SKT727\\materials\\constellation_review_B14_20261020\\S012.pdf",
+    "source_format": "PDF",
+    "sha256": "1ac3965b2d98a6fc832cf15b335abd07de97b56c6055f62797dfd31f0fb1aa03",
+    "pdf_pages": 7,
+    "physical_pages_text_extracted": [
+      1,
+      2,
+      3,
+      4,
+      6,
+      7
+    ],
+    "recheck_method": "Cited prose passages inspected within selected extracted pages; no all-page or visual-review credit",
+    "local_selected_text_path": "D:\\SKT727\\materials\\constellation_review_v33_20261021\\S012_selected_original_pages.txt",
+    "selected_text_sha256": "8ebc522784c46362a14f17268f1751dc50d35fe2e08b5410460ee34e30639e4e",
+    "human_verified": false,
+    "independent_reproduction": false
+  },
+  {
+    "reading_id": "S015",
+    "source_id": "E-B14-S015",
+    "manifest_path": "review_writing/evidence/reading_batches/B14_20261020/SOURCE_MANIFEST_B14.json",
+    "local_original_path": "D:\\SKT727\\materials\\constellation_review_B14_20261020\\S015.pdf",
+    "source_format": "PDF",
+    "sha256": "711743810d9de81ca6fbcdbdc10d5395a62e996bd76d3e12dc034ffd2c96f03b",
+    "pdf_pages": 20,
+    "physical_pages_text_extracted": [
+      1,
+      6,
+      7,
+      8,
+      14
+    ],
+    "recheck_method": "Cited prose passages inspected within selected extracted pages; no all-page or visual-review credit",
+    "local_selected_text_path": "D:\\SKT727\\materials\\constellation_review_v33_20261021\\S015_selected_original_pages.txt",
+    "selected_text_sha256": "272b60f01afd5685220953429d4b3bc7506db09a374fbb035567f4c3263af1ae",
+    "human_verified": false,
+    "independent_reproduction": false
+  },
+  {
+    "reading_id": "S026",
+    "source_id": "E-B15-S026",
+    "manifest_path": "review_writing/evidence/reading_batches/B15_20261020/SOURCE_MANIFEST_B15.json",
+    "local_original_path": "D:\\SKT727\\materials\\constellation_review_B15_20261020\\S026.pdf",
+    "source_format": "PDF",
+    "sha256": "6e85c9a5ac50aa11d34fd563c3f1beb4d4f80f504999e14ae9ea5eddb1c1c1bd",
+    "pdf_pages": 23,
+    "physical_pages_text_extracted": [
+      1,
+      6,
+      8,
+      9,
+      11,
+      13,
+      14
+    ],
+    "recheck_method": "Cited prose passages inspected within selected extracted pages; no all-page or visual-review credit",
+    "local_selected_text_path": "D:\\SKT727\\materials\\constellation_review_v33_20261021\\S026_selected_original_pages.txt",
+    "selected_text_sha256": "6bef1182463c3799e23599d71e568a59c0250a38fe3152c004880182a5186e91",
+    "human_verified": false,
+    "independent_reproduction": false
+  },
+  {
+    "reading_id": "S029",
+    "source_id": "E-B15-S029",
+    "manifest_path": "review_writing/evidence/reading_batches/B15_20261020/SOURCE_MANIFEST_B15.json",
+    "local_original_path": "D:\\SKT727\\materials\\constellation_review_B15_20261020\\S029.pdf",
+    "source_format": "PDF",
+    "sha256": "0e8d6b4e838a0e4fe75ab73bab559af59acb266149df50c389111eb6f8d32f50",
+    "pdf_pages": 29,
+    "physical_pages_text_extracted": [
+      1,
+      13,
+      19,
+      20,
+      27
+    ],
+    "recheck_method": "Cited prose passages inspected within selected extracted pages; no all-page or visual-review credit",
+    "local_selected_text_path": "D:\\SKT727\\materials\\constellation_review_v33_20261021\\S029_selected_original_pages.txt",
+    "selected_text_sha256": "21ac55dfc93cef4d462e6edd93ed08cb03150fb9ca534b185ac5202758e90eb0",
+    "human_verified": false,
+    "independent_reproduction": false
+  },
+  {
+    "reading_id": "S047",
+    "source_id": "E-B17-S047",
+    "manifest_path": "review_writing/evidence/reading_batches/B17_20261021/SOURCE_MANIFEST_B17.json",
+    "local_original_path": "D:\\SKT727\\materials\\constellation_review_B17_20261021\\S047.pdf",
+    "source_format": "PDF",
+    "sha256": "3a94b3f65b360cda422db4ff5882efbb6deea49d41125fb6633f6f50b5bd222e",
+    "pdf_pages": 23,
+    "physical_pages_text_extracted": [
+      1,
+      10,
+      13,
+      14,
+      21
+    ],
+    "recheck_method": "Cited prose passages inspected within selected extracted pages; no all-page or visual-review credit",
+    "local_selected_text_path": "D:\\SKT727\\materials\\constellation_review_v33_20261021\\S047_selected_original_pages.txt",
+    "selected_text_sha256": "1a016102741453e16cd02f590351c212ba77937f50333f86bb1f67538f9e30da",
+    "human_verified": false,
+    "independent_reproduction": false
+  },
+  {
+    "reading_id": "S051",
+    "source_id": "E-B18-S051",
+    "manifest_path": "review_writing/evidence/reading_batches/B18_20261021/SOURCE_MANIFEST_B18.json",
+    "local_original_path": "D:\\SKT727\\materials\\constellation_review_B18_20261021\\S051.pdf",
+    "source_format": "PDF",
+    "sha256": "bbce4e1de543a4d6499d60597fa54f343c44fdca3c155c8e2e3678436953e72d",
+    "pdf_pages": 36,
+    "physical_pages_text_extracted": [
+      1,
+      16,
+      29,
+      30,
+      31
+    ],
+    "recheck_method": "Cited prose passages inspected within selected extracted pages; no all-page or visual-review credit",
+    "local_selected_text_path": "D:\\SKT727\\materials\\constellation_review_v33_20261021\\S051_selected_original_pages.txt",
+    "selected_text_sha256": "3c2763070522c2580a55fbc7963c9916ed83c5f9e460e1eae2f39909363e2b4d",
+    "human_verified": false,
+    "independent_reproduction": false
+  },
+  {
+    "reading_id": "S054",
+    "source_id": "E-B18-S054",
+    "manifest_path": "review_writing/evidence/reading_batches/B18_20261021/SOURCE_MANIFEST_B18.json",
+    "local_original_path": "D:\\SKT727\\materials\\constellation_review_B18_20261021\\S054.pdf",
+    "source_format": "PDF",
+    "sha256": "59d276712b31cfd8d3af07d9c182c90bc25d402b1541a168fdc3292d36c70256",
+    "pdf_pages": 13,
+    "physical_pages_text_extracted": [
+      1,
+      5,
+      6,
+      7,
+      12
+    ],
+    "recheck_method": "Cited prose passages inspected within selected extracted pages; no all-page or visual-review credit",
+    "local_selected_text_path": "D:\\SKT727\\materials\\constellation_review_v33_20261021\\S054_selected_original_pages.txt",
+    "selected_text_sha256": "54a6b577c9065b643ba686fe72eb35008f90d22a8686ceb2561977b8716241ac",
+    "human_verified": false,
+    "independent_reproduction": false
+  },
+  {
+    "reading_id": "S057",
+    "source_id": "E-B18-S057",
+    "manifest_path": "review_writing/evidence/reading_batches/B18_20261021/SOURCE_MANIFEST_B18.json",
+    "local_original_path": "D:\\SKT727\\materials\\constellation_review_B18_20261021\\S057.pdf",
+    "source_format": "PDF",
+    "sha256": "bd1ffd361905395bb15c1aeac40fda51f1e177b0116d182533cdeb79386ff7a2",
+    "pdf_pages": 15,
+    "physical_pages_text_extracted": [
+      1,
+      11,
+      12,
+      13
+    ],
+    "recheck_method": "Cited prose passages inspected within selected extracted pages; no all-page or visual-review credit",
+    "local_selected_text_path": "D:\\SKT727\\materials\\constellation_review_v33_20261021\\S057_selected_original_pages.txt",
+    "selected_text_sha256": "9851193a46abdefabc3aa25c61ff763c7b0346a3edddde4ca130a9e988465f3c",
+    "human_verified": false,
+    "independent_reproduction": false
+  },
+  {
+    "reading_id": "S058",
+    "source_id": "E-B18-S058",
+    "manifest_path": "review_writing/evidence/reading_batches/B18_20261021/SOURCE_MANIFEST_B18.json",
+    "local_original_path": "D:\\SKT727\\materials\\constellation_review_B18_20261021\\S058.pdf",
+    "source_format": "PDF",
+    "sha256": "eaf946d16eb7e2e090eddd586e453d98efdc2525a164e93e6ae1b89bb1e7e4d3",
+    "pdf_pages": 18,
+    "physical_pages_text_extracted": [
+      1,
+      3,
+      9
+    ],
+    "recheck_method": "Cited prose passages inspected within selected extracted pages; no all-page or visual-review credit",
+    "local_selected_text_path": "D:\\SKT727\\materials\\constellation_review_v33_20261021\\S058_selected_original_pages.txt",
+    "selected_text_sha256": "3571606b33d808cd722d93a4cf6b36e22ae103a0b7909c32fd47475c8c8fc19a",
+    "human_verified": false,
+    "independent_reproduction": false
+  },
+  {
+    "reading_id": "L050",
+    "source_id": "E-B20-L050",
+    "manifest_path": "review_writing/evidence/reading_batches/B20_20261021/SOURCE_MANIFEST_B20.json",
+    "local_original_path": "D:\\SKT727\\materials\\constellation_review_B20_20261021\\L050_web_lines.json",
+    "source_format": "REMOTE_PDF_TEXT_CAPTURE",
+    "sha256": "2da1096829f826c5223719206b2bef00aa504ad5f8bbe55d3d2257289e6d1283",
+    "pdf_pages": 40,
+    "physical_pages_text_extracted": [
+      2,
+      13,
+      25,
+      26,
+      28,
+      35
+    ],
+    "recheck_method": "Cited prose passages inspected within selected extracted pages; no all-page or visual-review credit",
+    "local_selected_text_path": "D:\\SKT727\\materials\\constellation_review_v33_20261021\\L050_selected_original_pages.txt",
+    "selected_text_sha256": "82e3ee5e9082129aa49a1e22416009e4c986de8c5d599f7e069d5966b10cc544",
+    "human_verified": false,
+    "independent_reproduction": false
+  }
+]
