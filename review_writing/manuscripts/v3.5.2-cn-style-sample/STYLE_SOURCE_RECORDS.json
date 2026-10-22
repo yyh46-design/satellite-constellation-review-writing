@@ -1,0 +1,114 @@
+{
+  "baseline_commit": "7e0fcba00176c944f8214664747caf597de73fcd",
+  "branch": "writing/constellation-review-style-sample-20261022",
+  "scope": "Chinese abstract and section 4.2.2 style sample, not a replacement full manuscript",
+  "style_sources": [
+    {
+      "stable_id": "E003",
+      "title": "Wang X, Wu G, Xing L, Pedrycz W. Agile Earth Observation Satellite Scheduling Over 20 Years: Formulations, Methods, and Future Directions. IEEE Systems Journal, 2021, 15(3): 3881–3892. DOI: 10.1109/JSYST.2020.2997050.",
+      "actual_version": "author_preprint_arXiv_2003.06169v1; 首页标arXiv v1 13Mar2020、Preprint submitted to TBD March16,2020；36页不是正式刊页。",
+      "actual_source_url": "https://arxiv.org/pdf/2003.06169",
+      "local_pdf_path": "D:\\SKT727\\materials\\constellation_review_B05_20261016\\003_initial.pdf",
+      "local_pdf_sha256": "82a1db328a5649feeb65471516b4fe75b3f131c964307b6bb10f472683a97d11",
+      "physical_pages_read_for_style": [
+        1,
+        23,
+        24,
+        25,
+        26
+      ],
+      "reading_mode": "existing per-page extraction of the matching local PDF; E008 abstract also freshly extracted from original PDF this turn",
+      "rhetorical_observation": "摘要先界定研究对象和综述目标，再交代模型、方法及展望的组织；4.2节从分开处理的计算原因转入集成的业务意义，最后讨论已有尝试及模型限制。",
+      "use": "writing structure only; no scientific claims imported from the review",
+      "new_unique_full_text_reading_credit": 0,
+      "formal_version_pairing_newly_closed": false,
+      "human_verified": false
+    },
+    {
+      "stable_id": "E004",
+      "title": "Ferrari B, Cordeau JF, Delorme M, Iori M, Orosei R. Satellite Scheduling Problems: A survey of applications in Earth and outer space observation. Computers & Operations Research, 2025, 173: 106875. DOI: 10.1016/j.cor.2024.106875.",
+      "actual_version": "author_manuscript_HEC; HEC作者公开40页稿，文件夹2024/02不证明稿件日期或与终刊等同。",
+      "actual_source_url": "https://chairelogistique.hec.ca/wp-content/uploads/2024/02/Survey_on_observation_scheduling.pdf",
+      "local_pdf_path": "D:\\SKT727\\materials\\constellation_review_B05_20261016\\004_initial.pdf",
+      "local_pdf_sha256": "b4c51cfb5b504b743da85cc548883e714b06ff59859234b4cc8e1dff0313afbe",
+      "physical_pages_read_for_style": [
+        1,
+        19,
+        20,
+        28,
+        29
+      ],
+      "reading_mode": "existing per-page extraction of the matching local PDF; E008 abstract also freshly extracted from original PDF this turn",
+      "rhetorical_observation": "摘要突出应用分类及覆盖范围；动态重规划段落先提出重建与修改两条路线，再按触发、插入及扰动机制组织研究；结论跨论文归纳共性问题。",
+      "use": "writing structure only; no scientific claims imported from the review",
+      "new_unique_full_text_reading_credit": 0,
+      "formal_version_pairing_newly_closed": false,
+      "human_verified": false
+    },
+    {
+      "stable_id": "E007",
+      "title": "GONG L, ZHANG W, CHEN Q, et al. A Survey of Intelligent Networking Technologies for LEO Mega-Constellations. Acta Aeronautica et Astronautica Sinica, 2026, online first. DOI: 10.7527/S1000-6893.2026.32935. (in Chinese)",
+      "actual_version": "publisher_network_first_PDF_provisional_metadata; 出版社公开21页网络首发/待终排PDF。首页像素核对确认DOI为10.7527/S1000-6893.2026.32935，末尾1为上标脚注，非DOI组成；页眉Jan25 2025/Vol46 NoX与引用栏2026,46(13):532935及2026录用日期不一致，终排信息仍待核。",
+      "actual_source_url": "https://hkxb.buaa.edu.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=21249",
+      "local_pdf_path": "D:\\SKT727\\materials\\constellation_review_B04_20261015\\007_extra.pdf",
+      "local_pdf_sha256": "7d8e18e99dec024c56315c7a166cd3e1055d2207ac14ff3cf0ae554c201b76ee",
+      "physical_pages_read_for_style": [
+        1,
+        9,
+        10,
+        13,
+        14
+      ],
+      "reading_mode": "existing per-page extraction of the matching local PDF; E008 abstract also freshly extracted from original PDF this turn",
+      "rhetorical_observation": "中文摘要交代问题、综述范围和技术脉络；波束和路由段落用类别开头、代表工作展开、类别综合收束，使读者先获得问题坐标。",
+      "use": "writing structure only; no scientific claims imported from the review",
+      "new_unique_full_text_reading_credit": 0,
+      "formal_version_pairing_newly_closed": false,
+      "human_verified": false
+    },
+    {
+      "stable_id": "E008",
+      "title": "DI H, DONG T, LIU Z, et al. Review on Resource Management and Optimization Technologies for LEO Communication Satellite Constellation Networks. Journal of Astronautics, 2026, 47(2): 270–283. DOI: 10.3873/j.issn.1000-1328.2026.02.002. (in Chinese)",
+      "actual_version": "publisher_VOR_public_PDF; 宇航学报47(2)(2026):270–283正式排版14页；中文为原标题，首页另附官方英文题名。",
+      "actual_source_url": "https://www.spacejournal.cn/yhxb/cn/article/pdf/preview/10.3873/j.issn.1000-1328.2026.02.002.pdf",
+      "local_pdf_path": "D:\\SKT727\\materials\\constellation_review_B04_20261015\\008_extra.pdf",
+      "local_pdf_sha256": "59a764b80a0297fc58ca826c660bf90dc48b0d08bfd18b79b8fc140dc770ba0b",
+      "physical_pages_read_for_style": [
+        1,
+        6,
+        7,
+        10,
+        11
+      ],
+      "reading_mode": "existing per-page extraction of the matching local PDF; E008 abstract also freshly extracted from original PDF this turn",
+      "rhetorical_observation": "摘要以问题引出资源管理、控制和优化；集中、分布及混合控制采用相同的机制—研究—权衡顺序，展望对应前文问题。",
+      "use": "writing structure only; no scientific claims imported from the review",
+      "new_unique_full_text_reading_credit": 0,
+      "formal_version_pairing_newly_closed": false,
+      "human_verified": false
+    }
+  ],
+  "checks": {
+    "fixed_git_baseline_is_ancestor": true,
+    "scope_contains_only_chinese_abstract_and_4_2_2": true,
+    "same_section_source_numbers": true,
+    "time_window_equation_unchanged": true,
+    "all_sample_citations_resolve_to_fixed_register": true,
+    "all_style_sources_were_already_in_the_94_source_register": true,
+    "unchanged_main_and_v352_baseline_refs": true
+  },
+  "sample_section_cited_sources": 13,
+  "scientific_review": "Manual comparison with fixed source paragraph meanings and inherited claim records; no automated scientific certification",
+  "new_references": 0,
+  "removed_references": 0,
+  "new_unique_full_text_readings": 0,
+  "new_experiments": 0,
+  "human_verified": false,
+  "submission_ready": false,
+  "inherited_open_items_unchanged": [
+    "EC2026 full text not obtained",
+    "L042 formal pairing and figure16/24 pixel review unresolved",
+    "matched net service recovery benefit not proven",
+    "figure1 redraw and figure4 replacement deferred"
+  ]
+}
