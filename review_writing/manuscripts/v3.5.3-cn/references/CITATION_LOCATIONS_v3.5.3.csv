@@ -1,0 +1,343 @@
+stable_id,v353_number,section,line,version_record_path
+E001,1,1 引言 / 1.1 从任务调度到运行决策,23,review_writing/evidence/reading_batches/B06_20261016/SOURCE_MANIFEST_B06.json
+E034,2,1 引言 / 1.1 从任务调度到运行决策,25,review_writing/manuscripts/v2.3-cn/TARGETED_RECHECK_20261017.json
+E035,3,1 引言 / 1.1 从任务调度到运行决策,25,review_writing/manuscripts/v3.2-cn/references/SOURCE_LIBRARY_95_BASELINE_v3.1.csv
+E125,4,1 引言 / 1.1 从任务调度到运行决策,25,review_writing/evidence/reading_batches/B10_20261016/SOURCE_MANIFEST_B10.json
+E002,5,1 引言 / 1.1 从任务调度到运行决策,27,review_writing/evidence/reading_batches/B04_20261015/SOURCE_MANIFEST_B04.json
+E-B17-S047,6,1 引言 / 1.1 从任务调度到运行决策,29,review_writing/evidence/reading_batches/B17_20261021/SOURCE_MANIFEST_B17.json
+E-B12-L022,7,1 引言 / 1.1 从任务调度到运行决策,29,review_writing/evidence/reading_batches/B12_20261020/SOURCE_MANIFEST_B12.json
+E-B11-L012,8,1 引言 / 1.1 从任务调度到运行决策,29,review_writing/evidence/reading_batches/B11_20261020/SOURCE_MANIFEST_B11.json
+E-B17-S048,9,1 引言 / 1.1 从任务调度到运行决策,29,review_writing/evidence/reading_batches/B17_20261021/SOURCE_MANIFEST_B17.json
+E003,10,1 引言 / 1.2 已有综述与本文的研究定位,35,review_writing/evidence/reading_batches/B05_20261016/SOURCE_MANIFEST_B05.json
+E004,11,1 引言 / 1.2 已有综述与本文的研究定位,35,review_writing/evidence/reading_batches/B05_20261016/SOURCE_MANIFEST_B05.json
+E005,12,1 引言 / 1.2 已有综述与本文的研究定位,37,review_writing/evidence/reading_batches/B04_20261015/SOURCE_MANIFEST_B04.json
+E105,13,1 引言 / 1.2 已有综述与本文的研究定位,37,review_writing/evidence/reading_batches/B05_20261016/SOURCE_MANIFEST_B05.json
+E001,1,1 引言 / 1.2 已有综述与本文的研究定位,37,review_writing/evidence/reading_batches/B06_20261016/SOURCE_MANIFEST_B06.json
+E006,14,1 引言 / 1.2 已有综述与本文的研究定位,37,review_writing/evidence/reading_batches/B05_20261016/SOURCE_MANIFEST_B05.json
+E086,15,1 引言 / 1.2 已有综述与本文的研究定位,39,review_writing/evidence/reading_batches/B07_20261016/SOURCE_MANIFEST_B07.json
+E009,16,1 引言 / 1.2 已有综述与本文的研究定位,39,review_writing/manuscripts/v2.3-cn/TARGETED_RECHECK_20261017.json
+E-EC-SSO-2026,17,1 引言 / 1.2 已有综述与本文的研究定位,39,review_writing/manuscripts/v3.5-cn/references/TARGETED_SOURCE_CHECKS.json
+E003,10,1 引言 / 1.2 已有综述与本文的研究定位,47,review_writing/evidence/reading_batches/B05_20261016/SOURCE_MANIFEST_B05.json
+E004,11,1 引言 / 1.2 已有综述与本文的研究定位,47,review_writing/evidence/reading_batches/B05_20261016/SOURCE_MANIFEST_B05.json
+E005,12,1 引言 / 1.2 已有综述与本文的研究定位,48,review_writing/evidence/reading_batches/B04_20261015/SOURCE_MANIFEST_B04.json
+E001,1,1 引言 / 1.2 已有综述与本文的研究定位,49,review_writing/evidence/reading_batches/B06_20261016/SOURCE_MANIFEST_B06.json
+E006,14,1 引言 / 1.2 已有综述与本文的研究定位,49,review_writing/evidence/reading_batches/B05_20261016/SOURCE_MANIFEST_B05.json
+E007,18,1 引言 / 1.2 已有综述与本文的研究定位,50,review_writing/evidence/reading_batches/B04_20261015/SOURCE_MANIFEST_B04.json
+E008,19,1 引言 / 1.2 已有综述与本文的研究定位,50,review_writing/evidence/reading_batches/B04_20261015/SOURCE_MANIFEST_B04.json
+E009,16,1 引言 / 1.2 已有综述与本文的研究定位,51,review_writing/manuscripts/v2.3-cn/TARGETED_RECHECK_20261017.json
+E105,13,1 引言 / 1.2 已有综述与本文的研究定位,52,review_writing/evidence/reading_batches/B05_20261016/SOURCE_MANIFEST_B05.json
+E002,5,1 引言 / 1.2 已有综述与本文的研究定位,53,review_writing/evidence/reading_batches/B04_20261015/SOURCE_MANIFEST_B04.json
+E086,15,1 引言 / 1.2 已有综述与本文的研究定位,54,review_writing/evidence/reading_batches/B07_20261016/SOURCE_MANIFEST_B07.json
+E-EC-SSO-2026,17,1 引言 / 1.2 已有综述与本文的研究定位,55,review_writing/manuscripts/v3.5-cn/references/TARGETED_SOURCE_CHECKS.json
+E106,20,2 智能运行管理中的决策问题与比较基础 / 2.1 任务、资源与轨道状态及决策变量,83,review_writing/manuscripts/v2.3-cn/TARGETED_RECHECK_20261017.json
+E121,21,2 智能运行管理中的决策问题与比较基础 / 2.1 任务、资源与轨道状态及决策变量,83,review_writing/manuscripts/v2.3-cn/TARGETED_RECHECK_20261017.json
+E-B12-L022,7,2 智能运行管理中的决策问题与比较基础 / 2.1 任务、资源与轨道状态及决策变量,85,review_writing/evidence/reading_batches/B12_20261020/SOURCE_MANIFEST_B12.json
+E-B11-L012,8,2 智能运行管理中的决策问题与比较基础 / 2.1 任务、资源与轨道状态及决策变量,85,review_writing/evidence/reading_batches/B11_20261020/SOURCE_MANIFEST_B11.json
+E-B11-L005,22,2 智能运行管理中的决策问题与比较基础 / 2.1 任务、资源与轨道状态及决策变量,85,review_writing/evidence/reading_batches/B11_20261020/SOURCE_MANIFEST_B11.json
+E034,2,2 智能运行管理中的决策问题与比较基础 / 2.2 决策方法、计算位置与权限,113,review_writing/manuscripts/v2.3-cn/TARGETED_RECHECK_20261017.json
+E035,3,2 智能运行管理中的决策问题与比较基础 / 2.2 决策方法、计算位置与权限,113,review_writing/manuscripts/v3.2-cn/references/SOURCE_LIBRARY_95_BASELINE_v3.1.csv
+E010,23,2 智能运行管理中的决策问题与比较基础 / 2.2 决策方法、计算位置与权限,113,review_writing/evidence/reading_batches/B06_20261016/SOURCE_MANIFEST_B06.json
+E-CARA-PROCESS,24,2 智能运行管理中的决策问题与比较基础 / 2.2 决策方法、计算位置与权限,113,review_writing/manuscripts/v3.4-cn/audit/CARA_PRIMARY_PASSAGE_RECORD.json
+E-B16-S031,25,2 智能运行管理中的决策问题与比较基础 / 2.2 决策方法、计算位置与权限,113,review_writing/evidence/reading_batches/B16_20261020/SOURCE_MANIFEST_B16.json
+E042,26,2 智能运行管理中的决策问题与比较基础 / 2.4 评价对象与证据范围,129,review_writing/manuscripts/v2.3-cn/TARGETED_RECHECK_20261017.json
+E044,27,2 智能运行管理中的决策问题与比较基础 / 2.4 评价对象与证据范围,129,review_writing/manuscripts/v2.3-cn/TARGETED_RECHECK_20261017.json
+E051,28,2 智能运行管理中的决策问题与比较基础 / 2.4 评价对象与证据范围,129,review_writing/manuscripts/v3.5.1-cn/references/TARGETED_PASSAGE_RECHECKS.json
+E-B20-L050,29,2 智能运行管理中的决策问题与比较基础 / 2.4 评价对象与证据范围,133,review_writing/evidence/reading_batches/B20_20261021/SOURCE_MANIFEST_B20.json
+E-B13-S007,30,2 智能运行管理中的决策问题与比较基础 / 2.4 评价对象与证据范围,133,review_writing/evidence/reading_batches/B13_20261020/SOURCE_MANIFEST_B13.json
+E-B20-L024,31,3 规划、求解与协同决策方法 / 3.1 优化建模与分解求解,145,review_writing/evidence/reading_batches/B20_20261021/SOURCE_MANIFEST_B20.json
+E122,32,3 规划、求解与协同决策方法 / 3.1 优化建模与分解求解,145,review_writing/evidence/reading_batches/B10_20261016/SOURCE_MANIFEST_B10.json
+E030,33,3 规划、求解与协同决策方法 / 3.1 优化建模与分解求解,147,review_writing/evidence/reading_batches/B04_20261015/SOURCE_MANIFEST_B04.json
+E042,26,3 规划、求解与协同决策方法 / 3.1 优化建模与分解求解,149,review_writing/manuscripts/v2.3-cn/TARGETED_RECHECK_20261017.json
+E053,34,3 规划、求解与协同决策方法 / 3.1 优化建模与分解求解,149,review_writing/manuscripts/v2.3-cn/TARGETED_RECHECK_20261017.json
+E061,35,3 规划、求解与协同决策方法 / 3.1 优化建模与分解求解,151,review_writing/evidence/reading_batches/B05_20261016/SOURCE_MANIFEST_B05.json
+E074,36,3 规划、求解与协同决策方法 / 3.1 优化建模与分解求解,151,review_writing/manuscripts/v1.6/CORE_LITERATURE_AUDIT_ROUND1.json
+E030,33,3 规划、求解与协同决策方法 / 3.2 启发式构造、局部搜索与混合求解,159,review_writing/evidence/reading_batches/B04_20261015/SOURCE_MANIFEST_B04.json
+E044,27,3 规划、求解与协同决策方法 / 3.2 启发式构造、局部搜索与混合求解,161,review_writing/manuscripts/v2.3-cn/TARGETED_RECHECK_20261017.json
+E042,26,3 规划、求解与协同决策方法 / 3.2 启发式构造、局部搜索与混合求解,163,review_writing/manuscripts/v2.3-cn/TARGETED_RECHECK_20261017.json
+E125,4,3 规划、求解与协同决策方法 / 3.2 启发式构造、局部搜索与混合求解,165,review_writing/evidence/reading_batches/B10_20261016/SOURCE_MANIFEST_B10.json
+E073,37,3 规划、求解与协同决策方法 / 3.3 学习辅助搜索与活动选择,171,review_writing/manuscripts/v3.2-cn/references/SOURCE_LIBRARY_95_BASELINE_v3.1.csv
+E-B11-L025,38,3 规划、求解与协同决策方法 / 3.3 学习辅助搜索与活动选择,173,review_writing/evidence/reading_batches/B11_20261020/SOURCE_MANIFEST_B11.json
+E087,39,3 规划、求解与协同决策方法 / 3.3 学习辅助搜索与活动选择,173,review_writing/evidence/reading_batches/B07_20261016/SOURCE_MANIFEST_B07.json
+E123,40,3 规划、求解与协同决策方法 / 3.3 学习辅助搜索与活动选择,175,review_writing/evidence/reading_batches/B10_20261016/SOURCE_MANIFEST_B10.json
+E065,41,3 规划、求解与协同决策方法 / 3.3 学习辅助搜索与活动选择,177,review_writing/manuscripts/v2.3-cn/TARGETED_RECHECK_20261017.json
+E066,42,3 规划、求解与协同决策方法 / 3.3 学习辅助搜索与活动选择,177,review_writing/manuscripts/v3.2-cn/references/SOURCE_LIBRARY_95_BASELINE_v3.1.csv
+E128,43,3 规划、求解与协同决策方法 / 3.3 学习辅助搜索与活动选择,179,review_writing/evidence/reading_batches/B10_20261016/SOURCE_MANIFEST_B10.json
+E-B14-S015,44,3 规划、求解与协同决策方法 / 3.3 学习辅助搜索与活动选择,181,review_writing/evidence/reading_batches/B14_20261020/SOURCE_MANIFEST_B14.json
+E122,32,3 规划、求解与协同决策方法 / 3.3 学习辅助搜索与活动选择,187,review_writing/evidence/reading_batches/B10_20261016/SOURCE_MANIFEST_B10.json
+E030,33,3 规划、求解与协同决策方法 / 3.3 学习辅助搜索与活动选择,188,review_writing/evidence/reading_batches/B04_20261015/SOURCE_MANIFEST_B04.json
+E030,33,3 规划、求解与协同决策方法 / 3.3 学习辅助搜索与活动选择,189,review_writing/evidence/reading_batches/B04_20261015/SOURCE_MANIFEST_B04.json
+E042,26,3 规划、求解与协同决策方法 / 3.3 学习辅助搜索与活动选择,190,review_writing/manuscripts/v2.3-cn/TARGETED_RECHECK_20261017.json
+E044,27,3 规划、求解与协同决策方法 / 3.3 学习辅助搜索与活动选择,191,review_writing/manuscripts/v2.3-cn/TARGETED_RECHECK_20261017.json
+E053,34,3 规划、求解与协同决策方法 / 3.3 学习辅助搜索与活动选择,192,review_writing/manuscripts/v2.3-cn/TARGETED_RECHECK_20261017.json
+E123,40,3 规划、求解与协同决策方法 / 3.3 学习辅助搜索与活动选择,193,review_writing/evidence/reading_batches/B10_20261016/SOURCE_MANIFEST_B10.json
+E065,41,3 规划、求解与协同决策方法 / 3.3 学习辅助搜索与活动选择,194,review_writing/manuscripts/v2.3-cn/TARGETED_RECHECK_20261017.json
+E037,45,3 规划、求解与协同决策方法 / 3.4 多星协调、信息交换与修改权限,198,review_writing/evidence/reading_batches/B05_20261016/SOURCE_MANIFEST_B05.json
+E036,46,3 规划、求解与协同决策方法 / 3.4 多星协调、信息交换与修改权限,200,review_writing/evidence/reading_batches/B06_20261016/SOURCE_MANIFEST_B06.json
+E035,3,3 规划、求解与协同决策方法 / 3.4 多星协调、信息交换与修改权限,200,review_writing/manuscripts/v3.2-cn/references/SOURCE_LIBRARY_95_BASELINE_v3.1.csv
+E081,47,3 规划、求解与协同决策方法 / 3.4 多星协调、信息交换与修改权限,202,review_writing/manuscripts/v1.6/CORE_LITERATURE_AUDIT_ROUND1.json
+E076,48,3 规划、求解与协同决策方法 / 3.4 多星协调、信息交换与修改权限,202,review_writing/manuscripts/v1.6/CORE_LITERATURE_AUDIT_ROUND1.json
+E039,49,3 规划、求解与协同决策方法 / 3.4 多星协调、信息交换与修改权限,202,review_writing/evidence/reading_batches/B04_20261015/SOURCE_MANIFEST_B04.json
+E041,50,3 规划、求解与协同决策方法 / 3.4 多星协调、信息交换与修改权限,202,review_writing/evidence/reading_batches/B05_20261016/SOURCE_MANIFEST_B05.json
+E-B16-S031,25,3 规划、求解与协同决策方法 / 3.4 多星协调、信息交换与修改权限,204,review_writing/evidence/reading_batches/B16_20261020/SOURCE_MANIFEST_B16.json
+E-B16-S034,51,3 规划、求解与协同决策方法 / 3.4 多星协调、信息交换与修改权限,204,review_writing/evidence/reading_batches/B16_20261020/SOURCE_MANIFEST_B16.json
+E-B13-S001,52,3 规划、求解与协同决策方法 / 3.4 多星协调、信息交换与修改权限,206,review_writing/evidence/reading_batches/B13_20261020/SOURCE_MANIFEST_B13.json
+E-B14-S011,53,3 规划、求解与协同决策方法 / 3.4 多星协调、信息交换与修改权限,206,review_writing/evidence/reading_batches/B14_20261020/SOURCE_MANIFEST_B14.json
+E-B14-S015,44,3 规划、求解与协同决策方法 / 3.4 多星协调、信息交换与修改权限,208,review_writing/evidence/reading_batches/B14_20261020/SOURCE_MANIFEST_B14.json
+E107,54,3 规划、求解与协同决策方法 / 3.5 状态驱动的策略选择、计划修复与恢复行动 / 3.5.1 状态估计与规划策略选择,216,review_writing/manuscripts/v3.2-cn/references/SOURCE_LIBRARY_95_BASELINE_v3.1.csv
+E123,40,3 规划、求解与协同决策方法 / 3.5 状态驱动的策略选择、计划修复与恢复行动 / 3.5.1 状态估计与规划策略选择,218,review_writing/evidence/reading_batches/B10_20261016/SOURCE_MANIFEST_B10.json
+E127,55,3 规划、求解与协同决策方法 / 3.5 状态驱动的策略选择、计划修复与恢复行动 / 3.5.2 滚动规划、增量更新与局部修复,222,review_writing/evidence/reading_batches/B10_20261016/SOURCE_MANIFEST_B10.json
+E034,2,3 规划、求解与协同决策方法 / 3.5 状态驱动的策略选择、计划修复与恢复行动 / 3.5.2 滚动规划、增量更新与局部修复,222,review_writing/manuscripts/v2.3-cn/TARGETED_RECHECK_20261017.json
+E061,35,3 规划、求解与协同决策方法 / 3.5 状态驱动的策略选择、计划修复与恢复行动 / 3.5.2 滚动规划、增量更新与局部修复,224,review_writing/evidence/reading_batches/B05_20261016/SOURCE_MANIFEST_B05.json
+E068,56,3 规划、求解与协同决策方法 / 3.5 状态驱动的策略选择、计划修复与恢复行动 / 3.5.2 滚动规划、增量更新与局部修复,224,review_writing/evidence/reading_batches/B08_20261016/SOURCE_MANIFEST_B08.json
+E062,57,3 规划、求解与协同决策方法 / 3.5 状态驱动的策略选择、计划修复与恢复行动 / 3.5.2 滚动规划、增量更新与局部修复,224,review_writing/evidence/reading_batches/B05_20261016/SOURCE_MANIFEST_B05.json
+E106,20,3 规划、求解与协同决策方法 / 3.5 状态驱动的策略选择、计划修复与恢复行动 / 3.5.2 滚动规划、增量更新与局部修复,226,review_writing/manuscripts/v2.3-cn/TARGETED_RECHECK_20261017.json
+E121,21,3 规划、求解与协同决策方法 / 3.5 状态驱动的策略选择、计划修复与恢复行动 / 3.5.2 滚动规划、增量更新与局部修复,226,review_writing/manuscripts/v2.3-cn/TARGETED_RECHECK_20261017.json
+E102,58,3 规划、求解与协同决策方法 / 3.5 状态驱动的策略选择、计划修复与恢复行动 / 3.5.3 恢复行动选择与执行反馈,230,review_writing/evidence/reading_batches/B06_20261016/SOURCE_MANIFEST_B06.json
+E108,59,3 规划、求解与协同决策方法 / 3.5 状态驱动的策略选择、计划修复与恢复行动 / 3.5.3 恢复行动选择与执行反馈,230,review_writing/evidence/reading_batches/B06_20261016/SOURCE_MANIFEST_B06.json
+E-B15-S026,60,3 规划、求解与协同决策方法 / 3.5 状态驱动的策略选择、计划修复与恢复行动 / 3.5.3 恢复行动选择与执行反馈,232,review_writing/evidence/reading_batches/B15_20261020/SOURCE_MANIFEST_B15.json
+E107,54,3 规划、求解与协同决策方法 / 3.5 状态驱动的策略选择、计划修复与恢复行动 / 3.5.3 恢复行动选择与执行反馈,238,review_writing/manuscripts/v3.2-cn/references/SOURCE_LIBRARY_95_BASELINE_v3.1.csv
+E127,55,3 规划、求解与协同决策方法 / 3.5 状态驱动的策略选择、计划修复与恢复行动 / 3.5.3 恢复行动选择与执行反馈,239,review_writing/evidence/reading_batches/B10_20261016/SOURCE_MANIFEST_B10.json
+E034,2,3 规划、求解与协同决策方法 / 3.5 状态驱动的策略选择、计划修复与恢复行动 / 3.5.3 恢复行动选择与执行反馈,240,review_writing/manuscripts/v2.3-cn/TARGETED_RECHECK_20261017.json
+E061,35,3 规划、求解与协同决策方法 / 3.5 状态驱动的策略选择、计划修复与恢复行动 / 3.5.3 恢复行动选择与执行反馈,241,review_writing/evidence/reading_batches/B05_20261016/SOURCE_MANIFEST_B05.json
+E068,56,3 规划、求解与协同决策方法 / 3.5 状态驱动的策略选择、计划修复与恢复行动 / 3.5.3 恢复行动选择与执行反馈,241,review_writing/evidence/reading_batches/B08_20261016/SOURCE_MANIFEST_B08.json
+E062,57,3 规划、求解与协同决策方法 / 3.5 状态驱动的策略选择、计划修复与恢复行动 / 3.5.3 恢复行动选择与执行反馈,242,review_writing/evidence/reading_batches/B05_20261016/SOURCE_MANIFEST_B05.json
+E106,20,3 规划、求解与协同决策方法 / 3.5 状态驱动的策略选择、计划修复与恢复行动 / 3.5.3 恢复行动选择与执行反馈,243,review_writing/manuscripts/v2.3-cn/TARGETED_RECHECK_20261017.json
+E102,58,3 规划、求解与协同决策方法 / 3.5 状态驱动的策略选择、计划修复与恢复行动 / 3.5.3 恢复行动选择与执行反馈,244,review_writing/evidence/reading_batches/B06_20261016/SOURCE_MANIFEST_B06.json
+E108,59,3 规划、求解与协同决策方法 / 3.5 状态驱动的策略选择、计划修复与恢复行动 / 3.5.3 恢复行动选择与执行反馈,245,review_writing/evidence/reading_batches/B06_20261016/SOURCE_MANIFEST_B06.json
+E-B15-S026,60,3 规划、求解与协同决策方法 / 3.5 状态驱动的策略选择、计划修复与恢复行动 / 3.5.3 恢复行动选择与执行反馈,246,review_writing/evidence/reading_batches/B15_20261020/SOURCE_MANIFEST_B15.json
+E016,61,3 规划、求解与协同决策方法 / 3.6 轨道构型维持与自主避碰决策 / 3.6.1 轨道构型演化、维持与重构,254,review_writing/evidence/reading_batches/B05_20261016/SOURCE_MANIFEST_B05.json
+E-B20-L024,31,3 规划、求解与协同决策方法 / 3.6 轨道构型维持与自主避碰决策 / 3.6.1 轨道构型演化、维持与重构,254,review_writing/evidence/reading_batches/B20_20261021/SOURCE_MANIFEST_B20.json
+E-B19-L004,62,3 规划、求解与协同决策方法 / 3.6 轨道构型维持与自主避碰决策 / 3.6.1 轨道构型演化、维持与重构,256,review_writing/evidence/reading_batches/B19_20261021/SOURCE_MANIFEST_B19.json
+E-B11-L005,22,3 规划、求解与协同决策方法 / 3.6 轨道构型维持与自主避碰决策 / 3.6.1 轨道构型演化、维持与重构,258,review_writing/evidence/reading_batches/B11_20261020/SOURCE_MANIFEST_B11.json
+E-B11-L012,8,3 规划、求解与协同决策方法 / 3.6 轨道构型维持与自主避碰决策 / 3.6.1 轨道构型演化、维持与重构,258,review_writing/evidence/reading_batches/B11_20261020/SOURCE_MANIFEST_B11.json
+E-B12-L022,7,3 规划、求解与协同决策方法 / 3.6 轨道构型维持与自主避碰决策 / 3.6.1 轨道构型演化、维持与重构,260,review_writing/evidence/reading_batches/B12_20261020/SOURCE_MANIFEST_B12.json
+E-B16-S034,51,3 规划、求解与协同决策方法 / 3.6 轨道构型维持与自主避碰决策 / 3.6.1 轨道构型演化、维持与重构,262,review_writing/evidence/reading_batches/B16_20261020/SOURCE_MANIFEST_B16.json
+E-B13-S010,63,3 规划、求解与协同决策方法 / 3.6 轨道构型维持与自主避碰决策 / 3.6.1 轨道构型演化、维持与重构,262,review_writing/evidence/reading_batches/B13_20261020/SOURCE_MANIFEST_B13.json
+E-CARA-PROCESS,24,3 规划、求解与协同决策方法 / 3.6 轨道构型维持与自主避碰决策 / 3.6.2 接近筛查、风险评估与安全行动选择,266,review_writing/manuscripts/v3.4-cn/audit/CARA_PRIMARY_PASSAGE_RECORD.json
+E082,64,3 规划、求解与协同决策方法 / 3.6 轨道构型维持与自主避碰决策 / 3.6.2 接近筛查、风险评估与安全行动选择,268,review_writing/evidence/reading_batches/B07_20261016/SOURCE_MANIFEST_B07.json
+E084,65,3 规划、求解与协同决策方法 / 3.6 轨道构型维持与自主避碰决策 / 3.6.2 接近筛查、风险评估与安全行动选择,268,review_writing/evidence/reading_batches/B07_20261016/SOURCE_MANIFEST_B07.json
+E-B11-L025,38,3 规划、求解与协同决策方法 / 3.6 轨道构型维持与自主避碰决策 / 3.6.2 接近筛查、风险评估与安全行动选择,270,review_writing/evidence/reading_batches/B11_20261020/SOURCE_MANIFEST_B11.json
+E087,39,3 规划、求解与协同决策方法 / 3.6 轨道构型维持与自主避碰决策 / 3.6.2 接近筛查、风险评估与安全行动选择,270,review_writing/evidence/reading_batches/B07_20261016/SOURCE_MANIFEST_B07.json
+E-B11-L041,66,3 规划、求解与协同决策方法 / 3.6 轨道构型维持与自主避碰决策 / 3.6.2 接近筛查、风险评估与安全行动选择,272,review_writing/evidence/reading_batches/B11_20261020/SOURCE_MANIFEST_B11.json
+E-B20-L050,29,3 规划、求解与协同决策方法 / 3.6 轨道构型维持与自主避碰决策 / 3.6.2 接近筛查、风险评估与安全行动选择,272,review_writing/evidence/reading_batches/B20_20261021/SOURCE_MANIFEST_B20.json
+E-B12-L047,67,3 规划、求解与协同决策方法 / 3.6 轨道构型维持与自主避碰决策 / 3.6.2 接近筛查、风险评估与安全行动选择,272,review_writing/evidence/reading_batches/B12_20261020/SOURCE_MANIFEST_B12.json
+E-B11-L059,68,3 规划、求解与协同决策方法 / 3.6 轨道构型维持与自主避碰决策 / 3.6.2 接近筛查、风险评估与安全行动选择,272,review_writing/evidence/reading_batches/B11_20261020/SOURCE_MANIFEST_B11.json
+E-CARA-PROCESS,24,3 规划、求解与协同决策方法 / 3.6 轨道构型维持与自主避碰决策 / 3.6.2 接近筛查、风险评估与安全行动选择,274,review_writing/manuscripts/v3.4-cn/audit/CARA_PRIMARY_PASSAGE_RECORD.json
+E-B11-L046,69,3 规划、求解与协同决策方法 / 3.6 轨道构型维持与自主避碰决策 / 3.6.3 避碰机动及机动后构型与任务恢复,278,review_writing/evidence/reading_batches/B11_20261020/SOURCE_MANIFEST_B11.json
+E-B12-L047,67,3 规划、求解与协同决策方法 / 3.6 轨道构型维持与自主避碰决策 / 3.6.3 避碰机动及机动后构型与任务恢复,278,review_writing/evidence/reading_batches/B12_20261020/SOURCE_MANIFEST_B12.json
+E-B20-L042,70,3 规划、求解与协同决策方法 / 3.6 轨道构型维持与自主避碰决策 / 3.6.3 避碰机动及机动后构型与任务恢复,280,review_writing/evidence/reading_batches/B20_20261021/SOURCE_MANIFEST_B20.json
+E-B11-L059,68,3 规划、求解与协同决策方法 / 3.6 轨道构型维持与自主避碰决策 / 3.6.3 避碰机动及机动后构型与任务恢复,280,review_writing/evidence/reading_batches/B11_20261020/SOURCE_MANIFEST_B11.json
+E-B17-S047,6,3 规划、求解与协同决策方法 / 3.6 轨道构型维持与自主避碰决策 / 3.6.3 避碰机动及机动后构型与任务恢复,282,review_writing/evidence/reading_batches/B17_20261021/SOURCE_MANIFEST_B17.json
+E-B14-S012,71,3 规划、求解与协同决策方法 / 3.6 轨道构型维持与自主避碰决策 / 3.6.3 避碰机动及机动后构型与任务恢复,282,review_writing/evidence/reading_batches/B14_20261020/SOURCE_MANIFEST_B14.json
+E-B13-S007,30,3 规划、求解与协同决策方法 / 3.6 轨道构型维持与自主避碰决策 / 3.6.3 避碰机动及机动后构型与任务恢复,284,review_writing/evidence/reading_batches/B13_20261020/SOURCE_MANIFEST_B13.json
+E-B18-S051,72,3 规划、求解与协同决策方法 / 3.6 轨道构型维持与自主避碰决策 / 3.6.3 避碰机动及机动后构型与任务恢复,284,review_writing/evidence/reading_batches/B18_20261021/SOURCE_MANIFEST_B18.json
+E-B11-L012,8,3 规划、求解与协同决策方法 / 3.6 轨道构型维持与自主避碰决策 / 3.6.3 避碰机动及机动后构型与任务恢复,290,review_writing/evidence/reading_batches/B11_20261020/SOURCE_MANIFEST_B11.json
+E-B11-L005,22,3 规划、求解与协同决策方法 / 3.6 轨道构型维持与自主避碰决策 / 3.6.3 避碰机动及机动后构型与任务恢复,290,review_writing/evidence/reading_batches/B11_20261020/SOURCE_MANIFEST_B11.json
+E-B12-L022,7,3 规划、求解与协同决策方法 / 3.6 轨道构型维持与自主避碰决策 / 3.6.3 避碰机动及机动后构型与任务恢复,291,review_writing/evidence/reading_batches/B12_20261020/SOURCE_MANIFEST_B12.json
+E-B20-L024,31,3 规划、求解与协同决策方法 / 3.6 轨道构型维持与自主避碰决策 / 3.6.3 避碰机动及机动后构型与任务恢复,291,review_writing/evidence/reading_batches/B20_20261021/SOURCE_MANIFEST_B20.json
+E-B16-S034,51,3 规划、求解与协同决策方法 / 3.6 轨道构型维持与自主避碰决策 / 3.6.3 避碰机动及机动后构型与任务恢复,291,review_writing/evidence/reading_batches/B16_20261020/SOURCE_MANIFEST_B16.json
+E082,64,3 规划、求解与协同决策方法 / 3.6 轨道构型维持与自主避碰决策 / 3.6.3 避碰机动及机动后构型与任务恢复,292,review_writing/evidence/reading_batches/B07_20261016/SOURCE_MANIFEST_B07.json
+E084,65,3 规划、求解与协同决策方法 / 3.6 轨道构型维持与自主避碰决策 / 3.6.3 避碰机动及机动后构型与任务恢复,292,review_writing/evidence/reading_batches/B07_20261016/SOURCE_MANIFEST_B07.json
+E-B11-L025,38,3 规划、求解与协同决策方法 / 3.6 轨道构型维持与自主避碰决策 / 3.6.3 避碰机动及机动后构型与任务恢复,293,review_writing/evidence/reading_batches/B11_20261020/SOURCE_MANIFEST_B11.json
+E-B11-L041,66,3 规划、求解与协同决策方法 / 3.6 轨道构型维持与自主避碰决策 / 3.6.3 避碰机动及机动后构型与任务恢复,293,review_writing/evidence/reading_batches/B11_20261020/SOURCE_MANIFEST_B11.json
+E-B12-L047,67,3 规划、求解与协同决策方法 / 3.6 轨道构型维持与自主避碰决策 / 3.6.3 避碰机动及机动后构型与任务恢复,294,review_writing/evidence/reading_batches/B12_20261020/SOURCE_MANIFEST_B12.json
+E-B11-L046,69,3 规划、求解与协同决策方法 / 3.6 轨道构型维持与自主避碰决策 / 3.6.3 避碰机动及机动后构型与任务恢复,294,review_writing/evidence/reading_batches/B11_20261020/SOURCE_MANIFEST_B11.json
+E-B20-L042,70,3 规划、求解与协同决策方法 / 3.6 轨道构型维持与自主避碰决策 / 3.6.3 避碰机动及机动后构型与任务恢复,294,review_writing/evidence/reading_batches/B20_20261021/SOURCE_MANIFEST_B20.json
+E-B17-S047,6,3 规划、求解与协同决策方法 / 3.6 轨道构型维持与自主避碰决策 / 3.6.3 避碰机动及机动后构型与任务恢复,295,review_writing/evidence/reading_batches/B17_20261021/SOURCE_MANIFEST_B17.json
+E-B11-L059,68,3 规划、求解与协同决策方法 / 3.6 轨道构型维持与自主避碰决策 / 3.6.3 避碰机动及机动后构型与任务恢复,295,review_writing/evidence/reading_batches/B11_20261020/SOURCE_MANIFEST_B11.json
+E-B13-S007,30,3 规划、求解与协同决策方法 / 3.6 轨道构型维持与自主避碰决策 / 3.6.3 避碰机动及机动后构型与任务恢复,296,review_writing/evidence/reading_batches/B13_20261020/SOURCE_MANIFEST_B13.json
+E-B18-S051,72,3 规划、求解与协同决策方法 / 3.6 轨道构型维持与自主避碰决策 / 3.6.3 避碰机动及机动后构型与任务恢复,296,review_writing/evidence/reading_batches/B18_20261021/SOURCE_MANIFEST_B18.json
+E044,27,4 运行条件下的决策取舍、采用与验证 / 4.1 规模扩展中的计算减负与适用条件,304,review_writing/manuscripts/v2.3-cn/TARGETED_RECHECK_20261017.json
+E035,3,4 运行条件下的决策取舍、采用与验证 / 4.1 规模扩展中的计算减负与适用条件,304,review_writing/manuscripts/v3.2-cn/references/SOURCE_LIBRARY_95_BASELINE_v3.1.csv
+E034,2,4 运行条件下的决策取舍、采用与验证 / 4.1 规模扩展中的计算减负与适用条件,304,review_writing/manuscripts/v2.3-cn/TARGETED_RECHECK_20261017.json
+E125,4,4 运行条件下的决策取舍、采用与验证 / 4.1 规模扩展中的计算减负与适用条件,308,review_writing/evidence/reading_batches/B10_20261016/SOURCE_MANIFEST_B10.json
+E072,73,4 运行条件下的决策取舍、采用与验证 / 4.1 规模扩展中的计算减负与适用条件,308,review_writing/evidence/reading_batches/B07_20261016/SOURCE_MANIFEST_B07.json
+E065,41,4 运行条件下的决策取舍、采用与验证 / 4.1 规模扩展中的计算减负与适用条件,308,review_writing/manuscripts/v2.3-cn/TARGETED_RECHECK_20261017.json
+E084,65,4 运行条件下的决策取舍、采用与验证 / 4.1 规模扩展中的计算减负与适用条件,310,review_writing/evidence/reading_batches/B07_20261016/SOURCE_MANIFEST_B07.json
+E-B11-L025,38,4 运行条件下的决策取舍、采用与验证 / 4.1 规模扩展中的计算减负与适用条件,310,review_writing/evidence/reading_batches/B11_20261020/SOURCE_MANIFEST_B11.json
+E044,27,4 运行条件下的决策取舍、采用与验证 / 4.1 规模扩展中的计算减负与适用条件,316,review_writing/manuscripts/v2.3-cn/TARGETED_RECHECK_20261017.json
+E035,3,4 运行条件下的决策取舍、采用与验证 / 4.1 规模扩展中的计算减负与适用条件,317,review_writing/manuscripts/v3.2-cn/references/SOURCE_LIBRARY_95_BASELINE_v3.1.csv
+E034,2,4 运行条件下的决策取舍、采用与验证 / 4.1 规模扩展中的计算减负与适用条件,318,review_writing/manuscripts/v2.3-cn/TARGETED_RECHECK_20261017.json
+E125,4,4 运行条件下的决策取舍、采用与验证 / 4.1 规模扩展中的计算减负与适用条件,319,review_writing/evidence/reading_batches/B10_20261016/SOURCE_MANIFEST_B10.json
+E072,73,4 运行条件下的决策取舍、采用与验证 / 4.1 规模扩展中的计算减负与适用条件,320,review_writing/evidence/reading_batches/B07_20261016/SOURCE_MANIFEST_B07.json
+E065,41,4 运行条件下的决策取舍、采用与验证 / 4.1 规模扩展中的计算减负与适用条件,321,review_writing/manuscripts/v2.3-cn/TARGETED_RECHECK_20261017.json
+E-B11-L025,38,4 运行条件下的决策取舍、采用与验证 / 4.1 规模扩展中的计算减负与适用条件,322,review_writing/evidence/reading_batches/B11_20261020/SOURCE_MANIFEST_B11.json
+E084,65,4 运行条件下的决策取舍、采用与验证 / 4.1 规模扩展中的计算减负与适用条件,322,review_writing/evidence/reading_batches/B07_20261016/SOURCE_MANIFEST_B07.json
+E044,27,4 运行条件下的决策取舍、采用与验证 / 4.1 规模扩展中的计算减负与适用条件,326,review_writing/manuscripts/v2.3-cn/TARGETED_RECHECK_20261017.json
+E035,3,4 运行条件下的决策取舍、采用与验证 / 4.1 规模扩展中的计算减负与适用条件,326,review_writing/manuscripts/v3.2-cn/references/SOURCE_LIBRARY_95_BASELINE_v3.1.csv
+E034,2,4 运行条件下的决策取舍、采用与验证 / 4.1 规模扩展中的计算减负与适用条件,326,review_writing/manuscripts/v2.3-cn/TARGETED_RECHECK_20261017.json
+E-B12-L022,7,4 运行条件下的决策取舍、采用与验证 / 4.2 任务、资源与轨道机动的决策耦合 / 4.2.1 轨道调整与业务机会的双向影响,336,review_writing/evidence/reading_batches/B12_20261020/SOURCE_MANIFEST_B12.json
+E-B19-L004,62,4 运行条件下的决策取舍、采用与验证 / 4.2 任务、资源与轨道机动的决策耦合 / 4.2.1 轨道调整与业务机会的双向影响,338,review_writing/evidence/reading_batches/B19_20261021/SOURCE_MANIFEST_B19.json
+E-B11-L005,22,4 运行条件下的决策取舍、采用与验证 / 4.2 任务、资源与轨道机动的决策耦合 / 4.2.1 轨道调整与业务机会的双向影响,340,review_writing/evidence/reading_batches/B11_20261020/SOURCE_MANIFEST_B11.json
+E-B11-L012,8,4 运行条件下的决策取舍、采用与验证 / 4.2 任务、资源与轨道机动的决策耦合 / 4.2.1 轨道调整与业务机会的双向影响,340,review_writing/evidence/reading_batches/B11_20261020/SOURCE_MANIFEST_B11.json
+E-B11-L005,22,4 运行条件下的决策取舍、采用与验证 / 4.2 任务、资源与轨道机动的决策耦合 / 4.2.1 轨道调整与业务机会的双向影响,340,review_writing/evidence/reading_batches/B11_20261020/SOURCE_MANIFEST_B11.json
+E-B12-L047,67,4 运行条件下的决策取舍、采用与验证 / 4.2 任务、资源与轨道机动的决策耦合 / 4.2.1 轨道调整与业务机会的双向影响,340,review_writing/evidence/reading_batches/B12_20261020/SOURCE_MANIFEST_B12.json
+E-B20-L042,70,4 运行条件下的决策取舍、采用与验证 / 4.2 任务、资源与轨道机动的决策耦合 / 4.2.1 轨道调整与业务机会的双向影响,340,review_writing/evidence/reading_batches/B20_20261021/SOURCE_MANIFEST_B20.json
+E042,26,4 运行条件下的决策取舍、采用与验证 / 4.2 任务、资源与轨道机动的决策耦合 / 4.2.1 轨道调整与业务机会的双向影响,342,review_writing/manuscripts/v2.3-cn/TARGETED_RECHECK_20261017.json
+E053,34,4 运行条件下的决策取舍、采用与验证 / 4.2 任务、资源与轨道机动的决策耦合 / 4.2.1 轨道调整与业务机会的双向影响,342,review_writing/manuscripts/v2.3-cn/TARGETED_RECHECK_20261017.json
+E106,20,4 运行条件下的决策取舍、采用与验证 / 4.2 任务、资源与轨道机动的决策耦合 / 4.2.1 轨道调整与业务机会的双向影响,342,review_writing/manuscripts/v2.3-cn/TARGETED_RECHECK_20261017.json
+E034,2,4 运行条件下的决策取舍、采用与验证 / 4.2 任务、资源与轨道机动的决策耦合 / 4.2.2 分层、分阶段与部分联合的适用条件,346,review_writing/manuscripts/v2.3-cn/TARGETED_RECHECK_20261017.json
+E-B12-L022,7,4 运行条件下的决策取舍、采用与验证 / 4.2 任务、资源与轨道机动的决策耦合 / 4.2.2 分层、分阶段与部分联合的适用条件,346,review_writing/evidence/reading_batches/B12_20261020/SOURCE_MANIFEST_B12.json
+E042,26,4 运行条件下的决策取舍、采用与验证 / 4.2 任务、资源与轨道机动的决策耦合 / 4.2.2 分层、分阶段与部分联合的适用条件,346,review_writing/manuscripts/v2.3-cn/TARGETED_RECHECK_20261017.json
+E-B13-S010,63,4 运行条件下的决策取舍、采用与验证 / 4.2 任务、资源与轨道机动的决策耦合 / 4.2.2 分层、分阶段与部分联合的适用条件,346,review_writing/evidence/reading_batches/B13_20261020/SOURCE_MANIFEST_B13.json
+E034,2,4 运行条件下的决策取舍、采用与验证 / 4.2 任务、资源与轨道机动的决策耦合 / 4.2.2 分层、分阶段与部分联合的适用条件,356,review_writing/manuscripts/v2.3-cn/TARGETED_RECHECK_20261017.json
+E106,20,4 运行条件下的决策取舍、采用与验证 / 4.2 任务、资源与轨道机动的决策耦合 / 4.2.2 分层、分阶段与部分联合的适用条件,356,review_writing/manuscripts/v2.3-cn/TARGETED_RECHECK_20261017.json
+E050,74,4 运行条件下的决策取舍、采用与验证 / 4.2 任务、资源与轨道机动的决策耦合 / 4.2.2 分层、分阶段与部分联合的适用条件,358,review_writing/evidence/reading_batches/B03_20261015/SOURCE_MANIFEST_B03.json
+E-GSOC-2012,75,4 运行条件下的决策取舍、采用与验证 / 4.2 任务、资源与轨道机动的决策耦合 / 4.2.2 分层、分阶段与部分联合的适用条件,358,review_writing/manuscripts/v3.5-cn/audit/FOLLOWUP_123_SOURCE_CHECKS.json
+E106,20,4 运行条件下的决策取舍、采用与验证 / 4.2 任务、资源与轨道机动的决策耦合 / 4.2.2 分层、分阶段与部分联合的适用条件,360,review_writing/manuscripts/v2.3-cn/TARGETED_RECHECK_20261017.json
+E121,21,4 运行条件下的决策取舍、采用与验证 / 4.2 任务、资源与轨道机动的决策耦合 / 4.2.2 分层、分阶段与部分联合的适用条件,360,review_writing/manuscripts/v2.3-cn/TARGETED_RECHECK_20261017.json
+E-B12-L022,7,4 运行条件下的决策取舍、采用与验证 / 4.2 任务、资源与轨道机动的决策耦合 / 4.2.2 分层、分阶段与部分联合的适用条件,362,review_writing/evidence/reading_batches/B12_20261020/SOURCE_MANIFEST_B12.json
+E042,26,4 运行条件下的决策取舍、采用与验证 / 4.2 任务、资源与轨道机动的决策耦合 / 4.2.2 分层、分阶段与部分联合的适用条件,362,review_writing/manuscripts/v2.3-cn/TARGETED_RECHECK_20261017.json
+E044,27,4 运行条件下的决策取舍、采用与验证 / 4.2 任务、资源与轨道机动的决策耦合 / 4.2.2 分层、分阶段与部分联合的适用条件,362,review_writing/manuscripts/v2.3-cn/TARGETED_RECHECK_20261017.json
+E053,34,4 运行条件下的决策取舍、采用与验证 / 4.2 任务、资源与轨道机动的决策耦合 / 4.2.2 分层、分阶段与部分联合的适用条件,362,review_writing/manuscripts/v2.3-cn/TARGETED_RECHECK_20261017.json
+E074,36,4 运行条件下的决策取舍、采用与验证 / 4.2 任务、资源与轨道机动的决策耦合 / 4.2.2 分层、分阶段与部分联合的适用条件,362,review_writing/manuscripts/v1.6/CORE_LITERATURE_AUDIT_ROUND1.json
+E-B13-S010,63,4 运行条件下的决策取舍、采用与验证 / 4.2 任务、资源与轨道机动的决策耦合 / 4.2.2 分层、分阶段与部分联合的适用条件,364,review_writing/evidence/reading_batches/B13_20261020/SOURCE_MANIFEST_B13.json
+E-B11-L012,8,4 运行条件下的决策取舍、采用与验证 / 4.2 任务、资源与轨道机动的决策耦合 / 4.2.2 分层、分阶段与部分联合的适用条件,364,review_writing/evidence/reading_batches/B11_20261020/SOURCE_MANIFEST_B11.json
+E-CARA-PROCESS,24,4 运行条件下的决策取舍、采用与验证 / 4.2 任务、资源与轨道机动的决策耦合 / 4.2.2 分层、分阶段与部分联合的适用条件,364,review_writing/manuscripts/v3.4-cn/audit/CARA_PRIMARY_PASSAGE_RECORD.json
+E-B11-L046,69,4 运行条件下的决策取舍、采用与验证 / 4.2 任务、资源与轨道机动的决策耦合 / 4.2.3 安全约束与可调整的恢复目标,370,review_writing/evidence/reading_batches/B11_20261020/SOURCE_MANIFEST_B11.json
+E-B12-L047,67,4 运行条件下的决策取舍、采用与验证 / 4.2 任务、资源与轨道机动的决策耦合 / 4.2.3 安全约束与可调整的恢复目标,370,review_writing/evidence/reading_batches/B12_20261020/SOURCE_MANIFEST_B12.json
+E-B20-L042,70,4 运行条件下的决策取舍、采用与验证 / 4.2 任务、资源与轨道机动的决策耦合 / 4.2.3 安全约束与可调整的恢复目标,370,review_writing/evidence/reading_batches/B20_20261021/SOURCE_MANIFEST_B20.json
+E-B12-L022,7,4 运行条件下的决策取舍、采用与验证 / 4.2 任务、资源与轨道机动的决策耦合 / 4.2.3 安全约束与可调整的恢复目标,372,review_writing/evidence/reading_batches/B12_20261020/SOURCE_MANIFEST_B12.json
+E-B12-L047,67,4 运行条件下的决策取舍、采用与验证 / 4.2 任务、资源与轨道机动的决策耦合 / 4.2.3 安全约束与可调整的恢复目标,372,review_writing/evidence/reading_batches/B12_20261020/SOURCE_MANIFEST_B12.json
+E-B11-L046,69,4 运行条件下的决策取舍、采用与验证 / 4.2 任务、资源与轨道机动的决策耦合 / 4.2.3 安全约束与可调整的恢复目标,372,review_writing/evidence/reading_batches/B11_20261020/SOURCE_MANIFEST_B11.json
+E065,41,4 运行条件下的决策取舍、采用与验证 / 4.3 安全信息共享、机动协调与决策生效,378,review_writing/manuscripts/v2.3-cn/TARGETED_RECHECK_20261017.json
+E037,45,4 运行条件下的决策取舍、采用与验证 / 4.3 安全信息共享、机动协调与决策生效,378,review_writing/evidence/reading_batches/B05_20261016/SOURCE_MANIFEST_B05.json
+E-B17-S041,76,4 运行条件下的决策取舍、采用与验证 / 4.3 安全信息共享、机动协调与决策生效,380,review_writing/evidence/reading_batches/B17_20261021/SOURCE_MANIFEST_B17.json
+E-B16-S034,51,4 运行条件下的决策取舍、采用与验证 / 4.3 安全信息共享、机动协调与决策生效,380,review_writing/evidence/reading_batches/B16_20261020/SOURCE_MANIFEST_B16.json
+E-B14-S011,53,4 运行条件下的决策取舍、采用与验证 / 4.3 安全信息共享、机动协调与决策生效,382,review_writing/evidence/reading_batches/B14_20261020/SOURCE_MANIFEST_B14.json
+E-B13-S001,52,4 运行条件下的决策取舍、采用与验证 / 4.3 安全信息共享、机动协调与决策生效,382,review_writing/evidence/reading_batches/B13_20261020/SOURCE_MANIFEST_B13.json
+E119,77,4 运行条件下的决策取舍、采用与验证 / 4.3 安全信息共享、机动协调与决策生效,384,review_writing/evidence/reading_batches/B10_20261016/SOURCE_MANIFEST_B10.json
+E-B13-S010,63,4 运行条件下的决策取舍、采用与验证 / 4.3 安全信息共享、机动协调与决策生效,384,review_writing/evidence/reading_batches/B13_20261020/SOURCE_MANIFEST_B13.json
+E-B14-S015,44,4 运行条件下的决策取舍、采用与验证 / 4.3 安全信息共享、机动协调与决策生效,384,review_writing/evidence/reading_batches/B14_20261020/SOURCE_MANIFEST_B14.json
+E-CARA-PROCESS,24,4 运行条件下的决策取舍、采用与验证 / 4.3 安全信息共享、机动协调与决策生效,386,review_writing/manuscripts/v3.4-cn/audit/CARA_PRIMARY_PASSAGE_RECORD.json
+E-B11-L012,8,4 运行条件下的决策取舍、采用与验证 / 4.3 安全信息共享、机动协调与决策生效,386,review_writing/evidence/reading_batches/B11_20261020/SOURCE_MANIFEST_B11.json
+E-B16-S031,25,4 运行条件下的决策取舍、采用与验证 / 4.3 安全信息共享、机动协调与决策生效,386,review_writing/evidence/reading_batches/B16_20261020/SOURCE_MANIFEST_B16.json
+E115,78,4 运行条件下的决策取舍、采用与验证 / 4.3 安全信息共享、机动协调与决策生效,388,review_writing/manuscripts/v3.5.1-cn/references/TARGETED_PASSAGE_RECHECKS.json
+E106,20,4 运行条件下的决策取舍、采用与验证 / 4.3 安全信息共享、机动协调与决策生效,394,review_writing/manuscripts/v2.3-cn/TARGETED_RECHECK_20261017.json
+E119,77,4 运行条件下的决策取舍、采用与验证 / 4.3 安全信息共享、机动协调与决策生效,394,review_writing/evidence/reading_batches/B10_20261016/SOURCE_MANIFEST_B10.json
+E042,26,4 运行条件下的决策取舍、采用与验证 / 4.3 安全信息共享、机动协调与决策生效,400,review_writing/manuscripts/v2.3-cn/TARGETED_RECHECK_20261017.json
+E053,34,4 运行条件下的决策取舍、采用与验证 / 4.3 安全信息共享、机动协调与决策生效,401,review_writing/manuscripts/v2.3-cn/TARGETED_RECHECK_20261017.json
+E106,20,4 运行条件下的决策取舍、采用与验证 / 4.3 安全信息共享、机动协调与决策生效,402,review_writing/manuscripts/v2.3-cn/TARGETED_RECHECK_20261017.json
+E121,21,4 运行条件下的决策取舍、采用与验证 / 4.3 安全信息共享、机动协调与决策生效,403,review_writing/manuscripts/v2.3-cn/TARGETED_RECHECK_20261017.json
+E107,54,4 运行条件下的决策取舍、采用与验证 / 4.3 安全信息共享、机动协调与决策生效,404,review_writing/manuscripts/v3.2-cn/references/SOURCE_LIBRARY_95_BASELINE_v3.1.csv
+E102,58,4 运行条件下的决策取舍、采用与验证 / 4.3 安全信息共享、机动协调与决策生效,405,review_writing/evidence/reading_batches/B06_20261016/SOURCE_MANIFEST_B06.json
+E119,77,4 运行条件下的决策取舍、采用与验证 / 4.3 安全信息共享、机动协调与决策生效,406,review_writing/evidence/reading_batches/B10_20261016/SOURCE_MANIFEST_B10.json
+E065,41,4 运行条件下的决策取舍、采用与验证 / 4.3 安全信息共享、机动协调与决策生效,407,review_writing/manuscripts/v2.3-cn/TARGETED_RECHECK_20261017.json
+E037,45,4 运行条件下的决策取舍、采用与验证 / 4.3 安全信息共享、机动协调与决策生效,407,review_writing/evidence/reading_batches/B05_20261016/SOURCE_MANIFEST_B05.json
+E-CARA-PROCESS,24,4 运行条件下的决策取舍、采用与验证 / 4.3 安全信息共享、机动协调与决策生效,408,review_writing/manuscripts/v3.4-cn/audit/CARA_PRIMARY_PASSAGE_RECORD.json
+E-B11-L012,8,4 运行条件下的决策取舍、采用与验证 / 4.3 安全信息共享、机动协调与决策生效,409,review_writing/evidence/reading_batches/B11_20261020/SOURCE_MANIFEST_B11.json
+E-B16-S031,25,4 运行条件下的决策取舍、采用与验证 / 4.3 安全信息共享、机动协调与决策生效,409,review_writing/evidence/reading_batches/B16_20261020/SOURCE_MANIFEST_B16.json
+E-B16-S034,51,4 运行条件下的决策取舍、采用与验证 / 4.3 安全信息共享、机动协调与决策生效,409,review_writing/evidence/reading_batches/B16_20261020/SOURCE_MANIFEST_B16.json
+E042,26,4 运行条件下的决策取舍、采用与验证 / 4.3 安全信息共享、机动协调与决策生效,415,review_writing/manuscripts/v2.3-cn/TARGETED_RECHECK_20261017.json
+E106,20,4 运行条件下的决策取舍、采用与验证 / 4.3 安全信息共享、机动协调与决策生效,415,review_writing/manuscripts/v2.3-cn/TARGETED_RECHECK_20261017.json
+E121,21,4 运行条件下的决策取舍、采用与验证 / 4.3 安全信息共享、机动协调与决策生效,415,review_writing/manuscripts/v2.3-cn/TARGETED_RECHECK_20261017.json
+E016,61,4 运行条件下的决策取舍、采用与验证 / 4.4 执行监督、能力恢复与验证范围 / 4.4.1 运行规划与控制执行的接口,421,review_writing/evidence/reading_batches/B05_20261016/SOURCE_MANIFEST_B05.json
+E017,79,4 运行条件下的决策取舍、采用与验证 / 4.4 执行监督、能力恢复与验证范围 / 4.4.1 运行规划与控制执行的接口,421,review_writing/evidence/reading_batches/B07_20261016/SOURCE_MANIFEST_B07.json
+E018,80,4 运行条件下的决策取舍、采用与验证 / 4.4 执行监督、能力恢复与验证范围 / 4.4.1 运行规划与控制执行的接口,421,review_writing/manuscripts/v3.2-cn/references/SOURCE_LIBRARY_95_BASELINE_v3.1.csv
+E019,81,4 运行条件下的决策取舍、采用与验证 / 4.4 执行监督、能力恢复与验证范围 / 4.4.1 运行规划与控制执行的接口,421,review_writing/evidence/reading_batches/B04_20261015/SOURCE_MANIFEST_B04.json
+E023,82,4 运行条件下的决策取舍、采用与验证 / 4.4 执行监督、能力恢复与验证范围 / 4.4.1 运行规划与控制执行的接口,421,review_writing/evidence/reading_batches/B06_20261016/SOURCE_MANIFEST_B06.json
+E091,83,4 运行条件下的决策取舍、采用与验证 / 4.4 执行监督、能力恢复与验证范围 / 4.4.1 运行规划与控制执行的接口,421,review_writing/evidence/reading_batches/B05_20261016/SOURCE_MANIFEST_B05.json
+E092,84,4 运行条件下的决策取舍、采用与验证 / 4.4 执行监督、能力恢复与验证范围 / 4.4.1 运行规划与控制执行的接口,421,review_writing/evidence/reading_batches/B05_20261016/SOURCE_MANIFEST_B05.json
+E093,85,4 运行条件下的决策取舍、采用与验证 / 4.4 执行监督、能力恢复与验证范围 / 4.4.1 运行规划与控制执行的接口,421,review_writing/evidence/reading_batches/B06_20261016/SOURCE_MANIFEST_B06.json
+E095,86,4 运行条件下的决策取舍、采用与验证 / 4.4 执行监督、能力恢复与验证范围 / 4.4.1 运行规划与控制执行的接口,421,review_writing/evidence/reading_batches/B06_20261016/SOURCE_MANIFEST_B06.json
+E-B15-S026,60,4 运行条件下的决策取舍、采用与验证 / 4.4 执行监督、能力恢复与验证范围 / 4.4.1 运行规划与控制执行的接口,423,review_writing/evidence/reading_batches/B15_20261020/SOURCE_MANIFEST_B15.json
+E091,83,4 运行条件下的决策取舍、采用与验证 / 4.4 执行监督、能力恢复与验证范围 / 4.4.1 运行规划与控制执行的接口,425,review_writing/evidence/reading_batches/B05_20261016/SOURCE_MANIFEST_B05.json
+E092,84,4 运行条件下的决策取舍、采用与验证 / 4.4 执行监督、能力恢复与验证范围 / 4.4.1 运行规划与控制执行的接口,425,review_writing/evidence/reading_batches/B05_20261016/SOURCE_MANIFEST_B05.json
+E093,85,4 运行条件下的决策取舍、采用与验证 / 4.4 执行监督、能力恢复与验证范围 / 4.4.1 运行规划与控制执行的接口,425,review_writing/evidence/reading_batches/B06_20261016/SOURCE_MANIFEST_B06.json
+E095,86,4 运行条件下的决策取舍、采用与验证 / 4.4 执行监督、能力恢复与验证范围 / 4.4.1 运行规划与控制执行的接口,425,review_writing/evidence/reading_batches/B06_20261016/SOURCE_MANIFEST_B06.json
+E-CARA-PROCESS,24,4 运行条件下的决策取舍、采用与验证 / 4.4 执行监督、能力恢复与验证范围 / 4.4.1 运行规划与控制执行的接口,425,review_writing/manuscripts/v3.4-cn/audit/CARA_PRIMARY_PASSAGE_RECORD.json
+E034,2,4 运行条件下的决策取舍、采用与验证 / 4.4 执行监督、能力恢复与验证范围 / 4.4.2 结果反馈、人机分工与实际验证规模,429,review_writing/manuscripts/v2.3-cn/TARGETED_RECHECK_20261017.json
+E-B12-L022,7,4 运行条件下的决策取舍、采用与验证 / 4.4 执行监督、能力恢复与验证范围 / 4.4.2 结果反馈、人机分工与实际验证规模,429,review_writing/evidence/reading_batches/B12_20261020/SOURCE_MANIFEST_B12.json
+E-B16-S034,51,4 运行条件下的决策取舍、采用与验证 / 4.4 执行监督、能力恢复与验证范围 / 4.4.2 结果反馈、人机分工与实际验证规模,429,review_writing/evidence/reading_batches/B16_20261020/SOURCE_MANIFEST_B16.json
+E-B17-S047,6,4 运行条件下的决策取舍、采用与验证 / 4.4 执行监督、能力恢复与验证范围 / 4.4.2 结果反馈、人机分工与实际验证规模,429,review_writing/evidence/reading_batches/B17_20261021/SOURCE_MANIFEST_B17.json
+E-B13-S007,30,4 运行条件下的决策取舍、采用与验证 / 4.4 执行监督、能力恢复与验证范围 / 4.4.2 结果反馈、人机分工与实际验证规模,429,review_writing/evidence/reading_batches/B13_20261020/SOURCE_MANIFEST_B13.json
+E-B14-S015,44,4 运行条件下的决策取舍、采用与验证 / 4.4 执行监督、能力恢复与验证范围 / 4.4.2 结果反馈、人机分工与实际验证规模,429,review_writing/evidence/reading_batches/B14_20261020/SOURCE_MANIFEST_B14.json
+E084,65,4 运行条件下的决策取舍、采用与验证 / 4.4 执行监督、能力恢复与验证范围 / 4.4.2 结果反馈、人机分工与实际验证规模,429,review_writing/evidence/reading_batches/B07_20261016/SOURCE_MANIFEST_B07.json
+E109,87,4 运行条件下的决策取舍、采用与验证 / 4.4 执行监督、能力恢复与验证范围 / 4.4.2 结果反馈、人机分工与实际验证规模,431,review_writing/evidence/reading_batches/B02_20261015/SOURCE_MANIFEST_B02.json
+E-B18-S058,88,4 运行条件下的决策取舍、采用与验证 / 4.4 执行监督、能力恢复与验证范围 / 4.4.2 结果反馈、人机分工与实际验证规模,431,review_writing/evidence/reading_batches/B18_20261021/SOURCE_MANIFEST_B18.json
+E-B18-S057,89,4 运行条件下的决策取舍、采用与验证 / 4.4 执行监督、能力恢复与验证范围 / 4.4.2 结果反馈、人机分工与实际验证规模,431,review_writing/evidence/reading_batches/B18_20261021/SOURCE_MANIFEST_B18.json
+E115,78,4 运行条件下的决策取舍、采用与验证 / 4.4 执行监督、能力恢复与验证范围 / 4.4.2 结果反馈、人机分工与实际验证规模,431,review_writing/manuscripts/v3.5.1-cn/references/TARGETED_PASSAGE_RECHECKS.json
+E-B17-S048,9,4 运行条件下的决策取舍、采用与验证 / 4.4 执行监督、能力恢复与验证范围 / 4.4.2 结果反馈、人机分工与实际验证规模,433,review_writing/evidence/reading_batches/B17_20261021/SOURCE_MANIFEST_B17.json
+E102,58,4 运行条件下的决策取舍、采用与验证 / 4.4 执行监督、能力恢复与验证范围 / 4.4.2 结果反馈、人机分工与实际验证规模,433,review_writing/evidence/reading_batches/B06_20261016/SOURCE_MANIFEST_B06.json
+E108,59,4 运行条件下的决策取舍、采用与验证 / 4.4 执行监督、能力恢复与验证范围 / 4.4.2 结果反馈、人机分工与实际验证规模,433,review_writing/evidence/reading_batches/B06_20261016/SOURCE_MANIFEST_B06.json
+E119,77,4 运行条件下的决策取舍、采用与验证 / 4.4 执行监督、能力恢复与验证范围 / 4.4.2 结果反馈、人机分工与实际验证规模,433,review_writing/evidence/reading_batches/B10_20261016/SOURCE_MANIFEST_B10.json
+E120,90,4 运行条件下的决策取舍、采用与验证 / 4.4 执行监督、能力恢复与验证范围 / 4.4.2 结果反馈、人机分工与实际验证规模,435,review_writing/evidence/reading_batches/B06_20261016/SOURCE_MANIFEST_B06.json
+E117,91,4 运行条件下的决策取舍、采用与验证 / 4.4 执行监督、能力恢复与验证范围 / 4.4.2 结果反馈、人机分工与实际验证规模,435,review_writing/evidence/reading_batches/B06_20261016/SOURCE_MANIFEST_B06.json
+E107,54,4 运行条件下的决策取舍、采用与验证 / 4.4 执行监督、能力恢复与验证范围 / 4.4.2 结果反馈、人机分工与实际验证规模,441,review_writing/manuscripts/v3.2-cn/references/SOURCE_LIBRARY_95_BASELINE_v3.1.csv
+E108,59,4 运行条件下的决策取舍、采用与验证 / 4.4 执行监督、能力恢复与验证范围 / 4.4.2 结果反馈、人机分工与实际验证规模,441,review_writing/evidence/reading_batches/B06_20261016/SOURCE_MANIFEST_B06.json
+E109,87,4 运行条件下的决策取舍、采用与验证 / 4.4 执行监督、能力恢复与验证范围 / 4.4.2 结果反馈、人机分工与实际验证规模,441,review_writing/evidence/reading_batches/B02_20261015/SOURCE_MANIFEST_B02.json
+E-B17-S047,6,4 运行条件下的决策取舍、采用与验证 / 4.4 执行监督、能力恢复与验证范围 / 4.4.2 结果反馈、人机分工与实际验证规模,442,review_writing/evidence/reading_batches/B17_20261021/SOURCE_MANIFEST_B17.json
+E-B13-S007,30,4 运行条件下的决策取舍、采用与验证 / 4.4 执行监督、能力恢复与验证范围 / 4.4.2 结果反馈、人机分工与实际验证规模,442,review_writing/evidence/reading_batches/B13_20261020/SOURCE_MANIFEST_B13.json
+E-B14-S015,44,4 运行条件下的决策取舍、采用与验证 / 4.4 执行监督、能力恢复与验证范围 / 4.4.2 结果反馈、人机分工与实际验证规模,442,review_writing/evidence/reading_batches/B14_20261020/SOURCE_MANIFEST_B14.json
+E-B12-L022,7,4 运行条件下的决策取舍、采用与验证 / 4.4 执行监督、能力恢复与验证范围 / 4.4.2 结果反馈、人机分工与实际验证规模,443,review_writing/evidence/reading_batches/B12_20261020/SOURCE_MANIFEST_B12.json
+E-B16-S034,51,4 运行条件下的决策取舍、采用与验证 / 4.4 执行监督、能力恢复与验证范围 / 4.4.2 结果反馈、人机分工与实际验证规模,444,review_writing/evidence/reading_batches/B16_20261020/SOURCE_MANIFEST_B16.json
+E-B13-S010,63,4 运行条件下的决策取舍、采用与验证 / 4.4 执行监督、能力恢复与验证范围 / 4.4.2 结果反馈、人机分工与实际验证规模,445,review_writing/evidence/reading_batches/B13_20261020/SOURCE_MANIFEST_B13.json
+E034,2,4 运行条件下的决策取舍、采用与验证 / 4.4 执行监督、能力恢复与验证范围 / 4.4.2 结果反馈、人机分工与实际验证规模,446,review_writing/manuscripts/v2.3-cn/TARGETED_RECHECK_20261017.json
+E084,65,4 运行条件下的决策取舍、采用与验证 / 4.4 执行监督、能力恢复与验证范围 / 4.4.2 结果反馈、人机分工与实际验证规模,447,review_writing/evidence/reading_batches/B07_20261016/SOURCE_MANIFEST_B07.json
+E115,78,4 运行条件下的决策取舍、采用与验证 / 4.4 执行监督、能力恢复与验证范围 / 4.4.2 结果反馈、人机分工与实际验证规模,448,review_writing/manuscripts/v3.5.1-cn/references/TARGETED_PASSAGE_RECHECKS.json
+E-B18-S058,88,4 运行条件下的决策取舍、采用与验证 / 4.4 执行监督、能力恢复与验证范围 / 4.4.2 结果反馈、人机分工与实际验证规模,448,review_writing/evidence/reading_batches/B18_20261021/SOURCE_MANIFEST_B18.json
+E-B18-S057,89,4 运行条件下的决策取舍、采用与验证 / 4.4 执行监督、能力恢复与验证范围 / 4.4.2 结果反馈、人机分工与实际验证规模,448,review_writing/evidence/reading_batches/B18_20261021/SOURCE_MANIFEST_B18.json
+E-B17-S048,9,4 运行条件下的决策取舍、采用与验证 / 4.4 执行监督、能力恢复与验证范围 / 4.4.2 结果反馈、人机分工与实际验证规模,449,review_writing/evidence/reading_batches/B17_20261021/SOURCE_MANIFEST_B17.json
+E-B15-S026,60,4 运行条件下的决策取舍、采用与验证 / 4.4 执行监督、能力恢复与验证范围 / 4.4.2 结果反馈、人机分工与实际验证规模,450,review_writing/evidence/reading_batches/B15_20261020/SOURCE_MANIFEST_B15.json
+E051,28,4 运行条件下的决策取舍、采用与验证 / 4.4 执行监督、能力恢复与验证范围 / 4.4.2 结果反馈、人机分工与实际验证规模,451,review_writing/manuscripts/v3.5.1-cn/references/TARGETED_PASSAGE_RECHECKS.json
+E050,74,4 运行条件下的决策取舍、采用与验证 / 4.4 执行监督、能力恢复与验证范围 / 4.4.2 结果反馈、人机分工与实际验证规模,451,review_writing/evidence/reading_batches/B03_20261015/SOURCE_MANIFEST_B03.json
+E078,92,4 运行条件下的决策取舍、采用与验证 / 4.4 执行监督、能力恢复与验证范围 / 4.4.2 结果反馈、人机分工与实际验证规模,452,review_writing/manuscripts/v1.6/CORE_LITERATURE_AUDIT_ROUND1.json
+E089,93,4 运行条件下的决策取舍、采用与验证 / 4.4 执行监督、能力恢复与验证范围 / 4.4.2 结果反馈、人机分工与实际验证规模,452,review_writing/manuscripts/v3.5.1-cn/references/TARGETED_PASSAGE_RECHECKS.json
+E102,58,4 运行条件下的决策取舍、采用与验证 / 4.4 执行监督、能力恢复与验证范围 / 4.4.2 结果反馈、人机分工与实际验证规模,453,review_writing/evidence/reading_batches/B06_20261016/SOURCE_MANIFEST_B06.json
+E119,77,4 运行条件下的决策取舍、采用与验证 / 4.4 执行监督、能力恢复与验证范围 / 4.4.2 结果反馈、人机分工与实际验证规模,453,review_writing/evidence/reading_batches/B10_20261016/SOURCE_MANIFEST_B10.json
+E120,90,4 运行条件下的决策取舍、采用与验证 / 4.4 执行监督、能力恢复与验证范围 / 4.4.2 结果反馈、人机分工与实际验证规模,453,review_writing/evidence/reading_batches/B06_20261016/SOURCE_MANIFEST_B06.json
+E117,91,4 运行条件下的决策取舍、采用与验证 / 4.4 执行监督、能力恢复与验证范围 / 4.4.2 结果反馈、人机分工与实际验证规模,453,review_writing/evidence/reading_batches/B06_20261016/SOURCE_MANIFEST_B06.json
+E034,2,4 运行条件下的决策取舍、采用与验证 / 4.4 执行监督、能力恢复与验证范围 / 4.4.2 结果反馈、人机分工与实际验证规模,455,review_writing/manuscripts/v2.3-cn/TARGETED_RECHECK_20261017.json
+E035,3,4 运行条件下的决策取舍、采用与验证 / 4.4 执行监督、能力恢复与验证范围 / 4.4.2 结果反馈、人机分工与实际验证规模,455,review_writing/manuscripts/v3.2-cn/references/SOURCE_LIBRARY_95_BASELINE_v3.1.csv
+E084,65,4 运行条件下的决策取舍、采用与验证 / 4.4 执行监督、能力恢复与验证范围 / 4.4.2 结果反馈、人机分工与实际验证规模,455,review_writing/evidence/reading_batches/B07_20261016/SOURCE_MANIFEST_B07.json
+E-B16-S034,51,4 运行条件下的决策取舍、采用与验证 / 4.4 执行监督、能力恢复与验证范围 / 4.4.2 结果反馈、人机分工与实际验证规模,457,review_writing/evidence/reading_batches/B16_20261020/SOURCE_MANIFEST_B16.json
+E-B16-S031,25,4 运行条件下的决策取舍、采用与验证 / 4.4 执行监督、能力恢复与验证范围 / 4.4.2 结果反馈、人机分工与实际验证规模,457,review_writing/evidence/reading_batches/B16_20261020/SOURCE_MANIFEST_B16.json
+E-B14-S015,44,4 运行条件下的决策取舍、采用与验证 / 4.4 执行监督、能力恢复与验证范围 / 4.4.2 结果反馈、人机分工与实际验证规模,457,review_writing/evidence/reading_batches/B14_20261020/SOURCE_MANIFEST_B14.json
+E-B13-S001,52,4 运行条件下的决策取舍、采用与验证 / 4.4 执行监督、能力恢复与验证范围 / 4.4.2 结果反馈、人机分工与实际验证规模,459,review_writing/evidence/reading_batches/B13_20261020/SOURCE_MANIFEST_B13.json
+E-B14-S011,53,4 运行条件下的决策取舍、采用与验证 / 4.4 执行监督、能力恢复与验证范围 / 4.4.2 结果反馈、人机分工与实际验证规模,459,review_writing/evidence/reading_batches/B14_20261020/SOURCE_MANIFEST_B14.json
+E-B13-S010,63,4 运行条件下的决策取舍、采用与验证 / 4.4 执行监督、能力恢复与验证范围 / 4.4.2 结果反馈、人机分工与实际验证规模,459,review_writing/evidence/reading_batches/B13_20261020/SOURCE_MANIFEST_B13.json
+E-B13-S001,52,4 运行条件下的决策取舍、采用与验证 / 4.4 执行监督、能力恢复与验证范围 / 4.4.3 从终态与节点可行到连续执行的证据,463,review_writing/evidence/reading_batches/B13_20261020/SOURCE_MANIFEST_B13.json
+E-B14-S011,53,4 运行条件下的决策取舍、采用与验证 / 4.4 执行监督、能力恢复与验证范围 / 4.4.3 从终态与节点可行到连续执行的证据,463,review_writing/evidence/reading_batches/B14_20261020/SOURCE_MANIFEST_B14.json
+E-B14-S015,44,4 运行条件下的决策取舍、采用与验证 / 4.4 执行监督、能力恢复与验证范围 / 4.4.3 从终态与节点可行到连续执行的证据,463,review_writing/evidence/reading_batches/B14_20261020/SOURCE_MANIFEST_B14.json
+E-B14-S011,53,4 运行条件下的决策取舍、采用与验证 / 4.4 执行监督、能力恢复与验证范围 / 4.4.3 从终态与节点可行到连续执行的证据,463,review_writing/evidence/reading_batches/B14_20261020/SOURCE_MANIFEST_B14.json
+E-B17-S043,94,4 运行条件下的决策取舍、采用与验证 / 4.4 执行监督、能力恢复与验证范围 / 4.4.3 从终态与节点可行到连续执行的证据,465,review_writing/evidence/reading_batches/B17_20261021/SOURCE_MANIFEST_B17.json
+E-B17-S047,6,4 运行条件下的决策取舍、采用与验证 / 4.4 执行监督、能力恢复与验证范围 / 4.4.3 从终态与节点可行到连续执行的证据,467,review_writing/evidence/reading_batches/B17_20261021/SOURCE_MANIFEST_B17.json
+E-B16-S034,51,4 运行条件下的决策取舍、采用与验证 / 4.4 执行监督、能力恢复与验证范围 / 4.4.3 从终态与节点可行到连续执行的证据,467,review_writing/evidence/reading_batches/B16_20261020/SOURCE_MANIFEST_B16.json
+E-B20-L042,70,4 运行条件下的决策取舍、采用与验证 / 4.4 执行监督、能力恢复与验证范围 / 4.4.3 从终态与节点可行到连续执行的证据,467,review_writing/evidence/reading_batches/B20_20261021/SOURCE_MANIFEST_B20.json
+E092,84,4 运行条件下的决策取舍、采用与验证 / 4.4 执行监督、能力恢复与验证范围 / 4.4.3 从终态与节点可行到连续执行的证据,469,review_writing/evidence/reading_batches/B05_20261016/SOURCE_MANIFEST_B05.json
+E-B14-S012,71,4 运行条件下的决策取舍、采用与验证 / 4.4 执行监督、能力恢复与验证范围 / 4.4.3 从终态与节点可行到连续执行的证据,469,review_writing/evidence/reading_batches/B14_20261020/SOURCE_MANIFEST_B14.json
+E-B14-S015,44,4 运行条件下的决策取舍、采用与验证 / 4.4 执行监督、能力恢复与验证范围 / 4.4.3 从终态与节点可行到连续执行的证据,469,review_writing/evidence/reading_batches/B14_20261020/SOURCE_MANIFEST_B14.json
+E-B20-L050,29,4 运行条件下的决策取舍、采用与验证 / 4.4 执行监督、能力恢复与验证范围 / 4.4.3 从终态与节点可行到连续执行的证据,469,review_writing/evidence/reading_batches/B20_20261021/SOURCE_MANIFEST_B20.json
+E095,86,4 运行条件下的决策取舍、采用与验证 / 4.4 执行监督、能力恢复与验证范围 / 4.4.3 从终态与节点可行到连续执行的证据,471,review_writing/evidence/reading_batches/B06_20261016/SOURCE_MANIFEST_B06.json
+E-B12-L047,67,4 运行条件下的决策取舍、采用与验证 / 4.4 执行监督、能力恢复与验证范围 / 4.4.3 从终态与节点可行到连续执行的证据,473,review_writing/evidence/reading_batches/B12_20261020/SOURCE_MANIFEST_B12.json
+E-B11-L046,69,4 运行条件下的决策取舍、采用与验证 / 4.4 执行监督、能力恢复与验证范围 / 4.4.3 从终态与节点可行到连续执行的证据,473,review_writing/evidence/reading_batches/B11_20261020/SOURCE_MANIFEST_B11.json
+E-B17-S048,9,4 运行条件下的决策取舍、采用与验证 / 4.4 执行监督、能力恢复与验证范围 / 4.4.3 从终态与节点可行到连续执行的证据,473,review_writing/evidence/reading_batches/B17_20261021/SOURCE_MANIFEST_B17.json
+E-B15-S026,60,4 运行条件下的决策取舍、采用与验证 / 4.4 执行监督、能力恢复与验证范围 / 4.4.3 从终态与节点可行到连续执行的证据,473,review_writing/evidence/reading_batches/B15_20261020/SOURCE_MANIFEST_B15.json
+E-B11-L046,69,4 运行条件下的决策取舍、采用与验证 / 4.4 执行监督、能力恢复与验证范围 / 4.4.3 从终态与节点可行到连续执行的证据,473,review_writing/evidence/reading_batches/B11_20261020/SOURCE_MANIFEST_B11.json
+E065,41,4 运行条件下的决策取舍、采用与验证 / 4.4 执行监督、能力恢复与验证范围 / 4.4.3 从终态与节点可行到连续执行的证据,475,review_writing/manuscripts/v2.3-cn/TARGETED_RECHECK_20261017.json
+E066,42,4 运行条件下的决策取舍、采用与验证 / 4.4 执行监督、能力恢复与验证范围 / 4.4.3 从终态与节点可行到连续执行的证据,475,review_writing/manuscripts/v3.2-cn/references/SOURCE_LIBRARY_95_BASELINE_v3.1.csv
+E093,85,4 运行条件下的决策取舍、采用与验证 / 4.4 执行监督、能力恢复与验证范围 / 4.4.3 从终态与节点可行到连续执行的证据,475,review_writing/evidence/reading_batches/B06_20261016/SOURCE_MANIFEST_B06.json
+E-B18-S051,72,4 运行条件下的决策取舍、采用与验证 / 4.4 执行监督、能力恢复与验证范围 / 4.4.4 从安全退出到业务恢复的四个结果,481,review_writing/evidence/reading_batches/B18_20261021/SOURCE_MANIFEST_B18.json
+E-B15-S026,60,4 运行条件下的决策取舍、采用与验证 / 4.4 执行监督、能力恢复与验证范围 / 4.4.4 从安全退出到业务恢复的四个结果,481,review_writing/evidence/reading_batches/B15_20261020/SOURCE_MANIFEST_B15.json
+E-B18-S057,89,4 运行条件下的决策取舍、采用与验证 / 4.4 执行监督、能力恢复与验证范围 / 4.4.4 从安全退出到业务恢复的四个结果,483,review_writing/evidence/reading_batches/B18_20261021/SOURCE_MANIFEST_B18.json
+E-B17-S048,9,4 运行条件下的决策取舍、采用与验证 / 4.4 执行监督、能力恢复与验证范围 / 4.4.4 从安全退出到业务恢复的四个结果,483,review_writing/evidence/reading_batches/B17_20261021/SOURCE_MANIFEST_B17.json
+E-GSOC-2012,75,4 运行条件下的决策取舍、采用与验证 / 4.4 执行监督、能力恢复与验证范围 / 4.4.4 从安全退出到业务恢复的四个结果,483,review_writing/manuscripts/v3.5-cn/audit/FOLLOWUP_123_SOURCE_CHECKS.json
+E-B20-L050,29,4 运行条件下的决策取舍、采用与验证 / 4.4 执行监督、能力恢复与验证范围 / 4.4.4 从安全退出到业务恢复的四个结果,485,review_writing/evidence/reading_batches/B20_20261021/SOURCE_MANIFEST_B20.json
+E089,93,4 运行条件下的决策取舍、采用与验证 / 4.4 执行监督、能力恢复与验证范围 / 4.4.4 从安全退出到业务恢复的四个结果,489,review_writing/manuscripts/v3.5.1-cn/references/TARGETED_PASSAGE_RECHECKS.json
+E078,92,4 运行条件下的决策取舍、采用与验证 / 4.4 执行监督、能力恢复与验证范围 / 4.4.4 从安全退出到业务恢复的四个结果,489,review_writing/manuscripts/v1.6/CORE_LITERATURE_AUDIT_ROUND1.json
+E042,26,4 运行条件下的决策取舍、采用与验证 / 4.5 研究挑战与可检验问题 / 4.5.1 有限预算下的决策耦合与求解组织,495,review_writing/manuscripts/v2.3-cn/TARGETED_RECHECK_20261017.json
+E053,34,4 运行条件下的决策取舍、采用与验证 / 4.5 研究挑战与可检验问题 / 4.5.1 有限预算下的决策耦合与求解组织,495,review_writing/manuscripts/v2.3-cn/TARGETED_RECHECK_20261017.json
+E106,20,4 运行条件下的决策取舍、采用与验证 / 4.5 研究挑战与可检验问题 / 4.5.1 有限预算下的决策耦合与求解组织,495,review_writing/manuscripts/v2.3-cn/TARGETED_RECHECK_20261017.json
+E-B12-L022,7,4 运行条件下的决策取舍、采用与验证 / 4.5 研究挑战与可检验问题 / 4.5.1 有限预算下的决策耦合与求解组织,497,review_writing/evidence/reading_batches/B12_20261020/SOURCE_MANIFEST_B12.json
+E-B12-L047,67,4 运行条件下的决策取舍、采用与验证 / 4.5 研究挑战与可检验问题 / 4.5.1 有限预算下的决策耦合与求解组织,497,review_writing/evidence/reading_batches/B12_20261020/SOURCE_MANIFEST_B12.json
+E034,2,4 运行条件下的决策取舍、采用与验证 / 4.5 研究挑战与可检验问题 / 4.5.2 信息与授权约束下的安全协同,503,review_writing/manuscripts/v2.3-cn/TARGETED_RECHECK_20261017.json
+E106,20,4 运行条件下的决策取舍、采用与验证 / 4.5 研究挑战与可检验问题 / 4.5.2 信息与授权约束下的安全协同,503,review_writing/manuscripts/v2.3-cn/TARGETED_RECHECK_20261017.json
+E121,21,4 运行条件下的决策取舍、采用与验证 / 4.5 研究挑战与可检验问题 / 4.5.2 信息与授权约束下的安全协同,503,review_writing/manuscripts/v2.3-cn/TARGETED_RECHECK_20261017.json
+E061,35,4 运行条件下的决策取舍、采用与验证 / 4.5 研究挑战与可检验问题 / 4.5.2 信息与授权约束下的安全协同,503,review_writing/evidence/reading_batches/B05_20261016/SOURCE_MANIFEST_B05.json
+E068,56,4 运行条件下的决策取舍、采用与验证 / 4.5 研究挑战与可检验问题 / 4.5.2 信息与授权约束下的安全协同,503,review_writing/evidence/reading_batches/B08_20261016/SOURCE_MANIFEST_B08.json
+E062,57,4 运行条件下的决策取舍、采用与验证 / 4.5 研究挑战与可检验问题 / 4.5.2 信息与授权约束下的安全协同,503,review_writing/evidence/reading_batches/B05_20261016/SOURCE_MANIFEST_B05.json
+E018,80,4 运行条件下的决策取舍、采用与验证 / 4.5 研究挑战与可检验问题 / 4.5.3 轨道调整后的业务恢复与效益评价,507,review_writing/manuscripts/v3.2-cn/references/SOURCE_LIBRARY_95_BASELINE_v3.1.csv
+E019,81,4 运行条件下的决策取舍、采用与验证 / 4.5 研究挑战与可检验问题 / 4.5.3 轨道调整后的业务恢复与效益评价,507,review_writing/evidence/reading_batches/B04_20261015/SOURCE_MANIFEST_B04.json
+E023,82,4 运行条件下的决策取舍、采用与验证 / 4.5 研究挑战与可检验问题 / 4.5.3 轨道调整后的业务恢复与效益评价,507,review_writing/evidence/reading_batches/B06_20261016/SOURCE_MANIFEST_B06.json
+E102,58,4 运行条件下的决策取舍、采用与验证 / 4.5 研究挑战与可检验问题 / 4.5.3 轨道调整后的业务恢复与效益评价,507,review_writing/evidence/reading_batches/B06_20261016/SOURCE_MANIFEST_B06.json
+E108,59,4 运行条件下的决策取舍、采用与验证 / 4.5 研究挑战与可检验问题 / 4.5.3 轨道调整后的业务恢复与效益评价,507,review_writing/evidence/reading_batches/B06_20261016/SOURCE_MANIFEST_B06.json
