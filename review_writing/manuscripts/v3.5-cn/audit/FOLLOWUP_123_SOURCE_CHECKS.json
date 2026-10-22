@@ -1,0 +1,295 @@
+{
+  "date": "2026-10-22",
+  "followup_base_commit": "6c073473cce686388af756c04c913e6502ebea2b",
+  "scope": "Only annotated issues1-3; manuscript figure assets and captions not substantively redesigned; no new orbit simulation or whole-library reread",
+  "human_verified": false,
+  "submission_ready": false,
+  "new_targeted_body_reading_records": 1,
+  "new_experiments": 0,
+  "issues": [
+    {
+      "issue": 1,
+      "status": "FULL_TEXT_ACCESS_UNRESOLVED",
+      "stable_id": "E-EC-SSO-2026",
+      "doi": "10.1109/TSMC.2026.3729751",
+      "current_number": 17,
+      "primary_metadata_route": "https://api.crossref.org/works/10.1109%2FTSMC.2026.3729751",
+      "observed_metadata": "Crossref DOI/title match and VOR license URL https://creativecommons.org/licenses/by-nc-nd/4.0/; this is metadata, not article-body evidence",
+      "full_text_obtained": false,
+      "joint_optimization_depth": "NOT_DETERMINED",
+      "browser_observation": "IEEE page title matched; visible page remained a loading indicator; DOM exposed footer rather than article body",
+      "body_action": "Section1.2 now compares confirmed scope and supports our analysis by concrete evidence without claiming the neighbor lacks joint optimization",
+      "future_access_requirement": "Usable article PDF or full body from publisher/author/institution; no paywall bypass and no author contact sent"
+    },
+    {
+      "issue": 2,
+      "status": "INTERPRETATION_CLARIFIED_FORMAL_PAIR_AND_PIXEL_REVIEW_OPEN",
+      "stable_id": "E-B20-L042",
+      "doi": "10.2514/1.A36075",
+      "current_number": 68,
+      "formal_metadata_route": "https://api.crossref.org/works/10.2514%2F1.A36075",
+      "formal_full_text_obtained": false,
+      "formal_version_pairing_closed": false,
+      "read_version": "2025-07-11 uploaded author preprint,40 pages; plural Maneuvers in title",
+      "source_text": "D:\\SKT727\\materials\\constellation_review_B20_20261021\\L042_web_lines.json",
+      "claims": [
+        {
+          "id": "F123-L042-01",
+          "kind": "PRIMARY_TEXT_VARIABLE_AND_LABEL_CHECK",
+          "locator": "Author PDF p.9, L397-458; p.30 Fig16b coordinate labels; p.36 Fig24b coordinate labels",
+          "finding": "i_x and i_y are inclination-vector components; (b) panels are not latitude-versus-time plots. No angular overshoot magnitude is inferred from them."
+        },
+        {
+          "id": "F123-L042-02",
+          "kind": "PRIMARY_TEXT_FORMULATION_CHECK",
+          "locator": "Author PDF p.5 Eq1; pp.17-18 boundary conditions; pp.30/35 scenario explanations",
+          "finding": "Retain the distinction among terminal targeting, desired path range and explicitly imposed path constraints; no evidence of violation of an imposed hard latitude/longitude box."
+        }
+      ],
+      "screenshot_outcome": "Web tools returned text placeholders for screenshots, with no image-content blocks. Requests were issued but pixels were not available to inspect; not counted as visual completion.",
+      "figure_visual_completed": false,
+      "body_action": "Section4.4.3 explicitly distinguishes inclination-vector coordinates and author scenario narrative; formal2026 parity remains open"
+    },
+    {
+      "issue": 3,
+      "status": "FEASIBILITY_CRITERION_AND_OPERATIONAL_EVIDENCE_ADDED_MATCHED_NET_GAIN_OPEN",
+      "new_source": "E-GSOC-2012",
+      "current_number": 72,
+      "analytical_item": {
+        "kind": "REVIEW_AUTHOR_DEFINITION_NOT_NEW_ALGORITHM",
+        "statement": "For fixed-duration activity[s,s+d] and refreshed occupancy window[a,b], min(s-a,b-s-d)>=0 iff this window-containment constraint holds.",
+        "scope": "Does not certify other resources, safety, optimality or the success of a local repair. Start-time windows must not subtract duration twice.",
+        "local_repair_condition": "Check executed facts, commitments, full activity-chain dependencies and shared-resource boundary constraints; enlarge scope when boundary assumptions become invalid.",
+        "empirical_threshold_claim": false
+      },
+      "service_comparison": "Common requests,initial conditions,information,safety,commitments,budget and horizon; track service outcomes separately from resource and adoption costs.",
+      "not_closed": "No matched universal comparison of local versus joint orbit/task recovery net benefit; no universal delta-v trigger estimated."
+    }
+  ],
+  "new_primary_source": {
+    "stable_id": "E-GSOC-2012",
+    "doi": "10.2322/tastj.10.Tr_23",
+    "title": "Operational Results of Conjunction Assessment and Mitigation at German Space Operations Center",
+    "actual_version": "J-STAGE publisher PDF,6 pages,2012,printed Tr_23-Tr_28",
+    "url": "https://www.jstage.jst.go.jp/article/tastj/10/ists28/10_ists28_Tr_23/_pdf/-char/en",
+    "local_pdf": "D:\\SKT727\\materials\\constellation_review_v35_followup_20261022\\GSOC2012_VOR.pdf",
+    "sha256": "c059ab7da0c37c19d27130719c659193663513fac1e9c916ee166f6ece0436f3",
+    "body_passages_read_physical_pages": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "visual_pages_checked": [
+      4,
+      5
+    ],
+    "claims": [
+      {
+        "id": "F123-GSOC-01",
+        "locator": "Printed Tr_25-Tr_26, physical pp.3-4, sections4.1-4.2",
+        "adopted_use": "Timing of regular maneuvers and fuel-versus-reacquisition-time choices; manual planning and rescreening remain explicit."
+      },
+      {
+        "id": "F123-GSOC-02",
+        "locator": "Printed Tr_26-Tr_27, physical pp.4-5, section5.1 and Fig3",
+        "adopted_use": "Authors infer SAR operation unaffected in a specific2011 case from formation error; not a measured delivery-loss counterfactual."
+      }
+    ],
+    "duplicate_check": "No DOI/title match in existing repository evidence or V3.5 reference register before addition; 2011 DLR copy is the same work, not another paper.",
+    "third_party_pdf_uploaded": false,
+    "human_verified": false,
+    "not_inferred": [
+      "large-constellation autonomous avoidance validation",
+      "same-condition algorithm ranking",
+      "general zero service loss",
+      "matched counterfactual mission benefit"
+    ]
+  },
+  "discovery_and_access_attempts": [
+    {
+      "name": "EC2026_crossref",
+      "url": "https://api.crossref.org/works/10.1109%2FTSMC.2026.3729751",
+      "status": 200,
+      "final_url": "https://api.crossref.org/works/10.1109%2FTSMC.2026.3729751",
+      "title": [
+        "Evolutionary Computation in Satellite System Optimization for Deployment and Scheduling: A Survey"
+      ],
+      "links": [
+        {
+          "URL": "http://xplorestaging.ieee.org/ielx8/6221021/6376248/11716733.pdf?arnumber=11716733",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "resource": {
+        "primary": {
+          "URL": "https://ieeexplore.ieee.org/document/11716733/"
+        }
+      },
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                1,
+                1
+              ]
+            ],
+            "date-time": "2026-01-01T00:00:00Z",
+            "timestamp": 1767225600000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+        }
+      ],
+      "relation": {}
+    },
+    {
+      "name": "EC2026_openalex",
+      "url": "https://api.openalex.org/works/https://doi.org/10.1109/TSMC.2026.3729751",
+      "error": "IncompleteRead(0 bytes read, 14871 more expected)"
+    },
+    {
+      "name": "EC2026_semantic",
+      "url": "https://api.semanticscholar.org/graph/v1/paper/DOI:10.1109/TSMC.2026.3729751?fields=title,openAccessPdf,url,externalIds",
+      "status": 200,
+      "final_url": "https://api.semanticscholar.org/graph/v1/paper/DOI:10.1109/TSMC.2026.3729751?fields=title,openAccessPdf,url,externalIds",
+      "data": {
+        "paperId": "9b0231d2fb0c52cbe623699bf1ba9507304a1e2c",
+        "externalIds": {
+          "DOI": "10.1109/tsmc.2026.3729751",
+          "CorpusId": 292551385
+        },
+        "url": "https://www.semanticscholar.org/paper/9b0231d2fb0c52cbe623699bf1ba9507304a1e2c",
+        "title": "Evolutionary Computation in Satellite System Optimization for Deployment and Scheduling: A Survey",
+        "openAccessPdf": {
+          "url": "https://doi.org/10.1109/tsmc.2026.3729751",
+          "status": "HYBRID",
+          "license": "CCBYNCND"
+        }
+      }
+    },
+    {
+      "name": "L042_crossref",
+      "url": "https://api.crossref.org/works/10.2514%2F1.A36075",
+      "status": 200,
+      "final_url": "https://api.crossref.org/works/10.2514%2F1.A36075",
+      "title": [
+        "Combined Collision Avoidance and Station-Keeping Maneuver Optimization by Collision Probability Inversion"
+      ],
+      "links": [
+        {
+          "URL": "https://arc.aiaa.org/doi/pdf/10.2514/1.A36075",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "resource": {
+        "primary": {
+          "URL": "https://arc.aiaa.org/doi/10.2514/1.A36075"
+        }
+      },
+      "license": null,
+      "relation": {}
+    },
+    {
+      "name": "L042_openalex",
+      "url": "https://api.openalex.org/works/https://doi.org/10.2514/1.A36075",
+      "status": 200,
+      "final_url": "https://api.openalex.org/works/https://doi.org/10.2514/1.A36075",
+      "title": "Combined Collision Avoidance and Station-Keeping Maneuver Optimization by Collision Probability Inversion",
+      "oa": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "locations": [
+        {
+          "landing": "https://doi.org/10.2514/1.a36075",
+          "pdf": null,
+          "version": "publishedVersion",
+          "source": "Journal of Spacecraft and Rockets"
+        }
+      ]
+    },
+    {
+      "name": "L042_semantic",
+      "url": "https://api.semanticscholar.org/graph/v1/paper/DOI:10.2514/1.A36075?fields=title,openAccessPdf,url,externalIds",
+      "status": 200,
+      "final_url": "https://api.semanticscholar.org/graph/v1/paper/DOI:10.2514/1.A36075?fields=title,openAccessPdf,url,externalIds",
+      "data": {
+        "paperId": "48753fddb9d8ed9a65db96308f108cbd30a8eeeb",
+        "externalIds": {
+          "DOI": "10.2514/1.a36075",
+          "CorpusId": 281781959
+        },
+        "url": "https://www.semanticscholar.org/paper/48753fddb9d8ed9a65db96308f108cbd30a8eeeb",
+        "title": "Combined Collision Avoidance and Station-Keeping Maneuver Optimization by Collision Probability Inversion",
+        "openAccessPdf": {
+          "url": "",
+          "status": null,
+          "license": null
+        }
+      }
+    },
+    {
+      "id": "GSOC2012_VOR",
+      "url": "https://www.jstage.jst.go.jp/article/tastj/10/ists28/10_ists28_Tr_23/_pdf/-char/en",
+      "status": 200,
+      "final_url": "https://www.jstage.jst.go.jp/article/tastj/10/ists28/10_ists28_Tr_23/_pdf/-char/en",
+      "content_type": "application/pdf;charset=UTF-8",
+      "bytes": 944548,
+      "pdf": "D:\\SKT727\\materials\\constellation_review_v35_followup_20261022\\GSOC2012_VOR.pdf",
+      "sha256": "c059ab7da0c37c19d27130719c659193663513fac1e9c916ee166f6ece0436f3"
+    },
+    {
+      "id": "GSOC2011_DLR",
+      "url": "https://elib.dlr.de/74489/1/S_Aida_ists_paper_update2.pdf",
+      "error": "IncompleteRead(310913 bytes read, 29050 more expected)"
+    },
+    {
+      "id": "EC2026_crossref_PDF",
+      "url": "http://xplorestaging.ieee.org/ielx8/6221021/6376248/11716733.pdf?arnumber=11716733",
+      "error": "HTTP Error 418: Unknown Code"
+    },
+    {
+      "id": "L042_VOR",
+      "url": "https://arc.aiaa.org/doi/pdf/10.2514/1.A36075",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "id": "EC2026_IEEE_PDF",
+      "url": "https://ieeexplore.ieee.org/ielx8/6221021/6376248/11716733.pdf",
+      "error": "HTTP Error 418: Unknown Code"
+    },
+    {
+      "id": "EC2026_staging_https",
+      "url": "https://xplorestaging.ieee.org/ielx8/6221021/6376248/11716733.pdf?arnumber=11716733",
+      "error": "HTTP Error 418: Unknown Code"
+    },
+    {
+      "id": "GSOC2012_metadata",
+      "url": "https://api.crossref.org/works/10.2322%2Ftastj.10.Tr_23",
+      "status": 200,
+      "content_type": "application/json",
+      "bytes": 2063,
+      "title": [
+        "Operational Results of Conjunction Assessment and Mitigation at German Space Operations Center"
+      ],
+      "journal": [
+        "TRANSACTIONS OF THE JAPAN SOCIETY FOR AERONAUTICAL AND SPACE SCIENCES, AEROSPACE TECHNOLOGY JAPAN"
+      ],
+      "volume": "10",
+      "issue": "ists28",
+      "pages": "Tr_23-Tr_28"
+    }
+  ]
+}

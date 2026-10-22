@@ -5,7 +5,7 @@
  Planning and Coordinated Decision-Making for Intelligent Operations Management of Large Satellite Constellations: A Review
  
 -**v3.4-CN · 2026-10-21 · 轨道动力学与运行决策整合稿；作者审阅版**
-+**v3.5-CN · 2026-10-22 · 中文科学精修稿；作者审阅版**
++**v3.5-CN · 2026-10-22 · 前三项证据补核修订；作者审阅版**
  
  ## 摘要
  
@@ -34,7 +34,7 @@
 +
 +自主运行研究也已超出算法罗列。Jabbarpour等按智能体、组织、通信及任务管理职责分类[12]；Thangavel等讨论信息可得性、计算通信能力和星地监督关系[13]；自动化运行综述联系规划、执行、监测及工具[1,14]。这些工作为解释协同提供基础。本文进一步将信息内容、修改权、批准权和实际采用分别对应到具体任务与机动案例，分析一个节点算得方案后，其他节点在什么条件下能够继续执行。
 +
-+轨道和系统优化综述同样与本题直接相邻。CAMmary分类避碰机动的风险模型、数值方法、操作约束和多次接近[15]；Singla等以统一任务表达讨论卫星运行与网络管理的集成、协调和自适应组织[16]。2026年Yang等进化计算综述的公开摘要已明确包含星座设计、重构、任务调度及测控调度[17]，其正文中的联合优化范围尚待核对。因而，不能以“同时介绍部署、调度和轨道”或假定邻近综述没有联合优化，主张本文的独特性。
++轨道和系统优化综述同样与本题直接相邻。CAMmary分类避碰机动的风险模型、数值方法、操作约束和多次接近[15]；Singla等以统一任务表达讨论卫星运行与网络管理的集成、协调和自适应组织[16]。2026年Yang等进化计算综述的公开摘要已明确包含星座设计、重构、任务调度及测控调度[17]，其正文中的联合优化范围尚待核对。本文据可得材料比较其已确认的覆盖范围，不把尚未取得正文的部分列为该综述的缺项。本文的分析价值由后文对决策条件、约束与恢复结果的具体比较体现，不依赖对邻近综述作排他判断。
 +
 +本文采用的比较视角是：哪些变化只需重算业务，哪些应让业务目标参与机动选择，哪些适合通过分层信息和时序协调处理；再考察这种选择怎样影响安全可接受性、资源代价、执行时效及实际服务。第4.2节以任务响应重构、差异阻力、业务联合安排和避碰—保持案例展开这一比较，第4.4节从终态、连续执行和四类恢复结果检查证据。它是基于具体来源的分析组织，不是另提总体架构，也不声称相关主题此前无人讨论。表1给出各综述与这种比较的衔接。
  
@@ -295,7 +295,7 @@
  
  任务状态与轨道状态的变化还会改变不同对象。载荷不可用主要撤销相应活动能力，轨道偏离则会改变未来窗口、允许机动和风险条件；前者不必每次求解轨迹，后者也不能只重排原有时间表。3.6分别讨论这些轨道变化怎样形成新候选，4.2—4.4再分析其与资源、权限及业务接续的联系。
  
-@@ -258,228 +261,250 @@
+@@ -258,228 +261,264 @@
  
  | 机制与来源 | 使用的信息 | 保留或固定的内容 | 输出及后续确认 |
  |---|---|---|---|
@@ -462,7 +462,17 @@
 +
 +#### 4.2.2 分层、分阶段与部分联合的适用条件
 +
-+当轨道变化未使原窗口、资源裕量和期限失效时，可以先复核已有安排，再局部修复受影响活动。这样减少重算和协调，但“小变化”应按任务可行性判断，不能仅按轨道位移或Δv大小判断：接近窗口边缘的短任务可能对较小偏差敏感。计划复用[2]与接触失效后的局部选路[20]直接支持在各自模型中保留有效部分；将这一原则推广到机动后安排，是本文的综合判断，仍须检查新轨道机会与旧资源承诺是否相容。
++“小变化”可按旧计划在更新状态下的约束余量界定，而不是按统一的Δv阈值界定。以时长固定为$d_i$、原开始时刻为$s_i$的活动为例，更新轨道后得到允许完整活动落入的窗口$[a'_i,b'_i]$，可定义时间窗余量
++
++$$
++m_i^{\mathrm{win}}=\min\{s_i-a'_i,\ b'_i-s_i-d_i\}.
++$$
++
++这里窗口端点限定活动占用区间；若输入本身是已扣除时长的允许开始时刻区间，则只检查$s_i$是否落入其中，不再重复扣减$d_i$。负余量说明该活动不能原样保留；非负只说明这一时间窗条件成立，能源、姿态、存储、传输、期限和适用安全条件仍需核对。只有旧计划在更新后的全部模型条件下仍可行且具有有效采用权限，才有保留它的依据；这不证明其仍为最优方案。
++
++局部修复还需明确影响范围。本文据增量安排[2]、交付容量承诺与路径回退[20]归纳：先固定已执行事实和暂不可撤回的承诺，将窗口失效活动、与其相连的采集—处理—下传前后继及共享资源竞争者纳入检查，再核对与保留部分交界处的容量和时序。若修复使这些交界条件失效，就扩大修改范围；仅按地理邻近或同一颗星划定范围可能漏掉跨星交付冲突。上述余量及依赖检查是本文对已知约束的比较表达，没有标定普遍的触发阈值，也没有证明局部修复总能成功。
++
++真实运控也存在局部调整机会。GSOC报告将改动近期常规机动的时刻或大小作为候选，其可用性取决于机动时序；专门避碰后，另一成员复制动作较费燃料，保持被动则可能延长构型恢复。相关方案由地面人员规划并在上传前重核风险[72]。
 +
 +如果机动显著改变任务机会，先完全固定轨迹可能排除业务价值更高的候选。此时可让任务目标参与候选轨道筛选，或只共同开放参与成员、目标相位、到位时限及部分任务变量，而将其余活动固定。任务响应重构[7]支持前一种机制，观测—传输联合选择[26]支持下游机会反馈到上游选择；它们并未证明把两类模型合并后必然优于分阶段方法。观测收益与下传体积分别计奖[27]、采集固定后优化处理[33]、选束后调功率[35]也表明，“联合”的收益首先依赖目标定义和实际开放的变量。
 +
@@ -499,7 +509,7 @@
 +
 +同研究条件对照提供具体边界。[20]的16星试验在名义和通信机会失效条件下比较指定路径优先转发与局部选路，相对表现随可靠性改变；原作者将其中变化联系到预定路径和期限。动态激光链路研究[21]则权衡重复建链与传播距离，低建链代价时不同保持策略表现并不一致。它们不是集中式和分布式架构的普遍排名。
 +
-+决定采用还需要独立检查。Basciani等[72]针对星上软件调度配置，将建模、校验、优化和仿真产生的候选交给人工监督者批准，再生成并部署配置；监督者可拒绝或要求重新计算。其对象是软件进程及相应时间约束，不能直接替代星座业务规划。但它清楚展示了算法输出与授权采用是两个阶段；自动生成候选并不等于无人工的自主部署。
++决定采用还需要独立检查。Basciani等[73]针对星上软件调度配置，将建模、校验、优化和仿真产生的候选交给人工监督者批准，再生成并部署配置；监督者可拒绝或要求重新计算。其对象是软件进程及相应时间约束，不能直接替代星座业务规划。但它清楚展示了算法输出与授权采用是两个阶段；自动生成候选并不等于无人工的自主部署。
 +
 +安全接管也会改变后续修改权。Pedari等的执行层一旦进入安全模式，便保持该模式直到上层发送新轨迹[61]；异步巡检屏蔽又通过一次只允许一星更新来保留既有可行备选[43]。两类机制分别限制返回名义计划的时机和改变轨道的顺序。对任务规划而言，需要获知哪些原动作已经失效、哪些资源仍被占用，以及新计划何时获准接管，不能仅在安全修正后沿用旧时间表。
 +
@@ -510,7 +520,7 @@
  ![图3](assets/fig3_decision_timing_ai_v2.png)
  
 -图3 状态变化后的修改范围与执行时序。图中检查和计划采用在不同系统中可由星上、地面或人工承担，实际授权须由所引研究说明。路径修复以[19]为例，部署批准以[71]为功能参照；下部是有期限请求的示意，不是完整自主系统或实测时延。
-+图3 状态变化后的修改范围与执行时序。图中检查和计划采用在不同系统中可由星上、地面或人工承担，实际授权须由所引研究说明。路径修复以[20]为例，部署批准以[72]为功能参照；下部是有期限请求的示意，不是完整自主系统或实测时延。
++图3 状态变化后的修改范围与执行时序。图中检查和计划采用在不同系统中可由星上、地面或人工承担，实际授权须由所引研究说明。路径修复以[20]为例，部署批准以[73]为功能参照；下部是有期限请求的示意，不是完整自主系统或实测时延。
  
  **表7 运行条件、决策职责与可采用的比较**
  
@@ -534,7 +544,7 @@
 +| 换路需要建链 | 是否支付切换成本 | 路径比较[21] | 需保留传播和建链模型，不含未测控制成本 |
 +| 资源限制改变 | 采用何种规划策略 | 状态预测与规则[53] | 规则选择偏好，候选仍需构造和检查；单星验证 |
 +| 前序恢复未成功 | 采用下一措施或调整处置 | FDIR原型[57] | 行动结果反馈；地面特定场景，不是星座级恢复证明 |
-+| 候选配置已生成 | 批准、拒绝或再次计算 | 受监督配置[72] | 计算与采用分开，保留人工及软件任务边界 |
++| 候选配置已生成 | 批准、拒绝或再次计算 | 受监督配置[73] | 计算与采用分开，保留人工及软件任务边界 |
 +| 多星共享完成状态 | 是否还需任务归属和确认信息 | 机制对照[40,44] | 完成、分配和采用各有职责，跨研究不直接排名 |
 +| 机动改变未来轨道 | 等待更新、执行候选或撤回 | CARA流程[23] | 拟定星历再筛查和承诺决定分开；不移用统一阈值 |
 +| 多成员共享动作或预测 | 谁切换、何时同步及谁能修改 | 规划与重构[8,24,50] | 同步、预测及共同可行性分别检查，不组合成更强保证 |
@@ -571,19 +581,19 @@
 -**表8 运行证据中的决定、采用及验证边界**
 -
 -| 资料或方法 | 已体现的决定或功能 | 采用与反馈的解释 | 不能据此推定的内容 |
-+部署与平台设计提供卫星到位时间和可用容量[60,73]，库存、补给和维修描述资源供应与周转[74–76]。规划使用这些结果决定何时可以安排替代任务；资源可得、功能确认和业务重新分配不是同一事件。安全轨迹研究[77–80]则提供机动占用、终端状态及特定失效条件下的保证，运行决策不能只接收一个不带时段和前提的“安全”标签。
++部署与平台设计提供卫星到位时间和可用容量[60,74]，库存、补给和维修描述资源供应与周转[75–77]。规划使用这些结果决定何时可以安排替代任务；资源可得、功能确认和业务重新分配不是同一事件。安全轨迹研究[78–81]则提供机动占用、终端状态及特定失效条件下的保证，运行决策不能只接收一个不带时段和前提的“安全”标签。
 +
 +执行交接宜使用真实的动作序列。VISORS的机动拆分和缓存[59]说明，未拆分脉冲的可行性不足以确定命令何时发出；执行间隔及后续纠偏会影响允许活动。将这些条件反馈给上层，可以区分计划尚未采用、指令已进入缓存和机动已经完成，减少用理想轨迹时刻代替实际可用时刻的误判。
 +
-+近距离交会、编队内避碰和目录运营避碰还应分别使用。锥优化交会、群体MPC、机会约束交会和NRHO被动安全轨迹[77–80]可说明特定模型中的执行与安全条件；目录流程[23]关心新的对象接近和运营处置。前者的终端或相对运动性质不直接给出后者的目录覆盖、风险校准及机动责任，二者可以比较接口，不能合并为同类在轨实证。
++近距离交会、编队内避碰和目录运营避碰还应分别使用。锥优化交会、群体MPC、机会约束交会和NRHO被动安全轨迹[78–81]可说明特定模型中的执行与安全条件；目录流程[23]关心新的对象接近和运营处置。前者的终端或相对运动性质不直接给出后者的目录覆盖、风险校准及机动责任，二者可以比较接口，不能合并为同类在轨实证。
 +
 +#### 4.4.2 结果反馈、人机分工与实际验证规模
 +
 +验证规模应同时写出参与对象和完成的功能。100星任务分配[2]说明较大集合中的观测增量安排；24星任务响应重构[7]与35星重构[50]分别检验成员选择和构型调整，后者未加入避碰约束。它们为减少重算、协调和控制计算提供不同证据。相对地，双星、三星安全控制主要用于检验耦合约束和控制可行性[6,29,43]。目录筛查处理大量传播目标[63]，其中的目标含非主动对象，计算规模不代表同数量卫星已完成自主机动选择。按功能解释规模，才能判断一种机制可迁移到哪个计算环节。
 +
-+飞行证据还需明确动作由谁提出、采用和执行。EO-1把星上科学分析与后续规划执行连接，并保留地面职责[81]。Starling是四星任务，其扩展报告记录SV4一次由三次点火组成的自主维持机动，以及网络建立和传输功能[82]；飞行动力学报告则描述主要机动规划、交会筛查和运控批准中的地面分工[83]。因此，它支持特定星上功能与实际星地交接的分析，不能将一次单成员自主动作写成四星联合自主避碰。官方资料和两篇报告[82–85]属于同一任务线，按功能互补使用。
++飞行证据还需明确动作由谁提出、采用和执行。EO-1把星上科学分析与后续规划执行连接，并保留地面职责[82]。Starling是四星任务，其扩展报告记录SV4一次由三次点火组成的自主维持机动，以及网络建立和传输功能[83]；飞行动力学报告则描述主要机动规划、交会筛查和运控批准中的地面分工[84]。因此，它支持特定星上功能与实际星地交接的分析，不能将一次单成员自主动作写成四星联合自主避碰。官方资料和两篇报告[83–86]属于同一任务线，按功能互补使用。
 +
-+NanoFF的两颗2U卫星提供了导航等待、地面安排冲突和人工模型修正的在轨记录[9]。这些等待解释了为何轨迹计算很快，下一次机动仍不能立即采用。报告中的已飞阻力调节与计划中的完整自主近距交叉应分开，传播或规划更新频率也应与新导航信息频率分开。FDIR地面原型[57]、Remote Agent单航天器规划执行[58]和人工批准后的软件配置[72]则分别支持行动反馈、规划接续与采用权限的分析。保留人机分工，可以准确评价已完成的自动化能力。
++NanoFF的两颗2U卫星提供了导航等待、地面安排冲突和人工模型修正的在轨记录[9]。这些等待解释了为何轨迹计算很快，下一次机动仍不能立即采用。报告中的已飞阻力调节与计划中的完整自主近距交叉应分开，传播或规划更新频率也应与新导航信息频率分开。FDIR地面原型[57]、Remote Agent单航天器规划执行[58]和人工批准后的软件配置[73]则分别支持行动反馈、规划接续与采用权限的分析。保留人机分工，可以准确评价已完成的自动化能力。
 +
 +**表8 不同环境与规模下实际验证的决策能力**
 +
@@ -618,25 +628,25 @@
 -更新导航信息还可能改变原动作是否有必要。De Vittori等将长期避碰与概率轨道保持联结，并在轨道信息更新后分段重规划；但其更新通过重设协方差和采样均值模拟，不是实际测量滤波试验[27]。这个算例可解释新信息怎样改变可行域和候选动作，不能作为真实导航、控制及任务接续已经闭环的证据。与Starling运控报告对照时，应保留单主动星GEO仿真与四星在轨运行的不同层级。
 -
 -对于第2.3节的载荷不可用情景，可先根据安全动作后的轨道及功能状态更新候选窗口，再检查尚未执行请求、已存图像、预约资源和任务归属。保留、转移或取消哪些活动，应由相应期限、承诺及修改权限决定。恢复评价同时保留受影响需求和未完成需求，才能分辨安全措施、任务重排和执行确认各自减少了什么损失；只记录最小间距或恢复到某一相对轨道，仍不足以回答业务是否接续。
-+| 状态策略及规划执行[53,58,81] | 单星模型或单航天器运行；三项研究环境不同 | 策略选择、规划执行接续或星上科学触发 | 检查状态、活动与后续结果；按各任务保留地面职责 |
++| 状态策略及规划执行[53,58,82] | 单星模型或单航天器运行；三项研究环境不同 | 策略选择、规划执行接续或星上科学触发 | 检查状态、活动与后续结果；按各任务保留地面职责 |
 +| 被动安全、异步屏蔽及联合轨迹[6,29,43] | 主要双星或三星数值环境 | 恢复窗口、更新协议或内外约束下的联合控制 | 说明局部共同可行性的条件，扩大成员数需另核计算与协调 |
 +| 任务响应重构[7] | 24星数值案例 | 按目标需求选择成员与低推力候选 | 比较响应、控制代价和覆盖；逐请求交付还需任务安排 |
 +| 分散MPC重构[50] | 35星数值重构 | 不同邻星信息下恢复等间隔构型 | 评价预测交换与控制计算；所设问题不含避碰约束 |
 +| 层次化构型控制[61] | 10星闭环仿真；另有50星指派计算 | 层次规划、执行接管及不同规模子问题 | 指派规模与完整动态验证分开，终态通信与全程保持分开 |
 +| 增量观测安排[2] | 100星、约一周规划时域的数值环境 | 复用已有分配并处理新请求 | 评价分配与重算成本，不对应相同规模联合安全机动 |
 +| GPU目录筛查[63] | 24 023个目录对象的传播筛查案例 | 多级几何筛查和并行候选处理 | 产物进入风险评估；目录目标数不等于主动决策成员数 |
-+| Starling任务线[82–85] | 四星在轨任务；所引自主维持为SV4单成员三次点火 | 特定协商、网络、机动及异常处置功能 | 与地面规划、筛查及批准衔接；同任务报告合并解释 |
++| Starling任务线[83–86] | 四星在轨任务；所引自主维持为SV4单成员三次点火 | 特定协商、网络、机动及异常处置功能 | 与地面规划、筛查及批准衔接；同任务报告合并解释 |
 +| NanoFF[9] | 双星在轨任务 | 已飞推进与阻力调节及运行修正 | 导航等待、地面冲突和模型修正参与采用；计划功能另列 |
 +| VISORS所引设计[59] | 双星、飞行前软件在环 | 模式、角色、逃逸与命令缓存设计 | 提供执行交接条件，按所引稿保留飞行前环境 |
-+| DSN运行论文与Planet接口[86,87] | 特定网络运行研究与业务接口文档 | 交付、资源安排及确认流程 | 识别业务与承诺事件，内部算法性能另需证据 |
-+| Starlink及独立测量[88,89] | 运营说明与服务观测，证据类型不同 | 处置流程或服务现象 | 分别使用运营主张与测量结果，区分内部决策和外部观测 |
-+| FDIR、软件配置及形式化研究[57,72,90,91] | 地面原型、软件配置或规格检查 | 行动结果监测、监督批准或规定规格性质 | 解释相应交接与检查；业务效果需对应执行及服务记录 |
++| DSN运行论文与Planet接口[87,88] | 特定网络运行研究与业务接口文档 | 交付、资源安排及确认流程 | 识别业务与承诺事件，内部算法性能另需证据 |
++| Starlink及独立测量[89,90] | 运营说明与服务观测，证据类型不同 | 处置流程或服务现象 | 分别使用运营主张与测量结果，区分内部决策和外部观测 |
++| FDIR、软件配置及形式化研究[57,73,91,92] | 地面原型、软件配置或规格检查 | 行动结果监测、监督批准或规定规格性质 | 解释相应交接与检查；业务效果需对应执行及服务记录 |
 +
 +#### 4.4.3 从终态与节点可行到连续执行的证据
 +
 +终态构型满足时，方法可用于确定成员到位或后续规划的起点；若任务还要求转移全程保持间距、轨道框或链路，就应把这些条件单独接入路径。三星联合轨迹[6]与35星重构[50]的差别不仅在规模，更在是否包含内部与外部避碰约束。由此，评价应先列出实际施加的约束，再检查终端、途中及控制界的残差，避免把没有建模的要求误判成算法已经满足或违反的要求。
 +
-+De Vittori等的工作尤其说明了这种区分的必要性。所读2025年40页作者稿中，图16对应一组GEO算例，正文说明经度保持在框内、纬度途中超出目标范围以匹配终态；图24对应修改后的另一组算例，正文说明纬度也保持在框内[68]。该稿以接近时刻的碰撞概率条件及期末状态定点构成三点边值问题，没有在该分析解中显式强制全程经纬度盒约束。因此，图16应解释为相对期望保持范围的路径偏离，不能直接称为已施加硬路径约束的违反；它也不同于在目标上增加松弛变量的软约束写法。若业务必须全程在框内，仍需加入相应路径条件并重新求解。上述图号与说明只绑定所读作者稿，2026正式版对应关系未完成。
++De Vittori等所读2025年作者稿提供了终态与路径要求的对照：图16关联的GEOSK案例说明中报告途中偏离期望范围，图24关联的修改案例则报告保持在范围内[68]。还需辨明图的变量：该稿把$i_x$、$i_y$定义为倾角向量分量，两幅(b)图的坐标标注正是这两个量，而非纬度对时间；本文采用的是场景正文说明，不由该投影图反推纬度越界幅值。Eq.(1)与相应三点边值条件显式给出初态、终态及接近时刻概率条件，没有加入全程经纬度盒约束。因此，该个案表示相对期望保持范围的路径偏离，不足以证明已强制的硬路径约束被违反，也不同于引入带惩罚松弛量的软约束。若业务要求全程在框内，仍需补入路径条件。上述变量和场景定位绑定所读作者稿，正式版配对继续待核。
 +
 +离散节点满足则提供另一层证据。走廊MPC用采样与扰动裕量处理节点间演化[69]，适用性依赖走廊、扰动界及离线兼容性检查；异步屏蔽使用节点间速度界，其一般情形仍有近似[43]；长期避碰与随机保持研究明确讨论积分网格对节点间违约的影响[28]。当相应界和误差条件成立时，这些设计有助于把离散检查连接到连续执行；若条件未被覆盖，应增加节点间极值检查、加密传播或保守裕量，并报告检查区间和误差。三种方法的具体界不能相互替代。
 +
@@ -650,9 +660,13 @@
 +
 +安全退出首先可能牺牲原任务几何。健康成员转入安全螺旋构型时，能够增加与故障星的分离，却未保留原科学测量基线[70]；VISORS所引逃逸设计则优先保持分离和后续处置余量[59]。这时需要结合第4.2节的候选比较，判断返回原轨道、进入另一个任务可接受轨道或转移任务。燃料较少、终态到位较早，只有在功能和机会均可用且安排被采用时，才可能转化为较少业务损失。
 +
-+实际运控使层间等待更加具体。Starling报告中，安全模式可能导致未重新装载的后续活动丢失，高阻姿态改变相对漂移，外部避碰还会引出后续构型维持需求[83]。风险处置、活动重装载和队形维护由此形成不同工作，其主要机动仍经过地面规划、筛查及运控批准。NanoFF的导航核查、地面安排冲突和人工模型更新[9]又说明，安全或轨迹候选已有结果时，功能确认与执行窗口仍可能尚未到位。两项在轨任务支持识别等待和额外维护成本，并未在共同业务需求下量化完整恢复收益。
++实际运控使层间等待更加具体。Starling报告中，安全模式可能导致未重新装载的后续活动丢失，高阻姿态改变相对漂移，外部避碰还会引出后续构型维持需求[84]。风险处置、活动重装载和队形维护由此形成不同工作，其主要机动仍经过地面规划、筛查及运控批准。NanoFF的导航核查、地面安排冲突和人工模型更新[9]又说明，安全或轨迹候选已有结果时，功能确认与执行窗口仍可能尚未到位。两项在轨任务支持识别等待和额外维护成本，并未在共同业务需求下量化完整恢复收益。
++
++也有避碰中保留仪器业务的个案。GSOC记录2011年TanDEM-X避碰及构型再获取，并依据构型偏差判断SAR仪器运行未受影响[72]。这一判断并非逐请求产品交付统计，也没有与另一策略匹配的业务损失对照，不能据此量化联合策略的净恢复收益。
 +
 +新的轨道信息还可能使动作缩小、推迟或取消。长期避碰与随机保持模型在模拟信息更新后分段重规划[28]，说明均值与协方差变化会改变候选，但其中通过重设协方差和采样均值模拟定轨，未包含实际测量滤波。运行时应确认更新后的状态、原指令是否仍在缓存、相关节点采用哪个版本，以及新方案是否还需筛查和批准；这些信息决定能否继续执行原任务，而不只是是否重新求得一个数学可行解。
++
++评价恢复收益时，应在相同需求、初态、信息更新、安全要求、承诺与响应预算下，比较原计划复核、局部修复及扩大重规划，并采用同一评价时域。观测统计按期交付价值与未满足请求，通信统计规定时段的服务满足和中断，另报资源、协调及采用时间；模型预测结果与实际执行记录分别评价。这样才能判断收益来自更好的机会选择、较快采用还是额外资源投入，不能将不同论文的局部结果相减作为净收益。
 +
 +对于第2.3节的载荷不可用情景，可从实测轨道与功能更新候选窗口，保留已存图像交付，重新检查未执行请求、预约资源和任务归属。评价分别记录安全达到、能力确认、计划采用和业务完成的时刻及未满足需求。如果功能已恢复但窗口已错过，应改进机会或任务转移；若窗口尚在而批准或资源承诺未完成，则应检查协调与采用；若新计划已执行仍未交付，再分析下传或后续处理。这些是本文据已有局部证据提出的恢复分析方法，完整收益仍需在共同需求和扰动下验证。
  
@@ -682,11 +696,11 @@
  #### 4.5.3 轨道调整后怎样恢复可接受的业务能力
  
 -在相同故障和需求序列下，分别记录故障事实可用、恢复措施选择、措施结果、替代能力到位、任务重新分配及实际交付。库存和维护[73–75]说明资源恢复，FDIR与规划执行[56,57]说明行动和反馈，二者之间的业务接续仍需要共同场景检查。
-+在相同故障和需求序列下，分别记录故障事实可用、恢复措施选择、措施结果、替代能力到位、任务重新分配及实际交付。库存和维护[74–76]说明资源恢复，FDIR与规划执行[57,58]说明行动和反馈，二者之间的业务接续仍需要共同场景检查。
++在相同故障和需求序列下，分别记录故障事实可用、恢复措施选择、措施结果、替代能力到位、任务重新分配及实际交付。库存和维护[75–77]说明资源恢复，FDIR与规划执行[57,58]说明行动和反馈，二者之间的业务接续仍需要共同场景检查。
  
  恢复更快却未减少业务损失时，应区分原因：功能已经恢复但窗口已错过，替代卫星没有可用下传，资源尚未释放，或者新的分配尚未被采用。各阶段可能重叠，按事件记录才能判断应优先增加备份、改进恢复措施，还是改善协调与计划采用。这是将运行管理与规划算法连接的验证问题，而不是扩大到完整硬件或诊断系统设计。
  
-@@ -487,13 +512,13 @@
+@@ -487,13 +526,13 @@
  
  ## 5 结论
  
@@ -703,11 +717,11 @@
 +
 +这些认识由不同规模和环境的材料支撑：业务联合安排、任务响应重构与避碰—保持模型分别说明耦合的收益来源，Starling和NanoFF等实际任务说明采用与反馈中的具体等待和分工。各来源支持相应条件下的结论；目录筛查规模、任务分配规模和共同控制成员数应分别解释。本文的贡献在于用这些证据组织决策范围、成本和恢复结果的比较，不以同时覆盖调度与避碰主张新的总体架构。
 +
-+后续可在共同需求、动力学、信息、控制与授权条件下，比较分别处理、分层及部分联合的限时结果，并记录安全与约束残差、资源及协调成本、实际采用和未满足业务。特别需要检验机动后的机会变化何时足以触发更大范围重规划，以及各恢复阶段的等待究竟由计算、导航、资源还是批准造成。这些比较是由本文综合提出的可检验问题，尚不作为已完成的整系统实验结果。
++后续可在共同需求、动力学、信息、控制与授权条件下，比较分别处理、分层及部分联合的限时结果，并记录安全与约束残差、资源及协调成本、实际采用和未满足业务。扩大修改范围可先依据更新后的窗口、资源与依赖约束是否失效判断；选择哪一范围带来更高净业务收益，还需共同场景对照。各恢复阶段的等待也应分别追溯到计算、导航、资源和批准。这些比较是由本文综合提出的可检验问题，尚不作为已完成的整系统实验结果。
  
  ## 参考文献
  
-@@ -521,158 +546,160 @@
+@@ -521,158 +560,162 @@
  
  12. Jabbarpour MR, Vo BQ, El-Dalahmeh G, Tahir H, Kowalczyk R, Bessell T, et al. Agent-based approaches for distributed space systems and mission management: Methodologies, current practices and challenges. Acta Astronautica, 2026, 238: 237–257. DOI: 10.1016/j.actaastro.2025.10.018.
  
@@ -850,22 +864,6 @@
 -81. NASA. What is Starling?. Official mission documentation; accessed 10 October 2026. https://www.nasa.gov/smallspacecraft/what-is-starling/.
 -
 -82. NASA. NASA Starling and SpaceX Starlink Improve Space Traffic Coordination. Official mission release; accessed 10 October 2026. https://www.nasa.gov/centers-and-facilities/ames/nasa-starling-and-spacex-starlink-improve-space-traffic-coordination/.
--
--83. Hunter RC, Agasid EF, Phan S, et al. NASA’s Starling Mission and Space Situational Awareness Implications. Advanced Maui Optical and Space Surveillance Technologies Conference (AMOS), 2025. https://justin.zone/starling_amos_2025.pdf.
--
--84. Alem N, Hendriks TG, Alvarellos JL, Levinson-Muth PG, Dono A. Mission Design and Flight Dynamics Operations for the Starling Swarm Technology Demonstration. 2025 AAS/AIAA Astrodynamics Specialist Conference, 2025. NASA NTRS 20250007355. https://ntrs.nasa.gov/citations/20250007355.
--
--85. Johnston MD, Tran D, Arroyo B, Sorensen S, Tay P, Carruth B, et al. Automated Scheduling for NASA's Deep Space Network. AI Magazine, 2014, 35(4): 7–25. DOI: 10.1609/aimag.v35i4.2552.
--
--86. Planet. Tasking API. Official documentation; accessed 10 October 2026. https://docs.planet.com/develop/apis/tasking/.
--
--87. Mohan N, Ferguson AE, Cech H, Bose R, Renatin PR, Marina MK, et al. A Multifaceted Look at Starlink Performance. Proceedings of the ACM Web Conference 2024: 2723–2734. DOI: 10.1145/3589334.3645328.
--
--88. SpaceX. Starlink Collision Avoidance CONOPS. Official operational documentation; accessed 10 October 2026. https://space-safety.starlink.com/docs/space-safety-articles/starlink_cola_conops/.
--
--89. Chien SA. Formal Methods for Trusted Space Autonomy: Boon or Bane?. NASA Formal Methods, Lecture Notes in Computer Science, 2022: 3–13. DOI: 10.1007/978-3-031-06773-0_1.
--
--90. Chrszon P, Maurer P, Saleip G, Müller S, Fischer PM, Gerndt A, et al. Model checking of spacecraft operational designs: a scalability analysis. Software and Systems Modeling, 2025, 24(6): 1825–1846. DOI: 10.1007/s10270-025-01281-6.
 +13. Thangavel K, Sabatini R, Gardi A, Ranasinghe K, Hilton S, Servidia P, Spiller D. Artificial Intelligence for Trusted Autonomous Satellite Operations. Progress in Aerospace Sciences, 2024, 144: 100960. DOI: 10.1016/j.paerosci.2023.100960.
 +
 +14. Ben-Larbi MK, Flores Pozo K, Choi M, Haylok T, Grzesik B, Haas A, et al. Towards the automated operations of large distributed satellite systems. Part 2: Classifications and tools. Advances in Space Research, 2021, 67(11): 3620–3637. DOI: 10.1016/j.asr.2020.08.018.
@@ -984,42 +982,55 @@
 +
 +71. Apa R, Bhattacharjee S, Hudson J, Romano M. Optimal Multi-Client Trajectory Planning for A Low-Thrust Servicing Satellite in the Presence of Perturbations. The Journal of the Astronautical Sciences, 2025, 72(2): 7. DOI: 10.1007/s40295-025-00487-6.
 +
-+72. Basciani F, Fedeli A, Masti D, Iovino L, Serri P, Pelliccione P. A model-driven framework for supervised reconfiguration of satellite schedulers. Software and Systems Modeling, 2026. DOI: 10.1007/s10270-026-01426-1.
++72. Aida S, Kirschner M. Operational Results of Conjunction Assessment and Mitigation at German Space Operations Center. Transactions of the Japan Society for Aeronautical and Space Sciences, Aerospace Technology Japan, 2012, 10(ists28): Tr_23–Tr_28. DOI: 10.2322/tastj.10.Tr_23.
 +
-+73. Zamacola SM, Rodríguez-Osorio RM, Salas-Natera MA. Joint satellite platform and constellation sizing for instantaneous beam-hopping in 5G/6G Non-Terrestrial Networks. Computer Networks, 2025, 257: 110942. DOI: 10.1016/j.comnet.2024.110942.
++73. Basciani F, Fedeli A, Masti D, Iovino L, Serri P, Pelliccione P. A model-driven framework for supervised reconfiguration of satellite schedulers. Software and Systems Modeling, 2026. DOI: 10.1007/s10270-026-01426-1.
 +
-+74. Jakob P, Shimizu S, Yoshikawa S, Ho K. Optimal Satellite Constellation Spare Strategy Using Multi-Echelon Inventory Control. Journal of Spacecraft and Rockets, 2019, 56(5): 1449–1461. DOI: 10.2514/1.A34387.
++74. Zamacola SM, Rodríguez-Osorio RM, Salas-Natera MA. Joint satellite platform and constellation sizing for instantaneous beam-hopping in 5G/6G Non-Terrestrial Networks. Computer Networks, 2025, 257: 110942. DOI: 10.1016/j.comnet.2024.110942.
 +
-+75. Kim J, Ahn J, Sung T. Replenishment Strategy for Satellite Constellation with Dual Supply Modes. Journal of Spacecraft and Rockets, 2025, 62(5): 1567–1583. DOI: 10.2514/1.A36281.
++75. Jakob P, Shimizu S, Yoshikawa S, Ho K. Optimal Satellite Constellation Spare Strategy Using Multi-Echelon Inventory Control. Journal of Spacecraft and Rockets, 2019, 56(5): 1449–1461. DOI: 10.2514/1.A34387.
 +
-+76. Kim J, Sung T, Hwang W, Ahn J. On-Orbit Servicing-Integrated Maintenance Strategy for a Satellite Constellation. Journal of Spacecraft and Rockets, 2026: 1–18. DOI: 10.2514/1.A36684.
++76. Kim J, Ahn J, Sung T. Replenishment Strategy for Satellite Constellation with Dual Supply Modes. Journal of Spacecraft and Rockets, 2025, 62(5): 1567–1583. DOI: 10.2514/1.A36281.
 +
-+77. Lu P, Liu X. Autonomous Trajectory Planning for Rendezvous and Proximity Operations by Conic Optimization. Journal of Guidance, Control, and Dynamics, 2013, 36(2): 375–389. DOI: 10.2514/1.58436.
++77. Kim J, Sung T, Hwang W, Ahn J. On-Orbit Servicing-Integrated Maintenance Strategy for a Satellite Constellation. Journal of Spacecraft and Rockets, 2026: 1–18. DOI: 10.2514/1.A36684.
 +
-+78. Morgan D, Chung SJ, Hadaegh FY. Model Predictive Control of Swarms of Spacecraft Using Sequential Convex Programming. Journal of Guidance, Control, and Dynamics, 2014, 37(6): 1725–1740. DOI: 10.2514/1.G000218.
++78. Lu P, Liu X. Autonomous Trajectory Planning for Rendezvous and Proximity Operations by Conic Optimization. Journal of Guidance, Control, and Dynamics, 2013, 36(2): 375–389. DOI: 10.2514/1.58436.
 +
-+79. Gavilan F, Vazquez R, Camacho EF. Chance-constrained model predictive control for spacecraft rendezvous with disturbance estimation. Control Engineering Practice, 2012, 20(2): 111–122. DOI: 10.1016/j.conengprac.2011.09.006.
++79. Morgan D, Chung SJ, Hadaegh FY. Model Predictive Control of Swarms of Spacecraft Using Sequential Convex Programming. Journal of Guidance, Control, and Dynamics, 2014, 37(6): 1725–1740. DOI: 10.2514/1.G000218.
 +
-+80. Elango P, Vinod AP, Kitamura K, Acikmese B, Di Cairano S, Weiss A. Continuous-Time Successive Convexification for Passively-Safe Spacecraft Rendezvous on a Near Rectilinear Halo Orbit. AIAA SCITECH 2026 Forum, 2026. DOI: 10.2514/6.2026-2446.
++80. Gavilan F, Vazquez R, Camacho EF. Chance-constrained model predictive control for spacecraft rendezvous with disturbance estimation. Control Engineering Practice, 2012, 20(2): 111–122. DOI: 10.1016/j.conengprac.2011.09.006.
 +
-+81. Gregg Rabideau; Daniel Tran; Steve Chien; et al. Mission Operations of Earth Observing-1 with Onboard Autonomy. SMC-IT, 2006: 367–373. DOI: 10.1109/SMC-IT.2006.48.
++81. Elango P, Vinod AP, Kitamura K, Acikmese B, Di Cairano S, Weiss A. Continuous-Time Successive Convexification for Passively-Safe Spacecraft Rendezvous on a Near Rectilinear Halo Orbit. AIAA SCITECH 2026 Forum, 2026. DOI: 10.2514/6.2026-2446.
 +
-+82. Hunter RC, Agasid EF, Phan S, et al. NASA’s Starling Mission and Space Situational Awareness Implications. Advanced Maui Optical and Space Surveillance Technologies Conference (AMOS), 2025. https://justin.zone/starling_amos_2025.pdf.
++82. Gregg Rabideau; Daniel Tran; Steve Chien; et al. Mission Operations of Earth Observing-1 with Onboard Autonomy. SMC-IT, 2006: 367–373. DOI: 10.1109/SMC-IT.2006.48.
+ 
+ 83. Hunter RC, Agasid EF, Phan S, et al. NASA’s Starling Mission and Space Situational Awareness Implications. Advanced Maui Optical and Space Surveillance Technologies Conference (AMOS), 2025. https://justin.zone/starling_amos_2025.pdf.
+ 
+ 84. Alem N, Hendriks TG, Alvarellos JL, Levinson-Muth PG, Dono A. Mission Design and Flight Dynamics Operations for the Starling Swarm Technology Demonstration. 2025 AAS/AIAA Astrodynamics Specialist Conference, 2025. NASA NTRS 20250007355. https://ntrs.nasa.gov/citations/20250007355.
+ 
+-85. Johnston MD, Tran D, Arroyo B, Sorensen S, Tay P, Carruth B, et al. Automated Scheduling for NASA's Deep Space Network. AI Magazine, 2014, 35(4): 7–25. DOI: 10.1609/aimag.v35i4.2552.
+-
+-86. Planet. Tasking API. Official documentation; accessed 10 October 2026. https://docs.planet.com/develop/apis/tasking/.
+-
+-87. Mohan N, Ferguson AE, Cech H, Bose R, Renatin PR, Marina MK, et al. A Multifaceted Look at Starlink Performance. Proceedings of the ACM Web Conference 2024: 2723–2734. DOI: 10.1145/3589334.3645328.
+-
+-88. SpaceX. Starlink Collision Avoidance CONOPS. Official operational documentation; accessed 10 October 2026. https://space-safety.starlink.com/docs/space-safety-articles/starlink_cola_conops/.
+-
+-89. Chien SA. Formal Methods for Trusted Space Autonomy: Boon or Bane?. NASA Formal Methods, Lecture Notes in Computer Science, 2022: 3–13. DOI: 10.1007/978-3-031-06773-0_1.
+-
+-90. Chrszon P, Maurer P, Saleip G, Müller S, Fischer PM, Gerndt A, et al. Model checking of spacecraft operational designs: a scalability analysis. Software and Systems Modeling, 2025, 24(6): 1825–1846. DOI: 10.1007/s10270-025-01281-6.
++85. NASA. What is Starling?. Official mission documentation; accessed 10 October 2026. https://www.nasa.gov/smallspacecraft/what-is-starling/.
 +
-+83. Alem N, Hendriks TG, Alvarellos JL, Levinson-Muth PG, Dono A. Mission Design and Flight Dynamics Operations for the Starling Swarm Technology Demonstration. 2025 AAS/AIAA Astrodynamics Specialist Conference, 2025. NASA NTRS 20250007355. https://ntrs.nasa.gov/citations/20250007355.
++86. NASA. NASA Starling and SpaceX Starlink Improve Space Traffic Coordination. Official mission release; accessed 10 October 2026. https://www.nasa.gov/centers-and-facilities/ames/nasa-starling-and-spacex-starlink-improve-space-traffic-coordination/.
 +
-+84. NASA. What is Starling?. Official mission documentation; accessed 10 October 2026. https://www.nasa.gov/smallspacecraft/what-is-starling/.
++87. Johnston MD, Tran D, Arroyo B, Sorensen S, Tay P, Carruth B, et al. Automated Scheduling for NASA's Deep Space Network. AI Magazine, 2014, 35(4): 7–25. DOI: 10.1609/aimag.v35i4.2552.
 +
-+85. NASA. NASA Starling and SpaceX Starlink Improve Space Traffic Coordination. Official mission release; accessed 10 October 2026. https://www.nasa.gov/centers-and-facilities/ames/nasa-starling-and-spacex-starlink-improve-space-traffic-coordination/.
++88. Planet. Tasking API. Official documentation; accessed 10 October 2026. https://docs.planet.com/develop/apis/tasking/.
 +
-+86. Johnston MD, Tran D, Arroyo B, Sorensen S, Tay P, Carruth B, et al. Automated Scheduling for NASA's Deep Space Network. AI Magazine, 2014, 35(4): 7–25. DOI: 10.1609/aimag.v35i4.2552.
++89. Mohan N, Ferguson AE, Cech H, Bose R, Renatin PR, Marina MK, et al. A Multifaceted Look at Starlink Performance. Proceedings of the ACM Web Conference 2024: 2723–2734. DOI: 10.1145/3589334.3645328.
 +
-+87. Planet. Tasking API. Official documentation; accessed 10 October 2026. https://docs.planet.com/develop/apis/tasking/.
++90. SpaceX. Starlink Collision Avoidance CONOPS. Official operational documentation; accessed 10 October 2026. https://space-safety.starlink.com/docs/space-safety-articles/starlink_cola_conops/.
 +
-+88. Mohan N, Ferguson AE, Cech H, Bose R, Renatin PR, Marina MK, et al. A Multifaceted Look at Starlink Performance. Proceedings of the ACM Web Conference 2024: 2723–2734. DOI: 10.1145/3589334.3645328.
++91. Chien SA. Formal Methods for Trusted Space Autonomy: Boon or Bane?. NASA Formal Methods, Lecture Notes in Computer Science, 2022: 3–13. DOI: 10.1007/978-3-031-06773-0_1.
 +
-+89. SpaceX. Starlink Collision Avoidance CONOPS. Official operational documentation; accessed 10 October 2026. https://space-safety.starlink.com/docs/space-safety-articles/starlink_cola_conops/.
-+
-+90. Chien SA. Formal Methods for Trusted Space Autonomy: Boon or Bane?. NASA Formal Methods, Lecture Notes in Computer Science, 2022: 3–13. DOI: 10.1007/978-3-031-06773-0_1.
-+
-+91. Chrszon P, Maurer P, Saleip G, Müller S, Fischer PM, Gerndt A, et al. Model checking of spacecraft operational designs: a scalability analysis. Software and Systems Modeling, 2025, 24(6): 1825–1846. DOI: 10.1007/s10270-025-01281-6.
++92. Chrszon P, Maurer P, Saleip G, Müller S, Fischer PM, Gerndt A, et al. Model checking of spacecraft operational designs: a scalability analysis. Software and Systems Modeling, 2025, 24(6): 1825–1846. DOI: 10.1007/s10270-025-01281-6.

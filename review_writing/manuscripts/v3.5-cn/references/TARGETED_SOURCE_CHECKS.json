@@ -73,7 +73,7 @@
       "actual_version": "Author institutional publication page: abstract and bibliographic metadata only, accessed 2026-10-22; IEEE full text not obtained",
       "actual_source_url": "https://scholars.ln.edu.hk/en/publications/evolutionary-computation-in-satellite-system-optimization-for-dep/",
       "version_record_path": "review_writing/manuscripts/v3.5-cn/references/TARGETED_SOURCE_CHECKS.json",
-      "this_revision_action": "Opened author institutional abstract/metadata; bounded exact-title and arXiv/author-copy discovery",
+      "this_revision_action": "Extended official OA metadata, DOI-linked PDF, discovery API and browser checks; body still not obtained",
       "locators": [
         "Institutional page Abstract; authors; DOI; ahead-of-print date"
       ],
@@ -182,9 +182,10 @@
       "actual_version": "40-page author preprint uploaded 2025-07-11; title uses Maneuvers plural; paired formal DOI1.A36075 has Maneuver singular, 2026 volume63(1):203–217; formal text not compared",
       "actual_source_url": "https://www.researchgate.net/profile/Andrea_De_Vittori2/publication/393614728_Combined_Collision_Avoidance_and_Station-Keeping_Maneuvers_Optimization_by_Collision_Probability_Inversion/links/687149736e247f362b18b710/Combined-Collision-Avoidance-and-Station-Keeping-Maneuvers-Optimization-by-Collision-Probability-Inversion.pdf",
       "version_record_path": "review_writing/evidence/reading_batches/B20_20261021/SOURCE_MANIFEST_B20.json",
-      "this_revision_action": "Rechecked saved PDF text and web-accessible author-PDF text; bounded visual and formal-copy attempts",
+      "this_revision_action": "Follow-up checked author-text inclination-vector definitions and Fig.16b/24b coordinate labels; no inspectable web screenshot pixels or formal VOR obtained",
       "locators": [
-        "Author PDF p.5 Eq.(1), pp.17-18 Eq.(56)-(60), p.30 Fig.16 explanation, p.35 Fig.24 explanation, p.36 Fig.24 location"
+        "Author PDF p.5 Eq.(1), pp.17-18 Eq.(56)-(60), p.30 Fig.16 explanation, p.35 Fig.24 explanation, p.36 Fig.24 location",
+        "Physical p.9 definitions of i_x/i_y; p.30/36 coordinate labels; plot caption terminology not equated with latitude-time data"
       ],
       "human_verified": false,
       "local_text_capture": "D:\\SKT727\\materials\\constellation_review_B20_20261021\\L042_web_lines.json",
@@ -213,5 +214,7 @@
         }
       ]
     }
-  ]
+  ],
+  "followup_123_record": "review_writing/manuscripts/v3.5-cn/audit/FOLLOWUP_123_SOURCE_CHECKS.json",
+  "followup_new_targeted_primary_papers": 1
 }

@@ -2,15 +2,22 @@
   "status": "PASS",
   "scope": "Structure, citation identity/order, explicit evidence-access states, and baseline preservation only; not semantic or submission certification",
   "baseline_commit": "a019b7861032468ae1a00cc9e32e70d47b276cdc",
+  "followup_base_commit": "6c073473cce686388af756c04c913e6502ebea2b",
   "branch": "writing/constellation-review-v3-5-science-refinement-20261022",
   "main_tracking_ref_before_revision": "4cfaff732d7d68adeecf137d9a6f2a12d12cb2c0",
   "chapters": 5,
   "tables": 8,
   "inherited_figures": 4,
-  "references": 91,
-  "body_han_characters": 24842,
-  "new_unique_full_text_reading_credit": 0,
+  "references": 92,
+  "body_han_characters": 25525,
+  "initial_v35_new_unique_full_text_reading_credit": 0,
+  "followup_new_targeted_body_reading_records": 1,
   "new_experiments": 0,
+  "followup_issue_statuses": {
+    "1": "FULL_TEXT_ACCESS_UNRESOLVED",
+    "2": "INTERPRETATION_CLARIFIED_FORMAL_PAIR_AND_PIXEL_REVIEW_OPEN",
+    "3": "FEASIBILITY_CRITERION_AND_OPERATIONAL_EVIDENCE_ADDED_MATCHED_NET_GAIN_OPEN"
+  },
   "human_verified": false,
   "submission_ready": false,
   "checks": {
@@ -20,15 +27,17 @@
     "mechanisms_3_1_to_3_3_identical_after_citation_normalization": true,
     "eight_tables_preserved": true,
     "four_baseline_figure_bytes_preserved": true,
+    "four_initial_v35_figure_bytes_preserved": true,
     "p0_subsections_present": true,
     "bibliography_matches_current_register": true,
     "citation_coverage_and_first_appearance_order": true,
     "stable_ids_unique_and_baseline_90_retained": true,
-    "only_one_necessary_new_reference": true,
+    "two_scoped_reference_additions_since_v34": true,
     "retained_bibliographic_identity_unchanged": true,
     "actual_versions_or_explicit_unresolved_states": true,
     "version_record_paths_resolve": true,
     "limited_source_access_states_retained": true,
+    "followup_evidence_limits_and_fixed_base_explicit": true,
     "figure4_replacement_status_explicit": true,
     "human_and_submission_status_false": true,
     "baseline_v34_not_modified": true,
@@ -45,5 +54,5 @@
     "E018"
   ],
   "unresolved_scientific_issues": "See EVIDENCE_AND_OPEN_ITEMS_CN.md; no blanket version closure",
-  "manuscript_sha256": "30bd533578cd5211ea75ad9883534b82a5aa715c0aa773761f116c5a05b78623"
+  "manuscript_sha256": "14e1b0d69f4e9fd46b785d40a0e6039f7b21477d005416d3dfc3aa05b708cbf9"
 }
