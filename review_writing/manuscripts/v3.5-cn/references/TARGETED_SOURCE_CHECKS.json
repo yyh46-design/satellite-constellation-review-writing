@@ -1,0 +1,217 @@
+{
+  "date": "2026-10-22",
+  "baseline_commit": "a019b7861032468ae1a00cc9e32e70d47b276cdc",
+  "scope": "Targeted source and figure checks only; prior evidence reused; no whole-library rereading",
+  "new_bibliography_items": 1,
+  "new_unique_full_text_reading_credit": 0,
+  "human_verified": false,
+  "submission_ready": false,
+  "sources": [
+    {
+      "stable_id": "E004",
+      "current_number": 11,
+      "actual_version": "author_manuscript_HEC; HEC作者公开40页稿，文件夹2024/02不证明稿件日期或与终刊等同。",
+      "actual_source_url": "https://chairelogistique.hec.ca/wp-content/uploads/2024/02/Survey_on_observation_scheduling.pdf",
+      "version_record_path": "review_writing/evidence/reading_batches/B05_20261016/SOURCE_MANIFEST_B05.json",
+      "this_revision_action": "Reused B05 targeted source-scope records",
+      "locators": [
+        "B05-004-C01/C03/C05; author PDF pp.4,6,19-24,28"
+      ],
+      "human_verified": false
+    },
+    {
+      "stable_id": "E005",
+      "current_number": 12,
+      "actual_version": "publisher_VOR_OA_institutional_repository; Acta Astronautica238(2026):237–257正式排版，21物理页，2025-10-14在线；阿德莱德大学仓储公开副本。",
+      "actual_source_url": "https://digital.library.adelaide.edu.au/server/api/core/bitstreams/482432e4-b0a1-48de-aefb-979a0fc69ca5/content",
+      "version_record_path": "review_writing/evidence/reading_batches/B04_20261015/SOURCE_MANIFEST_B04.json",
+      "this_revision_action": "Reused B04 targeted scope and organization records",
+      "locators": [
+        "B04-005-C01/C05; publisher-layout PDF pp.2,6-7,15-19"
+      ],
+      "human_verified": false
+    },
+    {
+      "stable_id": "E105",
+      "current_number": 13,
+      "actual_version": "author_shared_public_HTML_typeset_style; HTML呈PAS144(2024)100960排版痕迹；未得PDF，未证版本逐项等同。",
+      "actual_source_url": "https://www.researchgate.net/publication/376833751_Artificial_Intelligence_for_Trusted_Autonomous_Satellite_Operations",
+      "version_record_path": "review_writing/evidence/reading_batches/B05_20261016/SOURCE_MANIFEST_B05.json",
+      "this_revision_action": "Reused B05 targeted public HTML records",
+      "locators": [
+        "B05-105-C01-C03; HTML L311-412,L3261-3391"
+      ],
+      "human_verified": false
+    },
+    {
+      "stable_id": "E009",
+      "current_number": 16,
+      "actual_version": "UPC机构仓储提供的MDPI出版社排版PDF（41页）；本轮不以获取或版式代替人工终核",
+      "actual_source_url": "https://upcommons.upc.edu/server/api/core/bitstreams/58ce59c0-e22b-4971-a786-e57c8773f919/content",
+      "version_record_path": "review_writing/manuscripts/v2.3-cn/TARGETED_RECHECK_20261017.json",
+      "this_revision_action": "Consulted Round1 evidence and existing publisher PDF scope passages",
+      "locators": [
+        "R1-009-01 to 05; PDF pp.16-25,32-33; current selected scope extraction pp.1-8"
+      ],
+      "human_verified": false
+    },
+    {
+      "stable_id": "E086",
+      "current_number": 15,
+      "actual_version": "author_preprint_arxiv_2503.22555v1_2025-03-28",
+      "actual_source_url": "https://arxiv.org/pdf/2503.22555",
+      "version_record_path": "review_writing/evidence/reading_batches/B07_20261016/SOURCE_MANIFEST_B07.json",
+      "this_revision_action": "Reused B07 and V3.4 author-preprint scope records",
+      "locators": [
+        "B07-086-C01-C04; arXiv v1 pp.8-9,12,16"
+      ],
+      "human_verified": false
+    },
+    {
+      "stable_id": "E-EC-SSO-2026",
+      "current_number": 17,
+      "actual_version": "Author institutional publication page: abstract and bibliographic metadata only, accessed 2026-10-22; IEEE full text not obtained",
+      "actual_source_url": "https://scholars.ln.edu.hk/en/publications/evolutionary-computation-in-satellite-system-optimization-for-dep/",
+      "version_record_path": "review_writing/manuscripts/v3.5-cn/references/TARGETED_SOURCE_CHECKS.json",
+      "this_revision_action": "Opened author institutional abstract/metadata; bounded exact-title and arXiv/author-copy discovery",
+      "locators": [
+        "Institutional page Abstract; authors; DOI; ahead-of-print date"
+      ],
+      "human_verified": false,
+      "doi": "10.1109/TSMC.2026.3729751",
+      "observed_scope": [
+        "constellation design",
+        "constellation reconfiguration",
+        "task scheduling",
+        "tracking, telemetry, and command scheduling"
+      ],
+      "full_text_obtained": false,
+      "full_text_close_reading_complete": false,
+      "joint_optimization_depth": "NOT_DETERMINED_FROM_ABSTRACT",
+      "access_outcomes": [
+        {
+          "url": "https://doi.org/10.1109/TSMC.2026.3729751",
+          "result": "web tool inaccessible"
+        },
+        {
+          "url": "https://ieeexplore.ieee.org/document/11716733",
+          "result": "JavaScript/robot-verification page; no article body"
+        },
+        {
+          "route": "bounded exact-title and arXiv/author-copy discovery",
+          "result": "no usable full-text copy found; stopped"
+        }
+      ],
+      "adopted_claim": "Only the explicitly listed review scope; no assertion that the review lacks joint optimization",
+      "manuscript_sections": [
+        "1.2",
+        "Table 1"
+      ],
+      "new_unique_full_text_reading_credit": 0
+    },
+    {
+      "stable_id": "E042",
+      "current_number": 26,
+      "actual_version": "University of Toronto作者公开稿（15页）；正式出版版差异未关闭",
+      "actual_source_url": "https://www.comm.utoronto.ca/~liang/publications/TMC_ObsTrans_ASN.pdf",
+      "version_record_path": "review_writing/manuscripts/v2.3-cn/TARGETED_RECHECK_20261017.json",
+      "this_revision_action": "Reopened existing original PDF text and visually checked page 13",
+      "locators": [
+        "Author PDF pp.12-13; Fig.6"
+      ],
+      "human_verified": false,
+      "local_pdf": "D:\\SKT727\\materials\\constellation_review_B00_20261014\\042_utoronto_author.pdf",
+      "visual_pages_this_revision": [
+        13
+      ],
+      "axes": {
+        "x": "Deadline (hours), linear",
+        "y": "Weighted sum of scheduled tasks, linear, dimensionless weighted sum"
+      },
+      "formal_version_pairing_closed_by_this_revision": false,
+      "local_pdf_sha256": "e1db3270d5e8487b7ce6c88ae1baec1463508f7e7ec3532806a06c271dee9ab1"
+    },
+    {
+      "stable_id": "E106",
+      "current_number": 20,
+      "actual_version": "Strathprints机构仓储的出版社排版PDF（13页，Ad Hoc Networks 151, 103289）；本轮以该文件核对",
+      "actual_source_url": "https://strathprints.strath.ac.uk/86667/7/Lowe_etal_AHN_2023_A_delay_tolerant_network_approach_to_satellite_pickup_and_delivery_scheduling.pdf",
+      "version_record_path": "review_writing/manuscripts/v2.3-cn/TARGETED_RECHECK_20261017.json",
+      "this_revision_action": "Reopened existing publisher PDF text and visually checked pages 10-11",
+      "locators": [
+        "PDF pp.7-8,10-11; section5.4; Figs.6h/7h"
+      ],
+      "human_verified": false,
+      "local_pdf": "D:\\SKT727\\materials\\constellation_review_v2_3_20261017\\source_106.pdf",
+      "visual_pages_this_revision": [
+        10,
+        11
+      ],
+      "axes": {
+        "x": "Request submission load (RSL), dimensionless, linear",
+        "y": "Req. failed x1000, failed-request count, linear"
+      },
+      "comparison_condition": "nominal contacts vs reliability 0.7; MSR preference plus CGR fallback; workload and denominator must remain explicit",
+      "local_pdf_sha256": "121eb23d16d69eaeaafbca36ce20fa6504600a118db8234e2dbcdceb9f96140d"
+    },
+    {
+      "stable_id": "E121",
+      "current_number": 21,
+      "actual_version": "arXiv v1完整作者预印本（17页）；正式出版版差异未关闭",
+      "actual_source_url": "https://arxiv.org/pdf/2406.01953v1",
+      "version_record_path": "review_writing/manuscripts/v2.3-cn/TARGETED_RECHECK_20261017.json",
+      "this_revision_action": "Reopened arXiv v1 text and visually checked page 11; inherited NRC local four-page comparison",
+      "locators": [
+        "arXiv v1 PDF pp.10-11; Fig.3"
+      ],
+      "human_verified": false,
+      "local_pdf": "D:\\SKT727\\materials\\constellation_review_B00_20261014\\121_arxiv_v1_complete.pdf",
+      "visual_pages_this_revision": [
+        11
+      ],
+      "axes": {
+        "x": "LISL setup delay eta_s (ms), main log axis",
+        "y": "Average end-to-end latency eta_LE (ms), main log axis"
+      },
+      "formal_version_pairing_closed_by_this_revision": false,
+      "local_pdf_sha256": "9c64779192379dc60f8ff79b896ca429b0b63f4f78e2792576729f0226ce032e"
+    },
+    {
+      "stable_id": "E-B20-L042",
+      "current_number": 68,
+      "actual_version": "40-page author preprint uploaded 2025-07-11; title uses Maneuvers plural; paired formal DOI1.A36075 has Maneuver singular, 2026 volume63(1):203–217; formal text not compared",
+      "actual_source_url": "https://www.researchgate.net/profile/Andrea_De_Vittori2/publication/393614728_Combined_Collision_Avoidance_and_Station-Keeping_Maneuvers_Optimization_by_Collision_Probability_Inversion/links/687149736e247f362b18b710/Combined-Collision-Avoidance-and-Station-Keeping-Maneuvers-Optimization-by-Collision-Probability-Inversion.pdf",
+      "version_record_path": "review_writing/evidence/reading_batches/B20_20261021/SOURCE_MANIFEST_B20.json",
+      "this_revision_action": "Rechecked saved PDF text and web-accessible author-PDF text; bounded visual and formal-copy attempts",
+      "locators": [
+        "Author PDF p.5 Eq.(1), pp.17-18 Eq.(56)-(60), p.30 Fig.16 explanation, p.35 Fig.24 explanation, p.36 Fig.24 location"
+      ],
+      "human_verified": false,
+      "local_text_capture": "D:\\SKT727\\materials\\constellation_review_B20_20261021\\L042_web_lines.json",
+      "capture_kind": "PDF text capture; not original PDF bytes",
+      "pdf_bytes_acquired_this_revision": false,
+      "figure_visual_completed_this_revision": false,
+      "formal_version_pairing_closed_by_this_revision": false,
+      "constrained_objects": "Initial state, terminal state, conjunction-time probability condition; no explicit full-path latitude/longitude box in the displayed analytical OCP",
+      "interpretation": "Departure from desired path range, not evidence of violation of an enforced hard path box; not the same formulation as adding a soft slack",
+      "access_outcomes": [
+        {
+          "route": "ResearchGate direct PDF download",
+          "result": "HTTP403"
+        },
+        {
+          "route": "web screenshot tools",
+          "result": "no inspectable figure images obtained in this revision"
+        },
+        {
+          "url": "https://arc.aiaa.org/doi/10.2514/1.A36075",
+          "result": "HTTP403"
+        },
+        {
+          "route": "bounded exact-title institutional search",
+          "result": "formal full text not found; stopped"
+        }
+      ]
+    }
+  ]
+}
