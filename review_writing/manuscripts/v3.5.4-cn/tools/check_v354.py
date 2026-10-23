@@ -9,7 +9,7 @@ BASE_DIR='review_writing/manuscripts/v3.5.3-cn'
 PREFIX='review_writing/manuscripts/v3.5.4-cn/'
 BRANCH='writing/constellation-review-v354-literature-synthesis-20261023'
 
-def git(*args):return subprocess.check_output(['git',*args],cwd=ROOT).decode('utf-8').strip()
+def git(*args):return subprocess.check_output(['git',*args],cwd=ROOT).decode('utf-8').rstrip('\r\n')
 def oldfile(name):return subprocess.check_output(['git','show',f'{BASE}:{BASE_DIR}/{name}'],cwd=ROOT)
 def rows(path):return list(csv.DictReader(path.open(encoding='utf-8-sig')))
 pattern=re.compile(r'\[(\d+(?:[–—-]\d+)?(?:,\d+(?:[–—-]\d+)?)*)\]')

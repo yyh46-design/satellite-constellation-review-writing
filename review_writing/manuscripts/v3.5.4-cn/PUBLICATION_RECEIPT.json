@@ -1,6 +1,53 @@
 {
-  "status": "PENDING_ACTUAL_PUSH_AND_REMOTE_CHECK",
-  "scope": "This placeholder will be replaced only after the content commit is pushed and independently fetched.",
+  "status": "CONTENT_PUSH_AND_INDEPENDENT_REMOTE_CHECK_PASSED",
+  "as_of": "2026-10-23 Asia/Shanghai",
+  "repository": "https://github.com/yyh46-design/satellite-constellation-review-writing",
+  "branch": "writing/constellation-review-v354-literature-synthesis-20261023",
+  "content_commit": "1de8bf2a64650deaaf301378625cb407d9e5c9d6",
+  "content_tree": "195af3f18d9432855ffbd41b99743c2d4d52f04d",
+  "independently_fetched_commit": "1de8bf2a64650deaaf301378625cb407d9e5c9d6",
+  "independently_fetched_tree": "195af3f18d9432855ffbd41b99743c2d4d52f04d",
+  "baseline_commit": "b21a9ebe964b07d5c5986730c93b811fadfe1803",
+  "protected_remote_refs_observed_after_content_push": {
+    "main": "4cfaff732d7d68adeecf137d9a6f2a12d12cb2c0",
+    "writing/constellation-review-v353-full-style-20261022": "b21a9ebe964b07d5c5986730c93b811fadfe1803"
+  },
+  "critical_file_readbacks": [
+    {
+      "path": "review_writing/manuscripts/v3.5.4-cn/REVIEW_CN_v3.5.4.md",
+      "git_blob": "fdbf84eeecbd06ae2f0da3f9f06fd28a6b8ea406",
+      "sha256": "6eebe856a9e6811f4dc7d3f4d05d37266df78d2e1e7c850fa93445e90d5e58fd",
+      "bytes": 126185,
+      "remote_bytes_equal_local": true
+    },
+    {
+      "path": "review_writing/manuscripts/v3.5.4-cn/references/REFERENCE_REGISTER_v3.5.4.csv",
+      "git_blob": "a8e504d629e27ac5cdc9c83ccc4ead891af83760",
+      "sha256": "c783f8c6a8bc18520d6813667e1d88056c529451adaa7f5660fe1775e69648cc",
+      "bytes": 98950,
+      "remote_bytes_equal_local": true
+    },
+    {
+      "path": "review_writing/manuscripts/v3.5.4-cn/references/SOURCE_INTEGRATION_v3.5.4.csv",
+      "git_blob": "8f75b764cdb2657a79bed1a63f1038dbd157964d",
+      "sha256": "580444d501bae6c695fbd65cf05d0368aaa4eae992c94da8484e35b37348cb8b",
+      "bytes": 22942,
+      "remote_bytes_equal_local": true
+    },
+    {
+      "path": "review_writing/manuscripts/v3.5.4-cn/VALIDATION_REPORT.json",
+      "git_blob": "0f37326ff747585f18968e926d8081678215c5e4",
+      "sha256": "88c1a5ba0d53f99ed7cc894732552ff46781fc00fdc446bee60d8c552e3dfded",
+      "bytes": 2240,
+      "remote_bytes_equal_local": true
+    }
+  ],
+  "references_before": 94,
+  "references_after": 120,
+  "references_added": 26,
+  "references_removed": 0,
+  "new_unique_full_text_readings": 0,
   "human_verified": false,
-  "submission_ready": false
+  "submission_ready": false,
+  "receipt_scope": "Locks the content commit verified above. A later bookkeeping commit records this receipt and fixes leading-space handling in the local-only checker. The manuscript, source registers and scientific records remain identical to the content commit; the final commit/tree are checked separately and reported at handoff."
 }
