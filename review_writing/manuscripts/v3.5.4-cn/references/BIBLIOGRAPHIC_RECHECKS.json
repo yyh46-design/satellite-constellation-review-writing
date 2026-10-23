@@ -1,0 +1,27 @@
+{
+  "as_of": "2026-10-23 Asia/Shanghai",
+  "stable_id": "E-B13-S004",
+  "metadata_url": "https://api.crossref.org/works/10.1007/978-981-15-8155-7_307",
+  "source_snapshot_sha256": "e4369dca11253edd2ad7ec702dcbdab62423886ac89d5d9068825ef25fe1ab4a",
+  "title": [
+    "Connectivity Preservation and Collision Avoidance Control for Spacecraft Formation Flying with Bounded Actuation"
+  ],
+  "container_titles": [
+    "Lecture Notes in Electrical Engineering",
+    "Advances in Guidance, Navigation and Control"
+  ],
+  "type": "book-chapter",
+  "page": "3685-3697",
+  "published_online_metadata": {
+    "date-parts": [
+      [
+        2021,
+        10,
+        30
+      ]
+    ]
+  },
+  "printed_copyright_year_in_existing_PDF": 2022,
+  "scope": "Chapter/book identity only; not a new scientific or formal-version verification",
+  "human_verified": false
+}
