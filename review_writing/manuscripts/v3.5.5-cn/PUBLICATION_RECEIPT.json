@@ -1,0 +1,87 @@
+{
+  "status": "CONTENT_PUSH_AND_INDEPENDENT_REMOTE_CHECK_PASSED",
+  "verified_at_utc": "2026-10-23T09:53:18.176484+00:00",
+  "repository": "https://github.com/yyh46-design/satellite-constellation-review-writing",
+  "branch": "writing/constellation-review-v355-conditional-synthesis-20261023",
+  "content_commit": "bc410ae807d2390bef0c6c9869f51860c8616bea",
+  "content_tree": "b6baa24b7f2513c1b389504bc35a7a67e8f064ef",
+  "independently_fetched_commit": "bc410ae807d2390bef0c6c9869f51860c8616bea",
+  "independently_fetched_tree": "b6baa24b7f2513c1b389504bc35a7a67e8f064ef",
+  "baseline_commit": "fc97c754d21fabc1357da0f5c97e9c2ba7249cd3",
+  "protected_remote_refs_observed_after_content_push": {
+    "refs/heads/main": "4cfaff732d7d68adeecf137d9a6f2a12d12cb2c0",
+    "refs/heads/writing/constellation-management-review-20261009": "de1291575bf4e28d7c404e3c7b78c49f64079deb",
+    "refs/heads/writing/constellation-review-v354-literature-synthesis-20261023": "fc97c754d21fabc1357da0f5c97e9c2ba7249cd3"
+  },
+  "critical_file_readbacks": [
+    {
+      "path": "review_writing/manuscripts/v3.5.5-cn/REVIEW_CN_v3.5.5.md",
+      "bytes": 119947,
+      "sha256": "0563db7cd7c8485de473c7411d2e4e84467fdc44861e7f676bcca053609cda10",
+      "git_blob": "c750f8e0ea062f7f6917fd6274460ca4faab48e3",
+      "remote_bytes_equal_local": true
+    },
+    {
+      "path": "review_writing/manuscripts/v3.5.5-cn/SCIENTIFIC_REVISION_CN.md",
+      "bytes": 5764,
+      "sha256": "6f1e2cc5c44026d682d3a2702a587c5f15ae20ef70a2768bcef305e6cd2bc730",
+      "git_blob": "e259579cada5ec09235a611354f404ccf9728765",
+      "remote_bytes_equal_local": true
+    },
+    {
+      "path": "review_writing/manuscripts/v3.5.5-cn/REVISION_RESPONSE_CN.md",
+      "bytes": 2586,
+      "sha256": "7adc09b68ee3c388ae124fdead45765cf6305b64f16c08f0ca57484c6eaadabc",
+      "git_blob": "2af77797492680111964db84566267e78c6c93b7",
+      "remote_bytes_equal_local": true
+    },
+    {
+      "path": "review_writing/manuscripts/v3.5.5-cn/README_CN.md",
+      "bytes": 1776,
+      "sha256": "30d066fe577be638f52c0bb1f71d78ed294be11ff825f1a766d372f4dde1f946",
+      "git_blob": "6efbc830eff1630e8b3127b4e453adefb3f93c6c",
+      "remote_bytes_equal_local": true
+    },
+    {
+      "path": "review_writing/manuscripts/v3.5.5-cn/VALIDATION_REPORT.json",
+      "bytes": 2876,
+      "sha256": "f092772bf631ca5adb1364c2036582a51da0b88e71f96947478189f1ded8cb4d",
+      "git_blob": "eade178a4c8a5b4a48b9bb3866ecde38c0fb31cf",
+      "remote_bytes_equal_local": true
+    },
+    {
+      "path": "review_writing/manuscripts/v3.5.5-cn/references/REFERENCE_REGISTER_v3.5.5.csv",
+      "bytes": 104875,
+      "sha256": "edd5794bdf80b91cc721ed0b2469428e48ff96b06986e10fb24c00ea6761b93e",
+      "git_blob": "6801471c09d9992d60bbefb4a8931d7f245b5fa3",
+      "remote_bytes_equal_local": true
+    },
+    {
+      "path": "review_writing/manuscripts/v3.5.5-cn/references/CITATION_LOCATIONS_v3.5.5.csv",
+      "bytes": 13295,
+      "sha256": "f0bf9dd3de304ff395f0fe87ffda73052312796951871d795490292580fde0af",
+      "git_blob": "8d191248e0745b4889d7fe3749fc2d0056cbee66",
+      "remote_bytes_equal_local": true
+    },
+    {
+      "path": "review_writing/manuscripts/v3.5.5-cn/references/SYNTHESIS_EVIDENCE_v3.5.5.csv",
+      "bytes": 7924,
+      "sha256": "7c94098c800ddc02b31ba2847c7480cbd70476592d6a3a7e5245ab0d9e3bb268",
+      "git_blob": "a14eb529b9bd5986549b89debc1d8c44245ab009",
+      "remote_bytes_equal_local": true
+    },
+    {
+      "path": "review_writing/manuscripts/v3.5.5-cn/references/SOURCE_INTEGRATION_v3.5.5.csv",
+      "bytes": 25712,
+      "sha256": "26b008488c2d7c2b381f1aac1577714978b9601c16bb8da44b402daa075855f0",
+      "git_blob": "5e09f0c985e3db92754ec873ad1ed1993a1377cd",
+      "remote_bytes_equal_local": true
+    }
+  ],
+  "validation_checks": 24,
+  "human_verified": false,
+  "submission_ready": false,
+  "new_unique_full_text_readings": 0,
+  "new_experiments": 0,
+  "note": "This receipt covers the content commit. A subsequent receipt-only commit may change HEAD and tree while retaining all verified content blobs. It is not author scientific approval."
+}
