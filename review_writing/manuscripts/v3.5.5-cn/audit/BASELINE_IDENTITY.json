@@ -1,0 +1,10 @@
+{
+  "baseline_commit": "fc97c754d21fabc1357da0f5c97e9c2ba7249cd3",
+  "baseline_tree": "a8dffe02b81fad582dcca518bf7307d94dc2daec",
+  "branch": "writing/constellation-review-v355-conditional-synthesis-20261023",
+  "protected_refs": [
+    "refs/heads/writing/constellation-management-review-20261009 de1291575bf4e28d7c404e3c7b78c49f64079deb",
+    "refs/heads/writing/constellation-review-v354-literature-synthesis-20261023 fc97c754d21fabc1357da0f5c97e9c2ba7249cd3",
+    "refs/remotes/origin/main 4cfaff732d7d68adeecf137d9a6f2a12d12cb2c0"
+  ]
+}
