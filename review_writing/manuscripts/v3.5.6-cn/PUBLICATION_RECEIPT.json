@@ -1,0 +1,53 @@
+{
+  "status": "PASS",
+  "verified_at_utc": "2026-10-24T10:37:25.121125+00:00",
+  "repository": "https://github.com/yyh46-design/satellite-constellation-review-writing",
+  "branch": "writing/constellation-review-v356-comparative-evidence-20261024",
+  "verified_content_commit": "923433d1c31ca481e56a4ac4c53f260c63f21ec9",
+  "verified_content_tree": "88b02413247e23aeeb23bb54f92b4acd1a0c30b0",
+  "baseline_commit": "8d4cc6ee784cbf455453f5ded05ce88623332538",
+  "remote_ref_matches_local": true,
+  "remote_github_commit_tree_matches_local": true,
+  "all_version_file_blobs_match_remote_tree": true,
+  "version_file_count": 23,
+  "version_file_blobs": {
+    "review_writing/manuscripts/v3.5.6-cn/.gitattributes": "a8da807a4c96489d49ea45dce76e8e9141a1fab1",
+    "review_writing/manuscripts/v3.5.6-cn/README_CN.md": "561ac076ddfdb676451f41686004f3b0734be66b",
+    "review_writing/manuscripts/v3.5.6-cn/REFERENCE_INTEGRATION_CN.md": "8eb4875237b519d3d47684bc8f433da541dea0da",
+    "review_writing/manuscripts/v3.5.6-cn/REVIEW_CN_v3.5.6.md": "6d7aff2f142184a387a3400618c0be634a3bf5f7",
+    "review_writing/manuscripts/v3.5.6-cn/REVISION_RESPONSE_CN.md": "defb28e67a8c30cc4067b1475d45fdcb88a01839",
+    "review_writing/manuscripts/v3.5.6-cn/SCIENTIFIC_REVISION_CN.md": "1b85a9bdd458d2fcdd1d2168f5a9e344002f4e63",
+    "review_writing/manuscripts/v3.5.6-cn/VALIDATION_REPORT.json": "b7e06aef8ba42f8751fcbab18d034742597f7f5e",
+    "review_writing/manuscripts/v3.5.6-cn/assets/fig1_service_framework_ai_v2.png": "12a9bf40956381e866289aef8cf67cadf0912f5a",
+    "review_writing/manuscripts/v3.5.6-cn/assets/fig2_scale_mechanisms_ai_v2.png": "460f68323f72856b468d84dddde032a1e0ea7c5c",
+    "review_writing/manuscripts/v3.5.6-cn/assets/fig3_decision_timing_ai_v2.png": "f8d951fb2fa0b1f5420e60ff1f49e5086585c47d",
+    "review_writing/manuscripts/v3.5.6-cn/assets/fig4_conditional_comparisons_ai_v2.png": "a8b9f994c563d5bae1bb9b4fff32c2e684080ed2",
+    "review_writing/manuscripts/v3.5.6-cn/audit/BASELINE_IDENTITY.json": "e0390d8cd1d3d8e836b4bbd045f01eeaa202f2a3",
+    "review_writing/manuscripts/v3.5.6-cn/audit/REVISION_METRICS.json": "767559c6d4bebe371ae43d5947e5ff345d4ba4e5",
+    "review_writing/manuscripts/v3.5.6-cn/audit/V3.5.5_TO_V3.5.6.diff": "2a543805a8c36202a08fbb8c0819844ad587cad1",
+    "review_writing/manuscripts/v3.5.6-cn/references/CITATION_LOCATIONS_v3.5.6.csv": "7389665e2a27460157337affecb734e7fd1fd59c",
+    "review_writing/manuscripts/v3.5.6-cn/references/NUMBER_MAP_v3.5.5_TO_v3.5.6.csv": "d0b1b2926ab3f4f7e34343402ae68d5ea7630d8b",
+    "review_writing/manuscripts/v3.5.6-cn/references/REFERENCE_REGISTER_v3.5.6.csv": "adb397fcd9d6e166648ba63f82fa1885b71c4a42",
+    "review_writing/manuscripts/v3.5.6-cn/references/REVISION_EVIDENCE_v3.5.6.csv": "c3e187e59c589357d248c2d6e35500d69ceacb73",
+    "review_writing/manuscripts/v3.5.6-cn/references/SCIENTIFIC_BOUNDARIES_v3.5.6.csv": "5d85ecb6319348a44d11aabe2c7e31fd26fbbea7",
+    "review_writing/manuscripts/v3.5.6-cn/references/SOURCE_INTEGRATION_v3.5.6.csv": "ebea63f5b7b807a296993b3c65dbd4a184a7b237",
+    "review_writing/manuscripts/v3.5.6-cn/references/TARGETED_RECHECKS_v3.5.6.json": "39e371eed714875e6a8f1b009f41ae55794d95ee",
+    "review_writing/manuscripts/v3.5.6-cn/references/WITHIN_STUDY_COMPARISONS_v3.5.6.csv": "1fd4920db26491a2f2dc9858c07b3cc8457474cf",
+    "review_writing/manuscripts/v3.5.6-cn/tools/check_v356.py": "6640f5a36c8bd39751a3c3567c135842246ade89"
+  },
+  "raw_download_sha256": {
+    "REVIEW_CN_v3.5.6.md": "efd652dbaf26e8b5387853bc93754c029c51e19692001f68f0978a24ba54ea8e",
+    "SCIENTIFIC_REVISION_CN.md": "8e994776e5087389da8a8d3e4d7ce80b4a7054349eb51982fa469dd1d79368a5",
+    "references/REFERENCE_REGISTER_v3.5.6.csv": "e9d8b1d8cc6d1769c0d1501b7b54820e82eca42dcb9ab199c16f99aab6218398"
+  },
+  "protected_remote_refs": {
+    "refs/heads/main": "4cfaff732d7d68adeecf137d9a6f2a12d12cb2c0",
+    "refs/heads/writing/constellation-review-v355-conditional-synthesis-20261023": "8d4cc6ee784cbf455453f5ded05ce88623332538",
+    "refs/heads/writing/constellation-review-v356-comparative-evidence-20261024": "923433d1c31ca481e56a4ac4c53f260c63f21ec9"
+  },
+  "main_and_v355_remote_refs_unchanged": true,
+  "human_verified": false,
+  "submission_ready": false,
+  "scope": "Publication identity and file consistency only; not author scientific verification.",
+  "receipt_identity_note": "This receipt verifies the preceding content commit. Its own later receipt commit is not self-certified here; final branch identity is independently checked after the receipt push."
+}
