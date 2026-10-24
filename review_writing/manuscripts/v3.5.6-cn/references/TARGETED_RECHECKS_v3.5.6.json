@@ -1,0 +1,236 @@
+{
+  "date": "2026-10-24",
+  "scope": "Targeted original-page checks of three already registered sources. No new full-text reading count, formal-version pairing or human approval.",
+  "sources": [
+    {
+      "stable_id": "E042",
+      "local_pdf": "D:\\SKT727\\materials\\constellation_review_B00_20261014\\042_utoronto_author.pdf",
+      "sha256": "e1db3270d5e8487b7ce6c88ae1baec1463508f7e7ec3532806a06c271dee9ab1",
+      "physical_pages_extracted": [
+        12,
+        13,
+        14
+      ],
+      "human_verified": false,
+      "actual_version": "University of Toronto作者公开稿（15页）；正式出版版差异未关闭",
+      "actual_source_url": "https://www.comm.utoronto.ca/~liang/publications/TMC_ObsTrans_ASN.pdf",
+      "visual_pages_inspected_by_assistant": [
+        13
+      ],
+      "all_pages_read_this_revision": false,
+      "formal_pairing_closed": false,
+      "new_unique_full_text_reading_credit": 0,
+      "third_party_pdf_committed": false
+    },
+    {
+      "stable_id": "E012",
+      "local_pdf": "D:\\SKT727\\materials\\constellation_review_B03_20261015\\012_native.pdf",
+      "sha256": "b2eeb10241dd1b72ac89c1b0f5ecc1cd98c92904e3aa1e1b7fb1381a17c5bf5c",
+      "physical_pages_extracted": [
+        25,
+        26,
+        27,
+        28,
+        29
+      ],
+      "human_verified": false,
+      "actual_version": "author_preprint_arxiv_2206.02910v2_2023-07-03; 实际首页arXiv:2206.02910v2，3 Jul 2023；41页作者稿，正式DOI配对尚未实施。",
+      "actual_source_url": "https://arxiv.org/pdf/2206.02910",
+      "visual_pages_inspected_by_assistant": [
+        27,
+        28
+      ],
+      "all_pages_read_this_revision": false,
+      "formal_pairing_closed": false,
+      "new_unique_full_text_reading_credit": 0,
+      "third_party_pdf_committed": false
+    },
+    {
+      "stable_id": "E013",
+      "local_pdf": "D:\\SKT727\\materials\\constellation_review_B03_20261015\\013_native.pdf",
+      "sha256": "3c87c92a8bb369601a7d57b9c4b143d37be73e7752410d95c9edc40ec3f8f596",
+      "physical_pages_extracted": [
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        28
+      ],
+      "human_verified": false,
+      "actual_version": "author_preprint_arxiv_2401.11567v3_2024-09-04; 实际首页arXiv:2401.11567v3，4 Sep 2024；39页作者稿。请求未带版本号，按实际首页及SHA锁定v3。",
+      "actual_source_url": "https://arxiv.org/pdf/2401.11567",
+      "visual_pages_inspected_by_assistant": [
+        22,
+        23,
+        28
+      ],
+      "all_pages_read_this_revision": false,
+      "formal_pairing_closed": false,
+      "new_unique_full_text_reading_credit": 0,
+      "third_party_pdf_committed": false
+    }
+  ],
+  "comparisons": [
+    {
+      "check_id": "V356-R01",
+      "stable_id": "E042",
+      "locator": "Physical pp.12-13, Table II and Fig.6, section5.4 first paragraph",
+      "question": "Joint observation/transmission versus separately optimized resources using JOTSAS",
+      "reported_or_visually_confirmed": {
+        "deadline_hours": [
+          3,
+          5,
+          8,
+          9
+        ],
+        "weighted_completion_reward": "joint above separate at all four plotted points; both nearly flat from8 to9hours"
+      },
+      "conditions": "3 AEOS;12h horizon;default medium area and3 ground stations;listed switching times zero;error-free transmission and simplified quality inherited from model reading.",
+      "limitations": "No exact curve ordinates digitized, no improvement percentage inferred. Fig6 task count not separately explicit;100 tasks in following paragraph belongs to later comparisons and is not assigned to Fig6. Not a comparison involving orbital maneuvers."
+    },
+    {
+      "check_id": "V356-R02",
+      "stable_id": "E012",
+      "locator": "Physical pp.25-28, sectionV.A-B and Table2",
+      "question": "Different solvers for the same joint configuration/assignment/coverage model",
+      "reported_or_visually_confirmed": {
+        "normalized_budget": 0.3,
+        "instances": 18,
+        "heuristic_better": 6,
+        "heuristic_worse": 10,
+        "equal": 2,
+        "maximum_positive_RP_percent": 26.21,
+        "maximum_negative_RP_magnitude_percent": 1.77,
+        "heuristic_max_total_seconds": 462.24,
+        "MILP_limit_seconds": 3600
+      },
+      "conditions": "10/20satellites,500/1000/2000candidate slots;Intel i7-9700 3GHz,32GB;Gurobi9.1.1 uses8cores;heuristic principally serial apart from LR1;0.5% solver gap tolerance.",
+      "limitations": "RP=(heuristic objective-Gurobi incumbent)/Gurobi incumbent under this paper negative-valued formulation. It is not an improvement over the mathematical optimum or proof that joint modeling beats separate modeling."
+    },
+    {
+      "check_id": "V356-R03",
+      "stable_id": "E013",
+      "locator": "Physical pp.18-23, sectionIV.A and Table2 rows13,16,24 with footnotes",
+      "question": "Full-horizon MCRP, myopic MP, and one-stage-look-ahead RHP under their stated solving configurations",
+      "reported_or_visually_confirmed": {
+        "method_order": [
+          "MCRP",
+          "MP",
+          "RHP"
+        ],
+        "instance13": {
+          "candidate_slots": 50,
+          "stages": 3,
+          "satellites": 3,
+          "coverage_rewards": [
+            4613,
+            4581,
+            4589
+          ],
+          "runtime_seconds": [
+            46.03,
+            0.14,
+            27.38
+          ]
+        },
+        "instance16": {
+          "candidate_slots": 75,
+          "stages": 3,
+          "satellites": 3,
+          "coverage_rewards": [
+            2356,
+            2335,
+            2356
+          ],
+          "runtime_seconds": [
+            32.53,
+            0.03,
+            13.62
+          ]
+        },
+        "instance24": {
+          "candidate_slots": 75,
+          "stages": 5,
+          "satellites": 5,
+          "coverage_rewards": [
+            4610,
+            4584,
+            4656
+          ],
+          "runtime_seconds": [
+            10800,
+            0.04,
+            5942.12
+          ],
+          "MCRP_runtime_is_limit": true
+        }
+      },
+      "conditions": "Full comparison set24instances;3/5satellites,50/75slots,3/4/5stages;5days,100s step;known time-dependent targets;600m/s per-satellite budget;Gurobi11.0.0,Intel i9-13900,32GB,all32threads allowed;MCRP limit10800s,each MP/RHP subproblem3600s;MP/RHP table runtime cumulative.",
+      "limitations": "Selected examples illustrate differing tradeoffs, not aggregate ranking. Information and solver budgets do not establish equal-cost operational architecture comparison. Reward is sampled coverage, not completed imaging/downlink. Original paper explicitly warns against extrapolating the24instances."
+    },
+    {
+      "check_id": "V356-R04",
+      "stable_id": "E013",
+      "locator": "Physical pp.25 and28, sectionIV.B and Fig.10",
+      "question": "Number of reconfiguration stages in a known historical Hurricane Harvey path case",
+      "reported_or_visually_confirmed": {
+        "no_reconfiguration_reward": 1491,
+        "one_stage_reward": 1736,
+        "eight_stage_reward": 1963
+      },
+      "conditions": "Known historical path sampled into17targets,12h per target,100s time step;MCRP solved to reported0.01% or smaller gap;no MP/RHP used for this comparison.",
+      "limitations": "This is neither the MP/RHP/MCRP solver comparison nor measured disaster response/product delivery."
+    }
+  ],
+  "inherited_recovery_evidence_reused": [
+    {
+      "stable_id": "E-B15-S026",
+      "record": "review_writing/evidence/reading_batches/B15_20261020/READING_S026_CN.md",
+      "claim_ids": [
+        "C-B15-023",
+        "C-B15-026",
+        "C-B15-027"
+      ],
+      "use": "Science alignment classified as geometric proxy; commands are design/software-in-loop execution evidence."
+    },
+    {
+      "stable_id": "E-GSOC-2012",
+      "record": "review_writing/manuscripts/v3.5-cn/audit/FOLLOWUP_123_SOURCE_CHECKS.json",
+      "claim_ids": [
+        "F123-GSOC-01",
+        "F123-GSOC-02"
+      ],
+      "use": "Operational maneuver and SAR-operating-condition preservation inference;not delivery-loss counterfactual."
+    },
+    {
+      "stable_id": "E115",
+      "record": "review_writing/manuscripts/v3.5.1-cn/references/TARGETED_PASSAGE_RECHECKS.json",
+      "claim_ids": [
+        "V351-OFFICIAL-E115"
+      ],
+      "use": "One responsible satellite autonomously plans and executes one conjunction intervention."
+    },
+    {
+      "stable_id": "E089",
+      "record": "review_writing/manuscripts/v3.5.1-cn/references/TARGETED_PASSAGE_RECHECKS.json",
+      "claim_ids": [
+        "V351-OFFICIAL-E089"
+      ],
+      "use": "Operating procedure retained in prose;not classified as external service measurement."
+    },
+    {
+      "stable_id": "E078",
+      "record": "review_writing/manuscripts/v1.6/CORE_LITERATURE_AUDIT_ROUND1.json",
+      "claim_ids": [],
+      "use": "External network latency/throughput observations;no linkage to a specified avoidance-recovery event."
+    }
+  ],
+  "new_unique_full_text_readings": 0,
+  "new_experiments": 0,
+  "human_verified": false,
+  "submission_ready": false
+}

@@ -1,0 +1,12 @@
+{
+  "base_commit": "8d4cc6ee784cbf455453f5ded05ce88623332538",
+  "base_tree": "dd3e57aa4a4a8d6c00a971479a2af3d36ad978f2",
+  "branch": "writing/constellation-review-v356-comparative-evidence-20261024",
+  "protected_local_refs": [
+    "refs/heads/writing/constellation-review-v355-conditional-synthesis-20261023 8d4cc6ee784cbf455453f5ded05ce88623332538",
+    "refs/remotes/origin/main 4cfaff732d7d68adeecf137d9a6f2a12d12cb2c0"
+  ],
+  "remote_main_before": "4cfaff732d7d68adeecf137d9a6f2a12d12cb2c0",
+  "remote_v355_before": "8d4cc6ee784cbf455453f5ded05ce88623332538",
+  "scope": "New v3.5.6-cn directory only; earlier manuscripts and main preserved."
+}
