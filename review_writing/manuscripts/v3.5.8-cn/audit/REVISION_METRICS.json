@@ -1,0 +1,102 @@
+{
+  "baseline_commit": "c78403f03e8c1f2df802c2fb910280434bae6206",
+  "manuscript_sha256": "be7e2c3d00a473c925410027a6a6e727e980e3aa5bd19233ac015667cfcf469a",
+  "body_han_before": 26281,
+  "body_han_after": 26809,
+  "edit_blocks": [
+    {
+      "issue": "M1-M3 abstract alignment",
+      "anchor": "大型卫星星座的轨道演化、接近风险与资源变化，",
+      "before_chars": 468,
+      "after_chars": 530
+    },
+    {
+      "issue": "M1-M3 English abstract alignment",
+      "anchor": "Orbital evolution, conjunction risks, and resource changes",
+      "before_chars": 1903,
+      "after_chars": 2235
+    },
+    {
+      "issue": "M3 observed coupling and unresolved selector",
+      "anchor": "决策组织可沿依赖范围、边界传递和响应期限三方面判断。",
+      "before_chars": 214,
+      "after_chars": 294
+    },
+    {
+      "issue": "M1-M3 E042 baseline and bounded graphical result",
+      "anchor": "保留上下游选择的价值，在观测—传输研究中得到直接体现[3]。",
+      "before_chars": 197,
+      "after_chars": 241
+    },
+    {
+      "issue": "M1 table7 graphical evidence level",
+      "anchor": "| 观测与下传共同决定按期完成 | 联合与分开资源安排[3] | 四个期限点联合加权完成收",
+      "before_chars": 87,
+      "after_chars": 94
+    },
+    {
+      "issue": "M1 table7 balanced comparisons",
+      "anchor": "| 当前预算影响后续配置 | 完整、短视与滚动规划[10] | 滚动可节省计算或改善限时值",
+      "before_chars": 97,
+      "after_chars": 106
+    },
+    {
+      "issue": "M1 counterexample and denominator with failure retained",
+      "anchor": "注1：[10]按MCRP、MP、RHP顺序，",
+      "before_chars": 186,
+      "after_chars": 358
+    },
+    {
+      "issue": "M1 explicit graphical and baseline reporting boundary",
+      "anchor": "注3",
+      "before_chars": 0,
+      "after_chars": 104
+    },
+    {
+      "issue": "M3 remove process wording within affected paragraph",
+      "anchor": "在本文纳入并核读的材料中，尚未建立同时覆盖这些环节及实际采用成本的同口径净业务收益比较。",
+      "before_chars": 44,
+      "after_chars": 41
+    },
+    {
+      "issue": "M2 GSOC proxy distinguished from service measurement",
+      "anchor": "| GSOC TanDEM-X个案[98]，在轨 | 接近处置及构型偏差记录 | 作者依据",
+      "before_chars": 102,
+      "after_chars": 103
+    },
+    {
+      "issue": "M2 same-event operational record versus missing direct service outcome",
+      "anchor": "这些证据揭示了不同的恢复瓶颈。",
+      "before_chars": 187,
+      "after_chars": 249
+    },
+    {
+      "issue": "M2 direct outcome and matched comparison are different gaps",
+      "anchor": "评价净恢复收益，应把处置事件、采用时刻与业务结果置于相同需求和时域下。",
+      "before_chars": 137,
+      "after_chars": 171
+    },
+    {
+      "issue": "M3 conclusion retains case scope and non-universal selector",
+      "anchor": "关键依赖决定哪些变量值得共同选择，响应预算约束当次可采用的计算范围。",
+      "before_chars": 226,
+      "after_chars": 279
+    },
+    {
+      "issue": "M3 remove unsupported explanatory superiority",
+      "anchor": "共同安全需要相容输入、有效信息与协调时序。",
+      "before_chars": 191,
+      "after_chars": 197
+    },
+    {
+      "issue": "M2 conclusion operational evidence and direct outcome gap",
+      "anchor": "业务恢复以指定需求重新得到满足为终点，",
+      "before_chars": 151,
+      "after_chars": 224
+    }
+  ],
+  "reference_count": 120,
+  "new_unique_full_text_readings": 0,
+  "new_experiments": 0,
+  "human_verified": false
+}

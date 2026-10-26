@@ -1,0 +1,10 @@
+{
+  "base_commit": "c78403f03e8c1f2df802c2fb910280434bae6206",
+  "base_tree": "9ecd0a80ee05a95cbc1f4b91de749a1fa963e11e",
+  "branch": "writing/constellation-review-v358-evidence-closure-20261026",
+  "protected_remote_refs_before": {
+    "refs/heads/main": "4cfaff732d7d68adeecf137d9a6f2a12d12cb2c0",
+    "refs/heads/writing/constellation-review-v357-structural-refinement-20261026": "c78403f03e8c1f2df802c2fb910280434bae6206"
+  },
+  "scope": "Only new v3.5.8-cn directory; old manuscript, main and source records remain unchanged."
+}

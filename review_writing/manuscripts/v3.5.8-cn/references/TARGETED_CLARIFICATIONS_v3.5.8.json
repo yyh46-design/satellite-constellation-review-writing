@@ -1,0 +1,53 @@
+{
+  "date": "2026-10-26",
+  "scope": "Local targeted source clarification begun in the preceding review-response check and carried into this revision; original-page images E042/E013 and extracted GSOC passage, not three new full-paper readings.",
+  "checks": [
+    {
+      "check_id": "V358-S01",
+      "stable_id": "E042",
+      "number": 3,
+      "locator": "Author PDF physical pp.12-13, section5.4 and Fig6",
+      "finding": "Baseline described as separate observation/transmission optimization using JOTSAS. The comparison paragraph does not specify fixed-variable sequence. Fig6 supplies curve ordering at3/5/8/9h, not a numerical data table.",
+      "boundary": "DIRECTION_ONLY; no exact ordinate extraction, invented sequential implementation or effect percentage.",
+      "actual_source_url": "https://www.comm.utoronto.ca/~liang/publications/TMC_ObsTrans_ASN.pdf",
+      "local_pdf": "D:\\SKT727\\materials\\constellation_review_B00_20261014\\042_utoronto_author.pdf",
+      "sha256": "e1db3270d5e8487b7ce6c88ae1baec1463508f7e7ec3532806a06c271dee9ab1",
+      "original_page_image_inspected": true,
+      "human_verified": false,
+      "formal_pairing_newly_closed": false
+    },
+    {
+      "check_id": "V358-S02",
+      "stable_id": "E013",
+      "number": 10,
+      "locator": "Author preprint arXiv:2401.11567v3, physical p.23 Table2 and pp.18-22 settings/discussion",
+      "finding": "Instance13 rewards4613/4581/4589 and runtimes46.03/0.14/27.38s retained.24rows; oneMCRP memory failure;23numeric pairs yield RHP7/12/4 and MP5/18/0 higher/lower/equal.",
+      "boundary": "Different time-limit meanings and cumulative runtime retained. No statistical generalization; formal version not newly paired.",
+      "actual_source_url": "https://arxiv.org/pdf/2401.11567v3",
+      "local_pdf": "D:\\SKT727\\materials\\constellation_review_B03_20261015\\013_native.pdf",
+      "sha256": "3c87c92a8bb369601a7d57b9c4b143d37be73e7752410d95c9edc40ec3f8f596",
+      "original_page_image_inspected": true,
+      "human_verified": false,
+      "formal_pairing_newly_closed": false
+    },
+    {
+      "check_id": "V358-S03",
+      "stable_id": "E-GSOC-2012",
+      "number": 98,
+      "locator": "Publisher PDF physical pp.4-5, printedTr_26-Tr_27, section5.1 and Fig3",
+      "finding": "Same-event maneuver and formation records exist. SAR unaffected is the authors inference from formation deviation, not directly measured delivery or service loss.",
+      "boundary": "Retain same-event operational evidence; missing direct service outcomes and matched net-benefit comparison remain distinct.",
+      "actual_source_url": "https://www.jstage.jst.go.jp/article/tastj/10/ists28/10_ists28_Tr_23/_pdf/-char/en",
+      "local_pdf": "D:\\SKT727\\materials\\constellation_review_v35_followup_20261022\\GSOC2012_VOR.pdf",
+      "sha256": "c059ab7da0c37c19d27130719c659193663513fac1e9c916ee166f6ece0436f3",
+      "original_page_image_inspected": false,
+      "human_verified": false,
+      "formal_pairing_newly_closed": false
+    }
+  ],
+  "new_unique_full_text_readings": 0,
+  "new_experiments": 0,
+  "human_verified": false,
+  "figure_identity_clarification": "L042 / E-B20-L042 / current[90] Figures16,24 are unrelated to E013 / current[10] Table2 instances16,24.",
+  "inherited_checks": "../v3.5.6-cn/references/TARGETED_RECHECKS_v3.5.6.json"
+}

@@ -1,0 +1,159 @@
+{
+  "source": "E013; arXiv:2401.11567v3; physical p.23, Table 2",
+  "data_file": "E013_TABLE2_DATA_v3.5.8.csv",
+  "total_instances": 24,
+  "excluded_numeric_comparison": [
+    10
+  ],
+  "exclusion_reason": "MCRP out of memory; N/A is retained as a failure, not replaced by zero.",
+  "groups": {
+    "all": {
+      "numeric_denominator": 23,
+      "MP_vs_MCRP": {
+        "higher": [
+          9,
+          11,
+          12,
+          19,
+          20
+        ],
+        "lower": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          21,
+          22,
+          23,
+          24
+        ],
+        "equal": []
+      },
+      "RHP_vs_MCRP": {
+        "higher": [
+          7,
+          9,
+          11,
+          12,
+          19,
+          20,
+          24
+        ],
+        "lower": [
+          1,
+          2,
+          3,
+          5,
+          6,
+          13,
+          14,
+          15,
+          17,
+          18,
+          21,
+          23
+        ],
+        "equal": [
+          4,
+          8,
+          16,
+          22
+        ]
+      }
+    },
+    "static": {
+      "numeric_denominator": 11,
+      "MP_vs_MCRP": {
+        "higher": [
+          9,
+          11,
+          12
+        ],
+        "lower": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8
+        ],
+        "equal": []
+      },
+      "RHP_vs_MCRP": {
+        "higher": [
+          7,
+          9,
+          11,
+          12
+        ],
+        "lower": [
+          1,
+          2,
+          3,
+          5,
+          6
+        ],
+        "equal": [
+          4,
+          8
+        ]
+      }
+    },
+    "dynamic": {
+      "numeric_denominator": 12,
+      "MP_vs_MCRP": {
+        "higher": [
+          19,
+          20
+        ],
+        "lower": [
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          21,
+          22,
+          23,
+          24
+        ],
+        "equal": []
+      },
+      "RHP_vs_MCRP": {
+        "higher": [
+          19,
+          20,
+          24
+        ],
+        "lower": [
+          13,
+          14,
+          15,
+          17,
+          18,
+          21,
+          23
+        ],
+        "equal": [
+          16,
+          22
+        ]
+      }
+    }
+  },
+  "interpretation": "Descriptive pairwise count only; not an equal-budget ranking or statistical win probability.",
+  "human_verified": false
+}

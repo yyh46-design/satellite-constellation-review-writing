@@ -1,0 +1,94 @@
+--- V3.5.7/REVIEW_CN_v3.5.7.md
++++ V3.5.8/REVIEW_CN_v3.5.8.md
+@@ -4,13 +4,13 @@
+ 
+ ## 摘要
+ 
+-大型卫星星座的轨道演化、接近风险与资源变化，使任务选择、轨道动作和执行协调相互影响。本文采用问题导向的叙述性综述，围绕业务与资源、轨道与安全、协同与执行，分析规划、构型维持、自主避碰和动态重规划。研究内对照表明，观测—传输共同安排能够提高所考察期限内的任务加权完成收益；跨阶段机动预算连接当前配置与后续覆盖，但扩大规划时域的收益受到限时求解能力制约。综合现有证据，当一种决定显著改变后续机会时，部分联合有助于保留关键选择；当联系可由有效约束和反馈传递时，可采用分层协调；当变化局部且旧承诺仍有效时，可复用原安排。计算范围还需与协调、检查和采用的响应期限相适应。多星安全研究显示，全状态共享仍可能伴随控制冲突，共同可行性依赖相容输入和更新时序。大型星座的扩展条件因此涉及主动成员间依赖、跨组资源竞争及信息有效期；恢复评价则需连接安全达到、功能资源可用、授权采用和实际业务结果。现有直接比较主要覆盖业务链或轨道配置子问题，完整任务—轨道—安全过程的组织建议仍属于条件性综合。最后，讨论自适应决策范围、有限信息下的共同安全和业务恢复路径选择。
++大型卫星星座的轨道演化、接近风险与资源变化，使任务选择、轨道动作和执行协调相互影响。本文采用问题导向的叙述性综述，围绕业务与资源、轨道与安全、协同与执行，分析规划、构型维持、自主避碰和动态重规划。三颗观测星、12小时仿真的观测—传输对照图显示，联合安排在所测业务期限内具有较高的任务加权完成收益；跨阶段机动预算连接当前配置与后续覆盖，但滚动或分解求解只在部分实例中改善限时可行值，完整模型也有占优实例。综合这些证据，部分联合宜保留影响下游完成或后续配置的关键变量；联系可由有效约束和反馈传递时，可采用分层协调；变化局部且旧承诺仍有效时，可复用原安排。具体范围还需适应协调、检查和采用的响应期限，普遍适用的事前选择阈值尚待研究。多星安全研究显示，全状态共享仍可能伴随控制冲突，共同可行性依赖相容输入和更新时序。规模迁移分析需同时考虑主动成员间依赖、跨组资源竞争及信息有效期。恢复评价则需连接安全达到、功能资源可用、授权采用和实际业务结果；所引在轨个案已联系处置与构型变化，尚缺与其对应的直接业务结果。现有直接比较主要覆盖业务链或轨道配置子问题，完整任务—轨道—安全过程的组织建议仍属于条件性综合。最后，讨论自适应决策范围、有限信息下的共同安全和业务恢复路径选择。
+ 
+ **关键词：** 大型卫星星座；智能运行管理；协同决策；任务规划；构型维持；自主避碰；业务恢复
+ 
+ ## Abstract
+ 
+-Orbital evolution, conjunction risks, and resource changes couple task selection, orbital maneuvers, and execution coordination in large satellite constellations. This problem-oriented narrative review examines planning, formation maintenance, autonomous collision avoidance, and dynamic replanning across three domains: missions and resources, orbits and safety, and coordination and execution. Within-study comparisons show that joint observation and transmission scheduling improves weighted task-completion rewards at the tested deadlines. Multistage maneuver budgets link current configurations to future coverage, but finite-time solution quality limits the gains from longer planning horizons. Synthesizing this evidence, partial joint optimization helps retain consequential choices when one decision substantially changes subsequent opportunities; hierarchical coordination is appropriate when valid constraints and feedback can convey dependencies; and plan reuse is suitable when changes remain local and existing commitments remain valid. The computational scope must also accommodate coordination, checking, and adoption within the response deadline. Multi-spacecraft safety studies show that full-state sharing can coexist with control conflicts: joint feasibility depends on compatible inputs and coordinated updates. Scaling therefore requires attention to dependencies among active members, cross-group resource competition, and information validity. Recovery assessment should connect safety attainment, functional and resource availability, authorized adoption, and service outcomes. Direct comparisons mainly cover service-chain or orbital-configuration subproblems; recommendations for integrated task, orbit, and safety decisions remain conditional. Open questions concern adaptive decision scope, joint safety with limited information, and the selection of service-recovery paths.
++Orbital evolution, conjunction risks, and resource changes couple task selection, orbital maneuvers, and execution coordination in large satellite constellations. This problem-oriented narrative review examines planning, formation maintenance, autonomous collision avoidance, and dynamic replanning across three domains: missions and resources, orbits and safety, and coordination and execution. A plotted comparison for three observation satellites over a 12-hour simulation shows higher weighted task-completion rewards with joint observation and transmission scheduling at the tested service deadlines. Multistage maneuver budgets connect current configurations to future coverage, but rolling-horizon or decomposition methods improve finite-time feasible values only in some instances; full models also perform better in other instances. Synthesizing this evidence, partial joint optimization should retain consequential choices affecting downstream completion or later configurations. Hierarchical coordination is appropriate when valid constraints and feedback can convey dependencies, while plan reuse is suitable when changes remain local and existing commitments remain valid. The scope must also accommodate coordination, checking, and adoption within the response deadline; generally applicable thresholds for selecting this scope in advance remain an open question. Multi-spacecraft safety studies show that full-state sharing can coexist with control conflicts: joint feasibility depends on compatible inputs and coordinated updates. Scaling analysis should consider dependencies among active members, cross-group resource competition, and information validity. Recovery assessment should connect safety attainment, functional and resource availability, authorized adoption, and service outcomes. The cited in-orbit cases link interventions to formation changes but do not establish corresponding direct service outcomes. Direct comparisons mainly cover service-chain or orbital-configuration subproblems; recommendations for integrated task, orbit, and safety decisions remain conditional. Open questions concern adaptive decision scope, joint safety with limited information, and the selection of service-recovery paths.
+ 
+ **Keywords:** large satellite constellations; intelligent operations management; coordinated decision-making; mission planning; formation maintenance; autonomous collision avoidance; service recovery
+ 
+@@ -351,9 +351,9 @@
+ 
+ #### 4.2.2 分别求解、分层协调与部分联合的适用条件
+ 
+-决策组织可沿依赖范围、边界传递和响应期限三方面判断。若一种决定显著改变后续可行机会或价值，部分联合有助于保留关键选择；若这种影响可通过有效的机会、占用和余量在层间传递，可分别求解子问题，并以分层反馈维护边界；若变化仅涉及局部活动且旧承诺仍有效，可以复用其余安排。求解、协调、检查和采用还须在候选有效期内完成，因而计算范围需要服从实际响应预算。这些组织可以组合：联合模型能够分解计算，分层组织能够滚动更新，局部计划也可在其中保留。
+-
+-保留上下游选择的价值，在观测—传输研究中得到直接体现[3]。三颗观测星、12小时仿真及默认地面接收配置下，联合与分开安排采用相同的请求收益定义。原文图6的3、5、8、9小时期限点中，联合方案的按期完成任务加权和均较高；两条曲线在8—9小时接近平台，分开安排的收益差距仍在。因此，放宽期限与开放上下游共同选择并不等效。该模型使用无误码传输、简化图像质量和零切换时延，比较范围限于给定轨道的业务链。
++决策组织可沿依赖范围、边界传递和响应期限三方面判断。观测—传输资源共同制约按期完成、机动预算跨阶段影响配置，是现有对照中已观察到的两类联系，部分联合可据此保留影响下游完成或后续机会的关键变量。若联系可通过有效的机会、占用和余量在层间传递，可分别求解子问题，并以分层反馈维护边界；若变化仅涉及局部活动且旧承诺仍有效，可以复用其余安排。求解、协调、检查和采用还须在候选有效期内完成，因而计算范围需要服从实际响应预算。这些判断是依据具体联系形成的条件性综合，尚无普遍适用的事前选择阈值，相关问题见4.5.1。各种组织可以组合：联合模型能够分解计算，分层组织能够滚动更新，局部计划也可在其中保留。
++
++观测—传输研究以图示对照说明了保留上下游选择的价值[3]。三颗观测星、12小时仿真及默认地面接收配置下，原文将JOTSAS联合安排与使用JOTSAS分别优化观测、传输资源的基线比较，评价指标均为按期完成任务的加权和。图6的3、5、8、9小时业务期限点中，联合曲线均较高；两条曲线在8—9小时接近平台，差距仍在。在这一模型和所测期限内，放宽期限没有消除两种安排的收益差距。该模型使用无误码传输、简化图像质量和零切换时延，比较范围限于给定轨道的业务链，基线细节和图示报告范围见表7注3。
+ 
+ 跨阶段预算使前视收益受到计算能力制约。多阶段重构[10]比较全时域模型（MCRP）、当前阶段短视规划（MP）和单阶段前视滚动规划（RHP）。实例16中，滚动方法以较少时间取得与完整模型相同的覆盖奖励；实例24中，完整模型达到时间上限，滚动方法取得更高可行值，短视方法则较快返回稍低奖励。该文表2的实例13由完整模型取得更高奖励，滚动方法并非在所有实例中占优。各方法的时间上限含义不同，目标又在全时域预知，这些结果不能当作等计算预算的在线架构排名，具体数值及设置见表7注。
+ 
+@@ -369,19 +369,21 @@
+ 
+ | 关键联系或条件 | 组织选择与比较对象 | 主要认识与代价 | 证据与适用范围 |
+ |---|---|---|---|
+-| 观测与下传共同决定按期完成 | 联合与分开资源安排[3] | 四个期限点联合加权完成收益均较高；延长期限未消除差距 | 同实例业务链仿真；未含轨道选择，模型条件见正文 |
+-| 当前预算影响后续配置 | 完整、短视与滚动规划[10] | 滚动可节省计算或改善限时值，完整模型也有占优实例；短视快速但可能损失奖励 | 同实例、不同求解配置；目标全时域预知，数值见注1 |
++| 观测与下传共同决定按期完成 | 联合与分开资源安排[3] | 图示四个期限点联合加权完成收益较高，未报告精确差值 | 同研究图示对照；3星、12 h仿真，给定轨道；基线及期限见注3 |
++| 当前预算影响后续配置 | 完整、短视与滚动规划[10] | 滚动与完整模型各有奖励较高的实例，也有相同结果；短视快速但可能损失奖励 | 同研究、不同求解配置；目标全时域预知；正反实例、全表计数及失败见注1 |
+ | 联合变量相同、求解过程不同 | 拉格朗日启发式与限时MILP[9] | 紧预算组有较好、较差与相同结果，求解代价也不同 | 同模型求解器对照；限时可行值非数学最优，数值见注2 |
+ | 影响局部且边界承诺有效 | 复用旧决定、修复关联活动[4,31] | 减少重复安排或保持采集后改路径，也可能排除新机会 | 机制与仿真；选择条件为本文综合；[31]能源和存储无限 |
+ | 时间尺度或职责可分，层间约束可传递 | 构型、指派、轨迹及执行分层[12,79] | 利用可用率、共同切换及交接联系运行与控制 | 模型与流程支持；未确认同条件业务优越性，[79]通信要求限于终态 |
+ | 扩大计算将错过期限，已有有效备选 | 先采用完整备选、后续更新[33,96] | 保留确认及模型内反馈能力；状态、扰动界和权限限定采用 | 流程与控制机制；组织建议为本文综合 |
+ | 个体动作改变他星输入可行性 | 共同控制或有效顺序协调[54,65,66] | 全状态共享仍可能存在控制冲突；需相容输入和更新时序 | 原研究对照与分析，见4.3；依赖范围的选择为本文综合 |
+ 
+-注1：[10]按MCRP、MP、RHP顺序，实例16覆盖奖励为2356/2335/2356，运行时间为32.53/0.03/13.62 s；实例24奖励为4610/4584/4656，时间为10 800 s（限时）/0.04/5942.12 s。完整模型限时10 800 s，序贯方法每个子问题限时3600 s，后者报告累积运行时间。奖励按覆盖计算，区别于成像和下传完成。
++注1：[10]按MCRP、MP、RHP顺序，实例13覆盖奖励为4613/4581/4589，运行时间为46.03/0.14/27.38 s；实例16奖励为2356/2335/2356，时间为32.53/0.03/13.62 s；实例24奖励为4610/4584/4656，时间为10 800 s（限时）/0.04/5942.12 s。原表2共24个实例，实例10的MCRP因内存不足返回N/A，单列为求解失败；其余23个数值可比实例中，按覆盖奖励计，RHP相对MCRP为7个较高、12个较低、4个相同，MP相对MCRP为5个较高、18个较低、0个相同。该成对计数由原表汇总，仅描述此测试集。完整模型限时10 800 s，序贯方法每个子问题限时3600 s，后者报告累积运行时间；奖励按覆盖计算，区别于成像和下传完成。
+ 
+ 注2：[9]归一化总机动预算0.3的18个实例中，6个实例启发式较好、10个略差、2个相同；正相对性能（RP）最大26.21%，负RP幅值最大1.77%。启发式累计时间至多462.24 s，MILP上限3600 s。RP以限时MILP可行目标值为分母，采用原文负值目标的符号约定，正RP表示启发式较好。
+ 
+-前三行分别回答业务链、前视求解和求解器选择问题，后四行归纳复用、分层及采用条件，彼此可以组合。直接比较支持在相应子问题中保留关键反馈，并权衡计算范围与限时结果；面向完整任务—轨道—安全过程的组织选择，则是据这些证据形成的条件性综合。在本文纳入并核读的材料中，尚未建立同时覆盖这些环节及实际采用成本的同口径净业务收益比较。
++注3：[3]图6仅呈现曲线，未列数值表；此处报告四个期限点的收益高低关系，不给出精确差值或百分比。原文对照说明未展开分开优化时的变量固定方式和求解次序，结论限于所报告的基线实现。
++
++前三行分别回答业务链、前视求解和求解器选择问题，后四行归纳复用、分层及采用条件，彼此可以组合。直接比较支持在相应子问题中保留关键反馈，并权衡计算范围与限时结果；面向完整任务—轨道—安全过程的组织选择，则是据这些证据形成的条件性综合。在本文纳入的材料中，尚未建立同时覆盖这些环节及实际采用成本的同口径净业务收益比较。
+ 
+ #### 4.2.3 安全约束与可调整的恢复目标
+ 
+@@ -494,15 +496,15 @@
+ | NanoFF[17]，双星在轨 | 交叉分离结果 | 推进及阻力调节 | 在轨运控：导航核查、等待与动作更新 | — |
+ | Starling运行报告[18]，四星任务 | 避碰及后续队形维护记录 | 安全模式与活动维护 | 在轨运控：审查、批准、重装载及重排 | — |
+ | 采集—交付修复[31]，网络仿真 | — | 容量承诺 | 仿真：路径回退及调整 | 直接：模拟请求交付与失败 |
+-| GSOC TanDEM-X个案[98]，在轨 | 接近处置及构型偏差记录 | 作者依据构型偏差判断SAR运行未受影响 | 在轨运控：机动计划、复核及实施 | 业务条件保持的间接证据；非交付损失对照 |
++| GSOC TanDEM-X个案[98]，在轨 | 接近处置及构型偏差记录 | 代理：依据构型偏差推断SAR运行未受影响 | 在轨运控：机动计划、复核及实施 | 未报告对应事件的直接交付或业务损失测量 |
+ | Starling 1.5事件[102]，在轨任务报告 | 一次自主接近处置记录 | — | 责任确认后单星自主规划与执行 | — |
+ | Starlink终端测量[120]，外部业务测量 | — | — | 未与指定处置事件绑定 | 直接：时延与吞吐变化；未建立避碰恢复归因 |
+ 
+-这些证据揭示了不同的恢复瓶颈。安全螺旋、被动窗口与逃逸保留后续处置空间[94,38,75]，但可能改变科学基线；推进或设备可用之后，导航核查、活动装载及运控等待仍影响执行[17,18]。GSOC个案说明，有些机动能够保持仪器运行条件；网络仿真和终端测量则分别提供模型内交付及实际服务指标。四类结果由此具有互补价值，但表内没有一行经所引证据确认在同一处置事件中连接了全部终点。
++这些证据揭示了不同的恢复瓶颈。安全螺旋、被动窗口与逃逸保留后续处置空间[94,38,75]，但可能改变科学基线；推进或设备可用之后，导航核查、活动装载及运控等待仍影响执行[17,18]。GSOC个案已将同一次在轨处置中的机动实施与构型变化联系起来，SAR运行未受影响则是作者依据构型偏差作出的判断，未直接统计该事件的任务交付或业务损失。网络仿真提供模型内交付结果，终端测量提供实际服务指标，后者又未与指定处置事件绑定。因此，缺口在于将同一在轨处置过程连接到直接业务结果，而非完全缺少连贯的事件记录。
+ 
+ 恢复选择还取决于获得能力的物理机会与等待代价。RAAN对齐决定备星补给时机，事件条件可用性又不同于周期平均库存[118]；延迟罚金与制造、发射和运行成本共同影响服务规划[69]。当替代成员能更早满足需求时，业务转移可以先于原构型恢复；需要固定测量基线时，则可能必须等待特定几何。两种判断均需核对剩余资源、可替代载荷及不可撤回承诺。
+ 
+-评价净恢复收益，应把处置事件、采用时刻与业务结果置于相同需求和时域下。原计划复核、局部修复及扩大重规划可以据此比较未满足需求、恢复时间和额外资源，区分收益来自机会增加、较快采用还是额外投入。已有模拟与运行材料支持这些环节的具体机制，完整事件链的比较仍是本文纳入证据中的缺口。
++评价净恢复收益，应把处置事件、采用时刻与业务结果置于相同需求和时域下。原计划复核、局部修复及扩大重规划可以据此比较未满足需求、恢复时间和额外资源，区分收益来自机会增加、较快采用还是额外投入。已有模拟与运行材料支持这些环节的具体机制；将处置过程与直接业务结果连接后，还需同条件比较才能判断不同恢复路径的净收益，本文纳入的证据尚未完成这两层衔接。
+ 
+ ### 4.5 研究挑战与可检验问题
+ 
+@@ -534,13 +536,13 @@
+ 
+ 本文围绕业务与资源、轨道与安全、协同与执行，综述大型卫星星座在轨道演化、任务变化及有限资源下的规划与协同决策。文献综合表明，组织选择的核心在于保留必要的决策联系，并使形成的方案在有效期内进入执行。
+ 
+-关键依赖决定哪些变量值得共同选择，响应预算约束当次可采用的计算范围。观测—传输对照表明，共同安排能够保留分开选择时损失的完成机会；跨阶段机动预算连接当前配置与后续覆盖，但全时域模型也可能受限于求解时间。滚动和结构化分解在部分实例中以较少计算取得相同或更高奖励，完整模型也有占优实例。因此，部分联合应围绕会改变后续机会的变量展开，并与限时求解方式共同选择。直接比较主要支持业务链、轨道配置或具体求解方法，完整任务—轨道—安全过程的组织建议属于条件性综合。
++关键依赖决定哪些变量值得共同选择，响应预算约束当次可采用的计算范围。在三颗观测星、12小时仿真及所测业务期限内，观测—传输对照图中，联合安排的任务加权完成收益较高；该结果限于给定轨道及原文的分开优化基线。跨阶段机动预算连接当前配置与后续覆盖，但全时域模型也可能受限于求解时间。滚动或结构化分解在部分实例中取得相同或更高奖励，完整模型也有占优实例。因此，部分联合宜围绕下游完成或后续配置所依赖的变量展开，并与限时求解方式共同选择；普遍适用的事前选择阈值尚待研究。直接比较主要支持业务链、轨道配置或具体求解方法，完整任务—轨道—安全过程的组织建议属于条件性综合。
+ 
+ 有效边界和反馈使局部复用、分层协调与分阶段采用能够结合。受影响活动及共享资源仅涉及少数保留节点、旧承诺仍有效时，可限制重算范围，同时评价保留决定所排除的新机会；时间尺度或职责可分时，可由机会、占用和控制余量传递层间约束。响应紧迫而有效备选已具备检查和授权条件时，可以先保持执行能力，再更新后续业务。这些条件来自模型与运行机制，尚不构成普遍业务优势的证明。
+ 
+-共同安全需要相容输入、有效信息与协调时序。全状态共享仍可能与控制冲突并存，未来意图、共同约束和采用权限应对应具体动作。终态、离散节点及连续区间由不同约束覆盖，完整反馈备份、区间运动界、独立传播与执行反馈可在相应模型和误差条件内补强保障。向大型星座扩展时，主动成员间依赖、跨组资源竞争及消息有效期，比单一总星数更能解释局部机制的适用条件；任务分配或目录处理规模仍不能替代共同控制验证。
+-
+-业务恢复以指定需求重新得到满足为终点，并需要安全、功能资源和授权执行提供条件。四类结果可以交叠，替代成员也可能先于原构型恢复接续业务。现有研究与在轨材料已分别说明安全几何、覆盖交付、责任确认和运控等待的作用，后续应将它们连接到同一处置事件，解释返回原构型、保持任务可接受的新状态或转移任务的条件性价值。
++共同安全需要相容输入、有效信息与协调时序。全状态共享仍可能与控制冲突并存，未来意图、共同约束和采用权限应对应具体动作。终态、离散节点及连续区间由不同约束覆盖，完整反馈备份、区间运动界、独立传播与执行反馈可在相应模型和误差条件内补强保障。向大型星座扩展时，规模迁移分析需同时记录主动成员间依赖、跨组资源竞争及消息有效期，而不能只以总星数描述适用条件；任务分配或目录处理规模仍不能替代共同控制验证。
++
++业务恢复以指定需求重新得到满足为终点，并需要安全、功能资源和授权执行提供条件。四类结果可以交叠，替代成员也可能先于原构型恢复接续业务。现有研究与在轨材料已说明安全几何、覆盖交付、责任确认和运控等待的作用；GSOC个案还记录了同一处置中的机动与构型变化，但仪器运行未受影响属于条件推断，缺少对应事件的直接业务结果。后续需将运行处置与任务交付或服务满足联系起来，再在共同条件下比较恢复路径，解释返回原构型、保持任务可接受的新状态或转移任务的条件性价值。
+ 
+ ## 参考文献
+ 
