@@ -1,0 +1,119 @@
+{
+  "status": "PASS",
+  "verified_at_utc": "2026-10-26T06:19:20.734599+00:00",
+  "repository": "https://github.com/yyh46-design/satellite-constellation-review-writing",
+  "branch": "writing/constellation-review-v359-cn-expression-20261026",
+  "verified_content_commit": "757b8c664b48d9cc1dbb4ff8a7de4c3f3547b41e",
+  "verified_content_tree": "131f46fdefc75ae842ce58bce31666a9e161844b",
+  "remote_ref_matches_local": true,
+  "fetch_head_commit_and_tree_match": true,
+  "all_version_files_match_fetched_git_tree_blobs": true,
+  "version_file_count": 23,
+  "version_files": {
+    "review_writing/manuscripts/v3.5.9-cn/.gitattributes": {
+      "git_blob": "a8da807a4c96489d49ea45dce76e8e9141a1fab1",
+      "sha256": "9ca04f79535501664df7d4a878e3f21a07fd036cfae6bed0665270dcddfbfdab"
+    },
+    "review_writing/manuscripts/v3.5.9-cn/README_CN.md": {
+      "git_blob": "39a536ca1e3a39e22d9ef1ff4e9bfebc9cdd643e",
+      "sha256": "4ad8d7d9e6d65070c30941e51d3bab2bd8cf3e669f8ee2b8949d8694ba7b3b64"
+    },
+    "review_writing/manuscripts/v3.5.9-cn/REFERENCE_INTEGRATION_CN.md": {
+      "git_blob": "6b594fb5415bfe78f9dac91af15a3e32987fa364",
+      "sha256": "9878d2c5c86571eac091028f8dfbcc3be9e7f2edf57a26d39fd27f1bd7de4416"
+    },
+    "review_writing/manuscripts/v3.5.9-cn/REVIEW_CN_v3.5.9.md": {
+      "git_blob": "a550caf0403c8eb7f771474c84351e0316a9aab3",
+      "sha256": "e8fdc1c4f204976353698cdcd56241f8117f7eb136ad98b2914e2f956fe14817"
+    },
+    "review_writing/manuscripts/v3.5.9-cn/REVISION_RESPONSE_CN.md": {
+      "git_blob": "cfdc1833f445e26466340b5eab23f2bf75bdb074",
+      "sha256": "2eca6c4cd0b8125c9ea9fd94357bc7614836d602c1ded266ae28f57d04b4e4e4"
+    },
+    "review_writing/manuscripts/v3.5.9-cn/SCIENTIFIC_REVISION_CN.md": {
+      "git_blob": "bfc9a877e8ba3f9a70e107bd6568f472c8b18a5b",
+      "sha256": "11056231fb6a28b448c5bf756034d7bb8ee17cd76e0202dfd5879304c2919d41"
+    },
+    "review_writing/manuscripts/v3.5.9-cn/VALIDATION_REPORT.json": {
+      "git_blob": "089e16e0a7b38a3a96fd5916ed5783c4d512599b",
+      "sha256": "f108029ec08fa50625553598b8d755ac44e1af3570b67e9031db5f8b7d162b84"
+    },
+    "review_writing/manuscripts/v3.5.9-cn/assets/fig1_service_framework_ai_v2.png": {
+      "git_blob": "12a9bf40956381e866289aef8cf67cadf0912f5a",
+      "sha256": "effe0beaf31879d0afe19b3cb9cc88b82eaab36e14333b7ead88373d05f19555"
+    },
+    "review_writing/manuscripts/v3.5.9-cn/assets/fig2_scale_mechanisms_ai_v2.png": {
+      "git_blob": "460f68323f72856b468d84dddde032a1e0ea7c5c",
+      "sha256": "bdee66400ea1e8ad1f57885373d6c018b439f4766585c23b63387f21c35b2e33"
+    },
+    "review_writing/manuscripts/v3.5.9-cn/assets/fig3_decision_timing_ai_v2.png": {
+      "git_blob": "f8d951fb2fa0b1f5420e60ff1f49e5086585c47d",
+      "sha256": "7bf416c6163d0662bfdb50a709bf6e3f3b6e7cf81f1cfd2bbfae4c3d3ee4a1e3"
+    },
+    "review_writing/manuscripts/v3.5.9-cn/assets/fig4_conditional_comparisons_ai_v2.png": {
+      "git_blob": "a8b9f994c563d5bae1bb9b4fff32c2e684080ed2",
+      "sha256": "619701d7d1167bffc82218ff1dfe5da4f0dd2ce3f34e89bf29481ec97a1738c7"
+    },
+    "review_writing/manuscripts/v3.5.9-cn/audit/BASELINE_IDENTITY.json": {
+      "git_blob": "feb34b81dc15656ee6e57cbdc886494f09a922d1",
+      "sha256": "b4a27726cf6180b9d878938739a343fff531a9dd8e4f7d8f9a4415047ec69388"
+    },
+    "review_writing/manuscripts/v3.5.9-cn/audit/EDIT_LOG_v3.5.9.json": {
+      "git_blob": "3580d70f2ce404350276c5b401a4e6bea16a5129",
+      "sha256": "42adc0ec3b23953e8a09ce5290cc6fc8d2d59918458b36b02f46ead35945e3a4"
+    },
+    "review_writing/manuscripts/v3.5.9-cn/audit/REVISION_METRICS.json": {
+      "git_blob": "c2304fceb64b5553701288249d9c208c3feb29b9",
+      "sha256": "9c43713ac6f073aef4c72b50f057b076c3cc72e068db1fb9a0adc4e86612e36b"
+    },
+    "review_writing/manuscripts/v3.5.9-cn/audit/V3.5.8_TO_V3.5.9.diff": {
+      "git_blob": "489c0a9f71b76cb8df160e8ecbc6d373abe1834a",
+      "sha256": "c2366c930883a13f13e0ba84b0202d6d7bbaf2fccbd37fa3ad5d643b7259e35c"
+    },
+    "review_writing/manuscripts/v3.5.9-cn/references/CITATION_LOCATIONS_v3.5.9.csv": {
+      "git_blob": "294f14ca16da8039fd63445c73c72893c57b7d70",
+      "sha256": "209a9b34ca8b8b10756e24889d11ba2fc7c464d7922953a4b97699d292a6b2d2"
+    },
+    "review_writing/manuscripts/v3.5.9-cn/references/COMPARISON_LOCATIONS_v3.5.9.csv": {
+      "git_blob": "cb2e76aec8b3f6e4f1cce24ae327a39be3d9d62a",
+      "sha256": "5e37296e7e28badf925089d409a719fec08d81c3aba90ff3af4a0cc3e041fd54"
+    },
+    "review_writing/manuscripts/v3.5.9-cn/references/PROTECTED_PASSAGES_v3.5.9.json": {
+      "git_blob": "0bde8ba28361fb41712dcca45c950174767a7874",
+      "sha256": "6281f01d95ddae10336ccef384fbe34b24618068d3a71526dee6f7018c417182"
+    },
+    "review_writing/manuscripts/v3.5.9-cn/references/REFERENCE_REGISTER_v3.5.9.csv": {
+      "git_blob": "17bd81b6cdd535338a1a141e2d1dbf22f70bb989",
+      "sha256": "a8ee68eb296957fc30be238b42b13ccdb8b78597c385b70e7f2d648291a402bb"
+    },
+    "review_writing/manuscripts/v3.5.9-cn/references/REVISION_EVIDENCE_v3.5.9.csv": {
+      "git_blob": "7b4aa4a6e25efe1ff8f18bdfa3685e498f8c3310",
+      "sha256": "1877ee89b8a8f372379f414de38eb5fe77c39f150cbdb0240b9319f9f91ddd71"
+    },
+    "review_writing/manuscripts/v3.5.9-cn/references/SCIENTIFIC_BOUNDARIES_v3.5.9.csv": {
+      "git_blob": "e3f0a2f0a139a485d2b25fee4ca2b59c2de83585",
+      "sha256": "552c60ae7806f335ce9a0e32f06bdec487ae2e3c55f8517054cc93aab1fa6a17"
+    },
+    "review_writing/manuscripts/v3.5.9-cn/references/SOURCE_INTEGRATION_v3.5.9.csv": {
+      "git_blob": "c840044dad5f118a7302c35474771a54c3d083c2",
+      "sha256": "9ac55e94b4059d903cd81d71cb0f55a986ed09d0f06089d8ef2deca3519d82db"
+    },
+    "review_writing/manuscripts/v3.5.9-cn/tools/check_v359.py": {
+      "git_blob": "61c9d4fedb2bd41424b39c4c4c2e817a25ccada2",
+      "sha256": "b1f466c422abb1af65da726779d145b19dd3422d229a51ee8896479a99deb276"
+    }
+  },
+  "protected_remote_refs": {
+    "refs/heads/main": "4cfaff732d7d68adeecf137d9a6f2a12d12cb2c0",
+    "refs/heads/writing/constellation-review-v358-evidence-closure-20261026": "d408fd5b657b04278dac0d6b3965d1b517cb8341",
+    "refs/heads/writing/constellation-review-v359-cn-expression-20261026": "757b8c664b48d9cc1dbb4ff8a7de4c3f3547b41e"
+  },
+  "main_and_v358_remote_refs_unchanged": true,
+  "verification_transport": "git ls-remote + git fetch + FETCH_HEAD tree and blob identity; SHA-1 Git blob and SHA-256 file digests computed",
+  "web_download_status": "Raw-host requests exhausted TLS timeout retries; later GitHub API downloads also encountered TLS timeouts. No successful HTTP content download claimed in this receipt.",
+  "human_verified": false,
+  "submission_ready": false,
+  "author_freeze_confirmation": "PENDING",
+  "scope": "Publication identity and byte consistency, not source review, scientific approval or submission readiness.",
+  "receipt_identity_note": "Verifies the preceding content commit; the later receipt commit is checked separately after push."
+}
