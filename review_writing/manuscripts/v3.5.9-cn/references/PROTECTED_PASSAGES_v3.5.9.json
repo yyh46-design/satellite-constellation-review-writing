@@ -1,0 +1,128 @@
+[
+  {
+    "id": "P01",
+    "start": "### 1.1 ",
+    "end": "### 1.2 ",
+    "baseline_end": "### 1.2 ",
+    "meaning": "历史研究脉络与年份",
+    "sha256": "95fdb7272b14c1908ec242d9a636e03556d1a1a1f6e1921215e239ff53b6aa6d",
+    "current_start_line": 19
+  },
+  {
+    "id": "P02",
+    "start": "### 3.5 ",
+    "end": "### 3.6 ",
+    "baseline_end": "### 3.6 ",
+    "meaning": "更新机制、100星一周、失败与模型边界",
+    "sha256": "7d67996dd6e957c3ddae13c8a20af40139368ac2261a92e279d97828f269aa96",
+    "current_start_line": 209
+  },
+  {
+    "id": "P03",
+    "start": "#### 3.6.2 ",
+    "end": "#### 3.6.3 ",
+    "baseline_end": "#### 3.6.3 ",
+    "meaning": "风险定义、CDM分流、假阴性和假设协方差",
+    "sha256": "aaca6dc949879a608669b05e4a6dd3235955ea2639664ad7817d946cb2162ab7",
+    "current_start_line": 268
+  },
+  {
+    "id": "P04",
+    "start": "### 4.1 ",
+    "end": "### 4.2 ",
+    "baseline_end": "### 4.2 ",
+    "meaning": "计算减负反例、代价与表6",
+    "sha256": "510d65c6cfd4063fe4bbdf1e01a858c04a6d8f7633d737c5a93416816ade164e",
+    "current_start_line": 312
+  },
+  {
+    "id": "P05",
+    "start": "#### 4.2.1 ",
+    "end": "#### 4.2.2 ",
+    "baseline_end": "#### 4.2.2 ",
+    "meaning": "轨道业务耦合、1491/1736/1963及阶段数勘误",
+    "sha256": "891350cef983dc0559f4a05ecd0162d32fd5c71b85a09c5a0b8a414f7458dbbf",
+    "current_start_line": 344
+  },
+  {
+    "id": "P06",
+    "start": "观测—传输研究以图示对照",
+    "end": "局部复用则需要区分",
+    "baseline_end": "局部复用则需要区分",
+    "meaning": "三类直接比较、基线范围、正反例和求解口径",
+    "sha256": "be6d143f017c4d2fd9a659f811047ec920bcc9f6cef9aa69e11ad5f2d8781e2a",
+    "current_start_line": 360
+  },
+  {
+    "id": "P07",
+    "start": "**表7 ",
+    "end": "#### 4.2.3 ",
+    "baseline_end": "#### 4.2.3 ",
+    "meaning": "完整表7及三条注：原数值、计数、不同预算、N/A和图示限制",
+    "sha256": "16d511668941f58009e72991b343f73b1284e091eb77b52084ebef98d4d91b6f",
+    "current_start_line": 372
+  },
+  {
+    "id": "P08",
+    "start": "#### 4.2.3 ",
+    "end": "### 4.3 ",
+    "baseline_end": "### 4.3 ",
+    "meaning": "安全约束与恢复目标权衡",
+    "sha256": "85dd3de1afa7608c808f6c3e569dc77a840aa49b42dbcfa5d7369da9e8fc6310",
+    "current_start_line": 392
+  },
+  {
+    "id": "P09",
+    "start": "信息共享的价值需要同时考察",
+    "end": "减少通信则可通过",
+    "baseline_end": "减少通信则可通过",
+    "meaning": "到达改善但碰撞中位数不变、未完成重构的低输入",
+    "sha256": "20f0f9b4620cfd988c95ed91620a11aeadd84f2bf53ef4ab66f33f7fd29eb74f",
+    "current_start_line": 404
+  },
+  {
+    "id": "P10",
+    "start": "#### 4.4.1 ",
+    "end": "#### 4.4.2 ",
+    "baseline_end": "#### 4.4.2 ",
+    "meaning": "执行备份与模型/误差条件",
+    "sha256": "cf31520d478f2a6cf11513f2d11f785a5033058b32d493ef2537055c3e9beaf7",
+    "current_start_line": 428
+  },
+  {
+    "id": "P11",
+    "start": "#### 4.4.2 ",
+    "end": "#### 4.4.3 ",
+    "baseline_end": "#### 4.4.3 ",
+    "meaning": "表8、规模变量与结构计数、在轨验证范围",
+    "sha256": "57abfee1eebb47d50c01890f5d824a2c2be90d20ae85c43109cf586b8ee6f07f",
+    "current_start_line": 438
+  },
+  {
+    "id": "P12",
+    "start": "#### 4.4.3 ",
+    "end": "#### 4.4.4 ",
+    "baseline_end": "#### 4.4.4 ",
+    "meaning": "无解语义、LP/QP、节点与连续区间、非收敛和统计分母",
+    "sha256": "76b471290681c3aa9dd71dc623b8f2cfbb0f826e49a1010fb7be1c3a7b4f064d",
+    "current_start_line": 468
+  },
+  {
+    "id": "P13",
+    "start": "表9同时列出环境",
+    "end": "恢复路径需要同时满足",
+    "baseline_end": "恢复选择还取决于获得能力的物理机会与等待代价。",
+    "meaning": "表9及GSOC代理/事件链缺口",
+    "sha256": "ecd1a7fb6d9224cf00faadc9800f39ce744a24026bc8656fd4420a39cb4ab3b9",
+    "current_start_line": 488
+  },
+  {
+    "id": "P14",
+    "start": "评价净恢复收益，",
+    "end": "### 4.5 ",
+    "baseline_end": "### 4.5 ",
+    "meaning": "直接结果连接与同条件比较两层缺口",
+    "sha256": "afa3d13160e999870398a61640b200791e748422e57519a1721ef9a8a050427f",
+    "current_start_line": 511
+  }
+]

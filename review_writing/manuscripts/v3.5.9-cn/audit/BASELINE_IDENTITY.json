@@ -1,0 +1,9 @@
+{
+  "baseline_commit": "d408fd5b657b04278dac0d6b3965d1b517cb8341",
+  "baseline_tree": "43b63fe2e6027ac573facc425d7394a5997f91b0",
+  "baseline_branch": "writing/constellation-review-v358-evidence-closure-20261026",
+  "new_branch": "writing/constellation-review-v359-cn-expression-20261026",
+  "protected_main_commit": "4cfaff732d7d68adeecf137d9a6f2a12d12cb2c0",
+  "baseline_manuscript_sha256": "50f306b336c1bd1a4205605a440a75a4725b6403887df7cdf7bcb632983f2e11",
+  "baseline_bytes_retained": true
+}
