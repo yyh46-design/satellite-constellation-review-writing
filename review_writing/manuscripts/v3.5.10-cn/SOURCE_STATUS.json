@@ -1,0 +1,45 @@
+{
+  "version": "V3.5.10-CN",
+  "scope": "Selective expression and organization integration; no new scientific evidence.",
+  "handoff_commit": "ba736f833a7888312bc8434acb70c4a04aba614a",
+  "handoff_tree": "b85203c33a0082bafb89058cd0014dcc1a584c3a",
+  "inputs": {
+    "A": {
+      "commit": "1604e8ac3932019a207d3396e8d447e871b7686c",
+      "path": "review_writing/manuscripts/v3.5.9-cn/REVIEW_CN_v3.5.9.md",
+      "sha256": "e8fdc1c4f204976353698cdcd56241f8117f7eb136ad98b2914e2f956fe14817"
+    },
+    "B": {
+      "commit": "ba736f833a7888312bc8434acb70c4a04aba614a",
+      "path": "review_writing/manuscripts/v3.5.8-gpt-r1/REVIEW_CN_v3.5.8_GPT_R1.md",
+      "sha256": "98e2618fa434bbe203c5ec593c3e9ce8cd516f86565c1b9c51049abcb3248c8c"
+    },
+    "C": {
+      "commit": "d408fd5b657b04278dac0d6b3965d1b517cb8341",
+      "path": "review_writing/manuscripts/v3.5.8-cn/REVIEW_CN_v3.5.8.md",
+      "sha256": "50f306b336c1bd1a4205605a440a75a4725b6403887df7cdf7bcb632983f2e11"
+    }
+  },
+  "reference_count": 120,
+  "references_added": 0,
+  "references_removed": 0,
+  "new_full_text_readings": 0,
+  "new_experiments": 0,
+  "source_register": "../v3.5.9-cn/references/REFERENCE_REGISTER_v3.5.9.csv",
+  "number_mapping": "v359_number equals the current manuscript number; all stable IDs and versions retained.",
+  "scientific_boundaries": "../v3.5.9-cn/references/SCIENTIFIC_BOUNDARIES_v3.5.9.csv",
+  "comparison_source_locations": "../v3.5.9-cn/references/COMPARISON_LOCATIONS_v3.5.9.csv",
+  "hold_register": "../v3.5.4-cn/references/SOURCE_SELECTION_v3.5.4.csv",
+  "inherited_line_numbers_note": "Historical line numbers refer to their named versions; current locations are in this version citation map.",
+  "unclosed": [
+    "2026 nearest-neighbor review full text",
+    "L042 formal-version pairing and figures 16/24",
+    "S045 HOLD",
+    "L071 HOLD",
+    "author source verification"
+  ],
+  "human_verified": false,
+  "submission_ready": false,
+  "author_freeze_confirmation": "PENDING",
+  "manuscript_sha256": "8efe429876962d10918f9c2a69ea4ebc9eae9d322610ece858e0fb1b5f2f31e0"
+}

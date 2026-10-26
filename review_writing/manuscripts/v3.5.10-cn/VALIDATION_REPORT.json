@@ -1,0 +1,28 @@
+{
+  "status": "PASS",
+  "scope": "Editorial preservation and package consistency, not source revalidation or author scientific approval.",
+  "checks": {
+    "pinned_inputs": true,
+    "five_chapters_and_all_headings": true,
+    "bibliography_bytes_and_120_source_mapping": true,
+    "all_340_citation_groups_and_order": true,
+    "current_citation_map": true,
+    "chapter_1_to_4_numeric_tokens_excluding_cross_references": true,
+    "all_math_expressions": true,
+    "tables_4_6_7_8_9_and_notes_verbatim": true,
+    "original_four_images_and_captions": true,
+    "three_errata_retained": true,
+    "key_comparison_and_recovery_qualifiers": true,
+    "six_semantic_repairs_and_synchronized_abstracts": true,
+    "source_versions_hold_and_author_states_inherited": true,
+    "txt_package_diff_and_digest": true,
+    "handoff_ancestor_only_new_directory": true,
+    "cross_references_and_table_structure": true
+  },
+  "manuscript_sha256": "8efe429876962d10918f9c2a69ea4ebc9eae9d322610ece858e0fb1b5f2f31e0",
+  "references": 120,
+  "citation_groups": 340,
+  "human_verified": false,
+  "submission_ready": false,
+  "author_freeze_confirmation": "PENDING"
+}
