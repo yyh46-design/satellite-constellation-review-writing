@@ -1,0 +1,52 @@
+{
+  "status": "PASS",
+  "verified_at_utc": "2026-10-26T03:41:01.256354+00:00",
+  "repository": "https://github.com/yyh46-design/satellite-constellation-review-writing",
+  "branch": "writing/constellation-review-v357-structural-refinement-20261026",
+  "verified_content_commit": "d11b8546ba1a2259aa0f135c5ba2857b180c2645",
+  "verified_content_tree": "26bbd47e7be35bc3f9d20c1698854c182da79746",
+  "baseline_commit": "24f6f1bc3fd3acab7d3f4871239e8dca6360abbc",
+  "remote_ref_matches_local": true,
+  "remote_github_commit_tree_matches_local": true,
+  "all_version_file_blobs_match_remote_tree": true,
+  "version_file_count": 22,
+  "version_file_blobs": {
+    "review_writing/manuscripts/v3.5.7-cn/.gitattributes": "a8da807a4c96489d49ea45dce76e8e9141a1fab1",
+    "review_writing/manuscripts/v3.5.7-cn/README_CN.md": "fcb9c84ab9f7918dcb06b106a74b56d73d2b0955",
+    "review_writing/manuscripts/v3.5.7-cn/REFERENCE_INTEGRATION_CN.md": "da71cf8cd525097be1ab770287012d6affd206ea",
+    "review_writing/manuscripts/v3.5.7-cn/REVIEW_CN_v3.5.7.md": "41eca7be350f1b4959acb3e97df24475d0d47d25",
+    "review_writing/manuscripts/v3.5.7-cn/REVISION_RESPONSE_CN.md": "fc99baf9aad71251e41d513ed55610764dd96890",
+    "review_writing/manuscripts/v3.5.7-cn/SCIENTIFIC_REVISION_CN.md": "3ac5d7d868ee432e4d3e6f60f0a2ced6ce74b8e2",
+    "review_writing/manuscripts/v3.5.7-cn/VALIDATION_REPORT.json": "e5253ba57dffb6384330078153975d3d2ff16b91",
+    "review_writing/manuscripts/v3.5.7-cn/assets/fig1_service_framework_ai_v2.png": "12a9bf40956381e866289aef8cf67cadf0912f5a",
+    "review_writing/manuscripts/v3.5.7-cn/assets/fig2_scale_mechanisms_ai_v2.png": "460f68323f72856b468d84dddde032a1e0ea7c5c",
+    "review_writing/manuscripts/v3.5.7-cn/assets/fig3_decision_timing_ai_v2.png": "f8d951fb2fa0b1f5420e60ff1f49e5086585c47d",
+    "review_writing/manuscripts/v3.5.7-cn/assets/fig4_conditional_comparisons_ai_v2.png": "a8b9f994c563d5bae1bb9b4fff32c2e684080ed2",
+    "review_writing/manuscripts/v3.5.7-cn/audit/BASELINE_IDENTITY.json": "3ecd716ab63cd2618a81c621c23601df7eeb53aa",
+    "review_writing/manuscripts/v3.5.7-cn/audit/REVISION_METRICS.json": "f4b8547ecf2bd21ca54d14866b72b5e99b3320e3",
+    "review_writing/manuscripts/v3.5.7-cn/audit/V3.5.6_TO_V3.5.7.diff": "1b70a9d9a9a7a004672f9b8c877251b2c9d3eb48",
+    "review_writing/manuscripts/v3.5.7-cn/references/CITATION_LOCATIONS_v3.5.7.csv": "0a854c387aa0e1e3458ec91169ce8292c1a0d858",
+    "review_writing/manuscripts/v3.5.7-cn/references/COMPARISON_LOCATIONS_v3.5.7.csv": "da5e686ccbdfa0f1cbe9b70fc40e4fca892e6cc6",
+    "review_writing/manuscripts/v3.5.7-cn/references/NUMBER_MAP_v3.5.6_TO_v3.5.7.csv": "4d13852ddc6b46ba638aeacac17bfd5ea21f7df1",
+    "review_writing/manuscripts/v3.5.7-cn/references/REFERENCE_REGISTER_v3.5.7.csv": "3e09affa6cbfe302a1406a860906aebe80392ccf",
+    "review_writing/manuscripts/v3.5.7-cn/references/REVISION_EVIDENCE_v3.5.7.csv": "d0dc697615dc4812202691e75a23ac6110a083dc",
+    "review_writing/manuscripts/v3.5.7-cn/references/SCIENTIFIC_BOUNDARIES_v3.5.7.csv": "dbcf92320a43809983003cabd64a67c80e496f0c",
+    "review_writing/manuscripts/v3.5.7-cn/references/SOURCE_INTEGRATION_v3.5.7.csv": "1da00ea4bdef6dd5c55c5b384f667baab68e5234",
+    "review_writing/manuscripts/v3.5.7-cn/tools/check_v357.py": "66063fbe70e2e399f07a79925115e623cab9e2fa"
+  },
+  "raw_download_sha256": {
+    "REVIEW_CN_v3.5.7.md": "232e4135e41fc44811398ef3a86358c697df58132fc7def3eb46a781e286cd46",
+    "SCIENTIFIC_REVISION_CN.md": "3555abcbc5860395a1b54f61444966269abc9827f127748e2f68e0970e663104",
+    "references/REFERENCE_REGISTER_v3.5.7.csv": "dcbe423f61dccaeaa7b8b1a10f35dad907556bf572e43d58cfe49e09b78b2407"
+  },
+  "protected_remote_refs": {
+    "refs/heads/main": "4cfaff732d7d68adeecf137d9a6f2a12d12cb2c0",
+    "refs/heads/writing/constellation-review-v356-comparative-evidence-20261024": "24f6f1bc3fd3acab7d3f4871239e8dca6360abbc",
+    "refs/heads/writing/constellation-review-v357-structural-refinement-20261026": "d11b8546ba1a2259aa0f135c5ba2857b180c2645"
+  },
+  "main_and_v356_remote_refs_unchanged": true,
+  "human_verified": false,
+  "submission_ready": false,
+  "scope": "Publication identity and file consistency only; not author scientific verification.",
+  "receipt_identity_note": "This receipt verifies the preceding content commit. Its own later receipt commit is not self-certified here; final branch identity is independently checked after the receipt push."
+}
