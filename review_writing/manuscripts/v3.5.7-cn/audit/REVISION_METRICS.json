@@ -1,0 +1,88 @@
+{
+  "base_commit": "24f6f1bc3fd3acab7d3f4871239e8dca6360abbc",
+  "body_han_before": 26619,
+  "body_han_after": 26281,
+  "counting_scope": "Chinese characters in abstract, main text, tables and captions before bibliography.",
+  "references_before": 120,
+  "references_after": 120,
+  "references_added": 0,
+  "references_removed": 0,
+  "manuscript_sha256": "232e4135e41fc44811398ef3a86358c697df58132fc7def3eb46a781e286cd46",
+  "edited_blocks": [
+    {
+      "change": "Abstract: findings and conditional organization logic",
+      "previous_chars": 501,
+      "revised_chars": 468
+    },
+    {
+      "change": "English abstract aligned with Chinese synthesis",
+      "previous_chars": 1881,
+      "revised_chars": 1903
+    },
+    {
+      "change": "3.6.2 geometric calculation: retain mechanism and risk interface",
+      "previous_chars": 181,
+      "revised_chars": 166
+    },
+    {
+      "change": "3.6.2 risk semantics linked to action criteria",
+      "previous_chars": 172,
+      "revised_chars": 158
+    },
+    {
+      "change": "3.6.3 concise maneuver mechanism and optimality scope",
+      "previous_chars": 192,
+      "revised_chars": 169
+    },
+    {
+      "change": "3.6.3 retain tightness and hard-risk limits with less repetition",
+      "previous_chars": 168,
+      "revised_chars": 132
+    },
+    {
+      "change": "4.1 focused on work reduction; scaling conditions assigned to4.4.2",
+      "previous_chars": 695,
+      "revised_chars": 567
+    },
+    {
+      "change": "4.2.2 decision logic first; table7 readable synthesis with retained quantitative notes",
+      "previous_chars": 2773,
+      "revised_chars": 2603
+    },
+    {
+      "change": "4.4.2 execution evidence linked to transfer conditions",
+      "previous_chars": 223,
+      "revised_chars": 223
+    },
+    {
+      "change": "4.4.2 concise representativeness and verification boundary",
+      "previous_chars": 183,
+      "revised_chars": 156
+    },
+    {
+      "change": "4.4.2 transfer conclusion without repeated definitions",
+      "previous_chars": 134,
+      "revised_chars": 87
+    },
+    {
+      "change": "4.4.3 connect validation and control infeasibility to planning feedback",
+      "previous_chars": 279,
+      "revised_chars": 306
+    },
+    {
+      "change": "4.4.3 replace repeated model summaries with planning implication",
+      "previous_chars": 166,
+      "revised_chars": 119
+    },
+    {
+      "change": "4.5 scientific questions, unresolved mechanisms, and discriminating evidence",
+      "previous_chars": 1362,
+      "revised_chars": 1469
+    },
+    {
+      "change": "Conclusion: main findings with maintained scope",
+      "previous_chars": 842,
+      "revised_chars": 851
+    }
+  ]
+}

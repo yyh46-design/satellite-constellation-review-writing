@@ -1,0 +1,12 @@
+{
+  "base_commit": "24f6f1bc3fd3acab7d3f4871239e8dca6360abbc",
+  "base_tree": "a98df247fb870dad50260f799d37ae91a8a7d506",
+  "branch": "writing/constellation-review-v357-structural-refinement-20261026",
+  "protected_local_refs": [
+    "refs/heads/writing/constellation-review-v356-comparative-evidence-20261024 24f6f1bc3fd3acab7d3f4871239e8dca6360abbc",
+    "refs/remotes/origin/main 4cfaff732d7d68adeecf137d9a6f2a12d12cb2c0"
+  ],
+  "remote_main_before": "4cfaff732d7d68adeecf137d9a6f2a12d12cb2c0",
+  "remote_v356_before": "24f6f1bc3fd3acab7d3f4871239e8dca6360abbc",
+  "scope": "New v3.5.7-cn directory only; prior versions and main retained."
+}
