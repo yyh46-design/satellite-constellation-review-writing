@@ -1,8 +1,8 @@
 {
   "baseline_commit": "c78403f03e8c1f2df802c2fb910280434bae6206",
-  "manuscript_sha256": "be7e2c3d00a473c925410027a6a6e727e980e3aa5bd19233ac015667cfcf469a",
+  "manuscript_sha256": "50f306b336c1bd1a4205605a440a75a4725b6403887df7cdf7bcb632983f2e11",
   "body_han_before": 26281,
-  "body_han_after": 26809,
+  "body_han_after": 26852,
   "edit_blocks": [
     {
       "issue": "M1-M3 abstract alignment",
@@ -98,5 +98,9 @@
   "reference_count": 120,
   "new_unique_full_text_readings": 0,
   "new_experiments": 0,
-  "human_verified": false
+  "human_verified": false,
+  "initial_v358_edit_blocks_scope": "edit_blocks describe V3.5.7 to initial V3.5.8; subsequent three exact errata are recorded separately.",
+  "errata_baseline_commit": "4166c8a38d58bf39a02461cb8d4915d0f7d42195",
+  "errata_record": "ERRATA_20261026.json",
+  "errata_edit_count": 3
 }

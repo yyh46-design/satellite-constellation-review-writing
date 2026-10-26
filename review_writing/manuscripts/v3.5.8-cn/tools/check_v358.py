@@ -32,6 +32,20 @@ integration=rows(HERE/'references/SOURCE_INTEGRATION_v3.5.8.csv')
 metrics=json.loads((HERE/'audit/REVISION_METRICS.json').read_text(encoding='utf-8'))
 clarifications=json.loads((HERE/'references/TARGETED_CLARIFICATIONS_v3.5.8.json').read_text(encoding='utf-8'))
 checks={}
+errata=json.loads((HERE/'audit/ERRATA_20261026.json').read_text(encoding='utf-8'))
+initial_bytes=subprocess.check_output(['git','show',errata['baseline_commit']+':'+PREFIX+'REVIEW_CN_v3.5.8.md'],cwd=ROOT)
+expected_errata=initial_bytes.decode('utf-8')
+for edit in errata['edits']:
+    assert expected_errata.count(edit['before'])==1
+    expected_errata=expected_errata.replace(edit['before'],edit['after'])
+restored=text
+for edit in reversed(errata['edits']):
+    assert restored.count(edit['after'])==1
+    restored=restored.replace(edit['after'],edit['before'])
+initial_body=restored.split('## 参考文献',1)[0]
+checks['exactly_three_errata_and_all_other_manuscript_bytes_unchanged']=len(errata['edits'])==3 and text==expected_errata and restored.encode('utf-8')==initial_bytes and sha(initial_bytes)==errata['baseline_manuscript_sha256'] and sha(text.encode('utf-8'))==errata['current_manuscript_sha256'] and text.count('\n')==restored.count('\n')
+errata_diff=''.join(difflib.unified_diff(initial_bytes.decode('utf-8').splitlines(True),text.splitlines(True),fromfile='V3.5.8-initial/REVIEW_CN_v3.5.8.md',tofile='V3.5.8-errata/REVIEW_CN_v3.5.8.md'))
+checks['errata_diff_and_source_locations_exact']=(HERE/'audit/V3.5.8_TO_ERRATA_20261026.diff').read_text(encoding='utf-8')==errata_diff and all(e['after'] in body.splitlines()[e['line']-1] and by_id[e['source_id']]['v358_number']==str(e['reference_number']) for e in errata['edits'])
 checks['title_headings_and_five_chapters_preserved']=re.findall(r'^#{1,4} .+$',body,re.M)==re.findall(r'^#{1,4} .+$',oldbody,re.M)
 checks['120_source_identities_numbers_versions_and_human_states_preserved']=len(reg)==len(by_id)==120 and set(by_id)==set(old_id) and all(r['v358_number']==r['v357_number']==old_id[s]['v357_number'] and all(r[k]==old_id[s][k] for k in ['reference_text','actual_version','version_resolution','actual_source_url','version_record_path','human_verified']) for s,r in by_id.items())
 checks['bibliography_unchanged_and_register_exact']=bib==oldbib and re.findall(r'^(\d+)\. (.+)$',bib,re.M)==[(r['v358_number'],r['reference_text']) for r in reg]
@@ -80,7 +94,7 @@ checks['original_positive_negative_results_and_budgets_preserved']=all(t in body
 checks['graphical_baseline_scope_explicit_without_fabricated_order']=all(t in body for t in ['JOTSAS分别优化观测、传输资源','在这一模型和所测期限内','图6仅呈现曲线，未列数值表','不给出精确差值或百分比','未展开分开优化时的变量固定方式和求解次序'])
 checks['gsoc_event_proxy_and_direct_service_distinguished']=all(t in body for t in ['GSOC个案已将同一次在轨处置中的机动实施与构型变化联系起来','未报告对应事件的直接交付或业务损失测量','而非完全缺少连贯的事件记录','将处置过程与直接业务结果连接后']) and '表内没有一行经所引证据确认' not in body
 checks['conclusion_and_abstract_not_upgraded_to_general_rules']=body.count('普遍适用的事前选择阈值尚待研究')==2 and '尚无普遍适用的事前选择阈值，相关问题见4.5.1' in body and '比单一总星数更能解释' not in body and all(t in body for t in ['在三颗观测星、12小时仿真及所测业务期限内','three observation satellites over a 12-hour simulation','only in some instances','组织建议仍属于条件性综合'])
-checks['unchanged_chapters_and_sections_exact']=all(span(body,a,b)==span(oldbody,a,b) for a,b in [('## 1 引言','#### 4.2.2 '),('#### 4.2.3 ','#### 4.4.4 '),('### 4.5 ','## 5 结论')])
+checks['unchanged_chapters_and_sections_exact']=all(span(initial_body,a,b)==span(oldbody,a,b) for a,b in [('## 1 引言','#### 4.2.2 '),('#### 4.2.3 ','#### 4.4.4 '),('### 4.5 ','## 5 结论')])
 checks['table8_and_non_gsoc_table9_rows_unchanged']=table(body,8)==table(oldbody,8) and '\n'.join(l for l in table(body,9).splitlines() if 'GSOC TanDEM-X' not in l)=='\n'.join(l for l in table(oldbody,9).splitlines() if 'GSOC TanDEM-X' not in l)
 figs=re.findall(r'!\[图[1-4]\]\(([^)]+)\)',body)
 checks['nine_tables_four_original_figures_retained']=re.findall(r'^\*\*表([1-9]) ',body,re.M)==list('123456789') and len(figs)==4 and all((HERE/f).read_bytes()==before(f) for f in figs)
@@ -90,17 +104,20 @@ selection=rows(ROOT/'review_writing/manuscripts/v3.5.4-cn/references/SOURCE_SELE
 holds=[r for r in selection if r['reading_id'] in {'S045','L071'}]
 checks['hold_and_human_states_not_upgraded']=len(holds)==2 and all('HOLD' in r['decision'] and not r['v354_number'] for r in holds) and all(r['human_verified']=='false' for r in reg+claims+comparisons+boundaries+integration) and all(r['human_verified'] is False and r['formal_pairing_newly_closed'] is False for r in clarifications['checks'])
 checks['baseline_bytes_and_branch_preserved']=(ROOT/OLD/'REVIEW_CN_v3.5.7.md').read_bytes()==before('REVIEW_CN_v3.5.7.md') and git('branch','--show-current')==BRANCH and git('merge-base',BASE,'HEAD')==BASE
-changes=git('diff',BASE,'--name-only').splitlines(); status=git('status','--porcelain','--untracked-files=all').splitlines()
+changes=git('diff',BASE,'--name-only').splitlines()
+# Preserve the two-column porcelain prefix, including an initial blank status column.
+status=subprocess.check_output(['git','status','--porcelain','--untracked-files=all'],cwd=ROOT).decode('utf-8').splitlines()
 checks['only_new_version_directory_changes']=all(p.startswith(PREFIX) for p in changes) and all(r[3:].startswith(PREFIX) for r in status)
 expected=''.join(difflib.unified_diff(oldtext.splitlines(True),text.splitlines(True),fromfile='V3.5.7/REVIEW_CN_v3.5.7.md',tofile='V3.5.8/REVIEW_CN_v3.5.8.md'))
 checks['diff_metrics_and_manuscript_hash_exact']=(HERE/'audit/V3.5.7_TO_V3.5.8.diff').read_text(encoding='utf-8')==expected and metrics['body_han_before']==len(re.findall('[\u4e00-\u9fff]',oldbody)) and metrics['body_han_after']==len(re.findall('[\u4e00-\u9fff]',body)) and metrics['manuscript_sha256']==sha(text.encode())
 missing=[]
-for name in ['README_CN.md','SCIENTIFIC_REVISION_CN.md','REVISION_RESPONSE_CN.md','REFERENCE_INTEGRATION_CN.md','REVIEW_CN_v3.5.8.md']:
+for name in ['README_CN.md','SCIENTIFIC_REVISION_CN.md','REVISION_RESPONSE_CN.md','REFERENCE_INTEGRATION_CN.md','REVIEW_CN_v3.5.8.md','ERRATA_CN.md']:
     for dest in re.findall(r'\]\(([^)]+)\)',(HERE/name).read_text(encoding='utf-8')):
         if '://' not in dest and not dest.startswith('#') and dest!='VALIDATION_REPORT.json' and not (HERE/dest).is_file():missing.append(dest)
 checks['delivery_links_resolve']=not missing
 report={'status':'PASS' if all(checks.values()) else 'FAIL','baseline_commit':BASE,'branch':BRANCH,
         'scope':'Necessary citation, source, tally, prose-scope and file consistency; not independent scientific review or author approval.',
+        'errata_baseline_commit':errata['baseline_commit'],'errata_edit_count':3,'author_freeze_confirmation':'PENDING',
         'references_before':120,'references_after':120,'references_added':0,'references_removed':0,'new_unique_full_text_readings':0,
         'targeted_existing_source_clarifications':3,'descriptive_existing_table_tallies':1,'new_experiments':0,'human_verified':False,'submission_ready':False,
         'EC2026_full_text_obtained':False,'L042_formal_pairing_closed':False,'L042_figure16_24_pixel_review_completed':False,

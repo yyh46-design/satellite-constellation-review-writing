@@ -1,0 +1,71 @@
+{
+  "date": "2026-10-26",
+  "version": "V3.5.8-CN errata",
+  "baseline_commit": "4166c8a38d58bf39a02461cb8d4915d0f7d42195",
+  "baseline_manuscript_sha256": "be7e2c3d00a473c925410027a6a6e727e980e3aa5bd19233ac015667cfcf469a",
+  "current_manuscript_sha256": "50f306b336c1bd1a4205605a440a75a4725b6403887df7cdf7bcb632983f2e11",
+  "edits": [
+    {
+      "id": "ERRATA-01",
+      "section": "4.2.1",
+      "source_id": "E013",
+      "reference_number": 10,
+      "before": "覆盖奖励分别为1491、1736和1963[10]。",
+      "after": "覆盖奖励分别为1491、1736和1963[10]。该历史飓风路径案例与表8所列3—5阶段的算法对照算例不同。",
+      "source_version": "arXiv:2401.11567v3",
+      "source_locator": "Section IV.A / Table 2, physical p.23; Section IV.B and Figure 10, physical pp.24-28",
+      "reason": "区分算法对照与历史飓风路径两组算例；原数值和表8保持不变。",
+      "line": 348
+    },
+    {
+      "id": "ERRATA-02",
+      "section": "4.2.2",
+      "source_id": "E042",
+      "reference_number": 3,
+      "before": "原文将JOTSAS联合安排",
+      "after": "原文采用敏捷卫星观测与传输联合调度算法（Joint Observation and Transmission Scheduling Algorithm with Agile Satellites，JOTSAS），将其联合安排",
+      "source_version": "University of Toronto author PDF; formal-version pairing remains open",
+      "source_locator": "Introduction, contribution bullet defining JOTSAS; local extraction lines 138-140",
+      "reason": "首次使用缩写时补全原文算法名称；联合与分开安排的比较范围不变。",
+      "line": 356
+    },
+    {
+      "id": "ERRATA-03",
+      "section": "4.2.2",
+      "source_id": "E013",
+      "reference_number": 10,
+      "before": "跨阶段预算使前视收益受到计算能力制约。",
+      "after": "前视范围的价值需要结合限时求解结果判断。",
+      "source_version": "arXiv:2401.11567v3",
+      "source_locator": "Table 2; existing V3.5.8 table 7 note 1 and E013_TABLE2_DATA/TALLY records",
+      "reason": "以限时结果表述研究内比较，不将预算与计算能力写成普遍因果；数据及反例不变。",
+      "line": 358
+    }
+  ],
+  "exact_reversal_to_baseline": true,
+  "manuscript_edit_count": 3,
+  "other_manuscript_bytes_unchanged": true,
+  "line_numbers_unchanged": true,
+  "references_before": 120,
+  "references_after": 120,
+  "new_full_text_readings": 0,
+  "new_experiments": 0,
+  "human_verified": false,
+  "author_freeze_confirmation": "PENDING",
+  "scope": "Three local errata only; existing Table 2 data and tallies retained; no new source-pairing closure or author approval.",
+  "table2_existing_source_text_recheck": {
+    "source_id": "E013",
+    "version": "arXiv:2401.11567v3",
+    "locator": "physical p.23, Table 2 and footnotes",
+    "local_pdf": "D:\\SKT727\\materials\\constellation_review_B03_20261015\\013_native.pdf",
+    "pdf_sha256": "3c87c92a8bb369601a7d57b9c4b143d37be73e7752410d95c9edc40ec3f8f596",
+    "local_source_extract": "D:\\SKT727\\outputs\\constellation_review_v3_5_6_cn_20261024\\E013_comparison.txt",
+    "extract_sha256": "f7e2613f3e0326134d07ca2c0a0004ab8f0aacce3e5157413ae861fbe9d91084",
+    "rows_compared": 24,
+    "fields_per_row": 6,
+    "all_rewards_and_runtimes_match": true,
+    "time_limit_hyphens_normalized_to_seconds": 10800,
+    "memory_failure_preserved_instance": 10,
+    "scope": "Existing source-extracted Table 2 checked against the unchanged data CSV; no new PDF visual inspection, formal-version pairing or human verification."
+  }
+}
