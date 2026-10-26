@@ -1,0 +1,55 @@
+{
+  "date": "2026-10-26",
+  "repository": "yyh46-design/satellite-constellation-review-writing",
+  "handoff_branch": "writing/gpt-r1-merge-handoff-20261026",
+  "base_commit": "1604e8ac3932019a207d3396e8d447e871b7686c",
+  "base_tree": "3728678ddb96eb56b518bc2f8ea4d4d93d6c2238",
+  "scientific_baseline_commit": "d408fd5b657b04278dac0d6b3965d1b517cb8341",
+  "gpt_r1": {
+    "path": "review_writing/manuscripts/v3.5.8-gpt-r1/REVIEW_CN_v3.5.8_GPT_R1.md",
+    "bytes": 122773,
+    "sha256": "98e2618fa434bbe203c5ec593c3e9ce8cd516f86565c1b9c51049abcb3248c8c",
+    "git_blob_sha": "24ed039cb88405c9cba4e5213a4b8753fb8235ec"
+  },
+  "v359": {
+    "path": "review_writing/manuscripts/v3.5.9-cn/REVIEW_CN_v3.5.9.md",
+    "bytes": 124367,
+    "sha256": "e8fdc1c4f204976353698cdcd56241f8117f7eb136ad98b2914e2f956fe14817",
+    "git_blob_sha": "a550caf0403c8eb7f771474c84351e0316a9aab3"
+  },
+  "v358": {
+    "path": "review_writing/manuscripts/v3.5.8-cn/REVIEW_CN_v3.5.8.md",
+    "bytes": 122554,
+    "sha256": "50f306b336c1bd1a4205605a440a75a4725b6403887df7cdf7bcb632983f2e11",
+    "git_blob_sha": "14d173a2085fc2b75c2ee4437942e97b26056bca"
+  },
+  "assets": [
+    {
+      "path": "assets/fig1_service_framework_ai_v2.png",
+      "bytes": 1306592,
+      "sha256": "effe0beaf31879d0afe19b3cb9cc88b82eaab36e14333b7ead88373d05f19555",
+      "git_blob_sha": "12a9bf40956381e866289aef8cf67cadf0912f5a"
+    },
+    {
+      "path": "assets/fig2_scale_mechanisms_ai_v2.png",
+      "bytes": 1304638,
+      "sha256": "bdee66400ea1e8ad1f57885373d6c018b439f4766585c23b63387f21c35b2e33",
+      "git_blob_sha": "460f68323f72856b468d84dddde032a1e0ea7c5c"
+    },
+    {
+      "path": "assets/fig3_decision_timing_ai_v2.png",
+      "bytes": 1253383,
+      "sha256": "7bf416c6163d0662bfdb50a709bf6e3f3b6e7cf81f1cfd2bbfae4c3d3ee4a1e3",
+      "git_blob_sha": "f8d951fb2fa0b1f5420e60ff1f49e5086585c47d"
+    },
+    {
+      "path": "assets/fig4_conditional_comparisons_ai_v2.png",
+      "bytes": 1313490,
+      "sha256": "619701d7d1167bffc82218ff1dfe5da4f0dd2ce3f34e89bf29481ec97a1738c7",
+      "git_blob_sha": "a8b9f994c563d5bae1bb9b4fff32c2e684080ed2"
+    }
+  ],
+  "scope": "GPT_R1原稿及Codex整合任务交接，未生成合稿",
+  "human_verified": false,
+  "submission_ready": false
+}
