@@ -1,0 +1,102 @@
+[
+  {
+    "source_id": "N001_ROGERS",
+    "url": "https://arxiv.org/pdf/2507.09855v2",
+    "version": "arXiv:2507.09855v2, 2026-03-26；与正式版逐页配对未完成",
+    "sha256": "26633bed8a7c37534884399629dcdd1e1378df97a755ef277cc1c07fcc33f3c4",
+    "pages": 42,
+    "reading_status": "BODY_READ_AI_NOT_AUTHOR_VERIFIED",
+    "reading_scope": "1–38正文；39–42书目用于定位",
+    "human_verified": false
+  },
+  {
+    "source_id": "N002_PEARL",
+    "url": "https://arxiv.org/pdf/2507.10394v3",
+    "version": "arXiv:2507.10394v3, 2025-11-07；正式刊期2026；与正式版逐页配对未完成",
+    "sha256": "4b96171f1a17904953be3bb35daf88fd21cf5eea840ce980f21b17ba047bd87b",
+    "pages": 43,
+    "reading_status": "BODY_READ_AI_NOT_AUTHOR_VERIFIED",
+    "reading_scope": "1–38正文及附录；39–43书目定位",
+    "human_verified": false
+  },
+  {
+    "source_id": "N003_CMAS",
+    "url": "https://publications.spaceops.org/2025/download_by_id.php?id=0105",
+    "version": "SpaceOps 2025, ID105，官方会议PDF",
+    "sha256": "d94931e2c511975a07c18c813705a5d4b101d1cd158550653cd8b670b38133c1",
+    "pages": 8,
+    "reading_status": "BODY_READ_AI_NOT_AUTHOR_VERIFIED",
+    "reading_scope": "1–8全文",
+    "human_verified": false
+  },
+  {
+    "source_id": "N004_HULL",
+    "url": "https://ntrs.nasa.gov/api/citations/20170010724/downloads/20170010724.pdf",
+    "version": "NASA NTRS 20170010724；2017会议作者报告",
+    "sha256": "b01b56f40eaf870bf251edba249c3678432456824cae16b5af0edc439a51b39f",
+    "pages": 12,
+    "reading_status": "BODY_READ_AI_NOT_AUTHOR_VERIFIED",
+    "reading_scope": "1–12全文",
+    "human_verified": false
+  },
+  {
+    "source_id": "N005_GAIAS",
+    "url": "https://slab.sites.stanford.edu/sites/g/files/sbiybj25201/files/media/file/jgcd2015_gaiasdamico.pdf",
+    "version": "JGCD 38(6):1036–1049，作者公开正式排版稿",
+    "sha256": "7aa59258394f39fd788fa47d2cce861164073e09961deef7036ffffd2ec42360",
+    "pages": 14,
+    "reading_status": "BODY_READ_AI_NOT_AUTHOR_VERIFIED",
+    "reading_scope": "1–14全文",
+    "human_verified": false
+  },
+  {
+    "source_id": "N006_MAINTENANCE",
+    "url": "https://mdpi-res.com/d_attachment/applsci/applsci-15-04640/article_deploy/applsci-15-04640.pdf",
+    "version": "Applied Sciences 15:4640，出版商PDF",
+    "sha256": "3657b9e70d1c8e7b5c122b8ce03b0f6fb44ba5eceff550e4be3526988775ef11",
+    "pages": 20,
+    "reading_status": "BODY_READ_AI_NOT_AUTHOR_VERIFIED",
+    "reading_scope": "1–18正文；19–20书目",
+    "human_verified": false
+  },
+  {
+    "source_id": "N007_MCGRATH",
+    "url": "https://strathprints.strath.ac.uk/71130/1/McGrath_Macdonald_JGCD_2020_General_perturbation_method_for_satellite_constellation_deployment.pdf",
+    "version": "作者接受稿；JGCD 43(4):814–824",
+    "sha256": "ed075f8e09296671d7b63265fbe96d5d1ea6f5aa4d633e8bc9cfc5e0da6b0400",
+    "pages": 25,
+    "reading_status": "BODY_READ_AI_NOT_AUTHOR_VERIFIED",
+    "reading_scope": "1–25全文",
+    "human_verified": false
+  },
+  {
+    "source_id": "N008_ZHAO",
+    "url": "https://mdpi-res.com/d_attachment/sensors/sensors-24-00631/article_deploy/sensors-24-00631.pdf",
+    "version": "Sensors 24:631，出版商PDF",
+    "sha256": "d3096d7622c6084820c10500c59ffd980688b33004139cd37eb6e7bb9b444b0b",
+    "pages": 16,
+    "reading_status": "BODY_READ_AI_NOT_AUTHOR_VERIFIED",
+    "reading_scope": "1–14正文；15–16书目",
+    "human_verified": false
+  },
+  {
+    "source_id": "N009_SDDIP",
+    "url": "https://arxiv.org/pdf/2608.09738v1",
+    "version": "arXiv:2608.09738v1, 2026-08-10，预印本",
+    "sha256": "7e12a3c0d02df02e71d68e7a016ff14b5cf6379dab811015d4c0f7322fac5af4",
+    "pages": 34,
+    "reading_status": "BODY_READ_AI_NOT_AUTHOR_VERIFIED",
+    "reading_scope": "1–30正文及附录；31–34书目",
+    "human_verified": false
+  },
+  {
+    "source_id": "N010_FOSTER",
+    "url": "https://arxiv.org/pdf/1806.01218v1",
+    "version": "IWSCFF 17-33，arXiv:1806.01218v1；DOI对应2018正式研究线，标题不同，未逐页配对",
+    "sha256": "2a13ea05405d1efe59fee5c1a2d224be05339258543bdace39cea5f894f8eb4c",
+    "pages": 18,
+    "reading_status": "BODY_READ_AI_NOT_AUTHOR_VERIFIED",
+    "reading_scope": "1–18全文",
+    "human_verified": false
+  }
+]

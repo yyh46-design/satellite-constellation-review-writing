@@ -1,0 +1,1955 @@
+{
+  "status": "ok",
+  "message-type": "work-list",
+  "message-version": "1.0.0",
+  "message": {
+    "facets": {},
+    "total-results": 3333963,
+    "items": [
+      {
+        "DOI": "10.2139/ssrn.5048961",
+        "title": [
+          "Low Computational Sequential Optimization for Large-Scale Satellite Formation Reconfiguration"
+        ],
+        "author": [
+          {
+            "given": "Jihe",
+            "family": "Wang",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Qiaoling",
+            "family": "Zeng",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Chenglong",
+            "family": "Xu",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Chengxi",
+            "family": "Zhang",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Jinxiu",
+            "family": "Zhang",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2024
+            ]
+          ]
+        },
+        "type": "posted-content",
+        "URL": "https://doi.org/10.2139/ssrn.5048961"
+      },
+      {
+        "DOI": "10.1016/j.ast.2021.107108",
+        "title": [
+          "Analytical solution of satellite formation impulsive reconfiguration considering passive safety constraints"
+        ],
+        "author": [
+          {
+            "given": "Jihe",
+            "family": "Wang",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Chengxi",
+            "family": "Zhang",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Jinxiu",
+            "family": "Zhang",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2021,
+              12
+            ]
+          ]
+        },
+        "container-title": [
+          "Aerospace Science and Technology"
+        ],
+        "type": "journal-article",
+        "URL": "https://doi.org/10.1016/j.ast.2021.107108",
+        "link": [
+          {
+            "URL": "https://api.elsevier.com/content/article/PII:S1270963821006180?httpAccept=text/xml",
+            "content-type": "text/xml",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://api.elsevier.com/content/article/PII:S1270963821006180?httpAccept=text/plain",
+            "content-type": "text/plain",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          }
+        ]
+      },
+      {
+        "DOI": "10.1016/j.asr.2024.04.024",
+        "title": [
+          "Fuel-optimal satellite formation reconfiguration method with best passive safety parameters"
+        ],
+        "author": [
+          {
+            "given": "Qiaoling",
+            "family": "Zeng",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Xiaoyu",
+            "family": "Zhu",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Jihe",
+            "family": "Wang",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2024,
+              7
+            ]
+          ]
+        },
+        "container-title": [
+          "Advances in Space Research"
+        ],
+        "type": "journal-article",
+        "URL": "https://doi.org/10.1016/j.asr.2024.04.024",
+        "link": [
+          {
+            "URL": "https://api.elsevier.com/content/article/PII:S0273117724003569?httpAccept=text/xml",
+            "content-type": "text/xml",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://api.elsevier.com/content/article/PII:S0273117724003569?httpAccept=text/plain",
+            "content-type": "text/plain",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          }
+        ]
+      },
+      {
+        "DOI": "10.1016/j.ast.2025.110232",
+        "title": [
+          "Low computational sequential optimization for large-scale satellite formation reconfiguration"
+        ],
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0000-0002-9161-8812",
+            "authenticated-orcid": false,
+            "given": "Jihe",
+            "family": "Wang",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Qiaoling",
+            "family": "Zeng",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Chenglong",
+            "family": "Xu",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Chengxi",
+            "family": "Zhang",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0003-1448-1581",
+            "authenticated-orcid": false,
+            "given": "Jinxiu",
+            "family": "Zhang",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2025,
+              7
+            ]
+          ]
+        },
+        "container-title": [
+          "Aerospace Science and Technology"
+        ],
+        "type": "journal-article",
+        "URL": "https://doi.org/10.1016/j.ast.2025.110232",
+        "link": [
+          {
+            "URL": "https://api.elsevier.com/content/article/PII:S1270963825003037?httpAccept=text/xml",
+            "content-type": "text/xml",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://api.elsevier.com/content/article/PII:S1270963825003037?httpAccept=text/plain",
+            "content-type": "text/plain",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          }
+        ]
+      },
+      {
+        "DOI": "10.1109/aero63441.2025.11068500",
+        "title": [
+          "Optimization of Satellite Formation Reconfiguration"
+        ],
+        "author": [
+          {
+            "given": "Aaron E.",
+            "family": "Millwee",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "California State University, Fresno,Fresno,CA,93740"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Aaron B.",
+            "family": "Hoskins",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "California State University, Fresno,Fresno,CA,93740"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2025,
+              3,
+              1
+            ]
+          ]
+        },
+        "container-title": [
+          "2025 IEEE Aerospace Conference"
+        ],
+        "type": "proceedings-article",
+        "URL": "https://doi.org/10.1109/aero63441.2025.11068500",
+        "link": [
+          {
+            "URL": "http://xplorestaging.ieee.org/ielx8/11068190/11068395/11068500.pdf?arnumber=11068500",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ]
+      },
+      {
+        "DOI": "10.2139/ssrn.4909812",
+        "title": [
+          "Passive Safety-Constrained Impulsive Maneuvers for Formation Reconfiguration: An Analytic Solution"
+        ],
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0000-0002-9161-8812",
+            "authenticated-orcid": true,
+            "given": "Jihe",
+            "family": "Wang",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0009-0003-7058-6481",
+            "authenticated-orcid": true,
+            "given": "Chenglong",
+            "family": "Xu",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Chengxi",
+            "family": "Zhang",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0003-1448-1581",
+            "authenticated-orcid": true,
+            "given": "Jinxiu",
+            "family": "Zhang",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2024
+            ]
+          ]
+        },
+        "type": "posted-content",
+        "URL": "https://doi.org/10.2139/ssrn.4909812",
+        "abstract_present_in_local_response": true,
+        "abstract_sha256": "1af9cf02efa7975e7bdd3e0cf710d573e566eb72374491ab244a657c6325da73"
+      },
+      {
+        "DOI": "10.1109/cac57257.2022.10056000",
+        "title": [
+          "Sequential Convex Optimization Based Spacecraft Formation Reconfiguration with Collision Avoidance"
+        ],
+        "author": [
+          {
+            "given": "Dawei",
+            "family": "Fan",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "National University of Defense Technology,College of Aerospace Science and Engineering,Changsha,China"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Weiwei",
+            "family": "Cai",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "National University of Defense Technology,College of Aerospace Science and Engineering,Changsha,China"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Leping",
+            "family": "Yang",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "National University of Defense Technology,College of Aerospace Science and Engineering,Changsha,China"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Runde",
+            "family": "Zhang",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "National University of Defense Technology,College of Aerospace Science and Engineering,Changsha,China"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2022,
+              11,
+              25
+            ]
+          ]
+        },
+        "container-title": [
+          "2022 China Automation Congress (CAC)"
+        ],
+        "type": "proceedings-article",
+        "URL": "https://doi.org/10.1109/cac57257.2022.10056000",
+        "link": [
+          {
+            "URL": "http://xplorestaging.ieee.org/ielx7/10054511/10054645/10056000.pdf?arnumber=10056000",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ]
+      },
+      {
+        "DOI": "10.1016/j.asr.2023.04.028",
+        "title": [
+          "Fuel optimization schemes for formation reconfiguration in satellite formation flying"
+        ],
+        "author": [
+          {
+            "given": "Zengfu",
+            "family": "Wang",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Jiarui",
+            "family": "Tian",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Jing",
+            "family": "Fu",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2023,
+              9
+            ]
+          ]
+        },
+        "container-title": [
+          "Advances in Space Research"
+        ],
+        "type": "journal-article",
+        "URL": "https://doi.org/10.1016/j.asr.2023.04.028",
+        "link": [
+          {
+            "URL": "https://api.elsevier.com/content/article/PII:S027311772300306X?httpAccept=text/xml",
+            "content-type": "text/xml",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://api.elsevier.com/content/article/PII:S027311772300306X?httpAccept=text/plain",
+            "content-type": "text/plain",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          }
+        ]
+      },
+      {
+        "DOI": "10.1016/j.actaastro.2015.04.003",
+        "title": [
+          "Optimal satellite formation reconfiguration using co-evolutionary particle swarm optimization in deep space"
+        ],
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0000-0001-9963-5089",
+            "authenticated-orcid": false,
+            "given": "Haibin",
+            "family": "Huang",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Yufei",
+            "family": "Zhuang",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2015,
+              8
+            ]
+          ]
+        },
+        "container-title": [
+          "Acta Astronautica"
+        ],
+        "type": "journal-article",
+        "URL": "https://doi.org/10.1016/j.actaastro.2015.04.003",
+        "link": [
+          {
+            "URL": "https://api.elsevier.com/content/article/PII:S0094576515001484?httpAccept=text/xml",
+            "content-type": "text/xml",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://api.elsevier.com/content/article/PII:S0094576515001484?httpAccept=text/plain",
+            "content-type": "text/plain",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          }
+        ]
+      },
+      {
+        "DOI": "10.1109/fasta70174.2026.11548789",
+        "title": [
+          "Fully Actuated Decoupled Sequential Convex Optimization for UAV Formation Reconfiguration"
+        ],
+        "author": [
+          {
+            "given": "Yang",
+            "family": "Gejun",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "College of Automation Engineering, Nanjing University of Aeronautics and Astronautics,Nanjing,211106"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Wang",
+            "family": "Xinhua",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "College of Automation Engineering, Nanjing University of Aeronautics and Astronautics,Nanjing,211106"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Sun",
+            "family": "Xiaoyun",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "College of Automation Engineering, Nanjing University of Aeronautics and Astronautics,Nanjing,211106"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              5,
+              22
+            ]
+          ]
+        },
+        "container-title": [
+          "2026 5th Conference on Fully Actuated System Theory and Applications (FASTA)"
+        ],
+        "type": "proceedings-article",
+        "URL": "https://doi.org/10.1109/fasta70174.2026.11548789",
+        "link": [
+          {
+            "URL": "http://xplorestaging.ieee.org/ielx8/11548696/11548662/11548789.pdf?arnumber=11548789",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ]
+      },
+      {
+        "DOI": "10.23919/ccc52363.2021.9549278",
+        "title": [
+          "Optimal Satellite Formation Reconfiguration Using Pseudospectral Method and Co-evolutionary Particle Swarm Optimization"
+        ],
+        "author": [
+          {
+            "given": "Shumei",
+            "family": "Zhang",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Xiaoli",
+            "family": "Bao",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Mingliang",
+            "family": "Xiang",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Xiuyun",
+            "family": "Zhang",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2021,
+              7,
+              26
+            ]
+          ]
+        },
+        "container-title": [
+          "2021 40th Chinese Control Conference (CCC)"
+        ],
+        "type": "proceedings-article",
+        "URL": "https://doi.org/10.23919/ccc52363.2021.9549278",
+        "link": [
+          {
+            "URL": "http://xplorestaging.ieee.org/ielx7/9549237/9549238/09549278.pdf?arnumber=9549278",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ]
+      },
+      {
+        "DOI": "10.1016/j.asr.2025.01.072",
+        "title": [
+          "Adaptive multi-segment pseudospectral sequential convex programming for satellite cluster reconfiguration trajectory optimization"
+        ],
+        "author": [
+          {
+            "given": "Lixiang",
+            "family": "Wang",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Dong",
+            "family": "Ye",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Xianren",
+            "family": "Kong",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Yan",
+            "family": "Xiao",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2025,
+              4
+            ]
+          ]
+        },
+        "container-title": [
+          "Advances in Space Research"
+        ],
+        "type": "journal-article",
+        "URL": "https://doi.org/10.1016/j.asr.2025.01.072",
+        "link": [
+          {
+            "URL": "https://api.elsevier.com/content/article/PII:S0273117725001036?httpAccept=text/xml",
+            "content-type": "text/xml",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://api.elsevier.com/content/article/PII:S0273117725001036?httpAccept=text/plain",
+            "content-type": "text/plain",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          }
+        ]
+      },
+      {
+        "DOI": "10.1016/j.ast.2024.109901",
+        "title": [
+          "Passive safety-constrained impulsive maneuvers for formation reconfiguration: An analytic solution"
+        ],
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0000-0002-9161-8812",
+            "authenticated-orcid": false,
+            "given": "Jihe",
+            "family": "Wang",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0009-0003-7058-6481",
+            "authenticated-orcid": false,
+            "given": "Chenglong",
+            "family": "Xu",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Chengxi",
+            "family": "Zhang",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0003-1448-1581",
+            "authenticated-orcid": false,
+            "given": "Jinxiu",
+            "family": "Zhang",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2025,
+              3
+            ]
+          ]
+        },
+        "container-title": [
+          "Aerospace Science and Technology"
+        ],
+        "type": "journal-article",
+        "URL": "https://doi.org/10.1016/j.ast.2024.109901",
+        "link": [
+          {
+            "URL": "https://api.elsevier.com/content/article/PII:S1270963824010307?httpAccept=text/xml",
+            "content-type": "text/xml",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://api.elsevier.com/content/article/PII:S1270963824010307?httpAccept=text/plain",
+            "content-type": "text/plain",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          }
+        ]
+      },
+      {
+        "DOI": "10.1016/j.ast.2026.113747",
+        "title": [
+          "Passive safety for perturbed spacecraft swarms: A maintenance planning framework via sequential network reconfiguration"
+        ],
+        "author": [
+          {
+            "given": "Chenglong",
+            "family": "Xu",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Chengxi",
+            "family": "Zhang",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Xiaobin",
+            "family": "Lian",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0002-4620-9120",
+            "authenticated-orcid": false,
+            "given": "Hao",
+            "family": "Gong",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0002-0058-2878",
+            "authenticated-orcid": false,
+            "given": "Chengfei",
+            "family": "Yue",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0002-9161-8812",
+            "authenticated-orcid": false,
+            "given": "Jihe",
+            "family": "Wang",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2027,
+              1
+            ]
+          ]
+        },
+        "container-title": [
+          "Aerospace Science and Technology"
+        ],
+        "type": "journal-article",
+        "URL": "https://doi.org/10.1016/j.ast.2026.113747",
+        "link": [
+          {
+            "URL": "https://api.elsevier.com/content/article/PII:S1270963826021231?httpAccept=text/xml",
+            "content-type": "text/xml",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://api.elsevier.com/content/article/PII:S1270963826021231?httpAccept=text/plain",
+            "content-type": "text/plain",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          }
+        ]
+      },
+      {
+        "DOI": "10.1109/mci.2013.2279560",
+        "title": [
+          "Optimal Satellite Formation Reconfiguration Based on Closed-Loop Brain Storm Optimization"
+        ],
+        "author": [
+          {
+            "given": "Changhao",
+            "family": "Sun",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Haibin",
+            "family": "Duan",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Yuhui",
+            "family": "Shi",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2013,
+              11
+            ]
+          ]
+        },
+        "container-title": [
+          "IEEE Computational Intelligence Magazine"
+        ],
+        "type": "journal-article",
+        "URL": "https://doi.org/10.1109/mci.2013.2279560",
+        "link": [
+          {
+            "URL": "http://xplorestaging.ieee.org/ielx7/10207/6632946/06633027.pdf?arnumber=6633027",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ]
+      },
+      {
+        "DOI": "10.52202/083087-0106",
+        "title": [
+          "Stochastic Trajectory Optimization for Satellite Swarm Reconfiguration Via Convex Optimization"
+        ],
+        "author": [
+          {
+            "given": "Lixiang",
+            "family": "Wang",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Research Center of Satellite Technology, Harbin Institute of Technology"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Dong",
+            "family": "Ye",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Research Center of Satellite Technology, Harbin Institute of Technology"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Xianren",
+            "family": "Kong",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Research Center of Satellite Technology, Harbin Institute of Technology"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2025
+            ]
+          ]
+        },
+        "container-title": [
+          "IAF Astrodynamics Symposium"
+        ],
+        "type": "proceedings-article",
+        "URL": "https://doi.org/10.52202/083087-0106"
+      },
+      {
+        "DOI": "10.4028/www.scientific.net/amr.926-930.3688",
+        "type": "journal-article",
+        "title": [
+          "Research on the Path Optimization of Satellite Formation Reconfiguration Based on Gauss Pseudospectral Method"
+        ],
+        "author": [
+          {
+            "given": "Jian Wei",
+            "family": "Shi",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Academy of Equipment"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Yuan Wen",
+            "family": "Cai",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Academy of Equipment"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Xiao Chen",
+            "family": "Xing",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Academy of Equipment"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Advanced Materials Research"
+        ],
+        "link": [
+          {
+            "URL": "https://www.scientific.net/AMR.926-930.3688.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "URL": "https://doi.org/10.4028/www.scientific.net/amr.926-930.3688",
+        "published": {
+          "date-parts": [
+            [
+              2014,
+              5
+            ]
+          ]
+        },
+        "abstract_present_in_local_response": true,
+        "abstract_sha256": "fb2e81b0c215a8aa451908ffed59f2075b6f314c2966e3d11ef3ff480c3f05d0"
+      },
+      {
+        "DOI": "10.2514/1.g010121",
+        "type": "journal-article",
+        "title": [
+          "Chance-Constrained Autonomous Spacecraft Formation Reconfiguration and Rendezvous with Passive Abort Safety"
+        ],
+        "author": [
+          {
+            "given": "Abdullah K.",
+            "family": "Alkhenani",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Purdue University"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0003-3670-2293",
+            "authenticated-orcid": false,
+            "given": "Kenshiro",
+            "family": "Oguri",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Purdue University"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Journal of Guidance, Control, and Dynamics"
+        ],
+        "link": [
+          {
+            "URL": "https://arc.aiaa.org/doi/pdf/10.2514/1.G010121",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "URL": "https://doi.org/10.2514/1.g010121",
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              16
+            ]
+          ]
+        },
+        "abstract_present_in_local_response": true,
+        "abstract_sha256": "0b6010062e1937cf765b9e01a9f01d1954d6623ecc4420bd8613c90e7fd5749c"
+      },
+      {
+        "DOI": "10.1109/taes.2026.3700106",
+        "title": [
+          "Distributed Safety-Critical Control for Formation Reconfiguration of Satellite Cluster"
+        ],
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0000-0001-6750-3233",
+            "authenticated-orcid": false,
+            "given": "Junyu",
+            "family": "Chen",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Research Center of Satellite Technology, School of Astronautics, Harbin Institute of Technology, Harbin, China"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0002-5247-2793",
+            "authenticated-orcid": false,
+            "given": "Baolin",
+            "family": "Wu",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Research Center of Satellite Technology, School of Astronautics, Harbin Institute of Technology, Harbin, China"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Zhaobo",
+            "family": "Sun",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Research Center of Satellite Technology, School of Astronautics, Harbin Institute of Technology, Harbin, China"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026
+            ]
+          ]
+        },
+        "container-title": [
+          "IEEE Transactions on Aerospace and Electronic Systems"
+        ],
+        "type": "journal-article",
+        "URL": "https://doi.org/10.1109/taes.2026.3700106",
+        "link": [
+          {
+            "URL": "http://xplorestaging.ieee.org/ielx8/7/11316225/11550386.pdf?arnumber=11550386",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ]
+      },
+      {
+        "DOI": "10.1016/j.asr.2020.01.033",
+        "title": [
+          "A guidance approach to satellite formation reconfiguration based on convex optimization and genetic algorithms"
+        ],
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0000-0002-8306-7766",
+            "authenticated-orcid": false,
+            "given": "S.",
+            "family": "Sarno",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0002-1667-1701",
+            "authenticated-orcid": false,
+            "given": "J.",
+            "family": "Guo",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "M.",
+            "family": "D'Errico",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "E.",
+            "family": "Gill",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2020,
+              4
+            ]
+          ]
+        },
+        "container-title": [
+          "Advances in Space Research"
+        ],
+        "type": "journal-article",
+        "URL": "https://doi.org/10.1016/j.asr.2020.01.033",
+        "link": [
+          {
+            "URL": "https://api.elsevier.com/content/article/PII:S0273117720300673?httpAccept=text/xml",
+            "content-type": "text/xml",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://api.elsevier.com/content/article/PII:S0273117720300673?httpAccept=text/plain",
+            "content-type": "text/plain",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          }
+        ]
+      },
+      {
+        "DOI": "10.1016/j.asr.2009.07.029",
+        "title": [
+          "Hybrid optimization for multiple-impulse reconfiguration trajectories of satellite formation flying"
+        ],
+        "author": [
+          {
+            "given": "Dong-Yoon",
+            "family": "Kim",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Byoungsam",
+            "family": "Woo",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Sang-Young",
+            "family": "Park",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Kyu-Hong",
+            "family": "Choi",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2009,
+              12
+            ]
+          ]
+        },
+        "container-title": [
+          "Advances in Space Research"
+        ],
+        "type": "journal-article",
+        "URL": "https://doi.org/10.1016/j.asr.2009.07.029",
+        "link": [
+          {
+            "URL": "https://api.elsevier.com/content/article/PII:S0273117709005390?httpAccept=text/xml",
+            "content-type": "text/xml",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://api.elsevier.com/content/article/PII:S0273117709005390?httpAccept=text/plain",
+            "content-type": "text/plain",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          }
+        ]
+      },
+      {
+        "DOI": "10.1109/aero.2002.1035631",
+        "title": [
+          "Autonomous satellite formation assembly and reconfiguration with gravity fields"
+        ],
+        "author": [
+          {
+            "given": "E.",
+            "family": "Atkins",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Y.",
+            "family": "Pennecot",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Proceedings, IEEE Aerospace Conference"
+        ],
+        "type": "proceedings-article",
+        "URL": "https://doi.org/10.1109/aero.2002.1035631",
+        "link": [
+          {
+            "URL": "http://xplorestaging.ieee.org/ielx5/8043/22222/01035631.pdf?arnumber=1035631",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ]
+      },
+      {
+        "DOI": "10.1016/j.actaastro.2025.09.045",
+        "title": [
+          "FAST-CoOpt: Fuel-constrained high-speed co-optimization of assignment and trajectories for satellite formation reconfiguration"
+        ],
+        "author": [
+          {
+            "given": "Xing",
+            "family": "Hu",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Chenxi",
+            "family": "Wang",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Jinxin",
+            "family": "Liu",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0003-1746-260X",
+            "authenticated-orcid": false,
+            "given": "Zhi",
+            "family": "Zhai",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Shaofan",
+            "family": "Zhao",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Naijin",
+            "family": "Liu",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Xuefeng",
+            "family": "Chen",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              1
+            ]
+          ]
+        },
+        "container-title": [
+          "Acta Astronautica"
+        ],
+        "type": "journal-article",
+        "URL": "https://doi.org/10.1016/j.actaastro.2025.09.045",
+        "link": [
+          {
+            "URL": "https://api.elsevier.com/content/article/PII:S0094576525006228?httpAccept=text/xml",
+            "content-type": "text/xml",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://api.elsevier.com/content/article/PII:S0094576525006228?httpAccept=text/plain",
+            "content-type": "text/plain",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          }
+        ]
+      },
+      {
+        "DOI": "10.1016/j.actaastro.2014.02.016",
+        "title": [
+          "Optimization of satellite constellation reconfiguration maneuvers"
+        ],
+        "author": [
+          {
+            "given": "Leonid",
+            "family": "Appel",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Moshe",
+            "family": "Guelman",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "David",
+            "family": "Mishne",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2014,
+              6
+            ]
+          ]
+        },
+        "container-title": [
+          "Acta Astronautica"
+        ],
+        "type": "journal-article",
+        "URL": "https://doi.org/10.1016/j.actaastro.2014.02.016",
+        "link": [
+          {
+            "URL": "https://api.elsevier.com/content/article/PII:S0094576514000733?httpAccept=text/xml",
+            "content-type": "text/xml",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://api.elsevier.com/content/article/PII:S0094576514000733?httpAccept=text/plain",
+            "content-type": "text/plain",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          }
+        ]
+      },
+      {
+        "DOI": "10.1080/0305215x.2012.748048",
+        "title": [
+          "Trajectory optimization for unmanned aerial vehicle formation reconfiguration"
+        ],
+        "author": [
+          {
+            "given": "Hyoung-seok",
+            "family": "Kim",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Youdan",
+            "family": "Kim",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2013,
+              2,
+              18
+            ]
+          ]
+        },
+        "container-title": [
+          "Engineering Optimization"
+        ],
+        "type": "journal-article",
+        "URL": "https://doi.org/10.1080/0305215x.2012.748048",
+        "link": [
+          {
+            "URL": "http://www.tandfonline.com/doi/pdf/10.1080/0305215X.2012.748048",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ]
+      }
+    ],
+    "items-per-page": 25,
+    "query": {
+      "start-index": 0,
+      "search-terms": null
+    }
+  }
+}

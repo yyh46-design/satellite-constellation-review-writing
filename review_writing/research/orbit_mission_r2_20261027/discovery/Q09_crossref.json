@@ -1,0 +1,1318 @@
+{
+  "status": "ok",
+  "message-type": "work-list",
+  "message-version": "1.0.0",
+  "message": {
+    "facets": {},
+    "total-results": 3286577,
+    "items": [
+      {
+        "DOI": "10.31979/etd.kc42-47v8",
+        "title": [
+          "Tundra constellation design and stationkeeping"
+        ],
+        "author": [
+          {
+            "given": "Michael Joseph",
+            "family": "Bruno",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "San Jose State University"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "type": "dissertation",
+        "URL": "https://doi.org/10.31979/etd.kc42-47v8",
+        "link": [
+          {
+            "URL": "https://scholarworks.sjsu.edu/cgi/viewcontent.cgi?article=3538&amp;context=etd_theses&amp;unstamped=1",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ]
+      },
+      {
+        "DOI": "10.1109/chicc.2006.280675",
+        "title": [
+          "A Coordination Control Method for Stationkeeping of Regressive Orbit Regional Coverage Satellite Constellation"
+        ],
+        "author": [
+          {
+            "given": "Xiang",
+            "family": "Junhua",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Zhang",
+            "family": "Yulin",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2006,
+              8
+            ]
+          ]
+        },
+        "container-title": [
+          "2006 Chinese Control Conference"
+        ],
+        "type": "proceedings-article",
+        "URL": "https://doi.org/10.1109/chicc.2006.280675",
+        "link": [
+          {
+            "URL": "http://xplorestaging.ieee.org/ielx5/4060207/4060208/04060307.pdf?arnumber=4060307",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ]
+      },
+      {
+        "DOI": "10.1007/978-94-011-5088-0_3",
+        "title": [
+          "Satellite Constellation Design: Searching for Global Cost-Efficiency Trade-Offs"
+        ],
+        "author": [
+          {
+            "given": "Erick",
+            "family": "Lansard",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Jean-Luc",
+            "family": "Palmade",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              1998
+            ]
+          ]
+        },
+        "container-title": [
+          "Space Technology Proceedings",
+          "Mission Design &amp; Implementation of Satellite Constellations"
+        ],
+        "type": "book-chapter",
+        "URL": "https://doi.org/10.1007/978-94-011-5088-0_3",
+        "link": [
+          {
+            "URL": "http://www.springerlink.com/index/pdf/10.1007/978-94-011-5088-0_3",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ]
+      },
+      {
+        "DOI": "10.1002/0470845929.app1",
+        "title": [
+          "Appendix A: Satellite Constellation Design for Network Interconnection Using Non‐Geo Satellites"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2001,
+              12,
+              10
+            ]
+          ]
+        },
+        "container-title": [
+          "Service Efficient Network Interconnection via Satellite"
+        ],
+        "type": "other",
+        "URL": "https://doi.org/10.1002/0470845929.app1",
+        "link": [
+          {
+            "URL": "https://onlinelibrary.wiley.com/doi/pdf/10.1002/0470845929.app1",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ]
+      },
+      {
+        "DOI": "10.2514/6.1966-304",
+        "title": [
+          "Synchronous satellite stationkeeping"
+        ],
+        "author": [
+          {
+            "given": "B.",
+            "family": "ANZEL",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              1966,
+              5,
+              4
+            ]
+          ]
+        },
+        "container-title": [
+          "Communications Satellite Systems Conference"
+        ],
+        "type": "proceedings-article",
+        "URL": "https://doi.org/10.2514/6.1966-304",
+        "link": [
+          {
+            "URL": "http://arc.aiaa.org/doi/pdf/10.2514/6.1966-304",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ]
+      },
+      {
+        "DOI": "10.2514/6.1984-2042",
+        "title": [
+          "Stationkeeping of a constellation of geostationary communications satellites"
+        ],
+        "author": [
+          {
+            "given": "S.",
+            "family": "HUBERT",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "RCA, Astro-Electronics Div., Princeton, NJ"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "J.",
+            "family": "SWALE",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "RCA, Astro-Electronics Div., Princeton, NJ"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              1984,
+              8,
+              17
+            ]
+          ]
+        },
+        "container-title": [
+          "Astrodynamics Conference"
+        ],
+        "type": "proceedings-article",
+        "URL": "https://doi.org/10.2514/6.1984-2042",
+        "link": [
+          {
+            "URL": "http://arc.aiaa.org/doi/pdf/10.2514/6.1984-2042",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ]
+      },
+      {
+        "DOI": "10.1109/ram.2018.8463029",
+        "title": [
+          "Cost-efficient satellite constellation design by network reliability analysis"
+        ],
+        "author": [
+          {
+            "given": "Kai",
+            "family": "Hofner",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Andreas",
+            "family": "Vahl",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Enrico",
+            "family": "Stoll",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2018,
+              1
+            ]
+          ]
+        },
+        "container-title": [
+          "2018 Annual Reliability and Maintainability Symposium (RAMS)"
+        ],
+        "type": "proceedings-article",
+        "URL": "https://doi.org/10.1109/ram.2018.8463029",
+        "link": [
+          {
+            "URL": "http://xplorestaging.ieee.org/ielx7/8449909/8462916/08463029.pdf?arnumber=8463029",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ]
+      },
+      {
+        "DOI": "10.2514/6.1996-1050",
+        "title": [
+          "Low cost Little LEO constellation control"
+        ],
+        "author": [
+          {
+            "given": "Regan",
+            "family": "Howard",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "CTA, Inc., Rockville, MD"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              1996,
+              2,
+              25
+            ]
+          ]
+        },
+        "container-title": [
+          "16th International Communications Satellite Systems Conference"
+        ],
+        "type": "proceedings-article",
+        "URL": "https://doi.org/10.2514/6.1996-1050",
+        "link": [
+          {
+            "URL": "http://arc.aiaa.org/doi/pdf/10.2514/6.1996-1050",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ]
+      },
+      {
+        "DOI": "10.1002/sat.1128",
+        "title": [
+          "Satellite constellation design for telecommunication in Antarctica"
+        ],
+        "author": [
+          {
+            "given": "Sanghyun",
+            "family": "Lee",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Department of Aerospace Engineering; Texas A&M University; College Station 77843-3141 TX USA"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Yunhe",
+            "family": "Wu",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Department of Aerospace Engineering; Texas A&M University; College Station 77843-3141 TX USA"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Daniele",
+            "family": "Mortari",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Department of Aerospace Engineering; Texas A&M University; College Station 77843-3141 TX USA"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2015,
+              8,
+              13
+            ]
+          ]
+        },
+        "container-title": [
+          "International Journal of Satellite Communications and Networking"
+        ],
+        "type": "journal-article",
+        "URL": "https://doi.org/10.1002/sat.1128",
+        "link": [
+          {
+            "URL": "https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1002%2Fsat.1128",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1002%2Fsat.1128",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://onlinelibrary.wiley.com/doi/full/10.1002/sat.1128",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ]
+      },
+      {
+        "DOI": "10.1016/j.actaastro.2016.07.018",
+        "title": [
+          "Fundamentals of the route theory for satellite constellation design for Earth discontinuous coverage. Part 3: Low-cost Earth observation with minimal satellite swath"
+        ],
+        "author": [
+          {
+            "given": "Yury N.",
+            "family": "Razoumny",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2016,
+              12
+            ]
+          ]
+        },
+        "container-title": [
+          "Acta Astronautica"
+        ],
+        "type": "journal-article",
+        "URL": "https://doi.org/10.1016/j.actaastro.2016.07.018",
+        "link": [
+          {
+            "URL": "https://api.elsevier.com/content/article/PII:S0094576516306191?httpAccept=text/xml",
+            "content-type": "text/xml",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://api.elsevier.com/content/article/PII:S0094576516306191?httpAccept=text/plain",
+            "content-type": "text/plain",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          }
+        ]
+      },
+      {
+        "DOI": "10.21275/mr24517151501",
+        "title": [
+          "Satellite Link Design for LEO Constellation"
+        ],
+        "author": [
+          {
+            "given": "Vijaya",
+            "family": "Bhargavi Yadav Manche",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Samiksha",
+            "family": "Yadav Manche",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2024,
+              5,
+              5
+            ]
+          ]
+        },
+        "container-title": [
+          "International Journal of Science and Research (IJSR)"
+        ],
+        "type": "journal-article",
+        "URL": "https://doi.org/10.21275/mr24517151501"
+      },
+      {
+        "DOI": "10.2514/1.7765",
+        "title": [
+          "Tundra Constellation Design and Stationkeeping"
+        ],
+        "author": [
+          {
+            "given": "Michael J.",
+            "family": "Bruno",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "San José State University, San José, California 95192"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Henry J.",
+            "family": "Pernicka",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "University of Missouri–Rolla, Rolla, Missouri 65409-0050"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2005,
+              9
+            ]
+          ]
+        },
+        "container-title": [
+          "Journal of Spacecraft and Rockets"
+        ],
+        "type": "journal-article",
+        "URL": "https://doi.org/10.2514/1.7765",
+        "link": [
+          {
+            "URL": "https://arc.aiaa.org/doi/pdf/10.2514/1.7765",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ]
+      },
+      {
+        "DOI": "10.1007/978-3-642-54353-1_2",
+        "title": [
+          "Satellite Network Constellation Design"
+        ],
+        "author": [
+          {
+            "given": "Fei",
+            "family": "Long",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2014
+            ]
+          ]
+        },
+        "container-title": [
+          "Satellite Network Robust QoS-aware Routing"
+        ],
+        "type": "book-chapter",
+        "URL": "https://doi.org/10.1007/978-3-642-54353-1_2",
+        "link": [
+          {
+            "URL": "https://link.springer.com/content/pdf/10.1007/978-3-642-54353-1_2",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ]
+      },
+      {
+        "DOI": "10.21236/ad0672960",
+        "title": [
+          "SYNCHRONOUS SATELLITE STATIONKEEPING SIMULATION"
+        ],
+        "author": [
+          {
+            "given": "M. Chandler",
+            "family": "Crocker",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Ellen H.",
+            "family": "Swenson",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              1968,
+              5,
+              14
+            ]
+          ]
+        },
+        "type": "report",
+        "URL": "https://doi.org/10.21236/ad0672960"
+      },
+      {
+        "DOI": "10.1017/cbo9780511546136.009",
+        "title": [
+          "Beyond Cost Models, System Utility or Revenue Models: Example of a Communications Satellite"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2007,
+              12,
+              10
+            ]
+          ]
+        },
+        "container-title": [
+          "Analyses for Durability and System Design Lifetime"
+        ],
+        "type": "other",
+        "URL": "https://doi.org/10.1017/cbo9780511546136.009",
+        "link": [
+          {
+            "URL": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/5DEE2DEC381977EFECE4991B32D50393",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ]
+      },
+      {
+        "DOI": "10.1109/cetic4.2018.8531012",
+        "title": [
+          "Low Cost Satellite Constellation Design Using Walker's Method for a Specified Launch Station"
+        ],
+        "author": [
+          {
+            "given": "Dany",
+            "family": "Jennez",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "M",
+            "family": "Selvaraaj",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "R",
+            "family": "Letha Kumari",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2018,
+              7
+            ]
+          ]
+        },
+        "container-title": [
+          "2018 International CET Conference on Control, Communication, and Computing (IC4)"
+        ],
+        "type": "proceedings-article",
+        "URL": "https://doi.org/10.1109/cetic4.2018.8531012",
+        "link": [
+          {
+            "URL": "http://xplorestaging.ieee.org/ielx7/8510754/8530878/08531012.pdf?arnumber=8531012",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ]
+      },
+      {
+        "DOI": "10.2514/6.2016-5735",
+        "title": [
+          "High Order APSK Constellation Design For Next Generation Satellite Communication"
+        ],
+        "author": [
+          {
+            "given": "Farbod",
+            "family": "Kayhan",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "University of Luxembourg"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2016,
+              10,
+              13
+            ]
+          ]
+        },
+        "container-title": [
+          "34th AIAA International Communications Satellite Systems Conference"
+        ],
+        "type": "proceedings-article",
+        "URL": "https://doi.org/10.2514/6.2016-5735",
+        "link": [
+          {
+            "URL": "http://arc.aiaa.org/doi/pdf/10.2514/6.2016-5735",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ]
+      },
+      {
+        "DOI": "10.37394/23204.2020.19.9",
+        "title": [
+          "LEO Hybrid Satellite Constellation Design Based on Multi-purpose Genetic Algorithm to Optimize Cost and Reliability of Global Coverage"
+        ],
+        "author": [
+          {
+            "given": "Saeld",
+            "family": "Kohani",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Nanjing University of Aeronautics and Astronautics, Astronautics College, Nanjing, JiangSu, 210016, CHINA"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Peng",
+            "family": "Zong",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Nanjing University of Aeronautics and Astronautics, Astronautics College, Nanjing, JiangSu, 210016, CHINA"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2020,
+              5,
+              18
+            ]
+          ]
+        },
+        "container-title": [
+          "WSEAS TRANSACTIONS ON COMMUNICATIONS"
+        ],
+        "type": "journal-article",
+        "URL": "https://doi.org/10.37394/23204.2020.19.9",
+        "abstract_present_in_local_response": true,
+        "abstract_sha256": "2dfc5b1fe8f1649893d889fe75c5f1f4923fa66b4a18a76c8cc008d9c65023e0"
+      },
+      {
+        "DOI": "10.2514/6.2003-2283",
+        "title": [
+          "Genetic Hybrid Satellite Constellation Design"
+        ],
+        "author": [
+          {
+            "given": "Muhamad",
+            "family": "Asvial",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Rahim",
+            "family": "Tafazolli",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Barry G.",
+            "family": "Evans",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2003,
+              4,
+              15
+            ]
+          ]
+        },
+        "container-title": [
+          "21st International Communications Satellite Systems Conference and Exhibit"
+        ],
+        "type": "proceedings-article",
+        "URL": "https://doi.org/10.2514/6.2003-2283",
+        "link": [
+          {
+            "URL": "http://arc.aiaa.org/doi/pdf/10.2514/6.2003-2283",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ]
+      },
+      {
+        "DOI": "10.2514/6.1974-452",
+        "title": [
+          "Telesat stationkeeping methods and performance"
+        ],
+        "author": [
+          {
+            "given": "W.",
+            "family": "WRIGHT",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Telesat Canada, Ottawa, Canada"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "B.",
+            "family": "ANZEL",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Hughes Aircraft Co., El Segundo, Calif."
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              1974,
+              4,
+              22
+            ]
+          ]
+        },
+        "container-title": [
+          "5th  Communications Satellite Systems Conference"
+        ],
+        "type": "proceedings-article",
+        "URL": "https://doi.org/10.2514/6.1974-452",
+        "link": [
+          {
+            "URL": "http://arc.aiaa.org/doi/pdf/10.2514/6.1974-452",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ]
+      },
+      {
+        "DOI": "10.1007/978-94-011-5088-0_16",
+        "title": [
+          "Satellite Constellation Design for Navigation Needs"
+        ],
+        "author": [
+          {
+            "given": "P.",
+            "family": "Micheau",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "V.",
+            "family": "Thiebolt",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              1998
+            ]
+          ]
+        },
+        "container-title": [
+          "Space Technology Proceedings",
+          "Mission Design &amp; Implementation of Satellite Constellations"
+        ],
+        "type": "book-chapter",
+        "URL": "https://doi.org/10.1007/978-94-011-5088-0_16",
+        "link": [
+          {
+            "URL": "http://www.springerlink.com/index/pdf/10.1007/978-94-011-5088-0_16",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ]
+      },
+      {
+        "DOI": "10.2514/6.2002-2018",
+        "title": [
+          "Non-GEO Satellite Constellation Design with Satellite Diversity Using Genetic Algorithm"
+        ],
+        "author": [
+          {
+            "given": "Muhamad",
+            "family": "Asvial",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "CCSR - University of Surrey"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Rahim",
+            "family": "Tafazolli",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "CCSR - University of Surrey"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Barry",
+            "family": "Evans",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "CCSR - University of Surrey"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2002,
+              5,
+              12
+            ]
+          ]
+        },
+        "container-title": [
+          "20th AIAA International Communication Satellite Systems Conference and Exhibit"
+        ],
+        "type": "proceedings-article",
+        "URL": "https://doi.org/10.2514/6.2002-2018",
+        "link": [
+          {
+            "URL": "http://arc.aiaa.org/doi/pdf/10.2514/6.2002-2018",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ]
+      },
+      {
+        "DOI": "10.2514/6.1998-1202",
+        "title": [
+          "Optimization on constellation design for spectrum sharing among satellite networks"
+        ],
+        "author": [
+          {
+            "given": "Arthur",
+            "family": "Wang",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              1998,
+              2,
+              23
+            ]
+          ]
+        },
+        "container-title": [
+          "17th AIAA International Communications Satellite Systems Conference and Exhibit"
+        ],
+        "type": "proceedings-article",
+        "URL": "https://doi.org/10.2514/6.1998-1202",
+        "link": [
+          {
+            "URL": "http://arc.aiaa.org/doi/pdf/10.2514/6.1998-1202",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ]
+      },
+      {
+        "DOI": "10.1023/a:1009987231306",
+        "title": [
+          "Low-Cost Operation of the ORBCOMM Satellite Constellation"
+        ],
+        "author": [
+          {
+            "given": "Andrew W.",
+            "family": "Lewin",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              1998,
+              3
+            ]
+          ]
+        },
+        "container-title": [
+          "Journal of Reducing Space Mission Cost"
+        ],
+        "type": "journal-article",
+        "URL": "https://doi.org/10.1023/a:1009987231306",
+        "link": [
+          {
+            "URL": "https://link.springer.com/content/pdf/10.1023/A:1009987231306.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://link.springer.com/article/10.1023/A:1009987231306/fulltext.html",
+            "content-type": "text/html",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://link.springer.com/content/pdf/10.1023/A:1009987231306.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ]
+      },
+      {
+        "DOI": "10.36227/techrxiv.173611339.95570965/v2",
+        "type": "posted-content",
+        "title": [
+          "Towards Future Communication: AI-Based Satellite Constellation Orbit Optimization and Design for Underserved Areas"
+        ],
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0000-0002-3968-2307",
+            "authenticated-orcid": false,
+            "given": "Zixia",
+            "family": "Shang",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "link": [
+          {
+            "URL": "https://www.techrxiv.org/doi/pdf/10.36227/techrxiv.173611339.95570965/v2",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "URL": "https://doi.org/10.36227/techrxiv.173611339.95570965/v2",
+        "published": {
+          "date-parts": [
+            [
+              2025,
+              7,
+              22
+            ]
+          ]
+        },
+        "abstract_present_in_local_response": true,
+        "abstract_sha256": "ce475f52c99f9d000d10a4db8cfa00a73886d2ddfc5e26903b6def6c33b5c682"
+      }
+    ],
+    "items-per-page": 25,
+    "query": {
+      "start-index": 0,
+      "search-terms": null
+    }
+  }
+}

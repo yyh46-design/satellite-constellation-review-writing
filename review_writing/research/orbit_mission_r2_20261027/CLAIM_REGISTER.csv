@@ -1,0 +1,22 @@
+﻿claim_id,source_id,locator,claim_cn,boundary_cn,adoption,source_url,human_verified
+C-N001-01,N001_ROGERS,"p25, Table 8",同一5星离散候选算例中，MMRT与MART最大/平均重访分别为22/14.95与44/12.43 min,给定轨道族与离散周期；不是重求解结果,ADOPT_METRIC_COMPARISON,https://arxiv.org/pdf/2507.09855v2,False
+C-N001-02,N001_ROGERS,pp31–34,几何连通和覆盖冗余可进入构型MILP,不是业务交付可靠性验证,ADOPT_METRIC_COMPARISON,https://arxiv.org/pdf/2507.09855v2,False
+C-N002-01,N002_PEARL,"pp29–31, §V.B; Tables 4–6",4星Sandy算例固定/全模型/滚动下传量0.80/3.20/2.40 GB，时间0.24/54.60/6.65 min,已知历史路径；模型内下传；阶段式机动,ADOPT_ORBIT_RESOURCE_DOWNLINK,https://arxiv.org/pdf/2507.10394v3,False
+C-N002-02,N002_PEARL,"p26, Table 3",24例Exact有10例数值可行、10例超时无解、4例内存失败；10个可比目标值均高于RHP,Exact与每个滚动子问题各60 min，不是相同累计预算,ADOPT_ORBIT_RESOURCE_DOWNLINK,https://arxiv.org/pdf/2507.10394v3,False
+C-N002-03,N002_PEARL,pp32–35,Exact与RHP四星总机动代价2.26/2.89 km/s,总量不等于逐星预算；不推导普遍燃料优势,ADOPT_ORBIT_RESOURCE_DOWNLINK,https://arxiv.org/pdf/2507.10394v3,False
+C-N003-01,N003_CMAS,"p6, §4.2",机动计划、执行、取消后更新成像时间与指向，执行后状态反馈未来任务,运营架构证据，无匹配业务增益试验,ADOPT_OPERATION_FEEDBACK,https://publications.spaceops.org/2025/download_by_id.php?id=0105,False
+C-N003-02,N003_CMAS,"p7, §5.4",星座级管理器属于未来扩展,不能把运营舰队星数计为联合控制验证规模,ADOPT_OPERATION_FEEDBACK,https://publications.spaceops.org/2025/download_by_id.php?id=0105,False
+C-N004-01,N004_HULL,p6,两次低阻力姿态分别因供电安全模式和星敏感器过热中断,EO-1单星退役后试验，载荷已关闭,ADOPT_FLIGHT_NEGATIVE,https://ntrs.nasa.gov/api/citations/20170010724/downloads/20170010724.pdf,False
+C-N004-02,N004_HULL,p7,154 m沿轨差异小于约±500 m跟踪容差,不能据此确认位移效果或避碰成功,ADOPT_FLIGHT_NEGATIVE,https://ntrs.nasa.gov/api/citations/20170010724/downloads/20170010724.pdf,False
+C-N005-01,N005_GAIAS,"pp3–4, Eqs.2–6",相对半长轴变化可借自然漂移形成沿轨位移，终端时刻影响代价,近圆线性相对运动模型,ADOPT_TIME_CONTROL_MECHANISM,https://slab.sites.stanford.edu/sites/g/files/sbiybj25201/files/media/file/jgcd2015_gaiasdamico.pdf,False
+C-N005-02,N005_GAIAS,"pp10–12, Table7, §VII",两类重构方案的代价排序随给定转移时间改变；充分时域可提供等代价位置选择,不意味着任意排除窗口均可无代价满足,ADOPT_TIME_CONTROL_MECHANISM,https://slab.sites.stanford.edu/sites/g/files/sbiybj25201/files/media/file/jgcd2015_gaiasdamico.pdf,False
+C-N006-01,N006_MAINTENANCE,"pp13–18, §5.1–5.2",绝对与相对策略算例的规模、时长及容差不同,不能据异质算例宣布总体优劣,RESERVE_COMPARABILITY_NUMERIC,https://mdpi-res.com/d_attachment/applsci/applsci-15-04640/article_deploy/applsci-15-04640.pdf,False
+C-N006-02,N006_MAINTENANCE,"pp14–15, Tables3–4",场景参数和半长轴调整量表述需要进一步厘清,HOLD数值采用；不武断认定59.79与29.4为同一量,RESERVE_COMPARABILITY_NUMERIC,https://mdpi-res.com/d_attachment/applsci/applsci-15-04640/article_deploy/applsci-15-04640.pdf,False
+C-N007-01,N007_MCGRATH,"pp11–13, §III",FORMOSAT-3的暂停、改变目标和硬件故障改变部署完成时间,模型与真实TLE对照；不能忽略不利成员,ADOPT_DEPLOYMENT_LIFETIME,https://strathprints.strath.ac.uk/71130/1/McGrath_Macdonald_JGCD_2020_General_perturbation_method_for_satellite_constellation_deployment.pdf,False
+C-N007-02,N007_MCGRATH,"p22, Table4",24星设定中传统四次发射约1年，单次500 km注入约2.75年,固定任务和发射假设，非通用部署时间,ADOPT_DEPLOYMENT_LIFETIME,https://strathprints.strath.ac.uk/71130/1/McGrath_Macdonald_JGCD_2020_General_perturbation_method_for_satellite_constellation_deployment.pdf,False
+C-N008-01,N008_ZHAO,"pp5–6, Eqs.13/16/17",脉冲和连续节点变更代价的倾角项与比较几何需核对,仅记录具体疑点，不宣判原研究失效；不进入正文,RESERVE_GEOMETRY_CHECK,https://mdpi-res.com/d_attachment/sensors/sensors-24-00631/article_deploy/sensors-24-00631.pdf,False
+C-N009-01,N009_SDDIP,pp10–11; p30 AppendixA,累计预算通过预裁剪槽位保证所有允许序列满足，非一般预算状态优化,受限候选集合；完整预算扩展仍属未来工作,ADOPT_UNCERTAINTY_WITH_LIMITS,https://arxiv.org/pdf/2608.09738v1,False
+C-N009-02,N009_SDDIP,"pp17–23, Table1",两星轨道目标例SDDiP十轮约60 h且未完全收敛,对照方法预算与调参不同；不宣称实时或普遍优越,ADOPT_UNCERTAINTY_WITH_LIMITS,https://arxiv.org/pdf/2608.09738v1,False
+C-N009-03,N009_SDDIP,"p29, Conclusions",下传与充电的随机联合调度仍为后续扩展,不把该模型当作随机REOSSP完整业务链,ADOPT_UNCERTAINTY_WITH_LIMITS,https://arxiv.org/pdf/2608.09738v1,False
+C-N010-01,N010_FOSTER,p9; pp10–12,成像和下传可抢占阻力模式，控制估计需按实际轨道反馈更新,沿轨相位控制，不是全星座避碰验证,ADOPT_HISTORICAL_VERSION_REREAD,https://arxiv.org/pdf/1806.01218v1,False
+C-N010-02,N010_FOSTER,"pp11–13, Figs.11–13",12星为飞行相位控制，88星图为仿真,同一历史N02研究线，不重复新增独立来源,ADOPT_HISTORICAL_VERSION_REREAD,https://arxiv.org/pdf/1806.01218v1,False

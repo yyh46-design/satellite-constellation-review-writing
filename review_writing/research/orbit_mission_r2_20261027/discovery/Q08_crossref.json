@@ -1,0 +1,1879 @@
+{
+  "status": "ok",
+  "message-type": "work-list",
+  "message-version": "1.0.0",
+  "message": {
+    "facets": {},
+    "total-results": 1770619,
+    "items": [
+      {
+        "DOI": "10.1016/j.actaastro.2024.12.027",
+        "title": [
+          "Orbit trajectory analysis and control of in-plane satellite constellation deployment using atmospheric drag"
+        ],
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0009-0000-8504-9900",
+            "authenticated-orcid": false,
+            "given": "Yuta",
+            "family": "Imoto",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0003-4017-5123",
+            "authenticated-orcid": false,
+            "given": "Satoshi",
+            "family": "Satoh",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0001-8717-1133",
+            "authenticated-orcid": false,
+            "given": "Katsuhiko",
+            "family": "Yamada",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2025,
+              7
+            ]
+          ]
+        },
+        "container-title": [
+          "Acta Astronautica"
+        ],
+        "type": "journal-article",
+        "URL": "https://doi.org/10.1016/j.actaastro.2024.12.027",
+        "link": [
+          {
+            "URL": "https://api.elsevier.com/content/article/PII:S0094576524007768?httpAccept=text/xml",
+            "content-type": "text/xml",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://api.elsevier.com/content/article/PII:S0094576524007768?httpAccept=text/plain",
+            "content-type": "text/plain",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          }
+        ]
+      },
+      {
+        "DOI": "10.1109/cndc70899.2026.11708024",
+        "title": [
+          "Task Assignment Algorithm for Satellite Constellation Orbit Transfer Based on QMIX"
+        ],
+        "author": [
+          {
+            "given": "Zihui",
+            "family": "Ma",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "College of Aerospace Science, National Univ. of Defense Technology",
+                "place": [
+                  "Changsha, China"
+                ]
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Rong",
+            "family": "Chen",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "NUDT",
+                "place": [
+                  "Changsha, China"
+                ]
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Yuzhu",
+            "family": "Bai",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "NUDT",
+                "place": [
+                  "Changsha, China"
+                ]
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              8
+            ]
+          ]
+        },
+        "container-title": [
+          "2026 2nd International Conference on Navigation, Detection and Control (CNDC)"
+        ],
+        "type": "proceedings-article",
+        "URL": "https://doi.org/10.1109/cndc70899.2026.11708024",
+        "link": [
+          {
+            "URL": "http://xplorestaging.ieee.org/ielx8/11707820/11707871/11708024.pdf?arnumber=11708024",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ]
+      },
+      {
+        "DOI": "10.36227/techrxiv.173611339.95570965/v1",
+        "type": "posted-content",
+        "title": [
+          "Towards Future Communication: AI-Based Satellite Constellation Orbit Optimization and Design for Underserved Areas"
+        ],
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0000-0002-3968-2307",
+            "authenticated-orcid": false,
+            "given": "Zixia",
+            "family": "Shang",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "link": [
+          {
+            "URL": "https://www.techrxiv.org/doi/pdf/10.36227/techrxiv.173611339.95570965/v1",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "URL": "https://doi.org/10.36227/techrxiv.173611339.95570965/v1",
+        "published": {
+          "date-parts": [
+            [
+              2025,
+              1,
+              5
+            ]
+          ]
+        },
+        "abstract_present_in_local_response": true,
+        "abstract_sha256": "b195cbb88ab818e194e263f3ac8e07b2f51c55fd7a4cefa939078a7b374ddda9"
+      },
+      {
+        "DOI": "10.36227/techrxiv.173611339.95570965/v2",
+        "type": "posted-content",
+        "title": [
+          "Towards Future Communication: AI-Based Satellite Constellation Orbit Optimization and Design for Underserved Areas"
+        ],
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0000-0002-3968-2307",
+            "authenticated-orcid": false,
+            "given": "Zixia",
+            "family": "Shang",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "link": [
+          {
+            "URL": "https://www.techrxiv.org/doi/pdf/10.36227/techrxiv.173611339.95570965/v2",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "URL": "https://doi.org/10.36227/techrxiv.173611339.95570965/v2",
+        "published": {
+          "date-parts": [
+            [
+              2025,
+              7,
+              22
+            ]
+          ]
+        },
+        "abstract_present_in_local_response": true,
+        "abstract_sha256": "ce475f52c99f9d000d10a4db8cfa00a73886d2ddfc5e26903b6def6c33b5c682"
+      },
+      {
+        "DOI": "10.1016/j.asr.2018.10.002",
+        "title": [
+          "Task allocation strategies for cooperative task planning of multi-autonomous satellite constellation"
+        ],
+        "author": [
+          {
+            "given": "Feng",
+            "family": "Yao",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Jiting",
+            "family": "Li",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0002-8388-7932",
+            "authenticated-orcid": false,
+            "given": "Yuning",
+            "family": "Chen",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Xiaogeng",
+            "family": "Chu",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Bang",
+            "family": "Zhao",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2019,
+              1
+            ]
+          ]
+        },
+        "container-title": [
+          "Advances in Space Research"
+        ],
+        "type": "journal-article",
+        "URL": "https://doi.org/10.1016/j.asr.2018.10.002",
+        "link": [
+          {
+            "URL": "https://api.elsevier.com/content/article/PII:S0273117718307713?httpAccept=text/xml",
+            "content-type": "text/xml",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://api.elsevier.com/content/article/PII:S0273117718307713?httpAccept=text/plain",
+            "content-type": "text/plain",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          }
+        ]
+      },
+      {
+        "DOI": "10.1016/j.ifacol.2025.11.495",
+        "title": [
+          "Distributed Task Planning Method Based on Potential Game for Agile Imaging Satellite Constellation"
+        ],
+        "author": [
+          {
+            "given": "Yinan",
+            "family": "Ding",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Yongjun",
+            "family": "Lei",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Shuyi",
+            "family": "Wang",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2025
+            ]
+          ]
+        },
+        "container-title": [
+          "IFAC-PapersOnLine"
+        ],
+        "type": "journal-article",
+        "URL": "https://doi.org/10.1016/j.ifacol.2025.11.495",
+        "link": [
+          {
+            "URL": "https://api.elsevier.com/content/article/PII:S2405896325021731?httpAccept=text/xml",
+            "content-type": "text/xml",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://api.elsevier.com/content/article/PII:S2405896325021731?httpAccept=text/plain",
+            "content-type": "text/plain",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          }
+        ]
+      },
+      {
+        "DOI": "10.21236/ad0642232",
+        "title": [
+          "GENERALIZED MULTISTEP METHODS AND APPLICATIONS TO SATELLITE ORBIT TRAJECTORY COMPUTATION"
+        ],
+        "author": [
+          {
+            "given": "James",
+            "family": "Dyer",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              1966,
+              10,
+              28
+            ]
+          ]
+        },
+        "type": "report",
+        "URL": "https://doi.org/10.21236/ad0642232"
+      },
+      {
+        "DOI": "10.2514/6.2000-1226",
+        "title": [
+          "GPS spacecraft navigation for orbit determination and satellite constellation control"
+        ],
+        "author": [
+          {
+            "given": "A.",
+            "family": "Turner",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Space Systems/Loral, Palo Alto, CA"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "J.",
+            "family": "Rodden",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Space Systems/Loral, Palo Alto, CA"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "M.",
+            "family": "Tse",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Space Systems/Loral, Palo Alto, CA"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2000,
+              4,
+              10
+            ]
+          ]
+        },
+        "container-title": [
+          "18th International Communications Satellite Systems Conference and Exhibit"
+        ],
+        "type": "proceedings-article",
+        "URL": "https://doi.org/10.2514/6.2000-1226",
+        "link": [
+          {
+            "URL": "http://arc.aiaa.org/doi/pdf/10.2514/6.2000-1226",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ]
+      },
+      {
+        "DOI": "10.23919/jsee.2026.000143",
+        "title": [
+          "A New Data-Driven Task Planning Approach for on-Orbit Refueling of Low-Earth Orbit Mega-Constellation Members"
+        ],
+        "author": [
+          {
+            "given": "Huang",
+            "family": "Xingping",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "School of Astronautics, Harbin Institute of Technology",
+                "place": [
+                  "Harbin, China"
+                ]
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Qiu",
+            "family": "Shi",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "School of Astronautics, Harbin Institute of Technology",
+                "place": [
+                  "Harbin, China"
+                ]
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Zhao",
+            "family": "Haotian",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "School of Astronautics, Harbin Institute of Technology",
+                "place": [
+                  "Harbin, China"
+                ]
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Liu",
+            "family": "Ming",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "School of Astronautics, Harbin Institute of Technology",
+                "place": [
+                  "Harbin, China"
+                ]
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Cao",
+            "family": "Xibin",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "School of Astronautics, Harbin Institute of Technology",
+                "place": [
+                  "Harbin, China"
+                ]
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              8
+            ]
+          ]
+        },
+        "container-title": [
+          "Journal of Systems Engineering and Electronics"
+        ],
+        "type": "journal-article",
+        "URL": "https://doi.org/10.23919/jsee.2026.000143",
+        "link": [
+          {
+            "URL": "http://xplorestaging.ieee.org/ielx8/5971804/11684965/11685248.pdf?arnumber=11685248",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ]
+      },
+      {
+        "DOI": "10.1016/j.ast.2025.110240",
+        "title": [
+          "Geostationary autonomous trajectory determination technology based on enhanced inter-satellite links of the Beidou medium earth orbit constellation"
+        ],
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0009-0007-1663-7830",
+            "authenticated-orcid": false,
+            "given": "Fangtan",
+            "family": "Jiao",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Yuxin",
+            "family": "Hu",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Xiaodong",
+            "family": "Yu",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Haihong",
+            "family": "Wang",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Qiuli",
+            "family": "Chen",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2025,
+              8
+            ]
+          ]
+        },
+        "container-title": [
+          "Aerospace Science and Technology"
+        ],
+        "type": "journal-article",
+        "URL": "https://doi.org/10.1016/j.ast.2025.110240",
+        "link": [
+          {
+            "URL": "https://api.elsevier.com/content/article/PII:S1270963825003116?httpAccept=text/xml",
+            "content-type": "text/xml",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://api.elsevier.com/content/article/PII:S1270963825003116?httpAccept=text/plain",
+            "content-type": "text/plain",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          }
+        ]
+      },
+      {
+        "DOI": "10.2514/6.2010-8258",
+        "title": [
+          "Simultaneous Orbit and Atmospheric Density Estimation for a Satellite Constellation"
+        ],
+        "author": [
+          {
+            "given": "Joanna",
+            "family": "Hinks",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Cornell University"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Mark",
+            "family": "Psiaki",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Cornell University"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2010,
+              6,
+              14
+            ]
+          ]
+        },
+        "container-title": [
+          "AIAA/AAS Astrodynamics Specialist Conference"
+        ],
+        "type": "proceedings-article",
+        "URL": "https://doi.org/10.2514/6.2010-8258",
+        "link": [
+          {
+            "URL": "http://arc.aiaa.org/doi/pdf/10.2514/6.2010-8258",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ]
+      },
+      {
+        "DOI": "10.52202/078367-0040",
+        "title": [
+          "Transit of the Leo Communications Satellite Constellation Across the Communication Range of a Geostationary Orbit Satellite"
+        ],
+        "author": [
+          {
+            "given": "Byoung-Sun",
+            "family": "Lee",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Electronics and Telecommunications Research Institute (ETRI)"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Yoola",
+            "family": "Hwang",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Electronics and Telecommunications Research Institute (ETRI)"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2024
+            ]
+          ]
+        },
+        "container-title": [
+          "IAF Space Operations Symposium"
+        ],
+        "type": "proceedings-article",
+        "URL": "https://doi.org/10.52202/078367-0040"
+      },
+      {
+        "DOI": "10.1002/sat.1438",
+        "type": "journal-article",
+        "title": [
+          "Joint power allocation and cooperative analog beamforming for ultra‐dense low Earth orbit satellite constellation networks"
+        ],
+        "author": [
+          {
+            "given": "Jianfei",
+            "family": "Tong",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "School of Electronic Engineering Beijing University of Posts and Telecommunications  Beijing China"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Cheng",
+            "family": "Wang",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "School of Electronic Engineering Beijing University of Posts and Telecommunications  Beijing China"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Xiaoyan",
+            "family": "Zhao",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "School of Electronic Engineering Beijing University of Posts and Telecommunications  Beijing China"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0001-9814-2768",
+            "authenticated-orcid": false,
+            "given": "Gaofeng",
+            "family": "Cui",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "School of Electronic Engineering Beijing University of Posts and Telecommunications  Beijing China"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Weidong",
+            "family": "Wang",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "School of Electronic Engineering Beijing University of Posts and Telecommunications  Beijing China"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "International Journal of Satellite Communications and Networking"
+        ],
+        "link": [
+          {
+            "URL": "https://onlinelibrary.wiley.com/doi/pdf/10.1002/sat.1438",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://onlinelibrary.wiley.com/doi/full-xml/10.1002/sat.1438",
+            "content-type": "application/xml",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://onlinelibrary.wiley.com/doi/pdf/10.1002/sat.1438",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "URL": "https://doi.org/10.1002/sat.1438",
+        "published": {
+          "date-parts": [
+            [
+              2021,
+              11,
+              30
+            ]
+          ]
+        },
+        "abstract_present_in_local_response": true,
+        "abstract_sha256": "e508f30712b30514ee2989cb45684faeb919f83ae222baaabac036ed368acd93"
+      },
+      {
+        "DOI": "10.46620/ursiatrasc24/razp7653",
+        "title": [
+          "Small satellite antenna design strategies for satellite constellation at Low Earth Orbit"
+        ],
+        "author": [
+          {
+            "given": "Jaan",
+            "family": "Praks",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Ville",
+            "family": "Lunden",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": ".",
+            "family": "Mayank",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2024
+            ]
+          ]
+        },
+        "container-title": [
+          "Proceedings of the 4th URSI Atlantic RadioScience Conference – AT-RASC 2024"
+        ],
+        "type": "proceedings-article",
+        "URL": "https://doi.org/10.46620/ursiatrasc24/razp7653"
+      },
+      {
+        "DOI": "10.2514/6.2004-627-423",
+        "title": [
+          "An Italian Ground System for Satellite Constellation In-Orbit Control"
+        ],
+        "author": [
+          {
+            "given": "G.",
+            "family": "Tarchini",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "C.",
+            "family": "Labonia",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "L.",
+            "family": "Bruca",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2004,
+              5,
+              17
+            ]
+          ]
+        },
+        "container-title": [
+          "Space OPS 2004 Conference"
+        ],
+        "type": "proceedings-article",
+        "URL": "https://doi.org/10.2514/6.2004-627-423",
+        "link": [
+          {
+            "URL": "http://arc.aiaa.org/doi/pdf/10.2514/6.2004-627-423",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ]
+      },
+      {
+        "DOI": "10.3390/electronics14051016",
+        "type": "journal-article",
+        "title": [
+          "Joint Task Offloading and Resource Scheduling in Low Earth Orbit Satellite Edge Computing Networks"
+        ],
+        "author": [
+          {
+            "given": "Jinhong",
+            "family": "Li",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "School of Communications and Information Engineering, Chongqing University of Posts and Telecommunications, Chongqing 400065, China"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0002-0957-7792",
+            "authenticated-orcid": false,
+            "given": "Rong",
+            "family": "Chai",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "School of Communications and Information Engineering, Chongqing University of Posts and Telecommunications, Chongqing 400065, China"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Kangan",
+            "family": "Gui",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "School of Communications and Information Engineering, Chongqing University of Posts and Telecommunications, Chongqing 400065, China"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0002-4125-2840",
+            "authenticated-orcid": false,
+            "given": "Chengchao",
+            "family": "Liang",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "School of Communications and Information Engineering, Chongqing University of Posts and Telecommunications, Chongqing 400065, China"
+              },
+              {
+                "name": "Department of Systems and Computer Engineering, Carleton University, Ottawa, ON K1S 5B6, Canada"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Electronics"
+        ],
+        "link": [
+          {
+            "URL": "https://www.mdpi.com/2079-9292/14/5/1016/pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "URL": "https://doi.org/10.3390/electronics14051016",
+        "published": {
+          "date-parts": [
+            [
+              2025,
+              3,
+              3
+            ]
+          ]
+        },
+        "abstract_present_in_local_response": true,
+        "abstract_sha256": "3c351b6bf21f0aaf617174340ff844a85bfac9dac0a3fc5f5932d8e53fd7007e"
+      },
+      {
+        "DOI": "10.2514/6.2011-8025",
+        "title": [
+          "A Medium Earth Orbit (MEO) Constellation for Global Packet Network"
+        ],
+        "author": [
+          {
+            "given": "Xiangdong",
+            "family": "Liu",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Lockheed Martin Corporation"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2011,
+              6,
+              14
+            ]
+          ]
+        },
+        "container-title": [
+          "29th AIAA International Communications Satellite Systems Conference (ICSSC-2011)"
+        ],
+        "type": "proceedings-article",
+        "URL": "https://doi.org/10.2514/6.2011-8025",
+        "link": [
+          {
+            "URL": "http://arc.aiaa.org/doi/pdf/10.2514/6.2011-8025",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ]
+      },
+      {
+        "DOI": "10.1109/icsc.1996.865352",
+        "title": [
+          "The integrated satellite information system on the basis of low-orbit satellite constellation and geostationary satellites"
+        ],
+        "author": [
+          {
+            "given": "V.",
+            "family": "Kravets",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "V.",
+            "family": "Vlasov",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Y.",
+            "family": "Pulkhrov",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "I.",
+            "family": "Brodski",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Proceedings of The 2nd International Conference on Satellite Communications"
+        ],
+        "type": "proceedings-article",
+        "URL": "https://doi.org/10.1109/icsc.1996.865352",
+        "link": [
+          {
+            "URL": "http://xplorestaging.ieee.org/ielx5/6958/18741/00865352.pdf?arnumber=865352",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ]
+      },
+      {
+        "DOI": "10.1109/chicc.2006.280675",
+        "title": [
+          "A Coordination Control Method for Stationkeeping of Regressive Orbit Regional Coverage Satellite Constellation"
+        ],
+        "author": [
+          {
+            "given": "Xiang",
+            "family": "Junhua",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Zhang",
+            "family": "Yulin",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2006,
+              8
+            ]
+          ]
+        },
+        "container-title": [
+          "2006 Chinese Control Conference"
+        ],
+        "type": "proceedings-article",
+        "URL": "https://doi.org/10.1109/chicc.2006.280675",
+        "link": [
+          {
+            "URL": "http://xplorestaging.ieee.org/ielx5/4060207/4060208/04060307.pdf?arnumber=4060307",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ]
+      },
+      {
+        "DOI": "10.2514/6.2024-0746",
+        "title": [
+          "Observation Task Scheduling of Satellite Constellation with Consensus-based Task Pruning"
+        ],
+        "author": [
+          {
+            "given": "Sung Jun",
+            "family": "Kim",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Korea Advanced Institute of Science and Technology"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Chae-Hyeon",
+            "family": "Kim",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Korea Advanced Institute of Science and Technology"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Han-Lim",
+            "family": "Choi",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Korea Advanced Institute of Science and Technology"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2024,
+              1,
+              4
+            ]
+          ]
+        },
+        "container-title": [
+          "AIAA SCITECH 2024 Forum"
+        ],
+        "type": "proceedings-article",
+        "URL": "https://doi.org/10.2514/6.2024-0746",
+        "link": [
+          {
+            "URL": "https://arc.aiaa.org/doi/pdf/10.2514/6.2024-0746",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ]
+      },
+      {
+        "DOI": "10.1117/12.3109084",
+        "title": [
+          "High-orbit remote sensing satellite constellation mission planning algorithm"
+        ],
+        "author": [
+          {
+            "given": "Yaoye",
+            "family": "Zheng",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Yu",
+            "family": "Qi",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Hang",
+            "family": "Ma",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Fuxing",
+            "family": "Zhang",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Zhiqian",
+            "family": "Wang",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Pengju",
+            "family": "Li",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Gaofei",
+            "family": "Peng",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Xiaodong",
+            "family": "Hu",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              5,
+              11
+            ]
+          ]
+        },
+        "container-title": [
+          "Eleventh Symposium on Novel Optoelectronic Detection Technology and Applications (NDTA 2025)"
+        ],
+        "type": "proceedings-article",
+        "URL": "https://doi.org/10.1117/12.3109084"
+      },
+      {
+        "DOI": "10.2514/6.2007-3305",
+        "title": [
+          "Designing LEO Retrograde Orbit Twin-Station Satellite Constellation for Regional Coverage"
+        ],
+        "author": [
+          {
+            "given": "Juan",
+            "family": "Zhang",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "School of Mechanics, Civil Eng. & Architecture, Northwestern Polytechnical University"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Xingsuo",
+            "family": "He",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "School of Mechanics, Civil Eng. & Architecture, Northwestern Polytechnical University"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Liang",
+            "family": "Li",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "School of Mechanics, Civil Eng. & Architecture, Northwestern Polytechnical University"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Fengyan",
+            "family": "Deng",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "School of Mechanics, Civil Eng. & Architecture, Northwestern Polytechnical University"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2007,
+              1,
+              30
+            ]
+          ]
+        },
+        "container-title": [
+          "25th AIAA International Communications Satellite Systems Conference (organized by APSCC)"
+        ],
+        "type": "proceedings-article",
+        "URL": "https://doi.org/10.2514/6.2007-3305",
+        "link": [
+          {
+            "URL": "http://arc.aiaa.org/doi/pdf/10.2514/6.2007-3305",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ]
+      },
+      {
+        "DOI": "10.2514/6.1982-526",
+        "title": [
+          "Planning satellite communication services and spectrum-orbit utilization"
+        ],
+        "author": [
+          {
+            "given": "P.",
+            "family": "SAWITZ",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "ORI, Inc., Silver Spring, MD"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              1982,
+              3,
+              8
+            ]
+          ]
+        },
+        "container-title": [
+          "9th Communications Satellite System Conference"
+        ],
+        "type": "proceedings-article",
+        "URL": "https://doi.org/10.2514/6.1982-526",
+        "link": [
+          {
+            "URL": "http://arc.aiaa.org/doi/pdf/10.2514/6.1982-526",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ]
+      },
+      {
+        "DOI": "10.2514/6.2008-5415",
+        "title": [
+          "Beyond GEO II: Raindrop Elliptical Orbit Constellation for Frequency Re-Use"
+        ],
+        "author": [
+          {
+            "given": "John",
+            "family": "Draim",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Paul",
+            "family": "Cefola",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Massachusetts Institute of Technology"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2008,
+              6,
+              10
+            ]
+          ]
+        },
+        "container-title": [
+          "26th International Communications Satellite Systems Conference (ICSSC)"
+        ],
+        "type": "proceedings-article",
+        "URL": "https://doi.org/10.2514/6.2008-5415",
+        "link": [
+          {
+            "URL": "http://arc.aiaa.org/doi/pdf/10.2514/6.2008-5415",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ]
+      },
+      {
+        "DOI": "10.2514/6.2004-3159",
+        "title": [
+          "Designing LEO Retrograde Orbit Satellite Constellation for Regional Coverage"
+        ],
+        "author": [
+          {
+            "given": "Juan",
+            "family": "Zhang",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "FengYan",
+            "family": "Deng",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "XingSuo",
+            "family": "He",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Liang",
+            "family": "Li",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Liexia",
+            "family": "Zhang",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2004,
+              5,
+              9
+            ]
+          ]
+        },
+        "container-title": [
+          "22nd AIAA International Communications Satellite Systems Conference &amp; Exhibit 2004 (ICSSC)"
+        ],
+        "type": "proceedings-article",
+        "URL": "https://doi.org/10.2514/6.2004-3159",
+        "link": [
+          {
+            "URL": "http://arc.aiaa.org/doi/pdf/10.2514/6.2004-3159",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ]
+      }
+    ],
+    "items-per-page": 25,
+    "query": {
+      "start-index": 0,
+      "search-terms": null
+    }
+  }
+}

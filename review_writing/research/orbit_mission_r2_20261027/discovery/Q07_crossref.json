@@ -1,0 +1,1521 @@
+{
+  "status": "ok",
+  "message-type": "work-list",
+  "message-version": "1.0.0",
+  "message": {
+    "facets": {},
+    "total-results": 732797,
+    "items": [
+      {
+        "DOI": "10.1109/milcom61039.2024.10773696",
+        "title": [
+          "Reinforcement Learning-enabled Satellite Constellation Reconfiguration and Retasking for Mission-Critical Applications"
+        ],
+        "author": [
+          {
+            "given": "Hassan",
+            "family": "El Alami",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Howard University,DoD Center of Excellence in AI/ML (CoE-AIML),Washington, DC,USA"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Danda B.",
+            "family": "Rawat",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Howard University,DoD Center of Excellence in AI/ML (CoE-AIML),Washington, DC,USA"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2024,
+              10,
+              28
+            ]
+          ]
+        },
+        "container-title": [
+          "MILCOM 2024 - 2024 IEEE Military Communications Conference (MILCOM)"
+        ],
+        "type": "proceedings-article",
+        "URL": "https://doi.org/10.1109/milcom61039.2024.10773696",
+        "link": [
+          {
+            "URL": "http://xplorestaging.ieee.org/ielx8/10773620/10773624/10773696.pdf?arnumber=10773696",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ]
+      },
+      {
+        "DOI": "10.1007/978-94-011-5088-0_37",
+        "title": [
+          "Mission Planning for Remote Sensing Satellite Constellation"
+        ],
+        "author": [
+          {
+            "given": "Veniamin",
+            "family": "Malyshev",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Vladimir",
+            "family": "Bobronnikov",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              1998
+            ]
+          ]
+        },
+        "container-title": [
+          "Space Technology Proceedings",
+          "Mission Design &amp; Implementation of Satellite Constellations"
+        ],
+        "type": "book-chapter",
+        "URL": "https://doi.org/10.1007/978-94-011-5088-0_37",
+        "link": [
+          {
+            "URL": "http://www.springerlink.com/index/pdf/10.1007/978-94-011-5088-0_37",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ]
+      },
+      {
+        "DOI": "10.1109/aero63441.2025.11068726",
+        "title": [
+          "Stochastic Multistage Satellite Constellation Reconfiguration for Tracking Uncertain Targets"
+        ],
+        "author": [
+          {
+            "given": "Brycen",
+            "family": "Pearl",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "West Virginia University,Department of Mechanical, Materials and Aerospace Engineering,Morgantown,WV,United States"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Hang Woon",
+            "family": "Lee",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "West Virginia University,Department of Mechanical, Materials and Aerospace Engineering,Morgantown,WV,United States"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2025,
+              3,
+              1
+            ]
+          ]
+        },
+        "container-title": [
+          "2025 IEEE Aerospace Conference"
+        ],
+        "type": "proceedings-article",
+        "URL": "https://doi.org/10.1109/aero63441.2025.11068726",
+        "link": [
+          {
+            "URL": "http://xplorestaging.ieee.org/ielx8/11068190/11068395/11068726.pdf?arnumber=11068726",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ]
+      },
+      {
+        "DOI": "10.4236/ijg.2014.53027",
+        "title": [
+          "Feasible Multiple Satellite Mission Scenarios Flying in a Constellation for Refinement of the Gravity Field Recovery"
+        ],
+        "author": [
+          {
+            "given": "Basem",
+            "family": "Elsaka",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2014
+            ]
+          ]
+        },
+        "container-title": [
+          "International Journal of Geosciences"
+        ],
+        "type": "journal-article",
+        "URL": "https://doi.org/10.4236/ijg.2014.53027",
+        "link": [
+          {
+            "URL": "http://www.scirp.org/journal/PaperDownload.aspx?DOI=10.4236/ijg.2014.53027",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://www.scirp.org/journal/paperinformation?paperid=44219",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://www.scirp.org/xml/44219.xml",
+            "content-type": "application/xml",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://www.scirp.org/journal/paperinformation?paperid=44219",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ]
+      },
+      {
+        "DOI": "10.12681/eadd/60225",
+        "title": [
+          "A space mission of a nano-satellite constellation for the study of electromagnetic wave-energetic particle interactions: mission design, simulations and experimentation"
+        ],
+        "author": [
+          {
+            "given": "Στυλιανός",
+            "family": "Τουργαϊδης",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "type": "dissertation",
+        "URL": "https://doi.org/10.12681/eadd/60225",
+        "abstract_present_in_local_response": true,
+        "abstract_sha256": "992ad3e6ce2d4800fa91d1e8e8547f87786239eab7e1408bf5608eeecf442ffa"
+      },
+      {
+        "DOI": "10.1109/milcom.1995.483643",
+        "title": [
+          "Mission control for the 48-satellite Globalstar constellation"
+        ],
+        "author": [
+          {
+            "given": "D.",
+            "family": "Smith",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "R.",
+            "family": "Hendrickson",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Proceedings of MILCOM '95"
+        ],
+        "type": "proceedings-article",
+        "URL": "https://doi.org/10.1109/milcom.1995.483643",
+        "link": [
+          {
+            "URL": "http://xplorestaging.ieee.org/ielx2/3486/10316/00483643.pdf?arnumber=483643",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ]
+      },
+      {
+        "DOI": "10.1016/j.actaastro.2014.02.016",
+        "title": [
+          "Optimization of satellite constellation reconfiguration maneuvers"
+        ],
+        "author": [
+          {
+            "given": "Leonid",
+            "family": "Appel",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Moshe",
+            "family": "Guelman",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "David",
+            "family": "Mishne",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2014,
+              6
+            ]
+          ]
+        },
+        "container-title": [
+          "Acta Astronautica"
+        ],
+        "type": "journal-article",
+        "URL": "https://doi.org/10.1016/j.actaastro.2014.02.016",
+        "link": [
+          {
+            "URL": "https://api.elsevier.com/content/article/PII:S0094576514000733?httpAccept=text/xml",
+            "content-type": "text/xml",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://api.elsevier.com/content/article/PII:S0094576514000733?httpAccept=text/plain",
+            "content-type": "text/plain",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          }
+        ]
+      },
+      {
+        "DOI": "10.52202/078365-0161",
+        "title": [
+          "Multi-Target Continuous Coverage Constellation Using Low-Thrust Reconfiguration Strategy"
+        ],
+        "author": [
+          {
+            "given": "Zhengqing",
+            "family": "Fang",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Tsinghua University School of Aerospace"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Zhaokui",
+            "family": "Wang",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Tsinghua University"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2024
+            ]
+          ]
+        },
+        "container-title": [
+          "31st IAA Symposium on Small Satellite Missions"
+        ],
+        "type": "proceedings-article",
+        "URL": "https://doi.org/10.52202/078365-0161"
+      },
+      {
+        "DOI": "10.64861/wvjd1391",
+        "title": [
+          "Conceptual Design of Mission Scheduling Software for Small Satellite Constellation"
+        ],
+        "author": [
+          {
+            "given": "Kimoon",
+            "family": "Lee",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Dongjin",
+            "family": "Kim",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Seonho",
+            "family": "Lee",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2024
+            ]
+          ]
+        },
+        "container-title": [
+          "AMOS 2024 Technical Papers"
+        ],
+        "type": "proceedings-article",
+        "URL": "https://doi.org/10.64861/wvjd1391"
+      },
+      {
+        "DOI": "10.1007/978-94-011-5088-0_16",
+        "title": [
+          "Satellite Constellation Design for Navigation Needs"
+        ],
+        "author": [
+          {
+            "given": "P.",
+            "family": "Micheau",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "V.",
+            "family": "Thiebolt",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              1998
+            ]
+          ]
+        },
+        "container-title": [
+          "Space Technology Proceedings",
+          "Mission Design &amp; Implementation of Satellite Constellations"
+        ],
+        "type": "book-chapter",
+        "URL": "https://doi.org/10.1007/978-94-011-5088-0_16",
+        "link": [
+          {
+            "URL": "http://www.springerlink.com/index/pdf/10.1007/978-94-011-5088-0_16",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ]
+      },
+      {
+        "DOI": "10.21741/9781644904251-196",
+        "title": [
+          "Reconfiguration and Optimization of Lunar Navigation Satellite Constellation Targeting South Hemisphere"
+        ],
+        "author": [
+          {
+            "given": "Shuo",
+            "family": "YANG",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026
+            ]
+          ]
+        },
+        "container-title": [
+          "Materials Research Proceedings",
+          "CEAS - AIDAA Conference 2025"
+        ],
+        "type": "proceedings-article",
+        "URL": "https://doi.org/10.21741/9781644904251-196",
+        "abstract_present_in_local_response": true,
+        "abstract_sha256": "2275ac1708adfe2611e75cac023777a4b1d4414a830b2df291e312aff3874936"
+      },
+      {
+        "DOI": "10.1016/j.srt.2018.11.017",
+        "title": [
+          "Exploring Geospace from Space: the Swarm Satellite Constellation Mission"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2018,
+              12
+            ]
+          ]
+        },
+        "container-title": [
+          "Space Research Today"
+        ],
+        "type": "journal-article",
+        "URL": "https://doi.org/10.1016/j.srt.2018.11.017",
+        "link": [
+          {
+            "URL": "https://api.elsevier.com/content/article/PII:S1752929818300884?httpAccept=text/xml",
+            "content-type": "text/xml",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://api.elsevier.com/content/article/PII:S1752929818300884?httpAccept=text/plain",
+            "content-type": "text/plain",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          }
+        ]
+      },
+      {
+        "DOI": "10.1007/978-94-011-5088-0_32",
+        "title": [
+          "Orion — A Constellation Mission Analysis Tool"
+        ],
+        "author": [
+          {
+            "given": "Geneviève",
+            "family": "Dutruel-Lecohier",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Miguel Belló",
+            "family": "Mora",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              1998
+            ]
+          ]
+        },
+        "container-title": [
+          "Space Technology Proceedings",
+          "Mission Design &amp; Implementation of Satellite Constellations"
+        ],
+        "type": "book-chapter",
+        "URL": "https://doi.org/10.1007/978-94-011-5088-0_32",
+        "link": [
+          {
+            "URL": "http://www.springerlink.com/index/pdf/10.1007/978-94-011-5088-0_32",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ]
+      },
+      {
+        "DOI": "10.1007/978-94-011-5088-0_9",
+        "title": [
+          "Mission Design of the ORBCOMM Constellation"
+        ],
+        "author": [
+          {
+            "given": "Maria J.",
+            "family": "Evans",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Timothy D.",
+            "family": "Maclay",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              1998
+            ]
+          ]
+        },
+        "container-title": [
+          "Space Technology Proceedings",
+          "Mission Design &amp; Implementation of Satellite Constellations"
+        ],
+        "type": "book-chapter",
+        "URL": "https://doi.org/10.1007/978-94-011-5088-0_9",
+        "link": [
+          {
+            "URL": "http://link.springer.com/content/pdf/10.1007/978-94-011-5088-0_9.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ]
+      },
+      {
+        "DOI": "10.21741/9781644902813-142",
+        "title": [
+          "Fast reconfiguration maneuvers of a micro-satellite constellation based on a hybrid rocket engine"
+        ],
+        "author": [
+          {
+            "given": "A.",
+            "family": "Sannino",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2023,
+              11,
+              1
+            ]
+          ]
+        },
+        "container-title": [
+          "Materials Research Proceedings",
+          "Aeronautics and Astronautics"
+        ],
+        "type": "proceedings-article",
+        "URL": "https://doi.org/10.21741/9781644902813-142",
+        "abstract_present_in_local_response": true,
+        "abstract_sha256": "45db260e0b9fe755711f543d74b02e6ad5712abb3ffd60bb990c4defb09021cb"
+      },
+      {
+        "DOI": "10.21203/rs.3.rs-5351953/v1",
+        "type": "posted-content",
+        "title": [
+          "Mission-capable satellite prediction method for ultra large remote-sensing satellite constellation based on BP neural network"
+        ],
+        "author": [
+          {
+            "given": "yiqin",
+            "family": "cong",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Harbin Institute of Technology"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "xiaohan",
+            "family": "mei",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Harbin Institute of Technology"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Tianxi",
+            "family": "Liu",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Harbin Institute of Technology"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "gongshun",
+            "family": "Guan",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Harbin Institute of Technology"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Cheng",
+            "family": "Wei",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Harbin Institute of Technology"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "link": [
+          {
+            "URL": "https://www.researchsquare.com/article/rs-5351953/v1",
+            "content-type": "text/html",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://www.researchsquare.com/article/rs-5351953/v1.html",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "URL": "https://doi.org/10.21203/rs.3.rs-5351953/v1",
+        "published": {
+          "date-parts": [
+            [
+              2024,
+              11,
+              11
+            ]
+          ]
+        },
+        "abstract_present_in_local_response": true,
+        "abstract_sha256": "24199d5f761b7b65e98b9653064bdeafc092c6b5cc88587cb19be81ffb5a9334"
+      },
+      {
+        "DOI": "10.23919/ccc52363.2021.9550558",
+        "title": [
+          "Efficiency analysis and reconfiguration control method of small satellite remote sensing formation constellation"
+        ],
+        "author": [
+          {
+            "given": "Feng",
+            "family": "Xiao-Hui",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Bai",
+            "family": "Bao-Cun",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2021,
+              7,
+              26
+            ]
+          ]
+        },
+        "container-title": [
+          "2021 40th Chinese Control Conference (CCC)"
+        ],
+        "type": "proceedings-article",
+        "URL": "https://doi.org/10.23919/ccc52363.2021.9550558",
+        "link": [
+          {
+            "URL": "http://xplorestaging.ieee.org/ielx7/9549237/9549238/09550558.pdf?arnumber=9550558",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ]
+      },
+      {
+        "DOI": "10.22541/essoar.167214257.73153757/v1",
+        "title": [
+          "Kamodo's Satellite Constellation Mission Planning Tool (AGU 2022)"
+        ],
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0000-0003-0875-2023",
+            "authenticated-orcid": true,
+            "given": "Rebecca",
+            "family": "Ringuette",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0002-7343-4147",
+            "authenticated-orcid": true,
+            "given": "Lutz",
+            "family": "Rastaetter",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0002-4313-5998",
+            "authenticated-orcid": true,
+            "given": "Darren De",
+            "family": "Zeeuw",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Katherine",
+            "family": "Garcia-Sage",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Robert",
+            "family": "Robinson",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Oliver",
+            "family": "Gerland",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2022,
+              12,
+              27
+            ]
+          ]
+        },
+        "type": "posted-content",
+        "URL": "https://doi.org/10.22541/essoar.167214257.73153757/v1"
+      },
+      {
+        "DOI": "10.2514/6.iac-06-b1.6.09",
+        "title": [
+          "Integrated Mission Planning for FORMOSAT-2 Imaging Satellite and FORMOSAT-3 Meteorological Constellation"
+        ],
+        "author": [
+          {
+            "given": "An-Ming",
+            "family": "Wu",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "National Space Organization 8F, 9 Prosperity 1st Road, Science Park, Hsinchu, Taiwan"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Lance",
+            "family": "Wu",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "National Space Organization 8F, 9 Prosperity 1st Road, Science Park, Hsinchu, Taiwan"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2006,
+              10,
+              2
+            ]
+          ]
+        },
+        "container-title": [
+          "57th International Astronautical Congress"
+        ],
+        "type": "proceedings-article",
+        "URL": "https://doi.org/10.2514/6.iac-06-b1.6.09",
+        "link": [
+          {
+            "URL": "http://arc.aiaa.org/doi/pdf/10.2514/6.IAC-06-B1.6.09",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ]
+      },
+      {
+        "DOI": "10.23919/ccc64809.2025.11178597",
+        "title": [
+          "Satellite Constellation Reconfiguration with Prioritized Parametrized Deep Q-networks Learning"
+        ],
+        "author": [
+          {
+            "given": "Tengyu",
+            "family": "Guo",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "School of Electrical and Information Engineering, Tianjin University,Tianjin,P. R. China,300072"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Xiuyun",
+            "family": "Zhang",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "School of Electrical and Information Engineering, Tianjin University,Tianjin,P. R. China,300072"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Wenjing",
+            "family": "Liu",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Science and Technology on Space Intelligent Control Laboratory, Beijing Institute of Control Engineering,Beijing,P. R. China,100190"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Da",
+            "family": "Liu",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "School of Electrical and Information Engineering, Tianjin University,Tianjin,P. R. China,300072"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Qun",
+            "family": "Zong",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "School of Electrical and Information Engineering, Tianjin University,Tianjin,P. R. China,300072"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2025,
+              7,
+              28
+            ]
+          ]
+        },
+        "container-title": [
+          "2025 44th Chinese Control Conference (CCC)"
+        ],
+        "type": "proceedings-article",
+        "URL": "https://doi.org/10.23919/ccc64809.2025.11178597",
+        "link": [
+          {
+            "URL": "http://xplorestaging.ieee.org/ielx8/11178279/11178246/11178597.pdf?arnumber=11178597",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ]
+      },
+      {
+        "DOI": "10.1023/a:1009987231306",
+        "title": [
+          "Low-Cost Operation of the ORBCOMM Satellite Constellation"
+        ],
+        "author": [
+          {
+            "given": "Andrew W.",
+            "family": "Lewin",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              1998,
+              3
+            ]
+          ]
+        },
+        "container-title": [
+          "Journal of Reducing Space Mission Cost"
+        ],
+        "type": "journal-article",
+        "URL": "https://doi.org/10.1023/a:1009987231306",
+        "link": [
+          {
+            "URL": "https://link.springer.com/content/pdf/10.1023/A:1009987231306.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://link.springer.com/article/10.1023/A:1009987231306/fulltext.html",
+            "content-type": "text/html",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://link.springer.com/content/pdf/10.1023/A:1009987231306.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ]
+      },
+      {
+        "DOI": "10.1007/978-94-011-5088-0_3",
+        "title": [
+          "Satellite Constellation Design: Searching for Global Cost-Efficiency Trade-Offs"
+        ],
+        "author": [
+          {
+            "given": "Erick",
+            "family": "Lansard",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Jean-Luc",
+            "family": "Palmade",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              1998
+            ]
+          ]
+        },
+        "container-title": [
+          "Space Technology Proceedings",
+          "Mission Design &amp; Implementation of Satellite Constellations"
+        ],
+        "type": "book-chapter",
+        "URL": "https://doi.org/10.1007/978-94-011-5088-0_3",
+        "link": [
+          {
+            "URL": "http://www.springerlink.com/index/pdf/10.1007/978-94-011-5088-0_3",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ]
+      },
+      {
+        "DOI": "10.52202/083084-0043",
+        "title": [
+          "Constellation Reconfiguration and Task Scheduling Optimization for Emergency Earth Observation Response Using Low-Thrust"
+        ],
+        "author": [
+          {
+            "given": "Zhengqing",
+            "family": "Fang",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Tsinghua University School of Aerospace"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Zhaokui",
+            "family": "Wang",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Tsinghua University"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Roberto",
+            "family": "Armellin",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "The University of Auckland"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2025
+            ]
+          ]
+        },
+        "container-title": [
+          "32nd IAA Symposium on Small Satellite Missions"
+        ],
+        "type": "proceedings-article",
+        "URL": "https://doi.org/10.52202/083084-0043"
+      },
+      {
+        "DOI": "10.1016/j.actaastro.2024.08.029",
+        "title": [
+          "Reinforcement learning-based multi-impulse rendezvous approach for satellite constellation reconfiguration"
+        ],
+        "author": [
+          {
+            "given": "Longwei",
+            "family": "Xu",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Gang",
+            "family": "Zhang",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Shi",
+            "family": "Qiu",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Xibin",
+            "family": "Cao",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2024,
+              11
+            ]
+          ]
+        },
+        "container-title": [
+          "Acta Astronautica"
+        ],
+        "type": "journal-article",
+        "URL": "https://doi.org/10.1016/j.actaastro.2024.08.029",
+        "link": [
+          {
+            "URL": "https://api.elsevier.com/content/article/PII:S0094576524004673?httpAccept=text/xml",
+            "content-type": "text/xml",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://api.elsevier.com/content/article/PII:S0094576524004673?httpAccept=text/plain",
+            "content-type": "text/plain",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          }
+        ]
+      },
+      {
+        "DOI": "10.2514/1.g006514",
+        "title": [
+          "Uniform Satellite Constellation Reconfiguration"
+        ],
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0000-0002-8507-4679",
+            "authenticated-orcid": false,
+            "given": "David",
+            "family": "Arnas",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Purdue University, West Lafayette, Indiana 47907"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Richard",
+            "family": "Linares",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Massachusetts Institute of Technology, Cambridge, Massachusetts 02139"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2022,
+              7
+            ]
+          ]
+        },
+        "container-title": [
+          "Journal of Guidance, Control, and Dynamics"
+        ],
+        "type": "journal-article",
+        "URL": "https://doi.org/10.2514/1.g006514",
+        "link": [
+          {
+            "URL": "https://arc.aiaa.org/doi/pdf/10.2514/1.G006514",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ]
+      }
+    ],
+    "items-per-page": 25,
+    "query": {
+      "start-index": 0,
+      "search-terms": null
+    }
+  }
+}

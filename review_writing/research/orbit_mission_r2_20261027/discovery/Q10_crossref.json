@@ -1,0 +1,1511 @@
+{
+  "status": "ok",
+  "message-type": "work-list",
+  "message-version": "1.0.0",
+  "message": {
+    "facets": {},
+    "total-results": 2515803,
+    "items": [
+      {
+        "DOI": "10.2139/ssrn.7180120",
+        "title": [
+          "Satellite Low-Thrust Maneuver Reconstruction using SINDy-Inspired Sparse Identification Methods"
+        ],
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0009-0005-4639-8661",
+            "authenticated-orcid": true,
+            "given": "Hengbo",
+            "family": "Zhou",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Yue",
+            "family": "Wang",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0002-0175-6104",
+            "authenticated-orcid": true,
+            "given": "Haichao",
+            "family": "Gui",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026
+            ]
+          ]
+        },
+        "type": "posted-content",
+        "URL": "https://doi.org/10.2139/ssrn.7180120",
+        "abstract_present_in_local_response": true,
+        "abstract_sha256": "37dd9fdb4addcc3b5cdedd313448335f9c4f9227831e0dab5542b94425efb5c0"
+      },
+      {
+        "DOI": "10.1109/aero58975.2024.10521007",
+        "title": [
+          "A Novel Ground-Based Maneuver Automation System for Low Earth Orbit Satellite Operations"
+        ],
+        "author": [
+          {
+            "given": "Joshua",
+            "family": "Aurich",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Planet Labs PBC,San Francisco,CA,94107"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Justin",
+            "family": "Clark",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Planet Labs PBC,San Francisco,CA,94107"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Zayne",
+            "family": "Thawer",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Planet Labs PBC,San Francisco,CA,94107"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Vishnuu",
+            "family": "Mallik",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Planet Labs PBC,San Francisco,CA,94107"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Shaina",
+            "family": "Johl",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Planet Labs PBC,San Francisco,CA,94107"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2024,
+              3,
+              2
+            ]
+          ]
+        },
+        "container-title": [
+          "2024 IEEE Aerospace Conference"
+        ],
+        "type": "proceedings-article",
+        "URL": "https://doi.org/10.1109/aero58975.2024.10521007",
+        "link": [
+          {
+            "URL": "http://xplorestaging.ieee.org/ielx7/10520981/10520936/10521007.pdf?arnumber=10521007",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ]
+      },
+      {
+        "DOI": "10.52202/083084-0053",
+        "title": [
+          "Continuous Low-Thrust Maneuver Detection of Mega Constellation Satellites Based on Conditional Diffusion Model"
+        ],
+        "author": [
+          {
+            "given": "Kun",
+            "family": "Zhang",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Yun",
+            "family": "Xu",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "[unlisted]"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Xiaoxuan",
+            "family": "Hu",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "[unlisted]"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2025
+            ]
+          ]
+        },
+        "container-title": [
+          "32nd IAA Symposium on Small Satellite Missions"
+        ],
+        "type": "proceedings-article",
+        "URL": "https://doi.org/10.52202/083084-0053"
+      },
+      {
+        "DOI": "10.1109/chicc.2014.6896525",
+        "title": [
+          "Fuel optimal maneuver of circular-like satellite formation based on continuous low thrust"
+        ],
+        "author": [
+          {
+            "given": "Guangyan",
+            "family": "Xu",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Xiaoying",
+            "family": "Wang",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Ping",
+            "family": "Li",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Xia",
+            "family": "Chen",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2014,
+              7
+            ]
+          ]
+        },
+        "container-title": [
+          "Proceedings of the 33rd Chinese Control Conference"
+        ],
+        "type": "proceedings-article",
+        "URL": "https://doi.org/10.1109/chicc.2014.6896525",
+        "link": [
+          {
+            "URL": "http://xplorestaging.ieee.org/ielx7/6882077/6895198/06896525.pdf?arnumber=6896525",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ]
+      },
+      {
+        "DOI": "10.1007/978-3-662-46463-2_1",
+        "title": [
+          "Variable Thrust Angle Constant Thrust Collision Avoidance Maneuver"
+        ],
+        "author": [
+          {
+            "given": "Yongqiang",
+            "family": "Qi",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Yong",
+            "family": "Ma",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2015
+            ]
+          ]
+        },
+        "container-title": [
+          "Lecture Notes in Electrical Engineering",
+          "Proceedings of the 2015 Chinese Intelligent Automation Conference"
+        ],
+        "type": "book-chapter",
+        "URL": "https://doi.org/10.1007/978-3-662-46463-2_1",
+        "link": [
+          {
+            "URL": "https://link.springer.com/content/pdf/10.1007/978-3-662-46463-2_1",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ]
+      },
+      {
+        "DOI": "10.2514/6.1994-3771",
+        "title": [
+          "Optimal station change maneuver for geostationary satellites using constant low thrust"
+        ],
+        "author": [
+          {
+            "given": "Nathan",
+            "family": "Titus",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "USAF, Phillips Lab., Kirtland AFB, NM"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              1994,
+              8,
+              1
+            ]
+          ]
+        },
+        "container-title": [
+          "Astrodynamics Conference"
+        ],
+        "type": "proceedings-article",
+        "URL": "https://doi.org/10.2514/6.1994-3771",
+        "link": [
+          {
+            "URL": "http://arc.aiaa.org/doi/pdf/10.2514/6.1994-3771",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ]
+      },
+      {
+        "DOI": "10.70675/14257d34z60edz4e83z957bzf22ab90f3a34",
+        "title": [
+          "Control methods for low-thrust satellite collision avoidance"
+        ],
+        "author": [
+          {
+            "given": "Frank",
+            "family": "De Veld",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "id": [
+                  {
+                    "id": "https://ror.org/019tgvf94",
+                    "id-type": "ROR",
+                    "asserted-by": "publisher"
+                  }
+                ],
+                "name": "Université Côte d'Azur"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "type": "dissertation",
+        "URL": "https://doi.org/10.70675/14257d34z60edz4e83z957bzf22ab90f3a34",
+        "abstract_present_in_local_response": true,
+        "abstract_sha256": "f3057b7c57ba7b8bd8f8c217c1726cfcd766ac1778203a76552022c51227efba"
+      },
+      {
+        "DOI": "10.1007/s10291-018-0705-2",
+        "title": [
+          "Beidou satellite maneuver thrust force estimation for precise orbit determination"
+        ],
+        "author": [
+          {
+            "given": "Jing",
+            "family": "Qiao",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Wu",
+            "family": "Chen",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2018,
+              2,
+              13
+            ]
+          ]
+        },
+        "container-title": [
+          "GPS Solutions"
+        ],
+        "type": "journal-article",
+        "URL": "https://doi.org/10.1007/s10291-018-0705-2",
+        "link": [
+          {
+            "URL": "http://link.springer.com/article/10.1007/s10291-018-0705-2/fulltext.html",
+            "content-type": "text/html",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "http://link.springer.com/content/pdf/10.1007/s10291-018-0705-2.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "http://link.springer.com/content/pdf/10.1007/s10291-018-0705-2.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ]
+      },
+      {
+        "DOI": "10.1007/978-981-10-2383-5_4",
+        "title": [
+          "Nonlinear Optimization of Low-Thrust Trajectory for Satellite Formation"
+        ],
+        "author": [
+          {
+            "given": "Danwei",
+            "family": "Wang",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Baolin",
+            "family": "Wu",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Eng Kee",
+            "family": "Poh",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2016,
+              10,
+              25
+            ]
+          ]
+        },
+        "container-title": [
+          "Intelligent Systems, Control and Automation: Science and Engineering",
+          "Satellite Formation Flying"
+        ],
+        "type": "book-chapter",
+        "URL": "https://doi.org/10.1007/978-981-10-2383-5_4",
+        "link": [
+          {
+            "URL": "http://link.springer.com/content/pdf/10.1007/978-981-10-2383-5_4",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ]
+      },
+      {
+        "DOI": "10.2514/6.2024-0633",
+        "title": [
+          "Low-Thrust Spacecraft Trajectory Optimization with Gravity-Assist Maneuver using Dymos"
+        ],
+        "author": [
+          {
+            "given": "Gage W.",
+            "family": "Harris",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Iowa State University"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Ping",
+            "family": "He",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Iowa State University"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2024,
+              1,
+              4
+            ]
+          ]
+        },
+        "container-title": [
+          "AIAA SCITECH 2024 Forum"
+        ],
+        "type": "proceedings-article",
+        "URL": "https://doi.org/10.2514/6.2024-0633",
+        "link": [
+          {
+            "URL": "https://arc.aiaa.org/doi/pdf/10.2514/6.2024-0633",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ]
+      },
+      {
+        "DOI": "10.1007/s12555-015-0113-0",
+        "title": [
+          "B-plane targeting method for orbit maneuver using low thrust"
+        ],
+        "author": [
+          {
+            "given": "Dong-Hyun",
+            "family": "Cho",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Donghun",
+            "family": "Lee",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Hyochoong",
+            "family": "Bang",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Hae-Dong",
+            "family": "Kim",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2017,
+              6,
+              27
+            ]
+          ]
+        },
+        "container-title": [
+          "International Journal of Control, Automation and Systems"
+        ],
+        "type": "journal-article",
+        "URL": "https://doi.org/10.1007/s12555-015-0113-0",
+        "link": [
+          {
+            "URL": "http://link.springer.com/article/10.1007/s12555-015-0113-0/fulltext.html",
+            "content-type": "text/html",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "http://link.springer.com/content/pdf/10.1007/s12555-015-0113-0.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "http://link.springer.com/content/pdf/10.1007/s12555-015-0113-0.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ]
+      },
+      {
+        "DOI": "10.1109/iccas.2008.4694468",
+        "title": [
+          "Automation of the flight dynamics operations for low Earth orbit satellite mission control"
+        ],
+        "author": [
+          {
+            "given": "Byoung-Sun",
+            "family": "Lee",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Yoola",
+            "family": "Hwang",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "family": "Hae-Yeon Kim",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2008,
+              10
+            ]
+          ]
+        },
+        "container-title": [
+          "2008 International Conference on Control, Automation and Systems"
+        ],
+        "type": "proceedings-article",
+        "URL": "https://doi.org/10.1109/iccas.2008.4694468",
+        "link": [
+          {
+            "URL": "http://xplorestaging.ieee.org/ielx5/4675282/4694179/04694468.pdf?arnumber=4694468",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ]
+      },
+      {
+        "DOI": "10.23919/ccc58697.2023.10241010",
+        "title": [
+          "A Ballistic Reconstruction Algorithm for Attitude-Orbit Coupling Low-Thrust Maneuver"
+        ],
+        "author": [
+          {
+            "given": "Peng",
+            "family": "Dan",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "State Key Laboratory of Astronautic Dynamics,Xi&#x0027;an,China,710043"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Dingbo",
+            "family": "Zhang",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Xi&#x0027;an Huanyu Satellite Control and Data Application Co. Ltd,Xi&#x0027;an,China,710043"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2023,
+              7,
+              24
+            ]
+          ]
+        },
+        "container-title": [
+          "2023 42nd Chinese Control Conference (CCC)"
+        ],
+        "type": "proceedings-article",
+        "URL": "https://doi.org/10.23919/ccc58697.2023.10241010",
+        "link": [
+          {
+            "URL": "http://xplorestaging.ieee.org/ielx7/10239690/10239711/10241010.pdf?arnumber=10241010",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ]
+      },
+      {
+        "DOI": "10.1109/icma.2009.5246588",
+        "title": [
+          "Fuzzy attitude control for flexible satellite during orbit maneuver"
+        ],
+        "author": [
+          {
+            "family": "Liu Yingying",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "family": "Zhou Jun",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2009,
+              8
+            ]
+          ]
+        },
+        "container-title": [
+          "2009 International Conference on Mechatronics and Automation"
+        ],
+        "type": "proceedings-article",
+        "URL": "https://doi.org/10.1109/icma.2009.5246588",
+        "link": [
+          {
+            "URL": "http://xplorestaging.ieee.org/ielx5/5226790/5244759/05246588.pdf?arnumber=5246588",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ]
+      },
+      {
+        "DOI": "10.1109/iccsse63803.2024.10823919",
+        "title": [
+          "Close-Range Reconnaissance Control Method of Micro-Satellite with Hybrid Thrust Maneuver Configuration"
+        ],
+        "author": [
+          {
+            "given": "Meng",
+            "family": "Geng",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "School of Automation Nanjing University of Science and Technology,Nanjing,China"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Yifei",
+            "family": "Wu",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "School of Automation Nanjing University of Science and Technology,Nanjing,China"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Jinjiayang",
+            "family": "Liu",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "School of Automation Nanjing University of Science and Technology,Nanjing,China"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2024,
+              10,
+              18
+            ]
+          ]
+        },
+        "container-title": [
+          "2024 IEEE International Conference on Control Science and Systems Engineering (ICCSSE)"
+        ],
+        "type": "proceedings-article",
+        "URL": "https://doi.org/10.1109/iccsse63803.2024.10823919",
+        "link": [
+          {
+            "URL": "http://xplorestaging.ieee.org/ielx8/10823093/10823660/10823919.pdf?arnumber=10823919",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ]
+      },
+      {
+        "DOI": "10.1109/itnec.2017.8284970",
+        "title": [
+          "The optimal aiming maneuver control of an aerodynamic/thrust vector control aircraft"
+        ],
+        "author": [
+          {
+            "given": "Liao",
+            "family": "Kaijun",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Wang",
+            "family": "Fawei",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2017,
+              12
+            ]
+          ]
+        },
+        "container-title": [
+          "2017 IEEE 2nd Information Technology, Networking, Electronic and Automation Control Conference (ITNEC)"
+        ],
+        "type": "proceedings-article",
+        "URL": "https://doi.org/10.1109/itnec.2017.8284970",
+        "link": [
+          {
+            "URL": "http://xplorestaging.ieee.org/ielx7/8272884/8284746/08284970.pdf?arnumber=8284970",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ]
+      },
+      {
+        "DOI": "10.2514/6.1975-355",
+        "title": [
+          "Satellite ephemeris prediction and orbit manoeuvrability by low thrust"
+        ],
+        "author": [
+          {
+            "given": "R.",
+            "family": "HOLDAWAY",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Science Research Council, Appleton Laboratory, Slough,Bucks., England"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              1975,
+              3,
+              19
+            ]
+          ]
+        },
+        "container-title": [
+          "11th  Electric Propulsion Conference"
+        ],
+        "type": "proceedings-article",
+        "URL": "https://doi.org/10.2514/6.1975-355",
+        "link": [
+          {
+            "URL": "http://arc.aiaa.org/doi/pdf/10.2514/6.1975-355",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ]
+      },
+      {
+        "DOI": "10.2514/5.9781600865060.0279.0306",
+        "title": [
+          "Low Thrust Propulsion System Effects on Communication Satellites"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              1974,
+              1,
+              1
+            ]
+          ]
+        },
+        "container-title": [
+          "Communications Satellite Technology"
+        ],
+        "type": "book-chapter",
+        "URL": "https://doi.org/10.2514/5.9781600865060.0279.0306",
+        "link": [
+          {
+            "URL": "https://arc.aiaa.org/doi/pdf/10.2514/5.9781600865060.0279.0306",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ]
+      },
+      {
+        "DOI": "10.2514/6.2013-5653",
+        "title": [
+          "Feasibility Study of a Vega Launched Low Thrust Geostationary Communication Satellite"
+        ],
+        "author": [
+          {
+            "given": "Paolo",
+            "family": "Gaudenzi",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "University of Rome \"La Sapienza\""
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Gilbert",
+            "family": "Fanchini",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "University of Rome \"La Sapienza\""
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2013,
+              10,
+              11
+            ]
+          ]
+        },
+        "container-title": [
+          "31st AIAA International Communications Satellite Systems Conference"
+        ],
+        "type": "proceedings-article",
+        "URL": "https://doi.org/10.2514/6.2013-5653",
+        "link": [
+          {
+            "URL": "http://arc.aiaa.org/doi/pdf/10.2514/6.2013-5653",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ]
+      },
+      {
+        "DOI": "10.1109/cac67268.2025.11486892",
+        "title": [
+          "Predictive Controller Design for Satellite Attitude Maneuver with Forbidden Attitude Constraints Using SGCMG"
+        ],
+        "author": [
+          {
+            "given": "TianHong",
+            "family": "Liang",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Shanghai Aerospace Control Technology Institute,Shanghai,China"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "HuanKun",
+            "family": "Gao",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Shanghai Aerospace Control Technology Institute,Shanghai,China"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2025,
+              9,
+              26
+            ]
+          ]
+        },
+        "container-title": [
+          "2025 China Automation Congress (CAC)"
+        ],
+        "type": "proceedings-article",
+        "URL": "https://doi.org/10.1109/cac67268.2025.11486892",
+        "link": [
+          {
+            "URL": "http://xplorestaging.ieee.org/ielx8/11486586/11486350/11486892.pdf?arnumber=11486892",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ]
+      },
+      {
+        "DOI": "10.21741/9781644902813-136",
+        "title": [
+          "Low-thrust maneuver anomaly detection of a cooperative asset using publicly available orbital data"
+        ],
+        "author": [
+          {
+            "given": "R.",
+            "family": "Cipollone",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2023,
+              11,
+              1
+            ]
+          ]
+        },
+        "container-title": [
+          "Materials Research Proceedings",
+          "Aeronautics and Astronautics"
+        ],
+        "type": "proceedings-article",
+        "URL": "https://doi.org/10.21741/9781644902813-136",
+        "abstract_present_in_local_response": true,
+        "abstract_sha256": "9053a8084f88faa19058eaf2f2100e03d33ab2f03c87fc5e56e2599916ef3f56"
+      },
+      {
+        "DOI": "10.1109/ccdc.2015.7161743",
+        "title": [
+          "Variable thrust angle constant thrust collision avoidance maneuver under thrust failure"
+        ],
+        "author": [
+          {
+            "given": "Yongqiang",
+            "family": "Qi",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Yingmin",
+            "family": "Jia",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2015,
+              5
+            ]
+          ]
+        },
+        "container-title": [
+          "The 27th Chinese Control and Decision Conference (2015 CCDC)"
+        ],
+        "type": "proceedings-article",
+        "URL": "https://doi.org/10.1109/ccdc.2015.7161743",
+        "link": [
+          {
+            "URL": "http://xplorestaging.ieee.org/ielx7/7140653/7161655/07161743.pdf?arnumber=7161743",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ]
+      },
+      {
+        "DOI": "10.2514/6.1999-2592",
+        "title": [
+          "Low thrust and low cost monopropellant thrusters for satellites and satellite constellations"
+        ],
+        "author": [
+          {
+            "given": "Michael",
+            "family": "Fick",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "DaimlerChrysler Aerospace AG, Space Infrastructure, Bremen, Germany"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Thomas",
+            "family": "Muetsch",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "DaimlerChrysler Aerospace AG, Space Infrastructure, Bremen, Germany"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              1999,
+              6,
+              20
+            ]
+          ]
+        },
+        "container-title": [
+          "35th Joint Propulsion Conference and Exhibit"
+        ],
+        "type": "proceedings-article",
+        "URL": "https://doi.org/10.2514/6.1999-2592",
+        "link": [
+          {
+            "URL": "http://arc.aiaa.org/doi/pdf/10.2514/6.1999-2592",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ]
+      },
+      {
+        "DOI": "10.2514/6.1972-519",
+        "title": [
+          "Low thrust propulsion system effects on communication satellites"
+        ],
+        "author": [
+          {
+            "given": "D.",
+            "family": "HALL",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "TRW Systems Group, Redondo Beach, Calif."
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "W.",
+            "family": "LYON",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Nuclear Battery Corp., Columbia, Md."
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              1972,
+              4,
+              24
+            ]
+          ]
+        },
+        "container-title": [
+          "4th Communications Satellite Systems Conference"
+        ],
+        "type": "proceedings-article",
+        "URL": "https://doi.org/10.2514/6.1972-519",
+        "link": [
+          {
+            "URL": "http://arc.aiaa.org/doi/pdf/10.2514/6.1972-519",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ]
+      },
+      {
+        "DOI": "10.2514/6.1968-849",
+        "title": [
+          "Low thrust station keeping guidance for a 24- hour satellite"
+        ],
+        "author": [
+          {
+            "given": "R.",
+            "family": "HUNZIKER",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "INTERNATIONAL BUSINESS MACHINES CORP., FEDERAL SYSTEMS DIV., SCIENTIFIC SATELLITE SYSTEMS DEPT., GAITHERSBURG, MD."
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              1968,
+              8,
+              12
+            ]
+          ]
+        },
+        "container-title": [
+          "Control and Flight Dynamics Conference"
+        ],
+        "type": "proceedings-article",
+        "URL": "https://doi.org/10.2514/6.1968-849",
+        "link": [
+          {
+            "URL": "http://arc.aiaa.org/doi/pdf/10.2514/6.1968-849",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ]
+      }
+    ],
+    "items-per-page": 25,
+    "query": {
+      "start-index": 0,
+      "search-terms": null
+    }
+  }
+}

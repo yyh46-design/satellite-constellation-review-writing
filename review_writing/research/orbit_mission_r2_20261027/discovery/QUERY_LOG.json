@@ -1,0 +1,74 @@
+[
+  {
+    "id": "Q01",
+    "query": "satellite constellation orbit design coverage revisit optimization",
+    "url": "https://api.crossref.org/works?query.bibliographic=satellite+constellation+orbit+design+coverage+revisit+optimization&rows=25&select=DOI%2Ctitle%2Cauthor%2Cpublished%2Ccontainer-title%2Ctype%2CURL%2Clink%2Cabstract",
+    "status": "OK",
+    "result_count": 25
+  },
+  {
+    "id": "Q02",
+    "query": "satellite constellation station keeping configuration maintenance perturbation",
+    "url": "https://api.crossref.org/works?query.bibliographic=satellite+constellation+station+keeping+configuration+maintenance+perturbation&rows=25&select=DOI%2Ctitle%2Cauthor%2Cpublished%2Ccontainer-title%2Ctype%2CURL%2Clink%2Cabstract",
+    "status": "ERROR",
+    "reason": "HTTP Error 429: Too Many Requests",
+    "result_count": 0
+  },
+  {
+    "id": "Q03",
+    "query": "satellite differential drag constellation power operational constraints",
+    "url": "https://api.crossref.org/works?query.bibliographic=satellite+differential+drag+constellation+power+operational+constraints&rows=25&select=DOI%2Ctitle%2Cauthor%2Cpublished%2Ccontainer-title%2Ctype%2CURL%2Clink%2Cabstract",
+    "status": "ERROR",
+    "reason": "HTTP Error 429: Too Many Requests",
+    "result_count": 0
+  },
+  {
+    "id": "Q04",
+    "query": "reconfigurable Earth observation satellite scheduling orbit maneuver",
+    "url": "https://api.crossref.org/works?query.bibliographic=reconfigurable+Earth+observation+satellite+scheduling+orbit+maneuver&rows=25&select=DOI%2Ctitle%2Cauthor%2Cpublished%2Ccontainer-title%2Ctype%2CURL%2Clink%2Cabstract",
+    "status": "OK",
+    "result_count": 25
+  },
+  {
+    "id": "Q05",
+    "query": "satellite constellation deployment natural precession mission time",
+    "url": "https://api.crossref.org/works?query.bibliographic=satellite+constellation+deployment+natural+precession+mission+time&rows=25&select=DOI%2Ctitle%2Cauthor%2Cpublished%2Ccontainer-title%2Ctype%2CURL%2Clink%2Cabstract",
+    "status": "OK",
+    "result_count": 25
+  },
+  {
+    "id": "Q06",
+    "query": "satellite formation reconfiguration passive safety sequential optimization",
+    "url": "https://api.crossref.org/works?query.bibliographic=satellite+formation+reconfiguration+passive+safety+sequential+optimization&rows=25&select=DOI%2Ctitle%2Cauthor%2Cpublished%2Ccontainer-title%2Ctype%2CURL%2Clink%2Cabstract",
+    "status": "OK",
+    "result_count": 25
+  },
+  {
+    "id": "Q07",
+    "query": "satellite constellation mission recovery spare reconfiguration",
+    "url": "https://api.crossref.org/works?query.bibliographic=satellite+constellation+mission+recovery+spare+reconfiguration&rows=25&select=DOI%2Ctitle%2Cauthor%2Cpublished%2Ccontainer-title%2Ctype%2CURL%2Clink%2Cabstract",
+    "status": "OK",
+    "result_count": 25
+  },
+  {
+    "id": "Q08",
+    "query": "satellite constellation joint orbit trajectory task planning",
+    "url": "https://api.crossref.org/works?query.bibliographic=satellite+constellation+joint+orbit+trajectory+task+planning&rows=25&select=DOI%2Ctitle%2Cauthor%2Cpublished%2Ccontainer-title%2Ctype%2CURL%2Clink%2Cabstract",
+    "status": "OK",
+    "result_count": 25
+  },
+  {
+    "id": "Q09",
+    "query": "satellite constellation design stationkeeping cost lifetime",
+    "url": "https://api.crossref.org/works?query.bibliographic=satellite+constellation+design+stationkeeping+cost+lifetime&rows=25&select=DOI%2Ctitle%2Cauthor%2Cpublished%2Ccontainer-title%2Ctype%2CURL%2Clink%2Cabstract",
+    "status": "OK",
+    "result_count": 25
+  },
+  {
+    "id": "Q10",
+    "query": "satellite maneuver automation operations low thrust",
+    "url": "https://api.crossref.org/works?query.bibliographic=satellite+maneuver+automation+operations+low+thrust&rows=25&select=DOI%2Ctitle%2Cauthor%2Cpublished%2Ccontainer-title%2Ctype%2CURL%2Clink%2Cabstract",
+    "status": "OK",
+    "result_count": 25
+  }
+]

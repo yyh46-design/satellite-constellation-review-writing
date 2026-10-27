@@ -1,0 +1,1670 @@
+{
+  "status": "ok",
+  "message-type": "work-list",
+  "message-version": "1.0.0",
+  "message": {
+    "facets": {},
+    "total-results": 1305887,
+    "items": [
+      {
+        "DOI": "10.2514/6.2025-0589",
+        "title": [
+          "Developing the Reconfigurable Earth Observation Satellite Scheduling Problem"
+        ],
+        "author": [
+          {
+            "given": "Brycen D.",
+            "family": "Pearl",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "West Virginia University"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Joseph M.",
+            "family": "Miller",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "West Virginia University"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Hang Woon",
+            "family": "Lee",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "West Virginia University"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2025,
+              1,
+              3
+            ]
+          ]
+        },
+        "container-title": [
+          "AIAA SCITECH 2025 Forum"
+        ],
+        "type": "proceedings-article",
+        "URL": "https://doi.org/10.2514/6.2025-0589",
+        "link": [
+          {
+            "URL": "https://arc.aiaa.org/doi/pdf/10.2514/6.2025-0589",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ]
+      },
+      {
+        "DOI": "10.1016/j.actaastro.2025.12.058",
+        "title": [
+          "Orbit maneuver planning of earth observation satellite swarm for unreachable targets"
+        ],
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0000-0002-5000-7994",
+            "authenticated-orcid": false,
+            "given": "Yuqi",
+            "family": "Sun",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0001-5399-2873",
+            "authenticated-orcid": false,
+            "given": "Xiande",
+            "family": "Wu",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0003-0031-0802",
+            "authenticated-orcid": false,
+            "given": "Hyuk",
+            "family": "Park",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Chao",
+            "family": "Dong",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              4
+            ]
+          ]
+        },
+        "container-title": [
+          "Acta Astronautica"
+        ],
+        "type": "journal-article",
+        "URL": "https://doi.org/10.1016/j.actaastro.2025.12.058",
+        "link": [
+          {
+            "URL": "https://api.elsevier.com/content/article/PII:S0094576525009245?httpAccept=text/xml",
+            "content-type": "text/xml",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://api.elsevier.com/content/article/PII:S0094576525009245?httpAccept=text/plain",
+            "content-type": "text/plain",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          }
+        ]
+      },
+      {
+        "DOI": "10.1109/tpds.2026.3676395/mm1",
+        "title": [
+          "Efficient Query Evaluation for Highly-Frequent Earth Observation via Satellite Maneuver in Space Edge Computing_supp1-3676395.pdf"
+        ],
+        "author": [
+          {
+            "given": "Zichuan",
+            "family": "Xu",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "type": "component",
+        "URL": "https://doi.org/10.1109/tpds.2026.3676395/mm1"
+      },
+      {
+        "DOI": "10.3390/s23104650",
+        "type": "journal-article",
+        "title": [
+          "Generating Low-Earth Orbit Satellite Attitude Maneuver Profiles Using Deep Neural Networks"
+        ],
+        "author": [
+          {
+            "given": "Seok-Teak",
+            "family": "Yun",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Division of KOMPSAT-7 Program, Korea Aerospace Research Institute, Daejeon 34133, Republic of Korea"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Sensors"
+        ],
+        "link": [
+          {
+            "URL": "https://www.mdpi.com/1424-8220/23/10/4650/pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "URL": "https://doi.org/10.3390/s23104650",
+        "published": {
+          "date-parts": [
+            [
+              2023,
+              5,
+              11
+            ]
+          ]
+        },
+        "abstract_present_in_local_response": true,
+        "abstract_sha256": "ab2eb69986caf4ae02529294aee5b86817852d6983d9c719027129de9c9ebdb5"
+      },
+      {
+        "DOI": "10.2514/6.2023-2287",
+        "title": [
+          "Debris Risk Assessment for Mega-Constellations in Low and Medium Earth Orbit Due to Satellite Breakup During Orbit Raising Maneuver"
+        ],
+        "author": [
+          {
+            "given": "Joseph",
+            "family": "Canoy",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Air Force Institute of Technology"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Robert A.",
+            "family": "Bettinger",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Air Force Institute of Technology"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2023,
+              1,
+              19
+            ]
+          ]
+        },
+        "container-title": [
+          "AIAA SCITECH 2023 Forum"
+        ],
+        "type": "proceedings-article",
+        "URL": "https://doi.org/10.2514/6.2023-2287",
+        "link": [
+          {
+            "URL": "https://arc.aiaa.org/doi/pdf/10.2514/6.2023-2287",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ]
+      },
+      {
+        "DOI": "10.52202/083086-0049",
+        "title": [
+          "Multi-Type, Multi-Satellite Scheduling for Heterogeneous Earth Observation Satellite Constellations"
+        ],
+        "author": [
+          {
+            "given": "Harrison",
+            "family": "Steyn",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "[unlisted]"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2025
+            ]
+          ]
+        },
+        "container-title": [
+          "IAF Space Operations Symposium"
+        ],
+        "type": "proceedings-article",
+        "URL": "https://doi.org/10.52202/083086-0049"
+      },
+      {
+        "DOI": "10.2514/1.i011659",
+        "type": "journal-article",
+        "title": [
+          "Reconfigurable Earth Observation Satellite Scheduling Problem"
+        ],
+        "author": [
+          {
+            "given": "Brycen D.",
+            "family": "Pearl",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "West Virginia University"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Joseph M.",
+            "family": "Miller",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "West Virginia University"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0002-2333-0083",
+            "authenticated-orcid": false,
+            "given": "Hang Woon",
+            "family": "Lee",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "West Virginia University"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Journal of Aerospace Information Systems"
+        ],
+        "link": [
+          {
+            "URL": "https://arc.aiaa.org/doi/pdf/10.2514/1.I011659",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "URL": "https://doi.org/10.2514/1.i011659",
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              2
+            ]
+          ]
+        },
+        "abstract_present_in_local_response": true,
+        "abstract_sha256": "01aada54fa1504f87e9892f28ea98057bc5ee4d9c29a12c0a4eaed95e7d8d9fb"
+      },
+      {
+        "DOI": "10.26226/morressier.59c106ead462b80292389f11",
+        "title": [
+          "Optimal orbit of a typical Earth Observation satellite with the purpose of propellant and payload mass minimization"
+        ],
+        "author": [
+          {
+            "given": "Markus",
+            "family": "Wagner",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2017,
+              9,
+              24
+            ]
+          ]
+        },
+        "type": "posted-content",
+        "URL": "https://doi.org/10.26226/morressier.59c106ead462b80292389f11"
+      },
+      {
+        "DOI": "10.52202/083081-0057",
+        "title": [
+          "Optimal Way to Surveil the Korean Peninsula with Ultra High Resolution Low Earth Orbit Optical Satellite"
+        ],
+        "author": [
+          {
+            "given": "Gyusun",
+            "family": "Kim",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Korea Aerospace Research Institute (KARI)"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2025
+            ]
+          ]
+        },
+        "container-title": [
+          "IAF Earth Observation Symposium"
+        ],
+        "type": "proceedings-article",
+        "URL": "https://doi.org/10.52202/083081-0057"
+      },
+      {
+        "DOI": "10.4028/www.scientific.net/amr.816-817.686",
+        "type": "journal-article",
+        "title": [
+          "Attitude Maneuver Duration for an Agile Earth Observation Satellite"
+        ],
+        "author": [
+          {
+            "given": "Zhong Xing",
+            "family": "Tang",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Beihang University (BUAA)"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Chao",
+            "family": "Han",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Beihang University (BUAA)"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Advanced Materials Research"
+        ],
+        "link": [
+          {
+            "URL": "https://www.scientific.net/AMR.816-817.686.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "URL": "https://doi.org/10.4028/www.scientific.net/amr.816-817.686",
+        "published": {
+          "date-parts": [
+            [
+              2013,
+              9,
+              23
+            ]
+          ]
+        },
+        "abstract_present_in_local_response": true,
+        "abstract_sha256": "fc871e9dbd118caf2159d22265bf6974a0fb269e8241eba68e4b4856f102f0e4"
+      },
+      {
+        "DOI": "10.52202/078365-0196",
+        "title": [
+          "GENEO-02: A low-Earth Orbit Small Satellite Mission to Provide Earth Observation, Internet of Things Satellite Data Services and to Demonstrate Technology In-Orbit"
+        ],
+        "author": [
+          {
+            "given": "Marc",
+            "family": "Ortega Playà",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Institut d'Estudis Espacials de Catalunya (IEEC)"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Helena",
+            "family": "Carré Martell",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Institut d'Estudis Espacials de Catalunya (IEEC)"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Josep",
+            "family": "Colomé",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Institut d'Estudis Espacials de Catalunya (IEEC)"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Jordi",
+            "family": "Corbera",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "[unlisted]"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Jorge",
+            "family": "Nicolás-álvarez",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Open cosmos Ltd."
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2024
+            ]
+          ]
+        },
+        "container-title": [
+          "31st IAA Symposium on Small Satellite Missions"
+        ],
+        "type": "proceedings-article",
+        "URL": "https://doi.org/10.52202/078365-0196"
+      },
+      {
+        "DOI": "10.5220/0014407000004055",
+        "title": [
+          "A Constraint Programming Model for the Super-Agile Earth Observation Satellite Imaging Scheduling Problem"
+        ],
+        "author": [
+          {
+            "given": "Margarida",
+            "family": "Caleiras",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Department of Mechanical Engineering, CEMMPRE, University of Coimbra, Portugal"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Samuel",
+            "family": "Moniz",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Department of Mechanical Engineering, CEMMPRE, University of Coimbra, Portugal"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Paulo",
+            "family": "Nascimento",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Department of Mechanical Engineering, CEMMPRE, University of Coimbra, Portugal"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026
+            ]
+          ]
+        },
+        "container-title": [
+          "Proceedings of the 15th International Conference on Operations Research and Enterprise Systems"
+        ],
+        "type": "proceedings-article",
+        "URL": "https://doi.org/10.5220/0014407000004055"
+      },
+      {
+        "DOI": "10.1109/aero58975.2024.10521007",
+        "title": [
+          "A Novel Ground-Based Maneuver Automation System for Low Earth Orbit Satellite Operations"
+        ],
+        "author": [
+          {
+            "given": "Joshua",
+            "family": "Aurich",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Planet Labs PBC,San Francisco,CA,94107"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Justin",
+            "family": "Clark",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Planet Labs PBC,San Francisco,CA,94107"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Zayne",
+            "family": "Thawer",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Planet Labs PBC,San Francisco,CA,94107"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Vishnuu",
+            "family": "Mallik",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Planet Labs PBC,San Francisco,CA,94107"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Shaina",
+            "family": "Johl",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Planet Labs PBC,San Francisco,CA,94107"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2024,
+              3,
+              2
+            ]
+          ]
+        },
+        "container-title": [
+          "2024 IEEE Aerospace Conference"
+        ],
+        "type": "proceedings-article",
+        "URL": "https://doi.org/10.1109/aero58975.2024.10521007",
+        "link": [
+          {
+            "URL": "http://xplorestaging.ieee.org/ielx7/10520981/10520936/10521007.pdf?arnumber=10521007",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ]
+      },
+      {
+        "DOI": "10.1007/978-981-99-3565-9_7",
+        "title": [
+          "Satellite Task Scheduling System"
+        ],
+        "author": [
+          {
+            "given": "Hao",
+            "family": "Chen",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Shuang",
+            "family": "Peng",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Chun",
+            "family": "Du",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Jun",
+            "family": "Li",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2023
+            ]
+          ]
+        },
+        "container-title": [
+          "Earth Observation Satellites"
+        ],
+        "type": "book-chapter",
+        "URL": "https://doi.org/10.1007/978-981-99-3565-9_7",
+        "link": [
+          {
+            "URL": "https://link.springer.com/content/pdf/10.1007/978-981-99-3565-9_7",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ]
+      },
+      {
+        "DOI": "10.52202/083081-0084",
+        "title": [
+          "Small Satellite SAR for Remote Sensing from Very Low Earth Orbit"
+        ],
+        "author": [
+          {
+            "given": "José Pedro",
+            "family": "Ferreira",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Viterbi School of Engineering, USC"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Bruno",
+            "family": "Correia",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "University of Porto, Faculty of Engineering"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Aaron",
+            "family": "Pereira",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "The University of Adelaide"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Jose",
+            "family": "Velazco",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "[unlisted]"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2025
+            ]
+          ]
+        },
+        "container-title": [
+          "IAF Earth Observation Symposium"
+        ],
+        "type": "proceedings-article",
+        "URL": "https://doi.org/10.52202/083081-0084"
+      },
+      {
+        "DOI": "10.2139/ssrn.4932059",
+        "title": [
+          "The Integrated Agile Earth Observation Satellite Scheduling Problem"
+        ],
+        "author": [
+          {
+            "given": "Yure",
+            "family": "Rocha",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Guilherme  Oliveira",
+            "family": "Chagas",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Leandro  C.",
+            "family": "Coelho",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Anand",
+            "family": "Subramanian",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2024
+            ]
+          ]
+        },
+        "type": "posted-content",
+        "URL": "https://doi.org/10.2139/ssrn.4932059"
+      },
+      {
+        "DOI": "10.1109/tsmc.2024.3359265/mm1",
+        "title": [
+          "A Bilevel Evolutionary Algorithm for Large-Scale Multiobjective Task Scheduling in Multiagile Earth Observation Satellite Systems_supp1-3359265.pdf"
+        ],
+        "author": [
+          {
+            "given": "Feng",
+            "family": "Yao",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "type": "component",
+        "URL": "https://doi.org/10.1109/tsmc.2024.3359265/mm1"
+      },
+      {
+        "DOI": "10.1007/978-981-99-3565-9_5",
+        "title": [
+          "Distributed Satellite Task Scheduling Models and Methods"
+        ],
+        "author": [
+          {
+            "given": "Hao",
+            "family": "Chen",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Shuang",
+            "family": "Peng",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Chun",
+            "family": "Du",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Jun",
+            "family": "Li",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2023
+            ]
+          ]
+        },
+        "container-title": [
+          "Earth Observation Satellites"
+        ],
+        "type": "book-chapter",
+        "URL": "https://doi.org/10.1007/978-981-99-3565-9_5",
+        "link": [
+          {
+            "URL": "https://link.springer.com/content/pdf/10.1007/978-981-99-3565-9_5",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ]
+      },
+      {
+        "DOI": "10.52202/083081-0025",
+        "title": [
+          "Evaluating Time Series Models and Deep Learning Techniques for Space Weather Prediction in Low Earth Orbit Satellite Mission Planning"
+        ],
+        "author": [
+          {
+            "given": "Divya",
+            "family": "Rao",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Carnegie Mellon University"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Aditya",
+            "family": "Rao",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "U.C. Berkeley"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2025
+            ]
+          ]
+        },
+        "container-title": [
+          "IAF Earth Observation Symposium"
+        ],
+        "type": "proceedings-article",
+        "URL": "https://doi.org/10.52202/083081-0025"
+      },
+      {
+        "DOI": "10.23919/eusipco63174.2024.10715206",
+        "title": [
+          "Deep Matrix Profile for Maneuver Classification in Low Earth Orbit Satellite Trajectories"
+        ],
+        "author": [
+          {
+            "given": "Stéfan",
+            "family": "Baudier",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Mines Paris, PSL University, Centre for Mathematical Morphology (CMM),Fontainebleau,France"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Santiago",
+            "family": "Velasco-Forero",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Mines Paris, PSL University, Centre for Mathematical Morphology (CMM),Fontainebleau,France"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Franck",
+            "family": "Jean",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Thales LAS France, Advanced Radar Concepts (ARC),Limours,France"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Daniel",
+            "family": "Brooks",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Thales LAS France, Advanced Radar Concepts (ARC),Limours,France"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Jesus",
+            "family": "Angulo",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Mines Paris, PSL University, Centre for Mathematical Morphology (CMM),Fontainebleau,France"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2024,
+              8,
+              26
+            ]
+          ]
+        },
+        "container-title": [
+          "2024 32nd European Signal Processing Conference (EUSIPCO)"
+        ],
+        "type": "proceedings-article",
+        "URL": "https://doi.org/10.23919/eusipco63174.2024.10715206",
+        "link": [
+          {
+            "URL": "http://xplorestaging.ieee.org/ielx8/10714924/10714925/10715206.pdf?arnumber=10715206",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ]
+      },
+      {
+        "DOI": "10.1007/978-981-99-3565-9_6",
+        "title": [
+          "Satellite Onboard Autonomous Task Scheduling Models and Methods"
+        ],
+        "author": [
+          {
+            "given": "Hao",
+            "family": "Chen",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Shuang",
+            "family": "Peng",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Chun",
+            "family": "Du",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Jun",
+            "family": "Li",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2023
+            ]
+          ]
+        },
+        "container-title": [
+          "Earth Observation Satellites"
+        ],
+        "type": "book-chapter",
+        "URL": "https://doi.org/10.1007/978-981-99-3565-9_6",
+        "link": [
+          {
+            "URL": "https://link.springer.com/content/pdf/10.1007/978-981-99-3565-9_6",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ]
+      },
+      {
+        "DOI": "10.1007/s00607-025-01588-8",
+        "title": [
+          "Stratified sampled equilibrium optimizer for agile earth observation satellite observation tasks scheduling"
+        ],
+        "author": [
+          {
+            "given": "Mohamed Elamine",
+            "family": "Galloua",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Shuai",
+            "family": "Li",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Jiahao",
+            "family": "Cui",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2025,
+              11,
+              28
+            ]
+          ]
+        },
+        "container-title": [
+          "Computing"
+        ],
+        "type": "journal-article",
+        "URL": "https://doi.org/10.1007/s00607-025-01588-8",
+        "link": [
+          {
+            "URL": "https://link.springer.com/content/pdf/10.1007/s00607-025-01588-8.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://link.springer.com/article/10.1007/s00607-025-01588-8/fulltext.html",
+            "content-type": "text/html",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://link.springer.com/content/pdf/10.1007/s00607-025-01588-8.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ]
+      },
+      {
+        "DOI": "10.52202/078362-0012",
+        "title": [
+          "Paving the Way for Operational Constellations in Very Low Earth Orbit : The ELITE Small Satellite Demonstrator"
+        ],
+        "author": [
+          {
+            "given": "Kashyapa",
+            "family": "Naren Athreyas",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Nanyang Technological University"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Erick",
+            "family": "Lansard",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Satellite Research Center, Nanyang Technological University (NTU)"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Wee Seng",
+            "family": "Lim",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Nanyang Technological University"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2024
+            ]
+          ]
+        },
+        "container-title": [
+          "IAF Earth Observation Symposium"
+        ],
+        "type": "proceedings-article",
+        "URL": "https://doi.org/10.52202/078362-0012"
+      },
+      {
+        "DOI": "10.1007/3-540-29522-4_13",
+        "title": [
+          "From Kinematic Orbit Determination to Derivation of Satellite Velocity and Gravity Field"
+        ],
+        "author": [
+          {
+            "given": "Dražen",
+            "family": "Švehla",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Lóránt",
+            "family": "Földváry",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Observation of the Earth System from Space"
+        ],
+        "type": "book-chapter",
+        "URL": "https://doi.org/10.1007/3-540-29522-4_13",
+        "link": [
+          {
+            "URL": "http://link.springer.com/content/pdf/10.1007/3-540-29522-4_13.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ]
+      },
+      {
+        "DOI": "10.2139/ssrn.5355144",
+        "title": [
+          "Trader Ocean Algorithm for the Agile Earth Observation Satellite Scheduling Problem"
+        ],
+        "author": [
+          {
+            "given": "Kangning",
+            "family": "Du",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Pengfei",
+            "family": "Gao",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Benkui",
+            "family": "Zhang",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Guoping",
+            "family": "Wang",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Lin",
+            "family": "Cao",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2025
+            ]
+          ]
+        },
+        "type": "posted-content",
+        "URL": "https://doi.org/10.2139/ssrn.5355144"
+      }
+    ],
+    "items-per-page": 25,
+    "query": {
+      "start-index": 0,
+      "search-terms": null
+    }
+  }
+}

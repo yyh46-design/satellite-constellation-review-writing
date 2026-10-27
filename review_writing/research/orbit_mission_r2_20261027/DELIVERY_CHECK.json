@@ -1,0 +1,18 @@
+{
+  "scope": "本轮材料与引用一致性；不代表作者科学终核",
+  "checks": {
+    "candidate_count_at_least_50": true,
+    "candidate_ids_unique": true,
+    "candidate_nonempty_doi_unique": true,
+    "ten_reading_records_and_notes": true,
+    "all_saved_pdf_hashes_match": true,
+    "citations_bibliography_register_agree": true,
+    "first_appearance_order": true,
+    "five_chapters": true,
+    "md_txt_identical": true,
+    "baseline_unchanged": true,
+    "author_verification_not_promoted": true
+  },
+  "human_verified": false,
+  "submission_ready": false
+}

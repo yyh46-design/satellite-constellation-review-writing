@@ -1,0 +1,11 @@
+{
+  "candidate_count": 57,
+  "not_matched_in_checked_registers": 56,
+  "historical_version_reread_candidates": 1,
+  "body_read_records": 10,
+  "not_body_read_candidates": 47,
+  "adopted_read_sources": 8,
+  "reserve_read_sources": 2,
+  "human_verified": false,
+  "submission_ready": false
+}
