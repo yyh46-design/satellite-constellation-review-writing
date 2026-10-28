@@ -1,7 +1,7 @@
 {
   "date": "2026-10-28",
   "document_id": "orbit_design_reframing_discussion_20261028",
-  "stage": "AUTHOR_DISCUSSION_ARCHIVE",
+  "stage": "FULL_CHINESE_BODY_DISCUSSION_PENDING_AUTHOR_REVIEW",
   "branch": "writing/constellation-review-orbit-design-reframing-20261028",
   "base_commit": "402de0c31cb2642821563f6f6288987664636f51",
   "base_tree": "3ebe8fd71e95dfba17b44b6f5e68404407ed68cc",
@@ -11,13 +11,16 @@
   "submission_ready": false,
   "chinese_body_frozen": false,
   "body_saved": [
+    "abstract_cn",
+    "chapter_1",
     "chapter_2",
     "chapter_3",
-    "chapter_4"
+    "chapter_4",
+    "chapter_5"
   ],
   "chapter_4_status": "REFINED_AFTER_SECOND_TARGETED_READING_PENDING_AUTHOR_DISCUSSION",
   "full_revised_manuscript_complete": false,
-  "new_fulltext_readings_this_save": 3,
+  "new_fulltext_readings_this_save": 0,
   "chapter_2_3_unique_source_urls": 32,
   "baseline_reference_count": 120,
   "r2_counts": {
@@ -40,11 +43,20 @@
     "provenance/chapter3/CHAPTER_EVIDENCE_MAP_CN.md",
     "../../research/chapter4_orbit_decision_20261028/SOURCE_STATUS.json"
   ],
-  "citation_numbering": "Author-year links in chapters 2-4; baseline numbering unchanged.",
+  "citation_numbering": "Author-year source links in the full Chinese discussion draft; original baseline numbering unchanged; formal numbering pending",
   "initial_archive_new_fulltext_readings": 0,
   "chapter_4_unique_source_urls": 32,
   "chapter_4_research_record": "../../research/chapter4_orbit_decision_20261028/SOURCE_STATUS.json",
   "chapter_4_new_body_read_total": 10,
   "chapter_4_sources_used_from_new_readings": 9,
-  "chapter_4_followup_record": "../../research/chapter4_orbit_decision_20261028/FOLLOWUP_SOURCE_RECORD.json"
+  "chapter_4_followup_record": "../../research/chapter4_orbit_decision_20261028/FOLLOWUP_SOURCE_RECORD.json",
+  "chinese_full_body_discussion_complete": true,
+  "complete_draft_scope": "Chinese abstract and chapters 1-5 with author-year source links; final title, formatted bibliography, English abstract and figures pending",
+  "completion_parent_commit": "c362340625b0cdf660d7dd6d41189e47b412d39f",
+  "full_discussion_file": "REVIEW_DISCUSSION_ORBIT_REFRAMED_CN.md",
+  "full_discussion_unique_sources": 66,
+  "chapter_1_unique_sources": 14,
+  "chapters_2_4_unique_sources": 62,
+  "historical_review_sources_added_to_reframed_draft": 4,
+  "completion_notes": "COMPLETION_NOTES_CN.md"
 }

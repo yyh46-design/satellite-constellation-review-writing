@@ -34,3 +34,9 @@ R2记录57项候选、10项原文精读、8项用于R2讨论稿，47项尚未精
 [第四章研究目录](../../research/chapter4_orbit_decision_20261028/README_CN.md)保存31项已有来源的归组、两轮共10项正文阅读及9项采用判断、方法比较和段落证据对应。[第四章引用清单](CHAPTER_4_CITATION_INDEX.json)连接正文中的作者—年份与实际阅读版本。R2-C097在首轮读后暂缓采用；旧精读Mahfouz等重新用于MPC前视取舍，不计新增，也不改历史RESERVE记录。
 
 [续读综合](../../research/chapter4_orbit_decision_20261028/FOLLOWUP_SYNTHESIS_CN.md)说明本轮3项如何补强有限低推力任务序列、学习候选与数值优化的分工，以及任务模式对恢复几何的要求。McGrath读取机构接受稿，Scala读取2022年预印本，Xu读取2023年出版社PDF；各自哈希、页码和版本状态见[续读来源记录](../../research/chapter4_orbit_decision_20261028/FOLLOWUP_SOURCE_RECORD.json)。
+
+## 摘要、第一章与第五章补齐
+
+[补齐记录](COMPLETION_NOTES_CN.md)将摘要和结论中的综合判断对应到第二至第四章及其阅读记录。第一章重新采用Sullivan、CAMmary、Ferrari、Ben-Larbi和Jabbarpour五项已有综述，介绍各自主题与本文问题的联系。其中Sullivan已在第二章出现，其余四项增加新版正文引用覆盖，不计新增精读。
+
+本次定向回看Sullivan公开原文第1–2物理页的研究范围；其余沿用B04—B07实际核读记录。没有对这些综述转引的全部研究重新审计。[完整稿引用索引](WHOLE_DRAFT_CITATION_INDEX.json)记录合并正文的实际引用；当前作者—年份标签及版本记录保留，正式书目后续统一。
