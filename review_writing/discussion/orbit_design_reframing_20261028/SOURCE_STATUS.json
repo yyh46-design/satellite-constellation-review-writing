@@ -21,7 +21,7 @@
   "chapter_4_status": "REFINED_AFTER_SECOND_TARGETED_READING_PENDING_AUTHOR_DISCUSSION",
   "full_revised_manuscript_complete": false,
   "new_fulltext_readings_this_save": 0,
-  "chapter_2_3_unique_source_urls": 32,
+  "chapter_2_3_unique_source_urls": 35,
   "baseline_reference_count": 120,
   "r2_counts": {
     "candidates": 57,
@@ -45,7 +45,7 @@
   ],
   "citation_numbering": "Author-year source links in the full Chinese discussion draft; original baseline numbering unchanged; formal numbering pending",
   "initial_archive_new_fulltext_readings": 0,
-  "chapter_4_unique_source_urls": 32,
+  "chapter_4_unique_source_urls": 35,
   "chapter_4_research_record": "../../research/chapter4_orbit_decision_20261028/SOURCE_STATUS.json",
   "chapter_4_new_body_read_total": 10,
   "chapter_4_sources_used_from_new_readings": 9,
@@ -54,9 +54,24 @@
   "complete_draft_scope": "Chinese abstract and chapters 1-5 with author-year source links; final title, formatted bibliography, English abstract and figures pending",
   "completion_parent_commit": "c362340625b0cdf660d7dd6d41189e47b412d39f",
   "full_discussion_file": "REVIEW_DISCUSSION_ORBIT_REFRAMED_CN.md",
-  "full_discussion_unique_sources": 66,
+  "full_discussion_unique_sources": 72,
   "chapter_1_unique_sources": 14,
-  "chapters_2_4_unique_sources": 62,
+  "chapters_2_4_unique_sources": 68,
   "historical_review_sources_added_to_reframed_draft": 4,
-  "completion_notes": "COMPLETION_NOTES_CN.md"
+  "completion_notes": "COMPLETION_NOTES_CN.md",
+  "chapter_5_unique_sources": 7,
+  "per_chapter_unique_sources": {
+    "1": 14,
+    "2": 18,
+    "3": 20,
+    "4": 35,
+    "5": 7
+  },
+  "citation_occurrences": 119,
+  "latest_integration_parent": "589138bd210c7f84777a9a90444ad90e00ca07d5",
+  "latest_integration_note": "LIBRARY_INTEGRATION_CN.md",
+  "latest_integration_new_sources_to_draft": 6,
+  "latest_integration_new_fulltext_readings": 0,
+  "latest_integration_check": "LIBRARY_INTEGRATION_CHECK.json",
+  "latest_integration_manifest": "LIBRARY_INTEGRATION_MANIFEST.json"
 }

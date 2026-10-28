@@ -1,0 +1,48 @@
+{
+  "date": "2026-10-28",
+  "parent_commit": "589138bd210c7f84777a9a90444ad90e00ca07d5",
+  "scope": "Assembly, actual citations and file preservation; source selection and claim locations are recorded in LIBRARY_INTEGRATION_CN.md",
+  "status": "PASS",
+  "checks": {
+    "assembly_has_abstract_and_all_five_chapters": true,
+    "all_66_previous_source_urls_retained": true,
+    "new_source_urls_exactly_selected_six": true,
+    "full_draft_has_72_distinct_sources": true,
+    "chapter_counts_match_14_18_20_35_7": true,
+    "chapter_indexes_match_full_draft": true,
+    "conclusion_only_cites_sources_already_in_body": true,
+    "abstract_and_introduction_unchanged": true,
+    "historical_check_and_manifest_git_content_unchanged": true,
+    "tracked_changes_confined_to_discussion_directory": true,
+    "human_submission_and_freeze_flags_remain_false": true,
+    "no_new_fulltext_reading_count": true,
+    "r2_and_chapter4_reading_counts_preserved": true,
+    "new_note_and_readme_local_links_resolve": true,
+    "display_math_delimiters_balanced": true,
+    "no_unresolved_placeholders": true
+  },
+  "missing_links": [],
+  "unique_sources": 72,
+  "previous_unique_sources": 66,
+  "newly_cited_existing_read_sources": 6,
+  "new_fulltext_readings": 0,
+  "per_chapter_unique_sources": {
+    "1": 14,
+    "2": 18,
+    "3": 20,
+    "4": 35,
+    "5": 7
+  },
+  "chapters_2_4_unique_sources": 68,
+  "citation_occurrences": 119,
+  "added_source_urls": [
+    "https://arxiv.org/pdf/2307.06004v2",
+    "https://doi.org/10.1016/j.actaastro.2015.12.035",
+    "https://doi.org/10.23919/ACC53348.2022.9867216",
+    "https://elib.dlr.de/217352/1/manuscript_accepted.pdf",
+    "https://eurognc.ceas.org/archive/EuroGNC2026/pdf/CEAS-GNC-2026-069.pdf",
+    "https://madsalma.github.io/pubs/2026_jsr_satellite.pdf"
+  ],
+  "human_verified": false,
+  "submission_ready": false
+}

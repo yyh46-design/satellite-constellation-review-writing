@@ -1,0 +1,77 @@
+{
+  "date": "2026-10-28",
+  "parent_commit": "589138bd210c7f84777a9a90444ad90e00ca07d5",
+  "files": [
+    {
+      "path": "review_writing/discussion/orbit_design_reframing_20261028/ABSTRACT_REFRAMED_CN.md",
+      "bytes": 1194,
+      "sha256": "fcf9b4c980e57a4ecbecd3ff0bf94fc258b988786c0e7f1428195278cd6b7eb1"
+    },
+    {
+      "path": "review_writing/discussion/orbit_design_reframing_20261028/CHAPTER_1_REFRAMED_CN.md",
+      "bytes": 6192,
+      "sha256": "90068058c719b0ef0904495b12a5fa5f31fa1dafb0f977d66adb9c471d7e6a9d"
+    },
+    {
+      "path": "review_writing/discussion/orbit_design_reframing_20261028/CHAPTERS_2_3_REFINED_CN.md",
+      "bytes": 28996,
+      "sha256": "139c2448ec4b6bd68963ffe67e3b2554e5c44d4db6a88684041281a629ce4fe3"
+    },
+    {
+      "path": "review_writing/discussion/orbit_design_reframing_20261028/CHAPTER_4_DISCUSSION_CN.md",
+      "bytes": 25369,
+      "sha256": "fa2cfd80ae0170050d61ef2fa7a4d1602db9a7e571f780b4af76db71f0766b5d"
+    },
+    {
+      "path": "review_writing/discussion/orbit_design_reframing_20261028/CHAPTER_5_REFRAMED_CN.md",
+      "bytes": 4313,
+      "sha256": "faa9aecbc568d17638048c6fd4f8c56deccb0192b04e5625e94c04d74b986fe8"
+    },
+    {
+      "path": "review_writing/discussion/orbit_design_reframing_20261028/REVIEW_DISCUSSION_ORBIT_REFRAMED_CN.md",
+      "bytes": 66168,
+      "sha256": "7e6304803a47d1fed16cd696df2d4626e9d9a48d9da7831d6ff36ef046d262a5"
+    },
+    {
+      "path": "review_writing/discussion/orbit_design_reframing_20261028/WHOLE_DRAFT_CITATION_INDEX.json",
+      "bytes": 51116,
+      "sha256": "690a6061dc0ddcb9aa7858bc34c30c43793752c460f7f9afd758050607ae6c1c"
+    },
+    {
+      "path": "review_writing/discussion/orbit_design_reframing_20261028/CHAPTERS_2_3_CITATION_INDEX.json",
+      "bytes": 10496,
+      "sha256": "1ad9f08c67a9dd8b592bb2599f8facfb96da66784510837ddad519b931330410"
+    },
+    {
+      "path": "review_writing/discussion/orbit_design_reframing_20261028/CHAPTER_4_CITATION_INDEX.json",
+      "bytes": 17661,
+      "sha256": "7adbedf93475e3f6f948d632af0441e041b5bf747457f93597525b224ad6bbdc"
+    },
+    {
+      "path": "review_writing/discussion/orbit_design_reframing_20261028/SOURCE_STATUS.json",
+      "bytes": 3281,
+      "sha256": "d78304075d73a5cddecf699f05f4f191de23288f549068c6085c966b0279dac2"
+    },
+    {
+      "path": "review_writing/discussion/orbit_design_reframing_20261028/README_CN.md",
+      "bytes": 4533,
+      "sha256": "65b06c8cb94b541ba1c35c9d85627f993cfbcaeca744ff19bc43bd8a0e2cf384"
+    },
+    {
+      "path": "review_writing/discussion/orbit_design_reframing_20261028/LITERATURE_AND_CONTENT_ENHANCEMENT_CN.md",
+      "bytes": 12037,
+      "sha256": "c8844fff5389d14590054d4b3f389f3d39f1e18c896a6d78b6e45711a1d79f7d"
+    },
+    {
+      "path": "review_writing/discussion/orbit_design_reframing_20261028/LIBRARY_INTEGRATION_CN.md",
+      "bytes": 7910,
+      "sha256": "9af395a03de3acaf378b327de00ca996529306b159c0a6add8a9b461aef02524"
+    },
+    {
+      "path": "review_writing/discussion/orbit_design_reframing_20261028/LIBRARY_INTEGRATION_CHECK.json",
+      "bytes": 1859,
+      "sha256": "926c5f1e3db4b00038325cd0d11f9b09d21431ad58e4c7c1d8513f96366e7e86"
+    }
+  ],
+  "third_party_fulltexts_included": false
+}

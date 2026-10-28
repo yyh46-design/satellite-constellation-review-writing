@@ -1,17 +1,17 @@
 {
   "date": "2026-10-28",
-  "parent_commit": "c362340625b0cdf660d7dd6d41189e47b412d39f",
+  "parent_commit": "589138bd210c7f84777a9a90444ad90e00ca07d5",
   "document": "REVIEW_DISCUSSION_ORBIT_REFRAMED_CN.md",
   "count_scope": "Distinct cited source URLs checked against the component indexes; not new reading counts",
-  "unique_sources": 66,
+  "unique_sources": 72,
   "per_chapter": {
     "1": 14,
-    "2": 17,
-    "3": 18,
-    "4": 32,
-    "5": 0
+    "2": 18,
+    "3": 20,
+    "4": 35,
+    "5": 7
   },
-  "chapters_2_4_unique_sources": 62,
+  "chapters_2_4_unique_sources": 68,
   "historical_review_sources_added_in_chapter_1": 4,
   "new_review_urls": [
     "https://arxiv.org/pdf/2503.22555v1",
@@ -19,7 +19,7 @@
     "https://doi.org/10.1016/j.asr.2020.08.009",
     "https://doi.org/10.1016/j.cor.2024.106875"
   ],
-  "citation_occurrences": 104,
+  "citation_occurrences": 119,
   "sources": [
     {
       "order": 1,
@@ -29,20 +29,25 @@
       ],
       "chapters": [
         "1",
-        "2"
+        "2",
+        "5"
       ],
       "sections": [
         "1.1 研究背景与核心问题",
         "2.1 从任务需求到轨道设计变量",
         "2.2 动力学模型与任务几何的联系",
-        "2.3 构型表示与轨道优化方法"
+        "2.3 构型表示与轨道优化方法",
+        "2.4 构型方案的运行代价与选择",
+        "5 结论与展望"
       ],
       "lines": [
         13,
         54,
         58,
         68,
-        76
+        78,
+        90,
+        245
       ]
     },
     {
@@ -63,7 +68,7 @@
       "lines": [
         13,
         52,
-        80
+        82
       ]
     },
     {
@@ -85,7 +90,7 @@
       "lines": [
         13,
         50,
-        121
+        125
       ]
     },
     {
@@ -106,8 +111,8 @@
       ],
       "lines": [
         15,
-        86,
-        102
+        88,
+        106
       ]
     },
     {
@@ -126,10 +131,10 @@
       ],
       "lines": [
         15,
-        129,
-        135,
+        133,
         139,
-        143
+        143,
+        147
       ]
     },
     {
@@ -143,19 +148,22 @@
       "chapters": [
         "1",
         "2",
-        "4"
+        "4",
+        "5"
       ],
       "sections": [
         "1.1 研究背景与核心问题",
         "2.4 构型方案的运行代价与选择",
         "4.1 轨道与任务资源的联合规划",
-        "4.3 动态更新与学习辅助决策"
+        "4.3 动态更新与学习辅助决策",
+        "5 结论与展望"
       ],
       "lines": [
         17,
-        90,
-        171,
-        193
+        94,
+        179,
+        205,
+        249
       ]
     },
     {
@@ -166,15 +174,18 @@
       ],
       "chapters": [
         "1",
-        "4"
+        "4",
+        "5"
       ],
       "sections": [
         "1.1 研究背景与核心问题",
-        "4.1 轨道与任务资源的联合规划"
+        "4.1 轨道与任务资源的联合规划",
+        "5 结论与展望"
       ],
       "lines": [
         17,
-        171
+        179,
+        249
       ]
     },
     {
@@ -193,7 +204,7 @@
       ],
       "lines": [
         19,
-        181
+        191
       ]
     },
     {
@@ -212,7 +223,7 @@
       ],
       "lines": [
         19,
-        185
+        195
       ]
     },
     {
@@ -313,7 +324,7 @@
       ],
       "lines": [
         50,
-        86
+        88
       ]
     },
     {
@@ -331,7 +342,7 @@
       ],
       "lines": [
         50,
-        78
+        80
       ]
     },
     {
@@ -383,11 +394,27 @@
       ],
       "lines": [
         72,
-        108
+        112
       ]
     },
     {
       "order": 20,
+      "url": "https://doi.org/10.1016/j.actaastro.2015.12.035",
+      "labels": [
+        "Ben-Yaacov等，2016"
+      ],
+      "chapters": [
+        "2"
+      ],
+      "sections": [
+        "2.2 动力学模型与任务几何的联系"
+      ],
+      "lines": [
+        74
+      ]
+    },
+    {
+      "order": 21,
       "url": "https://doi.org/10.1007/s10569-013-9493-8",
       "labels": [
         "Avendaño等，2013"
@@ -399,30 +426,14 @@
         "2.3 构型表示与轨道优化方法"
       ],
       "lines": [
-        76
-      ]
-    },
-    {
-      "order": 21,
-      "url": "https://doi.org/10.1109/TAES.2014.120269",
-      "labels": [
-        "Casanova等，2014"
-      ],
-      "chapters": [
-        "2"
-      ],
-      "sections": [
-        "2.3 构型表示与轨道优化方法"
-      ],
-      "lines": [
-        76
+        78
       ]
     },
     {
       "order": 22,
-      "url": "https://doi.org/10.1155/2017/1235692",
+      "url": "https://doi.org/10.1109/TAES.2014.120269",
       "labels": [
-        "Savitri等，2017"
+        "Casanova等，2014"
       ],
       "chapters": [
         "2"
@@ -436,6 +447,22 @@
     },
     {
       "order": 23,
+      "url": "https://doi.org/10.1155/2017/1235692",
+      "labels": [
+        "Savitri等，2017"
+      ],
+      "chapters": [
+        "2"
+      ],
+      "sections": [
+        "2.3 构型表示与轨道优化方法"
+      ],
+      "lines": [
+        80
+      ]
+    },
+    {
+      "order": 24,
       "url": "https://arxiv.org/pdf/1910.00672v4",
       "labels": [
         "Lee等，2020"
@@ -447,12 +474,12 @@
         "2.3 构型表示与轨道优化方法"
       ],
       "lines": [
-        78,
-        80
+        80,
+        82
       ]
     },
     {
-      "order": 24,
+      "order": 25,
       "url": "https://doi.org/10.3390/aerospace9050234",
       "labels": [
         "Jia等，2022"
@@ -465,12 +492,12 @@
         "2.4 构型方案的运行代价与选择"
       ],
       "lines": [
-        82,
-        88
+        84,
+        92
       ]
     },
     {
-      "order": 25,
+      "order": 26,
       "url": "https://arxiv.org/pdf/2205.15774v1",
       "labels": [
         "Polli等，2022预印本"
@@ -482,11 +509,11 @@
         "2.4 构型方案的运行代价与选择"
       ],
       "lines": [
-        88
+        92
       ]
     },
     {
-      "order": 26,
+      "order": 27,
       "url": "https://doi.org/10.2514/1.G004443",
       "labels": [
         "McGrath与Macdonald，2020"
@@ -498,12 +525,12 @@
         "3.1 星座部署与轨道面展开"
       ],
       "lines": [
-        100,
-        102
+        104,
+        106
       ]
     },
     {
-      "order": 27,
+      "order": 28,
       "url": "https://doi.org/10.2514/1.G000189",
       "labels": [
         "Gaias与D’Amico，2015"
@@ -516,14 +543,14 @@
         "3.3 任务需求变化下的星座重构"
       ],
       "lines": [
-        117,
-        119,
-        133,
-        135
+        121,
+        123,
+        137,
+        139
       ]
     },
     {
-      "order": 28,
+      "order": 29,
       "url": "https://arxiv.org/pdf/1806.01218v1",
       "labels": [
         "Foster等，2017会议稿"
@@ -535,12 +562,12 @@
         "3.2 构型维持与相位控制"
       ],
       "lines": [
-        119,
-        125
+        123,
+        129
       ]
     },
     {
-      "order": 29,
+      "order": 30,
       "url": "https://doi.org/10.1007/s42405-025-01071-w",
       "labels": [
         "Kim与Yoon，2026"
@@ -552,11 +579,11 @@
         "3.2 构型维持与相位控制"
       ],
       "lines": [
-        123
+        127
       ]
     },
     {
-      "order": 30,
+      "order": 31,
       "url": "https://ntrs.nasa.gov/api/citations/20170010724/downloads/20170010724.pdf",
       "labels": [
         "Hull等，2017"
@@ -568,11 +595,11 @@
         "3.2 构型维持与相位控制"
       ],
       "lines": [
-        123
+        127
       ]
     },
     {
-      "order": 31,
+      "order": 32,
       "url": "https://doi.org/10.1007/s12567-025-00630-x",
       "labels": [
         "Ingrillini等，2026"
@@ -584,11 +611,11 @@
         "3.2 构型维持与相位控制"
       ],
       "lines": [
-        125
+        129
       ]
     },
     {
-      "order": 32,
+      "order": 33,
       "url": "https://arxiv.org/pdf/2110.07817v1",
       "labels": [
         "Arnas与Linares，2021预印本"
@@ -600,11 +627,11 @@
         "3.3 任务需求变化下的星座重构"
       ],
       "lines": [
-        131
+        135
       ]
     },
     {
-      "order": 33,
+      "order": 34,
       "url": "https://doi.org/10.1016/j.actaastro.2014.02.016",
       "labels": [
         "Appel等，2014"
@@ -616,11 +643,11 @@
         "3.3 任务需求变化下的星座重构"
       ],
       "lines": [
-        137
+        141
       ]
     },
     {
-      "order": 34,
+      "order": 35,
       "url": "https://arxiv.org/pdf/2401.11567v3",
       "labels": [
         "Lee等，2024预印本",
@@ -635,63 +662,15 @@
         "4.3 动态更新与学习辅助决策"
       ],
       "lines": [
-        141,
-        193
-      ]
-    },
-    {
-      "order": 35,
-      "url": "https://doi.org/10.1061/%28ASCE%29AS.1943-5525.0000642",
-      "labels": [
-        "Shao等，2016"
-      ],
-      "chapters": [
-        "3"
-      ],
-      "sections": [
-        "3.4 安全约束下的轨道机动"
-      ],
-      "lines": [
-        147
+        145,
+        205
       ]
     },
     {
       "order": 36,
-      "url": "https://doi.org/10.2514/1.G000742",
+      "url": "https://doi.org/10.1061/%28ASCE%29AS.1943-5525.0000642",
       "labels": [
-        "Bombardelli与Hernando-Ayuso，2015"
-      ],
-      "chapters": [
-        "3"
-      ],
-      "sections": [
-        "3.4 安全约束下的轨道机动"
-      ],
-      "lines": [
-        149
-      ]
-    },
-    {
-      "order": 37,
-      "url": "https://arxiv.org/pdf/2101.07403v5",
-      "labels": [
-        "Armellin，2021预印本"
-      ],
-      "chapters": [
-        "3"
-      ],
-      "sections": [
-        "3.4 安全约束下的轨道机动"
-      ],
-      "lines": [
-        149
-      ]
-    },
-    {
-      "order": 38,
-      "url": "https://doi.org/10.1007/s42064-024-0227-3",
-      "labels": [
-        "Pavanello等，2025"
+        "Shao等，2016"
       ],
       "chapters": [
         "3"
@@ -704,7 +683,93 @@
       ]
     },
     {
+      "order": 37,
+      "url": "https://doi.org/10.23919/ACC53348.2022.9867216",
+      "labels": [
+        "Guffanti与D’Amico，2022"
+      ],
+      "chapters": [
+        "3",
+        "5"
+      ],
+      "sections": [
+        "3.4 安全约束下的轨道机动",
+        "5 结论与展望"
+      ],
+      "lines": [
+        153,
+        247
+      ]
+    },
+    {
+      "order": 38,
+      "url": "https://doi.org/10.2514/1.G000742",
+      "labels": [
+        "Bombardelli与Hernando-Ayuso，2015"
+      ],
+      "chapters": [
+        "3"
+      ],
+      "sections": [
+        "3.4 安全约束下的轨道机动"
+      ],
+      "lines": [
+        155
+      ]
+    },
+    {
       "order": 39,
+      "url": "https://arxiv.org/pdf/2101.07403v5",
+      "labels": [
+        "Armellin，2021预印本"
+      ],
+      "chapters": [
+        "3"
+      ],
+      "sections": [
+        "3.4 安全约束下的轨道机动"
+      ],
+      "lines": [
+        155
+      ]
+    },
+    {
+      "order": 40,
+      "url": "https://doi.org/10.1007/s42064-024-0227-3",
+      "labels": [
+        "Pavanello等，2025"
+      ],
+      "chapters": [
+        "3"
+      ],
+      "sections": [
+        "3.4 安全约束下的轨道机动"
+      ],
+      "lines": [
+        157
+      ]
+    },
+    {
+      "order": 41,
+      "url": "https://arxiv.org/pdf/2307.06004v2",
+      "labels": [
+        "Pavanello等，2024预印本"
+      ],
+      "chapters": [
+        "3",
+        "5"
+      ],
+      "sections": [
+        "3.4 安全约束下的轨道机动",
+        "5 结论与展望"
+      ],
+      "lines": [
+        159,
+        247
+      ]
+    },
+    {
+      "order": 42,
       "url": "https://doi.org/10.3390/app16083707",
       "labels": [
         "Błażejczyk与Zagórski，2026"
@@ -716,11 +781,11 @@
         "3.4 安全约束下的轨道机动"
       ],
       "lines": [
-        153
+        161
       ]
     },
     {
-      "order": 40,
+      "order": 43,
       "url": "https://doi.org/10.3390/rs14091966",
       "labels": [
         "Luo等，2022"
@@ -732,11 +797,11 @@
         "4.1 轨道与任务资源的联合规划"
       ],
       "lines": [
-        163
+        171
       ]
     },
     {
-      "order": 41,
+      "order": 44,
       "url": "https://strathprints.strath.ac.uk/72860/1/McGrath_etal_ASR_2020_Novel_concept_of_satellite_manoeuvre_planning.pdf",
       "labels": [
         "McGrath等，2021"
@@ -749,13 +814,13 @@
         "4.3 动态更新与学习辅助决策"
       ],
       "lines": [
-        165,
-        167,
-        191
+        173,
+        175,
+        203
       ]
     },
     {
-      "order": 42,
+      "order": 45,
       "url": "https://www.comm.utoronto.ca/~liang/publications/TMC_ObsTrans_ASN.pdf",
       "labels": [
         "He等，2022"
@@ -767,11 +832,32 @@
         "4.1 轨道与任务资源的联合规划"
       ],
       "lines": [
-        169
+        177
       ]
     },
     {
-      "order": 43,
+      "order": 46,
+      "url": "https://publications.spaceops.org/2025/download_by_id.php?id=0105",
+      "labels": [
+        "Mascolo等，2025"
+      ],
+      "chapters": [
+        "4",
+        "5"
+      ],
+      "sections": [
+        "4.1 轨道与任务资源的联合规划",
+        "4.4 执行反馈与业务恢复",
+        "5 结论与展望"
+      ],
+      "lines": [
+        183,
+        225,
+        251
+      ]
+    },
+    {
+      "order": 47,
       "url": "https://arxiv.org/pdf/2206.02910v2",
       "labels": [
         "Lee和Ho，2023"
@@ -783,11 +869,11 @@
         "4.1 轨道与任务资源的联合规划"
       ],
       "lines": [
-        175
+        185
       ]
     },
     {
-      "order": 44,
+      "order": 48,
       "url": "https://ai.jpl.nasa.gov/public/documents/papers/parjan-jais2023-mas.pdf",
       "labels": [
         "Parjan和Chien，2023"
@@ -799,11 +885,11 @@
         "4.2 多星协同与分层决策"
       ],
       "lines": [
-        181
+        191
       ]
     },
     {
-      "order": 45,
+      "order": 49,
       "url": "https://arxiv.org/pdf/2201.10399v1",
       "labels": [
         "Pippia等，2022"
@@ -815,11 +901,11 @@
         "4.2 多星协同与分层决策"
       ],
       "lines": [
-        183
+        193
       ]
     },
     {
-      "order": 46,
+      "order": 50,
       "url": "https://hanspeterschaub.info/Papers/Stephenson2025b.pdf",
       "labels": [
         "Stephenson和Schaub，2025"
@@ -832,12 +918,28 @@
         "4.3 动态更新与学习辅助决策"
       ],
       "lines": [
-        185,
-        201
+        195,
+        215
       ]
     },
     {
-      "order": 47,
+      "order": 51,
+      "url": "https://madsalma.github.io/pubs/2026_jsr_satellite.pdf",
+      "labels": [
+        "Pedari等，2026预印本"
+      ],
+      "chapters": [
+        "4"
+      ],
+      "sections": [
+        "4.2 多星协同与分层决策"
+      ],
+      "lines": [
+        197
+      ]
+    },
+    {
+      "order": 52,
       "url": "https://arxiv.org/pdf/2607.26570v1",
       "labels": [
         "Kim等，2026"
@@ -849,11 +951,11 @@
         "4.2 多星协同与分层决策"
       ],
       "lines": [
-        187
+        199
       ]
     },
     {
-      "order": 48,
+      "order": 53,
       "url": "https://doi.org/10.1155/2013/304047",
       "labels": [
         "Qiu等，2013"
@@ -865,11 +967,11 @@
         "4.3 动态更新与学习辅助决策"
       ],
       "lines": [
-        191
+        203
       ]
     },
     {
-      "order": 49,
+      "order": 54,
       "url": "https://arxiv.org/pdf/2103.08962v1",
       "labels": [
         "Sarton du Jonchay等，2021"
@@ -882,144 +984,15 @@
         "4.4 执行反馈与业务恢复"
       ],
       "lines": [
-        191,
-        223
-      ]
-    },
-    {
-      "order": 50,
-      "url": "https://arxiv.org/pdf/2608.09738v1",
-      "labels": [
-        "Pearl和Lee，2026"
-      ],
-      "chapters": [
-        "4"
-      ],
-      "sections": [
-        "4.3 动态更新与学习辅助决策"
-      ],
-      "lines": [
-        195
-      ]
-    },
-    {
-      "order": 51,
-      "url": "https://orbilu.uni.lu/bitstream/10993/64742/1/1-s2.0-S0094576525001432-main.pdf",
-      "labels": [
-        "Mahfouz等，2025"
-      ],
-      "chapters": [
-        "4"
-      ],
-      "sections": [
-        "4.3 动态更新与学习辅助决策"
-      ],
-      "lines": [
-        197
-      ]
-    },
-    {
-      "order": 52,
-      "url": "https://yanjiesong.github.io/files/RLGA2023.pdf",
-      "labels": [
-        "Song等，2023"
-      ],
-      "chapters": [
-        "4"
-      ],
-      "sections": [
-        "4.3 动态更新与学习辅助决策"
-      ],
-      "lines": [
-        199
-      ]
-    },
-    {
-      "order": 53,
-      "url": "https://hanspeterschaub.info/PapersPrivate/Herrmann2024.pdf",
-      "labels": [
-        "Herrmann等，2024"
-      ],
-      "chapters": [
-        "4"
-      ],
-      "sections": [
-        "4.3 动态更新与学习辅助决策"
-      ],
-      "lines": [
-        199
-      ]
-    },
-    {
-      "order": 54,
-      "url": "https://www.sciopen.com/local/article_pdf/10.34133/space.0047.pdf",
-      "labels": [
-        "Xu等，2023"
-      ],
-      "chapters": [
-        "4"
-      ],
-      "sections": [
-        "4.3 动态更新与学习辅助决策"
-      ],
-      "lines": [
-        201,
-        203
+        203,
+        239
       ]
     },
     {
       "order": 55,
-      "url": "https://slab.stanford.edu/sites/g/files/sbiybj25201/files/media/file/guffantigammellidamicopavone_ieeeaero24_final.pdf",
+      "url": "https://arxiv.org/pdf/2608.09738v1",
       "labels": [
-        "Guffanti等，2024"
-      ],
-      "chapters": [
-        "4"
-      ],
-      "sections": [
-        "4.3 动态更新与学习辅助决策"
-      ],
-      "lines": [
-        203
-      ]
-    },
-    {
-      "order": 56,
-      "url": "https://arxiv.org/pdf/2410.23916v1",
-      "labels": [
-        "Celestini等，2024"
-      ],
-      "chapters": [
-        "4"
-      ],
-      "sections": [
-        "4.3 动态更新与学习辅助决策"
-      ],
-      "lines": [
-        205
-      ]
-    },
-    {
-      "order": 57,
-      "url": "https://doi.org/10.3390/aerospace12090837",
-      "labels": [
-        "Capra等，2025"
-      ],
-      "chapters": [
-        "4"
-      ],
-      "sections": [
-        "4.3 动态更新与学习辅助决策"
-      ],
-      "lines": [
-        205
-      ]
-    },
-    {
-      "order": 58,
-      "url": "https://arxiv.org/pdf/2410.05585v2",
-      "labels": [
-        "Takubo等，2025"
+        "Pearl和Lee，2026"
       ],
       "chapters": [
         "4"
@@ -1032,23 +1005,155 @@
       ]
     },
     {
-      "order": 59,
-      "url": "https://publications.spaceops.org/2025/download_by_id.php?id=0105",
+      "order": 56,
+      "url": "https://orbilu.uni.lu/bitstream/10993/64742/1/1-s2.0-S0094576525001432-main.pdf",
       "labels": [
-        "Mascolo等，2025"
+        "Mahfouz等，2025"
       ],
       "chapters": [
         "4"
       ],
       "sections": [
-        "4.4 执行反馈与业务恢复"
+        "4.3 动态更新与学习辅助决策"
       ],
       "lines": [
-        211
+        209
+      ]
+    },
+    {
+      "order": 57,
+      "url": "https://eurognc.ceas.org/archive/EuroGNC2026/pdf/CEAS-GNC-2026-069.pdf",
+      "labels": [
+        "Botelho等，2026"
+      ],
+      "chapters": [
+        "4",
+        "5"
+      ],
+      "sections": [
+        "4.3 动态更新与学习辅助决策",
+        "5 结论与展望"
+      ],
+      "lines": [
+        211,
+        251
+      ]
+    },
+    {
+      "order": 58,
+      "url": "https://yanjiesong.github.io/files/RLGA2023.pdf",
+      "labels": [
+        "Song等，2023"
+      ],
+      "chapters": [
+        "4"
+      ],
+      "sections": [
+        "4.3 动态更新与学习辅助决策"
+      ],
+      "lines": [
+        213
+      ]
+    },
+    {
+      "order": 59,
+      "url": "https://hanspeterschaub.info/PapersPrivate/Herrmann2024.pdf",
+      "labels": [
+        "Herrmann等，2024"
+      ],
+      "chapters": [
+        "4"
+      ],
+      "sections": [
+        "4.3 动态更新与学习辅助决策"
+      ],
+      "lines": [
+        213
       ]
     },
     {
       "order": 60,
+      "url": "https://www.sciopen.com/local/article_pdf/10.34133/space.0047.pdf",
+      "labels": [
+        "Xu等，2023"
+      ],
+      "chapters": [
+        "4"
+      ],
+      "sections": [
+        "4.3 动态更新与学习辅助决策"
+      ],
+      "lines": [
+        215,
+        217
+      ]
+    },
+    {
+      "order": 61,
+      "url": "https://slab.stanford.edu/sites/g/files/sbiybj25201/files/media/file/guffantigammellidamicopavone_ieeeaero24_final.pdf",
+      "labels": [
+        "Guffanti等，2024"
+      ],
+      "chapters": [
+        "4"
+      ],
+      "sections": [
+        "4.3 动态更新与学习辅助决策"
+      ],
+      "lines": [
+        217
+      ]
+    },
+    {
+      "order": 62,
+      "url": "https://arxiv.org/pdf/2410.23916v1",
+      "labels": [
+        "Celestini等，2024"
+      ],
+      "chapters": [
+        "4"
+      ],
+      "sections": [
+        "4.3 动态更新与学习辅助决策"
+      ],
+      "lines": [
+        219
+      ]
+    },
+    {
+      "order": 63,
+      "url": "https://doi.org/10.3390/aerospace12090837",
+      "labels": [
+        "Capra等，2025"
+      ],
+      "chapters": [
+        "4"
+      ],
+      "sections": [
+        "4.3 动态更新与学习辅助决策"
+      ],
+      "lines": [
+        219
+      ]
+    },
+    {
+      "order": 64,
+      "url": "https://arxiv.org/pdf/2410.05585v2",
+      "labels": [
+        "Takubo等，2025"
+      ],
+      "chapters": [
+        "4"
+      ],
+      "sections": [
+        "4.3 动态更新与学习辅助决策"
+      ],
+      "lines": [
+        221
+      ]
+    },
+    {
+      "order": 65,
       "url": "https://doi.org/10.1007/s12567-026-00702-6",
       "labels": [
         "Roychowdhury等，2026"
@@ -1060,11 +1165,11 @@
         "4.4 执行反馈与业务恢复"
       ],
       "lines": [
-        213
+        227
       ]
     },
     {
-      "order": 61,
+      "order": 66,
       "url": "https://ntrs.nasa.gov/citations/20250007355",
       "labels": [
         "Alem等，2025"
@@ -1076,11 +1181,11 @@
         "4.4 执行反馈与业务恢复"
       ],
       "lines": [
-        215
+        229
       ]
     },
     {
-      "order": 62,
+      "order": 67,
       "url": "https://arxiv.org/pdf/2202.03998v1",
       "labels": [
         "Scala等，2021，所读2022预印本"
@@ -1092,11 +1197,27 @@
         "4.4 执行反馈与业务恢复"
       ],
       "lines": [
-        217
+        231
       ]
     },
     {
-      "order": 63,
+      "order": 68,
+      "url": "https://elib.dlr.de/217352/1/manuscript_accepted.pdf",
+      "labels": [
+        "Scala等，2026，所读接受稿"
+      ],
+      "chapters": [
+        "4"
+      ],
+      "sections": [
+        "4.4 执行反馈与业务恢复"
+      ],
+      "lines": [
+        233
+      ]
+    },
+    {
+      "order": 69,
       "url": "https://people.csail.mit.edu/williams/Web%20site/papers/aij98.pdf",
       "labels": [
         "Muscettola等，1998"
@@ -1108,11 +1229,11 @@
         "4.4 执行反馈与业务恢复"
       ],
       "lines": [
-        219
+        235
       ]
     },
     {
-      "order": 64,
+      "order": 70,
       "url": "https://ntrs.nasa.gov/citations/20060050174",
       "labels": [
         "Rabideau等，2006"
@@ -1124,11 +1245,11 @@
         "4.4 执行反馈与业务恢复"
       ],
       "lines": [
-        219
+        235
       ]
     },
     {
-      "order": 65,
+      "order": 71,
       "url": "https://arxiv.org/pdf/2309.16698v1",
       "labels": [
         "Guffanti等，2023"
@@ -1140,11 +1261,11 @@
         "4.4 执行反馈与业务恢复"
       ],
       "lines": [
-        219
+        235
       ]
     },
     {
-      "order": 66,
+      "order": 72,
       "url": "https://strathprints.strath.ac.uk/86667/7/Lowe_etal_AHN_2023_A_delay_tolerant_network_approach_to_satellite_pickup_and_delivery_scheduling.pdf",
       "labels": [
         "Lowe等，2023"
@@ -1156,7 +1277,7 @@
         "4.4 执行反馈与业务恢复"
       ],
       "lines": [
-        221
+        237
       ]
     }
   ],
@@ -1344,228 +1465,228 @@
       "line": 72
     },
     {
+      "label": "Ben-Yaacov等，2016",
+      "url": "https://doi.org/10.1016/j.actaastro.2015.12.035",
+      "chapter": "2",
+      "section": "2.2 动力学模型与任务几何的联系",
+      "line": 74
+    },
+    {
       "label": "Avendaño等，2013",
       "url": "https://doi.org/10.1007/s10569-013-9493-8",
       "chapter": "2",
       "section": "2.3 构型表示与轨道优化方法",
-      "line": 76
+      "line": 78
     },
     {
       "label": "Casanova等，2014",
       "url": "https://doi.org/10.1109/TAES.2014.120269",
       "chapter": "2",
       "section": "2.3 构型表示与轨道优化方法",
-      "line": 76
+      "line": 78
     },
     {
       "label": "Arnas等，2021",
       "url": "https://doi.org/10.1016/j.actaastro.2020.09.010",
       "chapter": "2",
       "section": "2.3 构型表示与轨道优化方法",
-      "line": 76
+      "line": 78
     },
     {
       "label": "Savitri等，2017",
       "url": "https://doi.org/10.1155/2017/1235692",
       "chapter": "2",
       "section": "2.3 构型表示与轨道优化方法",
-      "line": 78
+      "line": 80
     },
     {
       "label": "Lee等，2020",
       "url": "https://arxiv.org/pdf/1910.00672v4",
       "chapter": "2",
       "section": "2.3 构型表示与轨道优化方法",
-      "line": 78
+      "line": 80
     },
     {
       "label": "Williams Rogers等，2026",
       "url": "https://arxiv.org/pdf/2507.09855v2",
       "chapter": "2",
       "section": "2.3 构型表示与轨道优化方法",
-      "line": 78
+      "line": 80
     },
     {
       "label": "Ko等，2026",
       "url": "https://doi.org/10.1007/s42405-025-00985-9",
       "chapter": "2",
       "section": "2.3 构型表示与轨道优化方法",
-      "line": 80
+      "line": 82
     },
     {
       "label": "Lee等，2020",
       "url": "https://arxiv.org/pdf/1910.00672v4",
       "chapter": "2",
       "section": "2.3 构型表示与轨道优化方法",
-      "line": 80
+      "line": 82
     },
     {
       "label": "Jia等，2022",
       "url": "https://doi.org/10.3390/aerospace9050234",
       "chapter": "2",
       "section": "2.3 构型表示与轨道优化方法",
-      "line": 82
+      "line": 84
     },
     {
       "label": "Gwon与Ahn，2026",
       "url": "https://doi.org/10.1007/s42405-026-01298-1",
       "chapter": "2",
       "section": "2.4 构型方案的运行代价与选择",
-      "line": 86
+      "line": 88
     },
     {
       "label": "Huang等，2021",
       "url": "https://doi.org/10.1016/j.actaastro.2021.07.002",
       "chapter": "2",
       "section": "2.4 构型方案的运行代价与选择",
-      "line": 86
+      "line": 88
+    },
+    {
+      "label": "Arnas等，2021",
+      "url": "https://doi.org/10.1016/j.actaastro.2020.09.010",
+      "chapter": "2",
+      "section": "2.4 构型方案的运行代价与选择",
+      "line": 90
     },
     {
       "label": "Jia等，2022",
       "url": "https://doi.org/10.3390/aerospace9050234",
       "chapter": "2",
       "section": "2.4 构型方案的运行代价与选择",
-      "line": 88
+      "line": 92
     },
     {
       "label": "Polli等，2022预印本",
       "url": "https://arxiv.org/pdf/2205.15774v1",
       "chapter": "2",
       "section": "2.4 构型方案的运行代价与选择",
-      "line": 88
+      "line": 92
     },
     {
       "label": "Pearl等，2025预印本",
       "url": "https://arxiv.org/pdf/2507.10394v3",
       "chapter": "2",
       "section": "2.4 构型方案的运行代价与选择",
-      "line": 90
+      "line": 94
     },
     {
       "label": "McGrath与Macdonald，2020",
       "url": "https://doi.org/10.2514/1.G004443",
       "chapter": "3",
       "section": "3.1 星座部署与轨道面展开",
-      "line": 100
+      "line": 104
     },
     {
       "label": "McGrath与Macdonald，2020",
       "url": "https://doi.org/10.2514/1.G004443",
       "chapter": "3",
       "section": "3.1 星座部署与轨道面展开",
-      "line": 102
+      "line": 106
     },
     {
       "label": "Gwon与Ahn，2026",
       "url": "https://doi.org/10.1007/s42405-026-01298-1",
       "chapter": "3",
       "section": "3.1 星座部署与轨道面展开",
-      "line": 102
+      "line": 106
     },
     {
       "label": "Arnas等，2016",
       "url": "https://zaguan.unizar.es/record/130403/files/texto_completo.pdf",
       "chapter": "3",
       "section": "3.2 构型维持与相位控制",
-      "line": 108
+      "line": 112
     },
     {
       "label": "Gaias与D’Amico，2015",
       "url": "https://doi.org/10.2514/1.G000189",
       "chapter": "3",
       "section": "3.2 构型维持与相位控制",
-      "line": 117
+      "line": 121
     },
     {
       "label": "Gaias与D’Amico，2015",
       "url": "https://doi.org/10.2514/1.G000189",
       "chapter": "3",
       "section": "3.2 构型维持与相位控制",
-      "line": 119
+      "line": 123
     },
     {
       "label": "Foster等，2017会议稿",
       "url": "https://arxiv.org/pdf/1806.01218v1",
       "chapter": "3",
       "section": "3.2 构型维持与相位控制",
-      "line": 119
+      "line": 123
     },
     {
       "label": "Leroy等，2020",
       "url": "https://doi.org/10.1109/JSTARS.2019.2961084",
       "chapter": "3",
       "section": "3.2 构型维持与相位控制",
-      "line": 121
+      "line": 125
     },
     {
       "label": "Kim与Yoon，2026",
       "url": "https://doi.org/10.1007/s42405-025-01071-w",
       "chapter": "3",
       "section": "3.2 构型维持与相位控制",
-      "line": 123
+      "line": 127
     },
     {
       "label": "Hull等，2017",
       "url": "https://ntrs.nasa.gov/api/citations/20170010724/downloads/20170010724.pdf",
       "chapter": "3",
       "section": "3.2 构型维持与相位控制",
-      "line": 123
+      "line": 127
     },
     {
       "label": "Ingrillini等，2026",
       "url": "https://doi.org/10.1007/s12567-025-00630-x",
       "chapter": "3",
       "section": "3.2 构型维持与相位控制",
-      "line": 125
+      "line": 129
     },
     {
       "label": "Foster等，2017会议稿",
       "url": "https://arxiv.org/pdf/1806.01218v1",
       "chapter": "3",
       "section": "3.2 构型维持与相位控制",
-      "line": 125
+      "line": 129
     },
     {
       "label": "McGrath与Macdonald，2019",
       "url": "https://doi.org/10.2514/1.G003739",
       "chapter": "3",
       "section": "3.3 任务需求变化下的星座重构",
-      "line": 129
+      "line": 133
     },
     {
       "label": "Arnas与Linares，2021预印本",
       "url": "https://arxiv.org/pdf/2110.07817v1",
       "chapter": "3",
       "section": "3.3 任务需求变化下的星座重构",
-      "line": 131
+      "line": 135
     },
     {
       "label": "Gaias与D’Amico，2015",
       "url": "https://doi.org/10.2514/1.G000189",
-      "chapter": "3",
-      "section": "3.3 任务需求变化下的星座重构",
-      "line": 133
-    },
-    {
-      "label": "Gaias与D’Amico，2015",
-      "url": "https://doi.org/10.2514/1.G000189",
-      "chapter": "3",
-      "section": "3.3 任务需求变化下的星座重构",
-      "line": 135
-    },
-    {
-      "label": "McGrath与Macdonald，2019",
-      "url": "https://doi.org/10.2514/1.G003739",
-      "chapter": "3",
-      "section": "3.3 任务需求变化下的星座重构",
-      "line": 135
-    },
-    {
-      "label": "Appel等，2014",
-      "url": "https://doi.org/10.1016/j.actaastro.2014.02.016",
       "chapter": "3",
       "section": "3.3 任务需求变化下的星座重构",
       "line": 137
+    },
+    {
+      "label": "Gaias与D’Amico，2015",
+      "url": "https://doi.org/10.2514/1.G000189",
+      "chapter": "3",
+      "section": "3.3 任务需求变化下的星座重构",
+      "line": 139
     },
     {
       "label": "McGrath与Macdonald，2019",
@@ -1575,8 +1696,8 @@
       "line": 139
     },
     {
-      "label": "Lee等，2024预印本",
-      "url": "https://arxiv.org/pdf/2401.11567v3",
+      "label": "Appel等，2014",
+      "url": "https://doi.org/10.1016/j.actaastro.2014.02.016",
       "chapter": "3",
       "section": "3.3 任务需求变化下的星座重构",
       "line": 141
@@ -1589,305 +1710,410 @@
       "line": 143
     },
     {
+      "label": "Lee等，2024预印本",
+      "url": "https://arxiv.org/pdf/2401.11567v3",
+      "chapter": "3",
+      "section": "3.3 任务需求变化下的星座重构",
+      "line": 145
+    },
+    {
+      "label": "McGrath与Macdonald，2019",
+      "url": "https://doi.org/10.2514/1.G003739",
+      "chapter": "3",
+      "section": "3.3 任务需求变化下的星座重构",
+      "line": 147
+    },
+    {
       "label": "Shao等，2016",
       "url": "https://doi.org/10.1061/%28ASCE%29AS.1943-5525.0000642",
       "chapter": "3",
       "section": "3.4 安全约束下的轨道机动",
-      "line": 147
+      "line": 151
+    },
+    {
+      "label": "Guffanti与D’Amico，2022",
+      "url": "https://doi.org/10.23919/ACC53348.2022.9867216",
+      "chapter": "3",
+      "section": "3.4 安全约束下的轨道机动",
+      "line": 153
     },
     {
       "label": "Bombardelli与Hernando-Ayuso，2015",
       "url": "https://doi.org/10.2514/1.G000742",
       "chapter": "3",
       "section": "3.4 安全约束下的轨道机动",
-      "line": 149
+      "line": 155
     },
     {
       "label": "Armellin，2021预印本",
       "url": "https://arxiv.org/pdf/2101.07403v5",
       "chapter": "3",
       "section": "3.4 安全约束下的轨道机动",
-      "line": 149
+      "line": 155
     },
     {
       "label": "Pavanello等，2025",
       "url": "https://doi.org/10.1007/s42064-024-0227-3",
       "chapter": "3",
       "section": "3.4 安全约束下的轨道机动",
-      "line": 151
+      "line": 157
+    },
+    {
+      "label": "Pavanello等，2024预印本",
+      "url": "https://arxiv.org/pdf/2307.06004v2",
+      "chapter": "3",
+      "section": "3.4 安全约束下的轨道机动",
+      "line": 159
     },
     {
       "label": "Błażejczyk与Zagórski，2026",
       "url": "https://doi.org/10.3390/app16083707",
       "chapter": "3",
       "section": "3.4 安全约束下的轨道机动",
-      "line": 153
+      "line": 161
     },
     {
       "label": "Luo等，2022",
       "url": "https://doi.org/10.3390/rs14091966",
       "chapter": "4",
       "section": "4.1 轨道与任务资源的联合规划",
-      "line": 163
+      "line": 171
     },
     {
       "label": "McGrath等，2021",
       "url": "https://strathprints.strath.ac.uk/72860/1/McGrath_etal_ASR_2020_Novel_concept_of_satellite_manoeuvre_planning.pdf",
       "chapter": "4",
       "section": "4.1 轨道与任务资源的联合规划",
-      "line": 165
+      "line": 173
     },
     {
       "label": "McGrath等，2021",
       "url": "https://strathprints.strath.ac.uk/72860/1/McGrath_etal_ASR_2020_Novel_concept_of_satellite_manoeuvre_planning.pdf",
       "chapter": "4",
       "section": "4.1 轨道与任务资源的联合规划",
-      "line": 167
+      "line": 175
     },
     {
       "label": "He等，2022",
       "url": "https://www.comm.utoronto.ca/~liang/publications/TMC_ObsTrans_ASN.pdf",
       "chapter": "4",
       "section": "4.1 轨道与任务资源的联合规划",
-      "line": 169
+      "line": 177
     },
     {
       "label": "Pearl等，2026，所读作者稿",
       "url": "https://arxiv.org/pdf/2507.10394v3",
       "chapter": "4",
       "section": "4.1 轨道与任务资源的联合规划",
-      "line": 171
+      "line": 179
     },
     {
       "label": "Rossi等，2022",
       "url": "https://www.federico.io/pdf/Rossi.Bandyopadhyay.Mote.delaCroix.Rahmani.JGCD22.pdf",
       "chapter": "4",
       "section": "4.1 轨道与任务资源的联合规划",
-      "line": 171
+      "line": 179
+    },
+    {
+      "label": "Mascolo等，2025",
+      "url": "https://publications.spaceops.org/2025/download_by_id.php?id=0105",
+      "chapter": "4",
+      "section": "4.1 轨道与任务资源的联合规划",
+      "line": 183
     },
     {
       "label": "Lee和Ho，2023",
       "url": "https://arxiv.org/pdf/2206.02910v2",
       "chapter": "4",
       "section": "4.1 轨道与任务资源的联合规划",
-      "line": 175
+      "line": 185
     },
     {
       "label": "Parjan和Chien，2023",
       "url": "https://ai.jpl.nasa.gov/public/documents/papers/parjan-jais2023-mas.pdf",
       "chapter": "4",
       "section": "4.2 多星协同与分层决策",
-      "line": 181
+      "line": 191
     },
     {
       "label": "Zilberstein等，2025",
       "url": "https://doi.org/10.1613/jair.1.16997",
       "chapter": "4",
       "section": "4.2 多星协同与分层决策",
-      "line": 181
+      "line": 191
     },
     {
       "label": "Pippia等，2022",
       "url": "https://arxiv.org/pdf/2201.10399v1",
       "chapter": "4",
       "section": "4.2 多星协同与分层决策",
-      "line": 183
+      "line": 193
     },
     {
       "label": "Dunlap等，2023",
       "url": "https://arxiv.org/pdf/2302.02885v2",
       "chapter": "4",
       "section": "4.2 多星协同与分层决策",
-      "line": 185
+      "line": 195
     },
     {
       "label": "Stephenson和Schaub，2025",
       "url": "https://hanspeterschaub.info/Papers/Stephenson2025b.pdf",
       "chapter": "4",
       "section": "4.2 多星协同与分层决策",
-      "line": 185
+      "line": 195
+    },
+    {
+      "label": "Pedari等，2026预印本",
+      "url": "https://madsalma.github.io/pubs/2026_jsr_satellite.pdf",
+      "chapter": "4",
+      "section": "4.2 多星协同与分层决策",
+      "line": 197
     },
     {
       "label": "Kim等，2026",
       "url": "https://arxiv.org/pdf/2607.26570v1",
       "chapter": "4",
       "section": "4.2 多星协同与分层决策",
-      "line": 187
+      "line": 199
     },
     {
       "label": "McGrath等，2021",
       "url": "https://strathprints.strath.ac.uk/72860/1/McGrath_etal_ASR_2020_Novel_concept_of_satellite_manoeuvre_planning.pdf",
       "chapter": "4",
       "section": "4.3 动态更新与学习辅助决策",
-      "line": 191
+      "line": 203
     },
     {
       "label": "Qiu等，2013",
       "url": "https://doi.org/10.1155/2013/304047",
       "chapter": "4",
       "section": "4.3 动态更新与学习辅助决策",
-      "line": 191
+      "line": 203
     },
     {
       "label": "Sarton du Jonchay等，2021",
       "url": "https://arxiv.org/pdf/2103.08962v1",
       "chapter": "4",
       "section": "4.3 动态更新与学习辅助决策",
-      "line": 191
+      "line": 203
     },
     {
       "label": "Lee等，2025",
       "url": "https://arxiv.org/pdf/2401.11567v3",
       "chapter": "4",
       "section": "4.3 动态更新与学习辅助决策",
-      "line": 193
+      "line": 205
     },
     {
       "label": "Pearl等，2026",
       "url": "https://arxiv.org/pdf/2507.10394v3",
       "chapter": "4",
       "section": "4.3 动态更新与学习辅助决策",
-      "line": 193
+      "line": 205
     },
     {
       "label": "Pearl和Lee，2026",
       "url": "https://arxiv.org/pdf/2608.09738v1",
       "chapter": "4",
       "section": "4.3 动态更新与学习辅助决策",
-      "line": 195
+      "line": 207
     },
     {
       "label": "Mahfouz等，2025",
       "url": "https://orbilu.uni.lu/bitstream/10993/64742/1/1-s2.0-S0094576525001432-main.pdf",
       "chapter": "4",
       "section": "4.3 动态更新与学习辅助决策",
-      "line": 197
+      "line": 209
+    },
+    {
+      "label": "Botelho等，2026",
+      "url": "https://eurognc.ceas.org/archive/EuroGNC2026/pdf/CEAS-GNC-2026-069.pdf",
+      "chapter": "4",
+      "section": "4.3 动态更新与学习辅助决策",
+      "line": 211
     },
     {
       "label": "Song等，2023",
       "url": "https://yanjiesong.github.io/files/RLGA2023.pdf",
       "chapter": "4",
       "section": "4.3 动态更新与学习辅助决策",
-      "line": 199
+      "line": 213
     },
     {
       "label": "Herrmann等，2024",
       "url": "https://hanspeterschaub.info/PapersPrivate/Herrmann2024.pdf",
       "chapter": "4",
       "section": "4.3 动态更新与学习辅助决策",
-      "line": 199
+      "line": 213
     },
     {
       "label": "Xu等，2023",
       "url": "https://www.sciopen.com/local/article_pdf/10.34133/space.0047.pdf",
       "chapter": "4",
       "section": "4.3 动态更新与学习辅助决策",
-      "line": 201
+      "line": 215
     },
     {
       "label": "Stephenson和Schaub，2025",
       "url": "https://hanspeterschaub.info/Papers/Stephenson2025b.pdf",
       "chapter": "4",
       "section": "4.3 动态更新与学习辅助决策",
-      "line": 201
+      "line": 215
     },
     {
       "label": "Xu等，2023",
       "url": "https://www.sciopen.com/local/article_pdf/10.34133/space.0047.pdf",
       "chapter": "4",
       "section": "4.3 动态更新与学习辅助决策",
-      "line": 203
+      "line": 217
     },
     {
       "label": "Guffanti等，2024",
       "url": "https://slab.stanford.edu/sites/g/files/sbiybj25201/files/media/file/guffantigammellidamicopavone_ieeeaero24_final.pdf",
       "chapter": "4",
       "section": "4.3 动态更新与学习辅助决策",
-      "line": 203
+      "line": 217
     },
     {
       "label": "Celestini等，2024",
       "url": "https://arxiv.org/pdf/2410.23916v1",
       "chapter": "4",
       "section": "4.3 动态更新与学习辅助决策",
-      "line": 205
+      "line": 219
     },
     {
       "label": "Capra等，2025",
       "url": "https://doi.org/10.3390/aerospace12090837",
       "chapter": "4",
       "section": "4.3 动态更新与学习辅助决策",
-      "line": 205
+      "line": 219
     },
     {
       "label": "Takubo等，2025",
       "url": "https://arxiv.org/pdf/2410.05585v2",
       "chapter": "4",
       "section": "4.3 动态更新与学习辅助决策",
-      "line": 207
+      "line": 221
     },
     {
       "label": "Mascolo等，2025",
       "url": "https://publications.spaceops.org/2025/download_by_id.php?id=0105",
       "chapter": "4",
       "section": "4.4 执行反馈与业务恢复",
-      "line": 211
+      "line": 225
     },
     {
       "label": "Roychowdhury等，2026",
       "url": "https://doi.org/10.1007/s12567-026-00702-6",
       "chapter": "4",
       "section": "4.4 执行反馈与业务恢复",
-      "line": 213
+      "line": 227
     },
     {
       "label": "Alem等，2025",
       "url": "https://ntrs.nasa.gov/citations/20250007355",
       "chapter": "4",
       "section": "4.4 执行反馈与业务恢复",
-      "line": 215
+      "line": 229
     },
     {
       "label": "Scala等，2021，所读2022预印本",
       "url": "https://arxiv.org/pdf/2202.03998v1",
       "chapter": "4",
       "section": "4.4 执行反馈与业务恢复",
-      "line": 217
+      "line": 231
+    },
+    {
+      "label": "Scala等，2026，所读接受稿",
+      "url": "https://elib.dlr.de/217352/1/manuscript_accepted.pdf",
+      "chapter": "4",
+      "section": "4.4 执行反馈与业务恢复",
+      "line": 233
     },
     {
       "label": "Muscettola等，1998",
       "url": "https://people.csail.mit.edu/williams/Web%20site/papers/aij98.pdf",
       "chapter": "4",
       "section": "4.4 执行反馈与业务恢复",
-      "line": 219
+      "line": 235
     },
     {
       "label": "Rabideau等，2006",
       "url": "https://ntrs.nasa.gov/citations/20060050174",
       "chapter": "4",
       "section": "4.4 执行反馈与业务恢复",
-      "line": 219
+      "line": 235
     },
     {
       "label": "Guffanti等，2023",
       "url": "https://arxiv.org/pdf/2309.16698v1",
       "chapter": "4",
       "section": "4.4 执行反馈与业务恢复",
-      "line": 219
+      "line": 235
     },
     {
       "label": "Lowe等，2023",
       "url": "https://strathprints.strath.ac.uk/86667/7/Lowe_etal_AHN_2023_A_delay_tolerant_network_approach_to_satellite_pickup_and_delivery_scheduling.pdf",
       "chapter": "4",
       "section": "4.4 执行反馈与业务恢复",
-      "line": 221
+      "line": 237
     },
     {
       "label": "Sarton du Jonchay等，2021",
       "url": "https://arxiv.org/pdf/2103.08962v1",
       "chapter": "4",
       "section": "4.4 执行反馈与业务恢复",
-      "line": 223
+      "line": 239
+    },
+    {
+      "label": "Arnas等，2021",
+      "url": "https://doi.org/10.1016/j.actaastro.2020.09.010",
+      "chapter": "5",
+      "section": "5 结论与展望",
+      "line": 245
+    },
+    {
+      "label": "Pavanello等，2024预印本",
+      "url": "https://arxiv.org/pdf/2307.06004v2",
+      "chapter": "5",
+      "section": "5 结论与展望",
+      "line": 247
+    },
+    {
+      "label": "Guffanti与D’Amico，2022",
+      "url": "https://doi.org/10.23919/ACC53348.2022.9867216",
+      "chapter": "5",
+      "section": "5 结论与展望",
+      "line": 247
+    },
+    {
+      "label": "Pearl等，2026，所读作者稿",
+      "url": "https://arxiv.org/pdf/2507.10394v3",
+      "chapter": "5",
+      "section": "5 结论与展望",
+      "line": 249
+    },
+    {
+      "label": "Rossi等，2022",
+      "url": "https://www.federico.io/pdf/Rossi.Bandyopadhyay.Mote.delaCroix.Rahmani.JGCD22.pdf",
+      "chapter": "5",
+      "section": "5 结论与展望",
+      "line": 249
+    },
+    {
+      "label": "Botelho等，2026",
+      "url": "https://eurognc.ceas.org/archive/EuroGNC2026/pdf/CEAS-GNC-2026-069.pdf",
+      "chapter": "5",
+      "section": "5 结论与展望",
+      "line": 251
+    },
+    {
+      "label": "Mascolo等，2025",
+      "url": "https://publications.spaceops.org/2025/download_by_id.php?id=0105",
+      "chapter": "5",
+      "section": "5 结论与展望",
+      "line": 251
     }
   ],
   "label_alignment_pending": [
@@ -1908,5 +2134,6 @@
       ],
       "status": "SAME_SOURCE_LINK_YEAR_LABELS_RETAINED_FROM_COMPONENT_DRAFTS_FOR_LATER_BIBLIOGRAPHIC_ALIGNMENT"
     }
-  ]
+  ],
+  "latest_integration_note": "LIBRARY_INTEGRATION_CN.md"
 }
