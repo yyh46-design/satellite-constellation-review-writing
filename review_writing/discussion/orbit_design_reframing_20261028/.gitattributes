@@ -1,0 +1,6 @@
+# Keep new discussion documents portable and preserve copied archive bytes.
+.gitattributes text eol=lf
+*.md text eol=lf
+*.json text eol=lf
+CHAPTERS_2_3_REFINED_CN.md -text
+provenance/** -text whitespace=blank-at-eol,blank-at-eof,space-before-tab,cr-at-eol

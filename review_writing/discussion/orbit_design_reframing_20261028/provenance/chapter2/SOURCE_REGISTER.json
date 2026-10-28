@@ -1,0 +1,87 @@
+{
+  "date": "2026-10-27",
+  "new_body_read_count": 5,
+  "inherited_sources_reused": 14,
+  "human_verified": false,
+  "submission_ready": false,
+  "sources": [
+    {
+      "id": "SCHAUB_2001",
+      "authors": "Schaub; Alfriend",
+      "title": "J2 Invariant Relative Orbits for Spacecraft Formations",
+      "doi": "10.1023/A:1011161811472",
+      "url": "https://hanspeterschaub.info/PapersPrivate/MeanElemKluv.pdf",
+      "actual_version": "author simulated reprint; 2001 journal metadata; 2004 typesetting footer",
+      "pdf_path": "D:\\SKT727\\outputs\\constellation_ch2_design_synthesis_20261027\\sources\\SCHAUB_2001.pdf",
+      "sha256": "4c37ba563bd4b57ce188a4fb2724c630f00c43b2927c197a3b4b33a5874eb4ce",
+      "reading_scope": "PDF 2-19 main text; appendix located, not independently rederived",
+      "visual_pages": [
+        17
+      ],
+      "status": "BODY_READ_AND_ADOPTED_WITH_STATED_SCOPE",
+      "human_verified": false
+    },
+    {
+      "id": "CASANOVA_2014",
+      "authors": "Casanova; Avendano; Mortari",
+      "title": "Design of Flower Constellations Using Necklaces",
+      "doi": "10.1109/TAES.2014.120269",
+      "url": "https://zaguan.unizar.es/record/131022/files/texto_completo.pdf",
+      "actual_version": "publisher typeset copy, 2014",
+      "pdf_path": "D:\\SKT727\\outputs\\constellation_ch2_design_synthesis_20261027\\sources\\CASANOVA_2014.pdf",
+      "sha256": "e7aa1f2b489e4e6b5fc3384249ac4a292520cc22bfb6ba4c017ed2f5efcdd465",
+      "reading_scope": "PDF 1-10 main text; 10-11 algorithms inspected, not independently implemented",
+      "visual_pages": [],
+      "status": "BODY_READ_AND_ADOPTED_WITH_STATED_SCOPE",
+      "human_verified": false
+    },
+    {
+      "id": "ARNAS_NECKLACE_2021",
+      "authors": "Arnas; Casanova; Tresaco",
+      "title": "2D Necklace Flower Constellations applied to Earth observation missions",
+      "doi": "10.1016/j.actaastro.2020.09.010",
+      "url": "https://zaguan.unizar.es/record/130453/files/texto_completo.pdf",
+      "actual_version": "author preprint dated 2020-10-23; journal issue 2021; formal-version comparison open",
+      "pdf_path": "D:\\SKT727\\outputs\\constellation_ch2_design_synthesis_20261027\\sources\\ARNAS_NECKLACE_2021.pdf",
+      "sha256": "5f58887a8469719a52c2812127b93f38a47d61fa05820a6c0b526938bb12b747",
+      "reading_scope": "PDF 1-32 main text; references for tracing",
+      "visual_pages": [
+        22
+      ],
+      "status": "BODY_READ_AND_ADOPTED_WITH_STATED_SCOPE",
+      "human_verified": false
+    },
+    {
+      "id": "KO_2026",
+      "authors": "Ko; Gwon; Ahn",
+      "title": "Satellite Constellation Design for Minimum Worst-Case Revisit Time",
+      "doi": "10.1007/s42405-025-00985-9",
+      "url": "https://link.springer.com/content/pdf/10.1007/s42405-025-00985-9.pdf",
+      "actual_version": "publisher typeset version; online 2025-06-14; journal issue 2026",
+      "pdf_path": "D:\\SKT727\\outputs\\constellation_ch2_design_synthesis_20261027\\sources\\KO_2026.pdf",
+      "sha256": "a97495eecbaca6a613619ed039aaf4812c952b4099c162161b0c6ab23bae29b5",
+      "reading_scope": "PDF 1-13 main text and appendix located; equations not independently reproduced",
+      "visual_pages": [
+        12
+      ],
+      "status": "BODY_READ_AND_ADOPTED_WITH_STATED_SCOPE",
+      "human_verified": false
+    },
+    {
+      "id": "JIA_2022",
+      "authors": "Jia; Zhang; Yu; Wang",
+      "title": "Design of Mega-Constellations for Global Uniform Coverage with Inter-Satellite Links",
+      "doi": "10.3390/aerospace9050234",
+      "url": "https://mdpi-res.com/d_attachment/aerospace/aerospace-09-00234/article_deploy/aerospace-09-00234.pdf",
+      "actual_version": "publisher PDF 2022; duplicate hidden figure text in extraction",
+      "pdf_path": "D:\\SKT727\\outputs\\constellation_ch2_design_synthesis_20261027\\sources\\JIA_2022.pdf",
+      "sha256": "0aca2a8aa54661b1af8fb732301deb0fc3f6b6f2084703e72764094bf973006d",
+      "reading_scope": "PDF 1-23 main text, emphasis on 2.1,2.4-2.6,4.1",
+      "visual_pages": [
+        17
+      ],
+      "status": "BODY_READ_AND_ADOPTED_WITH_STATED_SCOPE",
+      "human_verified": false
+    }
+  ]
+}

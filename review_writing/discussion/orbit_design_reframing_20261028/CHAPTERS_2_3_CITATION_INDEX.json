@@ -1,0 +1,454 @@
+{
+  "date": "2026-10-28",
+  "source_file": "CHAPTERS_2_3_REFINED_CN.md",
+  "unique_source_urls": 32,
+  "purpose": "Citation location index; source and claim statuses remain in the linked reading records.",
+  "citations": [
+    {
+      "order": 1,
+      "labels": [
+        "Huang等，2021"
+      ],
+      "url": "https://doi.org/10.1016/j.actaastro.2021.07.002",
+      "sections": [
+        "2.1 从任务需求到轨道设计变量",
+        "2.4 构型方案的运行代价与选择"
+      ],
+      "line_numbers": [
+        7,
+        43
+      ]
+    },
+    {
+      "order": 2,
+      "labels": [
+        "Williams Rogers等，2026"
+      ],
+      "url": "https://arxiv.org/pdf/2507.09855v2",
+      "sections": [
+        "2.1 从任务需求到轨道设计变量",
+        "2.3 构型表示与轨道优化方法"
+      ],
+      "line_numbers": [
+        7,
+        35
+      ]
+    },
+    {
+      "order": 3,
+      "labels": [
+        "Leroy等，2020"
+      ],
+      "url": "https://doi.org/10.1109/JSTARS.2019.2961084",
+      "sections": [
+        "2.1 从任务需求到轨道设计变量",
+        "3.2 构型维持与相位控制"
+      ],
+      "line_numbers": [
+        7,
+        78
+      ]
+    },
+    {
+      "order": 4,
+      "labels": [
+        "Ko等，2026"
+      ],
+      "url": "https://doi.org/10.1007/s42405-025-00985-9",
+      "sections": [
+        "2.1 从任务需求到轨道设计变量",
+        "2.3 构型表示与轨道优化方法"
+      ],
+      "line_numbers": [
+        9,
+        37
+      ]
+    },
+    {
+      "order": 5,
+      "labels": [
+        "Arnas等，2021"
+      ],
+      "url": "https://doi.org/10.1016/j.actaastro.2020.09.010",
+      "sections": [
+        "2.1 从任务需求到轨道设计变量",
+        "2.2 动力学模型与任务几何的联系",
+        "2.3 构型表示与轨道优化方法"
+      ],
+      "line_numbers": [
+        11,
+        15,
+        25,
+        33
+      ]
+    },
+    {
+      "order": 6,
+      "labels": [
+        "Arnas与Casanova，2020"
+      ],
+      "url": "https://doi.org/10.1007/s10569-020-09958-4",
+      "sections": [
+        "2.2 动力学模型与任务几何的联系"
+      ],
+      "line_numbers": [
+        15
+      ]
+    },
+    {
+      "order": 7,
+      "labels": [
+        "Schaub与Alfriend，2001"
+      ],
+      "url": "https://doi.org/10.1023/A:1011161811472",
+      "sections": [
+        "2.2 动力学模型与任务几何的联系"
+      ],
+      "line_numbers": [
+        25,
+        27
+      ]
+    },
+    {
+      "order": 8,
+      "labels": [
+        "Arnas等，2016"
+      ],
+      "url": "https://zaguan.unizar.es/record/130403/files/texto_completo.pdf",
+      "sections": [
+        "2.2 动力学模型与任务几何的联系",
+        "3.2 构型维持与相位控制"
+      ],
+      "line_numbers": [
+        29,
+        65
+      ]
+    },
+    {
+      "order": 9,
+      "labels": [
+        "Sullivan等，2017"
+      ],
+      "url": "https://doi.org/10.2514/1.G002309",
+      "sections": [
+        "2.2 动力学模型与任务几何的联系"
+      ],
+      "line_numbers": [
+        29
+      ]
+    },
+    {
+      "order": 10,
+      "labels": [
+        "Avendaño等，2013"
+      ],
+      "url": "https://doi.org/10.1007/s10569-013-9493-8",
+      "sections": [
+        "2.3 构型表示与轨道优化方法"
+      ],
+      "line_numbers": [
+        33
+      ]
+    },
+    {
+      "order": 11,
+      "labels": [
+        "Casanova等，2014"
+      ],
+      "url": "https://doi.org/10.1109/TAES.2014.120269",
+      "sections": [
+        "2.3 构型表示与轨道优化方法"
+      ],
+      "line_numbers": [
+        33
+      ]
+    },
+    {
+      "order": 12,
+      "labels": [
+        "Savitri等，2017"
+      ],
+      "url": "https://doi.org/10.1155/2017/1235692",
+      "sections": [
+        "2.3 构型表示与轨道优化方法"
+      ],
+      "line_numbers": [
+        35
+      ]
+    },
+    {
+      "order": 13,
+      "labels": [
+        "Lee等，2020"
+      ],
+      "url": "https://arxiv.org/pdf/1910.00672v4",
+      "sections": [
+        "2.3 构型表示与轨道优化方法"
+      ],
+      "line_numbers": [
+        35,
+        37
+      ]
+    },
+    {
+      "order": 14,
+      "labels": [
+        "Jia等，2022"
+      ],
+      "url": "https://doi.org/10.3390/aerospace9050234",
+      "sections": [
+        "2.3 构型表示与轨道优化方法",
+        "2.4 构型方案的运行代价与选择"
+      ],
+      "line_numbers": [
+        39,
+        45
+      ]
+    },
+    {
+      "order": 15,
+      "labels": [
+        "Gwon与Ahn，2026"
+      ],
+      "url": "https://doi.org/10.1007/s42405-026-01298-1",
+      "sections": [
+        "2.4 构型方案的运行代价与选择",
+        "3.1 星座部署与轨道面展开"
+      ],
+      "line_numbers": [
+        43,
+        59
+      ]
+    },
+    {
+      "order": 16,
+      "labels": [
+        "Polli等，2022预印本"
+      ],
+      "url": "https://arxiv.org/pdf/2205.15774v1",
+      "sections": [
+        "2.4 构型方案的运行代价与选择"
+      ],
+      "line_numbers": [
+        45
+      ]
+    },
+    {
+      "order": 17,
+      "labels": [
+        "Pearl等，2025预印本"
+      ],
+      "url": "https://arxiv.org/pdf/2507.10394v3",
+      "sections": [
+        "2.4 构型方案的运行代价与选择"
+      ],
+      "line_numbers": [
+        47
+      ]
+    },
+    {
+      "order": 18,
+      "labels": [
+        "McGrath与Macdonald，2020"
+      ],
+      "url": "https://doi.org/10.2514/1.G004443",
+      "sections": [
+        "3.1 星座部署与轨道面展开"
+      ],
+      "line_numbers": [
+        57,
+        59
+      ]
+    },
+    {
+      "order": 19,
+      "labels": [
+        "Gaias与D’Amico，2015"
+      ],
+      "url": "https://doi.org/10.2514/1.G000189",
+      "sections": [
+        "3.2 构型维持与相位控制",
+        "3.3 任务需求变化下的星座重构"
+      ],
+      "line_numbers": [
+        74,
+        76,
+        90,
+        92
+      ]
+    },
+    {
+      "order": 20,
+      "labels": [
+        "Foster等，2017会议稿"
+      ],
+      "url": "https://arxiv.org/pdf/1806.01218v1",
+      "sections": [
+        "3.2 构型维持与相位控制"
+      ],
+      "line_numbers": [
+        76,
+        82
+      ]
+    },
+    {
+      "order": 21,
+      "labels": [
+        "Kim与Yoon，2026"
+      ],
+      "url": "https://doi.org/10.1007/s42405-025-01071-w",
+      "sections": [
+        "3.2 构型维持与相位控制"
+      ],
+      "line_numbers": [
+        80
+      ]
+    },
+    {
+      "order": 22,
+      "labels": [
+        "Hull等，2017"
+      ],
+      "url": "https://ntrs.nasa.gov/api/citations/20170010724/downloads/20170010724.pdf",
+      "sections": [
+        "3.2 构型维持与相位控制"
+      ],
+      "line_numbers": [
+        80
+      ]
+    },
+    {
+      "order": 23,
+      "labels": [
+        "Ingrillini等，2026"
+      ],
+      "url": "https://doi.org/10.1007/s12567-025-00630-x",
+      "sections": [
+        "3.2 构型维持与相位控制"
+      ],
+      "line_numbers": [
+        82
+      ]
+    },
+    {
+      "order": 24,
+      "labels": [
+        "McGrath与Macdonald，2019"
+      ],
+      "url": "https://doi.org/10.2514/1.G003739",
+      "sections": [
+        "3.3 任务需求变化下的星座重构"
+      ],
+      "line_numbers": [
+        86,
+        92,
+        96,
+        100
+      ]
+    },
+    {
+      "order": 25,
+      "labels": [
+        "Arnas与Linares，2021预印本"
+      ],
+      "url": "https://arxiv.org/pdf/2110.07817v1",
+      "sections": [
+        "3.3 任务需求变化下的星座重构"
+      ],
+      "line_numbers": [
+        88
+      ]
+    },
+    {
+      "order": 26,
+      "labels": [
+        "Appel等，2014"
+      ],
+      "url": "https://doi.org/10.1016/j.actaastro.2014.02.016",
+      "sections": [
+        "3.3 任务需求变化下的星座重构"
+      ],
+      "line_numbers": [
+        94
+      ]
+    },
+    {
+      "order": 27,
+      "labels": [
+        "Lee等，2024预印本"
+      ],
+      "url": "https://arxiv.org/pdf/2401.11567v3",
+      "sections": [
+        "3.3 任务需求变化下的星座重构"
+      ],
+      "line_numbers": [
+        98
+      ]
+    },
+    {
+      "order": 28,
+      "labels": [
+        "Shao等，2016"
+      ],
+      "url": "https://doi.org/10.1061/%28ASCE%29AS.1943-5525.0000642",
+      "sections": [
+        "3.4 安全约束下的轨道机动"
+      ],
+      "line_numbers": [
+        104
+      ]
+    },
+    {
+      "order": 29,
+      "labels": [
+        "Bombardelli与Hernando-Ayuso，2015"
+      ],
+      "url": "https://doi.org/10.2514/1.G000742",
+      "sections": [
+        "3.4 安全约束下的轨道机动"
+      ],
+      "line_numbers": [
+        106
+      ]
+    },
+    {
+      "order": 30,
+      "labels": [
+        "Armellin，2021预印本"
+      ],
+      "url": "https://arxiv.org/pdf/2101.07403v5",
+      "sections": [
+        "3.4 安全约束下的轨道机动"
+      ],
+      "line_numbers": [
+        106
+      ]
+    },
+    {
+      "order": 31,
+      "labels": [
+        "Pavanello等，2025"
+      ],
+      "url": "https://doi.org/10.1007/s42064-024-0227-3",
+      "sections": [
+        "3.4 安全约束下的轨道机动"
+      ],
+      "line_numbers": [
+        108
+      ]
+    },
+    {
+      "order": 32,
+      "labels": [
+        "Błażejczyk与Zagórski，2026"
+      ],
+      "url": "https://doi.org/10.3390/app16083707",
+      "sections": [
+        "3.4 安全约束下的轨道机动"
+      ],
+      "line_numbers": [
+        110
+      ]
+    }
+  ]
+}

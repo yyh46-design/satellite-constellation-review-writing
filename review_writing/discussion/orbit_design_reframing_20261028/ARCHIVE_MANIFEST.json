@@ -1,0 +1,55 @@
+{
+  "date": "2026-10-28",
+  "copied_files": [
+    {
+      "source_local_path": "D:/SKT727/outputs/constellation_ch2_ch3_integrated_refinement_20261028/CHAPTERS_2_3_REFINED_CN.md",
+      "archived_path": "CHAPTERS_2_3_REFINED_CN.md",
+      "sha256": "8af6118b3d79e51a70921369f39013020c176b86b030aea6f4a29ccd9a49b164",
+      "bytes": 26131,
+      "byte_identical": true
+    },
+    {
+      "source_local_path": "D:/SKT727/outputs/constellation_ch2_ch3_integrated_refinement_20261028/REVISION_NOTES_CN.md",
+      "archived_path": "provenance/REVISION_NOTES_CH23_CN.md",
+      "sha256": "3866967ac116ca74ca9725ae8a4badf6a6a5170ad9be99a213742434226060eb",
+      "bytes": 4783,
+      "byte_identical": true
+    },
+    {
+      "source_local_path": "D:/SKT727/outputs/constellation_ch2_design_synthesis_20261027/notes/READING_SYNTHESIS_CN.md",
+      "archived_path": "provenance/chapter2/READING_SYNTHESIS_CN.md",
+      "sha256": "3a77cde74e556cecbb2c4f62b95e4b920301073ab049a908331946a7061d11d5",
+      "bytes": 10863,
+      "byte_identical": true
+    },
+    {
+      "source_local_path": "D:/SKT727/outputs/constellation_ch2_design_synthesis_20261027/notes/SOURCE_REGISTER.json",
+      "archived_path": "provenance/chapter2/SOURCE_REGISTER.json",
+      "sha256": "d531f88c14e43e2a89157f0d8a155449a811f4d571196bde274f1267805a834a",
+      "bytes": 4250,
+      "byte_identical": true
+    },
+    {
+      "source_local_path": "D:/SKT727/outputs/constellation_ch2_design_synthesis_20261027/notes/CHAPTER_CITATION_INDEX.json",
+      "archived_path": "provenance/chapter2/CHAPTER_CITATION_INDEX.json",
+      "sha256": "a59e85911555ae2e38e432eb00c86972c88e7cc6e91d2f36674ce9a9546c2dc1",
+      "bytes": 2010,
+      "byte_identical": true
+    },
+    {
+      "source_local_path": "D:/SKT727/outputs/constellation_orbit_design_reading_20261027/notes/READING_MEMO_CN.md",
+      "archived_path": "provenance/orbit_design/READING_MEMO_CN.md",
+      "sha256": "893734964433c4164b0332c83a30441141e797dc9e53a145e88750c765224a75",
+      "bytes": 5147,
+      "byte_identical": true
+    },
+    {
+      "source_local_path": "D:/SKT727/outputs/constellation_ch3_orbital_actions_20261028/notes/CHAPTER_EVIDENCE_MAP_CN.md",
+      "archived_path": "provenance/chapter3/CHAPTER_EVIDENCE_MAP_CN.md",
+      "sha256": "75dd8728a70fb974bbffcc96cfea3b1da98d713cf33d861397512bd545e003d6",
+      "bytes": 6981,
+      "byte_identical": true
+    }
+  ],
+  "copy_scope": "Prior chapter draft and evidence notes; third-party PDFs are not copied."
+}

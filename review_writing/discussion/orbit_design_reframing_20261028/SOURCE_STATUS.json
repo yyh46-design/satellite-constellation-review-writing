@@ -1,0 +1,42 @@
+{
+  "date": "2026-10-28",
+  "document_id": "orbit_design_reframing_discussion_20261028",
+  "stage": "AUTHOR_DISCUSSION_ARCHIVE",
+  "branch": "writing/constellation-review-orbit-design-reframing-20261028",
+  "base_commit": "402de0c31cb2642821563f6f6288987664636f51",
+  "base_tree": "3ebe8fd71e95dfba17b44b6f5e68404407ed68cc",
+  "v3510_commit": "7141979de09e76c6538b05073162c6610da02cf8",
+  "v3510_tree": "183472ae04b98eb7b4df7697c3afc7e8a1e09969",
+  "human_verified": false,
+  "submission_ready": false,
+  "chinese_body_frozen": false,
+  "body_saved": [
+    "chapter_2",
+    "chapter_3"
+  ],
+  "chapter_4_status": "PROPOSED_WRITING_PLAN_PENDING_AUTHOR_DISCUSSION",
+  "full_revised_manuscript_complete": false,
+  "new_fulltext_readings_this_save": 0,
+  "chapter_2_3_unique_source_urls": 32,
+  "baseline_reference_count": 120,
+  "r2_counts": {
+    "candidates": 57,
+    "body_read": 10,
+    "used_in_r2_draft": 8,
+    "not_body_read": 47,
+    "reserved": [
+      "N006",
+      "N008"
+    ]
+  },
+  "later_chapter_2_reading_record": "provenance/chapter2/SOURCE_REGISTER.json",
+  "counts_are_separate_and_not_a_total_bibliography": true,
+  "existing_hold_access_and_version_pairing_statuses": "PRESERVED",
+  "source_records": [
+    "../../manuscripts/v3.5.10-cn/SOURCE_STATUS.json",
+    "../../research/orbit_mission_r2_20261027/READING_REGISTER.csv",
+    "provenance/chapter2/SOURCE_REGISTER.json",
+    "provenance/chapter3/CHAPTER_EVIDENCE_MAP_CN.md"
+  ],
+  "citation_numbering": "Author-year links in chapters 2-3; baseline numbering unchanged."
+}

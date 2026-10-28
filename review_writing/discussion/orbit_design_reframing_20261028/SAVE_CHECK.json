@@ -1,0 +1,36 @@
+{
+  "date": "2026-10-28",
+  "scope": "Archive consistency and local links only; no new literature audit or author scientific verification.",
+  "branch": "writing/constellation-review-orbit-design-reframing-20261028",
+  "copied_files_verified": 7,
+  "chapter_draft_byte_identical_to_previous_output": true,
+  "chapter_2_3_subsections": [
+    "2.1 从任务需求到轨道设计变量",
+    "2.2 动力学模型与任务几何的联系",
+    "2.3 构型表示与轨道优化方法",
+    "2.4 构型方案的运行代价与选择",
+    "3.1 星座部署与轨道面展开",
+    "3.2 构型维持与相位控制",
+    "3.3 任务需求变化下的星座重构",
+    "3.4 安全约束下的轨道机动"
+  ],
+  "chapter_2_3_unique_source_urls": 32,
+  "citation_url_set_unchanged_from_previous_two_drafts": true,
+  "v3510_directory_tree_unchanged": "7ffb0259db7d9fee9f250311edff227fc07a5d64",
+  "r2_research_directory_tree_unchanged": "0994a4d0f7170c00977718909e3c9bba4810875a",
+  "checked_current_document_relative_links": 31,
+  "missing_current_document_relative_links": [],
+  "json_files_parsed": [
+    "ARCHIVE_MANIFEST.json",
+    "CHAPTERS_2_3_CITATION_INDEX.json",
+    "SOURCE_STATUS.json",
+    "provenance/chapter2/CHAPTER_CITATION_INDEX.json",
+    "provenance/chapter2/SOURCE_REGISTER.json"
+  ],
+  "source_status_flags_preserved": true,
+  "human_verified": false,
+  "submission_ready": false,
+  "staged_archive_hashes_match_original_files": 7,
+  "archive_line_endings": "Preserved byte-for-byte by package-scoped Git attributes.",
+  "staged_paths_within_new_package_only": true
+}
