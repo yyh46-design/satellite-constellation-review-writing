@@ -12,7 +12,7 @@
 4. [第四章写作方案](CHAPTER_4_WRITING_PLAN_CN.md)：本次提出的组织建议、论证顺序与主要证据。
 5. [材料与引用索引](PROVENANCE_CN.md)：连接旧稿、R2和本次补读材料。
 6. [第二、三章引用位置清单](CHAPTERS_2_3_CITATION_INDEX.json)、[来源与稿件状态](SOURCE_STATUS.json)。
-7. [第四章完整讨论稿](CHAPTER_4_DISCUSSION_CN.md)、[第四章文献重组与补读](../../research/chapter4_orbit_decision_20261028/README_CN.md)：按作者后续要求完成31项已有来源归组和7项新增正文阅读，6项用于讨论稿。
+7. [第四章完整讨论稿](CHAPTER_4_DISCUSSION_CN.md)、[第四章文献重组与补读](../../research/chapter4_orbit_decision_20261028/README_CN.md)：完成31项已有来源归组，两轮新增正文阅读共10项，9项用于讨论稿；本轮新增3项及具体改写见[续读综合](../../research/chapter4_orbit_decision_20261028/FOLLOWUP_SYNTHESIS_CN.md)。
 
 ## 分支与基线
 
@@ -33,11 +33,11 @@
 | 研究重心 | 已在讨论中明确：轨道设计与建模贯通运行决策，初始星座构型进入核心范围 |
 | 第二、三章 | 已形成整体精修讨论稿，本次保存 |
 | 摘要、第一章 | 后续与扩展后的轨道设计主线统一整理 |
-| 第四章 | 已完成文献归组、定向补读及完整讨论稿，待作者讨论 |
+| 第四章 | 已完成文献归组、两轮定向补读及精修讨论稿，待作者讨论 |
 | 第五章、题目、正式引文顺序 | 待主体章节稳定后统一处理 |
 
 `human_verified=false`；`submission_ready=false`；中文正文尚未冻结。
 
 ## 保存检查
 
-[初次存档清单](ARCHIVE_MANIFEST.json)记录第二、三章复制文件的原位置与SHA-256。[初次检查结果](SAVE_CHECK.json)记录当时的存档一致性；初次保存不计新增精读。后续第四章的7项正文阅读、出处及检查见[补读记录](../../research/chapter4_orbit_decision_20261028/README_CN.md)，不与初次存档或R2历史计数混合。
+[初次存档清单](ARCHIVE_MANIFEST.json)记录第二、三章复制文件的原位置与SHA-256。[初次检查结果](SAVE_CHECK.json)记录当时的存档一致性；初次保存不计新增精读。后续第四章两轮共10项正文阅读、出处及检查见[补读记录](../../research/chapter4_orbit_decision_20261028/README_CN.md)，不与初次存档或R2历史计数混合。

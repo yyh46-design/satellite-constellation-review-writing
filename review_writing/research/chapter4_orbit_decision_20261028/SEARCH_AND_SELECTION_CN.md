@@ -6,7 +6,7 @@
 
 检索使用公开网页搜索、期刊/会议入口、arXiv、大学与作者公开仓储；从题名和参考文献追溯全文。代表性检索短语包括“satellite constellation joint orbit reconfiguration observation resources”“spacecraft trajectory transformer warm start MPC”，以及R2-C097/C104/C107、ART和Communication-Aware Orbit Design的精确题名。这里记录研究问题、入口和选择结果，不将本轮定向检索表述为穷尽式系统检索。
 
-## 已取得并完成正文阅读
+## 首轮已取得并完成正文阅读
 
 | 本轮ID | 研究与实际版本 | 进入论述的作用 | 采用结果 |
 |---|---|---|---|
@@ -19,6 +19,18 @@
 | C4N07 | Capra等，2025，Aerospace出版社PDF | 学习任务制导与MPC约束跟踪的分工 | 结构采用；动力学印刷表达疑点单独保留 |
 
 7项均实际阅读正文中的问题、方法、实验与结论；阅读页码、源文件哈希和原页检查范围见登记与逐篇笔记。C4N03—C4N05属于同一研究路线的扩展，不作为三个独立团队的交叉验证。C4N01在历史Crossref快照出现过，C4N06已在R2候选池；“本轮新增正文阅读”不等于“7项此前完全未发现的新文献”。
+
+## 续轮取得并完成的3项正文阅读
+
+在首轮稿形成后，继续使用“low-thrust Earth observation scheduling”“satellite joint maneuver scheduling”、待取得论文的精确题名，以及已读文献中的相关题名追溯公开正文。Fang 2025仍止于官方摘要/出版入口，Xu 2024仍为局部预览；改从能回答相邻模型问题的原始研究补充，而不以其他版本替代其未读正文。
+
+| 本轮ID | 实际取得版本 | 采用内容 |
+|---|---|---|
+| C4N08 | McGrath等2021，Strathprints 16页接受稿 | 有限低推力任务图、状态继承、成员与后续候选取舍 |
+| C4N09 | Scala等2021期刊对应的arXiv:2202.03998v1，26页 | 任务模式、有限推力转换和恢复终态；公式疑点留在笔记 |
+| C4N10 | Xu等2023，SciOpen出版社12页PDF | 脉冲/滑行策略、解析末端位置修正、学习初值与SQP |
+
+本轮3项均阅读正文并进入讨论，累计10项新增正文阅读、9项采用。Scala机构仓储20页PDF在本机返回403，转读公开arXiv版本；McGrath和Scala的Crossref查询返回429，书目以机构仓储及期刊入口核对，未重试扩大访问。版本、哈希、页码和8页视觉核对范围见[FOLLOWUP_SOURCE_RECORD.json](FOLLOWUP_SOURCE_RECORD.json)。Ren等Learning-Based Model Predictive Control for Cooperative Spacecraft Swarm Reconfiguration仅发现书目信息，不计阅读数、不采用方法结论。
 
 ## 保留的重点缺口
 

@@ -1,0 +1,114 @@
+{
+  "date": "2026-10-28",
+  "parent_commit": "dbfdc4500989bbd91bac3148967bbe7088e1d2c3",
+  "new_body_reads": 3,
+  "used": 3,
+  "visual_pages_checked": 8,
+  "sources": [
+    {
+      "id": "C4N08_MCGRAPH",
+      "title": "Novel concept of satellite manoeuvre planning using graph theoretical techniques",
+      "authors": "Ciara N. McGrath; Ruaridh A. Clark; Malcolm Macdonald",
+      "year": 2021,
+      "doi": "10.1016/j.asr.2020.06.008",
+      "actual_version": "16-page Strathprints accepted manuscript; journal 67(11):3775-3784 (2021), online 2020; publisher parity not checked",
+      "body_pages": "1-14 main text; references 15-16 identification only",
+      "visual_pages": [
+        5,
+        12
+      ],
+      "adoption": "ADOPT",
+      "section": "4.1;4.3",
+      "prior_record": "No DOI match in checked pre-followup repository; method inherits existing McGrath 2019 dynamics source",
+      "issue": "Four satellites and two targets; finite low-thrust arcs without battery/storage/downlink; graph alternatives are not a measured recovery probability; no state-error closed-loop trial",
+      "url": "https://strathprints.strath.ac.uk/72860/1/McGrath_etal_ASR_2020_Novel_concept_of_satellite_manoeuvre_planning.pdf",
+      "resolved_url": "https://strathprints.strath.ac.uk/72860/1/McGrath_etal_ASR_2020_Novel_concept_of_satellite_manoeuvre_planning.pdf",
+      "pdf_path": "D:\\SKT727\\outputs\\constellation_ch4_reading_20261028\\followup\\sources\\C4N08_MCGRAPH.pdf",
+      "sha256": "320869d5451f53e4b23d8cfd177cc0de9b0a10bedd44e7b699296f7b2f3fa3d2",
+      "pages": 16,
+      "text_chars": 54034,
+      "reading_status": "BODY_READ_AI_NOT_AUTHOR_VERIFIED",
+      "human_verified": false,
+      "submission_ready": false,
+      "formal_version_parity_closed": false,
+      "note": "reading_notes/C4N08_MCGRAPH_CN.md",
+      "reading_batch": "FOLLOWUP_02"
+    },
+    {
+      "id": "C4N09_SCALA",
+      "title": "Design of optimal low-thrust manoeuvres for remote sensing multi-satellite formation flying in low Earth orbit",
+      "authors": "Francesca Scala; Gabriella Gaias; Camilla Colombo; Manuel Martin-Neira",
+      "year": 2021,
+      "doi": "10.1016/j.asr.2021.09.030",
+      "actual_version": "arXiv:2202.03998v1 (2022), 26 pages; journal metadata 68(11):4359-4378 (2021); 20-page publisher copy not paired",
+      "body_pages": "1-24 main text; appendix 24-25 inspected for model context, no independent derivation; references identification only",
+      "visual_pages": [
+        18,
+        20,
+        23
+      ],
+      "adoption": "ADOPT_MISSION_MODE_STRUCTURE_AND_CONDITIONAL_TRADEOFF",
+      "section": "4.4",
+      "prior_record": "DOI appears in historical S051 Crossref bibliography; no matched body-reading record",
+      "issue": "Three-craft concept simulations; two-craft recovery is a proposed follow-on option; attitude directions assumed compatible, no battery/storage/downlink states; coordinate/discretization expressions need version check; no formulas or runtime/safety guarantees adopted",
+      "url": "https://arxiv.org/pdf/2202.03998v1",
+      "resolved_url": "https://arxiv.org/pdf/2202.03998v1",
+      "pdf_path": "D:\\SKT727\\outputs\\constellation_ch4_reading_20261028\\followup\\sources\\C4N09_SCALA.pdf",
+      "sha256": "ba6cd7f479086ba1d7209c2672808e4a3bac16ecf379601d1d0933f642d39d0f",
+      "pages": 26,
+      "text_chars": 108546,
+      "reading_status": "BODY_READ_AI_NOT_AUTHOR_VERIFIED",
+      "human_verified": false,
+      "submission_ready": false,
+      "formal_version_parity_closed": false,
+      "note": "reading_notes/C4N09_SCALA_CN.md",
+      "reading_batch": "FOLLOWUP_02"
+    },
+    {
+      "id": "C4N10_XU",
+      "title": "Optimal Multi-impulse Linear Rendezvous via Reinforcement Learning",
+      "authors": "Longwei Xu; Gang Zhang; Shi Qiu; Xibin Cao",
+      "year": 2023,
+      "doi": "10.34133/space.0047",
+      "actual_version": "SciOpen publisher PDF, 12 pages; publisher publication date 2023-07-07; Crossref published date field 2023-01",
+      "body_pages": "1-11 main text; references 11-12 identification only",
+      "visual_pages": [
+        3,
+        5,
+        8
+      ],
+      "adoption": "ADOPT",
+      "section": "4.3",
+      "prior_record": "DOI found in historical Crossref snapshots; no matched body-reading note; distinct from 2024 L023",
+      "issue": "Linear relative motion about eccentric reference; terminal correction establishes position, not independently verified six-state rendezvous; reported runtime excludes offline training; desktop simulation, not flight; 2024 J2 paper remains unread",
+      "url": "https://www.sciopen.com/local/article_pdf/10.34133/space.0047.pdf",
+      "resolved_url": "https://www.sciopen.com/local/article_pdf/10.34133/space.0047.pdf",
+      "pdf_path": "D:\\SKT727\\outputs\\constellation_ch4_reading_20261028\\followup\\sources\\C4N10_XU.pdf",
+      "sha256": "a0283b4aa76d18a58e803a43fbe65763de8f35c51619a5e69ec8b88be89d91ae",
+      "pages": 12,
+      "text_chars": 81952,
+      "reading_status": "BODY_READ_AI_NOT_AUTHOR_VERIFIED",
+      "human_verified": false,
+      "submission_ready": false,
+      "formal_version_parity_closed": false,
+      "note": "reading_notes/C4N10_XU_CN.md",
+      "reading_batch": "FOLLOWUP_02"
+    }
+  ],
+  "acquisition_failures": [
+    {
+      "source": "Scala publisher bitstream and retrieve endpoints",
+      "result": "HTTP 403; read arXiv v1 instead"
+    },
+    {
+      "source": "Crossref McGrath and Scala",
+      "result": "HTTP 429; bibliographic identities checked against institutional repository and publisher/arXiv pages"
+    },
+    {
+      "source": "Ren-Zhong-Gui learning MPC full-text search",
+      "result": "Metadata/title discovered only; not counted or cited"
+    }
+  ],
+  "human_verified": false,
+  "submission_ready": false
+}

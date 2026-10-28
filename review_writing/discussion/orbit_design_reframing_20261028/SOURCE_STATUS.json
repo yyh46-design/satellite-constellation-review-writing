@@ -15,9 +15,9 @@
     "chapter_3",
     "chapter_4"
   ],
-  "chapter_4_status": "BODY_DRAFT_AFTER_TARGETED_READING_PENDING_AUTHOR_DISCUSSION",
+  "chapter_4_status": "REFINED_AFTER_SECOND_TARGETED_READING_PENDING_AUTHOR_DISCUSSION",
   "full_revised_manuscript_complete": false,
-  "new_fulltext_readings_this_save": 7,
+  "new_fulltext_readings_this_save": 3,
   "chapter_2_3_unique_source_urls": 32,
   "baseline_reference_count": 120,
   "r2_counts": {
@@ -42,6 +42,9 @@
   ],
   "citation_numbering": "Author-year links in chapters 2-4; baseline numbering unchanged.",
   "initial_archive_new_fulltext_readings": 0,
-  "chapter_4_unique_source_urls": 29,
-  "chapter_4_research_record": "../../research/chapter4_orbit_decision_20261028/SOURCE_STATUS.json"
+  "chapter_4_unique_source_urls": 32,
+  "chapter_4_research_record": "../../research/chapter4_orbit_decision_20261028/SOURCE_STATUS.json",
+  "chapter_4_new_body_read_total": 10,
+  "chapter_4_sources_used_from_new_readings": 9,
+  "chapter_4_followup_record": "../../research/chapter4_orbit_decision_20261028/FOLLOWUP_SOURCE_RECORD.json"
 }

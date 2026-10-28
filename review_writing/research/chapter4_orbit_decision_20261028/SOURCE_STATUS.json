@@ -1,28 +1,46 @@
 {
   "date": "2026-10-28",
-  "stage": "CHAPTER_4_RESEARCH_AND_DISCUSSION_DRAFT",
+  "stage": "CHAPTER_4_FOLLOWUP_RESEARCH_AND_REFINED_DISCUSSION",
   "base_commit": "137ebdfeb67e0d7673d6720f93ccb2a75be60942",
   "branch": "writing/constellation-review-orbit-design-reframing-20261028",
   "human_verified": false,
   "submission_ready": false,
   "chinese_body_frozen": false,
   "existing_sources_regrouped": 31,
-  "new_body_read": 7,
-  "new_sources_used_in_discussion": 6,
+  "new_body_read": 10,
+  "new_sources_used_in_discussion": 9,
   "new_sources_reserved": [
     "C4N06_RETASK"
   ],
   "claim_level_restrictions": [
     "C4N01_LUO",
     "C4N05_RART",
-    "C4N07_RMPC"
+    "C4N07_RMPC",
+    "C4N09_SCALA"
   ],
   "historical_r2_counts_unchanged": true,
-  "r2_candidate_newly_read_in_current_batch": [
-    "R2-C097"
-  ],
   "old_hold_and_version_statuses": "PRESERVED; see original records",
   "fulltext_and_extraction_storage": "D:\\SKT727\\outputs\\constellation_ch4_reading_20261028",
   "third_party_fulltext_in_git": false,
-  "independent_experiment_reproduction": false
+  "independent_experiment_reproduction": false,
+  "new_body_read_this_followup": 3,
+  "followup_parent_commit": "dbfdc4500989bbd91bac3148967bbe7088e1d2c3",
+  "reading_batches": [
+    {
+      "id": "INITIAL_01",
+      "body_read": 7,
+      "used": 6,
+      "reserved": 1
+    },
+    {
+      "id": "FOLLOWUP_02",
+      "body_read": 3,
+      "used": 3,
+      "reserved": 0
+    }
+  ],
+  "count_scope": "Cumulative newly body-read sources in this chapter-4 folder; separate from historical R2 counts",
+  "r2_candidate_newly_read_in_initial_batch": [
+    "R2-C097"
+  ]
 }
