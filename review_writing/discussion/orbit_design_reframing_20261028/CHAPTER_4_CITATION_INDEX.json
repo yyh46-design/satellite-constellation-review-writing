@@ -1,0 +1,557 @@
+{
+  "date": "2026-10-28",
+  "document": "CHAPTER_4_DISCUSSION_CN.md",
+  "unique_urls": 29,
+  "occurrences": 32,
+  "sources": [
+    {
+      "url": "https://www.comm.utoronto.ca/~liang/publications/TMC_ObsTrans_ASN.pdf",
+      "labels": [
+        "He等，2022"
+      ],
+      "sections": [
+        "4.1 轨道与任务资源的联合规划"
+      ],
+      "lines": [
+        7
+      ]
+    },
+    {
+      "url": "https://doi.org/10.3390/rs14091966",
+      "labels": [
+        "Luo等，2022"
+      ],
+      "sections": [
+        "4.1 轨道与任务资源的联合规划"
+      ],
+      "lines": [
+        9
+      ]
+    },
+    {
+      "url": "https://arxiv.org/pdf/2507.10394v3",
+      "labels": [
+        "Pearl等，2026，所读作者稿",
+        "Pearl等，2026"
+      ],
+      "sections": [
+        "4.1 轨道与任务资源的联合规划",
+        "4.3 动态更新与学习辅助决策"
+      ],
+      "lines": [
+        11,
+        35
+      ]
+    },
+    {
+      "url": "https://www.federico.io/pdf/Rossi.Bandyopadhyay.Mote.delaCroix.Rahmani.JGCD22.pdf",
+      "labels": [
+        "Rossi等，2022"
+      ],
+      "sections": [
+        "4.1 轨道与任务资源的联合规划"
+      ],
+      "lines": [
+        13
+      ]
+    },
+    {
+      "url": "https://arxiv.org/pdf/2206.02910v2",
+      "labels": [
+        "Lee和Ho，2023"
+      ],
+      "sections": [
+        "4.1 轨道与任务资源的联合规划"
+      ],
+      "lines": [
+        17
+      ]
+    },
+    {
+      "url": "https://ai.jpl.nasa.gov/public/documents/papers/parjan-jais2023-mas.pdf",
+      "labels": [
+        "Parjan和Chien，2023"
+      ],
+      "sections": [
+        "4.2 多星协同与分层决策"
+      ],
+      "lines": [
+        23
+      ]
+    },
+    {
+      "url": "https://doi.org/10.1613/jair.1.16997",
+      "labels": [
+        "Zilberstein等，2025"
+      ],
+      "sections": [
+        "4.2 多星协同与分层决策"
+      ],
+      "lines": [
+        23
+      ]
+    },
+    {
+      "url": "https://arxiv.org/pdf/2201.10399v1",
+      "labels": [
+        "Pippia等，2022"
+      ],
+      "sections": [
+        "4.2 多星协同与分层决策"
+      ],
+      "lines": [
+        25
+      ]
+    },
+    {
+      "url": "https://arxiv.org/pdf/2302.02885v2",
+      "labels": [
+        "Dunlap等，2023"
+      ],
+      "sections": [
+        "4.2 多星协同与分层决策"
+      ],
+      "lines": [
+        27
+      ]
+    },
+    {
+      "url": "https://hanspeterschaub.info/Papers/Stephenson2025b.pdf",
+      "labels": [
+        "Stephenson和Schaub，2025"
+      ],
+      "sections": [
+        "4.2 多星协同与分层决策",
+        "4.3 动态更新与学习辅助决策"
+      ],
+      "lines": [
+        27,
+        41
+      ]
+    },
+    {
+      "url": "https://arxiv.org/pdf/2607.26570v1",
+      "labels": [
+        "Kim等，2026"
+      ],
+      "sections": [
+        "4.2 多星协同与分层决策"
+      ],
+      "lines": [
+        29
+      ]
+    },
+    {
+      "url": "https://doi.org/10.1155/2013/304047",
+      "labels": [
+        "Qiu等，2013"
+      ],
+      "sections": [
+        "4.3 动态更新与学习辅助决策"
+      ],
+      "lines": [
+        33
+      ]
+    },
+    {
+      "url": "https://arxiv.org/pdf/2103.08962v1",
+      "labels": [
+        "Sarton du Jonchay等，2021"
+      ],
+      "sections": [
+        "4.3 动态更新与学习辅助决策",
+        "4.4 执行反馈与业务恢复"
+      ],
+      "lines": [
+        33,
+        63
+      ]
+    },
+    {
+      "url": "https://arxiv.org/pdf/2401.11567v3",
+      "labels": [
+        "Lee等，2025"
+      ],
+      "sections": [
+        "4.3 动态更新与学习辅助决策"
+      ],
+      "lines": [
+        35
+      ]
+    },
+    {
+      "url": "https://arxiv.org/pdf/2608.09738v1",
+      "labels": [
+        "Pearl和Lee，2026"
+      ],
+      "sections": [
+        "4.3 动态更新与学习辅助决策"
+      ],
+      "lines": [
+        37
+      ]
+    },
+    {
+      "url": "https://orbilu.uni.lu/bitstream/10993/64742/1/1-s2.0-S0094576525001432-main.pdf",
+      "labels": [
+        "Mahfouz等，2025"
+      ],
+      "sections": [
+        "4.3 动态更新与学习辅助决策"
+      ],
+      "lines": [
+        39
+      ]
+    },
+    {
+      "url": "https://yanjiesong.github.io/files/RLGA2023.pdf",
+      "labels": [
+        "Song等，2023"
+      ],
+      "sections": [
+        "4.3 动态更新与学习辅助决策"
+      ],
+      "lines": [
+        41
+      ]
+    },
+    {
+      "url": "https://hanspeterschaub.info/PapersPrivate/Herrmann2024.pdf",
+      "labels": [
+        "Herrmann等，2024"
+      ],
+      "sections": [
+        "4.3 动态更新与学习辅助决策"
+      ],
+      "lines": [
+        41
+      ]
+    },
+    {
+      "url": "https://slab.stanford.edu/sites/g/files/sbiybj25201/files/media/file/guffantigammellidamicopavone_ieeeaero24_final.pdf",
+      "labels": [
+        "Guffanti等，2024"
+      ],
+      "sections": [
+        "4.3 动态更新与学习辅助决策"
+      ],
+      "lines": [
+        43
+      ]
+    },
+    {
+      "url": "https://arxiv.org/pdf/2410.23916v1",
+      "labels": [
+        "Celestini等，2024"
+      ],
+      "sections": [
+        "4.3 动态更新与学习辅助决策"
+      ],
+      "lines": [
+        45
+      ]
+    },
+    {
+      "url": "https://doi.org/10.3390/aerospace12090837",
+      "labels": [
+        "Capra等，2025"
+      ],
+      "sections": [
+        "4.3 动态更新与学习辅助决策"
+      ],
+      "lines": [
+        47
+      ]
+    },
+    {
+      "url": "https://arxiv.org/pdf/2410.05585v2",
+      "labels": [
+        "Takubo等，2025"
+      ],
+      "sections": [
+        "4.3 动态更新与学习辅助决策"
+      ],
+      "lines": [
+        49
+      ]
+    },
+    {
+      "url": "https://publications.spaceops.org/2025/download_by_id.php?id=0105",
+      "labels": [
+        "Mascolo等，2025"
+      ],
+      "sections": [
+        "4.4 执行反馈与业务恢复"
+      ],
+      "lines": [
+        53
+      ]
+    },
+    {
+      "url": "https://doi.org/10.1007/s12567-026-00702-6",
+      "labels": [
+        "Roychowdhury等，2026"
+      ],
+      "sections": [
+        "4.4 执行反馈与业务恢复"
+      ],
+      "lines": [
+        55
+      ]
+    },
+    {
+      "url": "https://ntrs.nasa.gov/citations/20250007355",
+      "labels": [
+        "Alem等，2025"
+      ],
+      "sections": [
+        "4.4 执行反馈与业务恢复"
+      ],
+      "lines": [
+        57
+      ]
+    },
+    {
+      "url": "https://people.csail.mit.edu/williams/Web%20site/papers/aij98.pdf",
+      "labels": [
+        "Muscettola等，1998"
+      ],
+      "sections": [
+        "4.4 执行反馈与业务恢复"
+      ],
+      "lines": [
+        59
+      ]
+    },
+    {
+      "url": "https://ntrs.nasa.gov/citations/20060050174",
+      "labels": [
+        "Rabideau等，2006"
+      ],
+      "sections": [
+        "4.4 执行反馈与业务恢复"
+      ],
+      "lines": [
+        59
+      ]
+    },
+    {
+      "url": "https://arxiv.org/pdf/2309.16698v1",
+      "labels": [
+        "Guffanti等，2023"
+      ],
+      "sections": [
+        "4.4 执行反馈与业务恢复"
+      ],
+      "lines": [
+        59
+      ]
+    },
+    {
+      "url": "https://strathprints.strath.ac.uk/86667/7/Lowe_etal_AHN_2023_A_delay_tolerant_network_approach_to_satellite_pickup_and_delivery_scheduling.pdf",
+      "labels": [
+        "Lowe等，2023"
+      ],
+      "sections": [
+        "4.4 执行反馈与业务恢复"
+      ],
+      "lines": [
+        61
+      ]
+    }
+  ],
+  "occurrence_index": [
+    {
+      "label": "He等，2022",
+      "url": "https://www.comm.utoronto.ca/~liang/publications/TMC_ObsTrans_ASN.pdf",
+      "line": 7,
+      "section": "4.1 轨道与任务资源的联合规划"
+    },
+    {
+      "label": "Luo等，2022",
+      "url": "https://doi.org/10.3390/rs14091966",
+      "line": 9,
+      "section": "4.1 轨道与任务资源的联合规划"
+    },
+    {
+      "label": "Pearl等，2026，所读作者稿",
+      "url": "https://arxiv.org/pdf/2507.10394v3",
+      "line": 11,
+      "section": "4.1 轨道与任务资源的联合规划"
+    },
+    {
+      "label": "Rossi等，2022",
+      "url": "https://www.federico.io/pdf/Rossi.Bandyopadhyay.Mote.delaCroix.Rahmani.JGCD22.pdf",
+      "line": 13,
+      "section": "4.1 轨道与任务资源的联合规划"
+    },
+    {
+      "label": "Lee和Ho，2023",
+      "url": "https://arxiv.org/pdf/2206.02910v2",
+      "line": 17,
+      "section": "4.1 轨道与任务资源的联合规划"
+    },
+    {
+      "label": "Parjan和Chien，2023",
+      "url": "https://ai.jpl.nasa.gov/public/documents/papers/parjan-jais2023-mas.pdf",
+      "line": 23,
+      "section": "4.2 多星协同与分层决策"
+    },
+    {
+      "label": "Zilberstein等，2025",
+      "url": "https://doi.org/10.1613/jair.1.16997",
+      "line": 23,
+      "section": "4.2 多星协同与分层决策"
+    },
+    {
+      "label": "Pippia等，2022",
+      "url": "https://arxiv.org/pdf/2201.10399v1",
+      "line": 25,
+      "section": "4.2 多星协同与分层决策"
+    },
+    {
+      "label": "Dunlap等，2023",
+      "url": "https://arxiv.org/pdf/2302.02885v2",
+      "line": 27,
+      "section": "4.2 多星协同与分层决策"
+    },
+    {
+      "label": "Stephenson和Schaub，2025",
+      "url": "https://hanspeterschaub.info/Papers/Stephenson2025b.pdf",
+      "line": 27,
+      "section": "4.2 多星协同与分层决策"
+    },
+    {
+      "label": "Kim等，2026",
+      "url": "https://arxiv.org/pdf/2607.26570v1",
+      "line": 29,
+      "section": "4.2 多星协同与分层决策"
+    },
+    {
+      "label": "Qiu等，2013",
+      "url": "https://doi.org/10.1155/2013/304047",
+      "line": 33,
+      "section": "4.3 动态更新与学习辅助决策"
+    },
+    {
+      "label": "Sarton du Jonchay等，2021",
+      "url": "https://arxiv.org/pdf/2103.08962v1",
+      "line": 33,
+      "section": "4.3 动态更新与学习辅助决策"
+    },
+    {
+      "label": "Lee等，2025",
+      "url": "https://arxiv.org/pdf/2401.11567v3",
+      "line": 35,
+      "section": "4.3 动态更新与学习辅助决策"
+    },
+    {
+      "label": "Pearl等，2026",
+      "url": "https://arxiv.org/pdf/2507.10394v3",
+      "line": 35,
+      "section": "4.3 动态更新与学习辅助决策"
+    },
+    {
+      "label": "Pearl和Lee，2026",
+      "url": "https://arxiv.org/pdf/2608.09738v1",
+      "line": 37,
+      "section": "4.3 动态更新与学习辅助决策"
+    },
+    {
+      "label": "Mahfouz等，2025",
+      "url": "https://orbilu.uni.lu/bitstream/10993/64742/1/1-s2.0-S0094576525001432-main.pdf",
+      "line": 39,
+      "section": "4.3 动态更新与学习辅助决策"
+    },
+    {
+      "label": "Song等，2023",
+      "url": "https://yanjiesong.github.io/files/RLGA2023.pdf",
+      "line": 41,
+      "section": "4.3 动态更新与学习辅助决策"
+    },
+    {
+      "label": "Herrmann等，2024",
+      "url": "https://hanspeterschaub.info/PapersPrivate/Herrmann2024.pdf",
+      "line": 41,
+      "section": "4.3 动态更新与学习辅助决策"
+    },
+    {
+      "label": "Stephenson和Schaub，2025",
+      "url": "https://hanspeterschaub.info/Papers/Stephenson2025b.pdf",
+      "line": 41,
+      "section": "4.3 动态更新与学习辅助决策"
+    },
+    {
+      "label": "Guffanti等，2024",
+      "url": "https://slab.stanford.edu/sites/g/files/sbiybj25201/files/media/file/guffantigammellidamicopavone_ieeeaero24_final.pdf",
+      "line": 43,
+      "section": "4.3 动态更新与学习辅助决策"
+    },
+    {
+      "label": "Celestini等，2024",
+      "url": "https://arxiv.org/pdf/2410.23916v1",
+      "line": 45,
+      "section": "4.3 动态更新与学习辅助决策"
+    },
+    {
+      "label": "Capra等，2025",
+      "url": "https://doi.org/10.3390/aerospace12090837",
+      "line": 47,
+      "section": "4.3 动态更新与学习辅助决策"
+    },
+    {
+      "label": "Takubo等，2025",
+      "url": "https://arxiv.org/pdf/2410.05585v2",
+      "line": 49,
+      "section": "4.3 动态更新与学习辅助决策"
+    },
+    {
+      "label": "Mascolo等，2025",
+      "url": "https://publications.spaceops.org/2025/download_by_id.php?id=0105",
+      "line": 53,
+      "section": "4.4 执行反馈与业务恢复"
+    },
+    {
+      "label": "Roychowdhury等，2026",
+      "url": "https://doi.org/10.1007/s12567-026-00702-6",
+      "line": 55,
+      "section": "4.4 执行反馈与业务恢复"
+    },
+    {
+      "label": "Alem等，2025",
+      "url": "https://ntrs.nasa.gov/citations/20250007355",
+      "line": 57,
+      "section": "4.4 执行反馈与业务恢复"
+    },
+    {
+      "label": "Muscettola等，1998",
+      "url": "https://people.csail.mit.edu/williams/Web%20site/papers/aij98.pdf",
+      "line": 59,
+      "section": "4.4 执行反馈与业务恢复"
+    },
+    {
+      "label": "Rabideau等，2006",
+      "url": "https://ntrs.nasa.gov/citations/20060050174",
+      "line": 59,
+      "section": "4.4 执行反馈与业务恢复"
+    },
+    {
+      "label": "Guffanti等，2023",
+      "url": "https://arxiv.org/pdf/2309.16698v1",
+      "line": 59,
+      "section": "4.4 执行反馈与业务恢复"
+    },
+    {
+      "label": "Lowe等，2023",
+      "url": "https://strathprints.strath.ac.uk/86667/7/Lowe_etal_AHN_2023_A_delay_tolerant_network_approach_to_satellite_pickup_and_delivery_scheduling.pdf",
+      "line": 61,
+      "section": "4.4 执行反馈与业务恢复"
+    },
+    {
+      "label": "Sarton du Jonchay等，2021",
+      "url": "https://arxiv.org/pdf/2103.08962v1",
+      "line": 63,
+      "section": "4.4 执行反馈与业务恢复"
+    }
+  ]
+}

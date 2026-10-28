@@ -1,0 +1,28 @@
+{
+  "date": "2026-10-28",
+  "stage": "CHAPTER_4_RESEARCH_AND_DISCUSSION_DRAFT",
+  "base_commit": "137ebdfeb67e0d7673d6720f93ccb2a75be60942",
+  "branch": "writing/constellation-review-orbit-design-reframing-20261028",
+  "human_verified": false,
+  "submission_ready": false,
+  "chinese_body_frozen": false,
+  "existing_sources_regrouped": 31,
+  "new_body_read": 7,
+  "new_sources_used_in_discussion": 6,
+  "new_sources_reserved": [
+    "C4N06_RETASK"
+  ],
+  "claim_level_restrictions": [
+    "C4N01_LUO",
+    "C4N05_RART",
+    "C4N07_RMPC"
+  ],
+  "historical_r2_counts_unchanged": true,
+  "r2_candidate_newly_read_in_current_batch": [
+    "R2-C097"
+  ],
+  "old_hold_and_version_statuses": "PRESERVED; see original records",
+  "fulltext_and_extraction_storage": "D:\\SKT727\\outputs\\constellation_ch4_reading_20261028",
+  "third_party_fulltext_in_git": false,
+  "independent_experiment_reproduction": false
+}

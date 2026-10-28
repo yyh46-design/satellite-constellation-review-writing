@@ -1,0 +1,101 @@
+{
+  "base_commit": "137ebdfeb67e0d7673d6720f93ccb2a75be60942",
+  "files": [
+    {
+      "path": "review_writing/research/chapter4_orbit_decision_20261028/.gitattributes",
+      "sha256": "cbeda57f46dd5e96f40fbbfb3df8182145dfc293770d4104e23b3fe36936d294",
+      "bytes": 81
+    },
+    {
+      "path": "review_writing/research/chapter4_orbit_decision_20261028/CLAIM_EVIDENCE_MAP_CN.md",
+      "sha256": "9d9c8d0abad765f31f95c2fc1f93b7fe22d64d295b1553b2e4218c4eb192ece2",
+      "bytes": 4605
+    },
+    {
+      "path": "review_writing/research/chapter4_orbit_decision_20261028/EXISTING_LITERATURE_BY_SECTION.csv",
+      "sha256": "cf40bed3f96ddc68bc1d28a89a471a5dbb481bc6e6e5fbc878a704094b155632",
+      "bytes": 15636
+    },
+    {
+      "path": "review_writing/research/chapter4_orbit_decision_20261028/EXISTING_LITERATURE_BY_SECTION_CN.md",
+      "sha256": "7729b1744fc44d79730b38660324c4f068c2982350e844c1656d898f51d24571",
+      "bytes": 7073
+    },
+    {
+      "path": "review_writing/research/chapter4_orbit_decision_20261028/METHOD_COMPARISONS_CN.md",
+      "sha256": "3493131c1f4116862eeac0f66644f2d901822f26db5ee1c3eea18a8cc2f40229",
+      "bytes": 3844
+    },
+    {
+      "path": "review_writing/research/chapter4_orbit_decision_20261028/NEW_READING_REGISTER.json",
+      "sha256": "47c027a7ba92f5c48d7173969c5d0c84bdb0da49c99f7514368c9ad32ad4e745",
+      "bytes": 9960
+    },
+    {
+      "path": "review_writing/research/chapter4_orbit_decision_20261028/reading_notes/C4N01_LUO_CN.md",
+      "sha256": "7e21e8ad5a75412b6894ad41eecd77be694eeae683f0838e3788baff2a1c4fb4",
+      "bytes": 2314
+    },
+    {
+      "path": "review_writing/research/chapter4_orbit_decision_20261028/reading_notes/C4N02_ROSSI_CN.md",
+      "sha256": "9418894a7c2093caa564ac92995a8b95901cfbcb4316f2aa40fae36d01c811fd",
+      "bytes": 2831
+    },
+    {
+      "path": "review_writing/research/chapter4_orbit_decision_20261028/reading_notes/C4N03_ART_CN.md",
+      "sha256": "5254322ad084c845edaebc54b7649a4f6de18f4905c482cc6cb42c10989cda24",
+      "bytes": 2542
+    },
+    {
+      "path": "review_writing/research/chapter4_orbit_decision_20261028/reading_notes/C4N04_TMPC_CN.md",
+      "sha256": "593cf09f07542e4726ba6ad2d289d0d4ecd37666c3b61dc8920aa0d86f95ef91",
+      "bytes": 2346
+    },
+    {
+      "path": "review_writing/research/chapter4_orbit_decision_20261028/reading_notes/C4N05_RART_CN.md",
+      "sha256": "fb65bdddf084c2ba563ab23424dfc99042bfec5f2528a5f84907660027d32e1a",
+      "bytes": 2425
+    },
+    {
+      "path": "review_writing/research/chapter4_orbit_decision_20261028/reading_notes/C4N06_RETASK_CN.md",
+      "sha256": "e0168b4ef8738ddd72a2d3266fe13fee4eb2e382d62fd957c42a9d0a942ef483",
+      "bytes": 1959
+    },
+    {
+      "path": "review_writing/research/chapter4_orbit_decision_20261028/reading_notes/C4N07_RMPC_CN.md",
+      "sha256": "a2963020e83c53134ecd221fb0d5fbd660b456bd4c56d3d1f085f3f9901dcf9f",
+      "bytes": 2440
+    },
+    {
+      "path": "review_writing/research/chapter4_orbit_decision_20261028/README_CN.md",
+      "sha256": "a06221e6ee205e6dc0c70e9e6e187780e2b592ca935a77c742bf3fad9857387f",
+      "bytes": 2973
+    },
+    {
+      "path": "review_writing/research/chapter4_orbit_decision_20261028/SAVE_CHECK.json",
+      "sha256": "f2265e0f452ff43d6e294f9e42671bee2b086bc4e82359186cb2e52dc0f04ab8",
+      "bytes": 1082
+    },
+    {
+      "path": "review_writing/research/chapter4_orbit_decision_20261028/SEARCH_AND_SELECTION_CN.md",
+      "sha256": "cc4767ce450bff3fa350776ffa331e9273e1e6a56f98057e1766abb7a5fc9901",
+      "bytes": 4717
+    },
+    {
+      "path": "review_writing/research/chapter4_orbit_decision_20261028/SOURCE_STATUS.json",
+      "sha256": "e6619cdf91bfa781d01726abb48bb8b8773a88eefb2801c657d65c773289a060",
+      "bytes": 907
+    },
+    {
+      "path": "review_writing/discussion/orbit_design_reframing_20261028/CHAPTER_4_DISCUSSION_CN.md",
+      "sha256": "712a5f53f1c99dc425e0be5a5be21b22c628a6bb2403e5e2edd697fbf1bfa37b",
+      "bytes": 20570
+    },
+    {
+      "path": "review_writing/discussion/orbit_design_reframing_20261028/CHAPTER_4_CITATION_INDEX.json",
+      "sha256": "6e9d5d6acb7e846aa7d68178aa91deebdbad49e79a3700411b1b2cf644075b4c",
+      "bytes": 13658
+    }
+  ],
+  "third_party_pdfs_included": false
+}
