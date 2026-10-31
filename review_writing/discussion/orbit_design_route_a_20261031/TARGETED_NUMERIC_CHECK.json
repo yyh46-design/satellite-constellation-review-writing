@@ -1,0 +1,54 @@
+{
+  "source": "../../manuscripts/v3.5.8-cn/references/E013_TABLE2_DATA_v3.5.8.csv",
+  "total_rows": 24,
+  "excluded_memory_failure": 10,
+  "tallies": {
+    "RHP": {
+      "higher": 7,
+      "lower": 12,
+      "equal": 4
+    },
+    "MP": {
+      "higher": 5,
+      "lower": 18,
+      "equal": 0
+    }
+  },
+  "selected_rows": [
+    {
+      "instance": "13",
+      "target_group": "dynamic",
+      "MCRP_reward": "4613",
+      "MP_reward": "4581",
+      "RHP_reward": "4589",
+      "MCRP_runtime_s": "46.03",
+      "MP_runtime_s": "0.14",
+      "RHP_runtime_s": "27.38",
+      "MCRP_status": "RETURNED"
+    },
+    {
+      "instance": "16",
+      "target_group": "dynamic",
+      "MCRP_reward": "2356",
+      "MP_reward": "2335",
+      "RHP_reward": "2356",
+      "MCRP_runtime_s": "32.53",
+      "MP_runtime_s": "0.03",
+      "RHP_runtime_s": "13.62",
+      "MCRP_status": "RETURNED"
+    },
+    {
+      "instance": "24",
+      "target_group": "dynamic",
+      "MCRP_reward": "4610",
+      "MP_reward": "4584",
+      "RHP_reward": "4656",
+      "MCRP_runtime_s": "10800",
+      "MP_runtime_s": "0.04",
+      "RHP_runtime_s": "5942.12",
+      "MCRP_status": "TIME_LIMIT"
+    }
+  ],
+  "scope": "Recalculation of existing table transcription; no new physical or solver experiment",
+  "human_verified": false
+}

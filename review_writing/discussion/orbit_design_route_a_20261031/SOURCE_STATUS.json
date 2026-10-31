@@ -1,0 +1,74 @@
+{
+  "date": "2026-10-31",
+  "base_commit": "cae915dca984075a2c6e6d89f12d83ff50d807ca",
+  "human_verified": false,
+  "submission_ready": false,
+  "chinese_text_frozen": false,
+  "new_adopted_sources": 2,
+  "new_complete_paper_readings": 0,
+  "new_targeted_body_readings": 2,
+  "sources": [
+    {
+      "id": "RA01_MORTARI_2006",
+      "url": "https://www.esa.int/gsp/ACT/doc/ACTAFUTURA/AF02/papers/AF02.2006.7.pdf",
+      "local_pdf": "D:\\SKT727\\outputs\\constellation_route_a_20261031\\MORTARI_2006.pdf",
+      "pages": 16,
+      "sha256": "7695fe2221d2ddd895911948fe3f34f0b7769e2f71eeb33bd939e829b11270d5",
+      "reading_scope": "Physical pp.1-6; selected application/conclusion passages; not a complete new reading",
+      "visual_pages": [],
+      "status": "TARGETED_BODY_READ_AND_ADOPTED",
+      "human_verified": false
+    },
+    {
+      "id": "RA02_ARNAS_2021",
+      "url": "https://arxiv.org/pdf/2110.07823v1",
+      "local_pdf": "D:\\SKT727\\outputs\\constellation_route_a_20261031\\ARNAS_2021_CAPACITY.pdf",
+      "pages": 28,
+      "sha256": "577cc5fe3047b8942b681d46fe531254b8e3bf3ff76a7f54abf37cc3f5e18d35",
+      "reading_scope": "Physical pp.1,3-5,14-17,21-25; proof pp.6-13 not independently checked",
+      "visual_pages": [
+        24
+      ],
+      "status": "TARGETED_BODY_READ_AND_ADOPTED",
+      "human_verified": false
+    }
+  ],
+  "inherited_status_policy": "Prior HOLD, RESERVE, full-text gaps and formal-version-pairing gaps remain unchanged.",
+  "v3510_text_matches_fixed_commit": true,
+  "unique_references": 74,
+  "inherited_references_retained": 72,
+  "engineering_case_groups": {
+    "Planet": [
+      31,
+      48
+    ],
+    "EO-1": [
+      33,
+      73
+    ],
+    "S-NET": [
+      34
+    ],
+    "NanoFF": [
+      68
+    ],
+    "Starling": [
+      69
+    ],
+    "Remote Agent": [
+      72
+    ],
+    "VISORS": [
+      74
+    ]
+  },
+  "engineering_case_group_count": 7,
+  "engineering_case_source_count": 9,
+  "engineering_count_note": "Project groups, not nine independent flight validations; VISORS cited evidence is preflight SIL.",
+  "inherited_status_records": [
+    "../../manuscripts/v3.5.10-cn/SOURCE_STATUS.json",
+    "../orbit_design_reframing_20261028/",
+    "../../research/orbit_mission_r2_20261027/",
+    "../../research/chapter4_orbit_decision_20261028/"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "date": "2026-10-31",
+  "scope": "assembly, numeric citation identity, five tables, selected source-bound facts; not scientific certification",
+  "references": 74,
+  "tables": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5"
+  ],
+  "dangling_numbered_citations": [],
+  "uncited_references": [],
+  "process_language_in_body": false,
+  "body_cjk_characters": 22648,
+  "manuscript_sha256": "f5d8f9d200ea19f1c0a89c2321f61352b56e757414da8fcb256788317683075d",
+  "human_verified": false,
+  "submission_ready": false
+}

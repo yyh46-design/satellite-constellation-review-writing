@@ -1,0 +1,1288 @@
+{
+  "unique_references": 74,
+  "citation_occurrences": 182,
+  "per_chapter_unique": {
+    "1": 16,
+    "2": 21,
+    "3": 21,
+    "4": 38,
+    "5": 17
+  },
+  "chapters_2_to_4_unique": 70,
+  "occurrences": [
+    {
+      "file": "CHAPTER_1_REFRAMED_CN.md",
+      "line": 5,
+      "chapter": "1",
+      "number": 1,
+      "url": "https://doi.org/10.1016/j.actaastro.2020.09.010"
+    },
+    {
+      "file": "CHAPTER_1_REFRAMED_CN.md",
+      "line": 5,
+      "chapter": "1",
+      "number": 2,
+      "url": "https://doi.org/10.1007/s42405-025-00985-9"
+    },
+    {
+      "file": "CHAPTER_1_REFRAMED_CN.md",
+      "line": 5,
+      "chapter": "1",
+      "number": 3,
+      "url": "https://doi.org/10.1109/JSTARS.2019.2961084"
+    },
+    {
+      "file": "CHAPTER_1_REFRAMED_CN.md",
+      "line": 7,
+      "chapter": "1",
+      "number": 4,
+      "url": "https://doi.org/10.1007/s42405-026-01298-1"
+    },
+    {
+      "file": "CHAPTER_1_REFRAMED_CN.md",
+      "line": 7,
+      "chapter": "1",
+      "number": 5,
+      "url": "https://doi.org/10.2514/1.G003739"
+    },
+    {
+      "file": "CHAPTER_1_REFRAMED_CN.md",
+      "line": 9,
+      "chapter": "1",
+      "number": 6,
+      "url": "https://arxiv.org/pdf/2507.10394v3"
+    },
+    {
+      "file": "CHAPTER_1_REFRAMED_CN.md",
+      "line": 9,
+      "chapter": "1",
+      "number": 7,
+      "url": "https://www.federico.io/pdf/Rossi.Bandyopadhyay.Mote.delaCroix.Rahmani.JGCD22.pdf"
+    },
+    {
+      "file": "CHAPTER_1_REFRAMED_CN.md",
+      "line": 11,
+      "chapter": "1",
+      "number": 8,
+      "url": "https://doi.org/10.1613/jair.1.16997"
+    },
+    {
+      "file": "CHAPTER_1_REFRAMED_CN.md",
+      "line": 11,
+      "chapter": "1",
+      "number": 9,
+      "url": "https://arxiv.org/pdf/2302.02885v2"
+    },
+    {
+      "file": "CHAPTER_1_REFRAMED_CN.md",
+      "line": 17,
+      "chapter": "1",
+      "number": 10,
+      "url": "https://www.esa.int/gsp/ACT/doc/ACTAFUTURA/AF02/papers/AF02.2006.7.pdf"
+    },
+    {
+      "file": "CHAPTER_1_REFRAMED_CN.md",
+      "line": 17,
+      "chapter": "1",
+      "number": 11,
+      "url": "https://doi.org/10.1016/j.actaastro.2021.07.002"
+    },
+    {
+      "file": "CHAPTER_1_REFRAMED_CN.md",
+      "line": 25,
+      "chapter": "1",
+      "number": 10,
+      "url": "https://www.esa.int/gsp/ACT/doc/ACTAFUTURA/AF02/papers/AF02.2006.7.pdf"
+    },
+    {
+      "file": "CHAPTER_1_REFRAMED_CN.md",
+      "line": 26,
+      "chapter": "1",
+      "number": 12,
+      "url": "https://doi.org/10.2514/1.G002309"
+    },
+    {
+      "file": "CHAPTER_1_REFRAMED_CN.md",
+      "line": 27,
+      "chapter": "1",
+      "number": 13,
+      "url": "https://arxiv.org/pdf/2503.22555v1"
+    },
+    {
+      "file": "CHAPTER_1_REFRAMED_CN.md",
+      "line": 28,
+      "chapter": "1",
+      "number": 14,
+      "url": "https://doi.org/10.1016/j.cor.2024.106875"
+    },
+    {
+      "file": "CHAPTER_1_REFRAMED_CN.md",
+      "line": 29,
+      "chapter": "1",
+      "number": 15,
+      "url": "https://doi.org/10.1016/j.asr.2020.08.009"
+    },
+    {
+      "file": "CHAPTER_1_REFRAMED_CN.md",
+      "line": 29,
+      "chapter": "1",
+      "number": 16,
+      "url": "https://doi.org/10.1016/j.actaastro.2025.10.018"
+    },
+    {
+      "file": "CHAPTERS_2_3_REFINED_CN.md",
+      "line": 7,
+      "chapter": "2",
+      "number": 11,
+      "url": "https://doi.org/10.1016/j.actaastro.2021.07.002"
+    },
+    {
+      "file": "CHAPTERS_2_3_REFINED_CN.md",
+      "line": 7,
+      "chapter": "2",
+      "number": 17,
+      "url": "https://arxiv.org/pdf/2507.09855v2"
+    },
+    {
+      "file": "CHAPTERS_2_3_REFINED_CN.md",
+      "line": 7,
+      "chapter": "2",
+      "number": 3,
+      "url": "https://doi.org/10.1109/JSTARS.2019.2961084"
+    },
+    {
+      "file": "CHAPTERS_2_3_REFINED_CN.md",
+      "line": 9,
+      "chapter": "2",
+      "number": 2,
+      "url": "https://doi.org/10.1007/s42405-025-00985-9"
+    },
+    {
+      "file": "CHAPTERS_2_3_REFINED_CN.md",
+      "line": 11,
+      "chapter": "2",
+      "number": 1,
+      "url": "https://doi.org/10.1016/j.actaastro.2020.09.010"
+    },
+    {
+      "file": "CHAPTERS_2_3_REFINED_CN.md",
+      "line": 19,
+      "chapter": "2",
+      "number": 11,
+      "url": "https://doi.org/10.1016/j.actaastro.2021.07.002"
+    },
+    {
+      "file": "CHAPTERS_2_3_REFINED_CN.md",
+      "line": 20,
+      "chapter": "2",
+      "number": 2,
+      "url": "https://doi.org/10.1007/s42405-025-00985-9"
+    },
+    {
+      "file": "CHAPTERS_2_3_REFINED_CN.md",
+      "line": 21,
+      "chapter": "2",
+      "number": 5,
+      "url": "https://doi.org/10.2514/1.G003739"
+    },
+    {
+      "file": "CHAPTERS_2_3_REFINED_CN.md",
+      "line": 22,
+      "chapter": "2",
+      "number": 3,
+      "url": "https://doi.org/10.1109/JSTARS.2019.2961084"
+    },
+    {
+      "file": "CHAPTERS_2_3_REFINED_CN.md",
+      "line": 28,
+      "chapter": "2",
+      "number": 18,
+      "url": "https://doi.org/10.1007/s10569-020-09958-4"
+    },
+    {
+      "file": "CHAPTERS_2_3_REFINED_CN.md",
+      "line": 28,
+      "chapter": "2",
+      "number": 1,
+      "url": "https://doi.org/10.1016/j.actaastro.2020.09.010"
+    },
+    {
+      "file": "CHAPTERS_2_3_REFINED_CN.md",
+      "line": 38,
+      "chapter": "2",
+      "number": 19,
+      "url": "https://doi.org/10.1023/A:1011161811472"
+    },
+    {
+      "file": "CHAPTERS_2_3_REFINED_CN.md",
+      "line": 38,
+      "chapter": "2",
+      "number": 1,
+      "url": "https://doi.org/10.1016/j.actaastro.2020.09.010"
+    },
+    {
+      "file": "CHAPTERS_2_3_REFINED_CN.md",
+      "line": 40,
+      "chapter": "2",
+      "number": 19,
+      "url": "https://doi.org/10.1023/A:1011161811472"
+    },
+    {
+      "file": "CHAPTERS_2_3_REFINED_CN.md",
+      "line": 42,
+      "chapter": "2",
+      "number": 20,
+      "url": "https://zaguan.unizar.es/record/130403/files/texto_completo.pdf"
+    },
+    {
+      "file": "CHAPTERS_2_3_REFINED_CN.md",
+      "line": 42,
+      "chapter": "2",
+      "number": 12,
+      "url": "https://doi.org/10.2514/1.G002309"
+    },
+    {
+      "file": "CHAPTERS_2_3_REFINED_CN.md",
+      "line": 44,
+      "chapter": "2",
+      "number": 21,
+      "url": "https://doi.org/10.1016/j.actaastro.2015.12.035"
+    },
+    {
+      "file": "CHAPTERS_2_3_REFINED_CN.md",
+      "line": 48,
+      "chapter": "2",
+      "number": 11,
+      "url": "https://doi.org/10.1016/j.actaastro.2021.07.002"
+    },
+    {
+      "file": "CHAPTERS_2_3_REFINED_CN.md",
+      "line": 48,
+      "chapter": "2",
+      "number": 10,
+      "url": "https://www.esa.int/gsp/ACT/doc/ACTAFUTURA/AF02/papers/AF02.2006.7.pdf"
+    },
+    {
+      "file": "CHAPTERS_2_3_REFINED_CN.md",
+      "line": 50,
+      "chapter": "2",
+      "number": 22,
+      "url": "https://doi.org/10.1007/s10569-013-9493-8"
+    },
+    {
+      "file": "CHAPTERS_2_3_REFINED_CN.md",
+      "line": 50,
+      "chapter": "2",
+      "number": 23,
+      "url": "https://doi.org/10.1109/TAES.2014.120269"
+    },
+    {
+      "file": "CHAPTERS_2_3_REFINED_CN.md",
+      "line": 50,
+      "chapter": "2",
+      "number": 1,
+      "url": "https://doi.org/10.1016/j.actaastro.2020.09.010"
+    },
+    {
+      "file": "CHAPTERS_2_3_REFINED_CN.md",
+      "line": 52,
+      "chapter": "2",
+      "number": 24,
+      "url": "https://doi.org/10.1155/2017/1235692"
+    },
+    {
+      "file": "CHAPTERS_2_3_REFINED_CN.md",
+      "line": 52,
+      "chapter": "2",
+      "number": 25,
+      "url": "https://arxiv.org/pdf/1910.00672v4"
+    },
+    {
+      "file": "CHAPTERS_2_3_REFINED_CN.md",
+      "line": 52,
+      "chapter": "2",
+      "number": 17,
+      "url": "https://arxiv.org/pdf/2507.09855v2"
+    },
+    {
+      "file": "CHAPTERS_2_3_REFINED_CN.md",
+      "line": 54,
+      "chapter": "2",
+      "number": 2,
+      "url": "https://doi.org/10.1007/s42405-025-00985-9"
+    },
+    {
+      "file": "CHAPTERS_2_3_REFINED_CN.md",
+      "line": 54,
+      "chapter": "2",
+      "number": 25,
+      "url": "https://arxiv.org/pdf/1910.00672v4"
+    },
+    {
+      "file": "CHAPTERS_2_3_REFINED_CN.md",
+      "line": 56,
+      "chapter": "2",
+      "number": 26,
+      "url": "https://doi.org/10.3390/aerospace9050234"
+    },
+    {
+      "file": "CHAPTERS_2_3_REFINED_CN.md",
+      "line": 58,
+      "chapter": "2",
+      "number": 27,
+      "url": "https://arxiv.org/pdf/2110.07823v1"
+    },
+    {
+      "file": "CHAPTERS_2_3_REFINED_CN.md",
+      "line": 62,
+      "chapter": "2",
+      "number": 4,
+      "url": "https://doi.org/10.1007/s42405-026-01298-1"
+    },
+    {
+      "file": "CHAPTERS_2_3_REFINED_CN.md",
+      "line": 62,
+      "chapter": "2",
+      "number": 11,
+      "url": "https://doi.org/10.1016/j.actaastro.2021.07.002"
+    },
+    {
+      "file": "CHAPTERS_2_3_REFINED_CN.md",
+      "line": 64,
+      "chapter": "2",
+      "number": 1,
+      "url": "https://doi.org/10.1016/j.actaastro.2020.09.010"
+    },
+    {
+      "file": "CHAPTERS_2_3_REFINED_CN.md",
+      "line": 66,
+      "chapter": "2",
+      "number": 26,
+      "url": "https://doi.org/10.3390/aerospace9050234"
+    },
+    {
+      "file": "CHAPTERS_2_3_REFINED_CN.md",
+      "line": 66,
+      "chapter": "2",
+      "number": 28,
+      "url": "https://arxiv.org/pdf/2205.15774v1"
+    },
+    {
+      "file": "CHAPTERS_2_3_REFINED_CN.md",
+      "line": 68,
+      "chapter": "2",
+      "number": 6,
+      "url": "https://arxiv.org/pdf/2507.10394v3"
+    },
+    {
+      "file": "CHAPTERS_2_3_REFINED_CN.md",
+      "line": 78,
+      "chapter": "3",
+      "number": 29,
+      "url": "https://doi.org/10.2514/1.G004443"
+    },
+    {
+      "file": "CHAPTERS_2_3_REFINED_CN.md",
+      "line": 80,
+      "chapter": "3",
+      "number": 29,
+      "url": "https://doi.org/10.2514/1.G004443"
+    },
+    {
+      "file": "CHAPTERS_2_3_REFINED_CN.md",
+      "line": 80,
+      "chapter": "3",
+      "number": 4,
+      "url": "https://doi.org/10.1007/s42405-026-01298-1"
+    },
+    {
+      "file": "CHAPTERS_2_3_REFINED_CN.md",
+      "line": 82,
+      "chapter": "3",
+      "number": 29,
+      "url": "https://doi.org/10.2514/1.G004443"
+    },
+    {
+      "file": "CHAPTERS_2_3_REFINED_CN.md",
+      "line": 82,
+      "chapter": "3",
+      "number": 4,
+      "url": "https://doi.org/10.1007/s42405-026-01298-1"
+    },
+    {
+      "file": "CHAPTERS_2_3_REFINED_CN.md",
+      "line": 86,
+      "chapter": "3",
+      "number": 20,
+      "url": "https://zaguan.unizar.es/record/130403/files/texto_completo.pdf"
+    },
+    {
+      "file": "CHAPTERS_2_3_REFINED_CN.md",
+      "line": 95,
+      "chapter": "3",
+      "number": 30,
+      "url": "https://doi.org/10.2514/1.G000189"
+    },
+    {
+      "file": "CHAPTERS_2_3_REFINED_CN.md",
+      "line": 97,
+      "chapter": "3",
+      "number": 30,
+      "url": "https://doi.org/10.2514/1.G000189"
+    },
+    {
+      "file": "CHAPTERS_2_3_REFINED_CN.md",
+      "line": 97,
+      "chapter": "3",
+      "number": 31,
+      "url": "https://arxiv.org/pdf/1806.01218v1"
+    },
+    {
+      "file": "CHAPTERS_2_3_REFINED_CN.md",
+      "line": 99,
+      "chapter": "3",
+      "number": 3,
+      "url": "https://doi.org/10.1109/JSTARS.2019.2961084"
+    },
+    {
+      "file": "CHAPTERS_2_3_REFINED_CN.md",
+      "line": 101,
+      "chapter": "3",
+      "number": 32,
+      "url": "https://doi.org/10.1007/s42405-025-01071-w"
+    },
+    {
+      "file": "CHAPTERS_2_3_REFINED_CN.md",
+      "line": 101,
+      "chapter": "3",
+      "number": 33,
+      "url": "https://ntrs.nasa.gov/api/citations/20170010724/downloads/20170010724.pdf"
+    },
+    {
+      "file": "CHAPTERS_2_3_REFINED_CN.md",
+      "line": 103,
+      "chapter": "3",
+      "number": 34,
+      "url": "https://doi.org/10.1007/s12567-025-00630-x"
+    },
+    {
+      "file": "CHAPTERS_2_3_REFINED_CN.md",
+      "line": 103,
+      "chapter": "3",
+      "number": 31,
+      "url": "https://arxiv.org/pdf/1806.01218v1"
+    },
+    {
+      "file": "CHAPTERS_2_3_REFINED_CN.md",
+      "line": 107,
+      "chapter": "3",
+      "number": 5,
+      "url": "https://doi.org/10.2514/1.G003739"
+    },
+    {
+      "file": "CHAPTERS_2_3_REFINED_CN.md",
+      "line": 109,
+      "chapter": "3",
+      "number": 35,
+      "url": "https://arxiv.org/pdf/2110.07817v1"
+    },
+    {
+      "file": "CHAPTERS_2_3_REFINED_CN.md",
+      "line": 111,
+      "chapter": "3",
+      "number": 30,
+      "url": "https://doi.org/10.2514/1.G000189"
+    },
+    {
+      "file": "CHAPTERS_2_3_REFINED_CN.md",
+      "line": 113,
+      "chapter": "3",
+      "number": 30,
+      "url": "https://doi.org/10.2514/1.G000189"
+    },
+    {
+      "file": "CHAPTERS_2_3_REFINED_CN.md",
+      "line": 113,
+      "chapter": "3",
+      "number": 5,
+      "url": "https://doi.org/10.2514/1.G003739"
+    },
+    {
+      "file": "CHAPTERS_2_3_REFINED_CN.md",
+      "line": 115,
+      "chapter": "3",
+      "number": 36,
+      "url": "https://doi.org/10.1016/j.actaastro.2014.02.016"
+    },
+    {
+      "file": "CHAPTERS_2_3_REFINED_CN.md",
+      "line": 117,
+      "chapter": "3",
+      "number": 5,
+      "url": "https://doi.org/10.2514/1.G003739"
+    },
+    {
+      "file": "CHAPTERS_2_3_REFINED_CN.md",
+      "line": 119,
+      "chapter": "3",
+      "number": 37,
+      "url": "https://arxiv.org/pdf/2401.11567v3"
+    },
+    {
+      "file": "CHAPTERS_2_3_REFINED_CN.md",
+      "line": 121,
+      "chapter": "3",
+      "number": 5,
+      "url": "https://doi.org/10.2514/1.G003739"
+    },
+    {
+      "file": "CHAPTERS_2_3_REFINED_CN.md",
+      "line": 125,
+      "chapter": "3",
+      "number": 38,
+      "url": "https://doi.org/10.1061/%28ASCE%29AS.1943-5525.0000642"
+    },
+    {
+      "file": "CHAPTERS_2_3_REFINED_CN.md",
+      "line": 127,
+      "chapter": "3",
+      "number": 39,
+      "url": "https://doi.org/10.23919/ACC53348.2022.9867216"
+    },
+    {
+      "file": "CHAPTERS_2_3_REFINED_CN.md",
+      "line": 129,
+      "chapter": "3",
+      "number": 40,
+      "url": "https://doi.org/10.2514/1.G000742"
+    },
+    {
+      "file": "CHAPTERS_2_3_REFINED_CN.md",
+      "line": 129,
+      "chapter": "3",
+      "number": 41,
+      "url": "https://arxiv.org/pdf/2101.07403v5"
+    },
+    {
+      "file": "CHAPTERS_2_3_REFINED_CN.md",
+      "line": 131,
+      "chapter": "3",
+      "number": 42,
+      "url": "https://doi.org/10.1007/s42064-024-0227-3"
+    },
+    {
+      "file": "CHAPTERS_2_3_REFINED_CN.md",
+      "line": 133,
+      "chapter": "3",
+      "number": 43,
+      "url": "https://arxiv.org/pdf/2307.06004v2"
+    },
+    {
+      "file": "CHAPTERS_2_3_REFINED_CN.md",
+      "line": 135,
+      "chapter": "3",
+      "number": 44,
+      "url": "https://doi.org/10.3390/app16083707"
+    },
+    {
+      "file": "CHAPTERS_2_3_REFINED_CN.md",
+      "line": 143,
+      "chapter": "3",
+      "number": 29,
+      "url": "https://doi.org/10.2514/1.G004443"
+    },
+    {
+      "file": "CHAPTERS_2_3_REFINED_CN.md",
+      "line": 143,
+      "chapter": "3",
+      "number": 4,
+      "url": "https://doi.org/10.1007/s42405-026-01298-1"
+    },
+    {
+      "file": "CHAPTERS_2_3_REFINED_CN.md",
+      "line": 144,
+      "chapter": "3",
+      "number": 1,
+      "url": "https://doi.org/10.1016/j.actaastro.2020.09.010"
+    },
+    {
+      "file": "CHAPTERS_2_3_REFINED_CN.md",
+      "line": 144,
+      "chapter": "3",
+      "number": 3,
+      "url": "https://doi.org/10.1109/JSTARS.2019.2961084"
+    },
+    {
+      "file": "CHAPTERS_2_3_REFINED_CN.md",
+      "line": 145,
+      "chapter": "3",
+      "number": 30,
+      "url": "https://doi.org/10.2514/1.G000189"
+    },
+    {
+      "file": "CHAPTERS_2_3_REFINED_CN.md",
+      "line": 145,
+      "chapter": "3",
+      "number": 32,
+      "url": "https://doi.org/10.1007/s42405-025-01071-w"
+    },
+    {
+      "file": "CHAPTERS_2_3_REFINED_CN.md",
+      "line": 146,
+      "chapter": "3",
+      "number": 5,
+      "url": "https://doi.org/10.2514/1.G003739"
+    },
+    {
+      "file": "CHAPTERS_2_3_REFINED_CN.md",
+      "line": 146,
+      "chapter": "3",
+      "number": 37,
+      "url": "https://arxiv.org/pdf/2401.11567v3"
+    },
+    {
+      "file": "CHAPTERS_2_3_REFINED_CN.md",
+      "line": 147,
+      "chapter": "3",
+      "number": 43,
+      "url": "https://arxiv.org/pdf/2307.06004v2"
+    },
+    {
+      "file": "CHAPTER_4_DISCUSSION_CN.md",
+      "line": 7,
+      "chapter": "4",
+      "number": 45,
+      "url": "https://doi.org/10.3390/rs14091966"
+    },
+    {
+      "file": "CHAPTER_4_DISCUSSION_CN.md",
+      "line": 9,
+      "chapter": "4",
+      "number": 46,
+      "url": "https://strathprints.strath.ac.uk/72860/1/McGrath_etal_ASR_2020_Novel_concept_of_satellite_manoeuvre_planning.pdf"
+    },
+    {
+      "file": "CHAPTER_4_DISCUSSION_CN.md",
+      "line": 11,
+      "chapter": "4",
+      "number": 46,
+      "url": "https://strathprints.strath.ac.uk/72860/1/McGrath_etal_ASR_2020_Novel_concept_of_satellite_manoeuvre_planning.pdf"
+    },
+    {
+      "file": "CHAPTER_4_DISCUSSION_CN.md",
+      "line": 13,
+      "chapter": "4",
+      "number": 47,
+      "url": "https://www.comm.utoronto.ca/~liang/publications/TMC_ObsTrans_ASN.pdf"
+    },
+    {
+      "file": "CHAPTER_4_DISCUSSION_CN.md",
+      "line": 15,
+      "chapter": "4",
+      "number": 6,
+      "url": "https://arxiv.org/pdf/2507.10394v3"
+    },
+    {
+      "file": "CHAPTER_4_DISCUSSION_CN.md",
+      "line": 15,
+      "chapter": "4",
+      "number": 7,
+      "url": "https://www.federico.io/pdf/Rossi.Bandyopadhyay.Mote.delaCroix.Rahmani.JGCD22.pdf"
+    },
+    {
+      "file": "CHAPTER_4_DISCUSSION_CN.md",
+      "line": 19,
+      "chapter": "4",
+      "number": 48,
+      "url": "https://publications.spaceops.org/2025/download_by_id.php?id=0105"
+    },
+    {
+      "file": "CHAPTER_4_DISCUSSION_CN.md",
+      "line": 21,
+      "chapter": "4",
+      "number": 49,
+      "url": "https://arxiv.org/pdf/2206.02910v2"
+    },
+    {
+      "file": "CHAPTER_4_DISCUSSION_CN.md",
+      "line": 29,
+      "chapter": "4",
+      "number": 47,
+      "url": "https://www.comm.utoronto.ca/~liang/publications/TMC_ObsTrans_ASN.pdf"
+    },
+    {
+      "file": "CHAPTER_4_DISCUSSION_CN.md",
+      "line": 30,
+      "chapter": "4",
+      "number": 7,
+      "url": "https://www.federico.io/pdf/Rossi.Bandyopadhyay.Mote.delaCroix.Rahmani.JGCD22.pdf"
+    },
+    {
+      "file": "CHAPTER_4_DISCUSSION_CN.md",
+      "line": 31,
+      "chapter": "4",
+      "number": 6,
+      "url": "https://arxiv.org/pdf/2507.10394v3"
+    },
+    {
+      "file": "CHAPTER_4_DISCUSSION_CN.md",
+      "line": 32,
+      "chapter": "4",
+      "number": 37,
+      "url": "https://arxiv.org/pdf/2401.11567v3"
+    },
+    {
+      "file": "CHAPTER_4_DISCUSSION_CN.md",
+      "line": 33,
+      "chapter": "4",
+      "number": 49,
+      "url": "https://arxiv.org/pdf/2206.02910v2"
+    },
+    {
+      "file": "CHAPTER_4_DISCUSSION_CN.md",
+      "line": 34,
+      "chapter": "4",
+      "number": 46,
+      "url": "https://strathprints.strath.ac.uk/72860/1/McGrath_etal_ASR_2020_Novel_concept_of_satellite_manoeuvre_planning.pdf"
+    },
+    {
+      "file": "CHAPTER_4_DISCUSSION_CN.md",
+      "line": 35,
+      "chapter": "4",
+      "number": 50,
+      "url": "https://madsalma.github.io/pubs/2026_jsr_satellite.pdf"
+    },
+    {
+      "file": "CHAPTER_4_DISCUSSION_CN.md",
+      "line": 35,
+      "chapter": "4",
+      "number": 48,
+      "url": "https://publications.spaceops.org/2025/download_by_id.php?id=0105"
+    },
+    {
+      "file": "CHAPTER_4_DISCUSSION_CN.md",
+      "line": 36,
+      "chapter": "4",
+      "number": 51,
+      "url": "https://ai.jpl.nasa.gov/public/documents/papers/parjan-jais2023-mas.pdf"
+    },
+    {
+      "file": "CHAPTER_4_DISCUSSION_CN.md",
+      "line": 36,
+      "chapter": "4",
+      "number": 52,
+      "url": "https://strathprints.strath.ac.uk/86667/7/Lowe_etal_AHN_2023_A_delay_tolerant_network_approach_to_satellite_pickup_and_delivery_scheduling.pdf"
+    },
+    {
+      "file": "CHAPTER_4_DISCUSSION_CN.md",
+      "line": 52,
+      "chapter": "4",
+      "number": 51,
+      "url": "https://ai.jpl.nasa.gov/public/documents/papers/parjan-jais2023-mas.pdf"
+    },
+    {
+      "file": "CHAPTER_4_DISCUSSION_CN.md",
+      "line": 52,
+      "chapter": "4",
+      "number": 8,
+      "url": "https://doi.org/10.1613/jair.1.16997"
+    },
+    {
+      "file": "CHAPTER_4_DISCUSSION_CN.md",
+      "line": 54,
+      "chapter": "4",
+      "number": 53,
+      "url": "https://arxiv.org/pdf/2201.10399v1"
+    },
+    {
+      "file": "CHAPTER_4_DISCUSSION_CN.md",
+      "line": 56,
+      "chapter": "4",
+      "number": 9,
+      "url": "https://arxiv.org/pdf/2302.02885v2"
+    },
+    {
+      "file": "CHAPTER_4_DISCUSSION_CN.md",
+      "line": 58,
+      "chapter": "4",
+      "number": 54,
+      "url": "https://hanspeterschaub.info/Papers/Stephenson2025b.pdf"
+    },
+    {
+      "file": "CHAPTER_4_DISCUSSION_CN.md",
+      "line": 60,
+      "chapter": "4",
+      "number": 50,
+      "url": "https://madsalma.github.io/pubs/2026_jsr_satellite.pdf"
+    },
+    {
+      "file": "CHAPTER_4_DISCUSSION_CN.md",
+      "line": 62,
+      "chapter": "4",
+      "number": 55,
+      "url": "https://arxiv.org/pdf/2607.26570v1"
+    },
+    {
+      "file": "CHAPTER_4_DISCUSSION_CN.md",
+      "line": 66,
+      "chapter": "4",
+      "number": 46,
+      "url": "https://strathprints.strath.ac.uk/72860/1/McGrath_etal_ASR_2020_Novel_concept_of_satellite_manoeuvre_planning.pdf"
+    },
+    {
+      "file": "CHAPTER_4_DISCUSSION_CN.md",
+      "line": 66,
+      "chapter": "4",
+      "number": 56,
+      "url": "https://doi.org/10.1155/2013/304047"
+    },
+    {
+      "file": "CHAPTER_4_DISCUSSION_CN.md",
+      "line": 66,
+      "chapter": "4",
+      "number": 57,
+      "url": "https://arxiv.org/pdf/2103.08962v1"
+    },
+    {
+      "file": "CHAPTER_4_DISCUSSION_CN.md",
+      "line": 68,
+      "chapter": "4",
+      "number": 37,
+      "url": "https://arxiv.org/pdf/2401.11567v3"
+    },
+    {
+      "file": "CHAPTER_4_DISCUSSION_CN.md",
+      "line": 68,
+      "chapter": "4",
+      "number": 6,
+      "url": "https://arxiv.org/pdf/2507.10394v3"
+    },
+    {
+      "file": "CHAPTER_4_DISCUSSION_CN.md",
+      "line": 70,
+      "chapter": "4",
+      "number": 58,
+      "url": "https://arxiv.org/pdf/2608.09738v1"
+    },
+    {
+      "file": "CHAPTER_4_DISCUSSION_CN.md",
+      "line": 72,
+      "chapter": "4",
+      "number": 59,
+      "url": "https://orbilu.uni.lu/bitstream/10993/64742/1/1-s2.0-S0094576525001432-main.pdf"
+    },
+    {
+      "file": "CHAPTER_4_DISCUSSION_CN.md",
+      "line": 74,
+      "chapter": "4",
+      "number": 60,
+      "url": "https://eurognc.ceas.org/archive/EuroGNC2026/pdf/CEAS-GNC-2026-069.pdf"
+    },
+    {
+      "file": "CHAPTER_4_DISCUSSION_CN.md",
+      "line": 76,
+      "chapter": "4",
+      "number": 61,
+      "url": "https://yanjiesong.github.io/files/RLGA2023.pdf"
+    },
+    {
+      "file": "CHAPTER_4_DISCUSSION_CN.md",
+      "line": 76,
+      "chapter": "4",
+      "number": 62,
+      "url": "https://hanspeterschaub.info/PapersPrivate/Herrmann2024.pdf"
+    },
+    {
+      "file": "CHAPTER_4_DISCUSSION_CN.md",
+      "line": 78,
+      "chapter": "4",
+      "number": 63,
+      "url": "https://www.sciopen.com/local/article_pdf/10.34133/space.0047.pdf"
+    },
+    {
+      "file": "CHAPTER_4_DISCUSSION_CN.md",
+      "line": 78,
+      "chapter": "4",
+      "number": 54,
+      "url": "https://hanspeterschaub.info/Papers/Stephenson2025b.pdf"
+    },
+    {
+      "file": "CHAPTER_4_DISCUSSION_CN.md",
+      "line": 80,
+      "chapter": "4",
+      "number": 63,
+      "url": "https://www.sciopen.com/local/article_pdf/10.34133/space.0047.pdf"
+    },
+    {
+      "file": "CHAPTER_4_DISCUSSION_CN.md",
+      "line": 80,
+      "chapter": "4",
+      "number": 64,
+      "url": "https://slab.stanford.edu/sites/g/files/sbiybj25201/files/media/file/guffantigammellidamicopavone_ieeeaero24_final.pdf"
+    },
+    {
+      "file": "CHAPTER_4_DISCUSSION_CN.md",
+      "line": 82,
+      "chapter": "4",
+      "number": 65,
+      "url": "https://arxiv.org/pdf/2410.23916v1"
+    },
+    {
+      "file": "CHAPTER_4_DISCUSSION_CN.md",
+      "line": 82,
+      "chapter": "4",
+      "number": 66,
+      "url": "https://doi.org/10.3390/aerospace12090837"
+    },
+    {
+      "file": "CHAPTER_4_DISCUSSION_CN.md",
+      "line": 84,
+      "chapter": "4",
+      "number": 67,
+      "url": "https://arxiv.org/pdf/2410.05585v2"
+    },
+    {
+      "file": "CHAPTER_4_DISCUSSION_CN.md",
+      "line": 88,
+      "chapter": "4",
+      "number": 48,
+      "url": "https://publications.spaceops.org/2025/download_by_id.php?id=0105"
+    },
+    {
+      "file": "CHAPTER_4_DISCUSSION_CN.md",
+      "line": 90,
+      "chapter": "4",
+      "number": 68,
+      "url": "https://doi.org/10.1007/s12567-026-00702-6"
+    },
+    {
+      "file": "CHAPTER_4_DISCUSSION_CN.md",
+      "line": 92,
+      "chapter": "4",
+      "number": 69,
+      "url": "https://ntrs.nasa.gov/citations/20250007355"
+    },
+    {
+      "file": "CHAPTER_4_DISCUSSION_CN.md",
+      "line": 94,
+      "chapter": "4",
+      "number": 70,
+      "url": "https://arxiv.org/pdf/2202.03998v1"
+    },
+    {
+      "file": "CHAPTER_4_DISCUSSION_CN.md",
+      "line": 96,
+      "chapter": "4",
+      "number": 71,
+      "url": "https://elib.dlr.de/217352/1/manuscript_accepted.pdf"
+    },
+    {
+      "file": "CHAPTER_4_DISCUSSION_CN.md",
+      "line": 98,
+      "chapter": "4",
+      "number": 72,
+      "url": "https://people.csail.mit.edu/williams/Web%20site/papers/aij98.pdf"
+    },
+    {
+      "file": "CHAPTER_4_DISCUSSION_CN.md",
+      "line": 98,
+      "chapter": "4",
+      "number": 73,
+      "url": "https://ntrs.nasa.gov/citations/20060050174"
+    },
+    {
+      "file": "CHAPTER_4_DISCUSSION_CN.md",
+      "line": 98,
+      "chapter": "4",
+      "number": 74,
+      "url": "https://arxiv.org/pdf/2309.16698v1"
+    },
+    {
+      "file": "CHAPTER_4_DISCUSSION_CN.md",
+      "line": 100,
+      "chapter": "4",
+      "number": 52,
+      "url": "https://strathprints.strath.ac.uk/86667/7/Lowe_etal_AHN_2023_A_delay_tolerant_network_approach_to_satellite_pickup_and_delivery_scheduling.pdf"
+    },
+    {
+      "file": "CHAPTER_4_DISCUSSION_CN.md",
+      "line": 102,
+      "chapter": "4",
+      "number": 68,
+      "url": "https://doi.org/10.1007/s12567-026-00702-6"
+    },
+    {
+      "file": "CHAPTER_4_DISCUSSION_CN.md",
+      "line": 102,
+      "chapter": "4",
+      "number": 69,
+      "url": "https://ntrs.nasa.gov/citations/20250007355"
+    },
+    {
+      "file": "CHAPTER_4_DISCUSSION_CN.md",
+      "line": 104,
+      "chapter": "4",
+      "number": 57,
+      "url": "https://arxiv.org/pdf/2103.08962v1"
+    },
+    {
+      "file": "CHAPTER_4_DISCUSSION_CN.md",
+      "line": 110,
+      "chapter": "4",
+      "number": 26,
+      "url": "https://doi.org/10.3390/aerospace9050234"
+    },
+    {
+      "file": "CHAPTER_4_DISCUSSION_CN.md",
+      "line": 110,
+      "chapter": "4",
+      "number": 27,
+      "url": "https://arxiv.org/pdf/2110.07823v1"
+    },
+    {
+      "file": "CHAPTER_4_DISCUSSION_CN.md",
+      "line": 116,
+      "chapter": "4",
+      "number": 26,
+      "url": "https://doi.org/10.3390/aerospace9050234"
+    },
+    {
+      "file": "CHAPTER_4_DISCUSSION_CN.md",
+      "line": 117,
+      "chapter": "4",
+      "number": 27,
+      "url": "https://arxiv.org/pdf/2110.07823v1"
+    },
+    {
+      "file": "CHAPTER_4_DISCUSSION_CN.md",
+      "line": 118,
+      "chapter": "4",
+      "number": 49,
+      "url": "https://arxiv.org/pdf/2206.02910v2"
+    },
+    {
+      "file": "CHAPTER_4_DISCUSSION_CN.md",
+      "line": 118,
+      "chapter": "4",
+      "number": 37,
+      "url": "https://arxiv.org/pdf/2401.11567v3"
+    },
+    {
+      "file": "CHAPTER_4_DISCUSSION_CN.md",
+      "line": 119,
+      "chapter": "4",
+      "number": 51,
+      "url": "https://ai.jpl.nasa.gov/public/documents/papers/parjan-jais2023-mas.pdf"
+    },
+    {
+      "file": "CHAPTER_4_DISCUSSION_CN.md",
+      "line": 120,
+      "chapter": "4",
+      "number": 7,
+      "url": "https://www.federico.io/pdf/Rossi.Bandyopadhyay.Mote.delaCroix.Rahmani.JGCD22.pdf"
+    },
+    {
+      "file": "CHAPTER_4_DISCUSSION_CN.md",
+      "line": 121,
+      "chapter": "4",
+      "number": 50,
+      "url": "https://madsalma.github.io/pubs/2026_jsr_satellite.pdf"
+    },
+    {
+      "file": "CHAPTER_4_DISCUSSION_CN.md",
+      "line": 121,
+      "chapter": "4",
+      "number": 9,
+      "url": "https://arxiv.org/pdf/2302.02885v2"
+    },
+    {
+      "file": "CHAPTER_4_DISCUSSION_CN.md",
+      "line": 122,
+      "chapter": "4",
+      "number": 31,
+      "url": "https://arxiv.org/pdf/1806.01218v1"
+    },
+    {
+      "file": "CHAPTER_4_DISCUSSION_CN.md",
+      "line": 123,
+      "chapter": "4",
+      "number": 68,
+      "url": "https://doi.org/10.1007/s12567-026-00702-6"
+    },
+    {
+      "file": "CHAPTER_4_DISCUSSION_CN.md",
+      "line": 123,
+      "chapter": "4",
+      "number": 69,
+      "url": "https://ntrs.nasa.gov/citations/20250007355"
+    },
+    {
+      "file": "CHAPTER_4_DISCUSSION_CN.md",
+      "line": 124,
+      "chapter": "4",
+      "number": 74,
+      "url": "https://arxiv.org/pdf/2309.16698v1"
+    },
+    {
+      "file": "CHAPTER_4_DISCUSSION_CN.md",
+      "line": 130,
+      "chapter": "4",
+      "number": 8,
+      "url": "https://doi.org/10.1613/jair.1.16997"
+    },
+    {
+      "file": "CHAPTER_4_DISCUSSION_CN.md",
+      "line": 130,
+      "chapter": "4",
+      "number": 9,
+      "url": "https://arxiv.org/pdf/2302.02885v2"
+    },
+    {
+      "file": "CHAPTER_4_DISCUSSION_CN.md",
+      "line": 130,
+      "chapter": "4",
+      "number": 52,
+      "url": "https://strathprints.strath.ac.uk/86667/7/Lowe_etal_AHN_2023_A_delay_tolerant_network_approach_to_satellite_pickup_and_delivery_scheduling.pdf"
+    },
+    {
+      "file": "CHAPTER_4_DISCUSSION_CN.md",
+      "line": 132,
+      "chapter": "4",
+      "number": 53,
+      "url": "https://arxiv.org/pdf/2201.10399v1"
+    },
+    {
+      "file": "CHAPTER_4_DISCUSSION_CN.md",
+      "line": 132,
+      "chapter": "4",
+      "number": 55,
+      "url": "https://arxiv.org/pdf/2607.26570v1"
+    },
+    {
+      "file": "CHAPTER_4_DISCUSSION_CN.md",
+      "line": 132,
+      "chapter": "4",
+      "number": 54,
+      "url": "https://hanspeterschaub.info/Papers/Stephenson2025b.pdf"
+    },
+    {
+      "file": "CHAPTER_5_REFRAMED_CN.md",
+      "line": 5,
+      "chapter": "5",
+      "number": 2,
+      "url": "https://doi.org/10.1007/s42405-025-00985-9"
+    },
+    {
+      "file": "CHAPTER_5_REFRAMED_CN.md",
+      "line": 5,
+      "chapter": "5",
+      "number": 5,
+      "url": "https://doi.org/10.2514/1.G003739"
+    },
+    {
+      "file": "CHAPTER_5_REFRAMED_CN.md",
+      "line": 7,
+      "chapter": "5",
+      "number": 29,
+      "url": "https://doi.org/10.2514/1.G004443"
+    },
+    {
+      "file": "CHAPTER_5_REFRAMED_CN.md",
+      "line": 7,
+      "chapter": "5",
+      "number": 32,
+      "url": "https://doi.org/10.1007/s42405-025-01071-w"
+    },
+    {
+      "file": "CHAPTER_5_REFRAMED_CN.md",
+      "line": 7,
+      "chapter": "5",
+      "number": 33,
+      "url": "https://ntrs.nasa.gov/api/citations/20170010724/downloads/20170010724.pdf"
+    },
+    {
+      "file": "CHAPTER_5_REFRAMED_CN.md",
+      "line": 7,
+      "chapter": "5",
+      "number": 31,
+      "url": "https://arxiv.org/pdf/1806.01218v1"
+    },
+    {
+      "file": "CHAPTER_5_REFRAMED_CN.md",
+      "line": 9,
+      "chapter": "5",
+      "number": 47,
+      "url": "https://www.comm.utoronto.ca/~liang/publications/TMC_ObsTrans_ASN.pdf"
+    },
+    {
+      "file": "CHAPTER_5_REFRAMED_CN.md",
+      "line": 9,
+      "chapter": "5",
+      "number": 7,
+      "url": "https://www.federico.io/pdf/Rossi.Bandyopadhyay.Mote.delaCroix.Rahmani.JGCD22.pdf"
+    },
+    {
+      "file": "CHAPTER_5_REFRAMED_CN.md",
+      "line": 11,
+      "chapter": "5",
+      "number": 43,
+      "url": "https://arxiv.org/pdf/2307.06004v2"
+    },
+    {
+      "file": "CHAPTER_5_REFRAMED_CN.md",
+      "line": 11,
+      "chapter": "5",
+      "number": 70,
+      "url": "https://arxiv.org/pdf/2202.03998v1"
+    },
+    {
+      "file": "CHAPTER_5_REFRAMED_CN.md",
+      "line": 11,
+      "chapter": "5",
+      "number": 71,
+      "url": "https://elib.dlr.de/217352/1/manuscript_accepted.pdf"
+    },
+    {
+      "file": "CHAPTER_5_REFRAMED_CN.md",
+      "line": 13,
+      "chapter": "5",
+      "number": 9,
+      "url": "https://arxiv.org/pdf/2302.02885v2"
+    },
+    {
+      "file": "CHAPTER_5_REFRAMED_CN.md",
+      "line": 13,
+      "chapter": "5",
+      "number": 26,
+      "url": "https://doi.org/10.3390/aerospace9050234"
+    },
+    {
+      "file": "CHAPTER_5_REFRAMED_CN.md",
+      "line": 13,
+      "chapter": "5",
+      "number": 27,
+      "url": "https://arxiv.org/pdf/2110.07823v1"
+    },
+    {
+      "file": "CHAPTER_5_REFRAMED_CN.md",
+      "line": 15,
+      "chapter": "5",
+      "number": 37,
+      "url": "https://arxiv.org/pdf/2401.11567v3"
+    },
+    {
+      "file": "CHAPTER_5_REFRAMED_CN.md",
+      "line": 15,
+      "chapter": "5",
+      "number": 49,
+      "url": "https://arxiv.org/pdf/2206.02910v2"
+    },
+    {
+      "file": "CHAPTER_5_REFRAMED_CN.md",
+      "line": 15,
+      "chapter": "5",
+      "number": 64,
+      "url": "https://slab.stanford.edu/sites/g/files/sbiybj25201/files/media/file/guffantigammellidamicopavone_ieeeaero24_final.pdf"
+    }
+  ]
+}
