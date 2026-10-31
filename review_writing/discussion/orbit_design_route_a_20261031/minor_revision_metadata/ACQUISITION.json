@@ -1,0 +1,36 @@
+[
+  {
+    "id": "WALKER_1970_DTIC",
+    "url": "https://apps.dtic.mil/sti/pdfs/AD0722776.pdf",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "WALKER_1970_IA",
+    "url": "https://archive.org/download/DTIC_AD0722776/DTIC_AD0722776.pdf",
+    "error": "HTTP Error 503: Service Unavailable"
+  },
+  {
+    "id": "WALKER_1984_ADS",
+    "url": "https://articles.adsabs.harvard.edu/pdf/1984JBIS...37..559W",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "LUDERS_1961_ADS",
+    "url": "https://articles.adsabs.harvard.edu/pdf/1961ARSJ...31..179L",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "LUDERS_1961_AIAA",
+    "url": "https://arc.aiaa.org/doi/pdf/10.2514/8.5422",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "LUDERS_CROSSREF",
+    "url": "https://api.crossref.org/works/10.2514/8.5422",
+    "resolved_url": "https://api.crossref.org/works/10.2514/8.5422",
+    "bytes": 2345,
+    "path": "D:\\SKT727\\outputs\\constellation_route_a_minor_20261031\\LUDERS_CROSSREF.json",
+    "sha256": "4e3123c59ed45d0ad985ccc3ffe6a8804ca0f4f8932dd20a4e3d5803d085ae6f",
+    "pdf": false
+  }
+]

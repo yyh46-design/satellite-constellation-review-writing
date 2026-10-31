@@ -1,5 +1,5 @@
 {
-  "count": 74,
+  "count": 76,
   "human_verified": false,
   "submission_ready": false,
   "references": [
@@ -235,24 +235,59 @@
       "actual_source_url": "https://arxiv.org/pdf/2302.02885v2"
     },
     {
+      "url": "https://apps.dtic.mil/sti/citations/AD0722776",
+      "reference": "Walker JG. Circular Orbit Patterns Providing Continuous Whole Earth Coverage. Farnborough: Royal Aircraft Establishment, 1970. Technical Report 70211.",
+      "actual_version": "Report identity and date checked in National Aerospace Library and Met Office catalogues; original full text not obtained",
+      "metadata_origin": [
+        "https://raes.soutron.net/Portal/Default/en-GB/RecordView/Index/176168",
+        "https://library.metoffice.gov.uk/Portal/Default/en-GB/RecordView/Index/180138"
+      ],
+      "version_citation": "",
+      "human_verified": false,
+      "reading_status_this_revision": "BIBLIOGRAPHIC_ORIGIN_ONLY_FULL_TEXT_UNAVAILABLE",
+      "source_role": "historical_origin_citation",
+      "technical_explanation_source": "Huang et al. 2021, sections 1 and 2; existing body-read source",
+      "new_this_minor_revision": true,
+      "evidence_record": "MINOR_REVISION_EVIDENCE_CN.md",
+      "actual_source_url": "https://apps.dtic.mil/sti/citations/AD0722776",
+      "number": 10
+    },
+    {
+      "url": "https://doi.org/10.2514/8.5422",
+      "reference": "Lüders RD. Satellite Networks for Continuous Zonal Coverage. ARS Journal, 1961, 31(2): 179–184. DOI: 10.2514/8.5422.",
+      "actual_version": "Publisher-deposited Crossref bibliographic metadata; original full text not obtained",
+      "metadata_origin": "https://api.crossref.org/works/10.2514/8.5422",
+      "version_citation": "",
+      "human_verified": false,
+      "reading_status_this_revision": "BIBLIOGRAPHIC_ORIGIN_ONLY_FULL_TEXT_UNAVAILABLE",
+      "source_role": "historical_origin_citation",
+      "technical_explanation_source": "Huang et al. 2021, sections 1 and 2; existing body-read source",
+      "new_this_minor_revision": true,
+      "evidence_record": "MINOR_REVISION_EVIDENCE_CN.md",
+      "actual_source_url": "https://doi.org/10.2514/8.5422",
+      "number": 11
+    },
+    {
       "url": "https://www.esa.int/gsp/ACT/doc/ACTAFUTURA/AF02/papers/AF02.2006.7.pdf",
       "reference": "Mortari D. Flower Constellations as Rigid Objects in Space. Acta Futura, 2006, 2: 7–22.",
       "actual_version": "ESA-hosted Acta Futura issue 2, 2006, 16-page publisher PDF",
       "metadata_origin": "PDF first page and author publication page; targeted body reading this revision",
       "new_this_revision": true,
-      "number": 10,
+      "number": 12,
       "human_verified": false,
       "reading_status_this_revision": "TARGETED_BODY_READING",
       "version_citation": "",
       "actual_source_url": "https://www.esa.int/gsp/ACT/doc/ACTAFUTURA/AF02/papers/AF02.2006.7.pdf",
-      "reading_record": "TARGETED_READING_CN.md#mortari2006"
+      "reading_record": "TARGETED_READING_CN.md#mortari2006",
+      "source_role": "theoretical_exposition_with_research_progress_summary",
+      "role_recheck_record": "MINOR_REVISION_EVIDENCE_CN.md"
     },
     {
       "url": "https://doi.org/10.1016/j.actaastro.2021.07.002",
       "reference": "Huang S, Colombo C, Bernelli-Zazzera F. Multi-criteria design of continuous global coverage Walker and Street-of-Coverage constellations through property assessment. Acta Astronautica, 2021, 188: 151-170. DOI: 10.1016/j.actaastro.2021.07.002.",
       "actual_version": "See inherited reading record; publisher metadata does not close version parity",
       "metadata_origin": "saved Crossref metadata and existing body-reading notes",
-      "number": 11,
+      "number": 13,
       "human_verified": false,
       "reading_status_this_revision": "INHERITED_WITH_SELECTED_RECHECKS",
       "version_citation": "",
@@ -264,7 +299,7 @@
       "reference": "Sullivan J, Grimberg S, D’Amico S. Comprehensive Survey and Assessment of Spacecraft Relative Motion Dynamics Models. Journal of Guidance, Control, and Dynamics, 2017, 40(8): 1837-1859. DOI: 10.2514/1.G002309.",
       "actual_version": "See inherited reading record; publisher metadata does not close version parity",
       "metadata_origin": "saved Crossref metadata and existing body-reading notes",
-      "number": 12,
+      "number": 14,
       "human_verified": false,
       "reading_status_this_revision": "INHERITED_WITH_SELECTED_RECHECKS",
       "version_citation": "",
@@ -289,7 +324,7 @@
         "human_verified": "false",
         "verification_scope_this_revision": "V359 expression editing and inherited-record consistency only; no new full-text reading, experiment, formal-version pairing or human final verification."
       },
-      "number": 13,
+      "number": 15,
       "human_verified": false,
       "reading_status_this_revision": "INHERITED_WITH_SELECTED_RECHECKS",
       "version_citation": "作者稿：arXiv:2503.22555v1.",
@@ -313,7 +348,7 @@
         "human_verified": "false",
         "verification_scope_this_revision": "V359 expression editing and inherited-record consistency only; no new full-text reading, experiment, formal-version pairing or human final verification."
       },
-      "number": 14,
+      "number": 16,
       "human_verified": false,
       "reading_status_this_revision": "INHERITED_WITH_SELECTED_RECHECKS",
       "version_citation": "",
@@ -336,7 +371,7 @@
         "evidence_origin": "既有登记与阅读记录沿用，未重复计数",
         "human_verified": "False"
       },
-      "number": 15,
+      "number": 17,
       "human_verified": false,
       "reading_status_this_revision": "INHERITED_WITH_SELECTED_RECHECKS",
       "version_citation": "",
@@ -360,7 +395,7 @@
         "human_verified": "false",
         "verification_scope_this_revision": "V359 expression editing and inherited-record consistency only; no new full-text reading, experiment, formal-version pairing or human final verification."
       },
-      "number": 16,
+      "number": 18,
       "human_verified": false,
       "reading_status_this_revision": "INHERITED_WITH_SELECTED_RECHECKS",
       "version_citation": "",
@@ -383,7 +418,7 @@
         "evidence_origin": "本轮原文正文阅读",
         "human_verified": "False"
       },
-      "number": 17,
+      "number": 19,
       "human_verified": false,
       "reading_status_this_revision": "INHERITED_WITH_SELECTED_RECHECKS",
       "version_citation": "作者稿：arXiv:2507.09855v2.",
@@ -394,7 +429,7 @@
       "reference": "Arnas D, Casanova D. Nominal definition of satellite constellations under the Earth gravitational potential. Celestial Mechanics and Dynamical Astronomy, 2020, 132(3). DOI: 10.1007/s10569-020-09958-4.",
       "actual_version": "See inherited reading record; publisher metadata does not close version parity",
       "metadata_origin": "saved Crossref metadata and existing body-reading notes",
-      "number": 18,
+      "number": 20,
       "human_verified": false,
       "reading_status_this_revision": "INHERITED_WITH_SELECTED_RECHECKS",
       "version_citation": "",
@@ -406,7 +441,7 @@
       "reference": "Schaub H, Alfriend KT. J2 Invariant Relative Orbits for Spacecraft Formations. Celestial Mechanics and Dynamical Astronomy, 2001, 79(2): 77-95. DOI: 10.1023/A:1011161811472.",
       "actual_version": "author simulated reprint; 2001 journal metadata; 2004 typesetting footer",
       "metadata_origin": "saved Crossref metadata and existing body-reading notes",
-      "number": 19,
+      "number": 21,
       "human_verified": false,
       "reading_status_this_revision": "INHERITED_WITH_SELECTED_RECHECKS",
       "version_citation": "作者稿。",
@@ -433,7 +468,7 @@
       "reference": "Arnas D, Casanova D, Tresaco E. Relative and Absolute Station-Keeping for Two-Dimensional–Lattice Flower Constellations. Journal of Guidance, Control, and Dynamics, 2016, 39(11): 2602-2604. DOI: 10.2514/1.G000358.",
       "actual_version": "19-page author manuscript from Zaragoza repository; publisher version not page-paired",
       "metadata_origin": "saved Crossref metadata and existing body-reading notes",
-      "number": 20,
+      "number": 22,
       "human_verified": false,
       "reading_status_this_revision": "INHERITED_WITH_SELECTED_RECHECKS",
       "version_citation": "作者稿，19页。",
@@ -457,7 +492,7 @@
         "human_verified": "false",
         "verification_scope_this_revision": "V359 expression editing and inherited-record consistency only; no new full-text reading, experiment, formal-version pairing or human final verification."
       },
-      "number": 21,
+      "number": 23,
       "human_verified": false,
       "reading_status_this_revision": "INHERITED_WITH_SELECTED_RECHECKS",
       "version_citation": "",
@@ -468,7 +503,7 @@
       "reference": "Avendaño ME, Davis JJ, Mortari D. The 2-D lattice theory of Flower Constellations. Celestial Mechanics and Dynamical Astronomy, 2013, 116(4): 325-337. DOI: 10.1007/s10569-013-9493-8.",
       "actual_version": "Author-shared online full text; no local PDF in inherited reading",
       "metadata_origin": "saved Crossref metadata and existing body-reading notes",
-      "number": 22,
+      "number": 24,
       "human_verified": false,
       "reading_status_this_revision": "INHERITED_WITH_SELECTED_RECHECKS",
       "version_citation": "",
@@ -479,7 +514,7 @@
       "reference": "Casanova D, Avendano ME, Mortari D. Design of flower constellations using necklaces. IEEE Transactions on Aerospace and Electronic Systems, 2014, 50(2): 1347-1358. DOI: 10.1109/TAES.2014.120269.",
       "actual_version": "publisher typeset copy, 2014",
       "metadata_origin": "saved Crossref metadata and existing body-reading notes",
-      "number": 23,
+      "number": 25,
       "human_verified": false,
       "reading_status_this_revision": "INHERITED_WITH_SELECTED_RECHECKS",
       "version_citation": "",
@@ -504,7 +539,7 @@
       "reference": "Savitri T, Kim Y, Jo S, Bang H. Satellite Constellation Orbit Design Optimization with Combined Genetic Algorithm and Semianalytical Approach. International Journal of Aerospace Engineering, 2017, 2017: 1235692. DOI: 10.1155/2017/1235692.",
       "actual_version": "Publisher full HTML; formula-image and some figure details remain unresolved in inherited note",
       "metadata_origin": "saved Crossref metadata and existing body-reading notes",
-      "number": 24,
+      "number": 26,
       "human_verified": false,
       "reading_status_this_revision": "INHERITED_WITH_SELECTED_RECHECKS",
       "version_citation": "",
@@ -527,7 +562,7 @@
         "evidence_origin": "既有登记与阅读记录沿用，未重复计数",
         "human_verified": "False"
       },
-      "number": 25,
+      "number": 27,
       "human_verified": false,
       "reading_status_this_revision": "INHERITED_WITH_SELECTED_RECHECKS",
       "version_citation": "作者稿：arXiv:1910.00672v4.",
@@ -538,7 +573,7 @@
       "reference": "Jia L, Zhang Y, Yu J, Wang X. Design of Mega-Constellations for Global Uniform Coverage with Inter-Satellite Links. Aerospace, 2022, 9(5): 234. DOI: 10.3390/aerospace9050234.",
       "actual_version": "publisher PDF 2022; duplicate hidden figure text in extraction",
       "metadata_origin": "saved Crossref metadata and existing body-reading notes",
-      "number": 26,
+      "number": 28,
       "human_verified": false,
       "reading_status_this_revision": "INHERITED_WITH_SELECTED_RECHECKS",
       "version_citation": "",
@@ -566,7 +601,7 @@
       "actual_version": "arXiv:2110.07823v1, 28 pages",
       "metadata_origin": "actual PDF title page; targeted body reading this revision",
       "new_this_revision": true,
-      "number": 27,
+      "number": 29,
       "human_verified": false,
       "reading_status_this_revision": "TARGETED_BODY_READING",
       "version_citation": "",
@@ -578,7 +613,7 @@
       "reference": "Polli EM, Gonzalo JL, Colombo C. Analytical model for collision probability assessments with large satellite constellations. arXiv:2205.15774v1, 2022.",
       "actual_version": "arXiv:2205.15774v1, 2022-05-31; related journal version 2023, parity remains open",
       "metadata_origin": "B12/READING_L038_CN.md",
-      "number": 28,
+      "number": 30,
       "human_verified": false,
       "reading_status_this_revision": "INHERITED_WITH_SELECTED_RECHECKS",
       "version_citation": "",
@@ -601,7 +636,7 @@
         "evidence_origin": "本轮原文正文阅读",
         "human_verified": "False"
       },
-      "number": 29,
+      "number": 31,
       "human_verified": false,
       "reading_status_this_revision": "INHERITED_WITH_SELECTED_RECHECKS",
       "version_citation": "",
@@ -624,7 +659,7 @@
         "evidence_origin": "本轮原文正文阅读",
         "human_verified": "False"
       },
-      "number": 30,
+      "number": 32,
       "human_verified": false,
       "reading_status_this_revision": "INHERITED_WITH_SELECTED_RECHECKS",
       "version_citation": "",
@@ -647,7 +682,7 @@
         "evidence_origin": "本轮原文正文阅读",
         "human_verified": "False"
       },
-      "number": 31,
+      "number": 33,
       "human_verified": false,
       "reading_status_this_revision": "INHERITED_WITH_SELECTED_RECHECKS",
       "version_citation": "作者稿：arXiv:1806.01218v1.",
@@ -670,7 +705,7 @@
         "evidence_origin": "既有登记与阅读记录沿用，未重复计数",
         "human_verified": "False"
       },
-      "number": 32,
+      "number": 34,
       "human_verified": false,
       "reading_status_this_revision": "INHERITED_WITH_SELECTED_RECHECKS",
       "version_citation": "",
@@ -693,7 +728,7 @@
         "evidence_origin": "本轮原文正文阅读",
         "human_verified": "False"
       },
-      "number": 33,
+      "number": 35,
       "human_verified": false,
       "reading_status_this_revision": "INHERITED_WITH_SELECTED_RECHECKS",
       "version_citation": "",
@@ -716,7 +751,7 @@
         "evidence_origin": "既有登记与阅读记录沿用，未重复计数",
         "human_verified": "False"
       },
-      "number": 34,
+      "number": 36,
       "human_verified": false,
       "reading_status_this_revision": "INHERITED_WITH_SELECTED_RECHECKS",
       "version_citation": "",
@@ -739,7 +774,7 @@
         "evidence_origin": "既有登记与阅读记录沿用，未重复计数",
         "human_verified": "False"
       },
-      "number": 35,
+      "number": 37,
       "human_verified": false,
       "reading_status_this_revision": "INHERITED_WITH_SELECTED_RECHECKS",
       "version_citation": "",
@@ -762,7 +797,7 @@
         "evidence_origin": "既有登记与阅读记录沿用，未重复计数",
         "human_verified": "False"
       },
-      "number": 36,
+      "number": 38,
       "human_verified": false,
       "reading_status_this_revision": "INHERITED_WITH_SELECTED_RECHECKS",
       "version_citation": "",
@@ -785,7 +820,7 @@
         "evidence_origin": "既有登记与阅读记录沿用，未重复计数",
         "human_verified": "False"
       },
-      "number": 37,
+      "number": 39,
       "human_verified": false,
       "reading_status_this_revision": "INHERITED_WITH_SELECTED_RECHECKS",
       "version_citation": "作者稿：arXiv:2401.11567v3.",
@@ -809,7 +844,7 @@
         "human_verified": "false",
         "verification_scope_this_revision": "V359 expression editing and inherited-record consistency only; no new full-text reading, experiment, formal-version pairing or human final verification."
       },
-      "number": 38,
+      "number": 40,
       "human_verified": false,
       "reading_status_this_revision": "INHERITED_WITH_SELECTED_RECHECKS",
       "version_citation": "",
@@ -833,7 +868,7 @@
         "human_verified": "false",
         "verification_scope_this_revision": "V359 expression editing and inherited-record consistency only; no new full-text reading, experiment, formal-version pairing or human final verification."
       },
-      "number": 39,
+      "number": 41,
       "human_verified": false,
       "reading_status_this_revision": "INHERITED_WITH_SELECTED_RECHECKS",
       "version_citation": "",
@@ -857,7 +892,7 @@
         "human_verified": "false",
         "verification_scope_this_revision": "V359 expression editing and inherited-record consistency only; no new full-text reading, experiment, formal-version pairing or human final verification."
       },
-      "number": 40,
+      "number": 42,
       "human_verified": false,
       "reading_status_this_revision": "INHERITED_WITH_SELECTED_RECHECKS",
       "version_citation": "",
@@ -881,7 +916,7 @@
         "human_verified": "false",
         "verification_scope_this_revision": "V359 expression editing and inherited-record consistency only; no new full-text reading, experiment, formal-version pairing or human final verification."
       },
-      "number": 41,
+      "number": 43,
       "human_verified": false,
       "reading_status_this_revision": "INHERITED_WITH_SELECTED_RECHECKS",
       "version_citation": "",
@@ -905,7 +940,7 @@
         "human_verified": "false",
         "verification_scope_this_revision": "V359 expression editing and inherited-record consistency only; no new full-text reading, experiment, formal-version pairing or human final verification."
       },
-      "number": 42,
+      "number": 44,
       "human_verified": false,
       "reading_status_this_revision": "INHERITED_WITH_SELECTED_RECHECKS",
       "version_citation": "",
@@ -929,7 +964,7 @@
         "human_verified": "false",
         "verification_scope_this_revision": "V359 expression editing and inherited-record consistency only; no new full-text reading, experiment, formal-version pairing or human final verification."
       },
-      "number": 43,
+      "number": 45,
       "human_verified": false,
       "reading_status_this_revision": "INHERITED_WITH_SELECTED_RECHECKS",
       "version_citation": "",
@@ -952,7 +987,7 @@
         "evidence_origin": "既有登记与阅读记录沿用，未重复计数",
         "human_verified": "False"
       },
-      "number": 44,
+      "number": 46,
       "human_verified": false,
       "reading_status_this_revision": "INHERITED_WITH_SELECTED_RECHECKS",
       "version_citation": "",
@@ -992,7 +1027,7 @@
         "note": "reading_notes/C4N01_LUO_CN.md",
         "reading_batch": "INITIAL_01"
       },
-      "number": 45,
+      "number": 47,
       "human_verified": false,
       "reading_status_this_revision": "INHERITED_WITH_SELECTED_RECHECKS",
       "version_citation": "",
@@ -1032,7 +1067,7 @@
         "note": "reading_notes/C4N08_MCGRAPH_CN.md",
         "reading_batch": "FOLLOWUP_02"
       },
-      "number": 46,
+      "number": 48,
       "human_verified": false,
       "reading_status_this_revision": "INHERITED_WITH_SELECTED_RECHECKS",
       "version_citation": "",
@@ -1055,7 +1090,7 @@
         "evidence_origin": "既有登记与阅读记录沿用，未重复计数",
         "human_verified": "False"
       },
-      "number": 47,
+      "number": 49,
       "human_verified": false,
       "reading_status_this_revision": "INHERITED_WITH_SELECTED_RECHECKS",
       "version_citation": "",
@@ -1078,7 +1113,7 @@
         "evidence_origin": "本轮原文正文阅读",
         "human_verified": "False"
       },
-      "number": 48,
+      "number": 50,
       "human_verified": false,
       "reading_status_this_revision": "INHERITED_WITH_SELECTED_RECHECKS",
       "version_citation": "",
@@ -1101,7 +1136,7 @@
         "evidence_origin": "既有登记与阅读记录沿用，未重复计数",
         "human_verified": "False"
       },
-      "number": 49,
+      "number": 51,
       "human_verified": false,
       "reading_status_this_revision": "INHERITED_WITH_SELECTED_RECHECKS",
       "version_citation": "作者稿：arXiv:2206.02910v2.",
@@ -1125,7 +1160,7 @@
         "human_verified": "false",
         "verification_scope_this_revision": "V359 expression editing and inherited-record consistency only; no new full-text reading, experiment, formal-version pairing or human final verification."
       },
-      "number": 50,
+      "number": 52,
       "human_verified": false,
       "reading_status_this_revision": "INHERITED_WITH_SELECTED_RECHECKS",
       "version_citation": "",
@@ -1148,7 +1183,7 @@
         "evidence_origin": "既有登记与阅读记录沿用，未重复计数",
         "human_verified": "False"
       },
-      "number": 51,
+      "number": 53,
       "human_verified": false,
       "reading_status_this_revision": "INHERITED_WITH_SELECTED_RECHECKS",
       "version_citation": "",
@@ -1172,7 +1207,7 @@
         "human_verified": "false",
         "verification_scope_this_revision": "V359 expression editing and inherited-record consistency only; no new full-text reading, experiment, formal-version pairing or human final verification."
       },
-      "number": 52,
+      "number": 54,
       "human_verified": false,
       "reading_status_this_revision": "INHERITED_WITH_SELECTED_RECHECKS",
       "version_citation": "",
@@ -1196,7 +1231,7 @@
         "human_verified": "false",
         "verification_scope_this_revision": "V359 expression editing and inherited-record consistency only; no new full-text reading, experiment, formal-version pairing or human final verification."
       },
-      "number": 53,
+      "number": 55,
       "human_verified": false,
       "reading_status_this_revision": "INHERITED_WITH_SELECTED_RECHECKS",
       "version_citation": "",
@@ -1220,7 +1255,7 @@
         "human_verified": "false",
         "verification_scope_this_revision": "V359 expression editing and inherited-record consistency only; no new full-text reading, experiment, formal-version pairing or human final verification."
       },
-      "number": 54,
+      "number": 56,
       "human_verified": false,
       "reading_status_this_revision": "INHERITED_WITH_SELECTED_RECHECKS",
       "version_citation": "",
@@ -1244,7 +1279,7 @@
         "human_verified": "false",
         "verification_scope_this_revision": "V359 expression editing and inherited-record consistency only; no new full-text reading, experiment, formal-version pairing or human final verification."
       },
-      "number": 55,
+      "number": 57,
       "human_verified": false,
       "reading_status_this_revision": "INHERITED_WITH_SELECTED_RECHECKS",
       "version_citation": "",
@@ -1268,7 +1303,7 @@
         "human_verified": "false",
         "verification_scope_this_revision": "V359 expression editing and inherited-record consistency only; no new full-text reading, experiment, formal-version pairing or human final verification."
       },
-      "number": 56,
+      "number": 58,
       "human_verified": false,
       "reading_status_this_revision": "INHERITED_WITH_SELECTED_RECHECKS",
       "version_citation": "",
@@ -1292,7 +1327,7 @@
         "human_verified": "false",
         "verification_scope_this_revision": "V359 expression editing and inherited-record consistency only; no new full-text reading, experiment, formal-version pairing or human final verification."
       },
-      "number": 57,
+      "number": 59,
       "human_verified": false,
       "reading_status_this_revision": "INHERITED_WITH_SELECTED_RECHECKS",
       "version_citation": "作者稿：arXiv:2103.08962v1.",
@@ -1315,7 +1350,7 @@
         "evidence_origin": "本轮原文正文阅读",
         "human_verified": "False"
       },
-      "number": 58,
+      "number": 60,
       "human_verified": false,
       "reading_status_this_revision": "INHERITED_WITH_SELECTED_RECHECKS",
       "version_citation": "",
@@ -1326,7 +1361,7 @@
       "reference": "Mahfouz A, Gaias G, Dalla Vedova F, Voos H. Low-thrust under-actuated satellite formation guidance and control strategies. Acta Astronautica, 2025, 232: 405–423. DOI: 10.1016/j.actaastro.2025.02.048.",
       "actual_version": "Publisher-layout PDF from university repository; 19 pages",
       "metadata_origin": "B15/READING_S021_CN.md",
-      "number": 59,
+      "number": 61,
       "human_verified": false,
       "reading_status_this_revision": "INHERITED_WITH_SELECTED_RECHECKS",
       "version_citation": "",
@@ -1350,7 +1385,7 @@
         "human_verified": "false",
         "verification_scope_this_revision": "V359 expression editing and inherited-record consistency only; no new full-text reading, experiment, formal-version pairing or human final verification."
       },
-      "number": 60,
+      "number": 62,
       "human_verified": false,
       "reading_status_this_revision": "INHERITED_WITH_SELECTED_RECHECKS",
       "version_citation": "",
@@ -1374,7 +1409,7 @@
         "human_verified": "false",
         "verification_scope_this_revision": "V359 expression editing and inherited-record consistency only; no new full-text reading, experiment, formal-version pairing or human final verification."
       },
-      "number": 61,
+      "number": 63,
       "human_verified": false,
       "reading_status_this_revision": "INHERITED_WITH_SELECTED_RECHECKS",
       "version_citation": "",
@@ -1398,7 +1433,7 @@
         "human_verified": "false",
         "verification_scope_this_revision": "V359 expression editing and inherited-record consistency only; no new full-text reading, experiment, formal-version pairing or human final verification."
       },
-      "number": 62,
+      "number": 64,
       "human_verified": false,
       "reading_status_this_revision": "INHERITED_WITH_SELECTED_RECHECKS",
       "version_citation": "",
@@ -1439,7 +1474,7 @@
         "note": "reading_notes/C4N10_XU_CN.md",
         "reading_batch": "FOLLOWUP_02"
       },
-      "number": 63,
+      "number": 65,
       "human_verified": false,
       "reading_status_this_revision": "INHERITED_WITH_SELECTED_RECHECKS",
       "version_citation": "",
@@ -1478,7 +1513,7 @@
         "note": "reading_notes/C4N03_ART_CN.md",
         "reading_batch": "INITIAL_01"
       },
-      "number": 64,
+      "number": 66,
       "human_verified": false,
       "reading_status_this_revision": "INHERITED_WITH_SELECTED_RECHECKS",
       "version_citation": "",
@@ -1517,7 +1552,7 @@
         "note": "reading_notes/C4N04_TMPC_CN.md",
         "reading_batch": "INITIAL_01"
       },
-      "number": 65,
+      "number": 67,
       "human_verified": false,
       "reading_status_this_revision": "INHERITED_WITH_SELECTED_RECHECKS",
       "version_citation": "作者稿：arXiv:2410.23916v1.",
@@ -1557,7 +1592,7 @@
         "note": "reading_notes/C4N07_RMPC_CN.md",
         "reading_batch": "INITIAL_01"
       },
-      "number": 66,
+      "number": 68,
       "human_verified": false,
       "reading_status_this_revision": "INHERITED_WITH_SELECTED_RECHECKS",
       "version_citation": "",
@@ -1596,7 +1631,7 @@
         "note": "reading_notes/C4N05_RART_CN.md",
         "reading_batch": "INITIAL_01"
       },
-      "number": 67,
+      "number": 69,
       "human_verified": false,
       "reading_status_this_revision": "INHERITED_WITH_SELECTED_RECHECKS",
       "version_citation": "",
@@ -1619,7 +1654,7 @@
         "evidence_origin": "既有登记与阅读记录沿用，未重复计数",
         "human_verified": "False"
       },
-      "number": 68,
+      "number": 70,
       "human_verified": false,
       "reading_status_this_revision": "INHERITED_WITH_SELECTED_RECHECKS",
       "version_citation": "",
@@ -1642,7 +1677,7 @@
         "evidence_origin": "既有登记与阅读记录沿用，未重复计数",
         "human_verified": "False"
       },
-      "number": 69,
+      "number": 71,
       "human_verified": false,
       "reading_status_this_revision": "INHERITED_WITH_SELECTED_RECHECKS",
       "version_citation": "",
@@ -1683,7 +1718,7 @@
         "note": "reading_notes/C4N09_SCALA_CN.md",
         "reading_batch": "FOLLOWUP_02"
       },
-      "number": 70,
+      "number": 72,
       "human_verified": false,
       "reading_status_this_revision": "INHERITED_WITH_SELECTED_RECHECKS",
       "version_citation": "作者稿：arXiv:2202.03998v1.",
@@ -1707,7 +1742,7 @@
         "human_verified": "false",
         "verification_scope_this_revision": "V359 expression editing and inherited-record consistency only; no new full-text reading, experiment, formal-version pairing or human final verification."
       },
-      "number": 71,
+      "number": 73,
       "human_verified": false,
       "reading_status_this_revision": "INHERITED_WITH_SELECTED_RECHECKS",
       "version_citation": "作者接受稿。",
@@ -1731,7 +1766,7 @@
         "human_verified": "false",
         "verification_scope_this_revision": "V359 expression editing and inherited-record consistency only; no new full-text reading, experiment, formal-version pairing or human final verification."
       },
-      "number": 72,
+      "number": 74,
       "human_verified": false,
       "reading_status_this_revision": "INHERITED_WITH_SELECTED_RECHECKS",
       "version_citation": "",
@@ -1755,7 +1790,7 @@
         "human_verified": "false",
         "verification_scope_this_revision": "V359 expression editing and inherited-record consistency only; no new full-text reading, experiment, formal-version pairing or human final verification."
       },
-      "number": 73,
+      "number": 75,
       "human_verified": false,
       "reading_status_this_revision": "INHERITED_WITH_SELECTED_RECHECKS",
       "version_citation": "",
@@ -1779,11 +1814,13 @@
         "human_verified": "false",
         "verification_scope_this_revision": "V359 expression editing and inherited-record consistency only; no new full-text reading, experiment, formal-version pairing or human final verification."
       },
-      "number": 74,
+      "number": 76,
       "human_verified": false,
       "reading_status_this_revision": "INHERITED_WITH_SELECTED_RECHECKS",
       "version_citation": "",
       "actual_source_url": "https://arxiv.org/pdf/2309.16698v1"
     }
-  ]
+  ],
+  "minor_revision_parent": "d3fba9ab05d98af84157473037902c44b2c24671",
+  "bibliographic_only_additions": 2
 }

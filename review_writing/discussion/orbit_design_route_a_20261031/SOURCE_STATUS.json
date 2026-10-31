@@ -3,8 +3,8 @@
   "base_commit": "cae915dca984075a2c6e6d89f12d83ff50d807ca",
   "human_verified": false,
   "submission_ready": false,
-  "chinese_text_frozen": false,
-  "new_adopted_sources": 2,
+  "chinese_text_frozen": true,
+  "new_adopted_sources": 4,
   "new_complete_paper_readings": 0,
   "new_targeted_body_readings": 2,
   "sources": [
@@ -31,35 +31,51 @@
       ],
       "status": "TARGETED_BODY_READ_AND_ADOPTED",
       "human_verified": false
+    },
+    {
+      "id": "RA03_WALKER_1970",
+      "url": "https://apps.dtic.mil/sti/citations/AD0722776",
+      "status": "BIBLIOGRAPHIC_ORIGIN_ONLY_FULL_TEXT_UNAVAILABLE",
+      "human_verified": false,
+      "local_pdf": null,
+      "reading_scope": "Historical bibliographic attribution only; no newly adopted method formula or performance result"
+    },
+    {
+      "id": "RA04_LUDERS_1961",
+      "url": "https://doi.org/10.2514/8.5422",
+      "status": "BIBLIOGRAPHIC_ORIGIN_ONLY_FULL_TEXT_UNAVAILABLE",
+      "human_verified": false,
+      "local_pdf": null,
+      "reading_scope": "Historical bibliographic attribution only; no newly adopted method formula or performance result"
     }
   ],
   "inherited_status_policy": "Prior HOLD, RESERVE, full-text gaps and formal-version-pairing gaps remain unchanged.",
   "v3510_text_matches_fixed_commit": true,
-  "unique_references": 74,
+  "unique_references": 76,
   "inherited_references_retained": 72,
   "engineering_case_groups": {
     "Planet": [
-      31,
-      48
+      33,
+      50
     ],
     "EO-1": [
-      33,
-      73
+      35,
+      75
     ],
     "S-NET": [
-      34
+      36
     ],
     "NanoFF": [
-      68
+      70
     ],
     "Starling": [
-      69
+      71
     ],
     "Remote Agent": [
-      72
+      74
     ],
     "VISORS": [
-      74
+      76
     ]
   },
   "engineering_case_group_count": 7,
@@ -70,5 +86,10 @@
     "../orbit_design_reframing_20261028/",
     "../../research/orbit_mission_r2_20261027/",
     "../../research/chapter4_orbit_decision_20261028/"
-  ]
+  ],
+  "new_bibliographic_only_sources": 2,
+  "chinese_scientific_content_frozen": true,
+  "freeze_scope": "Chinese scientific scope, argument and conclusions after the three requested minor revisions; source verification may require factual corrections. Figures, English full text and submission formatting remain separate work.",
+  "freeze_basis": "User review of d3fba9a explicitly allowed Chinese scientific-content freeze after the three minor revisions; see MINOR_REVISION_NOTES_CN.md for implementation and limits.",
+  "minor_revision_parent": "d3fba9ab05d98af84157473037902c44b2c24671"
 }

@@ -1,0 +1,19 @@
+{
+  "date": "2026-10-31",
+  "base_commit": "d3fba9ab05d98af84157473037902c44b2c24671",
+  "scope": "three targeted revisions and source-role check",
+  "chinese_and_english_abstracts_unchanged": true,
+  "sections_4_2_through_4_5_unchanged": true,
+  "table4_four_numeric_notes_unchanged": true,
+  "previous_74_references_retained": true,
+  "references_current": 76,
+  "references_renumbered_in_first_appearance_order": true,
+  "new_historical_origin_entries": 2,
+  "new_complete_body_readings": 0,
+  "new_original_fulltexts_obtained": 0,
+  "mortari_original_rechecked": true,
+  "classic_metadata_checked": true,
+  "classic_fulltext_gaps_retained": true,
+  "human_verified": false,
+  "submission_ready": false
+}

@@ -8,7 +8,7 @@ Mortari D. *Flower Constellations as Rigid Objects in Space*. Acta Futura, 2:7�
 
 - 来源：[ESA原始PDF](https://www.esa.int/gsp/ACT/doc/ACTAFUTURA/AF02/papers/AF02.2006.7.pdf)。16页；作者出版目录用于核对年份和页码。
 - 定向阅读：物理页1—6，关于相容轨道、旋转参考系及相位组织；后部应用和结论用于确认专题综述定位。中间部分未按完整精读口径逐页重读。
-- 采用：作为构型设计专题综述进入1.2及表1；在2.3解释Flower相容轨道及共同旋转系轨迹。
+- 采用：在1.2及表1用于构型理论及进展阐述；在2.3解释Flower相容轨道及共同旋转系轨迹。三项小修已将表1原称“专题综述”调整为“构型理论代表研究”，角色核对见`MINOR_REVISION_EVIDENCE_CN.md`。
 - 不采用：不将该文作为Walker、覆盖方法全部历史的完整综述，也不采用其前景表述作为任务性能实证。
 
 ## Arnas与Linares，2021，arXiv:2110.07823v1
