@@ -1,0 +1,173 @@
+[
+  {
+    "reference_number": 12,
+    "source_url": "https://api.crossref.org/works/10.1109/TAES.1980.308932",
+    "DOI": "10.1109/taes.1980.308932",
+    "title": [
+      "Rosette Constellations of Earth Satellites"
+    ],
+    "container-title": [
+      "IEEE Transactions on Aerospace and Electronic Systems"
+    ],
+    "volume": "AES-16",
+    "issue": "5",
+    "page": "656-673",
+    "published-print": {
+      "date-parts": [
+        [
+          1980,
+          9
+        ]
+      ]
+    },
+    "published-online": null,
+    "metadata_retrieved": true,
+    "human_verified": false,
+    "formal_text_paired": false,
+    "checked_on": "2026-11-01"
+  },
+  {
+    "reference_number": 38,
+    "source_url": "https://api.crossref.org/works/10.2514/1.6346",
+    "DOI": "10.2514/1.6346",
+    "title": [
+      "Staged Deployment of Communications Satellite Constellations in Low Earth Orbit"
+    ],
+    "container-title": [
+      "Journal of Aerospace Computing, Information, and Communication"
+    ],
+    "volume": "1",
+    "issue": "3",
+    "page": "119-136",
+    "published-print": {
+      "date-parts": [
+        [
+          2004,
+          3
+        ]
+      ]
+    },
+    "published-online": null,
+    "metadata_retrieved": true,
+    "human_verified": false,
+    "formal_text_paired": false,
+    "checked_on": "2026-11-01"
+  },
+  {
+    "reference_number": 5,
+    "source_url": "https://strathprints.strath.ac.uk/69138/",
+    "metadata_retrieved": true,
+    "checked_on": "2026-11-01",
+    "title": [
+      "General perturbation method for satellite constellation reconfiguration using low-thrust maneuvers"
+    ],
+    "volume": "42",
+    "issue": "8",
+    "page": "1676-1692",
+    "publication_year": 2019,
+    "retrieval_note": "Crossref returned 429; author-institution repository supplied matching metadata.",
+    "human_verified": false,
+    "formal_text_paired": false
+  },
+  {
+    "reference_number": 34,
+    "source_url": "https://api.crossref.org/works/10.2514/1.G007208",
+    "DOI": "10.2514/1.g007208",
+    "title": [
+      "Non-Self-Intersecting Trajectories and Their Applications to Satellite Constellation Design and Orbital Capacity"
+    ],
+    "container-title": [
+      "Journal of Guidance, Control, and Dynamics"
+    ],
+    "volume": "46",
+    "issue": "3",
+    "page": "417-430",
+    "published-print": {
+      "date-parts": [
+        [
+          2023,
+          3
+        ]
+      ]
+    },
+    "published-online": null,
+    "metadata_retrieved": true,
+    "human_verified": false,
+    "formal_text_paired": false,
+    "checked_on": "2026-11-01"
+  },
+  {
+    "reference_number": 36,
+    "source_url": "https://api.crossref.org/works/10.1016/j.asr.2022.07.055",
+    "DOI": "10.1016/j.asr.2022.07.055",
+    "title": [
+      "Analytical model for collision probability assessments with large satellite constellations"
+    ],
+    "container-title": [
+      "Advances in Space Research"
+    ],
+    "volume": "72",
+    "issue": "7",
+    "page": "2515-2534",
+    "published-print": {
+      "date-parts": [
+        [
+          2023,
+          10
+        ]
+      ]
+    },
+    "published-online": null,
+    "metadata_retrieved": true,
+    "human_verified": false,
+    "formal_text_paired": false,
+    "checked_on": "2026-11-01"
+  },
+  {
+    "reference_number": 46,
+    "source_url": "https://api.crossref.org/works/10.2514/1.G006514",
+    "DOI": "10.2514/1.g006514",
+    "title": [
+      "Uniform Satellite Constellation Reconfiguration"
+    ],
+    "container-title": [
+      "Journal of Guidance, Control, and Dynamics"
+    ],
+    "volume": "45",
+    "issue": "7",
+    "page": "1241-1254",
+    "published-print": {
+      "date-parts": [
+        [
+          2022,
+          7
+        ]
+      ]
+    },
+    "published-online": null,
+    "metadata_retrieved": true,
+    "human_verified": false,
+    "formal_text_paired": false,
+    "checked_on": "2026-11-01"
+  },
+  {
+    "reference_number": 38,
+    "source_url": "https://www.mit.edu/~deweck/research_files/comsats_2004_001_v10/Unit4%20Staged%20Deployment/JACIC_stageddeploy_aspublished.pdf",
+    "scope": "原文首页摘要，期刊p119；确认按需求分阶段增发并重构已有在轨星座。不采用新的性能数值，不计全文精读。",
+    "human_verified": false
+  },
+  {
+    "reference_number": 78,
+    "source_url": "https://arxiv.org/abs/2310.13831v1",
+    "scope": "摘要确认Autonomous Rendezvous Transformer缩写；不以摘要替代已有2024会议稿结果的正文依据。",
+    "human_verified": false
+  },
+  {
+    "reference_number": 77,
+    "source_url": "https://www.sciopen.com/local/article_pdf/10.34133/space.0047.pdf",
+    "scope": "定向复核pp8–10：随机初态六脉冲对照与二十脉冲SQP热启动属于不同设置。",
+    "original_pdf_sha256": "a0283b4aa76d18a58e803a43fbe65763de8f35c51619a5e69ec8b88be89d91ae",
+    "reading_record": "../../research/chapter4_orbit_decision_20261028/reading_notes/C4N10_XU_CN.md",
+    "human_verified": false
+  }
+]

@@ -1,0 +1,26 @@
+{
+  "document_id": "orbit-design-synthesis-refinement-20261101",
+  "document": "REVIEW_ROUTE_A_CN.md",
+  "base_commit": "35363921b69b02a39a681b54084cc77b45d00de7",
+  "input_import_commit": "bd4a038ea1c1a0d406737759d8ae7a075f1b3794",
+  "input_patch_email_commit": "5a8e4ee0debe96f6f886f3070584f0776a9dbb01",
+  "input_patch_sha256": "a8d957f7a2cdba17bc4ff5bd83f40dd2d7d97f723a4ded2c7065ba6b6547c816",
+  "input_identity_note": "Patch imported as data using git apply; email commit metadata was not used as publication instructions.",
+  "human_verified": false,
+  "submission_ready": false,
+  "chinese_scientific_content_frozen": false,
+  "reference_count": 89,
+  "sources_added_this_revision": 0,
+  "new_full_text_reads_this_revision": 0,
+  "targeted_checks": "TARGETED_SOURCE_CHECKS.json",
+  "inherited_source_status": "../cja_text_revision_20261101/SOURCE_STATUS.json",
+  "preserved_holds": [
+    "Walker 1984 and Flower 2004 original-text locations",
+    "De Vittori formal/preprint content pairing",
+    "Zhao geometric comparison thresholds",
+    "Hu numeric comparability",
+    "Seong table-image verification",
+    "Other inherited full-text and formal-version gaps"
+  ],
+  "revision_scope": "Incoming synthesis edits plus localized scope/experiment corrections; abstracts, formulas and numeric table notes preserved."
+}

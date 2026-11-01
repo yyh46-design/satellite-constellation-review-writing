@@ -4,9 +4,9 @@
 
 ## 当前讨论稿（2026-11-01）
 
-[《面向任务需求的大型卫星星座轨道设计与运行决策综述》完整稿](review_writing/discussion/cja_text_revision_20261101/REVIEW_ROUTE_A_CN.md)包含中英文摘要、五章正文、五张表和89项参考文献。主线为任务需求、构型与动力学、有限控制下的轨道行动，以及任务资源和执行反馈。
+[《面向任务需求的大型卫星星座轨道设计与运行决策综述》完整稿](review_writing/discussion/synthesis_refinement_20261101/REVIEW_ROUTE_A_CN.md)包含中英文摘要、五章正文、五张表和89项参考文献。主线为任务需求、构型与动力学、有限控制下的轨道行动，以及任务资源和执行反馈。本次综合论述精修重点收束第5章、合并1.2定位、明确4.3学习方法的分工。
 
-[版本入口与记录](review_writing/discussion/cja_text_revision_20261101/README.md)提供修订说明、旧稿与新稿文献对应、来源状态和检查结果；[下一轮精修重点](review_writing/discussion/cja_text_revision_20261101/REMAINING_REFINEMENTS_CN.md)列出结论收束、引言重复、学习方法比较及书目收尾建议。
+[当前版本入口与记录](review_writing/discussion/synthesis_refinement_20261101/README.md)提供修订说明、引用重编号、来源状态和检查结果。[上一版及其精修建议](review_writing/discussion/cja_text_revision_20261101/README.md)保持原样，供对照。
 
 本版为待作者确认的扩展讨论稿，`human_verified=false`、`submission_ready=false`。[76项来源Route A基线](review_writing/discussion/orbit_design_route_a_20261031/REVIEW_ROUTE_A_CN.md)与V3.5.10保留原样。
 

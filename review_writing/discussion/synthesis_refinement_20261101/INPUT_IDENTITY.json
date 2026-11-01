@@ -1,0 +1,7 @@
+{
+  "normalization": "UTF-8 with LF newlines",
+  "import_commit": "bd4a038ea1c1a0d406737759d8ae7a075f1b3794",
+  "input_manuscript_lf_utf8_sha256": "852a5701b9ea7493cbb7531ed677f683263969c9c5837b2952f3743ab1049060",
+  "input_notes_lf_utf8_sha256": "c5b614d861ed9fd20a6595f77d9e1008ef05488830c6eaa58658d7b870129faf",
+  "base_manuscript_lf_utf8_sha256": "625559238d76240aa89452272091b1af0015f205b8ecc85a967320d32ace2f29"
+}

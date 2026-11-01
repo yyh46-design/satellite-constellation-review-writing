@@ -1,0 +1,46 @@
+{
+  "result": "PASS",
+  "reference_count": 89,
+  "renumbering": {
+    "79": 80,
+    "80": 81,
+    "81": 79
+  },
+  "updated_bibliographic_entries": [
+    5,
+    34,
+    36,
+    38,
+    46
+  ],
+  "abstracts_and_keywords_unchanged": true,
+  "per_section_reference_sets_preserved": true,
+  "first_use_sequential": true,
+  "formulas_preserved": 2,
+  "numeric_table_notes_preserved": 5,
+  "all_table_contents_preserved_except_declared_expansion": true,
+  "conclusion_conditions_preserved": true,
+  "reference_register_matches": true,
+  "han_counts": {
+    "## 1.2 相关研究与本文定位": {
+      "old": 1307,
+      "new": 1147
+    },
+    "## 4.3 动态更新与学习辅助决策": {
+      "old": 1748,
+      "new": 2011
+    },
+    "# 5 结论与展望": {
+      "old": 1667,
+      "new": 1518
+    }
+  },
+  "whole_body_han": {
+    "old": 24348,
+    "new": 24372
+  },
+  "manuscript_lf_utf8_sha256": "cf86aa6f420227118e42a1629992fc74fbd8bd9a2ef14803b01234c682238b14",
+  "human_verified": false,
+  "submission_ready": false,
+  "scope": "Structure, preservation and recorded source mapping; not complete scientific verification."
+}
