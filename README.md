@@ -1,8 +1,16 @@
 # 大型卫星星座智能管理与调度综述
 
-本仓库保存综述稿件、文献整理与证据记录。写作分支为[writing/constellation-management-review-20261009](https://github.com/yyh46-design/satellite-constellation-review-writing/tree/writing/constellation-management-review-20261009)。
+本仓库保存综述稿件、文献整理与证据记录。当前轨道设计方向的讨论稿保存在[writing/constellation-review-orbit-design-reframing-20261028](https://github.com/yyh46-design/satellite-constellation-review-writing/tree/writing/constellation-review-orbit-design-reframing-20261028)分支。
 
-## 当前稿件与GPT接手入口（2026-10-13）
+## 当前讨论稿（2026-11-01）
+
+[《面向任务需求的大型卫星星座轨道设计与运行决策综述》完整稿](review_writing/discussion/cja_text_revision_20261101/REVIEW_ROUTE_A_CN.md)包含中英文摘要、五章正文、五张表和89项参考文献。主线为任务需求、构型与动力学、有限控制下的轨道行动，以及任务资源和执行反馈。
+
+[版本入口与记录](review_writing/discussion/cja_text_revision_20261101/README.md)提供修订说明、旧稿与新稿文献对应、来源状态和检查结果；[下一轮精修重点](review_writing/discussion/cja_text_revision_20261101/REMAINING_REFINEMENTS_CN.md)列出结论收束、引言重复、学习方法比较及书目收尾建议。
+
+本版为待作者确认的扩展讨论稿，`human_verified=false`、`submission_ready=false`。[76项来源Route A基线](review_writing/discussion/orbit_design_route_a_20261031/REVIEW_ROUTE_A_CN.md)与V3.5.10保留原样。
+
+## 历史稿件与GPT接手入口（2026-10-13）
 
 1. [给GPT的剩余核查与改稿任务](review_writing/manuscripts/v1.6/GPT_NEXT_STEPS_v1.6.md)：先关闭文献与版本缺口，再完善贡献、篇幅图表、完整英文稿及期刊适配。
 2. [v1.6完整中文主稿](review_writing/manuscripts/v1.6/REVIEW_MAIN_DRAFT_v1.6.md)：5章、9张表、121项实际引用（111项学术来源、10项工程资料）。

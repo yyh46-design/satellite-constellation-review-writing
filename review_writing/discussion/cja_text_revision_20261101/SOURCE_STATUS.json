@@ -1,0 +1,27 @@
+{
+  "document_id": "orbit-design-route-a-dialogue-20261101",
+  "document": "REVIEW_ROUTE_A_CN.md",
+  "stage": "discussion_revision",
+  "human_verified": false,
+  "submission_ready": false,
+  "chinese_scientific_content_frozen": false,
+  "freeze_status": "AUTHOR_CONFIRMATION_PENDING_FOR_EXPANDED_89_SOURCE_REVISION",
+  "baseline_freeze_policy": "原76项Route A稿及其冻结记录保持原样，本扩展稿不自动继承冻结。",
+  "base_commit": "e7a51b679be88271b8ed2cbd96c16c658fd603b2",
+  "base_tree": "292996475ccc645f1368d4ad3bec566361513c9f",
+  "user_patch": {
+    "filename": "cja-text-revision-20261101.patch",
+    "sha256": "475986dbea212fe8af6bfa940ad3e17f13cb42be26a8e06c6c081d4c04bb8507",
+    "email_patch_commit": "c123ddef69d7019cd221879d485770f9f987356f",
+    "identity_note": "Input identity only; not a claim of a merged Git commit."
+  },
+  "reference_count": 89,
+  "inherited_reference_count": 76,
+  "added_reference_count": 13,
+  "new_original_full_text_reads_this_publication": 0,
+  "inherited_status_record": "../orbit_design_route_a_20261031/SOURCE_STATUS.json",
+  "inherited_status_policy": "既有全文缺口、正式版配对、HOLD、RESERVE及反例全部保留。",
+  "adoption_status_note": "Zhao与Hu仅采用机制；原数值与比较问题保持保留状态。详见REFERENCE_REGISTER.json。",
+  "remaining_work": "REMAINING_REFINEMENTS_CN.md",
+  "publication_scope": "完整讨论稿、输入快照、修订说明和机械检查；无新图件、英文全文或期刊合规认定。"
+}
