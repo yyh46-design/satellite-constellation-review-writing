@@ -1,0 +1,34 @@
+{
+  "baseline_commit": "5443af406380d55e5daee8b057b1993069b5a087",
+  "baseline_path": "review_writing/discussion/synthesis_refinement_20261101/REVIEW_ROUTE_A_CN.md",
+  "reference_count": 93,
+  "baseline_references_retained": 89,
+  "reused_v10_sources": [
+    {
+      "v10": 108,
+      "current": 64,
+      "citation": "Morgan D, Chung SJ, Hadaegh FY. Model Predictive Control of Swarms of Spacecraft Using Sequential Convex Programming. Journal of Guidance, Control, and Dynamics, 2014, 37(6): 1725–1740. DOI: 10.2514/1.G000218."
+    },
+    {
+      "v10": 109,
+      "current": 62,
+      "citation": "Gavilan F, Vazquez R, Camacho EF. Chance-constrained model predictive control for spacecraft rendezvous with disturbance estimation. Control Engineering Practice, 2012, 20(2): 111–122. DOI: 10.1016/j.conengprac.2011.09.006."
+    },
+    {
+      "v10": 71,
+      "current": 78,
+      "citation": "Valicka CG, Garcia D, Staid A, Watson JP, Hackebeil G, Rathinam S, et al. Mixed-integer programming models for optimal constellation scheduling given cloud cover uncertainty. European Journal of Operational Research, 2019, 275(2): 431–445. DOI: 10.1016/j.ejor.2018.11.043."
+    },
+    {
+      "v10": 42,
+      "current": 77,
+      "citation": "Wang X, Song G, Leus R, Han C. Robust Earth Observation Satellite Scheduling With Uncertainty of Cloud Coverage. IEEE Transactions on Aerospace and Electronic Systems, 2020, 56(3): 2450–2461. DOI: 10.1109/TAES.2019.2947978."
+    }
+  ],
+  "new_candidate_full_text_reads": 0,
+  "new_candidates_cited": 0,
+  "human_verified": false,
+  "submission_ready": false,
+  "source_policy": "Inherited source versions and all prior holds retained; old targeted reading reused; Gavilan relevant passages revisited.",
+  "inherited_status": "../synthesis_refinement_20261101/SOURCE_STATUS.json"
+}

@@ -2,7 +2,15 @@
 
 本仓库保存综述稿件、文献整理与证据记录。当前轨道设计方向的讨论稿保存在[writing/constellation-review-orbit-design-reframing-20261028](https://github.com/yyh46-design/satellite-constellation-review-writing/tree/writing/constellation-review-orbit-design-reframing-20261028)分支。
 
-## 当前讨论稿（2026-11-01）
+## 最新主线与闭环运行修订稿（2026-11-01）
+
+[最新主线讨论记录](review_writing/discussion/closed_loop_mainline_20261101/MAINLINE_DECISION_CN.md)：在任务需求变化和运行状态不确定性的影响下，大型卫星星座如何通过轨道设计、任务规划与反馈控制的协同，持续满足任务要求？
+
+[五章修订全文](review_writing/discussion/closed_loop_mainline_20261101/REVIEW_CN_CLOSED_LOOP_V1.md)保留轨道构型与动力学基础，补充反馈控制、动态规划和智能方法分工。当前为93项参考文献、五张表、两条公式；四项补回来源来自v10既有阅读记录。新检索候选留在[补读计划](review_writing/discussion/closed_loop_mainline_20261101/READING_PLAN_CN.md)，尚未作为正文证据。
+
+[修订说明与检查入口](review_writing/discussion/closed_loop_mainline_20261101/README.md)。本版待作者评阅，human_verified=false，submission_ready=false。原稿保持不变。
+
+## 上一版综合论述稿（2026-11-01）
 
 [《面向任务需求的大型卫星星座轨道设计与运行决策综述》完整稿](review_writing/discussion/synthesis_refinement_20261101/REVIEW_ROUTE_A_CN.md)包含中英文摘要、五章正文、五张表和89项参考文献。主线为任务需求、构型与动力学、有限控制下的轨道行动，以及任务资源和执行反馈。本次综合论述精修重点收束第5章、合并1.2定位、明确4.3学习方法的分工。
 

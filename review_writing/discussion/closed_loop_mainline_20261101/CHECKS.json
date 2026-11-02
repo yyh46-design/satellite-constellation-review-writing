@@ -1,0 +1,20 @@
+{
+  "status": "PASS",
+  "checks": {
+    "five_chapters": true,
+    "references_93": true,
+    "all_references_cited_in_first_use_order": true,
+    "baseline_89_references_preserved": true,
+    "two_equations_unchanged": true,
+    "five_tables_preserved_except_citation_and_section_numbers": true,
+    "five_numeric_notes_preserved": true,
+    "baseline_content_unchanged": true,
+    "no_unread_new_candidates_cited": true,
+    "new_mainline_present": true,
+    "no_broken_citation_tokens": true
+  },
+  "characters": 59038,
+  "sha256_lf_utf8": "0036556d3a773ee32a78a1a52ef786fe70afde2003c013b240b25566c657fde5",
+  "human_verified": false,
+  "submission_ready": false
+}
