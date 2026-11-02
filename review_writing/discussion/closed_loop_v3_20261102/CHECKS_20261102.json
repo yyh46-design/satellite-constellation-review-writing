@@ -1,0 +1,17 @@
+{
+  "checks": {
+    "first_use_order": true,
+    "105_references": true,
+    "five_chapters": true,
+    "six_tables": true,
+    "original_104_bibliographic_texts_preserved": true,
+    "chapters_2_to_5_unchanged_except_terms_and_citations": true,
+    "equations_preserved": true,
+    "dated_2026_operator_count": true,
+    "legacy_category_terms_removed": true
+  },
+  "status": "PASS",
+  "sha256": "764bdebd5406595651c982066e7867fb4db669e4ce2c5d2071ea1971682c3ef8",
+  "human_verified": false,
+  "submission_ready": false
+}

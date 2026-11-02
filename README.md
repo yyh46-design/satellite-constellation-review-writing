@@ -2,7 +2,11 @@
 
 本仓库保存综述稿件、文献整理与证据记录。当前轨道设计方向的讨论稿保存在[writing/constellation-review-orbit-design-reframing-20261028](https://github.com/yyh46-design/satellite-constellation-review-writing/tree/writing/constellation-review-orbit-design-reframing-20261028)分支。
 
-## 最新主线与闭环运行修订稿（2026-11-01）
+## 当前正文（2026-11-02）
+
+[当前完整稿：摘要与第一章精修](review_writing/discussion/closed_loop_v3_20261102/REVIEW_CN_CLOSED_LOOP_V3.1.md)。主线统一为构型设计、轨道控制与任务规划；105条参考文献、六张表、两条公式。引言采用2026-10-06的Starlink运营方规模信息。来源核验限制与修订范围见[本轮说明](review_writing/discussion/closed_loop_v3_20261102/REVISION_20261102_CN.md)。
+
+## 上一轮主线与闭环运行修订稿（2026-11-01）
 
 [最新主线讨论记录](review_writing/discussion/closed_loop_mainline_20261101/MAINLINE_DECISION_CN.md)：在任务需求变化和运行状态不确定性的影响下，大型卫星星座如何通过轨道设计、任务规划与反馈控制的协同，持续满足任务要求？
 
