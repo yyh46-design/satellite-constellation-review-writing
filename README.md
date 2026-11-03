@@ -2,9 +2,11 @@
 
 本仓库保存综述稿件、文献整理与证据记录。当前轨道设计方向的讨论稿保存在[writing/constellation-review-orbit-design-reframing-20261028](https://github.com/yyh46-design/satellite-constellation-review-writing/tree/writing/constellation-review-orbit-design-reframing-20261028)分支。
 
-## 当前正文（2026-11-02）
+## 当前正文（2026-11-03）
 
-[当前完整稿：摘要与第一章精修](review_writing/discussion/closed_loop_v3_20261102/REVIEW_CN_CLOSED_LOOP_V3.1.md)。主线统一为构型设计、轨道控制与任务规划；105条参考文献、六张表、两条公式。引言采用2026-10-06的Starlink运营方规模信息。来源核验限制与修订范围见[本轮说明](review_writing/discussion/closed_loop_v3_20261102/REVISION_20261102_CN.md)。
+[当前完整稿：第一、二章综述语气精修](review_writing/discussion/closed_loop_v3_20261102/REVIEW_CN_CLOSED_LOOP_V3.2.md)。保留105条参考文献、六张表、两条公式；补全覆盖与重访指标对照，减少规定性表述，梳理构型表示与运行约束。摘要、第三至第五章及书目沿用V3.1。[修订说明](review_writing/discussion/closed_loop_v3_20261102/REVISION_20261103_CN.md)。
+
+[上一版：摘要与第一章精修](review_writing/discussion/closed_loop_v3_20261102/REVIEW_CN_CLOSED_LOOP_V3.1.md)及[来源核验说明](review_writing/discussion/closed_loop_v3_20261102/REVISION_20261102_CN.md)保留。引言中的Starlink规模采用2026-10-06运营方信息，不作本轮更新。
 
 ## 上一轮主线与闭环运行修订稿（2026-11-01）
 

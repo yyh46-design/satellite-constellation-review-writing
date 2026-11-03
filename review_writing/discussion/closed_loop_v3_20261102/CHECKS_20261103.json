@@ -1,0 +1,54 @@
+{
+  "base_commit": "de1e7812c5c14451bb05c2fbd4ff7fa6ed1d841b",
+  "checks": {
+    "abstract_and_frontmatter_unchanged": true,
+    "chapters_3_to_5_and_references_unchanged": true,
+    "reference_entries_105": true,
+    "citations_first_use_order": true,
+    "chapter1_citation_set_preserved": true,
+    "chapter2_citation_set_preserved": true,
+    "five_chapters": true,
+    "six_tables": true,
+    "two_equations_unchanged": true,
+    "williams_full_comparison": true,
+    "normal_inplane_mechanism": true,
+    "deployment_numbers_in_chapter3": true,
+    "altitude_range_in_table6": true,
+    "chapter2_old_quantities_retained_globally": true
+  },
+  "chapter2_counts": {
+    "remote_v31": {
+      "chinese_characters": 4617,
+      "需要": 9,
+      "需": 26,
+      "应": 19,
+      "评价": 12
+    },
+    "revised_v32": {
+      "chinese_characters": 3580,
+      "需要": 1,
+      "需": 8,
+      "应": 9,
+      "评价": 8
+    }
+  },
+  "chapter1_counts": {
+    "remote_v31": {
+      "chinese_characters": 2481,
+      "需要": 8,
+      "需": 15,
+      "应": 3,
+      "评价": 6
+    },
+    "revised_v32": {
+      "chinese_characters": 2399,
+      "需要": 0,
+      "需": 5,
+      "应": 3,
+      "评价": 1
+    }
+  },
+  "sha256": "ba42e0e57f6def9725d67e41b9c302f09915b4f4b8af1cde18524c5823c50adc",
+  "human_verified": false,
+  "submission_ready": false
+}
