@@ -4,9 +4,11 @@
 
 ## 当前正文（2026-11-03）
 
-[当前完整稿：第一、二章综述语气精修](review_writing/discussion/closed_loop_v3_20261102/REVIEW_CN_CLOSED_LOOP_V3.2.md)。保留105条参考文献、六张表、两条公式；补全覆盖与重访指标对照，减少规定性表述，梳理构型表示与运行约束。摘要、第三至第五章及书目沿用V3.1。[修订说明](review_writing/discussion/closed_loop_v3_20261102/REVISION_20261103_CN.md)。
+[当前完整稿：第一至第三章整合V3.3](review_writing/discussion/integrated_ch123_20261103/REVIEW_CN_INTEGRATED_V3.3.md)。采用第一、二章确认稿和第三章最终修订，保留中英文摘要及第四、五章，统一引用编号。104条实际引用、六张表、两条公式；图1与图2待绘制。
 
-[上一版：摘要与第一章精修](review_writing/discussion/closed_loop_v3_20261102/REVIEW_CN_CLOSED_LOOP_V3.1.md)及[来源核验说明](review_writing/discussion/closed_loop_v3_20261102/REVISION_20261102_CN.md)保留。引言中的Starlink规模采用2026-10-06运营方信息，不作本轮更新。
+[摘要至第三章连续阅读版](review_writing/discussion/integrated_ch123_20261103/ABSTRACT_CH1_CH3_CN.md) · [整合说明](review_writing/discussion/integrated_ch123_20261103/INTEGRATION_NOTES_CN.md) · [检查结果](review_writing/discussion/integrated_ch123_20261103/CHECKS.json)。
+
+[上一版V3.2](review_writing/discussion/closed_loop_v3_20261102/REVIEW_CN_CLOSED_LOOP_V3.2.md)与[第一、二章确认稿](review_writing/discussion/chapters_confirmed_20261103/CH1_CH2_CONFIRMED.md)均保留。
 
 ## 上一轮主线与闭环运行修订稿（2026-11-01）
 

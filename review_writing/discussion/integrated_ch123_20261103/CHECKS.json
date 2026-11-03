@@ -1,0 +1,19 @@
+{
+  "checks": {
+    "five_chapters": true,
+    "six_tables": true,
+    "two_equations": true,
+    "abstracts_unchanged": true,
+    "ch12_only_citation_changes": true,
+    "ch45_only_citation_changes": true,
+    "ch3_citation_set_preserved": true,
+    "three_authorized_edits_applied": true,
+    "all_references_used": true,
+    "only_unused_old_reference_2_removed": true,
+    "first_appearance_order": true
+  },
+  "reference_count": 104,
+  "sha256": "dec040e3c62664b89eabbbbe9fae514b5de1440bb3cf058e98c7b3add5308626",
+  "human_verified": false,
+  "submission_ready": false
+}
