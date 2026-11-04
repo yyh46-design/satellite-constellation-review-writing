@@ -1,5 +1,14 @@
 # 大型卫星星座智能管理与调度综述：写作工作区
 
+## 2026-11-04 当前采用版本（以此为准）
+
+当前采用的完整中文稿是 [discussion/assembled_v3.4_20261104/REVIEW_CN_V3.4.md](discussion/assembled_v3.4_20261104/REVIEW_CN_V3.4.md)。
+
+- **组成：** V3.3的摘要和第一至三章（已冻结），加上作者确认的第四、五章定稿；参考文献104条。详见该目录的[README_CN.md](discussion/assembled_v3.4_20261104/README_CN.md)。
+- **待处理：** 摘要重写、引用编号统一重排、若干待核句子，统一列在[待处理意见](discussion/integrated_ch123_20261103/PENDING_REVIEW_NOTES_CN.md)中。
+- **其他稿件：** 下方v1.6、V3.3及更早的全文均为历史材料，不再作为当前稿修改。
+
+
 ## 2026-10-13更新：先阅读当前稿件包
 
 当前中文主稿、核心文献核验及GPT接手任务已集中到[manuscripts/v1.6/](manuscripts/v1.6/README.md)。
